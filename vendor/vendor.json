@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Ydh4bz1JdjeC/yYZVMteAiG31Cg=",
+			"path": "github.com/elgs/gojq",
+			"revision": "81fa9a608a130323eaf4b4fc00224f7a467ffbd1",
+			"revisionTime": "2016-04-21T19:40:50Z"
+		},
+		{
+			"checksumSHA1": "i/fTPHBqMA+Iy7M26Kpnv11tWuo=",
+			"path": "github.com/elgs/gosplitargs",
+			"revision": "e9cf3de21e146ace7f4a8a42af3d51caf7fe2f3b",
+			"revisionTime": "2016-04-06T21:23:39Z"
+		},
+		{
+			"checksumSHA1": "Nob3kwBt5l7dRzKvwJTIDcHhuxY=",
+			"path": "github.com/elgs/jsonql",
+			"revision": "7146bdb05a1e395106204d45100e4d19eed3b62c",
+			"revisionTime": "2016-06-20T19:23:57Z"
+		}
+	],
+	"rootPath": "comic"
+}
