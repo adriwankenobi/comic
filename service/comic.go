@@ -9,7 +9,6 @@ import (
     "os"
     "os/signal"
     "io/ioutil"
-    //"strconv"
 )
 
 const (
@@ -332,7 +331,7 @@ func (c *ComicList) ToJson() ([]byte, error) {
 
 func CreateFolders(f, path string) error {
 	// Open file
-	/*xls, err := xlsx.OpenFile(f)
+	xls, err := xlsx.OpenFile(f)
     if err != nil {
         return err
     }
@@ -341,28 +340,10 @@ func CreateFolders(f, path string) error {
     phaseFiles, err := ioutil.ReadDir(path)
 	if err != nil {
 		return err
-	}*/
-    
-    // Add 0 to left in all folders
-		//starter, _ := getCode(sheet_i+5) // Edit swift
-		//phaseFolderName := fmt.Sprintf("%v - %s", starter, sheet.Name)
-		phaseFolderNameFull := fmt.Sprintf("%s/test", path)
-		fmt.Println(phaseFolderNameFull)
-		files, err := ioutil.ReadDir(phaseFolderNameFull)
-		fmt.Println(err)
-		for i, file := range files {
-    		if file.IsDir() {
-    			//newName, _ := strconv.Atoi(file.Name()[:3])
-    			//newName = newName + 11
-    			newName, _ := getCode(i+101)
-    			//os.Rename(fmt.Sprintf("%s/%s", phaseFolderNameFull, file.Name()), fmt.Sprintf("%s/0%s", phaseFolderNameFull, file.Name()))
-	    		//fmt.Printf("%s -> %s\n", fmt.Sprintf("%s/%s", phaseFolderNameFull, file.Name()), fmt.Sprintf("%s/%v", phaseFolderNameFull, newName))
-	    		os.Rename(fmt.Sprintf("%s/%s", phaseFolderNameFull, file.Name()), fmt.Sprintf("%s/%v", phaseFolderNameFull, newName))
-    		}
-    	}
+	}
 		
     // Loop through file sheets
-    /*for sheet_i, sheet := range xls.Sheets {
+    for sheet_i, sheet := range xls.Sheets {
 		// Get starter code
 		starter, err := getCode(sheet_i+1)
 		if err != nil {
@@ -481,7 +462,7 @@ func CreateFolders(f, path string) error {
 				}
 			}
 	    }
-    }*/
+    }
 		    		
 	return nil
 }
@@ -498,190 +479,3 @@ func getCode(i int) (string, error) {
 	}
 	return fmt.Sprintf("%v", i), nil
 }
-
-func getCodeTmp(i int) string {
-	if i < 10 {
-		return fmt.Sprintf("0%v", i)
-	}
-	return fmt.Sprintf("%v", i)
-}
-
-/*func (c *ComicList) WriteXLS(f string) error {
-	fmt.Printf("Writing file in %s\n", f)
-	return nil
-}*/
-
-/*var defstyle *xlsx.Style
-var headerstyle *xlsx.Style
-var yesstyle *xlsx.Style
-var nostyle *xlsx.Style
-
-func init() {
-	defstyle = xlsx.NewStyle()
-	defstyle.Font = *(xlsx.NewFont(11, "Calibri"))
-	headerstyle = xlsx.NewStyle()
-	headerstyle.Font = *(xlsx.NewFont(11, "Calibri"))
-	headerstyle.Fill = *(xlsx.NewFill("solid", "FFFF00", "FFFF00"))
-	yesstyle = xlsx.NewStyle()
-	yesstyle.Font = *(xlsx.NewFont(11, "Calibri"))
-	yesstyle.Fill = *(xlsx.NewFill("solid", "00B050", "00B050"))
-	nostyle = xlsx.NewStyle()
-	nostyle.Font = *(xlsx.NewFont(11, "Calibri"))
-	nostyle.Fill = *(xlsx.NewFill("solid", "FF0000", "FF0000"))
-}
-
-func NewCell(row *xlsx.Row, style *xlsx.Style, value string) *xlsx.Cell {
-    cell := row.AddCell()
-	cell.SetString(value)
-	cell.SetStyle(style)
-	return cell
-}
-
-func NewCellInt(row *xlsx.Row, style *xlsx.Style, value int) *xlsx.Cell {
-    cell := row.AddCell()
-	cell.SetInt(value)
-	cell.SetStyle(style)
-	return cell
-}
-
-func NewComicListFromXLSX2(path string) (string, error) {
-	xls, err := xlsx.OpenFile(path)
-    if err != nil {
-        return "", err
-    }
-    
-    xls2 := xlsx.NewFile()
-    
-    
-    var event string
-    for _, sheet := range xls.Sheets[1:] {
-    	sheet2, _ := xls2.AddSheet(sheet.Name)
-    	
-    	row2 := sheet2.AddRow()
-	    NewCell(row2, headerstyle, "ID")
-	    NewCell(row2, headerstyle, "Collection")
-	    NewCell(row2, headerstyle, "Vol")
-	    NewCell(row2, headerstyle, "Num")
-	    NewCell(row2, headerstyle, "Title")
-	    NewCell(row2, headerstyle, "Date")
-	    NewCell(row2, headerstyle, "Event")
-	    NewCell(row2, headerstyle, "Characters")
-	    NewCell(row2, headerstyle, "Creators")
-	    NewCell(row2, headerstyle, "Pic")
-	    NewCell(row2, headerstyle, "Universe")
-	    NewCell(row2, headerstyle, "Essential")
-	    NewCell(row2, headerstyle, "Comments")
-	    sheet2.Col(1).Width = 40.40
-	    sheet2.Col(4).Width = 28.20
-	    sheet2.Col(12).Width = 27.80
-    	for _, row := range sheet.Rows[6:] {
-    		collection, err := row.Cells[0].String()
-    		if err != nil {
-    			return "", err
-    		}
-			if collection != "" {
-	    		if collection[:7] == "EVENT: " {
-	    			event = collection[7:len(collection)]
-	    			continue
-	    		}
-	    		if collection[:5] == "PART " {
-	    			continue
-	    		}
-	    		if event != "" {
-	    			if collection[:3] == " - " {
-		    			collection = collection[3:len(collection)]
-	    			} else {
-	    				event = ""
-	    			}
-	    		}
-	    		title, err := row.Cells[1].String()
-	    		if err != nil {
-	    			return "", err
-	    		}
-	    		essential, err := row.Cells[2].String()
-	    		if err != nil {
-	    			return "", err
-	    		}
-	    		var comments string
-	    		if len(row.Cells) > 3 {
-		    		comments, err = row.Cells[3].String()
-		    		if err != nil {
-		    			return "", err
-		    		}
-	    		}
-	    		
-	    		splited := strings.Split(collection, " ")
-	    		vol := 1
-	    		for i, s := range splited {
-	    			if s == "vol" {
-	    				vol, _ = strconv.Atoi(splited[i+1])
-	    				splited = append(splited[:i], splited[i+2:]...)
-	    				collection = strings.Join(splited, " ")
-	    				break
-	    			}
-	    		}
-	    		
-	    		splited = strings.Split(collection, " ")
-	    		first := -99
-	    		last := -99
-	    		for i, s := range splited {
-	    			matched, _ := regexp.MatchString("[0-9]+-[0-9]+", s)
-	    			if matched {
-	    				splited = append(splited[:i], splited[i+1:]...)
-	    				collection = strings.Join(splited, " ")
-	    				splited2 := strings.Split(s, "-")
-	    				first, _ = strconv.Atoi(splited2[0])
-	    				last, _ = strconv.Atoi(splited2[1])
-	    				break
-	    			}
-	    		}
-	    		
-	    		style := row.Cells[0].GetStyle()
-	    		if first == -99 && last == -99 {
-	    			num, _ := strconv.Atoi(splited[len(splited)-1])
-		    		row2 = sheet2.AddRow()
-		    		NewCell(row2, defstyle, "")
-				    NewCell(row2, style, collection)				    
-				    NewCellInt(row2, style, vol)
-				    NewCellInt(row2, style, num)
-				    NewCell(row2, style, title)
-				    NewCell(row2, defstyle, "")
-				    NewCell(row2, defstyle, event)
-				    NewCell(row2, defstyle, "")
-				    NewCell(row2, defstyle, "")
-				    NewCell(row2, defstyle, "")
-				    NewCell(row2, defstyle, "Earth-616")
-				    if essential == "YES" {
-					    NewCell(row2, yesstyle, essential)
-				    } else {
-				    	NewCell(row2, nostyle, essential)
-				    }
-				    NewCell(row2, defstyle, comments)
-	    		} else {
-	    			for j := first; j <= last; j++ {
-		    			row2 = sheet2.AddRow()
-			    		NewCell(row2, defstyle, "")
-					    NewCell(row2, style, collection)
-					    NewCellInt(row2, style, vol)
-					    NewCellInt(row2, style, j)
-					    NewCell(row2, style, title)
-					    NewCell(row2, defstyle, "")
-					    NewCell(row2, defstyle, event)
-					    NewCell(row2, defstyle, "")
-					    NewCell(row2, defstyle, "")
-					    NewCell(row2, defstyle, "")
-					    NewCell(row2, defstyle, "Earth-616")
-					    if essential == "YES" {
-						    NewCell(row2, yesstyle, essential)
-					    } else {
-					    	NewCell(row2, nostyle, essential)
-					    }
-					    NewCell(row2, defstyle, comments)
-		    		}
-	    		}
-			}
-    	}
-    }
-    _ = xls2.Save("marvel2.xlsx")
-    return "ok", nil
-}*/
