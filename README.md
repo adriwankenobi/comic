@@ -33,5 +33,5 @@ Get MARVEL API key pair from:
 	
 ### (6) Test queries
 
-	curl -XGET -i localhost:8080?q=<query>
-	curl -XGET -i http://<project_id>.appspot.com?q=<query>
+	curl -XGET -i localhost:8080/api?q=<query>
+	curl -XGET -i http://<project_id>.appspot.com/api?q=<query>
