@@ -1,0 +1,74 @@
+runtime: go
+api_version: go1
+
+handlers:
+- url: /(.*\.css)
+  mime_type: text/css
+  static_files: static/\1
+  upload: static/(.*\.css)
+  
+- url: /(.*\.map)
+  static_files: static/\1
+  upload: static/(.*\.map)
+  
+- url: /(.*\.html)
+  mime_type: text/html
+  static_files: static/\1
+  upload: static/(.*\.html)
+ 
+- url: /(.*\.js)
+  mime_type: text/javascript
+  static_files: static/\1
+  upload: static/(.*\.js)
+ 
+- url: /(.*\.txt)
+  mime_type: text/plain
+  static_files: static/\1
+  upload: static/(.*\.txt)
+ 
+- url: /(.*\.xml)
+  mime_type: application/xml
+  static_files: static/\1
+  upload: static/(.*\.xml)
+
+- url: /(.*\.woff)
+  static_files: static/\1
+  upload: static/(.*\.woff)
+
+- url: /(.*\.woff2)
+  static_files: static/\1
+  upload: static/(.*\.woff2)
+
+- url: /(.*\.ttf)
+  static_files: static/\1
+  upload: static/(.*\.ttf)
+  
+- url: /(.*\.svg)
+  static_files: static/\1
+  upload: static/(.*\.svg)
+  
+- url: /(.*\.eot)
+  static_files: static/\1
+  upload: static/(.*\.eot)
+  
+- url: /(.*\.otf)
+  static_files: static/\1
+  upload: static/(.*\.otf)
+  
+# image files
+- url: /(.*\.(bmp|gif|ico|jpeg|jpg|png))
+  static_files: static/\1
+  upload: static/(.*\.(bmp|gif|ico|jpeg|jpg|png))
+  
+# index files
+- url: /(.+)/
+  static_files: static/\1/index.html
+  upload: static/(.+)/index.html
+
+# site root
+- url: /
+  static_files: static/index.html
+  upload: static/index.html
+  
+- url: /.*
+  script: _go_app

@@ -16,15 +16,15 @@ Get MARVEL API key pair from:
 
 ### (3) Convert xslx file into json
 
-	go run main.go -convert -f marvel.xlsx -o api/ -oname data.json
+	go run main.go -convert -f marvel.xlsx -o web/ -oname data.json
 
 ### (4a) Deploy to local server
 
-    cd api; goapp serve 
+    cd web; goapp serve 
 
 ### (4b) Deploy to GAE
 
-    cd api; appcfg.py -A <GAE_project_id> -V <version> update .
+    cd web; appcfg.py -A <GAE_project_id> -V <version> update .
     
 ### (5) Test application
 
