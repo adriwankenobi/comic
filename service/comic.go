@@ -11,6 +11,7 @@ import (
     "io/ioutil"
 )
 
+// XLSX columns
 const (
 	id_col = 0
 	collection_col = 1
@@ -29,6 +30,7 @@ const (
 	mandatory_cols = 12
 )
 
+// Comics
 type Comic struct {
 	ID 			string	 `json:"id,omitempty"` 		   // From Marvel API
 	Collection	string	 `json:"collection"`		   // From XLSX
@@ -49,6 +51,46 @@ type Comic struct {
 }
 type ComicList []Comic
 
+func (c *Comic) ToJson() ([]byte, error) {
+	return json.MarshalIndent(c, "", "	")
+}
+
+func (c *Comic) IsEmpty() bool {
+	return c.ID == "" && c.Collection == ""
+}
+
+func (c *ComicList) ToJson() ([]byte, error) {
+	return json.MarshalIndent(c, "", "	")
+}
+
+func (c *ComicList) IsEmpty() bool {
+	return len(*c) <= 0
+}
+
+// Phases
+type Phase struct {
+	ID 		string	 `json:"id"`   // From XLSX: Generated based on sheet position
+	Name	string	 `json:"name"` // From XLSX: Generated based on sheet name
+}
+type PhaseList []Phase
+
+func (p *Phase) ToJson() ([]byte, error) {
+	return json.MarshalIndent(p, "", "	")
+}
+
+func (p *Phase) IsEmpty() bool {
+	return p.ID == "" && p.Name == ""
+}
+
+func (p *PhaseList) ToJson() ([]byte, error) {
+	return json.MarshalIndent(p, "", "	")
+}
+
+func (p *PhaseList) IsEmpty() bool {
+	return len(*p) <= 0
+}
+
+// Constructors from jsonql
 func NewComic(in interface{}) (Comic, error) {
 	m := in.(map[string]interface{})
 	c := Comic{}
@@ -103,8 +145,7 @@ func NewComic(in interface{}) (Comic, error) {
 			c.SortID = e.(string)
 			break
 			default:
-			return c, fmt.Errorf("Unknown field: %v", i)
-			
+			return c, fmt.Errorf("Unknown field: %v", i)	
 		}
 	}
 	if c.ID == "" {
@@ -113,88 +154,145 @@ func NewComic(in interface{}) (Comic, error) {
 	return c, nil
 }
 
-func NewComicList(in interface{}) (ComicList, error) {
+func NewComicList(in interface{}) (*ComicList, error) {
 	all := in.([]interface{})
     comics := make(ComicList, len(all))
 	for i, e := range all {
 		m := e.(map[string]interface{})
 		c, err := NewComic(m)
 		if err != nil {
-			return comics, err
+			return &comics, err
 		}
 		comics[i] = c
 	}
-    return comics, nil
+    return &comics, nil
 }
 
-func NewComicListFromXLSX(path string) (ComicList, error) {
+func NewStringList(in interface{}) []string {
+	all := in.([]interface{})
+    ss := make([]string, len(all))
+	for i, e := range all {
+		c := e.(string)
+		ss[i] = c
+	}
+    return ss
+}
+
+func NewPhase(in interface{}) (Phase, error) {
+	m := in.(map[string]interface{})
+	p := Phase{}
+	for i, e := range m {
+		switch i {
+			case "id": 
+			p.ID = e.(string)
+			break
+			case "name":
+			p.Name = e.(string)
+			break
+			default:
+			return p, fmt.Errorf("Unknown field: %v", i)
+		}
+	}
+	if p.ID == "" {
+		return p, fmt.Errorf("Phase doesn't contain 'id' field: %v", p)
+	}
+	return p, nil
+}
+
+func NewPhaseList(in interface{}) (*PhaseList, error) {
+	all := in.([]interface{})
+    phases := make(PhaseList, len(all))
+	for i, e := range all {
+		m := e.(map[string]interface{})
+		p, err := NewPhase(m)
+		if err != nil {
+			return &phases, err
+		}
+		phases[i] = p
+	}
+    return &phases, nil
+}
+
+// Constructors from XLSX
+func NewComicListFromXLSX(path string) (ComicList, PhaseList, error) {
 	// New comic list
 	comics := ComicList{}
+	
+	// New phase list
+	phases := PhaseList{}
 	
 	// Open file
 	xls, err := xlsx.OpenFile(path)
     if err != nil {
-        return comics, err
+        return comics, phases, err
     }
     
     // Loop through file sheets
     for sheet_i, sheet := range xls.Sheets {
+    	p := Phase{}
+    	p.ID, err = getCode(sheet_i+1)
+	    if err != nil {
+		    return comics, phases, err
+	    }
+	    p.Name = sheet.Name
+	    phases = append(phases, p)
+	    
     	lastTitle := ""
     	sortID := 0
     	for _, row := range sheet.Rows[1:] {
     		id, err := row.Cells[id_col].String()
     		if err != nil {
-    			return comics, err
+    			return comics, phases, err
     		}
 	    	collection, err := row.Cells[collection_col].String()
     		if err != nil {
-    			return comics, err
+    			return comics, phases, err
     		}
     		vol, err := row.Cells[vol_col].Int()
     		if err != nil {
-    			return comics, err
+    			return comics, phases, err
     		}
     		num, err := row.Cells[num_col].Int()
     		if err != nil {
-    			return comics, err
+    			return comics, phases, err
     		}
     		title, err := row.Cells[title_col].String()
 	    	if err != nil {
-	    		return comics, err
+	    		return comics, phases, err
 	    	}
 	    	date, err := row.Cells[date_col].String()
 	    	if err != nil {
-	    		return comics, err
+	    		return comics, phases, err
 	    	}
 	    	event, err := row.Cells[event_col].String()
 	    	if err != nil {
-	    		return comics, err
+	    		return comics, phases, err
 	    	}
 	    	characters, err := row.Cells[characters_col].String()
 	    	if err != nil {
-	    		return comics, err
+	    		return comics, phases, err
 	    	}
 	    	creators, err := row.Cells[creators_col].String()
 	    	if err != nil {
-	    		return comics, err
+	    		return comics, phases, err
 	    	}
 	    	pic, err := row.Cells[pic_col].String()
 	    	if err != nil {
-	    		return comics, err
+	    		return comics, phases, err
 	    	}
 	    	universe, err := row.Cells[universe_col].String()
 	    	if err != nil {
-	    		return comics, err
+	    		return comics, phases, err
 	    	}
 	    	essential, err := row.Cells[essential_col].String()
 	    	if err != nil {
-	    		return comics, err
+	    		return comics, phases, err
 	    	}
 	    	var comments string
 	    	if len(row.Cells) > mandatory_cols {
 		    	comments, err = row.Cells[comments_col].String()
 		    	if err != nil {
-		    		return comics, err
+		    		return comics, phases, err
 		    	}
 	    	}
 	    	c := Comic{}
@@ -211,11 +309,8 @@ func NewComicListFromXLSX(path string) (ComicList, error) {
 	    	c.Universe = universe
 	    	c.Essential = essential == "YES"
 	    	c.Comments = comments
-	    	c.PhaseID, err = getCode(sheet_i+1)
-	    	if err != nil {
-		    	return comics, err
-	    	}
-	    	c.PhaseName = sheet.Name
+	    	c.PhaseID = p.ID
+	    	c.PhaseName = p.Name
 	    	if title != lastTitle {
 	    		sortID++
 	    		lastTitle = title
@@ -224,19 +319,10 @@ func NewComicListFromXLSX(path string) (ComicList, error) {
 	    	comics = append(comics, c)
     	}
     }
-    return comics, nil
+    return comics, phases, nil
 }
 
-func NewStringList(in interface{}) []string {
-	all := in.([]interface{})
-    ss := make([]string, len(all))
-	for i, e := range all {
-		c := e.(string)
-		ss[i] = c
-	}
-    return ss
-}
-
+// Update XLSX from MARVEL API
 func UpdateXLSX(path string, start, end int, mPubKey, mPriKey string) error {
 	// Open file
 	xls, err := xlsx.OpenFile(path)
@@ -325,10 +411,7 @@ func UpdateXLSX(path string, start, end int, mPubKey, mPriKey string) error {
 	return nil
 }
 
-func (c *ComicList) ToJson() ([]byte, error) {
-	return json.MarshalIndent(c, "", "	")
-}
-
+// Create folders structure based on XLSX
 func CreateFolders(f, path string) error {
 	// Open file
 	xls, err := xlsx.OpenFile(f)
@@ -467,6 +550,7 @@ func CreateFolders(f, path string) error {
 	return nil
 }
 
+// Util
 func getCode(i int) (string, error) {
 	if i > 999 {
 		return "", fmt.Errorf("[Error] Cannot get code higer than 999")

@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"errors"
 	"github.com/adriwankenobi/comic/service"
+	"github.com/adriwankenobi/comic/web"
 	"io/ioutil"
 )
 
@@ -16,7 +17,6 @@ func main() {
 	folders := flag.Bool("folders", false, "Create folders structure")
 	f := flag.String("f", "", "XSLX file to read")
 	o := flag.String("o", "", "Path to output")
-	oName := flag.String("oname", "data.json", "Name of output file")
 	start := flag.Int("start", -1, "Start year to find comics")
 	end := flag.Int("end", -1, "End year to find comics")
 	mPubKey := flag.String("mpubkey", "", "MARVEL API public key")
@@ -27,10 +27,13 @@ func main() {
 	var errFlag error
 	
 	if *convert {
-		out, errFlag := validateConvertFlags(*f, *o, *oName)
+		out, errFlag := validateConvertFlags(*f, *o)
 		if errFlag == nil {
 			fmt.Printf("Converting from '%s' to '%s\n", *f, out)
-			err = convertXLS(*f, out)
+			err = convertXLS(*f, 
+				fmt.Sprintf("%s/%s", out, api.ComicsFile), 
+				fmt.Sprintf("%s/%s", out, api.PhasesFile),
+			)
 		}
 	}
 	
@@ -65,7 +68,7 @@ func main() {
 		
 }
 
-func validateConvertFlags(f, o, oName string) (string, error) {
+func validateConvertFlags(f, o string) (string, error) {
 	if f == "" || o == "" {
 		return "", errors.New("Input file and output path cannot be empty")
 	}
@@ -73,24 +76,31 @@ func validateConvertFlags(f, o, oName string) (string, error) {
 	if string(o[len(o)-1]) == "/" {
 		out = o[:len(o)-1]
 	}
-	out = fmt.Sprintf("%s/%s", out, oName)
 	return out, nil
 }
 
-func convertXLS(f, o string) error {
+func convertXLS(f, comicsOut, phasesOut string) error {
 	
 	// Read XLS file
-	comics, err := service.NewComicListFromXLSX(f)
+	comics, phases, err := service.NewComicListFromXLSX(f)
 	if err != nil {
 		return err
 	}
 	
-	// Write JSON file
+	// Write JSON files
 	json, err := comics.ToJson()
 	if err != nil {
 		return err
 	}
-    err = ioutil.WriteFile(o, json, 0644)
+    err = ioutil.WriteFile(comicsOut, json, 0644)
+    if err != nil {
+		return err
+	}
+    json, err = phases.ToJson()
+	if err != nil {
+		return err
+	}
+    err = ioutil.WriteFile(phasesOut, json, 0644)
     if err != nil {
 		return err
 	}
