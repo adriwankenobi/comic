@@ -231,7 +231,18 @@ ul.w3l-ratings li i ,.w3l-ratings a i{
     margin-bottom:3%;
     position: relative;
     padding-left: 0;
+    height: 325px;
 }
+
+.loading {
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
 .w3l-movie-gride-agile:nth-child(6),.w3l-movie-gride-agile:nth-child(12) {
     margin-left: 0%;
 }
