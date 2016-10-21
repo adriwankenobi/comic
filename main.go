@@ -33,6 +33,7 @@ func main() {
 			err = convertXLS(*f, 
 				fmt.Sprintf("%s/%s", out, api.ComicsFile), 
 				fmt.Sprintf("%s/%s", out, api.PhasesFile),
+				fmt.Sprintf("%s/%s", out, api.IssuesPhasesFile),
 			)
 		}
 	}
@@ -79,10 +80,10 @@ func validateConvertFlags(f, o string) (string, error) {
 	return out, nil
 }
 
-func convertXLS(f, comicsOut, phasesOut string) error {
+func convertXLS(f, comicsOut, phasesOut, issuesPhasesOut string) error {
 	
 	// Read XLS file
-	comics, phases, err := service.NewComicListFromXLSX(f)
+	comics, phases, issuesPhases, err := service.NewComicListFromXLSX(f)
 	if err != nil {
 		return err
 	}
@@ -101,6 +102,14 @@ func convertXLS(f, comicsOut, phasesOut string) error {
 		return err
 	}
     err = ioutil.WriteFile(phasesOut, json, 0644)
+    if err != nil {
+		return err
+	}
+    json, err = issuesPhases.ToJson()
+	if err != nil {
+		return err
+	}
+    err = ioutil.WriteFile(issuesPhasesOut, json, 0644)
     if err != nil {
 		return err
 	}

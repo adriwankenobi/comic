@@ -12,6 +12,7 @@ import (
 const (
 	ComicsFile = "comics.json"
 	PhasesFile = "phases.json"
+	IssuesPhasesFile = "issues-phases.json"
 )
 
 type jsonAble interface {
@@ -32,6 +33,10 @@ func init() {
     if err != nil {
         return
     }
+    issuesPhases, err := getJson(IssuesPhasesFile)
+    if err != nil {
+        return
+    }
 	
 	// Start server
 	router := httprouter.New()
@@ -39,6 +44,8 @@ func init() {
     router.GET("/api/comics/:id", elementHandle(getComic, comics))
     router.GET("/api/phases", listHandle(listPhases, phases))
     router.GET("/api/phases/:id", elementHandle(getPhase, phases))
+    router.GET("/api/issues", listHandle(listIssuesPhases, issuesPhases))
+    router.GET("/api/issues/:id", elementHandle(getIssuesPhase, issuesPhases))
     http.Handle("/", router)
 }
 
@@ -104,4 +111,12 @@ func listPhases(phases *jsonql.JSONQL) (jsonAble, error) {
 
 func getPhase(phases *jsonql.JSONQL, id string) (jsonAble, error) {
 	return service.FindPhase(phases, id)
+}
+
+func listIssuesPhases(issuesPhases *jsonql.JSONQL) (jsonAble, error) {
+	return service.ListIssuesPhases(issuesPhases)
+}
+
+func getIssuesPhase(issuesPhases *jsonql.JSONQL, id string) (jsonAble, error) {
+	return service.FindIssuesPhase(issuesPhases, id)
 }

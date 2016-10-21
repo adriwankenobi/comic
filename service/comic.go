@@ -11,6 +11,8 @@ import (
     "io/ioutil"
 )
 
+// TODO: Definitions class
+
 // XLSX columns
 const (
 	id_col = 0
@@ -33,21 +35,21 @@ const (
 // Comics
 type Comic struct {
 	ID 			string	 `json:"id,omitempty"` 		   // From Marvel API
-	Collection	string	 `json:"collection"`		   // From XLSX
-	Title 		string	 `json:"title"`				   // From XLSX
-	Vol 		int	 	 `json:"vol"`				   // From XLSX
-	Num 		int	 	 `json:"num"`				   // From XLSX
+	Collection	string	 `json:"collection,omitempty"` // From XLSX
+	Title 		string	 `json:"title,omitempty"`	   // From XLSX
+	Vol 		int	 	 `json:"vol,omitempty"`		   // From XLSX
+	Num 		int	 	 `json:"num,omitempty"`		   // From XLSX
 	Date 		string	 `json:"date,omitempty"` 	   // From Marvel API
 	Event		string	 `json:"event,omitempty"`	   // From XLSX
 	Characters 	[]string `json:"characters,omitempty"` // From Marvel API
 	Creators   	[]string `json:"creators,omitempty"`   // From Marvel API
 	Pic 		string   `json:"pic,omitempty"` 	   // From Marvel API
-	Universe	string	 `json:"universe"`			   // From XLSX
-	Essential	bool	 `json:"essential"`			   // From XLSX
+	Universe	string	 `json:"universe,omitempty"`   // From XLSX
+	Essential	bool	 `json:"essential,omitempty"`  // From XLSX
 	Comments	string	 `json:"comments,omitempty"`   // From XLSX
-	PhaseID 	string	 `json:"phase-id"`			   // From XLSX: Generated based on sheet position
-	PhaseName 	string	 `json:"phase-name"`		   // From XLSX: Generated based on sheet name
-	SortID 		string 	 `json:"sort-id"`			   // From XLSX: Generated based on row position
+	PhaseID 	string	 `json:"phase-id,omitempty"`   // From XLSX: Generated based on sheet position
+	PhaseName 	string	 `json:"phase-name,omitempty"` // From XLSX: Generated based on sheet name
+	SortID 		string 	 `json:"sort-id,omitempty"`	   // From XLSX: Generated based on row position
 }
 type ComicList []Comic
 
@@ -69,8 +71,8 @@ func (c *ComicList) IsEmpty() bool {
 
 // Phases
 type Phase struct {
-	ID 		string	 `json:"id"`   // From XLSX: Generated based on sheet position
-	Name	string	 `json:"name"` // From XLSX: Generated based on sheet name
+	ID 		string	  `json:"id"`
+	Name	string	  `json:"name"`
 }
 type PhaseList []Phase
 
@@ -88,6 +90,29 @@ func (p *PhaseList) ToJson() ([]byte, error) {
 
 func (p *PhaseList) IsEmpty() bool {
 	return len(*p) <= 0
+}
+
+// First issues
+type IssuesPhase struct {
+	Phase 	Phase	  `json:"phase"`
+	List	ComicList `json:"list,omitempty"`
+}
+type IssuesPhaseList []IssuesPhase
+
+func (i *IssuesPhase) ToJson() ([]byte, error) {
+	return json.MarshalIndent(i, "", "	")
+}
+
+func (i *IssuesPhase) IsEmpty() bool {
+	return i.Phase.IsEmpty() && i.List.IsEmpty()
+}
+
+func (i *IssuesPhaseList) ToJson() ([]byte, error) {
+	return json.MarshalIndent(i, "", "	")
+}
+
+func (i *IssuesPhaseList) IsEmpty() bool {
+	return len(*i) <= 0
 }
 
 // Constructors from jsonql
@@ -147,9 +172,6 @@ func NewComic(in interface{}) (Comic, error) {
 			default:
 			return c, fmt.Errorf("Unknown field: %v", i)	
 		}
-	}
-	if c.ID == "" {
-		return c, fmt.Errorf("Comic doesn't contain 'id' field: %v", c)
 	}
 	return c, nil
 }
@@ -213,18 +235,61 @@ func NewPhaseList(in interface{}) (*PhaseList, error) {
     return &phases, nil
 }
 
+func NewIssuesPhase(in interface{}) (IssuesPhase, error) {
+	m := in.(map[string]interface{})
+	is := IssuesPhase{}
+	for i, e := range m {
+		switch i {
+			case "phase": 
+			phase, err := NewPhase(e)
+			if err != nil {
+				return is, err
+			}
+			is.Phase = phase
+			break
+			case "list":
+			list, err := NewComicList(e)
+			if err != nil {
+				return is, err
+			}
+			is.List = *list
+			break
+			default:
+			return is, fmt.Errorf("Unknown field: %v", i)
+		}
+	}
+	return is, nil
+}
+
+func NewIssuesPhaseList(in interface{}) (*IssuesPhaseList, error) {
+	all := in.([]interface{})
+    issuesPhases := make(IssuesPhaseList, len(all))
+	for i, e := range all {
+		m := e.(map[string]interface{})
+		is, err := NewIssuesPhase(m)
+		if err != nil {
+			return &issuesPhases, err
+		}
+		issuesPhases[i] = is
+	}
+    return &issuesPhases, nil
+}
+
 // Constructors from XLSX
-func NewComicListFromXLSX(path string) (ComicList, PhaseList, error) {
+func NewComicListFromXLSX(path string) (ComicList, PhaseList, IssuesPhaseList, error) {
 	// New comic list
 	comics := ComicList{}
 	
 	// New phase list
 	phases := PhaseList{}
 	
+	// New issues phase list
+	issuesPhases := IssuesPhaseList{}
+	
 	// Open file
 	xls, err := xlsx.OpenFile(path)
     if err != nil {
-        return comics, phases, err
+        return comics, phases, issuesPhases, err
     }
     
     // Loop through file sheets
@@ -232,67 +297,71 @@ func NewComicListFromXLSX(path string) (ComicList, PhaseList, error) {
     	p := Phase{}
     	p.ID, err = getCode(sheet_i+1)
 	    if err != nil {
-		    return comics, phases, err
+		    return comics, phases, issuesPhases, err
 	    }
 	    p.Name = sheet.Name
 	    phases = append(phases, p)
+	    
+	    i := IssuesPhase{}
+	    i.Phase = p
+	    i.List = ComicList{}
 	    
     	lastTitle := ""
     	sortID := 0
     	for _, row := range sheet.Rows[1:] {
     		id, err := row.Cells[id_col].String()
     		if err != nil {
-    			return comics, phases, err
+    			return comics, phases, issuesPhases, err
     		}
 	    	collection, err := row.Cells[collection_col].String()
     		if err != nil {
-    			return comics, phases, err
+    			return comics, phases, issuesPhases, err
     		}
     		vol, err := row.Cells[vol_col].Int()
     		if err != nil {
-    			return comics, phases, err
+    			return comics, phases, issuesPhases, err
     		}
     		num, err := row.Cells[num_col].Int()
     		if err != nil {
-    			return comics, phases, err
+    			return comics, phases, issuesPhases, err
     		}
     		title, err := row.Cells[title_col].String()
 	    	if err != nil {
-	    		return comics, phases, err
+	    		return comics, phases, issuesPhases, err
 	    	}
 	    	date, err := row.Cells[date_col].String()
 	    	if err != nil {
-	    		return comics, phases, err
+	    		return comics, phases, issuesPhases, err
 	    	}
 	    	event, err := row.Cells[event_col].String()
 	    	if err != nil {
-	    		return comics, phases, err
+	    		return comics, phases, issuesPhases, err
 	    	}
 	    	characters, err := row.Cells[characters_col].String()
 	    	if err != nil {
-	    		return comics, phases, err
+	    		return comics, phases, issuesPhases, err
 	    	}
 	    	creators, err := row.Cells[creators_col].String()
 	    	if err != nil {
-	    		return comics, phases, err
+	    		return comics, phases, issuesPhases, err
 	    	}
 	    	pic, err := row.Cells[pic_col].String()
 	    	if err != nil {
-	    		return comics, phases, err
+	    		return comics, phases, issuesPhases, err
 	    	}
 	    	universe, err := row.Cells[universe_col].String()
 	    	if err != nil {
-	    		return comics, phases, err
+	    		return comics, phases, issuesPhases, err
 	    	}
 	    	essential, err := row.Cells[essential_col].String()
 	    	if err != nil {
-	    		return comics, phases, err
+	    		return comics, phases, issuesPhases, err
 	    	}
 	    	var comments string
 	    	if len(row.Cells) > mandatory_cols {
 		    	comments, err = row.Cells[comments_col].String()
 		    	if err != nil {
-		    		return comics, phases, err
+		    		return comics, phases, issuesPhases, err
 		    	}
 	    	}
 	    	c := Comic{}
@@ -313,13 +382,16 @@ func NewComicListFromXLSX(path string) (ComicList, PhaseList, error) {
 	    	c.PhaseName = p.Name
 	    	if title != lastTitle {
 	    		sortID++
-	    		lastTitle = title
+	    		lastTitle = title	    		
+	    		i.List = append(i.List, Comic{Pic: pic, Title: title, Date: date})
 	    	}
 	    	c.SortID = fmt.Sprint(sortID)
 	    	comics = append(comics, c)
     	}
+    	
+    	issuesPhases = append(issuesPhases, i)
     }
-    return comics, phases, nil
+    return comics, phases, issuesPhases, nil
 }
 
 // Update XLSX from MARVEL API
