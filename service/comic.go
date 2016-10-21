@@ -47,9 +47,9 @@ type Comic struct {
 	Universe	string	 `json:"universe,omitempty"`   // From XLSX
 	Essential	bool	 `json:"essential,omitempty"`  // From XLSX
 	Comments	string	 `json:"comments,omitempty"`   // From XLSX
-	PhaseID 	string	 `json:"phase-id,omitempty"`   // From XLSX: Generated based on sheet position
-	PhaseName 	string	 `json:"phase-name,omitempty"` // From XLSX: Generated based on sheet name
-	SortID 		string 	 `json:"sort-id,omitempty"`	   // From XLSX: Generated based on row position
+	PhaseID 	string	 `json:"phaseid,omitempty"`   // From XLSX: Generated based on sheet position
+	PhaseName 	string	 `json:"phasename,omitempty"` // From XLSX: Generated based on sheet name
+	SortID 		string 	 `json:"sortid,omitempty"`	   // From XLSX: Generated based on row position
 }
 type ComicList []Comic
 
@@ -160,13 +160,13 @@ func NewComic(in interface{}) (Comic, error) {
 			case "comments":
 			c.Comments = e.(string)
 			break
-			case "phase-id":
+			case "phaseid":
 			c.PhaseID = e.(string)
 			break
-			case "phase-name":
+			case "phasename":
 			c.PhaseName = e.(string)
 			break
-			case "sort-id":
+			case "sortid":
 			c.SortID = e.(string)
 			break
 			default:
@@ -383,7 +383,12 @@ func NewComicListFromXLSX(path string) (ComicList, PhaseList, IssuesPhaseList, e
 	    	if title != lastTitle {
 	    		sortID++
 	    		lastTitle = title	    		
-	    		i.List = append(i.List, Comic{Pic: pic, Title: title, Date: date})
+	    		i.List = append(i.List, Comic{
+					Pic: pic, 
+					Title: title,
+					Date: date,
+					SortID: fmt.Sprint(sortID),
+	    		})
 	    	}
 	    	c.SortID = fmt.Sprint(sortID)
 	    	comics = append(comics, c)

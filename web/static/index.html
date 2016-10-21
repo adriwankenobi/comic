@@ -79,12 +79,12 @@ $.getJSON( "api/issues", function( phases ) {
 		$.each( val.list, function( key, val ) {
 			// Add div
 			$("<div class=\"col-md-2 w3l-movie-gride-agile\">" +
-			  	"<a href=\"single.html\" class=\"hvr-shutter-out-horizontal\">" +
+			  	"<a href=\"issue.html?p=" + phaseid + "&s=" + val.sortid + "\" class=\"hvr-shutter-out-horizontal\">" +
 			 			"<img src=\"" + val.pic + "\" title=\"" + val.title + "\" class=\"img-responsive\" alt=\" \" />" +
 				"</a>" +
 				"<div class=\"mid-1 agileits_w3layouts_mid_1_home\">" +
 					"<div class=\"w3l-movie-text\">" +
-						"<h6><a href=\"single.html\">" + val.title + "</a></h6>" +							
+						"<h6><a href=\"issue.html?p=" + phaseid + "&s=" + val.sortid + "\">" + val.title + "</a></h6>" +							
 					"</div>" +
 					"<div class=\"mid-2 agile_mid_2_home\">" +
 						"<p>" + String(val.date).substring(0, 4) + "</p>" +
@@ -102,9 +102,6 @@ $.getJSON( "api/issues", function( phases ) {
 
 </script>
 <!-- //getting server data -->
-<!-- favicon -->
-<link rel='icon' type='image/x-icon' href='/favicon.ico' />
-<!-- //favicon -->
 </head>
 	
 <body>
@@ -147,7 +144,7 @@ $.getJSON( "api/issues", function( phases ) {
 					<nav>
 						<ul class="nav navbar-nav">
 							<li class="active"><a href="index.html">Home</a></li>
-							<li class="dropdown">
+							<!-- <li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Characters <b class="caret"></b></a>
 								<ul class="dropdown-menu multi-column columns-3">
 									<li>
@@ -186,7 +183,7 @@ $.getJSON( "api/issues", function( phases ) {
 									</li>
 								</ul>
 							</li>
-							<li><a href="list.html">A - Z list</a></li>
+							<li><a href="list.html">A - Z list</a></li>-->
 						</ul>
 					</nav>
 				</div>
@@ -208,7 +205,7 @@ $.getJSON( "api/issues", function( phases ) {
 				<div id="myTabContent" class="tab-content">
 					<div role="tabpanel" class="tab-pane fade active in" id="phase000" aria-labelledby="phase000-tab">
 		  				<div id="phase000-featured" class="w3_agile_featured_movies">
-		  					NOTHING FOR NOW - Click a phase to see the reading order
+		  					Click a phase to see the reading order
 		  				</div>
 		  			</div>
 				</div>
@@ -226,7 +223,7 @@ $.getJSON( "api/issues", function( phases ) {
 			</div>
 			<div class="col-md-7 w3ls_footer_grid1_right">
 				<ul>
-					<li>
+					<!--<li>
 						<a href="genres.html">Movies</a>
 					</li>
 					<li>
@@ -246,7 +243,7 @@ $.getJSON( "api/issues", function( phases ) {
 					</li>
 					<li>
 						<a href="contact.html">Contact Us</a>
-					</li>
+					</li>-->
 				</ul>
 			</div>
 			<div class="clearfix"> </div>
