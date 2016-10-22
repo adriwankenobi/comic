@@ -1,9 +1,3 @@
-<!--
-author: W3layouts
-author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,41 +6,43 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <script type="application/x-javascript">
-	
-	
 	 addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } 
-
-
 </script>
 <!-- //for-mobile-apps -->
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css"
+<link href="/css/bootstrap.css" rel="stylesheet" type="text/css"
 	media="all" />
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<link rel="stylesheet" href="css/contactstyle.css" type="text/css"
+<link href="/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/css/medile.css" rel='stylesheet' type='text/css' />
+<link href="/css/single.css" rel='stylesheet' type='text/css' />
+<link rel="stylesheet" href="/css/contactstyle.css" type="text/css"
 	media="all" />
-<link rel="stylesheet" href="css/faqstyle.css" type="text/css"
+<link rel="stylesheet" href="/css/faqstyle.css" type="text/css"
 	media="all" />
-<link href="css/single.css" rel='stylesheet' type='text/css' />
-<link href="css/medile.css" rel='stylesheet' type='text/css' />
+<!-- list-css -->
+<!-- <link rel="stylesheet" href="/list-css/list.css" type="text/css"
+	media="all" /> -->
+<!-- //list-css -->
+<link href="/css/single.css" rel='stylesheet' type='text/css' />
+<link href="/css/medile.css" rel='stylesheet' type='text/css' />
 
 <!-- pop-up -->
-<link href="css/popuo-box.css" rel="stylesheet" type="text/css"
+<link href="/css/popuo-box.css" rel="stylesheet" type="text/css"
 	media="all" />
 <!-- //pop-up -->
 <!-- font-awesome icons -->
-<link rel="stylesheet" href="css/font-awesome.min.css" />
+<link rel="stylesheet" href="/css/font-awesome.min.css" />
 <!-- //font-awesome icons -->
 <!-- js -->
-<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="/js/jquery-2.1.4.min.js"></script>
 <!-- //js -->
 
 <link
 	href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300'
 	rel='stylesheet' type='text/css'>
 <!-- start-smoth-scrolling -->
-<script type="text/javascript" src="js/move-top.js"></script>
-<script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript" src="/js/move-top.js"></script>
+<script type="text/javascript" src="/js/easing.js"></script>
 <script type="text/javascript">
 	jQuery(document).ready(function($) {
 		$(".scroll").click(function(event) {
@@ -59,115 +55,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 </script>
 <!-- start-smoth-scrolling -->
 
-<!-- loading spinner -->
-<script type="text/javascript">
-	jQuery.ajaxSetup({
-		beforeSend : function() {
-			$('#loader').show();
-		},
-		complete : function() {
-			$('#loader').hide();
-		},
-		success : function() {
-		}
-	});
-</script>
-<!-- //loading spinner -->
-
-<!-- getting server data -->
-<script type="text/javascript">
-	// Get all phases
-	$
-			.getJSON(
-					"api/fissues",
-					function(phases) {
-						// For each phase, create html elements
-						$
-								.each(
-										phases,
-										function(key, val) {
-											phaseid = val.phase.id
-											// Add tab (first one as active)
-											$(
-													"<li role=\"presentation\">"
-															+ "<a href=\"#phase" + phaseid + "\" role=\"tab\" id=\"phase" + phaseid + "-tab\" data-toggle=\"tab\" aria-controls=\"phase" + phaseid + "\" aria-expanded=\"false\">"
-															+ val.phase.name
-															+ "</a></li>")
-													.appendTo("#myTab");
-											// Add div (reserved for the comic books)
-											$(
-													"<div role=\"tabpanel\" class=\"tab-pane fade\" id=\"phase" + phaseid + "\" aria-labelledby=\"phase" + phaseid + "-tab\">"
-															+ "<div id=\"phase" + phaseid + "-featured\" class=\"w3_agile_featured_movies\"></div>"
-															+ "</div>")
-													.appendTo(".tab-content");
-											// for each first issue for this phase
-											$
-													.each(
-															val.list,
-															function(key, val) {
-																// Add div
-																$(
-																		"<div class=\"col-md-2 w3l-movie-gride-agile\">"
-																				+ "<a href=\"issue.html?p="
-																				+ phaseid
-																				+ "&s="
-																				+ val.sortid
-																				+ "\" class=\"hvr-shutter-out-horizontal\">"
-																				+ "<img src=\"" + val.pic + "\" title=\"" + val.title + "\" class=\"img-responsive\" alt=\" \" />"
-																				+ "</a>"
-																				+ "<div class=\"mid-1 agileits_w3layouts_mid_1_home\">"
-																				+ "<div class=\"w3l-movie-text\">"
-																				+ "<h6><a href=\"issue.html?p="
-																				+ phaseid
-																				+ "&s="
-																				+ val.sortid
-																				+ "\">"
-																				+ val.title
-																				+ "</a></h6>"
-																				+ "</div>"
-																				+ "<div class=\"mid-2 agile_mid_2_home\">"
-																				+ "<p>"
-																				+ String(
-																						val.date)
-																						.substring(
-																								0,
-																								4)
-																				+ "</p>"
-																				+ "<div class=\"block-stars\">"
-																				+ "Protagonist"
-																				+ "</div>"
-																				+ "<div class=\"clearfix\"></div>"
-																				+ "</div>"
-																				+ "</div>"
-																				+ "</div>")
-																		.appendTo(
-																				"#phase"
-																						+ phaseid
-																						+ "-featured");
-															});
-											$("<div class=\"clearfix\"></div>")
-													.appendTo(
-															"#phase"
-																	+ phaseid
-																	+ "-featured");
-										});
-					});
-</script>
-<!-- //getting server data -->
 </head>
 
 <body>
 	<div class="wrapper">
-		<!-- loading spinner -->
-		<img id="loader" src="images/loading.gif" title="loader"
-			class="loading" alt=" " />
-		<!-- //loading spinner -->
 
 		<!-- header -->
 		<div class="header">
 			<div class="container">
 				<div class="w3layouts_logo">
-					<a href="index.html"><h1>
+					<a href="/"><h1>
 							ACERETE<span>Comics</span>
 						</h1></a>
 				</div>
@@ -200,7 +97,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						id="bs-example-navbar-collapse-1">
 						<nav>
 							<ul class="nav navbar-nav">
-								<li class="active"><a href="index.html">All</a></li>
+								<li class="active"><a href="/">All</a></li>
 								<!-- <li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Characters <b class="caret"></b></a>
 								<ul class="dropdown-menu multi-column columns-3">
@@ -250,28 +147,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<!-- //nav -->
 
 		<!-- general -->
-		<div class="general">
-			<h4 class="latest-text w3_latest_text">Comic Books</h4>
-			<div class="container">
-				<div class="bs-example bs-example-tabs" role="tabpanel"
-					data-example-id="togglable-tabs">
-					<ul id="myTab" class="nav nav-tabs" role="tablist">
-						<li role="presentation" class="active"><a href="#phase000"
-							role="tab" id="phase000-tab" data-toggle="tab"
-							aria-controls="phase000" aria-expanded="false"> Intro </a></li>
-					</ul>
-					<div id="myTabContent" class="tab-content">
-						<div role="tabpanel" class="tab-pane fade active in" id="phase000"
-							aria-labelledby="phase000-tab">
-							<div id="phase000-featured" class="w3_agile_featured_movies">
-								Click a phase to see the reading order <img alt="Universe"
-									src="/images/universe.png" style="width: 100%;">
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+		<div class="general">%s</div>
 		<!-- //general -->
 	</div>
 
@@ -286,10 +162,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</div>
 			<div class="col-md-7 w3ls_footer_grid1_right">
 				<ul>
+					<li><a href="/">Home</a></li>
 					<!--<li>
-						<a href="genres.html">Movies</a>
-					</li>
-					<li>
 						<a href="faq.html">FAQ</a>
 					</li>
 					<li>
@@ -314,7 +188,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	</div>
 	<!-- //footer -->
 	<!-- Bootstrap Core JavaScript -->
-	<script src="js/bootstrap.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
 	<script>
 		$(document).ready(function() {
 			$(".dropdown").hover(function() {
