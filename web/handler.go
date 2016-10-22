@@ -20,8 +20,7 @@ type jsonAble interface {
     IsEmpty() bool
 }
 
-type elementHandler func(json *jsonql.JSONQL, id string) (jsonAble, error)
-type listHandler func(json *jsonql.JSONQL) (jsonAble, error)
+type handler func(json *jsonql.JSONQL, p httprouter.Params) (jsonAble, error)
 
 func init() {
 	// Read files
@@ -40,12 +39,47 @@ func init() {
 	
 	// Start server
 	router := httprouter.New()
-    router.GET("/api/comics", listHandle(listComics, comics))
-    router.GET("/api/comics/:id", elementHandle(getComic, comics))
-    router.GET("/api/phases", listHandle(listPhases, phases))
-    router.GET("/api/phases/:id", elementHandle(getPhase, phases))
-    router.GET("/api/issues", listHandle(listIssuesPhases, issuesPhases))
-    router.GET("/api/issues/:id", elementHandle(getIssuesPhase, issuesPhases))
+	
+	// Get all comics
+    router.GET("/api/comics", jsonHandle(func(comics *jsonql.JSONQL, p httprouter.Params) (jsonAble, error) {
+		return service.ListComics(comics)
+	}, comics))
+    
+    // Get this comic
+    router.GET("/api/comics/:id", jsonHandle(func(comics *jsonql.JSONQL, p httprouter.Params) (jsonAble, error) {
+		return service.FindComicByID(comics, p.ByName("id"))
+	}, comics))
+    
+    // Get all phases
+    router.GET("/api/phases", jsonHandle(func(phases *jsonql.JSONQL, p httprouter.Params) (jsonAble, error) {
+		return service.ListPhases(phases)
+	}, phases))
+    
+    // Get this phase
+    router.GET("/api/phases/:id", jsonHandle(func(phases *jsonql.JSONQL, p httprouter.Params) (jsonAble, error) {
+		return service.FindPhaseByID(phases, p.ByName("id"))
+	}, phases))
+    
+    // Get all first issues from all phases
+    router.GET("/api/fissues", jsonHandle(func(issuesPhases *jsonql.JSONQL, p httprouter.Params) (jsonAble, error) {
+		return service.ListFirstIssues(issuesPhases)
+	}, issuesPhases))
+    
+    // Get all first issues from this phase
+    router.GET("/api/fissues/:id", jsonHandle(func(issuesPhases *jsonql.JSONQL, p httprouter.Params) (jsonAble, error) {
+		return service.FindFirstIssuesByPhaseID(issuesPhases, p.ByName("id"))
+	}, issuesPhases))
+    
+    // Get all issues from this phase
+    router.GET("/api/phases/:id/issues", jsonHandle(func(comics *jsonql.JSONQL, p httprouter.Params) (jsonAble, error) {
+		return service.ListComicsByPhaseID(comics, p.ByName("id"))
+	}, comics))
+    
+    // Get all issues from this comic from this phase
+    router.GET("/api/phases/:id/issues/:sortid", jsonHandle(func(comics *jsonql.JSONQL, p httprouter.Params) (jsonAble, error) {
+		return service.ListComicsByPhaseAndSortIDs(comics, p.ByName("id"), p.ByName("sortid"))
+	}, comics))
+    
     http.Handle("/", router)
 }
 
@@ -61,17 +95,9 @@ func getJson(file string) (*jsonql.JSONQL, error) {
     return json, nil
 }
 
-func listHandle(handle listHandler, json *jsonql.JSONQL) httprouter.Handle {
+func jsonHandle(handle handler, json *jsonql.JSONQL) httprouter.Handle {
 	return func(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
-		result, err := handle(json)
-		writeResponse(w, result, err)
-	}
-}
-
-func elementHandle(handle elementHandler, json *jsonql.JSONQL) httprouter.Handle {
-	return func(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
-		id := p.ByName("id")
-		result, err := handle(json, id)
+		result, err := handle(json, p)
 		writeResponse(w, result, err)
 	}
 }
@@ -95,28 +121,4 @@ func writeResponse(w http.ResponseWriter, j jsonAble, err error) {
 	w.Header().Set("Content-Type", "application/json")
 	w.WriteHeader(http.StatusOK)
 	w.Write(bytes)
-}
-
-func listComics(comics *jsonql.JSONQL) (jsonAble, error) {
-	return service.ListComics(comics)
-}
-
-func getComic(comics *jsonql.JSONQL, id string) (jsonAble, error) {
-	return service.FindComic(comics, id)
-}
-
-func listPhases(phases *jsonql.JSONQL) (jsonAble, error) {
-	return service.ListPhases(phases)
-}
-
-func getPhase(phases *jsonql.JSONQL, id string) (jsonAble, error) {
-	return service.FindPhase(phases, id)
-}
-
-func listIssuesPhases(issuesPhases *jsonql.JSONQL) (jsonAble, error) {
-	return service.ListIssuesPhases(issuesPhases)
-}
-
-func getIssuesPhase(issuesPhases *jsonql.JSONQL, id string) (jsonAble, error) {
-	return service.FindIssuesPhase(issuesPhases, id)
 }

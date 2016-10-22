@@ -5,7 +5,7 @@ import (
 )
 
 // Find comics
-func FindComic(comics *jsonql.JSONQL, id string) (*Comic, error) {
+func FindComicByID(comics *jsonql.JSONQL, id string) (*Comic, error) {
 	list, err := FindComicList(comics, "id='" + id + "'")
 	if err != nil {
 		return &Comic{}, err
@@ -21,8 +21,16 @@ func ListComics(comics *jsonql.JSONQL) (*ComicList, error) {
 	return FindComicList(comics, "id!=''")
 }
 
+func ListComicsByPhaseID(comics *jsonql.JSONQL, id string) (*ComicList, error) {
+	return FindComicList(comics, "phaseid='" + id + "'")
+}
+
+func ListComicsByPhaseAndSortIDs(comics *jsonql.JSONQL, id, sortid string) (*ComicList, error) {
+	return FindComicList(comics, "phaseid='" + id + "' && sortid='" + sortid + "'")
+}
+
 // Find phases
-func FindPhase(phases *jsonql.JSONQL, id string) (*Phase, error) {
+func FindPhaseByID(phases *jsonql.JSONQL, id string) (*Phase, error) {
 	list, err := FindPhaseList(phases, "id='" + id + "'")
 	if err != nil {
 		return &Phase{}, err
@@ -37,8 +45,8 @@ func ListPhases(phases *jsonql.JSONQL) (*PhaseList, error) {
 	return FindPhaseList(phases, "id!=''")
 }
 
-// Find issues per phase
-func FindIssuesPhase(issuesPhases *jsonql.JSONQL, id string) (*IssuesPhase, error) {
+// Find first issues
+func FindFirstIssuesByPhaseID(issuesPhases *jsonql.JSONQL, id string) (*IssuesPhase, error) {
 	list, err := FindIssuesPhaseList(issuesPhases, "phase.id='" + id + "'")
 	if err != nil {
 		return &IssuesPhase{}, err
@@ -49,7 +57,7 @@ func FindIssuesPhase(issuesPhases *jsonql.JSONQL, id string) (*IssuesPhase, erro
 	return &(*list)[0], nil
 }
 
-func ListIssuesPhases(issuesPhases *jsonql.JSONQL) (*IssuesPhaseList, error) {
+func ListFirstIssues(issuesPhases *jsonql.JSONQL) (*IssuesPhaseList, error) {
 	return FindIssuesPhaseList(issuesPhases, "phase.id!=''")
 }
 

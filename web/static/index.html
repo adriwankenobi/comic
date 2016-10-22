@@ -11,18 +11,28 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
-		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<script type="application/x-javascript">
+	
+	
+	 addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } 
+
+
+</script>
 <!-- //for-mobile-apps -->
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css"
+	media="all" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<link rel="stylesheet" href="css/contactstyle.css" type="text/css" media="all" />
-<link rel="stylesheet" href="css/faqstyle.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/contactstyle.css" type="text/css"
+	media="all" />
+<link rel="stylesheet" href="css/faqstyle.css" type="text/css"
+	media="all" />
 <link href="css/single.css" rel='stylesheet' type='text/css' />
 <link href="css/medile.css" rel='stylesheet' type='text/css' />
 
 <!-- pop-up -->
-<link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/popuo-box.css" rel="stylesheet" type="text/css"
+	media="all" />
 <!-- //pop-up -->
 <!-- font-awesome icons -->
 <link rel="stylesheet" href="css/font-awesome.min.css" />
@@ -31,15 +41,19 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
 <!-- //js -->
 
-<link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300' rel='stylesheet' type='text/css'>
+<link
+	href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300'
+	rel='stylesheet' type='text/css'>
 <!-- start-smoth-scrolling -->
 <script type="text/javascript" src="js/move-top.js"></script>
 <script type="text/javascript" src="js/easing.js"></script>
 <script type="text/javascript">
 	jQuery(document).ready(function($) {
-		$(".scroll").click(function(event){		
+		$(".scroll").click(function(event) {
 			event.preventDefault();
-			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+			$('html,body').animate({
+				scrollTop : $(this.hash).offset().top
+			}, 1000);
 		});
 	});
 </script>
@@ -47,104 +61,147 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 <!-- loading spinner -->
 <script type="text/javascript">
-jQuery.ajaxSetup({
-  beforeSend: function() {
-	 $('#loader').show();
-  },
-  complete: function(){
-     $('#loader').hide();
-  },
-  success: function() {}
-});
+	jQuery.ajaxSetup({
+		beforeSend : function() {
+			$('#loader').show();
+		},
+		complete : function() {
+			$('#loader').hide();
+		},
+		success : function() {
+		}
+	});
 </script>
 <!-- //loading spinner -->
 
 <!-- getting server data -->
 <script type="text/javascript">
-// Get all phases
-$.getJSON( "api/issues", function( phases ) {
-	// For each phase, create html elements
-	$.each( phases, function( key, val ) {
-		phaseid = val.phase.id
-		// Add tab (first one as active)
-		$("<li role=\"presentation\">" +
-		  	"<a href=\"#phase" + phaseid + "\" role=\"tab\" id=\"phase" + phaseid + "-tab\" data-toggle=\"tab\" aria-controls=\"phase" + phaseid + "\" aria-expanded=\"false\">" +
-		  		val.phase.name +
-			"</a></li>").appendTo("#myTab");
-		// Add div (reserved for the comic books)
-		$("<div role=\"tabpanel\" class=\"tab-pane fade\" id=\"phase" + phaseid + "\" aria-labelledby=\"phase" + phaseid + "-tab\">" +
-		  	"<div id=\"phase" + phaseid + "-featured\" class=\"w3_agile_featured_movies\"></div>" +
-		  "</div>").appendTo(".tab-content");
-		// for each first issue for this phase
-		$.each( val.list, function( key, val ) {
-			// Add div
-			$("<div class=\"col-md-2 w3l-movie-gride-agile\">" +
-			  	"<a href=\"issue.html?p=" + phaseid + "&s=" + val.sortid + "\" class=\"hvr-shutter-out-horizontal\">" +
-			 			"<img src=\"" + val.pic + "\" title=\"" + val.title + "\" class=\"img-responsive\" alt=\" \" />" +
-				"</a>" +
-				"<div class=\"mid-1 agileits_w3layouts_mid_1_home\">" +
-					"<div class=\"w3l-movie-text\">" +
-						"<h6><a href=\"issue.html?p=" + phaseid + "&s=" + val.sortid + "\">" + val.title + "</a></h6>" +							
-					"</div>" +
-					"<div class=\"mid-2 agile_mid_2_home\">" +
-						"<p>" + String(val.date).substring(0, 4) + "</p>" +
-						"<div class=\"block-stars\">" +
-							"Protagonist" +
-						"</div>" +
-						"<div class=\"clearfix\"></div>" +
-						"</div>" +
-					"</div>" +
-				"</div>").appendTo("#phase" + phaseid + "-featured");
-		});
-		$("<div class=\"clearfix\"></div>").appendTo("#phase" + phaseid + "-featured");
-	});
-});
-
+	// Get all phases
+	$
+			.getJSON(
+					"api/fissues",
+					function(phases) {
+						// For each phase, create html elements
+						$
+								.each(
+										phases,
+										function(key, val) {
+											phaseid = val.phase.id
+											// Add tab (first one as active)
+											$(
+													"<li role=\"presentation\">"
+															+ "<a href=\"#phase" + phaseid + "\" role=\"tab\" id=\"phase" + phaseid + "-tab\" data-toggle=\"tab\" aria-controls=\"phase" + phaseid + "\" aria-expanded=\"false\">"
+															+ val.phase.name
+															+ "</a></li>")
+													.appendTo("#myTab");
+											// Add div (reserved for the comic books)
+											$(
+													"<div role=\"tabpanel\" class=\"tab-pane fade\" id=\"phase" + phaseid + "\" aria-labelledby=\"phase" + phaseid + "-tab\">"
+															+ "<div id=\"phase" + phaseid + "-featured\" class=\"w3_agile_featured_movies\"></div>"
+															+ "</div>")
+													.appendTo(".tab-content");
+											// for each first issue for this phase
+											$
+													.each(
+															val.list,
+															function(key, val) {
+																// Add div
+																$(
+																		"<div class=\"col-md-2 w3l-movie-gride-agile\">"
+																				+ "<a href=\"issue.html?p="
+																				+ phaseid
+																				+ "&s="
+																				+ val.sortid
+																				+ "\" class=\"hvr-shutter-out-horizontal\">"
+																				+ "<img src=\"" + val.pic + "\" title=\"" + val.title + "\" class=\"img-responsive\" alt=\" \" />"
+																				+ "</a>"
+																				+ "<div class=\"mid-1 agileits_w3layouts_mid_1_home\">"
+																				+ "<div class=\"w3l-movie-text\">"
+																				+ "<h6><a href=\"issue.html?p="
+																				+ phaseid
+																				+ "&s="
+																				+ val.sortid
+																				+ "\">"
+																				+ val.title
+																				+ "</a></h6>"
+																				+ "</div>"
+																				+ "<div class=\"mid-2 agile_mid_2_home\">"
+																				+ "<p>"
+																				+ String(
+																						val.date)
+																						.substring(
+																								0,
+																								4)
+																				+ "</p>"
+																				+ "<div class=\"block-stars\">"
+																				+ "Protagonist"
+																				+ "</div>"
+																				+ "<div class=\"clearfix\"></div>"
+																				+ "</div>"
+																				+ "</div>"
+																				+ "</div>")
+																		.appendTo(
+																				"#phase"
+																						+ phaseid
+																						+ "-featured");
+															});
+											$("<div class=\"clearfix\"></div>")
+													.appendTo(
+															"#phase"
+																	+ phaseid
+																	+ "-featured");
+										});
+					});
 </script>
 <!-- //getting server data -->
 </head>
-	
+
 <body>
-<div class="wrapper">
-<!-- loading spinner -->
-<img id="loader" src="images/loading.gif" title="loader" class="loading" alt=" " />
-<!-- //loading spinner -->
+	<div class="wrapper">
+		<!-- loading spinner -->
+		<img id="loader" src="images/loading.gif" title="loader"
+			class="loading" alt=" " />
+		<!-- //loading spinner -->
 
-<!-- header -->
-	<div class="header">
-		<div class="container">
-			<div class="w3layouts_logo">
-				<a href="index.html"><h1>ACERETE<span>Comics</span></h1></a>
-			</div>
-			<div class="w3_search">
-				<form action="#" method="post">
-					<input type="text" name="Search" placeholder="Search" required="">
-					<input type="submit" value="Go">
-				</form>
-			</div>
-			<div class="clearfix"> </div>
-		</div>
-	</div>
-<!-- //header -->
-
-<!-- nav -->
-	<div class="movies_nav">
-		<div class="container">
-			<nav class="navbar navbar-default">
-				<div class="navbar-header navbar-left">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
+		<!-- header -->
+		<div class="header">
+			<div class="container">
+				<div class="w3layouts_logo">
+					<a href="index.html"><h1>
+							ACERETE<span>Comics</span>
+						</h1></a>
 				</div>
-				<!-- Collect the nav links, forms, and other content for toggling -->
-				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
-					<nav>
-						<ul class="nav navbar-nav">
-							<li class="active"><a href="index.html">Home</a></li>
-							<!-- <li class="dropdown">
+				<div class="w3_search">
+					<form action="#" method="post">
+						<input type="text" name="Search" placeholder="Search" required="">
+						<input type="submit" value="Go">
+					</form>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<!-- //header -->
+
+		<!-- nav -->
+		<div class="movies_nav">
+			<div class="container">
+				<nav class="navbar navbar-default">
+					<div class="navbar-header navbar-left">
+						<button type="button" class="navbar-toggle collapsed"
+							data-toggle="collapse"
+							data-target="#bs-example-navbar-collapse-1">
+							<span class="sr-only">Toggle navigation</span> <span
+								class="icon-bar"></span> <span class="icon-bar"></span> <span
+								class="icon-bar"></span>
+						</button>
+					</div>
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse navbar-right"
+						id="bs-example-navbar-collapse-1">
+						<nav>
+							<ul class="nav navbar-nav">
+								<li class="active"><a href="index.html">All</a></li>
+								<!-- <li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Characters <b class="caret"></b></a>
 								<ul class="dropdown-menu multi-column columns-3">
 									<li>
@@ -184,43 +241,48 @@ $.getJSON( "api/issues", function( phases ) {
 								</ul>
 							</li>
 							<li><a href="list.html">A - Z list</a></li>-->
-						</ul>
-					</nav>
-				</div>
-			</nav>	
+							</ul>
+						</nav>
+					</div>
+				</nav>
+			</div>
 		</div>
-	</div>
-<!-- //nav -->
+		<!-- //nav -->
 
-<!-- general -->
-	<div class="general">
-		<h4 class="latest-text w3_latest_text">Comic Books</h4>
-		<div class="container">
-			<div class="bs-example bs-example-tabs" role="tabpanel" data-example-id="togglable-tabs">
-				<ul id="myTab" class="nav nav-tabs" role="tablist">
-					<li role="presentation" class="active"><a href="#phase000" role="tab" id="phase000-tab" data-toggle="tab" aria-controls="phase000" aria-expanded="false">
-		  				Intro
-					</a></li>
-				</ul>
-				<div id="myTabContent" class="tab-content">
-					<div role="tabpanel" class="tab-pane fade active in" id="phase000" aria-labelledby="phase000-tab">
-		  				<div id="phase000-featured" class="w3_agile_featured_movies">
-		  					Click a phase to see the reading order
-		  					<img alt="Universe" src="/images/universe.png" style="width:100%;">
-		  				</div>
-		  			</div>
+		<!-- general -->
+		<div class="general">
+			<h4 class="latest-text w3_latest_text">Comic Books</h4>
+			<div class="container">
+				<div class="bs-example bs-example-tabs" role="tabpanel"
+					data-example-id="togglable-tabs">
+					<ul id="myTab" class="nav nav-tabs" role="tablist">
+						<li role="presentation" class="active"><a href="#phase000"
+							role="tab" id="phase000-tab" data-toggle="tab"
+							aria-controls="phase000" aria-expanded="false"> Intro </a></li>
+					</ul>
+					<div id="myTabContent" class="tab-content">
+						<div role="tabpanel" class="tab-pane fade active in" id="phase000"
+							aria-labelledby="phase000-tab">
+							<div id="phase000-featured" class="w3_agile_featured_movies">
+								Click a phase to see the reading order <img alt="Universe"
+									src="/images/universe.png" style="width: 100%;">
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
+		<!-- //general -->
 	</div>
-<!-- //general -->
-</div>
 
-<!-- footer -->
+	<!-- footer -->
 	<div class="footer">
 		<div class="container">
 			<div class="col-md-5 w3ls_footer_grid1_left">
-				<p>&copy; 2016 Acerete Comics |  Template partially inspired by <a href="http://w3layouts.com/">W3layouts</a></p>
+				<p>
+					&copy; 2016 Acerete Comics | Template partially inspired by <a
+						href="http://w3layouts.com/">W3layouts</a>
+				</p>
 			</div>
 			<div class="col-md-7 w3ls_footer_grid1_right">
 				<ul>
@@ -247,28 +309,25 @@ $.getJSON( "api/issues", function( phases ) {
 					</li>-->
 				</ul>
 			</div>
-			<div class="clearfix"> </div>
+			<div class="clearfix"></div>
 		</div>
 	</div>
-<!-- //footer -->
-<!-- Bootstrap Core JavaScript -->
-<script src="js/bootstrap.min.js"></script>
-<script>
-$(document).ready(function(){
-    $(".dropdown").hover(            
-        function() {
-            $('.dropdown-menu', this).stop( true, true ).slideDown("fast");
-            $(this).toggleClass('open');        
-        },
-        function() {
-            $('.dropdown-menu', this).stop( true, true ).slideUp("fast");
-            $(this).toggleClass('open');       
-        }
-    );
-});
-</script>
-<!-- //Bootstrap Core JavaScript -->
-<!-- here stars scrolling icon -->
+	<!-- //footer -->
+	<!-- Bootstrap Core JavaScript -->
+	<script src="js/bootstrap.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			$(".dropdown").hover(function() {
+				$('.dropdown-menu', this).stop(true, true).slideDown("fast");
+				$(this).toggleClass('open');
+			}, function() {
+				$('.dropdown-menu', this).stop(true, true).slideUp("fast");
+				$(this).toggleClass('open');
+			});
+		});
+	</script>
+	<!-- //Bootstrap Core JavaScript -->
+	<!-- here stars scrolling icon -->
 	<script type="text/javascript">
 		$(document).ready(function() {
 			/*
@@ -278,12 +337,14 @@ $(document).ready(function(){
 				scrollSpeed: 1200,
 				easingType: 'linear' 
 				};
-			*/
-								
-			$().UItoTop({ easingType: 'easeOutQuart' });
-								
+			 */
+
+			$().UItoTop({
+				easingType : 'easeOutQuart'
 			});
+
+		});
 	</script>
-<!-- //here ends scrolling icon -->
+	<!-- //here ends scrolling icon -->
 </body>
 </html>

@@ -382,15 +382,22 @@ func NewComicListFromXLSX(path string) (ComicList, PhaseList, IssuesPhaseList, e
 	    	c.PhaseName = p.Name
 	    	if title != lastTitle {
 	    		sortID++
-	    		lastTitle = title	    		
+	    		lastTitle = title
+	    		sID, err := getCode(sortID)
+	    		if err != nil {
+			    	return comics, phases, issuesPhases, err
+		    	}
 	    		i.List = append(i.List, Comic{
 					Pic: pic, 
 					Title: title,
 					Date: date,
-					SortID: fmt.Sprint(sortID),
+					SortID: sID,
 	    		})
 	    	}
-	    	c.SortID = fmt.Sprint(sortID)
+	    	c.SortID, err = getCode(sortID)
+	    	if err != nil {
+		    	return comics, phases, issuesPhases, err
+	    	}
 	    	comics = append(comics, c)
     	}
     	
