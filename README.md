@@ -16,7 +16,7 @@ Get MARVEL API key pair from:
 
 ### (3) Generate different json files from xslx file
 
-	go run main.go -generate -f marvel.xlsx -o web/
+	go run main.go -generate -f marvel.xlsx -o web/data/
 
 ### (4a) Deploy to local server
 
@@ -34,4 +34,4 @@ Get MARVEL API key pair from:
 ### (6) Test queries
 
 	curl -XGET -i localhost:8080/api/comics/:id
-	curl -XGET -i http://<project_id>.appspot.com/api/comics/:id	
+	curl -XGET -i http://<project_id>.appspot.com/api/comics/:id

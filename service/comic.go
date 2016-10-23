@@ -40,6 +40,8 @@ func JsonGenerator(path, out string) error {
 		i := Fissues{}
 		i.Phase = p
 		i.List = ComicList{}
+		
+		cp := ComicList{}
 
 		lastTitle := ""
 		sortID := 0
@@ -134,9 +136,11 @@ func JsonGenerator(path, out string) error {
 				return err
 			}
 			comics = append(comics, c)
+			cp = append(cp, c)
 		}
 
 		fissues = append(fissues, i)
+		Datastore[fmt.Sprintf("comics-phase-%s", p.ID)] = &cp
 	}
 	Datastore["comics"] = &comics
 	Datastore["phases"] = &phases

@@ -21,12 +21,8 @@ func ListComics(comics *jsonql.JSONQL) (*ComicList, error) {
 	return FindComicList(comics, "id!=''")
 }
 
-func ListComicsByPhaseID(comics *jsonql.JSONQL, id string) (*ComicList, error) {
-	return FindComicList(comics, "phaseid='"+id+"'")
-}
-
-func ListComicsByPhaseAndSortIDs(comics *jsonql.JSONQL, id, sortid string) (*ComicList, error) {
-	return FindComicList(comics, "phaseid='"+id+"' && sortid='"+sortid+"'")
+func ListComicsBySortID(comics *jsonql.JSONQL, sortid string) (*ComicList, error) {
+	return FindComicList(comics, "sortid='"+sortid+"'")
 }
 
 // Find phases

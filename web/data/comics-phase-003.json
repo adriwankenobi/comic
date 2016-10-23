@@ -1,0 +1,6801 @@
+[
+	{
+		"id": "9",
+		"collection": "Fantastic Four",
+		"title": "Rising Storm",
+		"vol": 1,
+		"num": 520,
+		"date": "2004-11-17",
+		"characters": [
+			"Fantastic Four"
+		],
+		"creators": [
+			"Karl Kesel",
+			"Paul Mounts",
+			"Mark Waid",
+			"Mike Wieringo",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/57e9787f70001.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "001"
+	},
+	{
+		"id": "1413",
+		"collection": "Fantastic Four",
+		"title": "Rising Storm",
+		"vol": 1,
+		"num": 521,
+		"date": "2004-12-15",
+		"characters": [
+			"Fantastic Four"
+		],
+		"creators": [
+			"Karl Kesel",
+			"Paul Mounts",
+			"Mark Waid",
+			"Mike Wieringo",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/57e9729445677.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "001"
+	},
+	{
+		"id": "1512",
+		"collection": "Fantastic Four",
+		"title": "Rising Storm",
+		"vol": 1,
+		"num": 522,
+		"date": "2005-01-26",
+		"characters": [
+			"Fantastic Four"
+		],
+		"creators": [
+			"Karl Kesel",
+			"Paul Mounts",
+			"Mark Waid",
+			"Mike Wieringo",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/57e97281b1ebf.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "001"
+	},
+	{
+		"id": "1612",
+		"collection": "Fantastic Four",
+		"title": "Rising Storm",
+		"vol": 1,
+		"num": 523,
+		"date": "2005-02-23",
+		"characters": [
+			"Fantastic Four"
+		],
+		"creators": [
+			"Karl Kesel",
+			"Paul Mounts",
+			"Mark Waid",
+			"Mike Wieringo",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc4790f5f8a2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "001"
+	},
+	{
+		"id": "1709",
+		"collection": "Fantastic Four",
+		"title": "Rising Storm",
+		"vol": 1,
+		"num": 524,
+		"date": "2005-03-30",
+		"characters": [
+			"Fantastic Four",
+			"Human Torch",
+			"Invisible Woman",
+			"Mr. Fantastic",
+			"Thing"
+		],
+		"creators": [
+			"Karl Kesel",
+			"Paul Mounts",
+			"Mark Waid",
+			"Mike Wieringo",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/57e972b09027e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "001"
+	},
+	{
+		"id": "628",
+		"collection": "Uncanny X-Men",
+		"title": "The End of History",
+		"vol": 1,
+		"num": 444,
+		"date": "2004-05-05",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Claremont",
+			"Mark Farmer",
+			"Liquid Graphics"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc688085d41a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "002"
+	},
+	{
+		"id": "688",
+		"collection": "Uncanny X-Men",
+		"title": "The End of History",
+		"vol": 1,
+		"num": 445,
+		"date": "2004-06-02",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Claremont",
+			"Frank D'Armata",
+			"Mark Farmer"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4bc6831c3450a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "002"
+	},
+	{
+		"id": "601",
+		"collection": "Uncanny X-Men",
+		"title": "The End of History",
+		"vol": 1,
+		"num": 446,
+		"date": "2004-07-07",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Claremont",
+			"Frank D'Armata",
+			"Mark Farmer"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bc68b1b3801e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "002"
+	},
+	{
+		"id": "540",
+		"collection": "Uncanny X-Men",
+		"title": "The End of History",
+		"vol": 1,
+		"num": 447,
+		"date": "2004-08-04",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Claremont",
+			"Frank D'Armata",
+			"Mark Farmer"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4bc68f57ad599.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "002"
+	},
+	{
+		"id": "798",
+		"collection": "Uncanny X-Men",
+		"title": "The End of History",
+		"vol": 1,
+		"num": 448,
+		"date": "2004-09-01",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Chuckry",
+			"Chris Claremont",
+			"Olivier Coipel",
+			"Scott Hanna",
+			"Greg Land",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/4bc67b93b7fd8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "002"
+	},
+	{
+		"id": "836",
+		"collection": "Uncanny X-Men",
+		"title": "The End of History",
+		"vol": 1,
+		"num": 449,
+		"date": "2004-09-22",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Chuckry",
+			"Chris Claremont",
+			"Olivier Coipel",
+			"Scott Hanna",
+			"Greg Land",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/553a49ab1bfb5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "002"
+	},
+	{
+		"id": "868",
+		"collection": "Uncanny X-Men",
+		"title": "The Cruelest Cut",
+		"vol": 1,
+		"num": 450,
+		"date": "2004-10-06",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Claremont",
+			"Frank D'Armata",
+			"Mark Farmer",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc6767cd04bb.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "003"
+	},
+	{
+		"id": "908",
+		"collection": "Uncanny X-Men",
+		"title": "The Cruelest Cut",
+		"vol": 1,
+		"num": 451,
+		"date": "2004-10-20",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Claremont",
+			"Mark Farmer",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4bc67341161c2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "003"
+	},
+	{
+		"id": "15",
+		"collection": "Uncanny X-Men",
+		"title": "The Cruelest Cut",
+		"vol": 1,
+		"num": 452,
+		"date": "2004-11-03",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Claremont",
+			"Andy Park",
+			"Jonathan Sibal",
+			"Paul Smith",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/4bc6b59487841.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "003"
+	},
+	{
+		"id": "1418",
+		"collection": "Uncanny X-Men",
+		"title": "The Cruelest Cut",
+		"vol": 1,
+		"num": 453,
+		"date": "2004-12-01",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Claremont",
+			"Greg Land",
+			"Andy Park",
+			"Justin Ponsor",
+			"Jonathan Sibal",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc65f8bcc920.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "003"
+	},
+	{
+		"id": "1574",
+		"collection": "Uncanny X-Men",
+		"title": "The Cruelest Cut",
+		"vol": 1,
+		"num": 454,
+		"date": "2005-01-05",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Claremont",
+			"Andy Park",
+			"Justin Ponsor",
+			"Jonathan Sibal",
+			"Paul Smith",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bc654d565ab1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "003"
+	},
+	{
+		"id": "630",
+		"collection": "District X",
+		"title": "Mr M",
+		"vol": 1,
+		"num": 1,
+		"date": "2004-05-12",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Steve McNiven",
+			"Alejandro Sicat",
+			"Avalon Studio",
+			"David Yardin"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc68803ae54c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "004"
+	},
+	{
+		"id": "693",
+		"collection": "District X",
+		"title": "Mr M",
+		"vol": 1,
+		"num": 2,
+		"date": "2004-06-09",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Steve McNiven",
+			"Alejandro Sicat",
+			"Avalon Studio",
+			"David Yardin"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc6830e2793b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "004"
+	},
+	{
+		"id": "592",
+		"collection": "District X",
+		"title": "Mr M",
+		"vol": 1,
+		"num": 3,
+		"date": "2004-07-14",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Steve McNiven",
+			"Alejandro Sicat",
+			"Avalon Studio",
+			"David Yardin"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bc68b3db396b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "004"
+	},
+	{
+		"id": "615",
+		"collection": "District X",
+		"title": "Mr M",
+		"vol": 1,
+		"num": 4,
+		"date": "2004-08-11",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Steve McNiven",
+			"Lan Medina",
+			"Alejandro Sicat",
+			"Avalon Studio"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4bc6898c6c135.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "004"
+	},
+	{
+		"id": "809",
+		"collection": "District X",
+		"title": "Mr M",
+		"vol": 1,
+		"num": 5,
+		"date": "2004-09-08",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Steve McNiven",
+			"Alejandro Sicat",
+			"Richard Starkings",
+			"Avalon Studio",
+			"David Yardin"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/4bc67b5e9e7a8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "004"
+	},
+	{
+		"id": "894",
+		"collection": "District X",
+		"title": "Mr M",
+		"vol": 1,
+		"num": 6,
+		"date": "2004-10-13",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Steve McNiven",
+			"Alejandro Sicat",
+			"Richard Starkings",
+			"Avalon Studio",
+			"David Yardin"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/4bc6737f08828.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "004"
+	},
+	{
+		"id": "829",
+		"collection": "Madrox",
+		"title": "Multiple Choice",
+		"vol": 1,
+		"num": 1,
+		"date": "2004-09-15",
+		"characters": [
+			"Madrox"
+		],
+		"creators": [
+			"Peter David",
+			"David Lloyd",
+			"Pablo Raimondi",
+			"Brian Reber"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bc67870dabe8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "005"
+	},
+	{
+		"id": "901",
+		"collection": "Madrox",
+		"title": "Multiple Choice",
+		"vol": 1,
+		"num": 2,
+		"date": "2004-10-20",
+		"characters": [
+			"Madrox"
+		],
+		"creators": [
+			"Peter David",
+			"David Lloyd",
+			"Pablo Raimondi",
+			"Brian Reber"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4c7d67a917c64.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "005"
+	},
+	{
+		"id": "42",
+		"collection": "Madrox",
+		"title": "Multiple Choice",
+		"vol": 1,
+		"num": 3,
+		"date": "2004-11-17",
+		"characters": [
+			"Madrox"
+		],
+		"creators": [
+			"Peter David",
+			"Andrew Hennessy",
+			"David Lloyd",
+			"Cory Petit",
+			"Pablo Raimondi",
+			"Brian Reber"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "005"
+	},
+	{
+		"id": "1440",
+		"collection": "Madrox",
+		"title": "Multiple Choice",
+		"vol": 1,
+		"num": 4,
+		"date": "2004-12-15",
+		"characters": [
+			"Madrox"
+		],
+		"creators": [
+			"Peter David",
+			"Andrew Hennessy",
+			"David Lloyd",
+			"Cory Petit",
+			"Pablo Raimondi",
+			"Brian Reber"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bc65de11ea17.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "005"
+	},
+	{
+		"id": "1533",
+		"collection": "Madrox",
+		"title": "Multiple Choice",
+		"vol": 1,
+		"num": 5,
+		"date": "2005-01-19",
+		"characters": [
+			"Madrox"
+		],
+		"creators": [
+			"Peter David",
+			"Andrew Hennessy",
+			"David Lloyd",
+			"Cory Petit",
+			"Pablo Raimondi",
+			"Brian Reber"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4bc6575d3762d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "005"
+	},
+	{
+		"id": "654",
+		"collection": "New X-Men",
+		"title": "Choosing Sides",
+		"vol": 2,
+		"num": 1,
+		"date": "2004-05-19",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Randall Green",
+			"Rick Ketcham",
+			"Peter Pantazis",
+			"Christina Weir"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/5702aadacc828.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "006"
+	},
+	{
+		"id": "711",
+		"collection": "New X-Men",
+		"title": "Choosing Sides",
+		"vol": 2,
+		"num": 2,
+		"date": "2004-06-16",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Tom Chu",
+			"Randall Green",
+			"Rick Ketcham",
+			"Christina Weir"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5702aa68846f9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "006"
+	},
+	{
+		"id": "533",
+		"collection": "New X-Men",
+		"title": "Choosing Sides",
+		"vol": 2,
+		"num": 3,
+		"date": "2004-07-21",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Randall Green",
+			"Staz Johnson",
+			"Rick Ketcham",
+			"Peter Pantazis",
+			"Christina Weir"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5702aa1f9f909.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "006"
+	},
+	{
+		"id": "755",
+		"collection": "New X-Men",
+		"title": "Choosing Sides",
+		"vol": 2,
+		"num": 4,
+		"date": "2004-08-18",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Randall Green",
+			"Staz Johnson",
+			"Rick Ketcham",
+			"Peter Pantazis",
+			"Christina Weir"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5702aaf598bb8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "006"
+	},
+	{
+		"id": "827",
+		"collection": "New X-Men",
+		"title": "Choosing Sides",
+		"vol": 2,
+		"num": 5,
+		"date": "2004-09-15",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Randall Green",
+			"Staz Johnson",
+			"Rick Ketcham",
+			"Peter Pantazis",
+			"Dave Sharpe",
+			"Christina Weir"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/5702aaa92d406.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "006"
+	},
+	{
+		"id": "910",
+		"collection": "New X-Men",
+		"title": "Choosing Sides",
+		"vol": 2,
+		"num": 6,
+		"date": "2004-10-20",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Randall Green",
+			"Staz Johnson",
+			"Rick Ketcham",
+			"Peter Pantazis",
+			"Dave Sharpe",
+			"Christina Weir"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5702aa9d45d18.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "006"
+	},
+	{
+		"id": "176",
+		"collection": "Thanos",
+		"title": "Epiphany",
+		"vol": 1,
+		"num": 1,
+		"date": "2003-10-01",
+		"characters": [
+			"Adam Warlock",
+			"Thanos"
+		],
+		"creators": [
+			"Al Milgrom",
+			"Jim Starlin"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/577ea4c217030.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "007"
+	},
+	{
+		"id": "175",
+		"collection": "Thanos",
+		"title": "Epiphany",
+		"vol": 1,
+		"num": 2,
+		"date": "2003-11-05",
+		"characters": [
+			"Adam Warlock",
+			"Thanos"
+		],
+		"creators": [
+			"Al Milgrom",
+			"Jim Starlin"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/577eaab4676b9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "007"
+	},
+	{
+		"id": "174",
+		"collection": "Thanos",
+		"title": "Epiphany",
+		"vol": 1,
+		"num": 3,
+		"date": "2003-12-03",
+		"characters": [
+			"Galactus",
+			"Thanos"
+		],
+		"creators": [
+			"Al Milgrom",
+			"Jim Starlin"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/577eb29f09a39.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "007"
+	},
+	{
+		"id": "173",
+		"collection": "Thanos",
+		"title": "Epiphany",
+		"vol": 1,
+		"num": 4,
+		"date": "2004-01-07",
+		"characters": [
+			"Adam Warlock",
+			"Galactus",
+			"Pip",
+			"Thanos"
+		],
+		"creators": [
+			"Al Milgrom",
+			"Jim Starlin"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/577eb8c673296.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "007"
+	},
+	{
+		"id": "172",
+		"collection": "Thanos",
+		"title": "Epiphany",
+		"vol": 1,
+		"num": 5,
+		"date": "2004-01-21",
+		"characters": [
+			"Galactus",
+			"Thanos"
+		],
+		"creators": [
+			"Al Milgrom",
+			"Jim Starlin"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/577fa39917d8c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "007"
+	},
+	{
+		"id": "171",
+		"collection": "Thanos",
+		"title": "Epiphany",
+		"vol": 1,
+		"num": 6,
+		"date": "2004-02-04",
+		"characters": [
+			"Adam Warlock",
+			"Galactus",
+			"Pip",
+			"Thanos"
+		],
+		"creators": [
+			"Al Milgrom",
+			"Jim Starlin"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/577fac0b86a0d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "007"
+	},
+	{
+		"id": "398",
+		"collection": "Thanos",
+		"title": "Samaritan",
+		"vol": 1,
+		"num": 7,
+		"date": "2004-03-03",
+		"characters": [
+			"Thanos"
+		],
+		"creators": [
+			"Keith Giffen",
+			"Ron Lim",
+			"Jim Starlin"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/04/577faf41bf9ff.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "008"
+	},
+	{
+		"id": "424",
+		"collection": "Thanos",
+		"title": "Samaritan",
+		"vol": 1,
+		"num": 8,
+		"date": "2004-03-17",
+		"characters": [
+			"Thanos"
+		],
+		"creators": [
+			"Keith Giffen",
+			"Ron Lim"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/04/577fb9da5ddf5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "008"
+	},
+	{
+		"id": "460",
+		"collection": "Thanos",
+		"title": "Samaritan",
+		"vol": 1,
+		"num": 9,
+		"date": "2004-04-07",
+		"characters": [
+			"Thanos"
+		],
+		"creators": [
+			"Keith Giffen",
+			"Ron Lim"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/70/577fc2f6e5fd8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "008"
+	},
+	{
+		"id": "625",
+		"collection": "Thanos",
+		"title": "Samaritan",
+		"vol": 1,
+		"num": 10,
+		"date": "2004-05-05",
+		"characters": [
+			"Skreet",
+			"Star-Lord (Peter Quill)",
+			"Thanos"
+		],
+		"creators": [
+			"Keith Giffen",
+			"Ron Lim",
+			"Al Milgrom",
+			"Christie Scheele"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/577fc808dd6fc.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "008"
+	},
+	{
+		"id": "684",
+		"collection": "Thanos",
+		"title": "Samaritan",
+		"vol": 1,
+		"num": 11,
+		"date": "2004-06-02",
+		"characters": [
+			"Galactus",
+			"Peter Quill",
+			"Skreet",
+			"Thanos"
+		],
+		"creators": [
+			"Keith Giffen",
+			"Ron Lim",
+			"Al Milgrom",
+			"Christie Scheele"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/577fcdbf254be.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "008"
+	},
+	{
+		"id": "598",
+		"collection": "Thanos",
+		"title": "Samaritan",
+		"vol": 1,
+		"num": 12,
+		"date": "2004-07-07",
+		"characters": [
+			"Galactus",
+			"Peter Quill",
+			"Skreet",
+			"Thanos"
+		],
+		"creators": [
+			"Keith Giffen",
+			"Ron Lim",
+			"Al Milgrom",
+			"Christie Scheele"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/577fdbd4e9557.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "008"
+	},
+	{
+		"id": "1629",
+		"collection": "Young Avengers",
+		"title": "Sidekicks",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-02-09",
+		"characters": [
+			"Hulkling",
+			"Iron Lad",
+			"Patriot",
+			"Wiccan",
+			"Young Avengers"
+		],
+		"creators": [
+			"Jim Cheung",
+			"John Dell",
+			"Allan Heinberg",
+			"Justin Ponsor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/564259ee974d5.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Young Avengers origin",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "009"
+	},
+	{
+		"id": "1721",
+		"collection": "Young Avengers",
+		"title": "Sidekicks",
+		"vol": 1,
+		"num": 2,
+		"date": "2005-03-16",
+		"characters": [
+			"Hulkling",
+			"Iron Lad",
+			"Patriot",
+			"Wiccan",
+			"Young Avengers"
+		],
+		"creators": [
+			"Jim Cheung",
+			"John Dell",
+			"Allan Heinberg",
+			"Cory Petit",
+			"Justin Ponsor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bc64c48a95b9.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "009"
+	},
+	{
+		"id": "1830",
+		"collection": "Young Avengers",
+		"title": "Sidekicks",
+		"vol": 1,
+		"num": 3,
+		"date": "2005-04-20",
+		"characters": [
+			"Young Avengers"
+		],
+		"creators": [
+			"Jim Cheung",
+			"John Dell",
+			"Allan Heinberg",
+			"Cory Petit",
+			"Justin Ponsor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bc644df04650.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "009"
+	},
+	{
+		"id": "1941",
+		"collection": "Young Avengers",
+		"title": "Sidekicks",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-05-11",
+		"characters": [
+			"Captain America",
+			"Iron Lad",
+			"Iron Man",
+			"Kang",
+			"Patriot",
+			"Young Avengers"
+		],
+		"creators": [
+			"Jim Cheung",
+			"John Dell",
+			"Allan Heinberg",
+			"Cory Petit",
+			"Justin Ponsor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bc63e3d91062.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "009"
+	},
+	{
+		"id": "2049",
+		"collection": "Young Avengers",
+		"title": "Sidekicks",
+		"vol": 1,
+		"num": 5,
+		"date": "2005-06-29",
+		"characters": [
+			"Young Avengers"
+		],
+		"creators": [
+			"Jim Cheung",
+			"John Dell",
+			"Allan Heinberg",
+			"Cory Petit",
+			"Justin Ponsor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc6386b33cf3.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "009"
+	},
+	{
+		"id": "2162",
+		"collection": "Young Avengers",
+		"title": "Sidekicks",
+		"vol": 1,
+		"num": 6,
+		"date": "2005-07-20",
+		"characters": [
+			"Hawkeye (Kate Bishop)",
+			"Hulkling",
+			"Patriot",
+			"Stature",
+			"Wiccan",
+			"Young Avengers"
+		],
+		"creators": [
+			"Jim Cheung",
+			"John Dell",
+			"Allan Heinberg",
+			"Cory Petit",
+			"Justin Ponsor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/4bc631d2a7b50.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "009"
+	},
+	{
+		"id": "735",
+		"collection": "Amazing Fantasy",
+		"title": "Heart of the Spider",
+		"vol": 2,
+		"num": 1,
+		"date": "2004-06-30",
+		"characters": [
+			"Spider-Girl (Anya Corazon)"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Mark Brooks",
+			"Udon Comics",
+			"Jaime Mendoza"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56cb7746bd44a.jpg",
+		"universe": "Earth-616",
+		"comments": "Anya Corazón origins - traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "010"
+	},
+	{
+		"id": "529",
+		"collection": "Amazing Fantasy",
+		"title": "Heart of the Spider",
+		"vol": 2,
+		"num": 2,
+		"date": "2004-07-28",
+		"characters": [
+			"Spider-Girl (Anya Corazon)"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Mark Brooks",
+			"Udon Comics",
+			"Jaime Mendoza"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/56cb6bb538602.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "010"
+	},
+	{
+		"id": "764",
+		"collection": "Amazing Fantasy",
+		"title": "Heart of the Spider",
+		"vol": 2,
+		"num": 3,
+		"date": "2004-08-25",
+		"characters": [
+			"Spider-Girl (Anya Corazon)"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Mark Brooks",
+			"Udon Comics",
+			"Roger Cruz",
+			"Jaime Mendoza"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/56cb6d2cd1338.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "010"
+	},
+	{
+		"id": "858",
+		"collection": "Amazing Fantasy",
+		"title": "Heart of the Spider",
+		"vol": 2,
+		"num": 4,
+		"date": "2004-09-29",
+		"characters": [
+			"Spider-Girl (Anya Corazon)"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Mark Brooks",
+			"Udon Comics",
+			"Jaime Mendoza",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/56cb6ee146ef6.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "010"
+	},
+	{
+		"id": "922",
+		"collection": "Amazing Fantasy",
+		"title": "Heart of the Spider",
+		"vol": 2,
+		"num": 5,
+		"date": "2004-10-27",
+		"characters": [
+			"Spider-Girl (Anya Corazon)"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Mark Brooks",
+			"Udon Comics",
+			"Jaime Mendoza",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/56cb6fa2dd2c3.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "010"
+	},
+	{
+		"id": "45",
+		"collection": "Amazing Fantasy",
+		"title": "Heart of the Spider",
+		"vol": 2,
+		"num": 6,
+		"date": "2004-11-24",
+		"characters": [
+			"Spider-Girl (Anya Corazon)"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Mark Brooks",
+			"Udon Comics",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/56cb7028ce644.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "010"
+	},
+	{
+		"id": "430",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "If Looks Could Kill",
+		"vol": 1,
+		"num": 1,
+		"date": "2004-03-24",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Mark Brooks",
+			"Rob Liefeld",
+			"Fabian Nicieza"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/535142a7043ae.jpg",
+		"universe": "Earth-616",
+		"comments": "Cable \u0026 Deadpool team up",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "011"
+	},
+	{
+		"id": "479",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "If Looks Could Kill",
+		"vol": 1,
+		"num": 2,
+		"date": "2004-04-21",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Mark Brooks",
+			"Rob Liefeld",
+			"Fabian Nicieza"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/56e1c7cc58c50.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "011"
+	},
+	{
+		"id": "644",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "If Looks Could Kill",
+		"vol": 1,
+		"num": 3,
+		"date": "2004-05-19",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Udon Comics",
+			"Rob Liefeld",
+			"Fabian Nicieza",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/56e1c897c401f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "011"
+	},
+	{
+		"id": "706",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "If Looks Could Kill",
+		"vol": 1,
+		"num": 4,
+		"date": "2004-06-16",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Udon Comics",
+			"Rob Liefeld",
+			"Fabian Nicieza",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/56e1c8fc1fbc3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "011"
+	},
+	{
+		"id": "548",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "If Looks Could Kill",
+		"vol": 1,
+		"num": 5,
+		"date": "2004-07-21",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Mark Brooks",
+			"Udon Comics",
+			"Fabian Nicieza",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/56e1c9bfdae78.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "011"
+	},
+	{
+		"id": "512",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "If Looks Could Kill",
+		"vol": 1,
+		"num": 6,
+		"date": "2004-08-18",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Udon Comics",
+			"Fabian Nicieza",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/56e1ca75db37a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "011"
+	},
+	{
+		"id": "832",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "The Burnt Offering",
+		"vol": 1,
+		"num": 7,
+		"date": "2004-09-15",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Udon Comics",
+			"Fabian Nicieza",
+			"Cory Petit",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/56e1cb54c7da1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "012"
+	},
+	{
+		"id": "903",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "The Burnt Offering",
+		"vol": 1,
+		"num": 8,
+		"date": "2004-10-20",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Udon Comics",
+			"Fabian Nicieza",
+			"Cory Petit",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/56e1ccb47d52b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "012"
+	},
+	{
+		"id": "69",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "The Burnt Offering",
+		"vol": 1,
+		"num": 9,
+		"date": "2004-11-17",
+		"characters": [
+			"Cable",
+			"Cyclops",
+			"Deadpool",
+			"Wolverine"
+		],
+		"creators": [
+			"Udon Comics",
+			"Gotham Entertainment Group",
+			"Fabian Nicieza",
+			"Cory Petit",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/56e1d0bf16b80.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "012"
+	},
+	{
+		"id": "1467",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "The Burnt Offering",
+		"vol": 1,
+		"num": 10,
+		"date": "2004-12-15",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Udon Comics",
+			"Gotham Entertainment Group",
+			"Fabian Nicieza",
+			"Cory Petit",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/56e1d22cd7940.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "012"
+	},
+	{
+		"id": "1560",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "The Burnt Offering",
+		"vol": 1,
+		"num": 11,
+		"date": "2005-01-19",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Udon Comics",
+			"Gotham Entertainment Group",
+			"Fabian Nicieza",
+			"Cory Petit",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/56e1d367d7390.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "012"
+	},
+	{
+		"id": "1649",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "The Burnt Offering",
+		"vol": 1,
+		"num": 12,
+		"date": "2005-02-16",
+		"characters": [
+			"Agent X (Nijo)",
+			"Cable",
+			"Deadpool"
+		],
+		"creators": [
+			"Udon Comics",
+			"Gotham Entertainment Group",
+			"Fabian Nicieza",
+			"Cory Petit",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/56e1d3ee8d995.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "012"
+	},
+	{
+		"id": "708",
+		"collection": "Daredevil",
+		"title": "The Widow",
+		"vol": 2,
+		"num": 61,
+		"date": "2004-06-16",
+		"characters": [
+			"Black Widow",
+			"Daredevil"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Matt Hollingsworth",
+			"Alex Maleev"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/00/57278372e5660.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "013"
+	},
+	{
+		"id": "542",
+		"collection": "Daredevil",
+		"title": "The Widow",
+		"vol": 2,
+		"num": 62,
+		"date": "2004-07-21",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Matt Hollingsworth",
+			"Alex Maleev"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/5727844f5186e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "013"
+	},
+	{
+		"id": "513",
+		"collection": "Daredevil",
+		"title": "The Widow",
+		"vol": 2,
+		"num": 63,
+		"date": "2004-08-18",
+		"characters": [
+			"Black Widow",
+			"Daredevil"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Matt Hollingsworth",
+			"Alex Maleev"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/90/5727851a88f86.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "013"
+	},
+	{
+		"id": "831",
+		"collection": "Daredevil",
+		"title": "The Widow",
+		"vol": 2,
+		"num": 64,
+		"date": "2004-09-15",
+		"characters": [
+			"Black Widow",
+			"Daredevil"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Matt Hollingsworth",
+			"Alex Maleev",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/572785e2790da.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "013"
+	},
+	{
+		"id": "853",
+		"collection": "Daredevil",
+		"title": "The Widow",
+		"vol": 2,
+		"num": 65,
+		"date": "2004-09-29",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Matt Hollingsworth",
+			"Greg Land",
+			"Alex Maleev",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/572786ad0f550.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "013"
+	},
+	{
+		"id": "909",
+		"collection": "Daredevil",
+		"title": "Golden Age",
+		"vol": 2,
+		"num": 66,
+		"date": "2004-10-27",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Matt Hollingsworth",
+			"Alex Maleev",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/572787643041b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "014"
+	},
+	{
+		"id": "18",
+		"collection": "Daredevil",
+		"title": "Golden Age",
+		"vol": 2,
+		"num": 67,
+		"date": "2004-11-24",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Alex Maleev",
+			"Cory Petit",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5727882d64025.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "014"
+	},
+	{
+		"id": "1420",
+		"collection": "Daredevil",
+		"title": "Golden Age",
+		"vol": 2,
+		"num": 68,
+		"date": "2004-12-15",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Alex Maleev",
+			"Cory Petit",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/572795c90e027.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "014"
+	},
+	{
+		"id": "1518",
+		"collection": "Daredevil",
+		"title": "Golden Age",
+		"vol": 2,
+		"num": 69,
+		"date": "2005-01-19",
+		"characters": [
+			"Daredevil",
+			"Spider-Man"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Alex Maleev",
+			"Cory Petit",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/5727968375c39.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "014"
+	},
+	{
+		"id": "1618",
+		"collection": "Daredevil",
+		"title": "Golden Age",
+		"vol": 2,
+		"num": 70,
+		"date": "2005-02-16",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Alex Maleev",
+			"Cory Petit",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5727972d12545.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "014"
+	},
+	{
+		"id": "1757",
+		"collection": "Daredevil",
+		"title": "Decalogue",
+		"vol": 2,
+		"num": 71,
+		"date": "2005-03-23",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Alex Maleev",
+			"Cory Petit",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/572797fbcf1b4.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "015"
+	},
+	{
+		"id": "1862",
+		"collection": "Daredevil",
+		"title": "Decalogue",
+		"vol": 2,
+		"num": 72,
+		"date": "2005-04-27",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Alex Maleev",
+			"Cory Petit",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/572798b44110b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "015"
+	},
+	{
+		"id": "1965",
+		"collection": "Daredevil",
+		"title": "Decalogue",
+		"vol": 2,
+		"num": 73,
+		"date": "2005-05-18",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Alex Maleev",
+			"Cory Petit",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/57279974d65a0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "015"
+	},
+	{
+		"id": "2067",
+		"collection": "Daredevil",
+		"title": "Decalogue",
+		"vol": 2,
+		"num": 74,
+		"date": "2005-06-15",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Alex Maleev",
+			"Cory Petit",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/30/57279a2961467.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "015"
+	},
+	{
+		"id": "2174",
+		"collection": "Daredevil",
+		"title": "Decalogue",
+		"vol": 2,
+		"num": 75,
+		"date": "2005-07-20",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Alex Maleev",
+			"Cory Petit",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/57279ac594c00.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "015"
+	},
+	{
+		"id": "791",
+		"collection": "Bullseye Greatest Hits",
+		"title": "Greatest Hits",
+		"vol": 1,
+		"num": 1,
+		"date": "2004-09-01",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Mike Deodato",
+			"Randy Gentile",
+			"Tom Palmer",
+			"Daniel Way",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/56e19e3890232.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "016"
+	},
+	{
+		"id": "895",
+		"collection": "Bullseye Greatest Hits",
+		"title": "Greatest Hits",
+		"vol": 1,
+		"num": 2,
+		"date": "2004-10-13",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Mike Deodato",
+			"Randy Gentile",
+			"Tom Palmer",
+			"Daniel Way",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/56e19ef51ccf5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "016"
+	},
+	{
+		"id": "47",
+		"collection": "Bullseye Greatest Hits",
+		"title": "Greatest Hits",
+		"vol": 1,
+		"num": 3,
+		"date": "2004-11-10",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Mike Deodato",
+			"Steve Dillon",
+			"Randy Gentile",
+			"Avalon Studio",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/56e1a03ae6126.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "016"
+	},
+	{
+		"id": "1444",
+		"collection": "Bullseye Greatest Hits",
+		"title": "Greatest Hits",
+		"vol": 1,
+		"num": 4,
+		"date": "2004-12-08",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Mike Deodato",
+			"Steve Dillon",
+			"Randy Gentile",
+			"Avalon Studio",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/56e1a0f56450c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "016"
+	},
+	{
+		"id": "1536",
+		"collection": "Bullseye Greatest Hits",
+		"title": "Greatest Hits",
+		"vol": 1,
+		"num": 5,
+		"date": "2005-01-19",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Mike Deodato",
+			"Steve Dillon",
+			"Randy Gentile",
+			"Avalon Studio",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/56e1a17c1f15b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "016"
+	},
+	{
+		"id": "4694",
+		"collection": "Daredevil Redemption",
+		"title": "Redemption",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-04-01",
+		"characters": [
+			""
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc37e2e77d71.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "017"
+	},
+	{
+		"id": "1645",
+		"collection": "Daredevil Redemption",
+		"title": "Redemption",
+		"vol": 1,
+		"num": 2,
+		"date": "2005-02-16",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Michael Gaydos",
+			"David Hine",
+			"Lee Loughridge",
+			"Cory Petit",
+			"Bill Sienkiewicz"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4bc651397a172.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "017"
+	},
+	{
+		"id": "1739",
+		"collection": "Daredevil Redemption",
+		"title": "Redemption",
+		"vol": 1,
+		"num": 3,
+		"date": "2005-03-30",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Michael Gaydos",
+			"David Hine",
+			"Lee Loughridge",
+			"Cory Petit",
+			"Bill Sienkiewicz"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/4bc64abf42bc2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "017"
+	},
+	{
+		"id": "1847",
+		"collection": "Daredevil Redemption",
+		"title": "Redemption",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-05-04",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Michael Gaydos",
+			"David Hine",
+			"Lee Loughridge",
+			"Cory Petit",
+			"Bill Sienkiewicz"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4bc6435017e07.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "017"
+	},
+	{
+		"id": "1953",
+		"collection": "Daredevil Redemption",
+		"title": "Redemption",
+		"vol": 1,
+		"num": 5,
+		"date": "2005-06-22",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Michael Gaydos",
+			"David Hine",
+			"Lee Loughridge",
+			"Cory Petit",
+			"Bill Sienkiewicz"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bc63cd545ad1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "017"
+	},
+	{
+		"id": "2059",
+		"collection": "Daredevil Redemption",
+		"title": "Redemption",
+		"vol": 1,
+		"num": 6,
+		"date": "2005-07-13",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Michael Gaydos",
+			"David Hine",
+			"Lee Loughridge",
+			"Cory Petit",
+			"Bill Sienkiewicz"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc636f5cb820.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "017"
+	},
+	{
+		"id": "12817",
+		"collection": "Captain America",
+		"title": "Out of Time",
+		"vol": 5,
+		"num": 1,
+		"date": "2002-06-01",
+		"characters": [
+			"Captain America",
+			"Nick Fury"
+		],
+		"creators": [
+			"Kelly Lamy",
+			"Nanci Dakesian",
+			"Stuart Moore",
+			"Wes Abbot",
+			"Richard Starkings",
+			"John Cassaday",
+			"John Ney Rieber",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/00/4bc47b0eaa200.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Winter soldier introduction",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "018"
+	},
+	{
+		"id": "12828",
+		"collection": "Captain America",
+		"title": "Out of Time",
+		"vol": 5,
+		"num": 2,
+		"date": "2002-07-01",
+		"characters": [
+			"Captain America",
+			"Nick Fury"
+		],
+		"creators": [
+			"Kelly Lamy",
+			"C. B. Cebulski",
+			"Nanci Dakesian",
+			"Ralph Macchio",
+			"Stuart Moore",
+			"Brian Smith",
+			"Wes Abbot",
+			"Chris Eliopoulos",
+			"Richard Starkings",
+			"Chuck Austen",
+			"Stan Lee",
+			"John Ney Rieber",
+			"John Cassaday",
+			"David Finch",
+			"Matt Milla",
+			"Dave Stewart",
+			"Art Thibert"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/4bc37f8c955fc.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "018"
+	},
+	{
+		"id": "12839",
+		"collection": "Captain America",
+		"title": "Out of Time",
+		"vol": 5,
+		"num": 3,
+		"date": "2002-08-01",
+		"characters": [
+			"Captain America"
+		],
+		"creators": [
+			"Kelly Lamy",
+			"Nanci Dakesian",
+			"Stuart Moore",
+			"Wes Abbot",
+			"Richard Starkings",
+			"John Cassaday",
+			"John Ney Rieber",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc37f966022c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "018"
+	},
+	{
+		"id": "12843",
+		"collection": "Captain America",
+		"title": "Out of Time",
+		"vol": 5,
+		"num": 4,
+		"date": "2002-09-10",
+		"characters": [
+			"Captain America",
+			"Nick Fury"
+		],
+		"creators": [
+			"Kelly Lamy",
+			"Nanci Dakesian",
+			"Stuart Moore",
+			"Joe Quesada",
+			"Wes Abbot",
+			"Richard Starkings",
+			"John Cassaday",
+			"Signed P.r.",
+			"John Ney Rieber",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc37f9b3c0b6.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "018"
+	},
+	{
+		"id": "12844",
+		"collection": "Captain America",
+		"title": "Out of Time",
+		"vol": 5,
+		"num": 5,
+		"date": "2002-10-10",
+		"characters": [
+			"Captain America",
+			"Nick Fury"
+		],
+		"creators": [
+			"Kelly Lamy",
+			"Nanci Dakesian",
+			"Stuart Moore",
+			"Joe Quesada",
+			"Wes Abbot",
+			"Richard Starkings",
+			"John Cassaday",
+			"John Ney Rieber",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/4bb8543f68682.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "018"
+	},
+	{
+		"id": "12845",
+		"collection": "Captain America",
+		"title": "Out of Time",
+		"vol": 5,
+		"num": 6,
+		"date": "2002-12-10",
+		"characters": [
+			"Archangel",
+			"Captain America",
+			"Juggernaut",
+			"Nightcrawler",
+			"Stacy X"
+		],
+		"creators": [
+			"Kelly Lamy",
+			"Nanci Dakesian",
+			"Stuart Moore",
+			"Joe Quesada",
+			"Wes Abbot",
+			"Richard Starkings",
+			"Paul Tutrone",
+			"Kia Asamiya",
+			"Chuck Austen",
+			"Stan Lee",
+			"John Ney Rieber",
+			"John Cassaday",
+			"J.d. Smith",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc35d58dd4aa.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "018"
+	},
+	{
+		"id": "12846",
+		"collection": "Captain America",
+		"title": "Out of Time",
+		"vol": 5,
+		"num": 7,
+		"date": "2003-02-10",
+		"characters": [
+			"Captain America"
+		],
+		"creators": [
+			"Wes Abbot",
+			"Richard Starkings",
+			"John Cassaday",
+			"Trevor Hairsine",
+			"Nick Lowe",
+			"Joe Quesada",
+			"Danny K. Miki",
+			"John Ney Rieber",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bc47ace66152.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "018"
+	},
+	{
+		"id": "104",
+		"collection": "Secret war",
+		"title": "Secret War",
+		"vol": 1,
+		"num": 1,
+		"date": "2004-02-04",
+		"event": "Secret War",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Gabriele Dell'Otto"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc6aedcd6792.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Nick Fury leaves SHIELD and goes solo",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "019"
+	},
+	{
+		"id": "668",
+		"collection": "Secret war",
+		"title": "Secret War",
+		"vol": 1,
+		"num": 2,
+		"date": "2004-05-26",
+		"event": "Secret War",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Gabriele Dell'Otto"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc684c2ad149.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "019"
+	},
+	{
+		"id": "773",
+		"collection": "Secret war",
+		"title": "Secret War",
+		"vol": 1,
+		"num": 3,
+		"date": "2004-10-13",
+		"event": "Secret War",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Gabriele Dell'Otto"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bc67d43da4b0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "019"
+	},
+	{
+		"id": "1708",
+		"collection": "Secret war",
+		"title": "Secret War",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-03-30",
+		"event": "Secret War",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Gabriele Dell'Otto",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bc64c8d1308b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "019"
+	},
+	{
+		"id": "2594",
+		"collection": "Secret war",
+		"title": "Secret War",
+		"vol": 1,
+		"num": 5,
+		"date": "2005-12-14",
+		"event": "Secret War",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Gabriele Dell'Otto",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc61c3f15578.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Maria Hill becomes SHIELD director",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "019"
+	},
+	{
+		"id": "2",
+		"collection": "The Pulse",
+		"title": "Secret War The Pulse",
+		"vol": 1,
+		"num": 6,
+		"date": "2004-11-10",
+		"event": "Secret War",
+		"characters": [
+			"Captain America",
+			"Danny Rand",
+			"Jessica Jones",
+			"Logan",
+			"Luke Cage",
+			"Nick Fury",
+			"Wolverine"
+		],
+		"creators": [
+			"Brent Anderson",
+			"Brian Michael Bendis",
+			"Peter Pantazis",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/56538fd257915.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "020"
+	},
+	{
+		"id": "1508",
+		"collection": "The Pulse",
+		"title": "Secret War The Pulse",
+		"vol": 1,
+		"num": 7,
+		"date": "2005-01-12",
+		"event": "Secret War",
+		"characters": [
+			"Ben Urich",
+			"Jessica Jones"
+		],
+		"creators": [
+			"Brent Anderson",
+			"Brian Michael Bendis",
+			"Mike Mayhew",
+			"Peter Pantazis",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/00/56535583219c8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "020"
+	},
+	{
+		"id": "1707",
+		"collection": "The Pulse",
+		"title": "Secret War The Pulse",
+		"vol": 1,
+		"num": 8,
+		"date": "2005-03-30",
+		"event": "Secret War",
+		"characters": [
+			"Ben Urich",
+			"Jessica Jones"
+		],
+		"creators": [
+			"Brent Anderson",
+			"Brian Michael Bendis",
+			"Michael Lark",
+			"Mike Mayhew",
+			"Peter Pantazis",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/565354cb26d91.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "020"
+	},
+	{
+		"id": "1935",
+		"collection": "The Pulse",
+		"title": "Secret War The Pulse",
+		"vol": 1,
+		"num": 9,
+		"date": "2005-06-08",
+		"event": "Secret War",
+		"characters": [
+			"Ben Urich",
+			"J. Jonah Jameson",
+			"Jessica Jones",
+			"Luke Cage",
+			"Wolverine"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Michael Lark",
+			"Mike Mayhew",
+			"Peter Pantazis",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/565354b34bc94.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "020"
+	},
+	{
+		"id": "40",
+		"collection": "New Avengers",
+		"title": "Breakout",
+		"vol": 1,
+		"num": 1,
+		"date": "2004-12-01",
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Luke Cage",
+			"Sentry (Robert Reynolds)",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Wolverine"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Frank D'Armata",
+			"David Finch",
+			"Danny K. Miki",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/5149eb485fbf8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "New Avengers are formed",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "021"
+	},
+	{
+		"id": "1438",
+		"collection": "New Avengers",
+		"title": "Breakout",
+		"vol": 1,
+		"num": 2,
+		"date": "2004-12-29",
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Daredevil",
+			"Electro",
+			"Iron Man",
+			"Luke Cage",
+			"Spider-Man"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Tom Brevoort",
+			"Frank D'Armata",
+			"David Finch",
+			"Danny K. Miki",
+			"Mark Morales",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4f7da88490208.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "021"
+	},
+	{
+		"id": "1532",
+		"collection": "New Avengers",
+		"title": "Breakout",
+		"vol": 1,
+		"num": 3,
+		"date": "2005-02-02",
+		"characters": [
+			"Captain America",
+			"Iron Man",
+			"Jessica Jones",
+			"Luke Cage",
+			"Sentry (Robert Reynolds)"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Frank D'Armata",
+			"David Finch",
+			"Danny K. Miki",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/4f7daa5793897.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "021"
+	},
+	{
+		"id": "1628",
+		"collection": "New Avengers",
+		"title": "Breakout",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-03-23",
+		"characters": [
+			"Avengers",
+			"Bushwacker",
+			"Captain America",
+			"Electro",
+			"Grey Gargoyle",
+			"Iron Man",
+			"Luke Cage",
+			"Maria Hill",
+			"Mr. Hyde",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Wolverine"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Frank D'Armata",
+			"David Finch",
+			"Danny K. Miki",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4f7dabc27bd16.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "021"
+	},
+	{
+		"id": "1720",
+		"collection": "New Avengers",
+		"title": "Breakout",
+		"vol": 1,
+		"num": 5,
+		"date": "2005-04-27",
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Luke Cage",
+			"Sauron",
+			"Sentry (Robert Reynolds)",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Vertigo (Savage Land Mutate)",
+			"Wolverine"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Frank D'Armata",
+			"David Finch",
+			"Danny K. Miki",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4f7dad200e939.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "021"
+	},
+	{
+		"id": "1829",
+		"collection": "New Avengers",
+		"title": "Breakout",
+		"vol": 1,
+		"num": 6,
+		"date": "2005-06-22",
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Iron Man",
+			"Luke Cage",
+			"Maria Hill",
+			"Sauron",
+			"Sentry (Robert Reynolds)",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Vertigo (Savage Land Mutate)",
+			"Wolverine"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Frank D'Armata",
+			"David Finch",
+			"Danny K. Miki",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4f7dae738407f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "021"
+	},
+	{
+		"id": "1913",
+		"collection": "Spider-Man Breakout",
+		"title": "Spider-Man Breakout",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-04-20",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Tony Bedard",
+			"Mike Deodato",
+			"Raul Fernandez",
+			"Manuel Garcia",
+			"Cory Petit",
+			"Chris Sotomayor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc63e75162e1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "022"
+	},
+	{
+		"id": "2016",
+		"collection": "Spider-Man Breakout",
+		"title": "Spider-Man Breakout",
+		"vol": 1,
+		"num": 2,
+		"date": "2005-05-18",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Tony Bedard",
+			"Mike Deodato",
+			"Raul Fernandez",
+			"Manuel Garcia",
+			"Cory Petit",
+			"Chris Sotomayor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bc639fb682be.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "022"
+	},
+	{
+		"id": "2119",
+		"collection": "Spider-Man Breakout",
+		"title": "Spider-Man Breakout",
+		"vol": 1,
+		"num": 3,
+		"date": "2005-06-15",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Tony Bedard",
+			"Mike Deodato",
+			"Raul Fernandez",
+			"Manuel Garcia",
+			"Cory Petit",
+			"Chris Sotomayor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "022"
+	},
+	{
+		"id": "2229",
+		"collection": "Spider-Man Breakout",
+		"title": "Spider-Man Breakout",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-07-13",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Tony Bedard",
+			"Raul Fernandez",
+			"Manuel Garcia",
+			"Cory Petit",
+			"Chris Sotomayor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bc62d0f7afe5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "022"
+	},
+	{
+		"id": "2342",
+		"collection": "Spider-Man Breakout",
+		"title": "Spider-Man Breakout",
+		"vol": 1,
+		"num": 5,
+		"date": "2005-08-10",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Tony Bedard",
+			"Raul Fernandez",
+			"Manuel Garcia",
+			"Chris Sotomayor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4bc6274f04545.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "022"
+	},
+	{
+		"id": "1637",
+		"collection": "Black Panther",
+		"title": "Who is the Black Panther",
+		"vol": 4,
+		"num": 1,
+		"date": "2005-02-02",
+		"characters": [
+			"Black Panther"
+		],
+		"creators": [
+			"Chris Eliopoulos",
+			"Reginald Hudlin",
+			"Klaus Janson",
+			"John Romita JR.",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/5744b9e7af758.jpg",
+		"universe": "Earth-616",
+		"comments": "Black Panther introduction",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "023"
+	},
+	{
+		"id": "1731",
+		"collection": "Black Panther",
+		"title": "Who is the Black Panther",
+		"vol": 4,
+		"num": 2,
+		"date": "2005-03-16",
+		"characters": [
+			"Black Panther"
+		],
+		"creators": [
+			"Chris Eliopoulos",
+			"Reginald Hudlin",
+			"Klaus Janson",
+			"Esad Ribic",
+			"John Romita JR.",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/5744be90eea32.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "023"
+	},
+	{
+		"id": "1838",
+		"collection": "Black Panther",
+		"title": "Who is the Black Panther",
+		"vol": 4,
+		"num": 3,
+		"date": "2005-04-13",
+		"characters": [
+			"Black Panther"
+		],
+		"creators": [
+			"Frank Cho",
+			"Chris Eliopoulos",
+			"Reginald Hudlin",
+			"Klaus Janson",
+			"John Romita JR.",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/5745c0fd00165.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "023"
+	},
+	{
+		"id": "1945",
+		"collection": "Black Panther",
+		"title": "Who is the Black Panther",
+		"vol": 4,
+		"num": 4,
+		"date": "2005-05-18",
+		"characters": [
+			"Black Panther"
+		],
+		"creators": [
+			"John Cassaday",
+			"Chris Eliopoulos",
+			"Reginald Hudlin",
+			"Klaus Janson",
+			"John Romita JR.",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5745c00112846.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "023"
+	},
+	{
+		"id": "2053",
+		"collection": "Black Panther",
+		"title": "Who is the Black Panther",
+		"vol": 4,
+		"num": 5,
+		"date": "2005-06-22",
+		"characters": [
+			"Black Panther"
+		],
+		"creators": [
+			"Terry Dodson",
+			"Chris Eliopoulos",
+			"Reginald Hudlin",
+			"Klaus Janson",
+			"John Romita JR.",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/5745bf6c5e959.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "023"
+	},
+	{
+		"id": "2165",
+		"collection": "Black Panther",
+		"title": "Who is the Black Panther",
+		"vol": 4,
+		"num": 6,
+		"date": "2005-07-27",
+		"characters": [
+			"Black Panther"
+		],
+		"creators": [
+			"Kaare Andrews",
+			"Randy Gentile",
+			"Reginald Hudlin",
+			"Klaus Janson",
+			"John Romita JR."
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5745beba12657.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "023"
+	},
+	{
+		"id": "1858",
+		"collection": "Great Lakes Avengers",
+		"title": "Missasembled",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-04-06",
+		"characters": [
+			"Big Bertha",
+			"Dinah Soar",
+			"Doorman",
+			"Flatman",
+			"Great Lakes Avengers",
+			"Mr. Immortal",
+			"Squirrel Girl"
+		],
+		"creators": [
+			"Rick Magyar",
+			"Paul Pelletier",
+			"Wil Quintana",
+			"Dan Slott"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc465362ba79.jpg",
+		"universe": "Earth-616",
+		"comments": "Introduction to Great Lakes Avengers",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "024"
+	},
+	{
+		"id": "1981",
+		"collection": "Great Lakes Avengers",
+		"title": "Missasembled",
+		"vol": 1,
+		"num": 2,
+		"date": "2005-05-04",
+		"characters": [
+			"Black Cat",
+			"Daredevil",
+			"Hercules",
+			"Mr. Fantastic",
+			"Sasquatch (Walter Langkowski)",
+			"Silver Surfer",
+			"Spider-Man",
+			"Thor",
+			"Wasp",
+			"Wolverine",
+			"Wonder Man"
+		],
+		"creators": [
+			"Rick Magyar",
+			"Paul Pelletier",
+			"Wil Quintana",
+			"Dan Slott"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/57cf34d70b954.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "024"
+	},
+	{
+		"id": "2084",
+		"collection": "Great Lakes Avengers",
+		"title": "Missasembled",
+		"vol": 1,
+		"num": 3,
+		"date": "2005-06-15",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dave Lanphear",
+			"Rick Magyar",
+			"Paul Pelletier",
+			"Wil Quintana",
+			"Dan Slott"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/57cf34a1100e6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "024"
+	},
+	{
+		"id": "2194",
+		"collection": "Great Lakes Avengers",
+		"title": "Missasembled",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-07-06",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dave Lanphear",
+			"Rick Magyar",
+			"Paul Pelletier",
+			"Wil Quintana",
+			"Dan Slott"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/57cf34b208c66.jpg",
+		"universe": "Earth-617",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "024"
+	},
+	{
+		"id": "3211",
+		"collection": "Great Lakes Avengers Special",
+		"title": "Missasembled",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-12-14",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dave Lanphear",
+			"Paul Pelletier",
+			"Wil Quintana",
+			"Dan Slott",
+			"Ty Templeton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/90/57f6738e73546.jpg",
+		"universe": "Earth-618",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "024"
+	},
+	{
+		"id": "3982",
+		"collection": "I Heart Marvel",
+		"title": "Missasembled",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-04-01",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Gez Fry",
+			"Paco Medina",
+			"Mike Norton",
+			"Fabian Nicieza"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bb6c3f68780e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "024"
+	},
+	{
+		"id": "1663",
+		"collection": "Uncanny X-Men",
+		"title": "World's End",
+		"vol": 1,
+		"num": 455,
+		"date": "2005-02-02",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Claremont",
+			"Mark Farmer",
+			"Dean White",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/570294c7e1f6b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "025"
+	},
+	{
+		"id": "1664",
+		"collection": "Uncanny X-Men",
+		"title": "World's End",
+		"vol": 1,
+		"num": 456,
+		"date": "2005-02-23",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Claremont",
+			"Mark Farmer",
+			"Dean White",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bc64f9dca725.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "025"
+	},
+	{
+		"id": "1758",
+		"collection": "Uncanny X-Men",
+		"title": "World's End",
+		"vol": 1,
+		"num": 457,
+		"date": "2005-03-16",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Claremont",
+			"Mark Farmer",
+			"Dean White",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4c7d663f526da.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "025"
+	},
+	{
+		"id": "1863",
+		"collection": "Uncanny X-Men",
+		"title": "World's End",
+		"vol": 1,
+		"num": 458,
+		"date": "2005-04-20",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Claremont",
+			"Mark Farmer",
+			"Dean White",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc641b57e077.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "025"
+	},
+	{
+		"id": "1970",
+		"collection": "Uncanny X-Men",
+		"title": "World's End",
+		"vol": 1,
+		"num": 459,
+		"date": "2005-05-18",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Claremont",
+			"Mark Farmer",
+			"Dean White",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc63c8f21fdb.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "025"
+	},
+	{
+		"id": "1575",
+		"collection": "X-Men Phoenix Endsong",
+		"title": "Phoenix Endsong",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-01-05",
+		"characters": [
+			"Jean Grey",
+			"Jean Grey",
+			"X-Men"
+		],
+		"creators": [
+			"Greg Land",
+			"Greg Pak",
+			"Justin Ponsor",
+			"Clem Robins",
+			"Matt Ryan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc654cf9d0ac.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "026"
+	},
+	{
+		"id": "1576",
+		"collection": "X-Men Phoenix Endsong",
+		"title": "Phoenix Endsong",
+		"vol": 1,
+		"num": 2,
+		"date": "2005-02-02",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Greg Land",
+			"Greg Pak",
+			"Justin Ponsor",
+			"Clem Robins",
+			"Matt Ryan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc654ca5765f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "026"
+	},
+	{
+		"id": "1666",
+		"collection": "X-Men Phoenix Endsong",
+		"title": "Phoenix Endsong",
+		"vol": 1,
+		"num": 3,
+		"date": "2005-02-23",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Greg Land",
+			"Greg Pak",
+			"Justin Ponsor",
+			"Clem Robins",
+			"Matt Ryan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc64f935cfc1.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "026"
+	},
+	{
+		"id": "1761",
+		"collection": "X-Men Phoenix Endsong",
+		"title": "Phoenix Endsong",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-03-30",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Greg Land",
+			"Greg Pak",
+			"Justin Ponsor",
+			"Clem Robins",
+			"Matt Ryan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc649209db0b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "026"
+	},
+	{
+		"id": "1867",
+		"collection": "X-Men Phoenix Endsong",
+		"title": "Phoenix Endsong",
+		"vol": 1,
+		"num": 5,
+		"date": "2005-04-27",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Greg Land",
+			"Greg Pak",
+			"Justin Ponsor",
+			"Clem Robins",
+			"Matt Ryan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bc641a7212e7.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "026"
+	},
+	{
+		"id": "1741",
+		"collection": "X-Men The New Age of Apocalypse",
+		"title": "The New Age of Apocalypse",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-03-02",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Edgar Delgado",
+			"Dave Sharpe",
+			"Tim Townsend",
+			"Akira Yoshida"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/568c36c06a2d5.jpg",
+		"universe": "Earth-295",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "027"
+	},
+	{
+		"id": "1742",
+		"collection": "X-Men The New Age of Apocalypse",
+		"title": "The New Age of Apocalypse",
+		"vol": 1,
+		"num": 2,
+		"date": "2005-03-09",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Edgar Delgado",
+			"Dave Sharpe",
+			"Tim Townsend",
+			"Akira Yoshida"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/568c370c924f4.jpg",
+		"universe": "Earth-295",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "027"
+	},
+	{
+		"id": "1743",
+		"collection": "X-Men The New Age of Apocalypse",
+		"title": "The New Age of Apocalypse",
+		"vol": 1,
+		"num": 3,
+		"date": "2005-03-16",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Edgar Delgado",
+			"Dave Sharpe",
+			"Tim Townsend",
+			"Akira Yoshida"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/568c36e3d336f.jpg",
+		"universe": "Earth-295",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "027"
+	},
+	{
+		"id": "1744",
+		"collection": "X-Men The New Age of Apocalypse",
+		"title": "The New Age of Apocalypse",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-03-23",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Edgar Delgado",
+			"Dave Sharpe",
+			"Tim Townsend",
+			"Akira Yoshida"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/568c375d1ac65.jpg",
+		"universe": "Earth-295",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "027"
+	},
+	{
+		"id": "1745",
+		"collection": "X-Men The New Age of Apocalypse",
+		"title": "The New Age of Apocalypse",
+		"vol": 1,
+		"num": 5,
+		"date": "2005-03-30",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Edgar Delgado",
+			"Dave Sharpe",
+			"Tim Townsend",
+			"Akira Yoshida"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/568c3789da283.jpg",
+		"universe": "Earth-295",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "027"
+	},
+	{
+		"id": "1853",
+		"collection": "X-Men The New Age of Apocalypse",
+		"title": "The New Age of Apocalypse",
+		"vol": 1,
+		"num": 6,
+		"date": "2005-04-27",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Edgar Delgado",
+			"Chris Eliopoulos",
+			"Tim Townsend",
+			"Akira Yoshida"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/568c372e43df9.jpg",
+		"universe": "Earth-295",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "027"
+	},
+	{
+		"id": "1534",
+		"collection": "X-23",
+		"title": "Innocence Lost",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-01-12",
+		"characters": [
+			"X-23",
+			"X-Men"
+		],
+		"creators": [
+			"Brian Haberlin",
+			"Cory Petit",
+			"Jeanine Schaefer",
+			"Jonathan Sibal",
+			"Billy Tan",
+			"Chris Yost"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc468ba18fc2.jpg",
+		"universe": "Earth-616",
+		"comments": "X-23 origin",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "028"
+	},
+	{
+		"id": "1545",
+		"collection": "X-23",
+		"title": "Innocence Lost",
+		"vol": 1,
+		"num": 2,
+		"date": "2005-01-26",
+		"characters": [
+			"X-23",
+			"X-Men"
+		],
+		"creators": [
+			"Brian Haberlin",
+			"Craig Kyle",
+			"Cory Petit",
+			"Jonathan Sibal",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/57488a1a2c6c3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "028"
+	},
+	{
+		"id": "1639",
+		"collection": "X-23",
+		"title": "Innocence Lost",
+		"vol": 1,
+		"num": 3,
+		"date": "2005-02-23",
+		"characters": [
+			"X-23",
+			"X-Men"
+		],
+		"creators": [
+			"Brian Haberlin",
+			"Craig Kyle",
+			"Cory Petit",
+			"Jonathan Sibal",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/574889e5d330a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "028"
+	},
+	{
+		"id": "1733",
+		"collection": "X-23",
+		"title": "Innocence Lost",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-03-30",
+		"characters": [
+			"X-23",
+			"X-Men"
+		],
+		"creators": [
+			"Brian Haberlin",
+			"Craig Kyle",
+			"Cory Petit",
+			"Jonathan Sibal",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/574889e3122a5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "028"
+	},
+	{
+		"id": "1840",
+		"collection": "X-23",
+		"title": "Innocence Lost",
+		"vol": 1,
+		"num": 5,
+		"date": "2005-04-20",
+		"characters": [
+			"X-23",
+			"X-Men"
+		],
+		"creators": [
+			"Brian Haberlin",
+			"Craig Kyle",
+			"Cory Petit",
+			"Jonathan Sibal",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/574889d0a8456.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "028"
+	},
+	{
+		"id": "1947",
+		"collection": "X-23",
+		"title": "Innocence Lost",
+		"vol": 1,
+		"num": 6,
+		"date": "2005-05-25",
+		"characters": [
+			"X-23",
+			"X-Men"
+		],
+		"creators": [
+			"Brian Haberlin",
+			"Craig Kyle",
+			"Chris Yost",
+			"Cory Petit",
+			"Jonathan Sibal",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/574889a492d8d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "028"
+	},
+	{
+		"id": "1591",
+		"collection": "Beta Ray Bill Stormbreaker",
+		"title": "Stormbreaker",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-01-12",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Daniel Berman",
+			"Mike Avon Oeming",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4bc6548214c54.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "029"
+	},
+	{
+		"id": "1680",
+		"collection": "Beta Ray Bill Stormbreaker",
+		"title": "Stormbreaker",
+		"vol": 1,
+		"num": 2,
+		"date": "2005-02-16",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Mike Avon Oeming",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bc64e1307ff2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "029"
+	},
+	{
+		"id": "1779",
+		"collection": "Beta Ray Bill Stormbreaker",
+		"title": "Stormbreaker",
+		"vol": 1,
+		"num": 3,
+		"date": "2005-03-16",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Mike Avon Oeming",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc6483a5c3f3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "029"
+	},
+	{
+		"id": "1882",
+		"collection": "Beta Ray Bill Stormbreaker",
+		"title": "Stormbreaker",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-04-20",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Chris Eliopoulos",
+			"Mike Avon Oeming",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4bc640350f101.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "029"
+	},
+	{
+		"id": "1984",
+		"collection": "Beta Ray Bill Stormbreaker",
+		"title": "Stormbreaker",
+		"vol": 1,
+		"num": 5,
+		"date": "2005-05-18",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Chris Eliopoulos",
+			"Mike Avon Oeming",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc63b059a96a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "029"
+	},
+	{
+		"id": "2087",
+		"collection": "Beta Ray Bill Stormbreaker",
+		"title": "Stormbreaker",
+		"vol": 1,
+		"num": 6,
+		"date": "2005-06-15",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Chris Eliopoulos",
+			"Mike Avon Oeming",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4bc63543487a1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "029"
+	},
+	{
+		"id": "1820",
+		"collection": "Fantastic Four",
+		"title": "Dream Fever",
+		"vol": 1,
+		"num": 525,
+		"date": "2005-04-20",
+		"characters": [
+			"Fantastic Four"
+		],
+		"creators": [
+			"Jim Cheung",
+			"Randy Gentile",
+			"Tom Grummett",
+			"Karl Kesel",
+			"Paul Mounts",
+			"Larry Stucker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/80/57e974ec59a5f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "030"
+	},
+	{
+		"id": "1821",
+		"collection": "Fantastic Four",
+		"title": "Dream Fever",
+		"vol": 1,
+		"num": 526,
+		"date": "2005-05-11",
+		"characters": [
+			"Fantastic Four"
+		],
+		"creators": [
+			"Jim Cheung",
+			"Tom Grummett",
+			"Karl Kesel",
+			"Paul Mounts"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/57e972d21cd4c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "030"
+	},
+	{
+		"id": "38",
+		"collection": "Astonishing X-Men",
+		"title": "Dangerous",
+		"vol": 3,
+		"num": 7,
+		"date": "2004-12-22",
+		"characters": [
+			"Beast",
+			"Cyclops",
+			"Emma Frost",
+			"Kitty Pryde",
+			"Lockheed",
+			"Wolverine",
+			"X-Men"
+		],
+		"creators": [
+			"John Cassaday",
+			"Chris Eliopoulos",
+			"Laura Martin",
+			"Joss Whedon"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/56ddf11f48885.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "031"
+	},
+	{
+		"id": "1436",
+		"collection": "Astonishing X-Men",
+		"title": "Dangerous",
+		"vol": 3,
+		"num": 8,
+		"date": "2005-02-16",
+		"characters": [
+			"Beast",
+			"Colossus",
+			"Cyclops",
+			"Emma Frost",
+			"Kitty Pryde",
+			"Wolverine",
+			"X-Men"
+		],
+		"creators": [
+			"John Cassaday",
+			"Chris Eliopoulos",
+			"Laura Martin",
+			"Joss Whedon"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4d25117a9bdeb.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "031"
+	},
+	{
+		"id": "1626",
+		"collection": "Astonishing X-Men",
+		"title": "Dangerous",
+		"vol": 3,
+		"num": 9,
+		"date": "2005-03-30",
+		"characters": [
+			"Beast",
+			"Cyclops",
+			"Emma Frost",
+			"Kitty Pryde",
+			"Wolverine",
+			"X-Men"
+		],
+		"creators": [
+			"John Cassaday",
+			"Chris Eliopoulos",
+			"Laura Martin",
+			"Joss Whedon"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/56ddf1e7a799a.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "031"
+	},
+	{
+		"id": "1719",
+		"collection": "Astonishing X-Men",
+		"title": "Dangerous",
+		"vol": 3,
+		"num": 10,
+		"date": "2005-05-11",
+		"characters": [
+			"Beast",
+			"Cyclops",
+			"Emma Frost",
+			"Kitty Pryde",
+			"Professor X",
+			"Wolverine",
+			"X-Men"
+		],
+		"creators": [
+			"John Cassaday",
+			"Chris Eliopoulos",
+			"Laura Martin",
+			"Joss Whedon"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4d24dcda5fd84.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "031"
+	},
+	{
+		"id": "2842",
+		"collection": "Astonishing X-Men",
+		"title": "Dangerous",
+		"vol": 3,
+		"num": 11,
+		"date": "2005-07-06",
+		"characters": [
+			"Beast",
+			"Colossus",
+			"Cyclops",
+			"Kitty Pryde",
+			"Professor X",
+			"Wolverine",
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc34c8b2c630.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "031"
+	},
+	{
+		"id": "2161",
+		"collection": "Astonishing X-Men",
+		"title": "Dangerous",
+		"vol": 3,
+		"num": 12,
+		"date": "2005-08-31",
+		"characters": [
+			"Beast",
+			"Colossus",
+			"Cyclops",
+			"Emma Frost",
+			"Kitty Pryde",
+			"Professor X",
+			"Wolverine",
+			"X-Men"
+		],
+		"creators": [
+			"John Cassaday",
+			"Chris Eliopoulos",
+			"Laura Martin",
+			"Joss Whedon"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/56ddf2bb45f54.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "031"
+	},
+	{
+		"id": "79",
+		"collection": "District X",
+		"title": "Underground",
+		"vol": 1,
+		"num": 7,
+		"date": "2004-11-10",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Andrew Blase",
+			"David Hine",
+			"Lan Medina",
+			"Alejandro Sicat",
+			"Richard Starkings",
+			"Avalon Studio"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc6b0937d851.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "032"
+	},
+	{
+		"id": "1482",
+		"collection": "District X",
+		"title": "Underground",
+		"vol": 1,
+		"num": 8,
+		"date": "2004-12-08",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Steve McNiven",
+			"Lan Medina",
+			"Alejandro Sicat",
+			"Richard Starkings",
+			"Avalon Studio"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4bc65bf919eb7.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "032"
+	},
+	{
+		"id": "1567",
+		"collection": "District X",
+		"title": "Underground",
+		"vol": 1,
+		"num": 9,
+		"date": "2005-01-12",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Lan Medina",
+			"Tom Raney",
+			"Alejandro Sicat",
+			"Richard Starkings",
+			"Avalon Studio"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bc6562687e16.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "032"
+	},
+	{
+		"id": "1656",
+		"collection": "District X",
+		"title": "Underground",
+		"vol": 1,
+		"num": 10,
+		"date": "2005-02-09",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Lan Medina",
+			"Tom Raney",
+			"Alejandro Sicat",
+			"Richard Starkings",
+			"Avalon Studio"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bc64fc30a9df.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "032"
+	},
+	{
+		"id": "1750",
+		"collection": "District X",
+		"title": "Underground",
+		"vol": 1,
+		"num": 11,
+		"date": "2005-03-09",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Lan Medina",
+			"Tom Raney",
+			"Alejandro Sicat",
+			"Richard Starkings",
+			"Avalon Studio"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4bc64949cdc55.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "032"
+	},
+	{
+		"id": "1856",
+		"collection": "District X",
+		"title": "Underground",
+		"vol": 1,
+		"num": 12,
+		"date": "2005-04-13",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Lan Medina",
+			"Tom Raney",
+			"Alejandro Sicat",
+			"Richard Starkings",
+			"Avalon Studio"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc64323475dc.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "032"
+	},
+	{
+		"id": "2019",
+		"collection": "District X",
+		"title": "Underground",
+		"vol": 1,
+		"num": 13,
+		"date": "2005-05-11",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Trevor Hairsine",
+			"David Hine",
+			"Lan Medina",
+			"Alejandro Sicat",
+			"Richard Starkings",
+			"Avalon Studio"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bc638aa08dc2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "032"
+	},
+	{
+		"id": "2124",
+		"collection": "District X",
+		"title": "Underground",
+		"vol": 1,
+		"num": 14,
+		"date": "2005-06-08",
+		"characters": [
+			"Bishop"
+		],
+		"creators": [
+			"Trevor Hairsine",
+			"David Hine",
+			"Lan Medina",
+			"Alejandro Sicat",
+			"Richard Starkings",
+			"Avalon Studio"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc6337a3dee6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "032"
+	},
+	{
+		"id": "838",
+		"collection": "Nightcrawler",
+		"title": "The Devil Inside",
+		"vol": 1,
+		"num": 1,
+		"date": "2004-09-22",
+		"characters": [
+			"Nightcrawler"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Greg Land",
+			"Tom Palmer",
+			"Darick Robertson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4bc6784420b98.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "033"
+	},
+	{
+		"id": "928",
+		"collection": "Nightcrawler",
+		"title": "The Devil Inside",
+		"vol": 1,
+		"num": 2,
+		"date": "2004-10-27",
+		"characters": [
+			"Nightcrawler"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Greg Land",
+			"Darick Robertson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/4bc6726077977.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "033"
+	},
+	{
+		"id": "28",
+		"collection": "Nightcrawler",
+		"title": "The Devil Inside",
+		"vol": 1,
+		"num": 3,
+		"date": "2004-11-24",
+		"characters": [
+			"Nightcrawler"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Wayne Faucher",
+			"Greg Land",
+			"Matt Milla",
+			"Cory Petit",
+			"Darick Robertson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bc6b5592b2a2.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "033"
+	},
+	{
+		"id": "1425",
+		"collection": "Nightcrawler",
+		"title": "The Devil Inside",
+		"vol": 1,
+		"num": 4,
+		"date": "2004-12-22",
+		"characters": [
+			"Nightcrawler"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Wayne Faucher",
+			"Greg Land",
+			"Matt Milla",
+			"Cory Petit",
+			"Darick Robertson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc65f6d9111e.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "033"
+	},
+	{
+		"id": "1521",
+		"collection": "Nightcrawler",
+		"title": "The Devil Inside",
+		"vol": 1,
+		"num": 5,
+		"date": "2005-01-19",
+		"characters": [
+			"Nightcrawler"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Wayne Faucher",
+			"Greg Land",
+			"Matt Milla",
+			"Cory Petit",
+			"Darick Robertson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc658d346e37.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "033"
+	},
+	{
+		"id": "1621",
+		"collection": "Nightcrawler",
+		"title": "The Devil Inside",
+		"vol": 1,
+		"num": 6,
+		"date": "2005-02-23",
+		"characters": [
+			"Nightcrawler"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Wayne Faucher",
+			"Matt Milla",
+			"Cory Petit",
+			"Darick Robertson",
+			"Bill Sienkiewicz"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4bc652ea004df.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "033"
+	},
+	{
+		"id": "2130",
+		"collection": "Nightcrawler",
+		"title": "The Winding Way",
+		"vol": 1,
+		"num": 7,
+		"date": "2005-06-22",
+		"characters": [
+			"Nightcrawler"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Matt Milla",
+			"Jimmy Palmiotti",
+			"Cory Petit",
+			"Darick Robertson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4bc633700ad2c.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "034"
+	},
+	{
+		"id": "2239",
+		"collection": "Nightcrawler",
+		"title": "The Winding Way",
+		"vol": 1,
+		"num": 8,
+		"date": "2005-07-27",
+		"characters": [
+			"Nightcrawler"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Matt Milla",
+			"Jimmy Palmiotti",
+			"Cory Petit",
+			"Darick Robertson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/4bc62cfab1c0f.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "034"
+	},
+	{
+		"id": "2350",
+		"collection": "Nightcrawler",
+		"title": "The Winding Way",
+		"vol": 1,
+		"num": 9,
+		"date": "2005-08-24",
+		"characters": [
+			"Nightcrawler"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Matt Milla",
+			"Jimmy Palmiotti",
+			"Cory Petit",
+			"Darick Robertson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc6273a59a5e.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "034"
+	},
+	{
+		"id": "2494",
+		"collection": "Nightcrawler",
+		"title": "The Winding Way",
+		"vol": 1,
+		"num": 10,
+		"date": "2005-09-28",
+		"characters": [
+			"Nightcrawler"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Matt Milla",
+			"Jimmy Palmiotti",
+			"Cory Petit",
+			"Darick Robertson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bc61f0f72a3c.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "034"
+	},
+	{
+		"id": "2495",
+		"collection": "Nightcrawler",
+		"title": "The Winding Way",
+		"vol": 1,
+		"num": 11,
+		"date": "2005-11-02",
+		"characters": [
+			"Nightcrawler"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Matt Milla",
+			"Jimmy Palmiotti",
+			"Cory Petit",
+			"Darick Robertson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4bc61f0963741.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "034"
+	},
+	{
+		"id": "3096",
+		"collection": "Nightcrawler",
+		"title": "The Winding Way",
+		"vol": 1,
+		"num": 12,
+		"date": "2005-11-30",
+		"characters": [
+			"Nightcrawler"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Matt Milla",
+			"Cory Petit",
+			"Rodney Ramos",
+			"Darick Robertson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc61a978710a.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "034"
+	},
+	{
+		"id": "1594",
+		"collection": "Rogue",
+		"title": "Forget me not",
+		"vol": 3,
+		"num": 7,
+		"date": "2005-01-19",
+		"characters": [
+			"Rogue"
+		],
+		"creators": [
+			"Tony Bedard",
+			"Transparency Digital",
+			"Scot Eaton",
+			"Karl Moline",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc653333daf3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "035"
+	},
+	{
+		"id": "1683",
+		"collection": "Rogue",
+		"title": "Forget me not",
+		"vol": 3,
+		"num": 8,
+		"date": "2005-02-23",
+		"characters": [
+			"Rogue"
+		],
+		"creators": [
+			"Tony Bedard",
+			"Transparency Digital",
+			"Scot Eaton",
+			"Rick Magyar",
+			"Karl Moline",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bc64e034a188.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "035"
+	},
+	{
+		"id": "1782",
+		"collection": "Rogue",
+		"title": "Forget me not",
+		"vol": 3,
+		"num": 9,
+		"date": "2005-03-23",
+		"characters": [
+			"Rogue"
+		],
+		"creators": [
+			"Tony Bedard",
+			"Transparency Digital",
+			"Scot Eaton",
+			"Rick Magyar",
+			"Karl Moline",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bc6482aada9d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "035"
+	},
+	{
+		"id": "1888",
+		"collection": "Rogue",
+		"title": "Forget me not",
+		"vol": 3,
+		"num": 10,
+		"date": "2005-05-04",
+		"characters": [
+			"Rogue"
+		],
+		"creators": [
+			"Tony Bedard",
+			"Transparency Digital",
+			"Scot Eaton",
+			"Rick Magyar",
+			"Karl Moline",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4bc6401b9272b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "035"
+	},
+	{
+		"id": "1988",
+		"collection": "Rogue",
+		"title": "Forget me not",
+		"vol": 3,
+		"num": 11,
+		"date": "2005-05-18",
+		"characters": [
+			"Lady Deathstrike",
+			"Rogue"
+		],
+		"creators": [
+			"Derec Aucoin",
+			"Tony Bedard",
+			"Transparency Digital",
+			"Scot Eaton",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bc63af1c18c5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "035"
+	},
+	{
+		"id": "2096",
+		"collection": "Rogue",
+		"title": "Forget me not",
+		"vol": 3,
+		"num": 12,
+		"date": "2005-06-22",
+		"characters": [
+			"Gambit",
+			"Havok",
+			"Iceman",
+			"Polaris",
+			"Rogue"
+		],
+		"creators": [
+			"Tony Bedard",
+			"Transparency Digital",
+			"Scot Eaton",
+			"Rick Magyar",
+			"Karl Moline",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4bc6351519d12.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "035"
+	},
+	{
+		"id": "1975",
+		"collection": "New Avengers",
+		"title": "The Sentry",
+		"vol": 1,
+		"num": 7,
+		"date": "2005-07-13",
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Sentry (Robert Reynolds)",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Wolverine"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"David Finch",
+			"Morry Hollowell",
+			"Steve McNiven",
+			"Mark Morales",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4f7db39021b77.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "036"
+	},
+	{
+		"id": "2149",
+		"collection": "New Avengers",
+		"title": "The Sentry",
+		"vol": 1,
+		"num": 8,
+		"date": "2005-08-03",
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Mr. Fantastic",
+			"Sentry (Robert Reynolds)",
+			"Spider-Man",
+			"Thing"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Sal Buscema",
+			"Steve McNiven",
+			"David Finch",
+			"Morry Hollowell",
+			"Mark Morales"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f7db48e58b01.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "036"
+	},
+	{
+		"id": "2187",
+		"collection": "New Avengers",
+		"title": "The Sentry",
+		"vol": 1,
+		"num": 9,
+		"date": "2005-08-24",
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Cyclops",
+			"Doctor Strange",
+			"Emma Frost",
+			"Human Torch",
+			"Iron Man",
+			"Luke Cage",
+			"Mr. Fantastic",
+			"Professor X",
+			"Sentry (Robert Reynolds)",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Sub-Mariner",
+			"Thing",
+			"Wolverine"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"David Finch",
+			"Morry Hollowell",
+			"Steve McNiven",
+			"Danny K. Miki",
+			"Mark Morales",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4f7db64f51c31.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "036"
+	},
+	{
+		"id": "2626",
+		"collection": "New Avengers",
+		"title": "The Sentry",
+		"vol": 1,
+		"num": 10,
+		"date": "2005-09-21",
+		"characters": [
+			"Avengers",
+			"Black Bolt",
+			"Captain America",
+			"Cyclops",
+			"Doctor Strange",
+			"Emma Frost",
+			"Gorgon",
+			"Invisible Woman",
+			"Iron Man",
+			"Luke Cage",
+			"Mastermind",
+			"Mr. Fantastic",
+			"Sentry (Robert Reynolds)",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Sub-Mariner",
+			"Wolverine"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"David Finch",
+			"Morry Hollowell",
+			"Laura Martin",
+			"Steve McNiven",
+			"Mark Morales",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4f7dfbda0e3b9.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "036"
+	},
+	{
+		"id": "2328",
+		"collection": "Young Avengers",
+		"title": "Secret Identities",
+		"vol": 1,
+		"num": 7,
+		"date": "2005-09-28",
+		"characters": [
+			"Young Avengers"
+		],
+		"creators": [
+			"Jim Cheung",
+			"John Dell",
+			"Allan Heinberg",
+			"Cory Petit",
+			"Justin Ponsor",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bc628d3289f5.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "037"
+	},
+	{
+		"id": "2448",
+		"collection": "Young Avengers",
+		"title": "Secret Identities",
+		"vol": 1,
+		"num": 8,
+		"date": "2005-10-26",
+		"characters": [
+			"Young Avengers"
+		],
+		"creators": [
+			"Jim Cheung",
+			"Allan Heinberg",
+			"Andrew Hennessy",
+			"Cory Petit",
+			"Justin Ponsor",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4bc622267420f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "037"
+	},
+	{
+		"id": "3222",
+		"collection": "Young Avengers Special",
+		"title": "Special",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-12-28",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Jim Cheung",
+			"Gene Ha",
+			"Allan Heinberg",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc60cc45e087.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "038"
+	},
+	{
+		"id": "3018",
+		"collection": "Young Avengers",
+		"title": "Family Matters",
+		"vol": 1,
+		"num": 9,
+		"date": "2005-11-23",
+		"characters": [
+			"Hawkeye (Kate Bishop)",
+			"Hulkling",
+			"Patriot",
+			"Vision",
+			"Wiccan",
+			"Young Avengers"
+		],
+		"creators": [
+			"Jim Cheung",
+			"John Dell",
+			"Allan Heinberg",
+			"Cory Petit",
+			"Justin Ponsor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4bc32e9875641.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "039"
+	},
+	{
+		"id": "3359",
+		"collection": "Young Avengers",
+		"title": "Family Matters",
+		"vol": 1,
+		"num": 10,
+		"date": "2006-02-08",
+		"characters": [
+			"Young Avengers"
+		],
+		"creators": [
+			"Jim Cheung",
+			"Allan Heinberg",
+			"Dave Meikis",
+			"Cory Petit",
+			"Justin Ponsor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bc612b22cf6d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "039"
+	},
+	{
+		"id": "3887",
+		"collection": "Young Avengers",
+		"title": "Family Matters",
+		"vol": 1,
+		"num": 11,
+		"date": "2006-04-05",
+		"characters": [
+			"Young Avengers"
+		],
+		"creators": [
+			"Jim Cheung",
+			"Allan Heinberg",
+			"Cory Petit",
+			"Justin Ponsor",
+			"Robert Stull"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4bc5f69385a49.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "039"
+	},
+	{
+		"id": "4252",
+		"collection": "Young Avengers",
+		"title": "Family Matters",
+		"vol": 1,
+		"num": 12,
+		"date": "2006-06-28",
+		"characters": [
+			"Captain America",
+			"Hawkeye (Kate Bishop)",
+			"Patriot",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Vision",
+			"Wiccan",
+			"Young Avengers"
+		],
+		"creators": [
+			"Jim Cheung",
+			"Allan Heinberg",
+			"Cory Petit",
+			"Justin Ponsor",
+			"Robert Stull"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4d251d30321ea.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "039"
+	},
+	{
+		"id": "860",
+		"collection": "Wolverine",
+		"title": "Enemy of the State",
+		"vol": 3,
+		"num": 20,
+		"date": "2004-10-06",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Klaus Janson",
+			"Mark Millar",
+			"Paul Mounts",
+			"John Romita JR.",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/51ed63ab9d42c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "040"
+	},
+	{
+		"id": "897",
+		"collection": "Wolverine",
+		"title": "Enemy of the State",
+		"vol": 3,
+		"num": 21,
+		"date": "2004-10-27",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Klaus Janson",
+			"Mark Millar",
+			"Paul Mounts",
+			"John Romita JR.",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/51ed660eacc1e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "040"
+	},
+	{
+		"id": "16",
+		"collection": "Wolverine",
+		"title": "Enemy of the State",
+		"vol": 3,
+		"num": 22,
+		"date": "2004-11-17",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Klaus Janson",
+			"Mark Millar",
+			"Paul Mounts",
+			"John Romita JR.",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/51ed65ff3f32e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "040"
+	},
+	{
+		"id": "1419",
+		"collection": "Wolverine",
+		"title": "Enemy of the State",
+		"vol": 3,
+		"num": 23,
+		"date": "2004-12-15",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Klaus Janson",
+			"Mark Millar",
+			"Paul Mounts",
+			"John Romita JR.",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51ed65f6c37d3.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "040"
+	},
+	{
+		"id": "1517",
+		"collection": "Wolverine",
+		"title": "Enemy of the State",
+		"vol": 3,
+		"num": 24,
+		"date": "2005-01-19",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Klaus Janson",
+			"Mark Millar",
+			"Paul Mounts",
+			"John Romita JR.",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/51ed65e8b52f0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "040"
+	},
+	{
+		"id": "1617",
+		"collection": "Wolverine",
+		"title": "Enemy of the State",
+		"vol": 3,
+		"num": 25,
+		"date": "2005-02-16",
+		"characters": [
+			"Beast",
+			"Cyclops",
+			"Emma Frost",
+			"Iron Man",
+			"Kitty Pryde",
+			"Nick Fury",
+			"Rachel Grey",
+			"Storm",
+			"Wolverine",
+			"X-Men"
+		],
+		"creators": [
+			"Klaus Janson",
+			"Mark Millar",
+			"Paul Mounts",
+			"John Romita JR.",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/51ed65df32104.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "040"
+	},
+	{
+		"id": "1712",
+		"collection": "Wolverine",
+		"title": "Agent of SHIELD",
+		"vol": 3,
+		"num": 26,
+		"date": "2005-03-16",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Klaus Janson",
+			"Greg Land",
+			"Mark Millar",
+			"Paul Mounts",
+			"John Romita JR.",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/51ed65d183c56.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "041"
+	},
+	{
+		"id": "1822",
+		"collection": "Wolverine",
+		"title": "Agent of SHIELD",
+		"vol": 3,
+		"num": 27,
+		"date": "2005-04-20",
+		"characters": [
+			"Elektra",
+			"Iron Man",
+			"Nick Fury",
+			"Wolverine"
+		],
+		"creators": [
+			"Klaus Janson",
+			"Greg Land",
+			"Mark Millar",
+			"Paul Mounts",
+			"Cory Petit",
+			"John Romita JR."
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/51ed65c7e1f87.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "041"
+	},
+	{
+		"id": "1963",
+		"collection": "Wolverine",
+		"title": "Agent of SHIELD",
+		"vol": 3,
+		"num": 28,
+		"date": "2005-05-18",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Randy Gentile",
+			"Klaus Janson",
+			"Greg Land",
+			"Mark Millar",
+			"Paul Mounts",
+			"John Romita JR."
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/51ed65bab7ed9.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "041"
+	},
+	{
+		"id": "2066",
+		"collection": "Wolverine",
+		"title": "Agent of SHIELD",
+		"vol": 3,
+		"num": 29,
+		"date": "2005-06-15",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Randy Gentile",
+			"Klaus Janson",
+			"Mark Millar",
+			"Paul Mounts",
+			"Joe Quesada",
+			"John Romita JR."
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/51ed65a4bd5b4.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "041"
+	},
+	{
+		"id": "2173",
+		"collection": "Wolverine",
+		"title": "Agent of SHIELD",
+		"vol": 3,
+		"num": 30,
+		"date": "2005-07-20",
+		"characters": [
+			"Gorgon",
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Randy Gentile",
+			"Klaus Janson",
+			"Mark Millar",
+			"Paul Mounts",
+			"John Romita JR."
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/51ed659513699.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "041"
+	},
+	{
+		"id": "2297",
+		"collection": "Wolverine",
+		"title": "Agent of SHIELD",
+		"vol": 3,
+		"num": 31,
+		"date": "2005-08-24",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Randy Gentile",
+			"Klaus Janson",
+			"Mark Millar",
+			"Paul Mounts",
+			"John Romita JR."
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4d2512f9caec7.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "041"
+	},
+	{
+		"id": "2519",
+		"collection": "Wolverine",
+		"title": "Prisoner Zero",
+		"vol": 3,
+		"num": 32,
+		"date": "2005-09-21",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Kaare Andrews",
+			"Randy Gentile",
+			"Mark Millar",
+			"Jose Villarrubia"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4d250538ed7ff.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "042"
+	},
+	{
+		"id": "2073",
+		"collection": "Uncanny X-Men",
+		"title": "On Ice",
+		"vol": 1,
+		"num": 460,
+		"date": "2005-06-01",
+		"characters": [
+			"Psylocke",
+			"X-23",
+			"X-Men"
+		],
+		"creators": [
+			"Frank Cho",
+			"Randall Green",
+			"Chris Claremont",
+			"Gina Going",
+			"Scott Hanna",
+			"Tom Raney",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4bc636baa70b1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "043"
+	},
+	{
+		"id": "2074",
+		"collection": "Uncanny X-Men",
+		"title": "On Ice",
+		"vol": 1,
+		"num": 461,
+		"date": "2005-06-15",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Frank Cho",
+			"Chris Claremont",
+			"Gina Going",
+			"Scott Hanna",
+			"Tom Raney"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4bc636b579f66.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "043"
+	},
+	{
+		"id": "1880",
+		"collection": "Amazing Fantasy",
+		"title": "Poison Tomorrow",
+		"vol": 2,
+		"num": 7,
+		"date": "2005-04-06",
+		"characters": [
+			"Scorpion (Carmilla Black)"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Randy Gentile",
+			"Jonathan Glapion",
+			"James Jean",
+			"Leonard Kirk",
+			"Fred Van Lente"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/56cb709d2583f.jpg",
+		"universe": "Earth-616",
+		"comments": "Scorpion origins - inglés",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "044"
+	},
+	{
+		"id": "1980",
+		"collection": "Amazing Fantasy",
+		"title": "Poison Tomorrow",
+		"vol": 2,
+		"num": 8,
+		"date": "2005-05-04",
+		"characters": [
+			"Scorpion (Carmilla Black)"
+		],
+		"creators": [
+			"Jonathan Glapion",
+			"James Jean",
+			"Leonard Kirk",
+			"Fred Van Lente",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/56cb71175e5be.jpg",
+		"universe": "Earth-616",
+		"comments": "inglés",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "044"
+	},
+	{
+		"id": "2083",
+		"collection": "Amazing Fantasy",
+		"title": "Poison Tomorrow",
+		"vol": 2,
+		"num": 9,
+		"date": "2005-06-01",
+		"characters": [
+			"Scorpion (Carmilla Black)"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Jonathan Glapion",
+			"James Jean",
+			"Leonard Kirk",
+			"Fred Van Lente",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/56cb7177740bb.jpg",
+		"universe": "Earth-616",
+		"comments": "inglés",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "044"
+	},
+	{
+		"id": "2193",
+		"collection": "Amazing Fantasy",
+		"title": "Poison Tomorrow",
+		"vol": 2,
+		"num": 10,
+		"date": "2005-07-06",
+		"characters": [
+			"Scorpion (Carmilla Black)"
+		],
+		"creators": [
+			"James Jean",
+			"Leonard Kirk",
+			"Federica Manfredi",
+			"Fred Van Lente"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56cb721f79c3a.jpg",
+		"universe": "Earth-616",
+		"comments": "inglés",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "044"
+	},
+	{
+		"id": "2309",
+		"collection": "Amazing Fantasy",
+		"title": "Poison Tomorrow",
+		"vol": 2,
+		"num": 11,
+		"date": "2005-08-03",
+		"characters": [
+			"Scorpion (Carmilla Black)"
+		],
+		"creators": [
+			"James Jean",
+			"Leonard Kirk",
+			"Federica Manfredi",
+			"Jeff Parker",
+			"Fred Van Lente"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/56cb7308d7e8b.jpg",
+		"universe": "Earth-616",
+		"comments": "inglés",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "044"
+	},
+	{
+		"id": "2818",
+		"collection": "Amazing Fantasy",
+		"title": "Poison Tomorrow",
+		"vol": 2,
+		"num": 12,
+		"date": "2005-09-07",
+		"characters": [
+			"Scorpion (Carmilla Black)"
+		],
+		"creators": [
+			"James Jean",
+			"Leonard Kirk",
+			"Federica Manfredi",
+			"Jeff Parker",
+			"Fred Van Lente"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/56cb7389343bc.jpg",
+		"universe": "Earth-616",
+		"comments": "inglés",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "044"
+	},
+	{
+		"id": "3105",
+		"collection": "Amazing Fantasy",
+		"title": "Masterming Excello",
+		"vol": 2,
+		"num": 15,
+		"date": "2005-11-30",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Pete Woods"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/56cb74a9868bc.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Amadeus Cho origins",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "045"
+	},
+	{
+		"id": "1555",
+		"collection": "Incredible Hulk",
+		"title": "Tempest Fugit",
+		"vol": 2,
+		"num": 77,
+		"date": "2005-01-05",
+		"characters": [
+			"Hulk"
+		],
+		"creators": [
+			"Peter David",
+			"Edgar Delgado",
+			"Randy Gentile",
+			"Tom Palmer",
+			"Lee Weeks"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc656661c7c0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "046"
+	},
+	{
+		"id": "1642",
+		"collection": "Incredible Hulk",
+		"title": "Tempest Fugit",
+		"vol": 2,
+		"num": 78,
+		"date": "2005-02-09",
+		"characters": [
+			"Hulk"
+		],
+		"creators": [
+			"Peter David",
+			"Edgar Delgado",
+			"Randy Gentile",
+			"Tom Palmer",
+			"Lee Weeks"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/4c7d665705472.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "046"
+	},
+	{
+		"id": "1737",
+		"collection": "Incredible Hulk",
+		"title": "Tempest Fugit",
+		"vol": 2,
+		"num": 79,
+		"date": "2005-03-16",
+		"characters": [
+			"Hulk"
+		],
+		"creators": [
+			"Peter David",
+			"Edgar Delgado",
+			"Randy Gentile",
+			"Tom Palmer",
+			"Lee Weeks"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/4bc64ac9d7fdc.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "046"
+	},
+	{
+		"id": "1846",
+		"collection": "Incredible Hulk",
+		"title": "Tempest Fugit",
+		"vol": 2,
+		"num": 80,
+		"date": "2005-04-06",
+		"characters": [
+			"Hulk"
+		],
+		"creators": [
+			"Peter David",
+			"Edgar Delgado",
+			"Tom Palmer",
+			"Lee Weeks"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc643553dc29.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "046"
+	},
+	{
+		"id": "1964",
+		"collection": "Incredible Hulk",
+		"title": "Tempest Fugit",
+		"vol": 2,
+		"num": 81,
+		"date": "2005-05-25",
+		"characters": [
+			"Hulk"
+		],
+		"creators": [
+			"Peter David",
+			"Edgar Delgado",
+			"Randy Gentile",
+			"Tom Palmer",
+			"Lee Weeks"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc63cad6909c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "046"
+	},
+	{
+		"id": "2057",
+		"collection": "Incredible Hulk",
+		"title": "Tempest Fugit",
+		"vol": 2,
+		"num": 82,
+		"date": "2005-06-01",
+		"characters": [
+			"Hulk"
+		],
+		"creators": [
+			"June Chung",
+			"Peter David",
+			"Randy Gentile",
+			"Jae Lee"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4bc636ffcf728.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "046"
+	},
+	{
+		"id": "80",
+		"collection": "New X-Men",
+		"title": "Haunted",
+		"vol": 2,
+		"num": 7,
+		"date": "2004-11-17",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Nunzio DeFilippis",
+			"Randall Green",
+			"Rick Ketcham",
+			"Peter Pantazis",
+			"Michael Ryan",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5702aa7b613c6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "047"
+	},
+	{
+		"id": "1483",
+		"collection": "New X-Men",
+		"title": "Haunted",
+		"vol": 2,
+		"num": 8,
+		"date": "2004-12-15",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Nunzio DeFilippis",
+			"Randall Green",
+			"Rick Ketcham",
+			"Peter Pantazis",
+			"Michael Ryan",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5702aab38b7b5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "047"
+	},
+	{
+		"id": "1568",
+		"collection": "New X-Men",
+		"title": "Haunted",
+		"vol": 2,
+		"num": 9,
+		"date": "2005-01-19",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Nunzio DeFilippis",
+			"Christina Weir",
+			"Randall Green",
+			"Rick Ketcham",
+			"Peter Pantazis",
+			"Michael Ryan",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/5702ad7ec120c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "047"
+	},
+	{
+		"id": "1657",
+		"collection": "New X-Men",
+		"title": "Haunted",
+		"vol": 2,
+		"num": 10,
+		"date": "2005-02-16",
+		"characters": [
+			"Beast",
+			"Cyclops",
+			"Emma Frost",
+			"X-Men"
+		],
+		"creators": [
+			"Nunzio DeFilippis",
+			"Paco Medina",
+			"Peter Pantazis",
+			"Michael Ryan",
+			"Dave Sharpe",
+			"Juan Vlasco"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/5702adb9a4d93.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "047"
+	},
+	{
+		"id": "1751",
+		"collection": "New X-Men",
+		"title": "Haunted",
+		"vol": 2,
+		"num": 11,
+		"date": "2005-03-23",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Nunzio DeFilippis",
+			"Randall Green",
+			"Peter Pantazis",
+			"Dave Sharpe",
+			"Juan Vlasco"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5702ad6a56a3b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "047"
+	},
+	{
+		"id": "1993",
+		"collection": "New X-Men Hellions",
+		"title": "Hellions",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-05-25",
+		"characters": [
+			"Emma Frost",
+			"Hellion",
+			"Hellions (Squad)",
+			"Mercury",
+			"Rockslide",
+			"Tag",
+			"Wither",
+			"X-Men"
+		],
+		"creators": [
+			"Clayton Henry",
+			"Mark Morales",
+			"Wil Quintana",
+			"Dave Sharpe",
+			"Christina Weir"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc63a4d0d77f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "048"
+	},
+	{
+		"id": "2100",
+		"collection": "New X-Men Hellions",
+		"title": "Hellions",
+		"vol": 1,
+		"num": 2,
+		"date": "2005-06-29",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Nunzio DeFilippis",
+			"Christina Weir",
+			"Clayton Henry",
+			"Mark Morales",
+			"Wil Quintana",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bc633c2df676.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "048"
+	},
+	{
+		"id": "2205",
+		"collection": "New X-Men Hellions",
+		"title": "Hellions",
+		"vol": 1,
+		"num": 3,
+		"date": "2005-07-20",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Nunzio DeFilippis",
+			"Christina Weir",
+			"Clayton Henry",
+			"Mark Morales",
+			"Wil Quintana",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bc62ea6e4173.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "048"
+	},
+	{
+		"id": "2325",
+		"collection": "New X-Men Hellions",
+		"title": "Hellions",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-08-17",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Clayton Henry",
+			"Mark Morales",
+			"Wil Quintana",
+			"Dave Sharpe",
+			"Christina Weir"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/4bc628d86f773.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "048"
+	},
+	{
+		"id": "1857",
+		"collection": "New X-Men",
+		"title": "Posed",
+		"vol": 2,
+		"num": 12,
+		"date": "2005-04-20",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Nunzio DeFilippis",
+			"Rick Ketcham",
+			"Peter Pantazis",
+			"Michael Ryan",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/5702ad5a51bef.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "049"
+	},
+	{
+		"id": "2007",
+		"collection": "New X-Men",
+		"title": "Posed",
+		"vol": 2,
+		"num": 13,
+		"date": "2005-05-04",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Nunzio DeFilippis",
+			"Rick Ketcham",
+			"Peter Pantazis",
+			"Michael Ryan",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5702ab2938c54.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "049"
+	},
+	{
+		"id": "2008",
+		"collection": "New X-Men",
+		"title": "Posed",
+		"vol": 2,
+		"num": 14,
+		"date": "2005-05-18",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Nunzio DeFilippis",
+			"Paco Medina",
+			"Peter Pantazis",
+			"Michael Ryan",
+			"Dave Sharpe",
+			"Juan Vlasco"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc473a4c82b8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "049"
+	},
+	{
+		"id": "2112",
+		"collection": "New X-Men",
+		"title": "Posed",
+		"vol": 2,
+		"num": 15,
+		"date": "2005-06-22",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Nunzio DeFilippis",
+			"Christina Weir",
+			"Paco Medina",
+			"Peter Pantazis",
+			"Michael Ryan",
+			"Dave Sharpe",
+			"Juan Vlasco"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/5702ad213f43c.jpg",
+		"universe": "Earth-617",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "049"
+	},
+	{
+		"id": "2578",
+		"collection": "New X-Men Yearbook Special",
+		"title": "Posed",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-10-26",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Tom Chu",
+			"Nunzio DeFilippis",
+			"Christina Weir",
+			"Don Hillsman",
+			"Georges Jeanty",
+			"Aaron Lopresti",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/10/4bc61c4dcfbdf.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "049"
+	},
+	{
+		"id": "1868",
+		"collection": "Amazing Spider-Man",
+		"title": "New Avengers",
+		"vol": 1,
+		"num": 519,
+		"date": "2005-04-20",
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Luke Cage",
+			"Mary Jane Watson",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Wolverine"
+		],
+		"creators": [
+			"Axel Alonso",
+			"Mike Deodato",
+			"Stan Lee",
+			"J. Michael Straczynski",
+			"Matt Milla",
+			"Cory Petit",
+			"Joe Pimentel",
+			"Jose Pimentel"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/57f7ac2fdbf24.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Spider-Man moves to Avengers tower",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "050"
+	},
+	{
+		"id": "1966",
+		"collection": "Amazing Spider-Man",
+		"title": "New Avengers",
+		"vol": 1,
+		"num": 520,
+		"date": "2005-05-25",
+		"characters": [
+			"Captain America",
+			"Iron Man",
+			"Luke Cage",
+			"Mary Jane Watson",
+			"Robbie Robertson",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)"
+		],
+		"creators": [
+			"Mike Deodato",
+			"Stan Lee",
+			"Matt Milla",
+			"Cory Petit",
+			"Jose Pimentel"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/57f7b322bebd8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "050"
+	},
+	{
+		"id": "2069",
+		"collection": "Amazing Spider-Man",
+		"title": "New Avengers",
+		"vol": 1,
+		"num": 521,
+		"date": "2005-06-29",
+		"characters": [
+			"Captain America",
+			"Hydra",
+			"Mary Jane Watson",
+			"Spider-Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Axel Alonso",
+			"Mike Deodato",
+			"Stan Lee",
+			"J. Michael Straczynski",
+			"Matt Milla",
+			"Cory Petit",
+			"Jose Pimentel"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/56cde65f20251.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "050"
+	},
+	{
+		"id": "2212",
+		"collection": "Amazing Spider-Man",
+		"title": "New Avengers",
+		"vol": 1,
+		"num": 522,
+		"date": "2005-07-27",
+		"characters": [
+			"Hydra",
+			"Luke Cage",
+			"Mary Jane Watson",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Tony Stark",
+			"Wolverine"
+		],
+		"creators": [
+			"Axel Alonso",
+			"Kaare Andrews",
+			"Mike Deodato",
+			"Stan Lee",
+			"J. Michael Straczynski",
+			"Matt Milla",
+			"Cory Petit",
+			"Joe Pimentel",
+			"Jose Pimentel"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/56cde6b7c2826.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "050"
+	},
+	{
+		"id": "2980",
+		"collection": "Amazing Spider-Man",
+		"title": "New Avengers",
+		"vol": 1,
+		"num": 523,
+		"date": "2005-08-31",
+		"characters": [
+			"Captain America",
+			"Hydra",
+			"Iron Man",
+			"Luke Cage",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)"
+		],
+		"creators": [
+			"Axel Alonso",
+			"Mike Deodato",
+			"Terry Dodson",
+			"Stan Lee",
+			"John Stracuzzi",
+			"Matt Milla",
+			"Cory Petit",
+			"Joe Pimentel",
+			"Jose Pimentel"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/56cde741caceb.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "050"
+	},
+	{
+		"id": "2451",
+		"collection": "Amazing Spider-Man",
+		"title": "New Avengers",
+		"vol": 1,
+		"num": 524,
+		"date": "2005-09-28",
+		"characters": [
+			"Hydra",
+			"Mary Jane Watson",
+			"Spider-Man",
+			"Tony Stark"
+		],
+		"creators": [
+			"Axel Alonso",
+			"Mike Deodato",
+			"Tony Harris",
+			"Stan Lee",
+			"J. Michael Straczynski",
+			"Matt Milla",
+			"Cory Petit",
+			"Jose Pimentel"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4d24f1c876ade.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "050"
+	},
+	{
+		"id": "2410",
+		"collection": "X-Men",
+		"title": "Wild Kingdom",
+		"vol": 2,
+		"num": 175,
+		"date": "2005-09-14",
+		"event": "Wild Kingdom",
+		"characters": [
+			"Gambit",
+			"Havok",
+			"Iceman",
+			"Polaris",
+			"Rogue",
+			"Storm",
+			"X-Men"
+		],
+		"creators": [
+			"Liquid Graphics",
+			"Salvador Larroca",
+			"Danny K. Miki",
+			"Peter Milligan",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bc6241c423ec.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "051"
+	},
+	{
+		"id": "2435",
+		"collection": "X-Men",
+		"title": "Wild Kingdom",
+		"vol": 2,
+		"num": 176,
+		"date": "2005-09-21",
+		"event": "Wild Kingdom",
+		"characters": [
+			"Black Panther",
+			"Storm"
+		],
+		"creators": [
+			"Frank Cho",
+			"Randy Gentile",
+			"Reginald Hudlin",
+			"Jay Leisten",
+			"Dean White",
+			"David Yardin"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4d2513de63723.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "051"
+	},
+	{
+		"id": "2465",
+		"collection": "Black Panther",
+		"title": "Wild Kingdom",
+		"vol": 4,
+		"num": 8,
+		"date": "2005-10-19",
+		"event": "Wild Kingdom",
+		"characters": [
+			"Black Panther",
+			"Storm",
+			"X-Men"
+		],
+		"creators": [
+			"Liquid Graphics",
+			"Salvador Larroca",
+			"Danny K. Miki",
+			"Peter Milligan",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4bc620d8f3629.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "051"
+	},
+	{
+		"id": "2436",
+		"collection": "Black Panther",
+		"title": "Wild Kingdom",
+		"vol": 4,
+		"num": 9,
+		"date": "2005-10-26",
+		"event": "Wild Kingdom",
+		"characters": [
+			"Black Panther",
+			"Dragon Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Andy Brase",
+			"Randy Gentile",
+			"Reginald Hudlin",
+			"Jay Leisten",
+			"Dean White",
+			"David Yardin"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4d250eb90ce78.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "051"
+	},
+	{
+		"id": "2836",
+		"collection": "Colossus Bloddline",
+		"title": "Bloodline",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-09-07",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Tom Chu",
+			"David Hine",
+			"Jorge Pereira Lucas",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/56a79296c1daf.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "052"
+	},
+	{
+		"id": "2547",
+		"collection": "Colossus Bloddline",
+		"title": "Bloodline",
+		"vol": 1,
+		"num": 2,
+		"date": "2005-10-19",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"David Hine",
+			"Jorge Pereira Lucas",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc46d3b08ed6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "052"
+	},
+	{
+		"id": "3080",
+		"collection": "Colossus Bloddline",
+		"title": "Bloodline",
+		"vol": 1,
+		"num": 3,
+		"date": "2005-11-02",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Tom Chu",
+			"David Hine",
+			"Jorge Pereira Lucas",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/56a791d73931c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "052"
+	},
+	{
+		"id": "3182",
+		"collection": "Colossus Bloddline",
+		"title": "Bloodline",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-12-07",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Tom Chu",
+			"David Hine",
+			"Jorge Pereira Lucas",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4d24e7ca42ffd.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "052"
+	},
+	{
+		"id": "3388",
+		"collection": "Colossus Bloddline",
+		"title": "Bloodline",
+		"vol": 1,
+		"num": 5,
+		"date": "2006-01-04",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Tom Chu",
+			"David Hine",
+			"Jorge Pereira Lucas",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/56a7925c51017.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "052"
+	},
+	{
+		"id": "1900",
+		"collection": "Marvel Knights Spider-Man",
+		"title": "Wild Blue Yonder",
+		"vol": 1,
+		"num": 13,
+		"date": "2005-04-13",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Ian Hannin",
+			"Reginald Hudlin",
+			"Steve McNiven",
+			"Cory Petit",
+			"Jonathan Sibal"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/57ae4908f3f8f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "053"
+	},
+	{
+		"id": "2000",
+		"collection": "Marvel Knights Spider-Man",
+		"title": "Wild Blue Yonder",
+		"vol": 1,
+		"num": 14,
+		"date": "2005-05-18",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Ian Hannin",
+			"Reginald Hudlin",
+			"Steve McNiven",
+			"Cory Petit",
+			"Jonathan Sibal",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/04/57ae48e7dcea9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "053"
+	},
+	{
+		"id": "2107",
+		"collection": "Marvel Knights Spider-Man",
+		"title": "Wild Blue Yonder",
+		"vol": 1,
+		"num": 15,
+		"date": "2005-06-08",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Ian Hannin",
+			"Reginald Hudlin",
+			"Steve McNiven",
+			"Cory Petit",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/57ae4932638dd.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "053"
+	},
+	{
+		"id": "2214",
+		"collection": "Marvel Knights Spider-Man",
+		"title": "Wild Blue Yonder",
+		"vol": 1,
+		"num": 16,
+		"date": "2005-07-20",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Ian Hannin",
+			"Reginald Hudlin",
+			"Steve McNiven",
+			"Cory Petit",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/57ae49fb6378d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "053"
+	},
+	{
+		"id": "2331",
+		"collection": "Marvel Knights Spider-Man",
+		"title": "Wild Blue Yonder",
+		"vol": 1,
+		"num": 17,
+		"date": "2005-08-24",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Ian Hannin",
+			"Reginald Hudlin",
+			"Steve McNiven",
+			"Cory Petit",
+			"Jonathan Sibal",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/57ae4960d3dcd.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "053"
+	},
+	{
+		"id": "2455",
+		"collection": "Marvel Knights Spider-Man",
+		"title": "Wild Blue Yonder",
+		"vol": 1,
+		"num": 18,
+		"date": "2005-09-14",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Ian Hannin",
+			"Reginald Hudlin",
+			"Steve McNiven",
+			"Cory Petit",
+			"Jonathan Sibal",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/57ae498c3a6bd.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "053"
+	},
+	{
+		"id": "64",
+		"collection": "New Thunderbolts",
+		"title": "One Step Forward",
+		"vol": 1,
+		"num": 1,
+		"date": "2004-11-10",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Kurt Busiek",
+			"Fabian Nicieza",
+			"Gary Erskine",
+			"Tom Grummett",
+			"Chris Sotomayor",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc6b22116c9f.jpg",
+		"universe": "Earth-616",
+		"comments": "Thunderbolts team is reassembled",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "054"
+	},
+	{
+		"id": "65",
+		"collection": "New Thunderbolts",
+		"title": "One Step Forward",
+		"vol": 1,
+		"num": 2,
+		"date": "2004-11-24",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Gary Erskine",
+			"Tom Grummett",
+			"Fabian Nicieza",
+			"Chris Sotomayor",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4bc6b21bc1255.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "054"
+	},
+	{
+		"id": "1462",
+		"collection": "New Thunderbolts",
+		"title": "One Step Forward",
+		"vol": 1,
+		"num": 3,
+		"date": "2004-12-22",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Kurt Busiek",
+			"Gary Erskine",
+			"Tom Grummett",
+			"Chris Sotomayor",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bc65c493a1d0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "054"
+	},
+	{
+		"id": "1556",
+		"collection": "New Thunderbolts",
+		"title": "One Step Forward",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-01-12",
+		"characters": [
+			"Swordsman",
+			"Wolverine"
+		],
+		"creators": [
+			"Gary Erskine",
+			"Tom Grummett",
+			"Fabian Nicieza",
+			"Chris Sotomayor",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bc65660b97d5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "054"
+	},
+	{
+		"id": "1643",
+		"collection": "New Thunderbolts",
+		"title": "One Step Forward",
+		"vol": 1,
+		"num": 5,
+		"date": "2005-02-09",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Gary Erskine",
+			"Tom Grummett",
+			"Fabian Nicieza",
+			"Chris Sotomayor",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc6513e9fc45.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "054"
+	},
+	{
+		"id": "1738",
+		"collection": "New Thunderbolts",
+		"title": "One Step Forward",
+		"vol": 1,
+		"num": 6,
+		"date": "2005-03-09",
+		"characters": [
+			"Atlas (Team)",
+			"Blizzard",
+			"Joystick",
+			"Radioactive Man",
+			"Songbird",
+			"Speed Demon",
+			"Swordsman"
+		],
+		"creators": [
+			"Gary Erskine",
+			"Tom Grummett",
+			"Fabian Nicieza",
+			"Chris Sotomayor",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bc64ac470eba.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "054"
+	}
+]

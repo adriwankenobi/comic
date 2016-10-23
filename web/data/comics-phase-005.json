@@ -1,0 +1,8985 @@
+[
+	{
+		"id": "3095",
+		"collection": "Decimation House of M - The Day After 1",
+		"title": "The Day After",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-11-09",
+		"event": "Decimation",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Chris Claremont",
+			"Randy Gentile",
+			"Randall Green",
+			"Robert Hunter"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4bc6175373f29.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "90% of mutants lose their powers",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "001"
+	},
+	{
+		"id": "3425",
+		"collection": "Sentinel Squad One",
+		"title": "Tin Can Heroes",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-01-18",
+		"event": "Decimation",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Pasqual Ferry",
+			"John Layman",
+			"Aaron Lopresti",
+			"Norm Rapmund"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc607a8c9207.jpg",
+		"universe": "Earth-616",
+		"comments": "New sentinels are formed",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "002"
+	},
+	{
+		"id": "3543",
+		"collection": "Sentinel Squad One",
+		"title": "Tin Can Heroes",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-02-15",
+		"event": "Decimation",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Pasqual Ferry",
+			"John Layman",
+			"Aaron Lopresti",
+			"Norm Rapmund",
+			"Chris Walker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4bc601c5de006.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "002"
+	},
+	{
+		"id": "3950",
+		"collection": "Sentinel Squad One",
+		"title": "Tin Can Heroes",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-03-08",
+		"event": "Decimation",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Pasqual Ferry",
+			"John Layman",
+			"Aaron Lopresti",
+			"Norm Rapmund",
+			"Chris Walker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bc5fb2b721dc.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "002"
+	},
+	{
+		"id": "4077",
+		"collection": "Sentinel Squad One",
+		"title": "Tin Can Heroes",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-04-19",
+		"event": "Decimation",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Pasqual Ferry",
+			"John Layman",
+			"Aaron Lopresti",
+			"Norm Rapmund",
+			"Dave Sharpe",
+			"Chris Walker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/4bc5f21a14d0f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "002"
+	},
+	{
+		"id": "4189",
+		"collection": "Sentinel Squad One",
+		"title": "Tin Can Heroes",
+		"vol": 1,
+		"num": 5,
+		"date": "2006-05-03",
+		"event": "Decimation",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Pasqual Ferry",
+			"John Layman",
+			"Aaron Lopresti",
+			"Norm Rapmund",
+			"Dave Sharpe",
+			"Chris Walker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4bc5e8754aa8f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "002"
+	},
+	{
+		"id": "3027",
+		"collection": "X-Men",
+		"title": "House Arrest",
+		"vol": 2,
+		"num": 177,
+		"date": "2005-11-09",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Liquid Graphics",
+			"Salvador Larroca",
+			"Danny K. Miki",
+			"Peter Milligan",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc612b84e389.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "003"
+	},
+	{
+		"id": "3028",
+		"collection": "X-Men",
+		"title": "House Arrest",
+		"vol": 2,
+		"num": 178,
+		"date": "2005-11-30",
+		"event": "Decimation",
+		"characters": [
+			"Sentinel",
+			"Wolverine",
+			"X-Men"
+		],
+		"creators": [
+			"Liquid Graphics",
+			"Salvador Larroca",
+			"Danny K. Miki",
+			"Peter Milligan",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/4bc615c453633.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "003"
+	},
+	{
+		"id": "3136",
+		"collection": "X-Men",
+		"title": "House Arrest",
+		"vol": 2,
+		"num": 179,
+		"date": "2005-12-14",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Liquid Graphics",
+			"Salvador Larroca",
+			"Danny K. Miki",
+			"Peter Milligan",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4bc6111773162.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "003"
+	},
+	{
+		"id": "3059",
+		"collection": "New X-Men",
+		"title": "Childhood's End",
+		"vol": 2,
+		"num": 20,
+		"date": "2005-11-09",
+		"event": "Decimation",
+		"characters": [
+			"Hellion",
+			"Mercury",
+			"X-23",
+			"X-Men"
+		],
+		"creators": [
+			"Mark Brooks",
+			"Craig Kyle",
+			"Chris Yost",
+			"Jaime Mendoza",
+			"Brian Reber",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5702ae23cbb93.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "004"
+	},
+	{
+		"id": "3154",
+		"collection": "New X-Men",
+		"title": "Childhood's End",
+		"vol": 2,
+		"num": 21,
+		"date": "2005-12-14",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Mark Brooks",
+			"Rick Ketcham",
+			"Craig Kyle",
+			"Chris Yost",
+			"Brian Reber",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5702ae3be334d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "004"
+	},
+	{
+		"id": "3376",
+		"collection": "New X-Men",
+		"title": "Childhood's End",
+		"vol": 2,
+		"num": 22,
+		"date": "2006-01-11",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Mark Brooks",
+			"Craig Kyle",
+			"Chris Yost",
+			"Jaime Mendoza",
+			"Brian Reber",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5702adf018892.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "004"
+	},
+	{
+		"id": "3494",
+		"collection": "New X-Men",
+		"title": "Childhood's End",
+		"vol": 2,
+		"num": 23,
+		"date": "2006-02-22",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Mark Brooks",
+			"Craig Kyle",
+			"Chris Yost",
+			"Jaime Mendoza",
+			"Brian Reber",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/57028d4dc5a69.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "004"
+	},
+	{
+		"id": "3526",
+		"collection": "X-Men Unlimited",
+		"title": "Blind love",
+		"vol": 2,
+		"num": 13,
+		"date": "2006-02-08",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Mike Deodato",
+			"Damon Hurd",
+			"Hugh Stebakov",
+			"Clay Mann",
+			"Mike Ratera"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/568414810a6fc.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "005"
+	},
+	{
+		"id": "3213",
+		"collection": "Son of M",
+		"title": "Son of M",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-12-14",
+		"event": "Decimation",
+		"characters": [
+			"Quicksilver"
+		],
+		"creators": [
+			"David Hine",
+			"Roy Allan Martinez",
+			"John Watson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc60cf09a1ff.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Quicksilver steals terragenesis stones",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "006"
+	},
+	{
+		"id": "3421",
+		"collection": "Son of M",
+		"title": "Son of M",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-01-11",
+		"event": "Decimation",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Dave Lanphear",
+			"Roy Allan Martinez",
+			"Peter Pantazis"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bc607bc996cd.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "006"
+	},
+	{
+		"id": "3536",
+		"collection": "Son of M",
+		"title": "Son of M",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-02-08",
+		"event": "Decimation",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Dave Lanphear",
+			"Roy Allan Martinez",
+			"Peter Pantazis"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc601d9cc95c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "006"
+	},
+	{
+		"id": "3941",
+		"collection": "Son of M",
+		"title": "Son of M",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-03-08",
+		"event": "Decimation",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Dave Lanphear",
+			"Roy Allan Martinez",
+			"Peter Pantazis"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bc5fb62f00e2.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "006"
+	},
+	{
+		"id": "4064",
+		"collection": "Son of M",
+		"title": "Son of M",
+		"vol": 1,
+		"num": 5,
+		"date": "2006-04-12",
+		"event": "Decimation",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Dave Lanphear",
+			"Roy Allan Martinez",
+			"Peter Pantazis",
+			"John Watson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc5f257256cf.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "006"
+	},
+	{
+		"id": "4176",
+		"collection": "Son of M",
+		"title": "Son of M",
+		"vol": 1,
+		"num": 6,
+		"date": "2006-05-31",
+		"event": "Decimation",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Dave Lanphear",
+			"Roy Allan Martinez",
+			"Peter Pantazis",
+			"John Watson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bacf62e157f8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "006"
+	},
+	{
+		"id": "3424",
+		"collection": "X-Men - The 198",
+		"title": "The 198",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-01-11",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Kevin Conrad",
+			"Juan Doe",
+			"Randy Gentile",
+			"David Hine",
+			"Jim Muniz"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/56f5af6850606.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "007"
+	},
+	{
+		"id": "3542",
+		"collection": "X-Men - The 198",
+		"title": "The 198",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-02-08",
+		"event": "Decimation",
+		"characters": [
+			"Sentinel",
+			"X-Men"
+		],
+		"creators": [
+			"Kevin Conrad",
+			"Juan Doe",
+			"Randy Gentile",
+			"David Hine",
+			"Matt Milla",
+			"Jim Muniz"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/56f5aff2f000b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "007"
+	},
+	{
+		"id": "3948",
+		"collection": "X-Men - The 198",
+		"title": "The 198",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-03-08",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Kevin Conrad",
+			"Juan Doe",
+			"David Hine",
+			"Matt Milla",
+			"Jim Muniz"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/56f5aff810ae7.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "007"
+	},
+	{
+		"id": "4075",
+		"collection": "X-Men - The 198",
+		"title": "The 198",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-04-12",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Kevin Conrad",
+			"Juan Doe",
+			"David Hine",
+			"Matt Milla",
+			"Jim Muniz"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/56f5afdfa8704.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "007"
+	},
+	{
+		"id": "4187",
+		"collection": "X-Men - The 198",
+		"title": "The 198",
+		"vol": 1,
+		"num": 5,
+		"date": "2006-05-10",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Kevin Conrad",
+			"Juan Doe",
+			"David Hine",
+			"Matt Milla",
+			"Jim Muniz"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/56f5afb176ce4.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "007"
+	},
+	{
+		"id": "17203",
+		"collection": "Generation M",
+		"title": "Generation M",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-01-10",
+		"event": "Decimation",
+		"characters": [
+			"Sally Floyd",
+			"X-Men"
+		],
+		"creators": [
+			"Ramon Bachs",
+			"Stuart Immonen",
+			"Paul Jenkins"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bb862b2a3046.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "008"
+	},
+	{
+		"id": "3209",
+		"collection": "Generation M",
+		"title": "Generation M",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-02-01",
+		"event": "Decimation",
+		"characters": [
+			"Jubilee",
+			"Sally Floyd",
+			"Stacy X"
+		],
+		"creators": [
+			"Ramon Bachs",
+			"Randy Gentile",
+			"Stuart Immonen",
+			"Paul Jenkins"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/57ea9ec081ff5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "008"
+	},
+	{
+		"id": "3417",
+		"collection": "Generation M",
+		"title": "Generation M",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-03-01",
+		"event": "Decimation",
+		"characters": [
+			"Blob",
+			"Sally Floyd"
+		],
+		"creators": [
+			"Ramon Bachs",
+			"Randy Gentile",
+			"Stuart Immonen",
+			"Paul Jenkins"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/57eaa11480c4e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "008"
+	},
+	{
+		"id": "3532",
+		"collection": "Generation M",
+		"title": "Generation M",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-04-01",
+		"event": "Decimation",
+		"characters": [
+			"Angel (Warren Worthington III)",
+			"Sally Floyd",
+			"X-Men"
+		],
+		"creators": [
+			"Ramon Bachs",
+			"Randy Gentile",
+			"Stuart Immonen",
+			"Paul Jenkins",
+			"John Lucas",
+			"Art Lyon"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/57eaa19e48645.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "008"
+	},
+	{
+		"id": "3980",
+		"collection": "Generation M",
+		"title": "Generation M",
+		"vol": 1,
+		"num": 5,
+		"date": "2006-05-01",
+		"event": "Decimation",
+		"characters": [
+			"Angel (Warren Worthington III)",
+			"Sally Floyd",
+			"X-Men"
+		],
+		"creators": [
+			"Ramon Bachs",
+			"Joe Caramagna",
+			"Stuart Immonen",
+			"Paul Jenkins",
+			"John Lucas",
+			"Art Lyon"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/57eaa2826db38.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "008"
+	},
+	{
+		"id": "3046",
+		"collection": "X-Factor",
+		"title": "The Longest Night",
+		"vol": 3,
+		"num": 1,
+		"date": "2005-12-14",
+		"event": "Decimation",
+		"characters": [
+			"Banshee (Theresa Rourke)",
+			"M (Monet St. Croix)",
+			"Madrox",
+			"Rictor",
+			"Strong Guy",
+			"X-Factor",
+			"X-Men"
+		],
+		"creators": [
+			"Peter David",
+			"Wade von Grawbadger",
+			"Cory Petit",
+			"Ryan Sook",
+			"Jose Villarrubia"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4bc616260515b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "009"
+	},
+	{
+		"id": "3150",
+		"collection": "X-Factor",
+		"title": "The Longest Night",
+		"vol": 3,
+		"num": 2,
+		"date": "2005-12-28",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Peter David",
+			"Wade von Grawbadger",
+			"Cory Petit",
+			"Ryan Sook",
+			"Jose Villarrubia"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/4bc610ecbeaa0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "009"
+	},
+	{
+		"id": "3372",
+		"collection": "X-Factor",
+		"title": "The Longest Night",
+		"vol": 3,
+		"num": 3,
+		"date": "2006-02-01",
+		"event": "Decimation",
+		"characters": [
+			"Madrox",
+			"Strong Guy",
+			"Wolfsbane",
+			"X-Men"
+		],
+		"creators": [
+			"Peter David",
+			"Wade von Grawbadger",
+			"Cory Petit",
+			"Ryan Sook",
+			"Jose Villarrubia"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc60afde987a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "009"
+	},
+	{
+		"id": "3486",
+		"collection": "X-Factor",
+		"title": "The Longest Night",
+		"vol": 3,
+		"num": 4,
+		"date": "2006-03-01",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Peter David",
+			"Wade von Grawbadger",
+			"Cory Petit",
+			"Ryan Sook",
+			"Jose Villarrubia"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bc60464a18a2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "009"
+	},
+	{
+		"id": "3897",
+		"collection": "X-Factor",
+		"title": "The Longest Night",
+		"vol": 3,
+		"num": 5,
+		"date": "2006-03-22",
+		"event": "Decimation",
+		"characters": [
+			"Banshee (Theresa Rourke)",
+			"X-Men"
+		],
+		"creators": [
+			"Dennis Calero",
+			"Peter David",
+			"Cory Petit",
+			"Ryan Sook",
+			"Jose Villarrubia"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc5f665ca9b3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "009"
+	},
+	{
+		"id": "4029",
+		"collection": "X-Factor",
+		"title": "The Longest Night",
+		"vol": 3,
+		"num": 6,
+		"date": "2006-04-26",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Dennis Calero",
+			"Peter David",
+			"Gabriele Dell'Otto",
+			"Cory Petit",
+			"Jose Villarrubia"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc5f4c704e4b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "009"
+	},
+	{
+		"id": "3591",
+		"collection": "X-Men - Deadly Genesis",
+		"title": "Deadly Genesis",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-11-16",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Trevor Hairsine",
+			"Marc Silvestri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/570293252a4f3.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Xavier's secret second team + Vulcan origins",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "010"
+	},
+	{
+		"id": "3593",
+		"collection": "X-Men - Deadly Genesis",
+		"title": "Deadly Genesis",
+		"vol": 1,
+		"num": 2,
+		"date": "2005-12-21",
+		"event": "Decimation",
+		"characters": [
+			"Cyclops",
+			"Vulcan (Gabriel Summers)",
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Trevor Hairsine",
+			"Marc Silvestri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/57028d991e836.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "010"
+	},
+	{
+		"id": "3595",
+		"collection": "X-Men - Deadly Genesis",
+		"title": "Deadly Genesis",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-01-25",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Trevor Hairsine",
+			"Marc Silvestri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/570292fcb9f63.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "010"
+	},
+	{
+		"id": "3629",
+		"collection": "X-Men - Deadly Genesis",
+		"title": "Deadly Genesis",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-02-15",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Trevor Hairsine",
+			"Marc Silvestri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/570292f318eed.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "010"
+	},
+	{
+		"id": "3999",
+		"collection": "X-Men - Deadly Genesis",
+		"title": "Deadly Genesis",
+		"vol": 1,
+		"num": 5,
+		"date": "2006-03-15",
+		"event": "Decimation",
+		"characters": [
+			""
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/570292c8e5217.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "010"
+	},
+	{
+		"id": "3628",
+		"collection": "X-Men - Deadly Genesis",
+		"title": "Deadly Genesis",
+		"vol": 1,
+		"num": 6,
+		"date": "2006-05-17",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Trevor Hairsine",
+			"Marc Silvestri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/90/4bb7c309cc1a2.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "010"
+	},
+	{
+		"id": "15874",
+		"collection": "X-Men - Endangered Species",
+		"title": "Endangered Spicies",
+		"vol": 1,
+		"num": 1,
+		"date": "2007-06-20",
+		"event": "Decimation",
+		"characters": [
+			"Cyclops",
+			"Nightcrawler",
+			"Rogue",
+			"Wolverine",
+			"X-Factor",
+			"X-Force",
+			"X-Men"
+		],
+		"creators": [
+			"Mike Carey",
+			"John Dell",
+			"Scot Eaton",
+			"Chris Eliopoulos",
+			"Marc Silvestri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/56f953a644953.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20781",
+		"collection": "X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 200,
+		"date": "2007-06-20",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb8783d46bf0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20782",
+		"collection": "Uncanny X-Men",
+		"title": "Endangered Spicies",
+		"vol": 1,
+		"num": 488,
+		"date": "2007-08-01",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/4c7d57fa856c8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20783",
+		"collection": "X-Factor",
+		"title": "Endangered Spicies",
+		"vol": 3,
+		"num": 21,
+		"date": "2007-09-01",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/4bb8734419f97.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20784",
+		"collection": "New X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 40,
+		"date": "2007-09-15",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bb8733eea2f4.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20785",
+		"collection": "X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 201,
+		"date": "2007-09-25",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bb8733a036e7.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20786",
+		"collection": "Uncanny X-Men",
+		"title": "Endangered Spicies",
+		"vol": 1,
+		"num": 489,
+		"date": "2007-09-30",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/4bb87334e5839.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20787",
+		"collection": "X-Factor",
+		"title": "Endangered Spicies",
+		"vol": 3,
+		"num": 22,
+		"date": "2007-10-01",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bb8731aa73d0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20788",
+		"collection": "New X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 41,
+		"date": "2007-10-15",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bb8730b7222a.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20789",
+		"collection": "X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 202,
+		"date": "2007-10-25",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4bb872fca96fa.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20790",
+		"collection": "Uncanny X-Men",
+		"title": "Endangered Spicies",
+		"vol": 1,
+		"num": 490,
+		"date": "2007-10-30",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb872f7bc700.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20791",
+		"collection": "X-Factor",
+		"title": "Endangered Spicies",
+		"vol": 3,
+		"num": 23,
+		"date": "2007-11-01",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bb872e2e9ec1.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20792",
+		"collection": "New X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 42,
+		"date": "2007-11-10",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4bb871b211520.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20793",
+		"collection": "X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 203,
+		"date": "2007-11-20",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4bb871ad15eb0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20794",
+		"collection": "Uncanny X-Men",
+		"title": "Endangered Spicies",
+		"vol": 1,
+		"num": 491,
+		"date": "2007-11-30",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4bb871a4b025c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20795",
+		"collection": "X-Factor",
+		"title": "Endangered Spicies",
+		"vol": 3,
+		"num": 24,
+		"date": "2007-12-01",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bb8719fb1152.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20796",
+		"collection": "X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 204,
+		"date": "2007-12-10",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb8719ab04f3.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20797",
+		"collection": "X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 204,
+		"date": "2007-12-30",
+		"event": "Decimation",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4bb87195cdcf7.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "2417",
+		"collection": "New Avengers",
+		"title": "Ronin",
+		"vol": 1,
+		"num": 11,
+		"date": "2005-09-28",
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Daredevil",
+			"Echo",
+			"Edwin Jarvis",
+			"Iron Man",
+			"Luke Cage",
+			"Silver Samurai",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Viper"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Frank D'Armata",
+			"David Finch",
+			"Danny K. Miki",
+			"Joe Quesada",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4f7e00708ff3f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "012"
+	},
+	{
+		"id": "2419",
+		"collection": "New Avengers",
+		"title": "Ronin",
+		"vol": 1,
+		"num": 12,
+		"date": "2005-10-26",
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Echo",
+			"Edwin Jarvis",
+			"Hawkeye",
+			"Iron Man",
+			"Luke Cage",
+			"Sentry (Robert Reynolds)",
+			"Silver Samurai",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Viper",
+			"Wolverine"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Frank D'Armata",
+			"David Finch",
+			"Danny K. Miki",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4f7e01949a402.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "012"
+	},
+	{
+		"id": "3004",
+		"collection": "New Avengers",
+		"title": "Ronin",
+		"vol": 1,
+		"num": 13,
+		"date": "2005-11-30",
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Echo",
+			"Edwin Jarvis",
+			"Iron Man",
+			"Luke Cage",
+			"Mary Jane Watson",
+			"Silver Samurai",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Viper"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Frank D'Armata",
+			"David Finch",
+			"Danny K. Miki",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/4f7e028703618.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "012"
+	},
+	{
+		"id": "2275",
+		"collection": "Giant Size Spiderwoman",
+		"title": "Choices",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-07-27",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Rick Mays"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc62c329dd17.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "013"
+	},
+	{
+		"id": "3123",
+		"collection": "New Avengers",
+		"title": "Secret and Lies",
+		"vol": 1,
+		"num": 14,
+		"date": "2005-12-28",
+		"characters": [
+			"Kat Farrell",
+			"Luke Cage",
+			"Spider-Woman (Jessica Drew)"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Frank Cho",
+			"Albert Deschesne",
+			"Richard Starkings",
+			"Jason Keith"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4f7e037894ea0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "014"
+	},
+	{
+		"id": "3348",
+		"collection": "New Avengers",
+		"title": "Secret and Lies",
+		"vol": 1,
+		"num": 15,
+		"date": "2006-01-25",
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Captain Marvel (Carol Danvers)",
+			"Edwin Jarvis",
+			"Iron Man",
+			"J. Jonah Jameson",
+			"Jessica Jones",
+			"Kat Farrell",
+			"Klaw",
+			"Luke Cage",
+			"Mary Jane Watson",
+			"Robbie Robertson",
+			"Sentry (Robert Reynolds)",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Wolverine"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Frank Cho",
+			"Jason Keith",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4f7e051ada1c7.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "014"
+	},
+	{
+		"id": "1678",
+		"collection": "Runaways",
+		"title": "True Believers",
+		"vol": 2,
+		"num": 1,
+		"date": "2005-02-16",
+		"characters": [
+			"Chase Stein",
+			"Karolina Dean ",
+			"Molly Hayes",
+			"Nico Minoru",
+			"Runaways"
+		],
+		"creators": [
+			"Adrian Alphona",
+			"Jo Chen",
+			"Randy Gentile",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/515af88eac9f4.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "015"
+	},
+	{
+		"id": "1775",
+		"collection": "Runaways",
+		"title": "True Believers",
+		"vol": 2,
+		"num": 2,
+		"date": "2005-03-23",
+		"characters": [
+			"Magneto",
+			"Runaways"
+		],
+		"creators": [
+			"Adrian Alphona",
+			"Jo Chen",
+			"Randy Gentile",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/515af89dd4848.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "015"
+	},
+	{
+		"id": "1877",
+		"collection": "Runaways",
+		"title": "True Believers",
+		"vol": 2,
+		"num": 3,
+		"date": "2005-04-20",
+		"characters": [
+			"Runaways"
+		],
+		"creators": [
+			"Adrian Alphona",
+			"Jo Chen",
+			"Randy Gentile",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/515af8a4a2ae6.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "015"
+	},
+	{
+		"id": "1979",
+		"collection": "Runaways",
+		"title": "True Believers",
+		"vol": 2,
+		"num": 4,
+		"date": "2005-05-18",
+		"characters": [
+			"Chase Stein",
+			"Gertrude Yorkes",
+			"Runaways"
+		],
+		"creators": [
+			"Adrian Alphona",
+			"Jo Chen",
+			"Randy Gentile",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/515af8b22881d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "015"
+	},
+	{
+		"id": "2082",
+		"collection": "Runaways",
+		"title": "True Believers",
+		"vol": 2,
+		"num": 5,
+		"date": "2005-06-29",
+		"characters": [
+			"Runaways"
+		],
+		"creators": [
+			"Adrian Alphona",
+			"Jo Chen",
+			"Randy Gentile",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/515af8c012d93.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "015"
+	},
+	{
+		"id": "2192",
+		"collection": "Runaways",
+		"title": "True Believers",
+		"vol": 2,
+		"num": 6,
+		"date": "2005-07-27",
+		"characters": [
+			"Nico Minoru",
+			"Runaways"
+		],
+		"creators": [
+			"Adrian Alphona",
+			"Jo Chen",
+			"Randy Gentile",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/579657dd4c3d0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "015"
+	},
+	{
+		"id": "2987",
+		"collection": "Runaways",
+		"title": "Escape to New York",
+		"vol": 2,
+		"num": 7,
+		"date": "2005-08-31",
+		"characters": [
+			"Runaways"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Randy Gentile",
+			"Takeshi Miyazawa",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/5796669d84c2f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "016"
+	},
+	{
+		"id": "2545",
+		"collection": "Runaways",
+		"title": "Escape to New York",
+		"vol": 2,
+		"num": 8,
+		"date": "2005-09-21",
+		"characters": [
+			"Runaways"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Randy Gentile",
+			"Takeshi Miyazawa",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/515af99aa7e63.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "016"
+	},
+	{
+		"id": "2546",
+		"collection": "Runaways",
+		"title": "Escape to New York",
+		"vol": 2,
+		"num": 9,
+		"date": "2005-10-19",
+		"characters": [
+			"Cloak",
+			"Runaways"
+		],
+		"creators": [
+			"Adrian Alphona",
+			"Jo Chen",
+			"Randy Gentile",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/515af9ad3fc21.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "016"
+	},
+	{
+		"id": "3079",
+		"collection": "Runaways",
+		"title": "Escape to New York",
+		"vol": 2,
+		"num": 10,
+		"date": "2005-11-16",
+		"characters": [
+			"Runaways"
+		],
+		"creators": [
+			"Adrian Alphona",
+			"Jo Chen",
+			"Randy Gentile",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/515af9b21b693.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "016"
+	},
+	{
+		"id": "3181",
+		"collection": "Runaways",
+		"title": "Escape to New York",
+		"vol": 2,
+		"num": 11,
+		"date": "2005-12-21",
+		"characters": [
+			"Runaways"
+		],
+		"creators": [
+			"Adrian Alphona",
+			"Randy Gentile",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/515afa6fd571a.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "016"
+	},
+	{
+		"id": "3387",
+		"collection": "Runaways",
+		"title": "Escape to New York",
+		"vol": 2,
+		"num": 12,
+		"date": "2006-01-18",
+		"characters": [
+			"Runaways"
+		],
+		"creators": [
+			"Adrian Alphona",
+			"Randy Gentile",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/515afa7b1c8a0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "016"
+	},
+	{
+		"id": "3423",
+		"collection": "Ares God of War",
+		"title": "God of War",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-01-11",
+		"characters": [
+			"Ares"
+		],
+		"creators": [
+			"Travel Foreman",
+			"Derek Fridolfs",
+			"Mike Avon Oeming",
+			"Len Ogrady",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/55f1ec17724da.jpg",
+		"universe": "Earth-616",
+		"comments": "Ares, Hercules, Phobos introduction",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "017"
+	},
+	{
+		"id": "3540",
+		"collection": "Ares God of War",
+		"title": "God of War",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-02-08",
+		"characters": [
+			"Ares"
+		],
+		"creators": [
+			"Travel Foreman",
+			"Derek Fridolfs",
+			"Mike Avon Oeming",
+			"Len Ogrady",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/55f1ec65a360a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "017"
+	},
+	{
+		"id": "3947",
+		"collection": "Ares God of War",
+		"title": "God of War",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-03-22",
+		"characters": [
+			"Ares"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Travel Foreman",
+			"Derek Fridolfs",
+			"Mike Avon Oeming",
+			"Len Ogrady"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/55f1ec50a1539.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "017"
+	},
+	{
+		"id": "4074",
+		"collection": "Ares God of War",
+		"title": "God of War",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-05-10",
+		"characters": [
+			"Ares"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Travel Foreman",
+			"Derek Fridolfs",
+			"Mike Avon Oeming",
+			"Len Ogrady"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/55f1ebef85a10.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "017"
+	},
+	{
+		"id": "4186",
+		"collection": "Ares God of War",
+		"title": "God of War",
+		"vol": 1,
+		"num": 5,
+		"date": "2006-07-05",
+		"characters": [
+			"Ares"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Travel Foreman",
+			"Derek Fridolfs",
+			"Mike Avon Oeming",
+			"Len Ogrady"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/e0/55f1ec3d0afbd.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "017"
+	},
+	{
+		"id": "1589",
+		"collection": "Araña",
+		"title": "In The Beginning",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-01-19",
+		"characters": [
+			"Araña"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Mark Brooks",
+			"Udon Comics",
+			"Roger Cruz",
+			"Victor Olazaba",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/56cdce9df30ab.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "018"
+	},
+	{
+		"id": "1679",
+		"collection": "Araña",
+		"title": "In The Beginning",
+		"vol": 1,
+		"num": 2,
+		"date": "2005-03-02",
+		"characters": [
+			"Araña"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Mark Brooks",
+			"Udon Comics",
+			"Roger Cruz",
+			"Victor Olazaba",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/56cdcf6b73044.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "018"
+	},
+	{
+		"id": "1778",
+		"collection": "Araña",
+		"title": "In The Beginning",
+		"vol": 1,
+		"num": 3,
+		"date": "2005-03-23",
+		"characters": [
+			"Araña"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Mark Brooks",
+			"Udon Comics",
+			"Roger Cruz",
+			"Victor Olazaba",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/56cdcfde28d51.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "018"
+	},
+	{
+		"id": "1881",
+		"collection": "Araña",
+		"title": "In The Beginning",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-05-11",
+		"characters": [
+			"Araña"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Mark Brooks",
+			"Udon Comics",
+			"Roger Cruz",
+			"Victor Olazaba",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/56cdd06baf949.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "018"
+	},
+	{
+		"id": "1983",
+		"collection": "Araña",
+		"title": "In The Beginning",
+		"vol": 1,
+		"num": 5,
+		"date": "2005-06-01",
+		"characters": [
+			"Araña"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Mark Brooks",
+			"Udon Comics",
+			"Roger Cruz",
+			"Victor Olazaba",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/56cdd129e563c.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "018"
+	},
+	{
+		"id": "2086",
+		"collection": "Araña",
+		"title": "In The Beginning",
+		"vol": 1,
+		"num": 6,
+		"date": "2005-07-20",
+		"characters": [
+			"Araña"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Mark Brooks",
+			"Roger Cruz",
+			"Victor Olazaba",
+			"Danny Salgo",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/56cdd1bc0cd49.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "018"
+	},
+	{
+		"id": "2258",
+		"collection": "Araña",
+		"title": "Night of the Hunter",
+		"vol": 1,
+		"num": 7,
+		"date": "2005-07-27",
+		"characters": [
+			"Araña"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Mark Brooks",
+			"Victor Olazaba",
+			"Francis Portela",
+			"Danny Salgo",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/56ddd93d7eadc.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "019"
+	},
+	{
+		"id": "2364",
+		"collection": "Araña",
+		"title": "Night of the Hunter",
+		"vol": 1,
+		"num": 8,
+		"date": "2005-09-07",
+		"characters": [
+			"Araña"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Mark Brooks",
+			"Udon Comics",
+			"Roger Cruz",
+			"Victor Olazaba",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56cdd2296a4e4.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "019"
+	},
+	{
+		"id": "2530",
+		"collection": "Araña",
+		"title": "Night of the Hunter",
+		"vol": 1,
+		"num": 9,
+		"date": "2005-09-28",
+		"characters": [
+			"Araña"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Mark Brooks",
+			"Udon Comics",
+			"Roger Cruz",
+			"Victor Olazaba",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/56cdd2ba93876.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "019"
+	},
+	{
+		"id": "2531",
+		"collection": "Araña",
+		"title": "Night of the Hunter",
+		"vol": 1,
+		"num": 10,
+		"date": "2005-10-26",
+		"characters": [
+			"Araña"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Udon Comics",
+			"Roger Cruz",
+			"Victor Olazaba",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/56cdd339ac8d6.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "019"
+	},
+	{
+		"id": "3066",
+		"collection": "Araña",
+		"title": "Night of the Hunter",
+		"vol": 1,
+		"num": 11,
+		"date": "2005-11-23",
+		"characters": [
+			"Araña"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Roger Cruz",
+			"Jonboy Meyers",
+			"Chris Sotomayor",
+			"John Stanisci",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/56cdd3a8ed02e.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "019"
+	},
+	{
+		"id": "3165",
+		"collection": "Araña",
+		"title": "Night of the Hunter",
+		"vol": 1,
+		"num": 12,
+		"date": "2005-12-28",
+		"characters": [
+			"Araña"
+		],
+		"creators": [
+			"Fiona Avery",
+			"Mark Irwin",
+			"Jonboy Meyers",
+			"Takeshi Miyazawa",
+			"Chris Sotomayor",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/56cdd40a4ef5a.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "019"
+	},
+	{
+		"id": "92",
+		"collection": "Iron Man",
+		"title": "Extremis",
+		"vol": 4,
+		"num": 1,
+		"date": "2004-11-10",
+		"characters": [
+			"Iron Man"
+		],
+		"creators": [
+			"Warren Ellis",
+			"Adi Granov"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4f7f0a8fb8c03.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Iron Man infected with Extremis virus - traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "020"
+	},
+	{
+		"id": "1493",
+		"collection": "Iron Man",
+		"title": "Extremis",
+		"vol": 4,
+		"num": 2,
+		"date": "2004-12-29",
+		"characters": [
+			"Iron Man"
+		],
+		"creators": [
+			"Warren Ellis",
+			"Randy Gentile",
+			"Adi Granov"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4f7f0c3c2b64f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "020"
+	},
+	{
+		"id": "1580",
+		"collection": "Iron Man",
+		"title": "Extremis",
+		"vol": 4,
+		"num": 3,
+		"date": "2005-04-13",
+		"characters": [
+			"Iron Man"
+		],
+		"creators": [
+			"Warren Ellis",
+			"Randy Gentile",
+			"Adi Granov"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4d251fee74e41.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "020"
+	},
+	{
+		"id": "1765",
+		"collection": "Iron Man",
+		"title": "Extremis",
+		"vol": 4,
+		"num": 4,
+		"date": "2005-07-20",
+		"characters": [
+			"Iron Man"
+		],
+		"creators": [
+			"Warren Ellis",
+			"Randy Gentile",
+			"Adi Granov"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/00/519fa5eac4abd.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "020"
+	},
+	{
+		"id": "3347",
+		"collection": "Iron Man",
+		"title": "Extremis",
+		"vol": 4,
+		"num": 5,
+		"date": "2006-01-04",
+		"characters": [
+			"Iron Man"
+		],
+		"creators": [
+			"Warren Ellis",
+			"Randy Gentile",
+			"Adi Granov"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb7dec0199b5.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "020"
+	},
+	{
+		"id": "3881",
+		"collection": "Iron Man",
+		"title": "Extremis",
+		"vol": 4,
+		"num": 6,
+		"date": "2006-03-29",
+		"characters": [
+			"Iron Man"
+		],
+		"creators": [
+			"Warren Ellis",
+			"Randy Gentile",
+			"Adi Granov"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4f84752bb13d5.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "020"
+	},
+	{
+		"id": "2479",
+		"collection": "Drax the Destroyer",
+		"title": "Earthfall",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-09-28",
+		"characters": [
+			"Drax"
+		],
+		"creators": [
+			"Mitch Breitweiser",
+			"Keith Giffen",
+			"Cory Petit",
+			"Brian Reber"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc61f37ead85.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "021"
+	},
+	{
+		"id": "2480",
+		"collection": "Drax the Destroyer",
+		"title": "Earthfall",
+		"vol": 1,
+		"num": 2,
+		"date": "2005-10-26",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Mitch Breitweiser",
+			"Keith Giffen",
+			"Cory Petit",
+			"Brian Reber"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bc61f32e1d1e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "021"
+	},
+	{
+		"id": "3040",
+		"collection": "Drax the Destroyer",
+		"title": "Earthfall",
+		"vol": 1,
+		"num": 3,
+		"date": "2005-11-09",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Mitch Breitweiser",
+			"Keith Giffen",
+			"Cory Petit",
+			"Brian Reber"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc616056dcc9.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "021"
+	},
+	{
+		"id": "3145",
+		"collection": "Drax the Destroyer",
+		"title": "Earthfall",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-12-28",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Mitch Breitweiser",
+			"Keith Giffen",
+			"Cory Petit",
+			"Brian Reber"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bc610fd5ca7d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "021"
+	},
+	{
+		"id": "1910",
+		"collection": "Toxin",
+		"title": "The Devil You Know",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-04-13",
+		"characters": [
+			"Toxin"
+		],
+		"creators": [
+			"Matt Milla",
+			"Peter Milligan",
+			"Rodney Ramos",
+			"Esad Ribic",
+			"Darick Robertson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4bc63e7eead78.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "022"
+	},
+	{
+		"id": "2012",
+		"collection": "Toxin",
+		"title": "The Devil You Know",
+		"vol": 1,
+		"num": 2,
+		"date": "2005-05-18",
+		"characters": [
+			"Toxin"
+		],
+		"creators": [
+			"Clayton Crain",
+			"Matt Milla",
+			"Peter Milligan",
+			"Rodney Ramos",
+			"Darick Robertson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4bc63a0b50906.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "022"
+	},
+	{
+		"id": "2117",
+		"collection": "Toxin",
+		"title": "The Devil You Know",
+		"vol": 1,
+		"num": 3,
+		"date": "2005-06-08",
+		"characters": [
+			"Toxin"
+		],
+		"creators": [
+			"Simon Bisley",
+			"Matt Milla",
+			"Peter Milligan",
+			"Rodney Ramos",
+			"Darick Robertson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc633888b31c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "022"
+	},
+	{
+		"id": "2228",
+		"collection": "Toxin",
+		"title": "The Devil You Know",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-07-13",
+		"characters": [
+			"Toxin"
+		],
+		"creators": [
+			"Duncan Fegredo",
+			"Matt Milla",
+			"Peter Milligan",
+			"Rodney Ramos",
+			"Darick Robertson",
+			"Mike Sellers"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc62d14625f5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "022"
+	},
+	{
+		"id": "2341",
+		"collection": "Toxin",
+		"title": "The Devil You Know",
+		"vol": 1,
+		"num": 5,
+		"date": "2005-08-10",
+		"characters": [
+			"Toxin"
+		],
+		"creators": [
+			"Simon Bisley",
+			"Matt Milla",
+			"Peter Milligan",
+			"Rodney Ramos",
+			"Darick Robertson",
+			"Mike Sellers"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4bc627540dd69.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "022"
+	},
+	{
+		"id": "2477",
+		"collection": "Toxin",
+		"title": "The Devil You Know",
+		"vol": 1,
+		"num": 6,
+		"date": "2005-09-14",
+		"characters": [
+			"Toxin"
+		],
+		"creators": [
+			"Duncan Fegredo",
+			"Matt Milla",
+			"Peter Milligan",
+			"Rodney Ramos",
+			"Darick Robertson",
+			"Mike Sellers"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/40/4bc6207121cca.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "022"
+	},
+	{
+		"id": "2516",
+		"collection": "New Thunderbolts",
+		"title": "Right of Power",
+		"vol": 1,
+		"num": 13,
+		"date": "2005-10-05",
+		"characters": [
+			"Captain America",
+			"Iron Man",
+			"Radioactive Man",
+			"Songbird",
+			"Speed Demon",
+			"Spider-Man",
+			"Thunderbolts"
+		],
+		"creators": [
+			"Gary Erskine",
+			"Tom Grummett",
+			"Fabian Nicieza",
+			"Chris Sotomayor",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4bc61ed50025b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "023"
+	},
+	{
+		"id": "2517",
+		"collection": "New Thunderbolts",
+		"title": "Right of Power",
+		"vol": 1,
+		"num": 14,
+		"date": "2005-10-26",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Gary Erskine",
+			"Tom Grummett",
+			"Fabian Nicieza",
+			"Chris Sotomayor",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc473aa1adf7.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "023"
+	},
+	{
+		"id": "3058",
+		"collection": "New Thunderbolts",
+		"title": "Right of Power",
+		"vol": 1,
+		"num": 15,
+		"date": "2005-11-09",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Gary Erskine",
+			"Tom Grummett",
+			"Fabian Nicieza",
+			"Chris Sotomayor",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc612c96f12b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "023"
+	},
+	{
+		"id": "3153",
+		"collection": "New Thunderbolts",
+		"title": "Right of Power",
+		"vol": 1,
+		"num": 16,
+		"date": "2005-12-14",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Gary Erskine",
+			"Tom Grummett",
+			"Fabian Nicieza",
+			"Chris Sotomayor",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bc610dc69151.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "023"
+	},
+	{
+		"id": "3375",
+		"collection": "New Thunderbolts",
+		"title": "Right of Power",
+		"vol": 1,
+		"num": 17,
+		"date": "2006-01-11",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Gary Erskine",
+			"Tom Grummett",
+			"Fabian Nicieza",
+			"Chris Sotomayor",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bc6098f816e1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "023"
+	},
+	{
+		"id": "3493",
+		"collection": "New Thunderbolts",
+		"title": "Right of Power",
+		"vol": 1,
+		"num": 18,
+		"date": "2006-02-08",
+		"characters": [
+			"Moonstone",
+			"Thunderbolts"
+		],
+		"creators": [
+			"Gary Erskine",
+			"Tom Grummett",
+			"Fabian Nicieza",
+			"Chris Sotomayor",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc603346f3d6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "023"
+	},
+	{
+		"id": "3930",
+		"collection": "Thunderbolts",
+		"title": "Right of Power",
+		"vol": 1,
+		"num": 100,
+		"date": "2006-03-08",
+		"characters": [
+			"Thunderbolts"
+		],
+		"creators": [
+			"Gary Erskine",
+			"Tom Grummett",
+			"Fabian Nicieza",
+			"Chris Sotomayor",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/5744c8d966949.jpg",
+		"universe": "Earth-616",
+		"comments": "Thunderbolts 100th",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "023"
+	},
+	{
+		"id": "4056",
+		"collection": "Thunderbolts",
+		"title": "Right of Power II",
+		"vol": 1,
+		"num": 101,
+		"date": "2006-04-12",
+		"characters": [
+			"Thunderbolts"
+		],
+		"creators": [
+			"Tom Grummett",
+			"Fabian Nicieza",
+			"Chris Sotomayor",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5744c91d5154a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "024"
+	},
+	{
+		"id": "4170",
+		"collection": "Thunderbolts",
+		"title": "Right of Power II",
+		"vol": 1,
+		"num": 102,
+		"date": "2006-05-10",
+		"characters": [
+			"Thunderbolts"
+		],
+		"creators": [
+			"Gary Erskine",
+			"Tom Grummett",
+			"Fabian Nicieza",
+			"Chris Sotomayor",
+			"Richard Starkings"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/5744c90c0dcc3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "024"
+	},
+	{
+		"id": "18882",
+		"collection": "Sentry",
+		"title": "Under the Eye of the Clock",
+		"vol": 2,
+		"num": 1,
+		"date": "2005-09-07",
+		"characters": [
+			"Sentry (Robert Reynolds)"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb71ef816b29.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "025"
+	},
+	{
+		"id": "18883",
+		"collection": "Sentry",
+		"title": "Under the Eye of the Clock",
+		"vol": 2,
+		"num": 2,
+		"date": "2005-10-05",
+		"characters": [
+			"Sentry (Robert Reynolds)"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "025"
+	},
+	{
+		"id": "3005",
+		"collection": "Sentry",
+		"title": "Under the Eye of the Clock",
+		"vol": 2,
+		"num": 3,
+		"date": "2005-11-30",
+		"characters": [
+			"Sentry (Robert Reynolds)"
+		],
+		"creators": [
+			"Paul Jenkins",
+			"Mark Morales",
+			"John Romita JR.",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc614366d6d2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "025"
+	},
+	{
+		"id": "3124",
+		"collection": "Sentry",
+		"title": "Under the Eye of the Clock",
+		"vol": 2,
+		"num": 4,
+		"date": "2005-12-28",
+		"characters": [
+			"Sentry (Robert Reynolds)"
+		],
+		"creators": [
+			"Paul Jenkins",
+			"Mark Morales",
+			"John Romita JR.",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bb71d9b694c7.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "025"
+	},
+	{
+		"id": "3349",
+		"collection": "Sentry",
+		"title": "Under the Eye of the Clock",
+		"vol": 2,
+		"num": 5,
+		"date": "2006-02-01",
+		"characters": [
+			"Sentry (Robert Reynolds)"
+		],
+		"creators": [
+			"Paul Jenkins",
+			"Mark Morales",
+			"John Romita JR.",
+			"Dean White",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4bc60ca9ce113.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "025"
+	},
+	{
+		"id": "3465",
+		"collection": "Sentry",
+		"title": "Under the Eye of the Clock",
+		"vol": 2,
+		"num": 6,
+		"date": "2006-02-22",
+		"characters": [
+			"Sentry (Robert Reynolds)"
+		],
+		"creators": [
+			"Paul Jenkins",
+			"Mark Morales",
+			"John Romita JR.",
+			"Dean White",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bb6f75b5a7f5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "025"
+	},
+	{
+		"id": "3903",
+		"collection": "Sentry",
+		"title": "Under the Eye of the Clock",
+		"vol": 2,
+		"num": 7,
+		"date": "2006-03-29",
+		"characters": [
+			"Sentry (Robert Reynolds)"
+		],
+		"creators": [
+			"Paul Jenkins",
+			"Mark Morales",
+			"John Romita JR.",
+			"Dean White",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb6f7561bb60.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "025"
+	},
+	{
+		"id": "4035",
+		"collection": "Sentry",
+		"title": "Under the Eye of the Clock",
+		"vol": 2,
+		"num": 8,
+		"date": "2006-04-26",
+		"characters": [
+			"Sentry (Robert Reynolds)"
+		],
+		"creators": [
+			"Paul Jenkins",
+			"Mark Morales",
+			"John Romita JR.",
+			"Dean White",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bb6f750e2b1b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "025"
+	},
+	{
+		"id": "2190",
+		"collection": "Captain America",
+		"title": "Winter Soldier",
+		"vol": 5,
+		"num": 8,
+		"date": "2005-07-20",
+		"characters": [
+			"Captain America",
+			"Nick Fury",
+			"Sharon Carter",
+			"Winter Soldier"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Steve Epting",
+			"Guy Erez",
+			"Randy Gentile",
+			"David Ari Leon"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/5140b932ac375.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "026"
+	},
+	{
+		"id": "2308",
+		"collection": "Captain America",
+		"title": "Winter Soldier",
+		"vol": 5,
+		"num": 9,
+		"date": "2005-08-10",
+		"characters": [
+			"Captain America",
+			"Crossbones",
+			"Nick Fury",
+			"S.H.I.E.L.D.",
+			"Sharon Carter"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Steve Epting",
+			"Guy Erez",
+			"Randy Gentile",
+			"Michael Lark",
+			"David Ari Leon"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/5140ba3f5e524.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "026"
+	},
+	{
+		"id": "2421",
+		"collection": "Captain America",
+		"title": "Winter Soldier",
+		"vol": 5,
+		"num": 11,
+		"date": "2005-10-26",
+		"characters": [
+			"Captain America",
+			"Winter Soldier"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Steve Epting",
+			"Guy Erez",
+			"Randy Gentile",
+			"David Ari Leon",
+			"Mike Perkins"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/4d24f03587b72.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "026"
+	},
+	{
+		"id": "2422",
+		"collection": "Captain America",
+		"title": "Winter Soldier",
+		"vol": 5,
+		"num": 12,
+		"date": "2005-11-23",
+		"characters": [
+			"Captain America",
+			"Nick Fury",
+			"Sharon Carter",
+			"Winter Soldier"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Steve Epting",
+			"Guy Erez",
+			"Randy Gentile",
+			"David Ari Leon"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4d24f4f9b16b1.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "026"
+	},
+	{
+		"id": "3084",
+		"collection": "Captain America",
+		"title": "Winter Soldier",
+		"vol": 5,
+		"num": 13,
+		"date": "2005-12-21",
+		"characters": [
+			"Captain America",
+			"Falcon",
+			"Iron Man",
+			"Winter Soldier"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Steve Epting",
+			"Guy Erez",
+			"Randy Gentile",
+			"David Ari Leon"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4f75adcd27329.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "026"
+	},
+	{
+		"id": "3188",
+		"collection": "Captain America",
+		"title": "Winter Soldier",
+		"vol": 5,
+		"num": 14,
+		"date": "2006-02-01",
+		"characters": [
+			"Captain America",
+			"Falcon",
+			"Sharon Carter",
+			"Winter Soldier"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Steve Epting",
+			"Guy Erez",
+			"Randy Gentile",
+			"David Ari Leon"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/4bc60f02bc3bd.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "026"
+	},
+	{
+		"id": "1936",
+		"collection": "Fantastic Four",
+		"title": "The Life Fantastic",
+		"vol": 1,
+		"num": 527,
+		"date": "2005-05-25",
+		"characters": [
+			"Fantastic Four",
+			"Human Torch",
+			"Invisible Woman",
+			"Mr. Fantastic",
+			"Thing"
+		],
+		"creators": [
+			"Jim Calafiore",
+			"Mike McKone",
+			"Andy Lanning",
+			"Stan Lee",
+			"Paul Mounts"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/57e976c50d591.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "027"
+	},
+	{
+		"id": "2044",
+		"collection": "Fantastic Four",
+		"title": "The Life Fantastic",
+		"vol": 1,
+		"num": 528,
+		"date": "2005-06-29",
+		"characters": [
+			"Fantastic Four",
+			"Thing"
+		],
+		"creators": [
+			"Jim Calafiore",
+			"Mike McKone",
+			"Randy Gentile",
+			"Andy Lanning",
+			"Stan Lee",
+			"Paul Mounts"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/57e975e070f06.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "027"
+	},
+	{
+		"id": "2224",
+		"collection": "Fantastic Four",
+		"title": "The Life Fantastic",
+		"vol": 1,
+		"num": 529,
+		"date": "2005-07-27",
+		"characters": [
+			"Fantastic Four"
+		],
+		"creators": [
+			"Jim Calafiore",
+			"Mike McKone",
+			"Randy Gentile",
+			"Andy Lanning",
+			"Stan Lee",
+			"Paul Mounts"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/57e9767b57c5c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "027"
+	},
+	{
+		"id": "2337",
+		"collection": "Fantastic Four",
+		"title": "The Life Fantastic",
+		"vol": 1,
+		"num": 530,
+		"date": "2005-08-24",
+		"characters": [
+			"Fantastic Four"
+		],
+		"creators": [
+			"Jim Calafiore",
+			"Mike McKone",
+			"Randy Gentile",
+			"Andy Lanning",
+			"Stan Lee",
+			"Paul Mounts"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/57e976d8f2d03.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "027"
+	},
+	{
+		"id": "2470",
+		"collection": "Fantastic Four",
+		"title": "The Life Fantastic",
+		"vol": 1,
+		"num": 531,
+		"date": "2005-09-28",
+		"characters": [
+			"Fantastic Four"
+		],
+		"creators": [
+			"Jim Calafiore",
+			"Mike McKone",
+			"Randy Gentile",
+			"Andy Lanning",
+			"Stan Lee",
+			"Paul Mounts"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4bc3316b2eda5.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "027"
+	},
+	{
+		"id": "2471",
+		"collection": "Fantastic Four",
+		"title": "The Life Fantastic",
+		"vol": 1,
+		"num": 532,
+		"date": "2005-11-09",
+		"characters": [
+			"Fantastic Four"
+		],
+		"creators": [
+			"Jim Calafiore",
+			"Mike McKone",
+			"Randy Gentile",
+			"Andy Lanning",
+			"Stan Lee",
+			"Paul Mounts"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4bc331663799f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "027"
+	},
+	{
+		"id": "3034",
+		"collection": "Fantastic Four",
+		"title": "The Life Fantastic",
+		"vol": 1,
+		"num": 533,
+		"date": "2005-12-21",
+		"characters": [
+			"Fantastic Four"
+		],
+		"creators": [
+			"Jim Calafiore",
+			"Mike McKone",
+			"Randy Gentile",
+			"Andy Lanning",
+			"Stan Lee",
+			"Paul Mounts"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/57e9769240ba1.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "027"
+	},
+	{
+		"id": "3186",
+		"collection": "Fantastic Four",
+		"title": "The Life Fantastic",
+		"vol": 1,
+		"num": 534,
+		"date": "2006-02-01",
+		"characters": [
+			"Fantastic Four"
+		],
+		"creators": [
+			"Jim Calafiore",
+			"Mike McKone",
+			"Randy Gentile",
+			"Andy Lanning",
+			"Stan Lee",
+			"Paul Mounts"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/57e97667103b2.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "027"
+	},
+	{
+		"id": "3502",
+		"collection": "Fantastic Four",
+		"title": "The Life Fantastic",
+		"vol": 1,
+		"num": 535,
+		"date": "2006-02-22",
+		"characters": [
+			"Fantastic Four"
+		],
+		"creators": [
+			"Jim Calafiore",
+			"Mike McKone",
+			"Randy Gentile",
+			"Andy Lanning",
+			"Stan Lee",
+			"Paul Mounts"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/57e97427c2bff.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "027"
+	},
+	{
+		"id": "2469",
+		"collection": "She-Hulk",
+		"title": "Time trials",
+		"vol": 2,
+		"num": 1,
+		"date": "2005-11-16",
+		"characters": [
+			"She-Hulk (Jennifer Walters)"
+		],
+		"creators": [
+			"Juan Bobillo",
+			"Mike Mayhew",
+			"Dave Sharpe",
+			"Dan Slott",
+			"Marcelo Sosa"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/57630ae196881.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "028"
+	},
+	{
+		"id": "3032",
+		"collection": "She-Hulk",
+		"title": "Time trials",
+		"vol": 2,
+		"num": 2,
+		"date": "2005-11-23",
+		"characters": [
+			"She-Hulk (Jennifer Walters)"
+		],
+		"creators": [
+			"Juan Bobillo",
+			"Greg Horn",
+			"Dave Sharpe",
+			"Dan Slott",
+			"Marcelo Sosa"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5764423392aef.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "028"
+	},
+	{
+		"id": "3216",
+		"collection": "She-Hulk",
+		"title": "Time trials",
+		"vol": 2,
+		"num": 3,
+		"date": "2005-12-28",
+		"characters": [
+			"She-Hulk (Jennifer Walters)"
+		],
+		"creators": [
+			"Juan Bobillo",
+			"Greg Horn",
+			"Dave Sharpe",
+			"Dan Slott"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/57644201a63b5.jpg",
+		"universe": "Earth-616",
+		"comments": "She-Hulk 100th",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "028"
+	},
+	{
+		"id": "3428",
+		"collection": "She-Hulk",
+		"title": "Time trials",
+		"vol": 2,
+		"num": 4,
+		"date": "2006-01-11",
+		"characters": [
+			"She-Hulk (Jennifer Walters)"
+		],
+		"creators": [
+			"Scott Kolins",
+			"Dan Slott"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/576441f0b9fdf.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "028"
+	},
+	{
+		"id": "3545",
+		"collection": "She-Hulk",
+		"title": "Time trials",
+		"vol": 2,
+		"num": 5,
+		"date": "2006-02-15",
+		"characters": [
+			"She-Hulk (Jennifer Walters)"
+		],
+		"creators": [
+			"Juan Bobillo",
+			"Greg Horn",
+			"Dan Slott"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/57643dd9a2434.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "028"
+	},
+	{
+		"id": "3951",
+		"collection": "She-Hulk",
+		"title": "Beaus and Eros",
+		"vol": 2,
+		"num": 6,
+		"date": "2006-03-22",
+		"characters": [
+			"She-Hulk (Jennifer Walters)"
+		],
+		"creators": [
+			"Juan Bobillo",
+			"Greg Horn",
+			"Dan Slott"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/576442eb62b2a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "029"
+	},
+	{
+		"id": "4117",
+		"collection": "She-Hulk",
+		"title": "Beaus and Eros",
+		"vol": 2,
+		"num": 7,
+		"date": "2006-05-10",
+		"characters": [
+			"She-Hulk (Jennifer Walters)"
+		],
+		"creators": [
+			"Juan Bobillo",
+			"Will Conrad",
+			"Greg Horn",
+			"Dave Kemp",
+			"Dave Sharpe",
+			"Dan Slott"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/576442af00c4b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "029"
+	},
+	{
+		"id": "2453",
+		"collection": "Friendly Neighborhood Spider-Man",
+		"title": "The Other",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-10-12",
+		"event": "Spider-Man The Other",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Peter David",
+			"Chris Eliopoulos",
+			"Karl Kesel",
+			"Paul Mounts",
+			"Mike Wieringo"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56a8ef914ba16.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Spider-Man evolves",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "030"
+	},
+	{
+		"id": "2559",
+		"collection": "Marvel Knights Spider-Man",
+		"title": "The Other",
+		"vol": 1,
+		"num": 19,
+		"date": "2005-10-19",
+		"event": "Spider-Man The Other",
+		"characters": [
+			"Mary Jane Watson",
+			"Spider-Man"
+		],
+		"creators": [
+			"Peter David",
+			"Pat Lee",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/57ae4971ac231.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "030"
+	},
+	{
+		"id": "2452",
+		"collection": "Amazing Spider-Man",
+		"title": "The Other",
+		"vol": 1,
+		"num": 525,
+		"date": "2005-10-26",
+		"event": "Spider-Man The Other",
+		"characters": [
+			"Mary Jane Watson",
+			"Spider-Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Axel Alonso",
+			"Rainier Beredo",
+			"Matt Milla",
+			"Peter David",
+			"J. Michael Straczynski",
+			"Mike Deodato",
+			"Cory Petit",
+			"Joe Pimentel",
+			"Jose Pimentel"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/56cde7f22df30.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "030"
+	},
+	{
+		"id": "3021",
+		"collection": "Friendly Neighborhood Spider-Man",
+		"title": "The Other",
+		"vol": 1,
+		"num": 2,
+		"date": "2005-11-09",
+		"event": "Spider-Man The Other",
+		"characters": [
+			"Black Panther",
+			"Mr. Fantastic",
+			"Spider-Man"
+		],
+		"creators": [
+			"Chris Eliopoulos",
+			"Reginald Hudlin",
+			"Karl Kesel",
+			"Paul Mounts",
+			"Mike Wieringo"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/56a8f84d6bc30.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "030"
+	},
+	{
+		"id": "3087",
+		"collection": "Marvel Knights Spider-Man",
+		"title": "The Other",
+		"vol": 1,
+		"num": 20,
+		"date": "2005-11-16",
+		"event": "Spider-Man The Other",
+		"characters": [
+			"Mary Jane Watson",
+			"Spider-Man"
+		],
+		"creators": [
+			"Reginald Hudlin",
+			"Pat Lee",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/57ae48bf2666b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "030"
+	},
+	{
+		"id": "3020",
+		"collection": "Amazing Spider-Man",
+		"title": "The Other",
+		"vol": 1,
+		"num": 526,
+		"date": "2005-11-23",
+		"event": "Spider-Man The Other",
+		"characters": [
+			"Morlun",
+			"Spider-Man"
+		],
+		"creators": [
+			"Axel Alonso",
+			"Mike Deodato",
+			"Reginald Hudlin",
+			"J. Michael Straczynski",
+			"Matt Milla",
+			"Cory Petit",
+			"Joe Pimentel",
+			"Jose Pimentel"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/56cde874f3fad.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "030"
+	},
+	{
+		"id": "3133",
+		"collection": "Friendly Neighborhood Spider-Man",
+		"title": "The Other",
+		"vol": 1,
+		"num": 3,
+		"date": "2005-12-07",
+		"event": "Spider-Man The Other",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Chris Eliopoulos",
+			"Karl Kesel",
+			"Stan Lee",
+			"Paul Mounts",
+			"Mike Wieringo"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/56a8eff76c638.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "030"
+	},
+	{
+		"id": "3192",
+		"collection": "Marvel Knights Spider-Man",
+		"title": "The Other",
+		"vol": 1,
+		"num": 21,
+		"date": "2005-12-14",
+		"event": "Spider-Man The Other",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Pat Lee",
+			"Stan Lee",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/57ae4886e455d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "030"
+	},
+	{
+		"id": "3132",
+		"collection": "Amazing Spider-Man",
+		"title": "The Other",
+		"vol": 1,
+		"num": 527,
+		"date": "2005-12-28",
+		"event": "Spider-Man The Other",
+		"characters": [
+			"Avengers",
+			"Mary Jane Watson",
+			"Spider-Man"
+		],
+		"creators": [
+			"Axel Alonso",
+			"Mike Deodato",
+			"Stan Lee",
+			"J. Michael Straczynski",
+			"Matt Milla",
+			"Cory Petit",
+			"Joe Pimentel",
+			"Jose Pimentel"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/57f7fb63e1df5.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "030"
+	},
+	{
+		"id": "3361",
+		"collection": "Friendly Neighborhood Spider-Man",
+		"title": "The Other",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-01-18",
+		"event": "Spider-Man The Other",
+		"characters": [
+			"Mary Jane Watson",
+			"Spider-Man"
+		],
+		"creators": [
+			"Peter David",
+			"Karl Kesel",
+			"Paul Mounts",
+			"Cory Petit",
+			"Mike Wieringo"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/56a8efcc13407.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "030"
+	},
+	{
+		"id": "3398",
+		"collection": "Marvel Knights Spider-Man",
+		"title": "The Other",
+		"vol": 1,
+		"num": 22,
+		"date": "2006-01-18",
+		"event": "Spider-Man The Other",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Reginald Hudlin",
+			"Pat Lee",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/57ae48d5c04d8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "030"
+	},
+	{
+		"id": "3360",
+		"collection": "Amazing Spider-Man",
+		"title": "The Other",
+		"vol": 1,
+		"num": 528,
+		"date": "2006-01-25",
+		"event": "Spider-Man The Other",
+		"characters": [
+			"Mary Jane Watson",
+			"Spider-Man",
+			"Tony Stark"
+		],
+		"creators": [
+			"Axel Alonso",
+			"Mike Deodato",
+			"Stan Lee",
+			"J. Michael Straczynski",
+			"Matt Milla",
+			"Cory Petit",
+			"Joe Pimentel",
+			"Jose Pimentel"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4d24fe8c3f670.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "030"
+	},
+	{
+		"id": "5629",
+		"collection": "X-23 Target X",
+		"title": "Target X",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-12-13",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Michael Choi",
+			"Craig Kyle",
+			"Chris Yost",
+			"Sonia Oback",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/57460dd0baefd.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "031"
+	},
+	{
+		"id": "5776",
+		"collection": "X-23 Target X",
+		"title": "Target X",
+		"vol": 1,
+		"num": 2,
+		"date": "2007-01-03",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Michael Choi",
+			"Craig Kyle",
+			"Chris Yost",
+			"Sonia Oback",
+			"Troy Peteri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/57460d52f060c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "031"
+	},
+	{
+		"id": "5940",
+		"collection": "X-23 Target X",
+		"title": "Target X",
+		"vol": 1,
+		"num": 3,
+		"date": "2007-02-07",
+		"characters": [
+			"X-23",
+			"X-Men"
+		],
+		"creators": [
+			"Michael Choi",
+			"Craig Kyle",
+			"Chris Yost",
+			"Sonia Oback",
+			"Troy Peteri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/57460cde8f687.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "031"
+	},
+	{
+		"id": "6163",
+		"collection": "X-23 Target X",
+		"title": "Target X",
+		"vol": 1,
+		"num": 4,
+		"date": "2007-03-21",
+		"characters": [
+			"Mysterio",
+			"Mysterio (Francis Klum)",
+			"Spider-Man",
+			"Vulture (Adrian Toomes)"
+		],
+		"creators": [
+			"Rob Campanella",
+			"John Dell",
+			"Andrew Hennessy",
+			"Karl Kesel",
+			"Peter David",
+			"Scot Eaton",
+			"Mike Wieringo",
+			"Lee Loughridge",
+			"Matt Milla",
+			"Paul Mounts",
+			"Todd Nauck",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc5a0851b899.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "031"
+	},
+	{
+		"id": "6211",
+		"collection": "X-23 Target X",
+		"title": "Target X",
+		"vol": 1,
+		"num": 5,
+		"date": "2007-04-18",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Michael Choi",
+			"Craig Kyle",
+			"Chris Yost",
+			"Sonia Oback",
+			"Troy Peteri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/57460e0b8e612.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "031"
+	},
+	{
+		"id": "13457",
+		"collection": "X-23 Target X",
+		"title": "Target X",
+		"vol": 1,
+		"num": 6,
+		"date": "2007-05-30",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Michael Choi",
+			"Craig Kyle",
+			"Chris Yost",
+			"Sonia Oback",
+			"Troy Peteri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/57460dcce54f6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "031"
+	},
+	{
+		"id": "5235",
+		"collection": "Dr Strange - The Oath",
+		"title": "The Oath",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-10-04",
+		"characters": [
+			"Doctor Strange"
+		],
+		"creators": [
+			"Alvaro Lopez",
+			"Marcos Martin",
+			"Javier Rodriguez",
+			"Willie Schubert",
+			"Brian K. Vaughan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/517ad22da11c8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "032"
+	},
+	{
+		"id": "5398",
+		"collection": "Dr Strange - The Oath",
+		"title": "The Oath",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-11-08",
+		"characters": [
+			"Doctor Strange"
+		],
+		"creators": [
+			"Marcos Martin",
+			"Javier Rodriguez",
+			"Willie Schubert",
+			"Brian K. Vaughan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/517ad234a2b64.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "032"
+	},
+	{
+		"id": "5662",
+		"collection": "Dr Strange - The Oath",
+		"title": "The Oath",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-12-06",
+		"characters": [
+			"Doctor Strange"
+		],
+		"creators": [
+			"Marcos Martin",
+			"Javier Rodriguez",
+			"Willie Schubert",
+			"Brian K. Vaughan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/517ad23c84f1b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "032"
+	},
+	{
+		"id": "5801",
+		"collection": "Dr Strange - The Oath",
+		"title": "The Oath",
+		"vol": 1,
+		"num": 4,
+		"date": "2007-01-24",
+		"characters": [
+			"Doctor Strange"
+		],
+		"creators": [
+			"Marcos Martin",
+			"Javier Rodriguez",
+			"Willie Schubert",
+			"Brian K. Vaughan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/517ad24ba24b8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "032"
+	},
+	{
+		"id": "5957",
+		"collection": "Dr Strange - The Oath",
+		"title": "The Oath",
+		"vol": 1,
+		"num": 5,
+		"date": "2007-02-28",
+		"characters": [
+			"Doctor Strange"
+		],
+		"creators": [
+			"Marcos Martin",
+			"Javier Rodriguez",
+			"Willie Schubert",
+			"Brian K. Vaughan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/517ad2516a99d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "032"
+	},
+	{
+		"id": "2298",
+		"collection": "Daredevil",
+		"title": "The Murdock Papers",
+		"vol": 2,
+		"num": 76,
+		"date": "2005-08-24",
+		"characters": [
+			"Ben Urich",
+			"Daredevil",
+			"Foggy Nelson"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Alex Maleev",
+			"Cory Petit",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/57470b733fd27.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Daredevil goes to prison",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "033"
+	},
+	{
+		"id": "2483",
+		"collection": "Daredevil",
+		"title": "The Murdock Papers",
+		"vol": 2,
+		"num": 77,
+		"date": "2005-09-28",
+		"characters": [
+			"Black Widow",
+			"Daredevil",
+			"Foggy Nelson"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Alex Maleev",
+			"Cory Petit",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/572d0c49d36ad.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "033"
+	},
+	{
+		"id": "2484",
+		"collection": "Daredevil",
+		"title": "The Murdock Papers",
+		"vol": 2,
+		"num": 78,
+		"date": "2005-10-26",
+		"characters": [
+			"Black Widow",
+			"Daredevil",
+			"Elektra"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Alex Maleev",
+			"Cory Petit",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/572d0d466f69f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "033"
+	},
+	{
+		"id": "3042",
+		"collection": "Daredevil",
+		"title": "The Murdock Papers",
+		"vol": 2,
+		"num": 79,
+		"date": "2005-11-23",
+		"characters": [
+			"Black Widow",
+			"Bullseye",
+			"Daredevil",
+			"Elektra"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Alex Maleev",
+			"Cory Petit",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/572d0d43e66be.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "033"
+	},
+	{
+		"id": "3146",
+		"collection": "Daredevil",
+		"title": "The Murdock Papers",
+		"vol": 2,
+		"num": 80,
+		"date": "2005-12-28",
+		"characters": [
+			"Black Widow",
+			"Daredevil",
+			"Elektra"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Alex Maleev",
+			"Cory Petit",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/572d0d47330c9.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "033"
+	},
+	{
+		"id": "3369",
+		"collection": "Daredevil",
+		"title": "The Murdock Papers",
+		"vol": 2,
+		"num": 81,
+		"date": "2006-01-25",
+		"characters": [
+			"Daredevil",
+			"Foggy Nelson"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Alex Maleev",
+			"Cory Petit",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/e0/56d7581d7996f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "033"
+	},
+	{
+		"id": "3057",
+		"collection": "Incredible Hulk",
+		"title": "Peace in Our Time",
+		"vol": 2,
+		"num": 88,
+		"date": "2005-11-09",
+		"characters": [
+			"Hulk"
+		],
+		"creators": [
+			"Keu Cha",
+			"Randy Gentile",
+			"Jason Keith",
+			"Brandon Peterson",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bc61ae126812.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Hulk is launched to space",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "034"
+	},
+	{
+		"id": "3092",
+		"collection": "Incredible Hulk",
+		"title": "Peace in Our Time",
+		"vol": 2,
+		"num": 89,
+		"date": "2005-11-30",
+		"characters": [
+			"Hulk"
+		],
+		"creators": [
+			"Keu Cha",
+			"Randy Gentile",
+			"Jason Keith",
+			"Brandon Peterson",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4bc334c74c478.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "034"
+	},
+	{
+		"id": "3205",
+		"collection": "Incredible Hulk",
+		"title": "Peace in Our Time",
+		"vol": 2,
+		"num": 90,
+		"date": "2005-12-21",
+		"characters": [
+			"Hulk"
+		],
+		"creators": [
+			"Juan Santa Cruz",
+			"Randy Gentile",
+			"Jason Keith",
+			"Brandon Peterson",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4f6a223e1cbff.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "034"
+	},
+	{
+		"id": "3413",
+		"collection": "Incredible Hulk",
+		"title": "Peace in Our Time",
+		"vol": 2,
+		"num": 91,
+		"date": "2006-01-18",
+		"characters": [
+			"Hulk"
+		],
+		"creators": [
+			"Juan Santa Cruz",
+			"Randy Gentile",
+			"Jason Keith",
+			"Brandon Peterson",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4f6a22aad420e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "034"
+	},
+	{
+		"id": "3939",
+		"collection": "Marvel Knights Four",
+		"title": "Four",
+		"vol": 1,
+		"num": 28,
+		"date": "2006-03-15",
+		"characters": [
+			"Fantastic Four"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Tony Harris",
+			"Mizuki Sakakibara",
+			"Dave Sharpe",
+			"Avalon Studio"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bc5fb6e401f0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "035"
+	},
+	{
+		"id": "20629",
+		"collection": "Marvel Knights Four",
+		"title": "Four",
+		"vol": 1,
+		"num": 29,
+		"date": "2006-04-26",
+		"characters": [
+			"Fantastic Four"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bb79bd85cad2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "035"
+	},
+	{
+		"id": "4175",
+		"collection": "Marvel Knights Four",
+		"title": "Four",
+		"vol": 1,
+		"num": 30,
+		"date": "2006-06-14",
+		"characters": [
+			"Fantastic Four"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Matt Banning",
+			"Gary Frank",
+			"Clay Mann",
+			"Dave Sharpe",
+			"Avalon Studio"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc5ea1688d00.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "035"
+	},
+	{
+		"id": "3001",
+		"collection": "Uncanny X-Men",
+		"title": "End of Greys",
+		"vol": 1,
+		"num": 466,
+		"date": "2005-11-23",
+		"characters": [
+			"Rachel Grey",
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Chris Claremont",
+			"Edgar Delgado",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bc612a51f765.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "036"
+	},
+	{
+		"id": "3120",
+		"collection": "Uncanny X-Men",
+		"title": "End of Greys",
+		"vol": 1,
+		"num": 467,
+		"date": "2005-12-14",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Chris Claremont",
+			"Edgar Delgado",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4bc61289421d1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "036"
+	},
+	{
+		"id": "3143",
+		"collection": "Uncanny X-Men",
+		"title": "End of Greys",
+		"vol": 1,
+		"num": 468,
+		"date": "2006-01-18",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Chris Claremont",
+			"Edgar Delgado",
+			"Mark Farmer",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bc6110210089.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "036"
+	},
+	{
+		"id": "3479",
+		"collection": "Uncanny X-Men",
+		"title": "End of Greys",
+		"vol": 1,
+		"num": 469,
+		"date": "2006-02-01",
+		"characters": [
+			"Bishop",
+			"Cannonball",
+			"Nightcrawler",
+			"Psylocke",
+			"Rachel Grey",
+			"Sentinel",
+			"X-Men"
+		],
+		"creators": [
+			"Chris Claremont",
+			"Brian Haberlin",
+			"Cory Petit",
+			"Jonathan Sibal",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/4bc6047f0a24a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "036"
+	},
+	{
+		"id": "3892",
+		"collection": "Uncanny X-Men",
+		"title": "End of Greys",
+		"vol": 1,
+		"num": 470,
+		"date": "2006-03-01",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Chris Claremont",
+			"Brian Haberlin",
+			"Jonathan Sibal",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/4c365f79cfc5d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "036"
+	},
+	{
+		"id": "3893",
+		"collection": "Uncanny X-Men",
+		"title": "End of Greys",
+		"vol": 1,
+		"num": 471,
+		"date": "2006-03-29",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Chris Claremont",
+			"Brian Haberlin",
+			"Jonathan Sibal",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bc5f676e1737.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "036"
+	},
+	{
+		"id": "3060",
+		"collection": "Wolverine",
+		"title": "Origins \u0026 Endings",
+		"vol": 3,
+		"num": 36,
+		"date": "2005-11-30",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Randy Gentile",
+			"Paul Mounts",
+			"Javier Saltares",
+			"Mark Texeira",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4d24edc54a507.jpg",
+		"universe": "Earth-616",
+		"comments": "Wolverine recovers his memory",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "037"
+	},
+	{
+		"id": "3155",
+		"collection": "Wolverine",
+		"title": "Origins \u0026 Endings",
+		"vol": 3,
+		"num": 37,
+		"date": "2005-12-28",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Kaare Andrews",
+			"Randy Gentile",
+			"Paul Mounts",
+			"Javier Saltares",
+			"Mark Texeira",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4d24ecf291027.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "037"
+	},
+	{
+		"id": "3422",
+		"collection": "Wolverine",
+		"title": "Origins \u0026 Endings",
+		"vol": 3,
+		"num": 38,
+		"date": "2006-01-25",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Kaare Andrews",
+			"Randy Gentile",
+			"Javier Saltares",
+			"J. D. Smith",
+			"Mark Texeira",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4d252584ebc04.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "037"
+	},
+	{
+		"id": "3538",
+		"collection": "Wolverine",
+		"title": "Origins \u0026 Endings",
+		"vol": 3,
+		"num": 39,
+		"date": "2006-02-22",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Kaare Andrews",
+			"Randy Gentile",
+			"Javier Saltares",
+			"J. D. Smith",
+			"Mark Texeira",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4d25127b3a463.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "037"
+	},
+	{
+		"id": "3943",
+		"collection": "Wolverine",
+		"title": "Origins \u0026 Endings",
+		"vol": 3,
+		"num": 40,
+		"date": "2006-03-22",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Kaare Andrews",
+			"Randy Gentile",
+			"Javier Saltares",
+			"J. D. Smith",
+			"Mark Texeira",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4d250023061c4.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "037"
+	},
+	{
+		"id": "4119",
+		"collection": "Wolverine Origins",
+		"title": "Born in Blood",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-04-19",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Steve Dillon",
+			"Dan Kemp",
+			"Joe Quesada",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/51e06c1504154.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "038"
+	},
+	{
+		"id": "4230",
+		"collection": "Wolverine Origins",
+		"title": "Born in Blood",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-05-17",
+		"characters": [
+			"Iron Man",
+			"Nuke",
+			"Wolverine"
+		],
+		"creators": [
+			"Steve Dillon",
+			"Dan Kemp",
+			"Joe Quesada",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/51e06c14cdeec.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "038"
+	},
+	{
+		"id": "4332",
+		"collection": "Wolverine Origins",
+		"title": "Born in Blood",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-06-14",
+		"characters": [
+			"Iron Man",
+			"Nuke",
+			"Wolverine"
+		],
+		"creators": [
+			"Steve Dillon",
+			"Randy Gentile",
+			"Dan Kemp",
+			"Joe Quesada",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/51e06c067b9f3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "038"
+	},
+	{
+		"id": "4490",
+		"collection": "Wolverine Origins",
+		"title": "Born in Blood",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-07-12",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Steve Dillon",
+			"Randy Gentile",
+			"Dan Kemp",
+			"Joe Quesada",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/51e06bf854971.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "038"
+	},
+	{
+		"id": "4814",
+		"collection": "Wolverine Origins",
+		"title": "Born in Blood",
+		"vol": 1,
+		"num": 5,
+		"date": "2006-08-09",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Steve Dillon",
+			"Randy Gentile",
+			"Dan Kemp",
+			"Joe Quesada",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/51e06be561c5b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "038"
+	},
+	{
+		"id": "5102",
+		"collection": "Wolverine Origins",
+		"title": "Savior - Swift and Terrible",
+		"vol": 1,
+		"num": 6,
+		"date": "2006-09-13",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Steve Dillon",
+			"Randy Gentile",
+			"Dan Kemp",
+			"Joe Quesada",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4d24e4ce22f4e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "039"
+	},
+	{
+		"id": "5255",
+		"collection": "Wolverine Origins",
+		"title": "Savior - Swift and Terrible",
+		"vol": 1,
+		"num": 7,
+		"date": "2006-10-11",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Steve Dillon",
+			"Randy Gentile",
+			"Dan Kemp",
+			"Joe Quesada",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4d251932ec3e5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "039"
+	},
+	{
+		"id": "5426",
+		"collection": "Wolverine Origins",
+		"title": "Savior - Swift and Terrible",
+		"vol": 1,
+		"num": 8,
+		"date": "2006-11-08",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Steve Dillon",
+			"Randy Gentile",
+			"Dan Kemp",
+			"Joe Quesada",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/51e078da740a5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "039"
+	},
+	{
+		"id": "5682",
+		"collection": "Wolverine Origins",
+		"title": "Savior - Swift and Terrible",
+		"vol": 1,
+		"num": 9,
+		"date": "2006-12-27",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Steve Dillon",
+			"Randy Gentile",
+			"Dan Kemp",
+			"Joe Quesada",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/51e078c8b6bc0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "039"
+	},
+	{
+		"id": "5821",
+		"collection": "Wolverine Origins",
+		"title": "Savior - Swift and Terrible",
+		"vol": 1,
+		"num": 10,
+		"date": "2007-01-10",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Steve Dillon",
+			"Randy Gentile",
+			"Dan Kemp",
+			"Joe Quesada",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4d24e0342d870.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "039"
+	},
+	{
+		"id": "5974",
+		"collection": "Wolverine Origins",
+		"title": "Savior - Swift and Terrible",
+		"vol": 1,
+		"num": 11,
+		"date": "2007-02-14",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Steve Dillon",
+			"Randy Gentile",
+			"Dan Kemp",
+			"Joe Quesada",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bb88cfd1424d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "039"
+	},
+	{
+		"id": "6119",
+		"collection": "Wolverine Origins",
+		"title": "Savior - Swift and Terrible",
+		"vol": 1,
+		"num": 12,
+		"date": "2007-03-14",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Steve Dillon",
+			"Randy Gentile",
+			"Dan Kemp",
+			"Joe Quesada",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4d24fa40aad7f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "039"
+	},
+	{
+		"id": "6258",
+		"collection": "Wolverine Origins",
+		"title": "Savior - Swift and Terrible",
+		"vol": 1,
+		"num": 13,
+		"date": "2007-04-11",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Steve Dillon",
+			"Randy Gentile",
+			"Dan Kemp",
+			"Joe Quesada",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4d25039c60d03.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "039"
+	},
+	{
+		"id": "13468",
+		"collection": "Wolverine Origins",
+		"title": "Savior - Swift and Terrible",
+		"vol": 1,
+		"num": 14,
+		"date": "2007-05-09",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Steve Dillon",
+			"Marko Djurdjevic",
+			"Randy Gentile",
+			"Dan Kemp",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4d24fd486187a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "039"
+	},
+	{
+		"id": "15849",
+		"collection": "Wolverine Origins",
+		"title": "Savior - Swift and Terrible",
+		"vol": 1,
+		"num": 15,
+		"date": "2007-06-27",
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		],
+		"creators": [
+			"Steve Dillon",
+			"Marko Djurdjevic",
+			"Matt Milla",
+			"Cory Petit",
+			"Daniel Way"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/51e07b01e07db.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "039"
+	},
+	{
+		"id": "3212",
+		"collection": "Spiderwoman Origin",
+		"title": "Origin",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-12-21",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Jonathan Luna",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc60cf5e77e2.jpg",
+		"universe": "Earth-616",
+		"comments": "Spider-Manwoman origins",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "040"
+	},
+	{
+		"id": "3420",
+		"collection": "Spiderwoman Origin",
+		"title": "Origin",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-01-18",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Jonathan Luna",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bc607c1a90ed.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "040"
+	},
+	{
+		"id": "3535",
+		"collection": "Spiderwoman Origin",
+		"title": "Origin",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-02-15",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Jonathan Luna",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/90/4bc601df3d51a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "040"
+	},
+	{
+		"id": "3940",
+		"collection": "Spiderwoman Origin",
+		"title": "Origin",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-03-15",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Brian Reed",
+			"Luna Brothers",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bc5fb684c47b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "040"
+	},
+	{
+		"id": "4063",
+		"collection": "Spiderwoman Origin",
+		"title": "Origin",
+		"vol": 1,
+		"num": 5,
+		"date": "2006-04-19",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Luna Brothers",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bc5f25c0e45b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "040"
+	},
+	{
+		"id": "2832",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "Bosom Buddies - Living Legends",
+		"vol": 1,
+		"num": 19,
+		"date": "2005-09-07",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Udon Comics",
+			"Gotham Entertainment Group",
+			"Fabian Nicieza",
+			"Cory Petit",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc47b4bb43fa.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "041"
+	},
+	{
+		"id": "2537",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "Bosom Buddies - Living Legends",
+		"vol": 1,
+		"num": 20,
+		"date": "2005-09-28",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Udon Comics",
+			"Gotham Entertainment Group",
+			"Fabian Nicieza",
+			"Cory Petit",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/56e1dc2b22963.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "041"
+	},
+	{
+		"id": "2538",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "Bosom Buddies - Living Legends",
+		"vol": 1,
+		"num": 21,
+		"date": "2005-10-12",
+		"characters": [
+			"Cable",
+			"Deadpool"
+		],
+		"creators": [
+			"Udon Comics",
+			"Shane Davis",
+			"Gotham Entertainment Group",
+			"Fabian Nicieza",
+			"Cory Petit",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/56e1dcd171944.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "041"
+	},
+	{
+		"id": "3074",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "Bosom Buddies - Living Legends",
+		"vol": 1,
+		"num": 22,
+		"date": "2005-11-09",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Udon Comics",
+			"Gotham Entertainment Group",
+			"Fabian Nicieza",
+			"Cory Petit",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/56e1dde12b3be.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "041"
+	},
+	{
+		"id": "3170",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "Bosom Buddies - Living Legends",
+		"vol": 1,
+		"num": 23,
+		"date": "2005-12-14",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Udon Comics",
+			"Gotham Entertainment Group",
+			"Fabian Nicieza",
+			"Cory Petit",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/56e1df452106e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "041"
+	},
+	{
+		"id": "3382",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "Bosom Buddies - Living Legends",
+		"vol": 1,
+		"num": 24,
+		"date": "2006-01-11",
+		"characters": [
+			"Deadpool",
+			"Spider-Man"
+		],
+		"creators": [
+			"Udon Comics",
+			"Gotham Entertainment Group",
+			"Fabian Nicieza",
+			"Cory Petit",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/56e1e07326eeb.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "041"
+	},
+	{
+		"id": "3554",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "Bosom Buddies - Living Legends",
+		"vol": 1,
+		"num": 25,
+		"date": "2006-02-08",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Udon Comics",
+			"Gotham Entertainment Group",
+			"Fabian Nicieza",
+			"Cory Petit",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/90/56e1e160b1bdb.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "041"
+	},
+	{
+		"id": "3961",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "Bosom Buddies - Living Legends",
+		"vol": 1,
+		"num": 26,
+		"date": "2006-03-08",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Udon Comics",
+			"Gotham Entertainment Group",
+			"Lan Medina",
+			"Fabian Nicieza",
+			"Cory Petit",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/56e1e34f3ce8e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "041"
+	},
+	{
+		"id": "4088",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "Bosom Buddies - Living Legends",
+		"vol": 1,
+		"num": 27,
+		"date": "2006-04-12",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Gotham Entertainment Group",
+			"Lan Medina",
+			"Fabian Nicieza",
+			"Cory Petit",
+			"Avalon Studio",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/56e1e3d2cdbe9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "041"
+	},
+	{
+		"id": "4200",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "Bosom Buddies - Living Legends",
+		"vol": 1,
+		"num": 28,
+		"date": "2006-05-10",
+		"characters": [
+			"Deadpool"
+		],
+		"creators": [
+			"Gotham Entertainment Group",
+			"Lan Medina",
+			"Fabian Nicieza",
+			"Cory Petit",
+			"David Ross"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/56e1e49dcc905.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "041"
+	},
+	{
+		"id": "4295",
+		"collection": "Cable \u0026 Deadpool",
+		"title": "Bosom Buddies - Living Legends",
+		"vol": 1,
+		"num": 29,
+		"date": "2006-06-14",
+		"characters": [
+			"Cable",
+			"Deadpool",
+			"Domino"
+		],
+		"creators": [
+			"Mark Brooks",
+			"Reilly Brown",
+			"Gotham Entertainment Group",
+			"Fabian Nicieza",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/56e1e58eb1848.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "041"
+	},
+	{
+		"id": "2072",
+		"collection": "New Warriors",
+		"title": "Reality Check",
+		"vol": 3,
+		"num": 1,
+		"date": "2005-06-08",
+		"characters": [
+			"Microbe",
+			"Namorita",
+			"New Warriors",
+			"Nova"
+		],
+		"creators": [
+			"Randy Gentile",
+			"Zeb Wells",
+			"Skottie Young"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/57cf34c4bf32f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "042"
+	},
+	{
+		"id": "2180",
+		"collection": "New Warriors",
+		"title": "Reality Check",
+		"vol": 3,
+		"num": 2,
+		"date": "2005-07-13",
+		"characters": [
+			"New Warriors"
+		],
+		"creators": [
+			"Randy Gentile",
+			"Zeb Wells",
+			"Skottie Young"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/57cf348f4bd28.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "042"
+	},
+	{
+		"id": "2300",
+		"collection": "New Warriors",
+		"title": "Reality Check",
+		"vol": 3,
+		"num": 3,
+		"date": "2005-08-10",
+		"characters": [
+			"New Warriors"
+		],
+		"creators": [
+			"Randy Gentile",
+			"Zeb Wells",
+			"Skottie Young"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/57cf347bbc5a6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "042"
+	},
+	{
+		"id": "2408",
+		"collection": "New Warriors",
+		"title": "Reality Check",
+		"vol": 3,
+		"num": 4,
+		"date": "2005-09-28",
+		"characters": [
+			"Debrii",
+			"New Warriors"
+		],
+		"creators": [
+			"Randy Gentile",
+			"Zeb Wells",
+			"Skottie Young"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/57cf344457083.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "042"
+	},
+	{
+		"id": "3000",
+		"collection": "New Warriors",
+		"title": "Reality Check",
+		"vol": 3,
+		"num": 5,
+		"date": "2005-11-09",
+		"characters": [
+			"New Warriors"
+		],
+		"creators": [
+			"Randy Gentile",
+			"Zeb Wells",
+			"Skottie Young"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/57cf345a215aa.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "042"
+	},
+	{
+		"id": "3119",
+		"collection": "New Warriors",
+		"title": "Reality Check",
+		"vol": 3,
+		"num": 6,
+		"date": "2005-12-07",
+		"characters": [
+			"Debrii",
+			"Microbe",
+			"Namorita",
+			"New Warriors",
+			"Night Thrasher",
+			"Nova",
+			"Penance (Robert Baldwin)"
+		],
+		"creators": [
+			"Randy Gentile",
+			"Zeb Wells",
+			"Skottie Young"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/57cf346d81c0f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "042"
+	},
+	{
+		"id": "2386",
+		"collection": "The Pulse",
+		"title": "Fear",
+		"vol": 1,
+		"num": 11,
+		"date": "2005-09-14",
+		"characters": [
+			"Ben Urich",
+			"Carol Danvers",
+			"Fantastic Four",
+			"Jessica Jones",
+			"Luke Cage"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Michael Gaydos",
+			"Michael Lark",
+			"Mike Mayhew",
+			"Peter Pantazis",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5653546c4c5b2.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "043"
+	},
+	{
+		"id": "2992",
+		"collection": "The Pulse",
+		"title": "Fear",
+		"vol": 1,
+		"num": 12,
+		"date": "2005-11-09",
+		"characters": [
+			"Avengers",
+			"Ben Urich",
+			"Captain Marvel (Carol Danvers)",
+			"Doctor Strange",
+			"Jessica Jones",
+			"Luke Cage",
+			"Wasp"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Michael Gaydos",
+			"Matt Hollingsworth",
+			"Mike Mayhew",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc4731dcbb67.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "043"
+	},
+	{
+		"id": "3414",
+		"collection": "The Pulse",
+		"title": "Fear",
+		"vol": 1,
+		"num": 13,
+		"date": "2006-01-25",
+		"characters": [
+			"Avengers",
+			"Ben Urich",
+			"Doctor Strange",
+			"J. Jonah Jameson",
+			"Jessica Jones",
+			"Luke Cage"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Michael Gaydos",
+			"Mike Mayhew",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/56425a7007be0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Danielle Cage is born",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "043"
+	},
+	{
+		"id": "3935",
+		"collection": "The Pulse",
+		"title": "Fear",
+		"vol": 1,
+		"num": 14,
+		"date": "2006-03-08",
+		"characters": [
+			"Iron Fist (Danny Rand)",
+			"Jessica Jones",
+			"Luke Cage"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Michael Gaydos",
+			"Matt Hollingsworth",
+			"Mike Mayhew",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/70/565354910905b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "043"
+	},
+	{
+		"id": "3503",
+		"collection": "Captain America",
+		"title": "Red Menace",
+		"vol": 5,
+		"num": 15,
+		"date": "2006-02-22",
+		"characters": [
+			"Captain America",
+			"Crossbones",
+			"Red Skull",
+			"Sin"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Steve Epting",
+			"Randy Gentile"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/570bc887abd51.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "044"
+	},
+	{
+		"id": "3910",
+		"collection": "Captain America",
+		"title": "Red Menace",
+		"vol": 5,
+		"num": 16,
+		"date": "2006-03-22",
+		"characters": [
+			"Captain America",
+			"Crossbones",
+			"Sharon Carter",
+			"Sin",
+			"Winter Soldier"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Steve Epting",
+			"Randy Gentile",
+			"Mike Perkins"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/570bc8fd6586d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "044"
+	},
+	{
+		"id": "4040",
+		"collection": "Captain America",
+		"title": "Red Menace",
+		"vol": 5,
+		"num": 17,
+		"date": "2006-04-19",
+		"characters": [
+			"Captain America",
+			"Crossbones",
+			"Sharon Carter",
+			"Sin"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Steve Epting",
+			"Randy Gentile",
+			"Mike Perkins"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/570bc99cd1d9d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "044"
+	},
+	{
+		"id": "4152",
+		"collection": "Captain America",
+		"title": "Red Menace",
+		"vol": 5,
+		"num": 18,
+		"date": "2006-05-17",
+		"characters": [
+			"Captain America",
+			"Crossbones",
+			"Red Skull",
+			"Sin",
+			"Spitfire",
+			"Union Jack (Brian Falsworth)"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Steve Epting",
+			"Randy Gentile"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/00/570bca4eee4db.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "044"
+	},
+	{
+		"id": "4326",
+		"collection": "Captain America",
+		"title": "Red Menace",
+		"vol": 5,
+		"num": 19,
+		"date": "2006-06-21",
+		"characters": [
+			"Captain America",
+			"Red Skull",
+			"Sharon Carter",
+			"Spitfire",
+			"Union Jack (Joseph Chapman)"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Steve Epting",
+			"Randy Gentile"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/570bcae74ab0d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "044"
+	},
+	{
+		"id": "4482",
+		"collection": "Captain America",
+		"title": "Red Menace",
+		"vol": 5,
+		"num": 20,
+		"date": "2006-07-26",
+		"characters": [
+			"Captain America",
+			"Crossbones",
+			"Red Skull",
+			"Sharon Carter",
+			"Sin",
+			"Sleeper",
+			"Spitfire",
+			"Union Jack (Joseph Chapman)",
+			"Winter Soldier"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Steve Epting",
+			"Randy Gentile"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/570bcbf76d9b1.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "044"
+	},
+	{
+		"id": "4798",
+		"collection": "Captain America",
+		"title": "Red Menace",
+		"vol": 5,
+		"num": 21,
+		"date": "2006-09-13",
+		"characters": [
+			"Captain America",
+			"Crossbones",
+			"Red Skull",
+			"Sharon Carter",
+			"Sin",
+			"Sleeper",
+			"Spitfire",
+			"Union Jack (Joseph Chapman)",
+			"Winter Soldier"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Steve Epting",
+			"Randy Gentile"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/570bcc868f796.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "044"
+	},
+	{
+		"id": "3482",
+		"collection": "Daredevil",
+		"title": "The Devil in Cell-Block D",
+		"vol": 2,
+		"num": 82,
+		"date": "2006-02-15",
+		"characters": [
+			"Daredevil",
+			"Foggy Nelson"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Michael Lark",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4d250ded85b05.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "045"
+	},
+	{
+		"id": "3946",
+		"collection": "Daredevil",
+		"title": "The Devil in Cell-Block D",
+		"vol": 2,
+		"num": 83,
+		"date": "2006-03-22",
+		"characters": [
+			"Ben Urich",
+			"Daredevil"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Tommy Lee Edwards",
+			"Michael Lark",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/572d0d4677b4a.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "045"
+	},
+	{
+		"id": "4070",
+		"collection": "Daredevil",
+		"title": "The Devil in Cell-Block D",
+		"vol": 2,
+		"num": 84,
+		"date": "2006-04-19",
+		"characters": [
+			"Bullseye",
+			"Daredevil"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Tommy Lee Edwards",
+			"Stefano Gaudiano",
+			"Michael Lark",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/572d0ff0b338e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "045"
+	},
+	{
+		"id": "4183",
+		"collection": "Daredevil",
+		"title": "The Devil in Cell-Block D",
+		"vol": 2,
+		"num": 85,
+		"date": "2006-05-24",
+		"characters": [
+			"Daredevil",
+			"Kingpin"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Tommy Lee Edwards",
+			"Stefano Gaudiano",
+			"Michael Lark",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/e0/4d24e8acaadb6.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "045"
+	},
+	{
+		"id": "4284",
+		"collection": "Daredevil",
+		"title": "The Devil in Cell-Block D",
+		"vol": 2,
+		"num": 86,
+		"date": "2006-06-28",
+		"characters": [
+			"Bullseye",
+			"Daredevil",
+			"Kingpin"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"David Finch",
+			"Stefano Gaudiano",
+			"Michael Lark",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/572d102cedd23.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "045"
+	},
+	{
+		"id": "4439",
+		"collection": "Daredevil",
+		"title": "The Devil in Cell-Block D",
+		"vol": 2,
+		"num": 87,
+		"date": "2006-07-26",
+		"characters": [
+			"Daredevil",
+			"Iron Fist (Danny Rand)"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"David Finch",
+			"Stefano Gaudiano",
+			"Michael Lark",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4bb6abe28cd0d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Daredevil escapes from prison",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "045"
+	},
+	{
+		"id": "6256",
+		"collection": "Spider-Man and the Fantastic Four",
+		"title": "Silver Rage",
+		"vol": 1,
+		"num": 1,
+		"date": "2007-04-11",
+		"characters": [
+			"Fantastic Four",
+			"Spider-Man"
+		],
+		"creators": [
+			"Jeff Parker",
+			"Mike Wieringo"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc35532dff58.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "046"
+	},
+	{
+		"id": "13494",
+		"collection": "Spider-Man and the Fantastic Four",
+		"title": "Silver Rage",
+		"vol": 1,
+		"num": 2,
+		"date": "2007-05-09",
+		"characters": [
+			"Fantastic Four",
+			"Spider-Man"
+		],
+		"creators": [
+			"Wade von Grawbadger",
+			"Peter Pantazis",
+			"Jeff Parker",
+			"Mike Wieringo"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc4cac1559c9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "046"
+	},
+	{
+		"id": "15880",
+		"collection": "Spider-Man and the Fantastic Four",
+		"title": "Silver Rage",
+		"vol": 1,
+		"num": 3,
+		"date": "2007-06-20",
+		"characters": [
+			"Fantastic Four",
+			"Spider-Man"
+		],
+		"creators": [
+			"Wade von Grawbadger",
+			"Peter Pantazis",
+			"Jeff Parker",
+			"Nate Piekos",
+			"Mike Wieringo"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bc4943f5bc76.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "046"
+	},
+	{
+		"id": "15989",
+		"collection": "Spider-Man and the Fantastic Four",
+		"title": "Silver Rage",
+		"vol": 1,
+		"num": 4,
+		"date": "2007-08-01",
+		"characters": [
+			"Fantastic Four",
+			"Spider-Man"
+		],
+		"creators": [
+			"Wade von Grawbadger",
+			"Peter Pantazis",
+			"Jeff Parker",
+			"Nate Piekos",
+			"Mike Wieringo"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc39e9602c47.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "046"
+	},
+	{
+		"id": "3624",
+		"collection": "Sensational Spider-Man",
+		"title": "Feral",
+		"vol": 2,
+		"num": 23,
+		"date": "2006-01-18",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Angel Medina"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc5fe75153ca.jpg",
+		"universe": "Earth-616",
+		"comments": "Spider-Man gets iron suit",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "047"
+	},
+	{
+		"id": "3915",
+		"collection": "Sensational Spider-Man",
+		"title": "Feral",
+		"vol": 2,
+		"num": 24,
+		"date": "2006-03-08",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Scott Hanna",
+			"Angel Medina",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bc5fcf2e2f38.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "047"
+	},
+	{
+		"id": "4102",
+		"collection": "Sensational Spider-Man",
+		"title": "Feral",
+		"vol": 2,
+		"num": 25,
+		"date": "2006-04-19",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Scott Hanna",
+			"Angel Medina",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc5ef0e37033.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "047"
+	},
+	{
+		"id": "4210",
+		"collection": "Sensational Spider-Man",
+		"title": "Feral",
+		"vol": 2,
+		"num": 26,
+		"date": "2006-05-24",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Clayton Crain",
+			"Scott Hanna",
+			"Dan Kemp",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bc5e6e28ab9a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "047"
+	},
+	{
+		"id": "4304",
+		"collection": "Sensational Spider-Man",
+		"title": "Feral",
+		"vol": 2,
+		"num": 27,
+		"date": "2006-06-14",
+		"characters": [
+			"Black Cat",
+			"Puma",
+			"Spider-Man"
+		],
+		"creators": [
+			"Roberto Aguirre-Sacasa",
+			"Clayton Crain",
+			"Scott Hanna",
+			"Dan Kemp",
+			"Angel Medina",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/80/4bc5e0d6a1cc2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "047"
+	},
+	{
+		"id": "3015",
+		"collection": "Black Panther",
+		"title": "Bad Mutha",
+		"vol": 4,
+		"num": 10,
+		"date": "2005-11-30",
+		"characters": [
+			"Black Panther",
+			"Luke Cage"
+		],
+		"creators": [
+			"Scot Eaton",
+			"Gary Frank",
+			"Randy Gentile",
+			"Reginald Hudlin",
+			"Klaus Janson",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/56dee9a3e4122.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "048"
+	},
+	{
+		"id": "3130",
+		"collection": "Black Panther",
+		"title": "Bad Mutha",
+		"vol": 4,
+		"num": 11,
+		"date": "2005-12-28",
+		"characters": [
+			"Black Panther",
+			"Falcon",
+			"Luke Cage",
+			"Shang-Chi"
+		],
+		"creators": [
+			"Mike Deodato",
+			"Scot Eaton",
+			"Randy Gentile",
+			"Reginald Hudlin",
+			"Klaus Janson",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/56deeb2ba4c29.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "048"
+	},
+	{
+		"id": "3356",
+		"collection": "Black Panther",
+		"title": "Bad Mutha",
+		"vol": 4,
+		"num": 12,
+		"date": "2006-01-25",
+		"characters": [
+			"Black Panther",
+			"Blade"
+		],
+		"creators": [
+			"Mike Deodato",
+			"Scot Eaton",
+			"Randy Gentile",
+			"Reginald Hudlin",
+			"Klaus Janson",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/574dd8a76c263.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "048"
+	},
+	{
+		"id": "3470",
+		"collection": "Black Panther",
+		"title": "Bad Mutha",
+		"vol": 4,
+		"num": 13,
+		"date": "2006-02-22",
+		"characters": [
+			"Black Panther"
+		],
+		"creators": [
+			"Scot Eaton",
+			"Randy Gentile",
+			"Reginald Hudlin",
+			"Klaus Janson",
+			"Jae Lee",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/574dd999940f3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "048"
+	},
+	{
+		"id": "3913",
+		"collection": "Black Panther",
+		"title": "The Bride",
+		"vol": 4,
+		"num": 14,
+		"date": "2006-03-22",
+		"characters": [
+			"Black Panther",
+			"Storm"
+		],
+		"creators": [
+			"Scot Eaton",
+			"Randy Gentile",
+			"Reginald Hudlin",
+			"Klaus Janson",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/5747190f12e97.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "049"
+	},
+	{
+		"id": "4044",
+		"collection": "Black Panther",
+		"title": "The Bride",
+		"vol": 4,
+		"num": 15,
+		"date": "2006-04-26",
+		"characters": [
+			"Black Panther",
+			"Storm"
+		],
+		"creators": [
+			"Scot Eaton",
+			"Randy Gentile",
+			"Reginald Hudlin",
+			"Klaus Janson",
+			"Mike Mayhew",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/5747199a37285.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "049"
+	},
+	{
+		"id": "4156",
+		"collection": "Black Panther",
+		"title": "The Bride",
+		"vol": 4,
+		"num": 16,
+		"date": "2006-05-24",
+		"characters": [
+			"Black Panther",
+			"Storm"
+		],
+		"creators": [
+			"Olivier Coipel",
+			"Scot Eaton",
+			"Randy Gentile",
+			"Reginald Hudlin",
+			"Klaus Janson",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/57471a69da4b0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "049"
+	},
+	{
+		"id": "4266",
+		"collection": "Black Panther",
+		"title": "The Bride",
+		"vol": 4,
+		"num": 17,
+		"date": "2006-06-28",
+		"characters": [
+			"Black Panther",
+			"Storm"
+		],
+		"creators": [
+			"Scot Eaton",
+			"Randy Gentile",
+			"Reginald Hudlin",
+			"Klaus Janson",
+			"Joseph Michael Linsner",
+			"Dean White"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/57471af792ffa.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "049"
+	},
+	{
+		"id": "4027",
+		"collection": "Uncanny X-Men",
+		"title": "First Foursaken",
+		"vol": 1,
+		"num": 472,
+		"date": "2006-04-12",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Joe Caramagna",
+			"Chris Claremont",
+			"Edgar Delgado",
+			"Mark Farmer"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bc5f4d10a19f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "050"
+	},
+	{
+		"id": "4146",
+		"collection": "Uncanny X-Men",
+		"title": "First Foursaken",
+		"vol": 1,
+		"num": 473,
+		"date": "2006-05-10",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Joe Caramagna",
+			"Chris Claremont",
+			"Edgar Delgado",
+			"Mark Farmer"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4bc5ebc0460b2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "050"
+	},
+	{
+		"id": "4280",
+		"collection": "Uncanny X-Men",
+		"title": "First Foursaken",
+		"vol": 1,
+		"num": 474,
+		"date": "2006-06-21",
+		"characters": [
+			"Bishop",
+			"Cannonball",
+			"Psylocke",
+			"Rachel Grey",
+			"X-Men"
+		],
+		"creators": [
+			"Mark Brooks",
+			"Joe Caramagna",
+			"Chris Claremont",
+			"Roger Cruz",
+			"Edgar Delgado",
+			"Victor Olazaba"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c36517be3f00.jpg",
+		"universe": "Earth-617",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "050"
+	},
+	{
+		"id": "4343",
+		"collection": "Uncanny X-Men Annual",
+		"title": "First Foursaken",
+		"vol": 2,
+		"num": 1,
+		"date": "2006-06-21",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Chris Claremont",
+			"Clayton Henry",
+			"Mark Morales",
+			"Christina Strain",
+			"Leinil Francis Yu"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4c364fd1937b9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "050"
+	},
+	{
+		"id": "3474",
+		"collection": "Friendly Neighborhood Spider-Man",
+		"title": "Derailed",
+		"vol": 1,
+		"num": 5,
+		"date": "2006-03-01",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Peter David",
+			"Karl Kesel",
+			"Paul Mounts",
+			"Cory Petit",
+			"Mike Wieringo"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/56a8f02dc1ebb.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "051"
+	},
+	{
+		"id": "3888",
+		"collection": "Friendly Neighborhood Spider-Man",
+		"title": "Derailed",
+		"vol": 1,
+		"num": 6,
+		"date": "2006-03-15",
+		"characters": [
+			"Crossbones",
+			"Spider-Man"
+		],
+		"creators": [
+			"Peter David",
+			"Karl Kesel",
+			"Paul Mounts",
+			"Cory Petit",
+			"Mike Wieringo"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/56a8f493b9d4d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "051"
+	},
+	{
+		"id": "4116",
+		"collection": "Friendly Neighborhood Spider-Man",
+		"title": "Derailed",
+		"vol": 1,
+		"num": 7,
+		"date": "2006-04-12",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Roger Cruz",
+			"Peter David",
+			"Karl Kesel",
+			"Paul Mounts",
+			"Cory Petit",
+			"Mike Wieringo"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/56a8f08224e40.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "051"
+	},
+	{
+		"id": "4224",
+		"collection": "Friendly Neighborhood Spider-Man",
+		"title": "Derailed",
+		"vol": 1,
+		"num": 8,
+		"date": "2006-05-03",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Peter David",
+			"Karl Kesel",
+			"Paul Mounts",
+			"Cory Petit",
+			"Mike Wieringo"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/56a8f05a85650.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "051"
+	},
+	{
+		"id": "4323",
+		"collection": "Friendly Neighborhood Spider-Man",
+		"title": "Derailed",
+		"vol": 1,
+		"num": 9,
+		"date": "2006-06-07",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Peter David",
+			"Karl Kesel",
+			"Paul Mounts",
+			"Cory Petit",
+			"Mike Wieringo"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/56a8f1539378a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "051"
+	},
+	{
+		"id": "4479",
+		"collection": "Friendly Neighborhood Spider-Man",
+		"title": "Derailed",
+		"vol": 1,
+		"num": 10,
+		"date": "2006-07-19",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Peter David",
+			"Mike Manley",
+			"Paul Mounts",
+			"Cory Petit",
+			"Mike Wieringo"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/56a8f31f84d4c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "051"
+	},
+	{
+		"id": "4018",
+		"collection": "Iron Man",
+		"title": "Execute Program",
+		"vol": 4,
+		"num": 7,
+		"date": "2006-04-19",
+		"characters": [
+			"Iron Man",
+			"Nick Fury"
+		],
+		"creators": [
+			"Edgar Delgado",
+			"Adi Granov",
+			"Scott Hanna",
+			"Charles Knauf",
+			"Daniel Knauf",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f8479d44fd50.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "052"
+	},
+	{
+		"id": "4136",
+		"collection": "Iron Man",
+		"title": "Execute Program",
+		"vol": 4,
+		"num": 8,
+		"date": "2006-05-24",
+		"characters": [
+			"Iron Man"
+		],
+		"creators": [
+			"Edgar Delgado",
+			"Adi Granov",
+			"Scott Hanna",
+			"Charles Knauf",
+			"Daniel Knauf",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4d24e83a5b5d5.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "052"
+	},
+	{
+		"id": "4248",
+		"collection": "Iron Man",
+		"title": "Execute Program",
+		"vol": 4,
+		"num": 9,
+		"date": "2006-06-21",
+		"characters": [
+			"Iron Man"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Edgar Delgado",
+			"Adi Granov",
+			"Scott Hanna",
+			"Charles Knauf",
+			"Daniel Knauf",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4d24dea0ce8e1.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "052"
+	},
+	{
+		"id": "4411",
+		"collection": "Iron Man",
+		"title": "Execute Program",
+		"vol": 4,
+		"num": 10,
+		"date": "2006-07-12",
+		"characters": [
+			"Iron Man",
+			"Sentry (Robert Reynolds)"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Edgar Delgado",
+			"Adi Granov",
+			"Scott Hanna",
+			"Charles Knauf",
+			"Daniel Knauf",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/4d25153f18362.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "052"
+	},
+	{
+		"id": "4733",
+		"collection": "Iron Man",
+		"title": "Execute Program",
+		"vol": 4,
+		"num": 11,
+		"date": "2006-08-16",
+		"characters": [
+			"Iron Man"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Edgar Delgado",
+			"Adi Granov",
+			"Scott Hanna",
+			"Charles Knauf",
+			"Daniel Knauf",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/4d250b7077707.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "052"
+	},
+	{
+		"id": "5031",
+		"collection": "Iron Man",
+		"title": "Execute Program",
+		"vol": 4,
+		"num": 12,
+		"date": "2006-09-20",
+		"characters": [
+			"Iron Man"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Edgar Delgado",
+			"Scott Hanna",
+			"Daniel Knauf",
+			"Patrick Zircher"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4d2515cda44ae.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "052"
+	},
+	{
+		"id": "3464",
+		"collection": "New Avengers",
+		"title": "The Collective",
+		"vol": 1,
+		"num": 16,
+		"date": "2006-02-22",
+		"characters": [
+			"Captain America",
+			"Iron Man",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Wolverine"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Morry Hollowell",
+			"Steve McNiven",
+			"Richard Starkings",
+			"Dexter Vines"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/e0/5196646a80915.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "053"
+	},
+	{
+		"id": "3882",
+		"collection": "New Avengers",
+		"title": "The Collective",
+		"vol": 1,
+		"num": 17,
+		"date": "2006-03-22",
+		"characters": [
+			"Captain America",
+			"Wolverine"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Mike Deodato",
+			"Steve McNiven",
+			"Jose Pimentel",
+			"Richard Starkings",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/51966464e330c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "053"
+	},
+	{
+		"id": "4069",
+		"collection": "New Avengers",
+		"title": "The Collective",
+		"vol": 1,
+		"num": 18,
+		"date": "2006-04-19",
+		"characters": [
+			"Captain America",
+			"Iron Man",
+			"Sentry (Robert Reynolds)",
+			"Spider-Woman (Jessica Drew)",
+			"Vision",
+			"Wolverine"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Mike Deodato",
+			"Steve McNiven",
+			"Jose Pimentel",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4f7f060e95f62.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "053"
+	},
+	{
+		"id": "4182",
+		"collection": "New Avengers",
+		"title": "The Collective",
+		"vol": 1,
+		"num": 19,
+		"date": "2006-05-17",
+		"characters": [
+			"Captain America",
+			"Iron Man",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Wolverine"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Mike Deodato",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4f7f0476036a8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "053"
+	},
+	{
+		"id": "4282",
+		"collection": "New Avengers",
+		"title": "The Collective",
+		"vol": 1,
+		"num": 20,
+		"date": "2006-06-21",
+		"characters": [
+			"Captain America",
+			"Iron Man",
+			"Magneto",
+			"Wolverine"
+		],
+		"creators": [
+			"Comicraft",
+			"Brian Michael Bendis",
+			"Mike Deodato",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4f7f0422bd5b9.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "053"
+	},
+	{
+		"id": "4107",
+		"collection": "New Avengers Annual",
+		"title": "Happily Ever After",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-04-26",
+		"characters": [
+			"Avengers",
+			"Jessica Jones",
+			"Luke Cage"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Olivier Coipel",
+			"Richard Starkings",
+			"Dave Stewart"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/519647bac7745.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "054"
+	},
+	{
+		"id": "3534",
+		"collection": "X-Men",
+		"title": "Blood of Apocalypse",
+		"vol": 2,
+		"num": 182,
+		"date": "2006-02-08",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Liquid Graphics",
+			"Salvador Larroca",
+			"Danny K. Miki",
+			"Peter Milligan",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/40/4bc601e40d04b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "055"
+	},
+	{
+		"id": "3539",
+		"collection": "X-Men",
+		"title": "Blood of Apocalypse",
+		"vol": 2,
+		"num": 183,
+		"date": "2006-02-22",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Liquid Graphics",
+			"Salvador Larroca",
+			"Danny K. Miki",
+			"Peter Milligan",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bb7b18ec5da1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "055"
+	},
+	{
+		"id": "3945",
+		"collection": "X-Men",
+		"title": "Blood of Apocalypse",
+		"vol": 2,
+		"num": 184,
+		"date": "2006-03-22",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Salvador Larroca",
+			"Peter Milligan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc5fb4a4189c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "055"
+	},
+	{
+		"id": "4068",
+		"collection": "X-Men",
+		"title": "Blood of Apocalypse",
+		"vol": 2,
+		"num": 185,
+		"date": "2006-04-19",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Salvador Larroca",
+			"Peter Milligan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/57431f2182b22.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "055"
+	},
+	{
+		"id": "4181",
+		"collection": "X-Men",
+		"title": "Blood of Apocalypse",
+		"vol": 2,
+		"num": 186,
+		"date": "2006-05-17",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Salvador Larroca",
+			"Peter Milligan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/4bc5e9f87ba93.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "055"
+	},
+	{
+		"id": "4281",
+		"collection": "X-Men",
+		"title": "Blood of Apocalypse",
+		"vol": 2,
+		"num": 187,
+		"date": "2006-06-28",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Jason Keith",
+			"Salvador Larroca",
+			"Peter Milligan",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bc5e2a5d71a3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "055"
+	},
+	{
+		"id": "4211",
+		"collection": "X-Factor",
+		"title": "Two Meetings",
+		"vol": 3,
+		"num": 7,
+		"date": "2006-05-24",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Peter David",
+			"Ariel Olivetti",
+			"Cory Petit",
+			"Ryan Sook",
+			"Jose Villarrubia"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4bc5e6dd7b4d9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "056"
+	},
+	{
+		"id": "4434",
+		"collection": "Uncanny X-Men",
+		"title": "Rise and Fall of the Shi'ar Empire",
+		"vol": 1,
+		"num": 475,
+		"date": "2006-07-05",
+		"characters": [
+			"Ch'od",
+			"Corsair",
+			"Gladiator (Kallark)",
+			"Havok",
+			"Hepzibah",
+			"Lilandra",
+			"Nightcrawler",
+			"Polaris",
+			"Professor X",
+			"Rachel Grey",
+			"Raza",
+			"Starjammers",
+			"Thunderbird (Neal Shaara)",
+			"Vulcan (Gabriel Summers)",
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Chris Eliopoulos",
+			"Danny K. Miki",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc5da58d73b0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "057"
+	},
+	{
+		"id": "4435",
+		"collection": "Uncanny X-Men",
+		"title": "Rise and Fall of the Shi'ar Empire",
+		"vol": 1,
+		"num": 476,
+		"date": "2006-07-19",
+		"characters": [
+			"Thunderbird (Neal Shaara)",
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Chris Eliopoulos",
+			"Danny K. Miki",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bb846781bced.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "057"
+	},
+	{
+		"id": "4753",
+		"collection": "Uncanny X-Men",
+		"title": "Rise and Fall of the Shi'ar Empire",
+		"vol": 1,
+		"num": 477,
+		"date": "2006-08-02",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Chris Eliopoulos",
+			"Danny K. Miki",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc5d2cf34e74.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "057"
+	},
+	{
+		"id": "5049",
+		"collection": "Uncanny X-Men",
+		"title": "Rise and Fall of the Shi'ar Empire",
+		"vol": 1,
+		"num": 478,
+		"date": "2006-09-06",
+		"characters": [
+			"Havok",
+			"Polaris",
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Chris Eliopoulos",
+			"Danny K. Miki",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/90/4bc5cabe3b3a6.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "057"
+	},
+	{
+		"id": "5201",
+		"collection": "Uncanny X-Men",
+		"title": "Rise and Fall of the Shi'ar Empire",
+		"vol": 1,
+		"num": 479,
+		"date": "2006-10-11",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Chris Eliopoulos",
+			"Danny K. Miki",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bc5c4db29040.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "057"
+	},
+	{
+		"id": "5498",
+		"collection": "Uncanny X-Men",
+		"title": "Rise and Fall of the Shi'ar Empire",
+		"vol": 1,
+		"num": 480,
+		"date": "2006-11-01",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Clayton Henry",
+			"Mark Morales",
+			"John Watson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bc5bbb996406.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "057"
+	},
+	{
+		"id": "5631",
+		"collection": "Uncanny X-Men",
+		"title": "Rise and Fall of the Shi'ar Empire",
+		"vol": 1,
+		"num": 481,
+		"date": "2006-12-06",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Chris Eliopoulos",
+			"Danny K. Miki",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc5b82a25e31.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "057"
+	},
+	{
+		"id": "5777",
+		"collection": "Uncanny X-Men",
+		"title": "Rise and Fall of the Shi'ar Empire",
+		"vol": 1,
+		"num": 482,
+		"date": "2007-01-03",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Chris Eliopoulos",
+			"Danny K. Miki",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bb87f8fa5824.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "057"
+	},
+	{
+		"id": "5942",
+		"collection": "Uncanny X-Men",
+		"title": "Rise and Fall of the Shi'ar Empire",
+		"vol": 1,
+		"num": 483,
+		"date": "2007-02-07",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Chris Eliopoulos",
+			"Clayton Henry",
+			"Mark Morales",
+			"Christina Strain"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc5aa5dd5365.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "057"
+	},
+	{
+		"id": "6077",
+		"collection": "Uncanny X-Men",
+		"title": "Rise and Fall of the Shi'ar Empire",
+		"vol": 1,
+		"num": 484,
+		"date": "2007-03-07",
+		"characters": [
+			"Thunderbird (Neal Shaara)",
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Chris Eliopoulos",
+			"Danny K. Miki",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc5a5560c9df.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "057"
+	},
+	{
+		"id": "6223",
+		"collection": "Uncanny X-Men",
+		"title": "Rise and Fall of the Shi'ar Empire",
+		"vol": 1,
+		"num": 485,
+		"date": "2007-04-11",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Chris Eliopoulos",
+			"Danny K. Miki",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bc356ef77b4f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "057"
+	},
+	{
+		"id": "13423",
+		"collection": "Uncanny X-Men",
+		"title": "Rise and Fall of the Shi'ar Empire",
+		"vol": 1,
+		"num": 486,
+		"date": "2007-05-16",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Chris Eliopoulos",
+			"Danny K. Miki",
+			"Christina Strain",
+			"Billy Tan",
+			"John Watson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc4c9253bcee.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Xavier regains his powers",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "057"
+	},
+	{
+		"id": "4042",
+		"collection": "Moon Knight",
+		"title": "The Bottom",
+		"vol": 3,
+		"num": 1,
+		"date": "2006-04-05",
+		"characters": [
+			"Moon Knight"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Frank D'Armata",
+			"David Finch",
+			"Charlie Huston",
+			"Danny K. Miki"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/51882298836ab.jpg",
+		"universe": "Earth-616",
+		"comments": "Moon Knight introduction",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "058"
+	},
+	{
+		"id": "4154",
+		"collection": "Moon Knight",
+		"title": "The Bottom",
+		"vol": 3,
+		"num": 2,
+		"date": "2006-05-17",
+		"characters": [
+			"Moon Knight"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Frank D'Armata",
+			"David Finch",
+			"Charlie Huston",
+			"Danny K. Miki"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bc5eba67b35a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "058"
+	},
+	{
+		"id": "4264",
+		"collection": "Moon Knight",
+		"title": "The Bottom",
+		"vol": 3,
+		"num": 3,
+		"date": "2006-06-28",
+		"characters": [
+			"Moon Knight"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Frank D'Armata",
+			"David Finch",
+			"Charlie Huston",
+			"Danny K. Miki"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bc5e43a82046.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "058"
+	},
+	{
+		"id": "4423",
+		"collection": "Moon Knight",
+		"title": "The Bottom",
+		"vol": 3,
+		"num": 4,
+		"date": "2006-08-02",
+		"characters": [
+			"Moon Knight"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Frank D'Armata",
+			"David Finch",
+			"Charlie Huston",
+			"Danny K. Miki"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4c7d6472621df.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "058"
+	},
+	{
+		"id": "4741",
+		"collection": "Moon Knight",
+		"title": "The Bottom",
+		"vol": 3,
+		"num": 5,
+		"date": "2006-09-20",
+		"characters": [
+			"Moon Knight"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Frank D'Armata",
+			"David Finch",
+			"Charlie Huston",
+			"Danny K. Miki"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc5d461d4a53.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "058"
+	},
+	{
+		"id": "5047",
+		"collection": "Moon Knight",
+		"title": "The Bottom",
+		"vol": 3,
+		"num": 6,
+		"date": "2006-11-15",
+		"characters": [
+			"Moon Knight"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Frank D'Armata",
+			"David Finch",
+			"Charlie Huston",
+			"Danny K. Miki"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc5cac8c63e4.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "058"
+	},
+	{
+		"id": "3985",
+		"collection": "Annihilation Prologue",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-03-15",
+		"event": "Annihilation",
+		"characters": [
+			"Cammi",
+			"Drax",
+			"Ronan",
+			"Silver Surfer",
+			"Thanos"
+		],
+		"creators": [
+			"June Chung",
+			"Gabriele Dell'Otto",
+			"Keith Giffen",
+			"Scott Kolins",
+			"Ariel Olivetti",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/57865227ac607.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Annihilation wave redefines cosmic universe",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4111",
+		"collection": "Annihilation Nova",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-04-19",
+		"event": "Annihilation",
+		"characters": [
+			"Nova"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Gabriele Dell'Otto",
+			"Cory Petit",
+			"Brian Reber",
+			"Kev Walker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/578551ef6051b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4221",
+		"collection": "Annihilation Nova",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-05-17",
+		"event": "Annihilation",
+		"characters": [
+			"Cammi",
+			"Drax",
+			"Nova"
+		],
+		"creators": [
+			"Gabriele Dell'Otto",
+			"Andy Lanning",
+			"Cory Petit",
+			"Kev Walker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/c0/578557a046083.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4318",
+		"collection": "Annihilation Nova",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-06-21",
+		"event": "Annihilation",
+		"characters": [
+			"Nova",
+			"Quasar (Wendell Vaughn)"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Gabriele Dell'Otto",
+			"Kev Walker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/b0/57863f477cfd8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4473",
+		"collection": "Annihilation Nova",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-07-19",
+		"event": "Annihilation",
+		"characters": [
+			"Annihilus",
+			"Drax",
+			"Nova",
+			"Quasar (Wendell Vaughn)"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Rick Magyar",
+			"Cory Petit",
+			"Kev Walker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/578646de5027a.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4110",
+		"collection": "Annihilation Super Skrull",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-04-12",
+		"event": "Annihilation",
+		"characters": [
+			"Baroness S'Bak",
+			"Super-Skrull"
+		],
+		"creators": [
+			"Gabriele Dell'Otto",
+			"Javier Grillomarxuach",
+			"Cory Petit",
+			"Chris Sotomayor",
+			"Gregory Titus"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/578791d73a15a.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4220",
+		"collection": "Annihilation Super Skrull",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-05-10",
+		"event": "Annihilation",
+		"characters": [
+			"Praxagora",
+			"Preak",
+			"Super-Skrull"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Gabriele Dell'Otto",
+			"Javier Grillomarxuach",
+			"Chris Sotomayor",
+			"Gregory Titus"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/5787988337a8a.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4317",
+		"collection": "Annihilation Super Skrull",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-06-14",
+		"event": "Annihilation",
+		"characters": [
+			"Lord Hawal",
+			"Praxagora",
+			"Preak",
+			"Super-Skrull"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Gabriele Dell'Otto",
+			"Javier Grillomarxuach",
+			"Gregory Titus"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/51df2f988a27e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4472",
+		"collection": "Annihilation Super Skrull",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-07-12",
+		"event": "Annihilation",
+		"characters": [
+			"Praxagora",
+			"Preak",
+			"Salo",
+			"Super-Skrull"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Javier Grillomarxuach",
+			"Chris Sotomayor",
+			"Gregory Titus"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/5787a44424450.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4108",
+		"collection": "Annihilation Silver Surfer",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-04-05",
+		"event": "Annihilation",
+		"characters": [
+			"Air-Walker (Gabriel Lan)",
+			"Silver Surfer",
+			"Thanos"
+		],
+		"creators": [
+			"Renato Arlem",
+			"June Chung",
+			"Gabriele Dell'Otto",
+			"Keith Giffen",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/578671f120fd2.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4218",
+		"collection": "Annihilation Silver Surfer",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-05-03",
+		"event": "Annihilation",
+		"characters": [
+			"Annihilus",
+			"Firelord",
+			"Galactus",
+			"Ravenous",
+			"Red Shift",
+			"Silver Surfer",
+			"Thanos"
+		],
+		"creators": [
+			"Renato Arlem",
+			"Gabriele Dell'Otto",
+			"Keith Giffen",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/578687f70173c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4315",
+		"collection": "Annihilation Silver Surfer",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-06-07",
+		"event": "Annihilation",
+		"characters": [
+			"Annihilus",
+			"Firelord",
+			"Forgotten One",
+			"Galactus",
+			"Red Shift",
+			"Silver Surfer",
+			"Stardust",
+			"Tenebrous",
+			"Thanos"
+		],
+		"creators": [
+			"Gabriele Dell'Otto",
+			"Keith Giffen"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/578693c24666f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4470",
+		"collection": "Annihilation Silver Surfer",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-07-12",
+		"event": "Annihilation",
+		"characters": [
+			"Galactus",
+			"Ravenous",
+			"Silver Surfer",
+			"Skreet",
+			"Tenebrous",
+			"Thanos"
+		],
+		"creators": [
+			"Renato Arlem",
+			"June Chung",
+			"Gabriele Dell'Otto",
+			"Keith Giffen",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/51e0622a3d033.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4109",
+		"collection": "Annihilation Ronan",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-04-26",
+		"event": "Annihilation",
+		"characters": [
+			"Ronan"
+		],
+		"creators": [
+			"Gabriele Dell'Otto",
+			"Simon Furman",
+			"Jorge Pereira Lucas",
+			"Dave McCaig",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/57864ff113f2e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4219",
+		"collection": "Annihilation Ronan",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-05-24",
+		"event": "Annihilation",
+		"characters": [
+			"Devos",
+			"Gamora",
+			"Glorian",
+			"Korath",
+			"Nebula",
+			"Ronan"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Gabriele Dell'Otto",
+			"Simon Furman",
+			"Jorge Pereira Lucas",
+			"Dave McCaig"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/578660897592d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4316",
+		"collection": "Annihilation Ronan",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-06-28",
+		"event": "Annihilation",
+		"characters": [
+			"Gamora",
+			"Glorian",
+			"Korath",
+			"Ronan"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Gabriele Dell'Otto",
+			"Simon Furman",
+			"Jorge Pereira Lucas"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/578665baac782.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4471",
+		"collection": "Annihilation Ronan",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-07-26",
+		"event": "Annihilation",
+		"characters": [
+			"Gamora",
+			"Glorian",
+			"Korath",
+			"Ronan",
+			"Talos",
+			"Tana Nile"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Gabriele Dell'Otto",
+			"Simon Furman",
+			"Jorge Pereira Lucas",
+			"Dave McCaig"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/57866a57dd22b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "4788",
+		"collection": "Annihilation",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-08-09",
+		"event": "Annihilation",
+		"characters": [
+			"Annihilus",
+			"Drax",
+			"Galactus",
+			"Nova",
+			"Peter Quill",
+			"Ronan",
+			"Silver Surfer"
+		],
+		"creators": [
+			"Keith Giffen",
+			"Cory Petit",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/51b61283075b2.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "5078",
+		"collection": "Annihilation",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-09-13",
+		"event": "Annihilation",
+		"characters": [
+			"Drax",
+			"Nova",
+			"Ravenous",
+			"Ronan",
+			"Thanos"
+		],
+		"creators": [
+			"Gabriele Dell'Otto",
+			"Keith Giffen",
+			"Cory Petit",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/51b61244955fe.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "5230",
+		"collection": "Annihilation",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-10-11",
+		"event": "Annihilation",
+		"characters": [
+			"Annihilus",
+			"Drax",
+			"Gamora",
+			"Nova",
+			"Ravenous",
+			"Ronan"
+		],
+		"creators": [
+			"Gabriele Dell'Otto",
+			"Keith Giffen",
+			"Cory Petit",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/51b612534e2e6.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "5529",
+		"collection": "Annihilation",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-11-08",
+		"event": "Annihilation",
+		"characters": [
+			"Annihilus",
+			"Drax",
+			"Moondragon",
+			"Nova",
+			"Peter Quill",
+			"Thanos"
+		],
+		"creators": [
+			"Gabriele Dell'Otto",
+			"Keith Giffen",
+			"Cory Petit",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/51b61255041bc.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "5655",
+		"collection": "Annihilation",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 5,
+		"date": "2006-12-27",
+		"event": "Annihilation",
+		"characters": [
+			"Drax",
+			"Galactus",
+			"Moondragon",
+			"Ravenous",
+			"Ronan",
+			"Silver Surfer",
+			"Super-Skrull"
+		],
+		"creators": [
+			"Gabriele Dell'Otto",
+			"Keith Giffen",
+			"Cory Petit",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/51b61262eac63.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "5795",
+		"collection": "Annihilation",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 6,
+		"date": "2007-01-31",
+		"event": "Annihilation",
+		"characters": [
+			"Annihilus",
+			"Galactus",
+			"Nova",
+			"Ronan",
+			"Silver Surfer"
+		],
+		"creators": [
+			"Gabriele Dell'Otto",
+			"Keith Giffen",
+			"Cory Petit",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/57850eb63ba98.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "5976",
+		"collection": "Annihilation Herald of Galactus",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 1,
+		"date": "2007-02-28",
+		"event": "Annihilation",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Jim Calafiore",
+			"Giuseppe Camuncoli",
+			"Mike McKone",
+			"Gabriele Dell'Otto",
+			"Christos Gage",
+			"Stuart Moore",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/51e407787996b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "6175",
+		"collection": "Annihilation Herald of Galactus",
+		"title": "Annihilation",
+		"vol": 1,
+		"num": 2,
+		"date": "2007-04-04",
+		"event": "Annihilation",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Gabriele Dell'Otto",
+			"Keith Giffen",
+			"Scott Kolins",
+			"Andrea Di Vito",
+			"Cory Petit",
+			"Laura Villari"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/51e40822c1b0c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "059"
+	},
+	{
+		"id": "3649",
+		"collection": "Ms Marvel",
+		"title": "Best of the Best",
+		"vol": 2,
+		"num": 1,
+		"characters": [
+			""
+		],
+		"creators": [
+			""
+		],
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "060"
+	},
+	{
+		"id": "4076",
+		"collection": "Ms Marvel",
+		"title": "Best of the Best",
+		"vol": 2,
+		"num": 2,
+		"date": "2006-04-12",
+		"characters": [
+			"Captain Marvel (Carol Danvers)"
+		],
+		"creators": [
+			"Frank Cho",
+			"Roberto Delatorre",
+			"Jimmy Palmiotti",
+			"Brian Reed",
+			"Dave Sharpe",
+			"Chris Sotomayor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/57683ee69a1c0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "060"
+	},
+	{
+		"id": "4188",
+		"collection": "Ms Marvel",
+		"title": "Best of the Best",
+		"vol": 2,
+		"num": 3,
+		"date": "2006-05-17",
+		"characters": [
+			"Captain Marvel (Carol Danvers)"
+		],
+		"creators": [
+			"Frank Cho",
+			"Roberto Delatorre",
+			"Jimmy Palmiotti",
+			"Brian Reed",
+			"Dave Sharpe",
+			"Chris Sotomayor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/57683f6da188e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "060"
+	},
+	{
+		"id": "4287",
+		"collection": "Ms Marvel",
+		"title": "Best of the Best",
+		"vol": 2,
+		"num": 4,
+		"date": "2006-06-14",
+		"characters": [
+			"Captain Marvel (Carol Danvers)",
+			"Doctor Strange"
+		],
+		"creators": [
+			"Frank Cho",
+			"Roberto Delatorre",
+			"Jimmy Palmiotti",
+			"Brian Reed",
+			"Dave Sharpe",
+			"Chris Sotomayor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/57684001c2c86.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "060"
+	},
+	{
+		"id": "4443",
+		"collection": "Ms Marvel",
+		"title": "Best of the Best",
+		"vol": 2,
+		"num": 5,
+		"date": "2006-07-12",
+		"characters": [
+			"Captain Marvel (Carol Danvers)"
+		],
+		"creators": [
+			"Frank Cho",
+			"Roberto Delatorre",
+			"Jimmy Palmiotti",
+			"Brian Reed",
+			"Dave Sharpe",
+			"Chris Sotomayor"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/576840d1ceca8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "060"
+	},
+	{
+		"id": "3529",
+		"collection": "Runaways",
+		"title": "Parental Guidance",
+		"vol": 2,
+		"num": 13,
+		"date": "2006-02-15",
+		"characters": [
+			"Runaways"
+		],
+		"creators": [
+			"Adrian Alphona",
+			"Randy Gentile",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/515afa8707756.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "061"
+	},
+	{
+		"id": "3933",
+		"collection": "Runaways",
+		"title": "Parental Guidance",
+		"vol": 2,
+		"num": 14,
+		"date": "2006-03-15",
+		"characters": [
+			"Runaways"
+		],
+		"creators": [
+			"Adrian Alphona",
+			"Randy Gentile",
+			"Marcos Martin",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/515afa9aeaeb0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "061"
+	},
+	{
+		"id": "3906",
+		"collection": "Runaways",
+		"title": "Parental Guidance",
+		"vol": 2,
+		"num": 15,
+		"date": "2006-03-22",
+		"characters": [
+			"Cloak",
+			"Runaways"
+		],
+		"creators": [
+			"Adrian Alphona",
+			"Takeshi Miyazawa",
+			"Chris Bachalo",
+			"Jo Chen",
+			"Randy Gentile",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4bc5fd1cd59ff.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "061"
+	},
+	{
+		"id": "4058",
+		"collection": "Runaways",
+		"title": "Parental Guidance",
+		"vol": 2,
+		"num": 16,
+		"date": "2006-04-26",
+		"characters": [
+			"Gertrude Yorkes",
+			"Nico Minoru",
+			"Runaways",
+			"Victor Mancha",
+			"Wolverine"
+		],
+		"creators": [
+			"Adrian Alphona",
+			"Randy Gentile",
+			"Marcos Martin",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/515afaaabde43.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "061"
+	},
+	{
+		"id": "4173",
+		"collection": "Runaways",
+		"title": "Parental Guidance",
+		"vol": 2,
+		"num": 17,
+		"date": "2006-05-31",
+		"characters": [
+			"Runaways"
+		],
+		"creators": [
+			"Adrian Alphona",
+			"Randy Gentile",
+			"Marcos Martin",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/515afb6c47db3.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "061"
+	},
+	{
+		"id": "4273",
+		"collection": "Runaways",
+		"title": "Parental Guidance",
+		"vol": 2,
+		"num": 18,
+		"date": "2006-06-28",
+		"characters": [
+			"Runaways"
+		],
+		"creators": [
+			"Adrian Alphona",
+			"Randy Gentile",
+			"Marcos Martin",
+			"Christina Strain",
+			"Brian K. Vaughan",
+			"Craig Yeung"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/515afb8023662.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "061"
+	},
+	{
+		"id": "3977",
+		"collection": "Spider-Man \u0026 Araña",
+		"title": "The Hunter Revealed",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-03-29",
+		"characters": [
+			"Spider-Man"
+		],
+		"creators": [
+			"Mark Irwin",
+			"Jonboy Meyers",
+			"Byron Penaranda",
+			"Tania Del Rio",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc5f840658e4.jpg",
+		"universe": "Earth-616",
+		"comments": "traducido",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "062"
+	},
+	{
+		"id": "3900",
+		"collection": "New X-Men",
+		"title": "Crusade",
+		"vol": 2,
+		"num": 24,
+		"date": "2006-03-08",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Mark Brooks",
+			"Craig Kyle",
+			"Chris Yost",
+			"Jaime Mendoza",
+			"Brian Reber",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/570294f9b5fe5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "063"
+	},
+	{
+		"id": "4071",
+		"collection": "New X-Men",
+		"title": "Crusade",
+		"vol": 2,
+		"num": 25,
+		"date": "2006-04-12",
+		"characters": [
+			"Dust",
+			"Elixir",
+			"Hellion",
+			"Mercury",
+			"Rockslide",
+			"X-23",
+			"X-Men"
+		],
+		"creators": [
+			"Mark Brooks",
+			"Craig Kyle",
+			"Chris Yost",
+			"Brian Reber",
+			"Dave Sharpe",
+			"Juan Vlasco"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/57029500a5de9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "063"
+	},
+	{
+		"id": "4184",
+		"collection": "New X-Men",
+		"title": "Crusade",
+		"vol": 2,
+		"num": 26,
+		"date": "2006-05-10",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Craig Kyle",
+			"Chris Yost",
+			"Paco Medina",
+			"Jaime Mendoza",
+			"Brian Reber",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/5702adbd99689.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "063"
+	},
+	{
+		"id": "4285",
+		"collection": "New X-Men",
+		"title": "Crusade",
+		"vol": 2,
+		"num": 27,
+		"date": "2006-06-07",
+		"characters": [
+			"Dust",
+			"Hellion",
+			"Mercury",
+			"X-Men"
+		],
+		"creators": [
+			"Craig Kyle",
+			"Chris Yost",
+			"Paco Medina",
+			"Dave Sharpe",
+			"Juan Vlasco"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5702ac1c90c19.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "063"
+	},
+	{
+		"id": "3043",
+		"collection": "The Thing",
+		"title": "Idol of Millions",
+		"vol": 2,
+		"num": 1,
+		"date": "2005-11-16",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dan Slott",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/578d1ff2b72cf.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "064"
+	},
+	{
+		"id": "3147",
+		"collection": "The Thing",
+		"title": "Idol of Millions",
+		"vol": 2,
+		"num": 2,
+		"date": "2005-12-28",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dan Slott",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/578d1f90bdb47.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "064"
+	},
+	{
+		"id": "3148",
+		"collection": "The Thing",
+		"title": "Idol of Millions",
+		"vol": 2,
+		"num": 3,
+		"date": "2006-01-25",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dan Slott",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/578d20a8f2f65.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "064"
+	},
+	{
+		"id": "3484",
+		"collection": "The Thing",
+		"title": "Idol of Millions",
+		"vol": 2,
+		"num": 4,
+		"date": "2006-02-22",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dave Lanphear",
+			"Dan Slott",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/578d1fc28e1ea.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "064"
+	},
+	{
+		"id": "3896",
+		"collection": "The Thing",
+		"title": "Idol of Millions",
+		"vol": 2,
+		"num": 5,
+		"date": "2006-03-29",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dave Lanphear",
+			"Dan Slott",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/578d1f7fe343b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "064"
+	},
+	{
+		"id": "4028",
+		"collection": "The Thing",
+		"title": "Idol of Millions",
+		"vol": 2,
+		"num": 6,
+		"date": "2006-04-26",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dave Lanphear",
+			"Dan Slott",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/578d1fad5fc52.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "064"
+	},
+	{
+		"id": "4172",
+		"collection": "The Thing",
+		"title": "Idol of Millions",
+		"vol": 2,
+		"num": 7,
+		"date": "2006-05-31",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dave Lanphear",
+			"Dan Slott",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/578d1fdb74530.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "064"
+	},
+	{
+		"id": "4272",
+		"collection": "The Thing",
+		"title": "Idol of Millions",
+		"vol": 2,
+		"num": 8,
+		"date": "2006-07-05",
+		"characters": [
+			"Beast",
+			"Captain America",
+			"Cyclops",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Thing",
+			"Wolverine"
+		],
+		"creators": [
+			"Kieron Dwyer",
+			"Dave Lanphear",
+			"Dan Slott",
+			"Laura Villari",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/578d1f52ea4e4.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "064"
+	}
+]

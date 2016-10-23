@@ -56181,7 +56181,7 @@
 	},
 	{
 		"id": "23069",
-		"collection": "Amazing Spider-Man Extra 1",
+		"collection": "Amazing Spider-Man Extra",
 		"title": "Crime and Punisher",
 		"vol": 1,
 		"num": 1,
@@ -56195,6 +56195,7 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4bb6012279a77.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 1",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
 		"sortid": "111"
@@ -56288,7 +56289,7 @@
 	},
 	{
 		"id": "22372",
-		"collection": "Amazing Spider-Man Family 1",
+		"collection": "Amazing Spider-Man Family",
 		"title": "Crime and Punisher",
 		"vol": 1,
 		"num": 2,
@@ -56318,13 +56319,14 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/56d7160ad4723.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 1",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
 		"sortid": "111"
 	},
 	{
 		"id": "22372",
-		"collection": "Amazing Spider-Man Family 3",
+		"collection": "Amazing Spider-Man Family",
 		"title": "Crime and Punisher",
 		"vol": 1,
 		"num": 2,
@@ -56354,6 +56356,7 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/56d7160ad4723.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 3",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
 		"sortid": "111"
@@ -58859,7 +58862,7 @@
 	},
 	{
 		"id": "23180",
-		"collection": "Amazing Spider-Man Extra 1",
+		"collection": "Amazing Spider-Man Extra",
 		"title": "Election Day",
 		"vol": 1,
 		"num": 2,
@@ -58886,13 +58889,14 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/56d726c8a60bc.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 1",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
 	},
 	{
 		"id": "23180",
-		"collection": "Amazing Spider-Man Extra 2",
+		"collection": "Amazing Spider-Man Extra",
 		"title": "Election Day",
 		"vol": 1,
 		"num": 2,
@@ -58919,13 +58923,14 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/56d726c8a60bc.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 2",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
 	},
 	{
 		"id": "23180",
-		"collection": "Amazing Spider-Man Extra 3",
+		"collection": "Amazing Spider-Man Extra",
 		"title": "Election Day",
 		"vol": 1,
 		"num": 2,
@@ -58952,13 +58957,14 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/56d726c8a60bc.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 3",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
 	},
 	{
 		"id": "22979",
-		"collection": "Amazing Spider-Man Family 1",
+		"collection": "Amazing Spider-Man Family",
 		"title": "Election Day",
 		"vol": 1,
 		"num": 3,
@@ -58993,13 +58999,14 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/56d7169314e16.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 1",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
 	},
 	{
 		"id": "22979",
-		"collection": "Amazing Spider-Man Family 3",
+		"collection": "Amazing Spider-Man Family",
 		"title": "Election Day",
 		"vol": 1,
 		"num": 3,
@@ -59033,13 +59040,14 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/56d7169314e16.jpg",
 		"universe": "Earth-8121",
+		"comments": "Story 3",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
 	},
 	{
 		"id": "22979",
-		"collection": "Amazing Spider-Man Family 4",
+		"collection": "Amazing Spider-Man Family",
 		"title": "Election Day",
 		"vol": 1,
 		"num": 3,
@@ -59074,13 +59082,14 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/56d7169314e16.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 4",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
 	},
 	{
 		"id": "23069",
-		"collection": "Amazing Spider-Man Extra 3",
+		"collection": "Amazing Spider-Man Extra",
 		"title": "Election Day",
 		"vol": 1,
 		"num": 1,
@@ -59094,6 +59103,7 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4bb6012279a77.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 3",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
@@ -59249,7 +59259,7 @@
 	},
 	{
 		"id": "23834",
-		"collection": "Amazing Spider-Man Extra 1",
+		"collection": "Amazing Spider-Man Extra",
 		"title": "Election Day",
 		"vol": 1,
 		"num": 3,
@@ -59281,13 +59291,14 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/56dddba617a63.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 1",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
 	},
 	{
 		"id": "23834",
-		"collection": "Amazing Spider-Man Extra 2",
+		"collection": "Amazing Spider-Man Extra",
 		"title": "Election Day",
 		"vol": 1,
 		"num": 3,
@@ -59319,13 +59330,14 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/56dddba617a63.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 2",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
 	},
 	{
 		"id": "23834",
-		"collection": "Amazing Spider-Man Extra 3",
+		"collection": "Amazing Spider-Man Extra",
 		"title": "Election Day",
 		"vol": 1,
 		"num": 3,
@@ -59357,13 +59369,14 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/56dddba617a63.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 3",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
 	},
 	{
 		"id": "23642",
-		"collection": "Amazing Spider-Man Family 3",
+		"collection": "Amazing Spider-Man Family",
 		"title": "Election Day",
 		"vol": 1,
 		"num": 4,
@@ -59397,6 +59410,7 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/56d71734b28b4.jpg",
 		"universe": "Earth-8121",
+		"comments": "Story 3",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
@@ -59494,7 +59508,7 @@
 	},
 	{
 		"id": "23993",
-		"collection": "Amazing Spider-Man Family 2",
+		"collection": "Amazing Spider-Man Family",
 		"title": "24 7",
 		"vol": 1,
 		"num": 5,
@@ -59528,13 +59542,14 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/56d7183442952.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 2",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "009"
 	},
 	{
 		"id": "23993",
-		"collection": "Amazing Spider-Man Family 3",
+		"collection": "Amazing Spider-Man Family",
 		"title": "24 7",
 		"vol": 1,
 		"num": 5,
@@ -59568,13 +59583,14 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/56d7183442952.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 3",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "009"
 	},
 	{
 		"id": "24199",
-		"collection": "Amazing Spider-Man Family 1",
+		"collection": "Amazing Spider-Man Family",
 		"title": "24 7",
 		"vol": 1,
 		"num": 6,
@@ -59610,13 +59626,14 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/56d7189f590bd.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 1",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "009"
 	},
 	{
 		"id": "24199",
-		"collection": "Amazing Spider-Man Family 3",
+		"collection": "Amazing Spider-Man Family",
 		"title": "24 7",
 		"vol": 1,
 		"num": 6,
@@ -59652,13 +59669,14 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/56d7189f590bd.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 3",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "009"
 	},
 	{
 		"id": "24199",
-		"collection": "Amazing Spider-Man Family 4",
+		"collection": "Amazing Spider-Man Family",
 		"title": "24 7",
 		"vol": 1,
 		"num": 6,
@@ -59694,6 +59712,7 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/56d7189f590bd.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 4",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "009"
@@ -65235,7 +65254,7 @@
 	},
 	{
 		"id": "23642",
-		"collection": "Amazing Spider-Man Family 1",
+		"collection": "Amazing Spider-Man Family",
 		"title": "American Son",
 		"vol": 1,
 		"num": 4,
@@ -65270,6 +65289,7 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/56d71734b28b4.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 1",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "083"
@@ -65429,7 +65449,7 @@
 	},
 	{
 		"id": "24439",
-		"collection": "Amazing Spider-Man Family 1",
+		"collection": "Amazing Spider-Man Family",
 		"title": "American Son II",
 		"vol": 1,
 		"num": 7,
@@ -65458,6 +65478,7 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/56d7195a3d239.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 1",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "084"
@@ -65491,7 +65512,7 @@
 	},
 	{
 		"id": "24440",
-		"collection": "Amazing Spider-Man Family 1",
+		"collection": "Amazing Spider-Man Family",
 		"title": "American Son II",
 		"vol": 1,
 		"num": 8,
@@ -65522,13 +65543,14 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/56d719caf31b4.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 1",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "084"
 	},
 	{
 		"id": "24440",
-		"collection": "Amazing Spider-Man Family 3",
+		"collection": "Amazing Spider-Man Family",
 		"title": "American Son II",
 		"vol": 1,
 		"num": 8,
@@ -65559,13 +65581,14 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/56d719caf31b4.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Story 3",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "084"
 	},
 	{
 		"id": "24440",
-		"collection": "Amazing Spider-Man Family 4",
+		"collection": "Amazing Spider-Man Family",
 		"title": "American Son II",
 		"vol": 1,
 		"num": 8,
@@ -65595,6 +65618,7 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/56d719caf31b4.jpg",
 		"universe": "Earth-90984",
+		"comments": "Story 4",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "084"

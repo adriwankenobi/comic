@@ -32,11 +32,7 @@ type JsonAble interface {
 // Datastore
 type DatastoreType map[string]JsonAble
 
-var Datastore = DatastoreType{
-	"comics":  nil,
-	"phases":  nil,
-	"fissues": nil,
-}
+var Datastore = DatastoreType{}
 
 // Comics
 type Comic struct {

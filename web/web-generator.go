@@ -6,16 +6,16 @@ import (
 )
 
 var htmlFiles = []string{
-	"template.html",
-	"tabs.html",
-	"tab-li.html",
-	"tab-content.html",
-	"tab-content-intro.html",
-	"tab-content-phase.html",
-	"clear-fix.html",
-	"issues.html",
-	"issue-content.html",
-	"not-found.html",
+	"template",
+	"tabs",
+	"tab-li",
+	"tab-content",
+	"tab-content-intro",
+	"tab-content-phase",
+	"clear-fix",
+	"issues",
+	"issue-content",
+	"not-found",
 }
 
 func getIndexPage(issues *service.FissuesList) (string, error) {

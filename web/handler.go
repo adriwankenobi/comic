@@ -21,7 +21,7 @@ var j jsonContent
 
 func init() {
 	// Read files
-	j, err := readJsonFiles(service.Datastore)
+	j, err := readJsonFiles()
 	if err != nil {
 		return
 	}
@@ -67,12 +67,12 @@ func init() {
 
 	// Get all issues from this phase
 	router.GET("/api/phases/:id/issues", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
-		return service.ListComicsByPhaseID(j["comics"], p.ByName("id"))
+		return service.ListComics(j[fmt.Sprintf("comics-phase-%s", p.ByName("id"))])
 	}))
 
 	// Get all issues from this comic from this phase
 	router.GET("/api/phases/:id/issues/:sortid", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
-		return service.ListComicsByPhaseAndSortIDs(j["comics"], p.ByName("id"), p.ByName("sortid"))
+		return service.ListComicsBySortID(j[fmt.Sprintf("comics-phase-%s", p.ByName("id"))], p.ByName("sortid"))
 	}))
 
 	// WEB
@@ -88,7 +88,7 @@ func init() {
 
 	// Issues -> Get all issues from this comic from this phase
 	router.GET("/phases/:id/issues/:sortid", webHandle(func(p httprouter.Params) (string, error) {
-		issues, err := service.ListComicsByPhaseAndSortIDs(j["comics"], p.ByName("id"), p.ByName("sortid"))
+		issues, err := service.ListComicsBySortID(j[fmt.Sprintf("comics-phase-%s", p.ByName("id"))], p.ByName("sortid"))
 		if err != nil {
 			return "", err
 		}
@@ -99,10 +99,19 @@ func init() {
 }
 
 // File readers
-func readJsonFiles(in service.DatastoreType) (jsonContent, error) {
+func readJsonFiles() (jsonContent, error) {
 	m := make(jsonContent)
-	for key, _ := range in {
-		bytes, err := ioutil.ReadFile(fmt.Sprintf("%s.json", key))
+	folder := "data"
+	files, err := ioutil.ReadDir(folder)
+	if err != nil {
+		return m, err
+	}
+	for _, f := range files {
+		split := strings.Split(f.Name(), ".")
+		if f.IsDir() || len(split) != 2 || split[1] != "json" {
+			break
+		}
+		bytes, err := ioutil.ReadFile(fmt.Sprintf("%s/%s", folder, f.Name()))
 		if err != nil {
 			return m, err
 		}
@@ -110,7 +119,7 @@ func readJsonFiles(in service.DatastoreType) (jsonContent, error) {
 		if err != nil {
 			return m, err
 		}
-		m[key] = json
+		m[split[0]] = json
 	}
 	return m, nil
 }
@@ -118,12 +127,11 @@ func readJsonFiles(in service.DatastoreType) (jsonContent, error) {
 func readWebFiles(in []string) (webContent, error) {
 	m := make(webContent)
 	for _, e := range in {
-		bytes, err := ioutil.ReadFile(e)
+		bytes, err := ioutil.ReadFile(fmt.Sprintf("html/%s.html", e))
 		if err != nil {
 			return m, err
 		}
-		tag := strings.Split(e, ".")[0]
-		m[tag] = string(bytes)
+		m[e] = string(bytes)
 	}
 	return m, nil
 }
