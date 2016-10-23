@@ -438,7 +438,6 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/57224121a9252.jpg",
 		"universe": "Earth-616",
-		"comments": "Echo introduction",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "003"
@@ -1045,7 +1044,7 @@
 			"Paul Jenkins",
 			"Jae Lee"
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+		"pic": "http://vignette4.wikia.nocookie.net/marveldatabase/images/d/d5/Sentry_Vol_1_3.jpg",
 		"universe": "Earth-616",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
@@ -1098,13 +1097,13 @@
 		"num": 1,
 		"date": "2001-02-01",
 		"characters": [
-			"Sentry",
-			"Hulk"
+			"Sentry"
 		],
 		"creators": [
 			"Paul Jenkins",
 			"Jae Lee"
 		],
+		"pic": "http://vignette1.wikia.nocookie.net/marveldatabase/images/4/44/Sentry_Hulk_Vol_1_1.jpg",
 		"universe": "Earth-616",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
@@ -1117,13 +1116,13 @@
 		"num": 1,
 		"date": "2001-02-01",
 		"characters": [
-			"Sentry",
-			"X-Men"
+			"Sentry"
 		],
 		"creators": [
 			"Paul Jenkins",
 			"Jae Lee"
 		],
+		"pic": "http://vignette2.wikia.nocookie.net/marveldatabase/images/f/f7/Sentry_X-Men_Vol_1_1.jpg",
 		"universe": "Earth-616",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
@@ -1136,13 +1135,13 @@
 		"num": 1,
 		"date": "2001-02-01",
 		"characters": [
-			"Sentry",
-			"Spider-Man"
+			"Sentry"
 		],
 		"creators": [
 			"Paul Jenkins",
 			"Jae Lee"
 		],
+		"pic": "http://vignette2.wikia.nocookie.net/marveldatabase/images/e/ec/Sentry_Spider-Man_Vol_1_1.jpg",
 		"universe": "Earth-616",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
@@ -1155,13 +1154,13 @@
 		"num": 1,
 		"date": "2001-02-01",
 		"characters": [
-			"Sentry",
-			"Fantastic Four"
+			"Sentry"
 		],
 		"creators": [
 			"Paul Jenkins",
 			"Jae Lee"
 		],
+		"pic": "http://vignette4.wikia.nocookie.net/marveldatabase/images/e/ed/Sentry_Fantastic_Four_Vol_1_1.jpg",
 		"universe": "Earth-616",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
@@ -1180,27 +1179,135 @@
 			"Paul Jenkins",
 			"Jae Lee"
 		],
+		"pic": "http://vignette2.wikia.nocookie.net/marveldatabase/images/b/b4/Sentry_The_Void_Vol_1_1.jpg",
 		"universe": "Earth-616",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "005"
 	},
 	{
-		"id": "4620",
+		"id": "4618",
 		"collection": "Daredevil Yellow",
 		"title": "Yellow",
 		"vol": 1,
 		"num": 1,
-		"date": "2001-10-01",
+		"date": "2001-08-01",
 		"characters": [
-			""
+			"Daredevil"
 		],
 		"creators": [
-			""
+			"Jeph Loeb",
+			"Tim Sale"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bc334cc50087.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": "Daredevil origins recap",
+		"phaseid": "001",
+		"phasename": "Marvel Knights",
+		"sortid": "006"
+	},
+	{
+		"id": "4619",
+		"collection": "Daredevil Yellow",
+		"title": "Yellow",
+		"vol": 1,
+		"num": 2,
+		"date": "2001-09-01",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Jeph Loeb",
+			"Tim Sale"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bc37dd86b2ec.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "001",
+		"phasename": "Marvel Knights",
+		"sortid": "006"
+	},
+	{
+		"id": "4620",
+		"collection": "Daredevil Yellow",
+		"title": "Yellow",
+		"vol": 1,
+		"num": 3,
+		"date": "2001-10-01",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Jeph Loeb",
+			"Tim Sale"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc37ddd603c7.jpg",
 		"universe": "Earth-616",
-		"comments": "Daredevil origins recap",
+		"essential": true,
+		"phaseid": "001",
+		"phasename": "Marvel Knights",
+		"sortid": "006"
+	},
+	{
+		"id": "4622",
+		"collection": "Daredevil Yellow",
+		"title": "Yellow",
+		"vol": 1,
+		"num": 4,
+		"date": "2001-11-01",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Jeph Loeb",
+			"Tim Sale"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4bc335e8a8779.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "001",
+		"phasename": "Marvel Knights",
+		"sortid": "006"
+	},
+	{
+		"id": "4623",
+		"collection": "Daredevil Yellow",
+		"title": "Yellow",
+		"vol": 1,
+		"num": 5,
+		"date": "2001-12-01",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Jeph Loeb",
+			"Tim Sale"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc37de264abd.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "001",
+		"phasename": "Marvel Knights",
+		"sortid": "006"
+	},
+	{
+		"id": "4624",
+		"collection": "Daredevil Yellow",
+		"title": "Yellow",
+		"vol": 1,
+		"num": 6,
+		"date": "2002-01-01",
+		"characters": [
+			"Daredevil"
+		],
+		"creators": [
+			"Jeph Loeb",
+			"Tim Sale"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4bc37de76e870.jpg",
+		"universe": "Earth-616",
+		"essential": true,
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "006"
@@ -1213,21 +1320,13 @@
 		"num": 36,
 		"date": "2001-06-01",
 		"characters": [
-			"Loki",
+			"Thor",
 			"Odin",
-			"Sif",
-			"Thor"
+			"Loki"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Marc Sumerak",
-			"Ian Churchill",
-			"Walter Taborda",
-			"Richard Horie",
-			"Tanya Horie",
-			"Gregory Wright",
 			"Dan Jurgens",
-			"Richard Starkings"
+			"Walter Taborda"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4f205c34141c0.jpg",
 		"universe": "Earth-616",
@@ -1244,20 +1343,12 @@
 		"num": 37,
 		"date": "2001-07-01",
 		"characters": [
-			"Loki",
-			"Odin",
-			"Sif",
 			"Thor",
-			"Uatu The Watcher"
+			"Odin",
+			"Loki"
 		],
 		"creators": [
-			"Wes Abbot",
-			"Richard Starkings",
-			"Tom Brevoort",
-			"Marc Sumerak",
 			"Dan Jurgens",
-			"Dave Kemp",
-			"Al Milgrom",
 			"Jim Starlin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4f205f5c3460b.jpg",
@@ -1274,22 +1365,13 @@
 		"num": 38,
 		"date": "2001-08-01",
 		"characters": [
-			"Loki",
-			"Odin",
-			"Sif",
 			"Thor",
-			"Uatu The Watcher"
+			"Odin",
+			"Loki"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Marc Sumerak",
-			"Oscar Gongora",
-			"Richard Starkings",
-			"Stuart Immonen",
-			"Barry Windsor-Smith",
 			"Dan Jurgens",
-			"Dave Kemp",
-			"Scott Koblish"
+			"Stuart Immonen"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4f20612a00b6e.jpg",
 		"universe": "Earth-616",
@@ -1305,19 +1387,13 @@
 		"num": 39,
 		"date": "2001-09-01",
 		"characters": [
-			"Thor"
+			"Thor",
+			"Odin",
+			"Loki"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Marc Sumerak",
-			"Wade von Grawbadger",
-			"Stuart Immonen",
-			"Barry Windsor-Smith",
 			"Dan Jurgens",
-			"Dave Kemp",
-			"Avalon Studios",
-			"Richard Starkings",
-			"Saida Temofonte"
+			"Stuart Immonen"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4bb8543a81888.jpg",
 		"universe": "Earth-616",
@@ -1333,15 +1409,13 @@
 		"num": 40,
 		"date": "2001-10-01",
 		"characters": [
-			"Thor"
+			"Thor",
+			"Odin",
+			"Loki"
 		],
 		"creators": [
-			"Comicraft",
-			"Tom Brevoort",
-			"Stuart Immonen",
 			"Dan Jurgens",
-			"Dave Kemp",
-			"Scott Koblish"
+			"Stuart Immonen"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4bb84719122d4.jpg",
 		"universe": "Earth-616",
@@ -1357,23 +1431,13 @@
 		"num": 41,
 		"date": "2001-11-01",
 		"characters": [
-			"Doctor Strange",
-			"Hercules",
-			"Loki",
-			"Mephisto",
-			"Sif",
-			"Thor"
+			"Thor",
+			"Odin",
+			"Loki"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Marc Sumerak",
-			"Stuart Immonen",
-			"Glen Orbik",
 			"Dan Jurgens",
-			"Dave Kemp",
-			"Scott Koblish",
-			"Jason Levine",
-			"Richard Starkings"
+			"Stuart Immonen"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bb8467d373e4.jpg",
 		"universe": "Earth-616",
@@ -1389,21 +1453,13 @@
 		"num": 42,
 		"date": "2001-12-01",
 		"characters": [
-			"Sif",
 			"Thor",
-			"Ulik"
+			"Odin",
+			"Loki"
 		],
 		"creators": [
-			"Wes Abbot",
-			"Richard Starkings",
-			"Tom Brevoort",
-			"Marc Sumerak",
-			"Scott Hanna",
-			"Scott Koblish",
-			"Stuart Immonen",
-			"Tom Raney",
 			"Dan Jurgens",
-			"Dave Kemp"
+			"Stuart Immonen"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4c35f59245c82.jpg",
 		"universe": "Earth-616",
@@ -1419,19 +1475,13 @@
 		"num": 43,
 		"date": "2002-01-10",
 		"characters": [
-			"Loki",
-			"Thor"
+			"Thor",
+			"Odin",
+			"Loki"
 		],
 		"creators": [
-			"Joe Bennett",
-			"Tom Raney",
-			"Tom Brevoort",
-			"Marc Sumerak",
-			"Oscar Gongora",
-			"Richard Starkings",
-			"Jack Jadson",
 			"Dan Jurgens",
-			"Dave Kemp"
+			"Stuart Immonen"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4bb7e24796840.jpg",
 		"universe": "Earth-616",
@@ -1447,20 +1497,13 @@
 		"num": 44,
 		"date": "2002-02-10",
 		"characters": [
-			"Loki",
+			"Thor",
 			"Odin",
-			"Sif",
-			"Thor"
+			"Loki"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Marc Sumerak",
-			"Stuart Immonen",
-			"Ariel Olivetti",
 			"Dan Jurgens",
-			"Dave Kemp",
-			"Scott Koblish",
-			"Richard Starkings"
+			"Stuart Immonen"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4c35f56ced726.jpg",
 		"universe": "Earth-616",
@@ -1476,14 +1519,13 @@
 		"num": 1,
 		"date": "2004-03-10",
 		"characters": [
+			"Thor",
 			"Loki",
-			"Sif",
-			"Thor"
+			"Sif"
 		],
 		"creators": [
-			"Adi Granov",
-			"Greg Tocchini",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Greg Tocchini"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc6995bd4126.jpg",
 		"universe": "Earth-616",
@@ -1500,12 +1542,13 @@
 		"num": 2,
 		"date": "2004-06-01",
 		"characters": [
-			"Emma Frost"
+			"Thor",
+			"Loki",
+			"Sif"
 		],
 		"creators": [
-			"Karl Bollers",
-			"Greg Horn",
-			"Carlo Pagualyan"
+			"Akira Yoshida",
+			"Greg Tocchini"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4bc694838fdca.jpg",
 		"universe": "Earth-616",
@@ -1521,13 +1564,13 @@
 		"num": 3,
 		"date": "2004-04-14",
 		"characters": [
-			"Sif",
-			"Thor"
+			"Thor",
+			"Loki",
+			"Sif"
 		],
 		"creators": [
-			"Adi Granov",
-			"Greg Tocchini",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Greg Tocchini"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bc6945bf41fd.jpg",
 		"universe": "Earth-616",
@@ -1543,14 +1586,13 @@
 		"num": 4,
 		"date": "2004-05-12",
 		"characters": [
-			"Thor"
+			"Thor",
+			"Loki",
+			"Sif"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Adi Granov",
-			"Jay Leisten",
-			"Greg Tocchini",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Greg Tocchini"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bc687da0f7ba.jpg",
 		"universe": "Earth-616",
@@ -1566,15 +1608,13 @@
 		"num": 5,
 		"date": "2004-06-09",
 		"characters": [
+			"Thor",
 			"Loki",
-			"Thor"
+			"Sif"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Adi Granov",
-			"Jay Leisten",
-			"Greg Tocchini",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Greg Tocchini"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bc682df3de63.jpg",
 		"universe": "Earth-616",
@@ -1590,14 +1630,13 @@
 		"num": 6,
 		"date": "2004-07-14",
 		"characters": [
-			"Thor"
+			"Thor",
+			"Loki",
+			"Sif"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Adi Granov",
-			"Jay Leisten",
-			"Greg Tocchini",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Greg Tocchini"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4bc68e7d41c69.jpg",
 		"universe": "Earth-616",
@@ -1613,13 +1652,13 @@
 		"num": 7,
 		"date": "2004-08-11",
 		"characters": [
-			"Thor"
+			"Thor",
+			"Loki",
+			"Sif"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Jo Chen",
-			"Greg Tocchini",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Greg Tocchini"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bc6911603de4.jpg",
 		"universe": "Earth-616",
@@ -1635,15 +1674,13 @@
 		"num": 8,
 		"date": "2004-09-08",
 		"characters": [
-			"Enchantress (Amora)",
-			"Thor"
+			"Thor",
+			"Loki",
+			"Sif"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Jo Chen",
-			"Randy Gentile",
-			"Greg Tocchini",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Greg Tocchini"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/4bc67b7747747.jpg",
 		"universe": "Earth-616",
@@ -1659,16 +1696,13 @@
 		"num": 9,
 		"date": "2004-10-13",
 		"characters": [
-			"Enchantress (Amora)",
-			"Sif",
-			"Thor"
+			"Thor",
+			"Loki",
+			"Sif"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Jo Chen",
-			"Randy Gentile",
-			"Greg Tocchini",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Greg Tocchini"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bc674f44eff0.jpg",
 		"universe": "Earth-616",
@@ -1684,14 +1718,13 @@
 		"num": 10,
 		"date": "2004-11-10",
 		"characters": [
-			"Thor"
+			"Thor",
+			"Loki",
+			"Sif"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Jo Chen",
-			"Randy Gentile",
-			"Greg Tocchini",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Greg Tocchini"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/90/4bc6b2042ace6.jpg",
 		"universe": "Earth-616",
@@ -1707,14 +1740,13 @@
 		"num": 11,
 		"date": "2004-12-08",
 		"characters": [
-			"Thor"
+			"Thor",
+			"Loki",
+			"Sif"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Jo Chen",
-			"Randy Gentile",
-			"Greg Tocchini",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Greg Tocchini"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc65c3081e28.jpg",
 		"universe": "Earth-616",
@@ -1730,15 +1762,13 @@
 		"num": 12,
 		"date": "2005-01-12",
 		"characters": [
-			"Sif",
-			"Thor"
+			"Thor",
+			"Loki",
+			"Sif"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Jo Chen",
-			"Randy Gentile",
-			"Greg Tocchini",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Greg Tocchini"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4c7d6672f1462.jpg",
 		"universe": "Earth-616",
@@ -1754,14 +1784,16 @@
 		"num": 1,
 		"date": "2002-08-10",
 		"characters": [
-			"Captain Marvel (Mar-Vell)",
-			"Thanos"
+			"Cosmic",
+			"Thanos",
+			"Adam Warlock",
+			"Gamora",
+			"Genis-Vell",
+			"Spider-Man",
+			"Doctor Strange",
+			"Moondragon"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Al Milgrom",
-			"Jack Morelli",
-			"Christie Scheele",
 			"Jim Starlin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4bb6de59aeded.jpg",
@@ -1778,13 +1810,16 @@
 		"num": 2,
 		"date": "2002-08-11",
 		"characters": [
-			""
+			"Cosmic",
+			"Thanos",
+			"Adam Warlock",
+			"Gamora",
+			"Genis-Vell",
+			"Spider-Man",
+			"Doctor Strange",
+			"Moondragon"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Al Milgrom",
-			"Jack Morelli",
-			"Christie Scheele",
 			"Jim Starlin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bb6dd64f3b18.jpg",
@@ -1801,14 +1836,16 @@
 		"num": 3,
 		"date": "2002-09-10",
 		"characters": [
-			"Captain Marvel (Mar-Vell)",
-			"Thanos"
+			"Cosmic",
+			"Thanos",
+			"Adam Warlock",
+			"Gamora",
+			"Genis-Vell",
+			"Spider-Man",
+			"Doctor Strange",
+			"Moondragon"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Al Milgrom",
-			"Jack Morelli",
-			"Christie Scheele",
 			"Jim Starlin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bb6dd5fdc370.jpg",
@@ -1825,13 +1862,16 @@
 		"num": 4,
 		"date": "2002-09-11",
 		"characters": [
-			"Captain Marvel (Mar-Vell)"
+			"Cosmic",
+			"Thanos",
+			"Adam Warlock",
+			"Gamora",
+			"Genis-Vell",
+			"Spider-Man",
+			"Doctor Strange",
+			"Moondragon"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Al Milgrom",
-			"Jack Morelli",
-			"Christie Scheele",
 			"Jim Starlin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bb6dd5a9b3b0.jpg",
@@ -1848,13 +1888,16 @@
 		"num": 5,
 		"date": "2002-10-10",
 		"characters": [
-			"Captain Marvel (Mar-Vell)"
+			"Cosmic",
+			"Thanos",
+			"Adam Warlock",
+			"Gamora",
+			"Genis-Vell",
+			"Spider-Man",
+			"Doctor Strange",
+			"Moondragon"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Al Milgrom",
-			"Jack Morelli",
-			"Christie Scheele",
 			"Jim Starlin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb6dd55384f4.jpg",
@@ -1871,13 +1914,16 @@
 		"num": 6,
 		"date": "2002-10-11",
 		"characters": [
-			"Captain Marvel (Mar-Vell)"
+			"Cosmic",
+			"Thanos",
+			"Adam Warlock",
+			"Gamora",
+			"Genis-Vell",
+			"Spider-Man",
+			"Doctor Strange",
+			"Moondragon"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Al Milgrom",
-			"Jack Morelli",
-			"Christie Scheele",
 			"Jim Starlin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bb6dd500d58e.jpg",
@@ -1895,19 +1941,10 @@
 		"date": "2001-05-01",
 		"characters": [
 			"Ben Urich",
-			"Daredevil",
-			"Elektra",
-			"J. Jonah Jameson",
-			"Spider-Man"
+			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Wes Abbot",
-			"Richard Starkings",
 			"Brian Michael Bendis",
-			"Richard Isanove",
 			"David Mack"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5632732c44205.jpg",
@@ -1926,19 +1963,11 @@
 		"date": "2001-06-01",
 		"characters": [
 			"Ben Urich",
-			"Daredevil",
-			"Echo"
+			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Wes Abbot",
-			"Richard Starkings",
 			"Brian Michael Bendis",
-			"Richard Isanove",
-			"David Mack",
-			"Joe Quesada"
+			"David Mack"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/563273fd9d5e8.jpg",
 		"universe": "Earth-616",
@@ -1955,15 +1984,10 @@
 		"num": 18,
 		"date": "2001-07-01",
 		"characters": [
-			"Daredevil",
-			"Kingpin"
+			"Ben Urich",
+			"Daredevil"
 		],
 		"creators": [
-			"Comicraft",
-			"Richard Starkings",
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
 			"Brian Michael Bendis",
 			"David Mack"
 		],
@@ -1982,14 +2006,10 @@
 		"num": 19,
 		"date": "2001-08-01",
 		"characters": [
+			"Ben Urich",
 			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Wes Abbot",
-			"Richard Starkings",
 			"Brian Michael Bendis",
 			"David Mack"
 		],
@@ -2011,24 +2031,12 @@
 			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Chris Chuckry",
-			"Chris Sotomayor",
-			"Gene Colan",
-			"Phil Winslade",
 			"Bob Gale",
-			"Kevin Hall",
-			"Stan Lee",
-			"James Hodgkins",
-			"Tom Palmer",
-			"David Mack",
-			"Richard Starkings"
+			"Phil Winslade"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/57238fedf3225.jpg",
 		"universe": "Earth-616",
-		"comments": "missing",
+		"comments": "Missing",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2041,25 +2049,15 @@
 		"num": 21,
 		"date": "2001-10-01",
 		"characters": [
-			"Black Widow",
-			"Daredevil",
-			"Spider-Man"
+			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Chris Chuckry",
 			"Bob Gale",
-			"Oscar Gongora",
-			"Richard Starkings",
-			"James Hodgkins",
-			"David Mack",
 			"Phil Winslade"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/572391403c40f.jpg",
 		"universe": "Earth-616",
-		"comments": "missing",
+		"comments": "Missing",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2075,20 +2073,12 @@
 			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Chris Chuckry",
 			"Bob Gale",
-			"Oscar Gongora",
-			"Richard Starkings",
-			"James Hodgkins",
-			"David Mack",
 			"Phil Winslade"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5723923ef3ca2.jpg",
 		"universe": "Earth-616",
-		"comments": "missing",
+		"comments": "Missing",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2104,20 +2094,12 @@
 			"Daredevil"
 		],
 		"creators": [
-			"Comicraft",
-			"Richard Starkings",
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Chris Chuckry",
 			"Bob Gale",
-			"David Mack",
-			"Mark Pennington",
-			"David Ross"
+			"Phil Winslade"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/572392ce0bd7f.jpg",
 		"universe": "Earth-616",
-		"comments": "missing",
+		"comments": "Missing",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2133,19 +2115,12 @@
 			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Chris Chuckry",
 			"Bob Gale",
-			"David Mack",
-			"Mark Pennington",
-			"David Ross",
-			"Richard Starkings"
+			"David Ross"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5723c3e93c642.jpg",
 		"universe": "Earth-616",
-		"comments": "missing",
+		"comments": "Missing",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2158,23 +2133,15 @@
 		"num": 25,
 		"date": "2001-12-01",
 		"characters": [
-			"Daredevil",
-			"Spider-Man"
+			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Chris Chuckry",
 			"Bob Gale",
-			"James Hodgkins",
-			"David Mack",
-			"Richard Starkings",
-			"Phil Winslade"
+			"David Ross"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5723c5a6396fc.jpg",
 		"universe": "Earth-616",
-		"comments": "missing",
+		"comments": "Missing",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2190,13 +2157,7 @@
 			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Wes Abbot",
-			"Richard Starkings",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/5727637552032.jpg",
@@ -2217,14 +2178,7 @@
 			"Daredevil"
 		],
 		"creators": [
-			"Comicraft",
-			"Wes Abbot",
-			"Richard Starkings",
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/5727693524246.jpg",
@@ -2242,16 +2196,10 @@
 		"num": 28,
 		"date": "2002-02-01",
 		"characters": [
-			"Boomerang",
-			"Daredevil",
-			"Elektra"
+			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/57277032da8a8.jpg",
@@ -2272,13 +2220,7 @@
 			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Wes Abbot",
-			"Richard Starkings",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/572778b3e0a2a.jpg",
@@ -2296,17 +2238,10 @@
 		"num": 30,
 		"date": "2002-04-01",
 		"characters": [
-			"Daredevil",
-			"Kingpin"
+			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Wes Abbot",
-			"Richard Starkings",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/514c9954b0547.jpg",
@@ -2327,13 +2262,7 @@
 			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Wes Abbot",
-			"Richard Starkings",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/514c99cc90d8e.jpg",
@@ -2351,19 +2280,10 @@
 		"num": 32,
 		"date": "2002-06-01",
 		"characters": [
-			"Daredevil",
-			"Elektra",
-			"Spider-Man"
+			"Daredevil"
 		],
 		"creators": [
-			"Comicraft",
-			"Jason Levine",
-			"Richard Starkings",
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb7b822b926b.jpg",
@@ -2382,28 +2302,11 @@
 		"num": 33,
 		"date": "2002-07-01",
 		"characters": [
-			"Black Widow",
-			"Daredevil",
-			"Spider-Man"
+			"Daredevil"
 		],
 		"creators": [
-			"Comicraft",
-			"Wes Abbot",
-			"Jimmy Betancourt",
-			"Richard Starkings",
-			"Kelly Lamy",
-			"Axel Alonso",
-			"Nanci Dakesian",
-			"John Miesegaes",
-			"Stuart Moore",
 			"Brian Michael Bendis",
-			"Ron Zimmerman",
-			"Greg Capullo",
-			"Matt Hollingsworth",
-			"Dan Kemp",
-			"Avalon Studio",
-			"Alex Maleev",
-			"Danny K. Miki"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5727a1af23991.jpg",
 		"universe": "Earth-616",
@@ -2420,21 +2323,10 @@
 		"num": 34,
 		"date": "2002-08-01",
 		"characters": [
-			"Boomerang",
-			"Daredevil",
-			"Human Torch",
-			"Invisible Woman",
-			"Kingpin"
+			"Daredevil"
 		],
 		"creators": [
-			"Comicraft",
-			"Wes Abbot",
-			"Richard Starkings",
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/514ca5a023952.jpg",
@@ -2452,17 +2344,11 @@
 		"num": 35,
 		"date": "2002-09-01",
 		"characters": [
-			"Daredevil",
-			"Spider-Man"
+			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Richard Starkings"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5727abc79900f.jpg",
 		"universe": "Earth-616",
@@ -2479,17 +2365,11 @@
 		"num": 36,
 		"date": "2002-10-01",
 		"characters": [
-			"Black Widow",
 			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Richard Starkings"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5727b39e2f546.jpg",
 		"universe": "Earth-616",
@@ -2506,17 +2386,11 @@
 		"num": 37,
 		"date": "2002-11-01",
 		"characters": [
-			"Daredevil",
-			"Elektra"
+			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Richard Starkings"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5728aedf11726.jpg",
 		"universe": "Earth-616",
@@ -2533,19 +2407,11 @@
 		"num": 38,
 		"date": "2002-12-01",
 		"characters": [
-			"Daredevil",
-			"Iron Fist (Danny Rand)"
+			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Joe Quesada",
 			"Brian Michael Bendis",
-			"Manuel Gutierrez",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Richard Starkings"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/57277078333dd.jpg",
 		"universe": "Earth-616",
@@ -2562,20 +2428,11 @@
 		"num": 39,
 		"date": "2003-01-01",
 		"characters": [
-			"Daredevil",
-			"Doctor Strange",
-			"Mr. Fantastic"
+			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Joe Quesada",
 			"Brian Michael Bendis",
-			"Manuel Gutierrez",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Richard Starkings"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/572772023def9.jpg",
 		"universe": "Earth-616",
@@ -2592,19 +2449,11 @@
 		"num": 40,
 		"date": "2003-02-01",
 		"characters": [
-			"Daredevil",
-			"Iron Fist (Danny Rand)"
+			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Stuart Moore",
-			"Joe Quesada",
 			"Brian Michael Bendis",
-			"Rachel Dodson",
-			"Terry Dodson",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Richard Starkings"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/572772f074360.jpg",
 		"universe": "Earth-616",
@@ -2624,12 +2473,7 @@
 			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Joe Quesada",
-			"Wes Abbot",
-			"Richard Starkings",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/5727bb6adedcf.jpg",
@@ -2650,12 +2494,8 @@
 			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Joe Quesada",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Cory Petit"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/5727bdbd2a655.jpg",
 		"universe": "Earth-616",
@@ -2675,12 +2515,8 @@
 			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Joe Quesada",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Cory Petit"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5727bf6b30686.jpg",
 		"universe": "Earth-616",
@@ -2700,12 +2536,8 @@
 			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Joe Quesada",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Cory Petit"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5727a5a405c68.jpg",
 		"universe": "Earth-616",
@@ -2722,16 +2554,11 @@
 		"num": 45,
 		"date": "2003-05-01",
 		"characters": [
-			"Daredevil",
-			"Kingpin"
+			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Joe Quesada",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Cory Petit"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/57279e4d48357.jpg",
 		"universe": "Earth-616",
@@ -2748,17 +2575,11 @@
 		"num": 46,
 		"date": "2003-06-01",
 		"characters": [
-			"Daredevil",
-			"Kingpin",
-			"Typhoid Mary"
+			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Joe Quesada",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Cory Petit"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/5727987d1991a.jpg",
 		"universe": "Earth-616",
@@ -2775,17 +2596,11 @@
 		"num": 47,
 		"date": "2003-07-01",
 		"characters": [
-			"Daredevil",
-			"Kingpin",
-			"Typhoid Mary"
+			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Joe Quesada",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Cory Petit"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/e0/572781f025585.jpg",
 		"universe": "Earth-616",
@@ -2802,17 +2617,11 @@
 		"num": 48,
 		"date": "2003-08-01",
 		"characters": [
-			"Bullseye",
-			"Daredevil",
-			"Typhoid Mary"
+			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Joe Quesada",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Cory Petit"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/57277bedd6034.jpg",
 		"universe": "Earth-616",
@@ -2829,16 +2638,11 @@
 		"num": 49,
 		"date": "2003-09-01",
 		"characters": [
-			"Bullseye",
 			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Joe Quesada",
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Cory Petit"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/572778d21d468.jpg",
 		"universe": "Earth-616",
@@ -2858,18 +2662,8 @@
 			"Daredevil"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Joe Quesada",
 			"Brian Michael Bendis",
-			"Gene Colan",
-			"Klaus Janson",
-			"David Mack",
-			"Mike Avon Oeming",
-			"John Romita JR.",
-			"Lee Weeks",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Cory Petit"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/57277b6a37ce7.jpg",
 		"universe": "Earth-616",
@@ -2890,11 +2684,7 @@
 			"Echo"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Joe Quesada",
-			"David Mack",
-			"Cory Petit"
+			"David Mack"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/57277be9bb56b.jpg",
 		"universe": "Earth-616",
@@ -2914,11 +2704,7 @@
 			"Echo"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Joe Quesada",
-			"David Mack",
-			"Alex Maleev",
-			"Cory Petit"
+			"David Mack"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/57277ca32d22a.jpg",
 		"universe": "Earth-616",
@@ -2934,7 +2720,8 @@
 		"num": 53,
 		"date": "2003-12-01",
 		"characters": [
-			"Daredevil"
+			"Daredevil",
+			"Echo"
 		],
 		"creators": [
 			"David Mack"
@@ -2954,7 +2741,7 @@
 		"date": "2004-01-01",
 		"characters": [
 			"Daredevil",
-			"Wolverine"
+			"Echo"
 		],
 		"creators": [
 			"David Mack"
@@ -2973,7 +2760,8 @@
 		"num": 55,
 		"date": "2004-01-14",
 		"characters": [
-			"Daredevil"
+			"Daredevil",
+			"Echo"
 		],
 		"creators": [
 			"David Mack"
@@ -3097,12 +2885,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 1,
+		"date": "2001-11-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette2.wikia.nocookie.net/marveldatabase/images/e/ed/Alias_Vol_1_1.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"comments": "Jessica Jones origins",
@@ -3115,12 +2907,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 2,
+		"date": "2001-12-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette4.wikia.nocookie.net/marveldatabase/images/c/cb/Alias_Vol_1_2.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3132,12 +2928,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 3,
+		"date": "2002-01-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette1.wikia.nocookie.net/marveldatabase/images/9/92/Alias_Vol_1_3.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3149,12 +2949,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 4,
+		"date": "2002-02-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette1.wikia.nocookie.net/marveldatabase/images/c/c1/Alias_Vol_1_4.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3166,12 +2970,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 5,
+		"date": "2002-03-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette4.wikia.nocookie.net/marveldatabase/images/4/49/Alias_Vol_1_5.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3183,12 +2991,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 6,
+		"date": "2002-04-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette2.wikia.nocookie.net/marveldatabase/images/b/bb/Alias_Vol_1_6.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3200,12 +3012,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 7,
+		"date": "2002-05-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette3.wikia.nocookie.net/marveldatabase/images/7/73/Alias_Vol_1_7.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3217,12 +3033,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 8,
+		"date": "2002-06-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette2.wikia.nocookie.net/marveldatabase/images/e/e0/Alias_Vol_1_8.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3234,12 +3054,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 9,
+		"date": "2002-07-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette4.wikia.nocookie.net/marveldatabase/images/4/43/Alias_Vol_1_9.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3251,12 +3075,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 10,
+		"date": "2002-08-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette3.wikia.nocookie.net/marveldatabase/images/8/8b/Alias_Vol_1_10.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3268,12 +3096,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 11,
+		"date": "2002-09-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette1.wikia.nocookie.net/marveldatabase/images/d/d9/Alias_Vol_1_11.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3285,12 +3117,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 12,
+		"date": "2002-10-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette2.wikia.nocookie.net/marveldatabase/images/1/19/Alias_Vol_1_12.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3302,12 +3138,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 13,
+		"date": "2002-11-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette1.wikia.nocookie.net/marveldatabase/images/1/1a/Alias_Vol_1_13.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3319,12 +3159,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 14,
+		"date": "2002-12-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette2.wikia.nocookie.net/marveldatabase/images/d/d3/Alias_Vol_1_14.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3336,12 +3180,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 15,
+		"date": "2003-01-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette3.wikia.nocookie.net/marveldatabase/images/2/22/Alias_Vol_1_15.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3353,12 +3201,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 16,
+		"date": "2003-02-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette3.wikia.nocookie.net/marveldatabase/images/8/80/Alias_Vol_1_16.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3370,12 +3222,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 17,
+		"date": "2003-03-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette3.wikia.nocookie.net/marveldatabase/images/b/b1/Alias_Vol_1_17.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3387,12 +3243,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 18,
+		"date": "2003-04-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette2.wikia.nocookie.net/marveldatabase/images/5/57/Alias_Vol_1_18.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3404,12 +3264,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 19,
+		"date": "2003-05-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette1.wikia.nocookie.net/marveldatabase/images/9/9b/Alias_Vol_1_19.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3421,12 +3285,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 20,
+		"date": "2003-06-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette1.wikia.nocookie.net/marveldatabase/images/f/fa/Alias_Vol_1_20.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3438,12 +3306,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 21,
+		"date": "2003-07-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette3.wikia.nocookie.net/marveldatabase/images/a/a3/Alias_Vol_1_21.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3455,12 +3327,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 22,
+		"date": "2003-07-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette2.wikia.nocookie.net/marveldatabase/images/3/3c/Alias_Vol_1_22.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3472,12 +3348,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 23,
+		"date": "2003-08-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette2.wikia.nocookie.net/marveldatabase/images/c/cb/Alias_Vol_1_23.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3489,12 +3369,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 24,
+		"date": "2003-09-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette1.wikia.nocookie.net/marveldatabase/images/9/96/Alias_Vol_1_24.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3506,12 +3390,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 25,
+		"date": "2003-10-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette4.wikia.nocookie.net/marveldatabase/images/0/0e/Alias_Vol_1_25.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3523,12 +3411,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 26,
+		"date": "2003-11-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette4.wikia.nocookie.net/marveldatabase/images/c/c0/Alias_Vol_1_26.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3540,12 +3432,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 27,
+		"date": "2003-12-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette1.wikia.nocookie.net/marveldatabase/images/6/66/Alias_Vol_1_27.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
@@ -3557,12 +3453,16 @@
 		"title": "Alias",
 		"vol": 1,
 		"num": 28,
+		"date": "2004-01-01",
 		"characters": [
-			""
+			"Jessica Jones",
+			"Luke Cage"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Michael Gaydos"
 		],
+		"pic": "http://vignette4.wikia.nocookie.net/marveldatabase/images/d/de/Alias_Vol_1_28.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "001",
