@@ -23,7 +23,7 @@ var htmlFiles = []string{
 	"not-found.html",
 }
 
-type jsonHandler func(p httprouter.Params) (jsonAble, error)
+type jsonHandler func(p httprouter.Params) (service.JsonAble, error)
 type webHandler func(p httprouter.Params) (string, error)
 
 type webContent map[string]string
@@ -50,42 +50,42 @@ func init() {
 	// API
 
 	// Get all comics
-	router.GET("/api/comics", jsonHandle(func(p httprouter.Params) (jsonAble, error) {
+	router.GET("/api/comics", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
 		return service.ListComics(j["comics"])
 	}))
 
 	// Get this comic
-	router.GET("/api/comics/:id", jsonHandle(func(p httprouter.Params) (jsonAble, error) {
+	router.GET("/api/comics/:id", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
 		return service.FindComicByID(j["comics"], p.ByName("id"))
 	}))
 
 	// Get all phases
-	router.GET("/api/phases", jsonHandle(func(p httprouter.Params) (jsonAble, error) {
+	router.GET("/api/phases", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
 		return service.ListPhases(j["phases"])
 	}))
 
 	// Get this phase
-	router.GET("/api/phases/:id", jsonHandle(func(p httprouter.Params) (jsonAble, error) {
+	router.GET("/api/phases/:id", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
 		return service.FindPhaseByID(j["phases"], p.ByName("id"))
 	}))
 
 	// Get all first issues from all phases
-	router.GET("/api/fissues", jsonHandle(func(p httprouter.Params) (jsonAble, error) {
+	router.GET("/api/fissues", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
 		return service.ListFirstIssues(j["issues-phases"])
 	}))
 
 	// Get all first issues from this phase
-	router.GET("/api/fissues/:id", jsonHandle(func(p httprouter.Params) (jsonAble, error) {
+	router.GET("/api/fissues/:id", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
 		return service.FindFirstIssuesByPhaseID(j["issues-phases"], p.ByName("id"))
 	}))
 
 	// Get all issues from this phase
-	router.GET("/api/phases/:id/issues", jsonHandle(func(p httprouter.Params) (jsonAble, error) {
+	router.GET("/api/phases/:id/issues", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
 		return service.ListComicsByPhaseID(j["comics"], p.ByName("id"))
 	}))
 
 	// Get all issues from this comic from this phase
-	router.GET("/api/phases/:id/issues/:sortid", jsonHandle(func(p httprouter.Params) (jsonAble, error) {
+	router.GET("/api/phases/:id/issues/:sortid", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
 		return service.ListComicsByPhaseAndSortIDs(j["comics"], p.ByName("id"), p.ByName("sortid"))
 	}))
 
@@ -115,8 +115,8 @@ func init() {
 // File readers
 func readJsonFiles(in service.DatastoreType) (jsonContent, error) {
 	m := make(jsonContent)
-	for _, e := range in.Keys() {
-		bytes, err := ioutil.ReadFile(fmt.Sprintf("%s.json", e))
+	for key, _ := range in {
+		bytes, err := ioutil.ReadFile(fmt.Sprintf("%s.json", key))
 		if err != nil {
 			return m, err
 		}
@@ -124,8 +124,7 @@ func readJsonFiles(in service.DatastoreType) (jsonContent, error) {
 		if err != nil {
 			return m, err
 		}
-		tag := strings.Split(e, ".")[0]
-		m[tag] = json
+		m[key] = json
 	}
 	return m, nil
 }
@@ -159,7 +158,7 @@ func webHandle(handle webHandler) httprouter.Handle {
 }
 
 // Response Writers
-func writeJsonResponse(w http.ResponseWriter, j jsonAble, err error) {
+func writeJsonResponse(w http.ResponseWriter, j service.JsonAble, err error) {
 	if err != nil {
 		writeError(w, err)
 		return

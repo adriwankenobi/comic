@@ -32,13 +32,13 @@ const (
 	mandatory_cols = 12
 )
 
-type jsonAble interface {
+type JsonAble interface {
 	ToJson() ([]byte, error)
 	IsEmpty() bool
 }
 
 // Datastore
-type DatastoreType map[string]jsonAble
+type DatastoreType map[string]JsonAble
 
 var Datastore = DatastoreType{
 	"comics":        nil,
