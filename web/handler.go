@@ -1,13 +1,18 @@
-package api
+package web
 
 import (
-	"fmt"
 	"github.com/adriwankenobi/comic/service"
 	"github.com/elgs/jsonql"
 	"github.com/julienschmidt/httprouter"
 	"io/ioutil"
 	"net/http"
 	"strings"
+)
+
+const (
+	ComicsFile  = "comics.json"
+	PhasesFile  = "phases.json"
+	FissuesFile = "issues-phases.json"
 )
 
 type jsonAble interface {
@@ -34,7 +39,7 @@ func init() {
 	if err != nil {
 		return
 	}
-	
+
 	c, err = readWebFiles([]string{
 		"template.html",
 		"tabs.html",
@@ -45,6 +50,7 @@ func init() {
 		"clear-fix.html",
 		"issues.html",
 		"issue-content.html",
+		"not-found.html",
 	})
 	if err != nil {
 		return
@@ -92,19 +98,27 @@ func init() {
 
 	// Get all issues from this comic from this phase
 	router.GET("/api/phases/:id/issues/:sortid", jsonHandle(func(p httprouter.Params) (jsonAble, error) {
-		return service.ListComicsByPhaseAndSortIDs(j["comcis"], p.ByName("id"), p.ByName("sortid"))
+		return service.ListComicsByPhaseAndSortIDs(j["comics"], p.ByName("id"), p.ByName("sortid"))
 	}))
 
 	// WEB
 
 	// Index -> Get all first issues from all phases
 	router.GET("/", webHandle(func(p httprouter.Params) (string, error) {
-		return getIndexPage(j["issues-phases"])
+		issues, err := service.ListFirstIssues(j["issues-phases"])
+		if err != nil {
+			return "", err
+		}
+		return getIndexPage(issues)
 	}))
 
 	// Issues -> Get all issues from this comic from this phase
 	router.GET("/phases/:id/issues/:sortid", webHandle(func(p httprouter.Params) (string, error) {
-		return getIssuesPage(j["comics"], p.ByName("id"), p.ByName("sortid"))
+		issues, err := service.ListComicsByPhaseAndSortIDs(j["comics"], p.ByName("id"), p.ByName("sortid"))
+		if err != nil {
+			return "", err
+		}
+		return getIssuesPage(issues)
 	}))
 
 	http.Handle("/", router)
@@ -190,78 +204,4 @@ func writeResponse(w http.ResponseWriter, s string, err error) {
 func writeError(w http.ResponseWriter, err error) {
 	w.Header().Set("Error", err.Error())
 	w.WriteHeader(http.StatusInternalServerError)
-}
-
-// Web compilers
-func getIndexPage(issuesPhases *jsonql.JSONQL) (string, error) {
-	issues, err := service.ListFirstIssues(issuesPhases)
-	if err != nil {
-		return "", err
-	}
-	introID := "intro"
-	issuesLi := fmt.Sprintf(c["tab-li"], "active", introID, introID, introID, "Intro")
-	issuesContent := fmt.Sprintf(c["tab-content"], "active", introID, introID, introID, c["tab-content-intro"])
-	for _, e := range *issues {
-		phaseID := fmt.Sprintf("phase%s", e.Phase.ID)
-		li := fmt.Sprintf(c["tab-li"], "", phaseID, phaseID, phaseID, e.Phase.Name)
-		issuesLi = fmt.Sprintf("%s%s", issuesLi, li)
-		conPhase := ""
-		for _, i := range e.List {
-			year := ""
-			if i.Date != "" {
-				year = i.Date[:4]
-			}
-			conIssue := fmt.Sprintf(c["tab-content-phase"], e.Phase.ID, i.SortID, i.Pic, i.Title, e.Phase.ID, i.SortID, i.Title, year, "Protagonist")
-			conPhase = fmt.Sprintf("%s%s", conPhase, conIssue)
-		}
-		con := fmt.Sprintf(c["tab-content"], "", phaseID, phaseID, phaseID, conPhase)
-		issuesContent = fmt.Sprintf("%s%s", issuesContent, con)
-	}
-	issuesContent = fmt.Sprintf("%s%s", issuesContent, c["clear-fix"])
-	content := fmt.Sprintf(c["tabs"], issuesLi, issuesContent)
-	content = fmt.Sprintf(c["template"], content)
-	return content, nil
-}
-
-func getIssuesPage(comics *jsonql.JSONQL, phaseid, sortid string) (string, error) {
-	issues, err := service.ListComicsByPhaseAndSortIDs(comics, phaseid, sortid)
-	if err != nil {
-		return "", err
-	}
-	issuesContent := ""
-	for _, e := range *issues {
-		name := fmt.Sprintf("%s vol. %v #%v", e.Collection, e.Vol, e.Num)
-		essential := "NO"
-		if e.Essential {
-			essential = "YES"
-		}
-		displayEvent := "block"
-		if e.Event == "" {
-			displayEvent = "none"
-		}
-		displayComments := "block"
-		if e.Comments == "" {
-			displayComments = "none"
-		}
-		con := fmt.Sprintf(c["issue-content"], name, e.PhaseID, e.SortID, e.Pic, name, 
-			e.Collection, 
-			e.Vol, 
-			e.Num, 
-			e.Date, 
-			e.Universe, 
-			e.PhaseName,
-			displayEvent,
-			e.Event,
-			essential, 
-			e.Characters, 
-			e.Creators,
-			displayComments,
-			e.Comments,
-		)
-		issuesContent = fmt.Sprintf("%s%s", issuesContent, con)
-	}
-	issuesContent = fmt.Sprintf("%s%s", issuesContent, c["clear-fix"])
-	content := fmt.Sprintf(c["issues"], phaseid, sortid, (*issues)[0].Title, issuesContent)
-	content = fmt.Sprintf(c["template"], content)
-	return content, nil
 }

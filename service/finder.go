@@ -1,12 +1,12 @@
 package service
 
 import (
-    "github.com/elgs/jsonql"
+	"github.com/elgs/jsonql"
 )
 
 // Find comics
 func FindComicByID(comics *jsonql.JSONQL, id string) (*Comic, error) {
-	list, err := FindComicList(comics, "id='" + id + "'")
+	list, err := FindComicList(comics, "id='"+id+"'")
 	if err != nil {
 		return &Comic{}, err
 	}
@@ -22,16 +22,16 @@ func ListComics(comics *jsonql.JSONQL) (*ComicList, error) {
 }
 
 func ListComicsByPhaseID(comics *jsonql.JSONQL, id string) (*ComicList, error) {
-	return FindComicList(comics, "phaseid='" + id + "'")
+	return FindComicList(comics, "phaseid='"+id+"'")
 }
 
 func ListComicsByPhaseAndSortIDs(comics *jsonql.JSONQL, id, sortid string) (*ComicList, error) {
-	return FindComicList(comics, "phaseid='" + id + "' && sortid='" + sortid + "'")
+	return FindComicList(comics, "phaseid='"+id+"' && sortid='"+sortid+"'")
 }
 
 // Find phases
 func FindPhaseByID(phases *jsonql.JSONQL, id string) (*Phase, error) {
-	list, err := FindPhaseList(phases, "id='" + id + "'")
+	list, err := FindPhaseList(phases, "id='"+id+"'")
 	if err != nil {
 		return &Phase{}, err
 	}
@@ -47,7 +47,7 @@ func ListPhases(phases *jsonql.JSONQL) (*PhaseList, error) {
 
 // Find first issues
 func FindFirstIssuesByPhaseID(issuesPhases *jsonql.JSONQL, id string) (*IssuesPhase, error) {
-	list, err := FindIssuesPhaseList(issuesPhases, "phase.id='" + id + "'")
+	list, err := FindIssuesPhaseList(issuesPhases, "phase.id='"+id+"'")
 	if err != nil {
 		return &IssuesPhase{}, err
 	}
@@ -63,25 +63,25 @@ func ListFirstIssues(issuesPhases *jsonql.JSONQL) (*IssuesPhaseList, error) {
 
 // Utils
 func FindComicList(comics *jsonql.JSONQL, q string) (*ComicList, error) {
-    result, err := comics.Query(q)
-    if err != nil {
-        return nil, err
-    }
-    return NewComicList(result)
+	result, err := comics.Query(q)
+	if err != nil {
+		return nil, err
+	}
+	return NewComicList(result)
 }
 
 func FindPhaseList(phases *jsonql.JSONQL, q string) (*PhaseList, error) {
-    result, err := phases.Query(q)
-    if err != nil {
-        return nil, err
-    }
-    return NewPhaseList(result)
+	result, err := phases.Query(q)
+	if err != nil {
+		return nil, err
+	}
+	return NewPhaseList(result)
 }
 
 func FindIssuesPhaseList(issuesPhases *jsonql.JSONQL, q string) (*IssuesPhaseList, error) {
-    result, err := issuesPhases.Query(q)
-    if err != nil {
-        return nil, err
-    }
-    return NewIssuesPhaseList(result)
+	result, err := issuesPhases.Query(q)
+	if err != nil {
+		return nil, err
+	}
+	return NewIssuesPhaseList(result)
 }

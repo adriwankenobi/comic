@@ -1,36 +1,36 @@
 package marvel
 
 import (
-    "fmt"
-    "net/http"
-    "time"
-    "crypto/md5"
-    "io/ioutil"
-    "encoding/json"
-    "net/url"
-    "strings"
+	"crypto/md5"
+	"encoding/json"
+	"fmt"
+	"io/ioutil"
+	"net/http"
+	"net/url"
+	"strings"
+	"time"
 )
 
 const (
-	baseURL = "http://gateway.marvel.com/v1/public"
-	marvelDateFormat = "2006-01-02T15:04:05-0700"
+	baseURL              = "http://gateway.marvel.com/v1/public"
+	marvelDateFormat     = "2006-01-02T15:04:05-0700"
 	marvelResponseFormat = "2006-01-02"
 )
 
 type MarvelAPI struct {
-	publicKey string
+	publicKey  string
 	privateKey string
 }
 
 type MarvelResponse struct {
-	Date string
-	Pic string
-	Creators string
+	Date       string
+	Pic        string
+	Creators   string
 	Characters string
 }
 
 type dateResponse struct {
-	Date 	 string `json:"date"`
+	Date     string `json:"date"`
 	TypeDate string `json:"type"`
 }
 
@@ -46,7 +46,7 @@ func (d *datesResponse) find(criteria string) string {
 }
 
 type thumbnailResponse struct {
-	Path 	  string `json:"path"`
+	Path      string `json:"path"`
 	Extension string `json:"extension"`
 }
 
@@ -56,9 +56,9 @@ type items struct {
 }
 
 type itemsResponse struct {
-	Available int `json:"available"`
-	Returned  int `json:"returned"`
-	Items []items `json:"items"`
+	Available int     `json:"available"`
+	Returned  int     `json:"returned"`
+	Items     []items `json:"items"`
 }
 
 func (i *itemsResponse) toString() string {
@@ -70,34 +70,34 @@ func (i *itemsResponse) toString() string {
 }
 
 type result struct {
-	ID 	  int	 		 		`json:"id"`
-	Dates datesResponse 		`json:"dates"`
-	Thumbnail thumbnailResponse `json:"thumbnail"`
-	Creators itemsResponse 		`json:"creators"`
-	Characters itemsResponse 	`json:"characters"`
+	ID         int               `json:"id"`
+	Dates      datesResponse     `json:"dates"`
+	Thumbnail  thumbnailResponse `json:"thumbnail"`
+	Creators   itemsResponse     `json:"creators"`
+	Characters itemsResponse     `json:"characters"`
 }
 
 type dataResponse struct {
-	Total 	int		 `json:"total"`
+	Total   int      `json:"total"`
 	Results []result `json:"results"`
 }
 
 type response struct {
-	Code int		  `json:"code"`
+	Code int          `json:"code"`
 	Data dataResponse `json:"data"`
 }
 
 func NewMarvelAPI(pubKey, priKey string) MarvelAPI {
 	return MarvelAPI{
-		publicKey: pubKey, 
+		publicKey:  pubKey,
 		privateKey: priKey,
 	}
 }
 
 func (m *MarvelAPI) Find(collection string, num, start, end int) (string, error) {
-	parameters := fmt.Sprintf("%s&title=%s&issueNumber=%v&dateRange=%v-01-01,%v-12-31", 
+	parameters := fmt.Sprintf("%s&title=%s&issueNumber=%v&dateRange=%v-01-01,%v-12-31",
 		m.getDefaultParameters(), url.QueryEscape(collection), num, start, end)
-    marvelURL := fmt.Sprintf("%s/comics?%s", baseURL, parameters)
+	marvelURL := fmt.Sprintf("%s/comics?%s", baseURL, parameters)
 	resp, err := do(marvelURL)
 	if err != nil {
 		return "", err
@@ -108,7 +108,7 @@ func (m *MarvelAPI) Find(collection string, num, start, end int) (string, error)
 func (m *MarvelAPI) FindByID(id string) (MarvelResponse, error) {
 	marvelResp := MarvelResponse{}
 	parameters := m.getDefaultParameters()
-    marvelURL := fmt.Sprintf("%s/comics/%s?%s", baseURL, id, parameters)
+	marvelURL := fmt.Sprintf("%s/comics/%s?%s", baseURL, id, parameters)
 	resp, err := do(marvelURL)
 	if err != nil {
 		return marvelResp, err
@@ -128,8 +128,8 @@ func (m *MarvelAPI) getDefaultParameters() string {
 	now := time.Now().UTC()
 	ts := now.Format(time.RFC3339)
 	data := []byte(fmt.Sprintf("%s%s%s", ts, m.privateKey, m.publicKey))
-    hash := fmt.Sprintf("%x", md5.Sum(data))
-    return fmt.Sprintf("ts=%v&apikey=%s&hash=%s", ts, m.publicKey, hash)
+	hash := fmt.Sprintf("%x", md5.Sum(data))
+	return fmt.Sprintf("ts=%v&apikey=%s&hash=%s", ts, m.publicKey, hash)
 }
 
 func do(url string) (response, error) {

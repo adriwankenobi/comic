@@ -1,16 +1,16 @@
 package main
 
 import (
+	"errors"
 	"flag"
 	"fmt"
-	"errors"
 	"github.com/adriwankenobi/comic/service"
 	"github.com/adriwankenobi/comic/web"
 	"io/ioutil"
 )
 
 func main() {
-	
+
 	// TODO: Custom usages for each flag
 	convert := flag.Bool("convert", false, "Convert XLSX file to JSON")
 	update := flag.Bool("update", false, "Update XLSX file with some info from MARVEL API")
@@ -22,22 +22,22 @@ func main() {
 	mPubKey := flag.String("mpubkey", "", "MARVEL API public key")
 	mPriKey := flag.String("mprikey", "", "MARVEL API private key")
 	flag.Parse()
-	
+
 	var err error
 	var errFlag error
-	
+
 	if *convert {
 		out, errFlag := validateConvertFlags(*f, *o)
 		if errFlag == nil {
 			fmt.Printf("Converting from '%s' to '%s\n", *f, out)
-			err = convertXLS(*f, 
-				fmt.Sprintf("%s/%s", out, api.ComicsFile), 
-				fmt.Sprintf("%s/%s", out, api.PhasesFile),
-				fmt.Sprintf("%s/%s", out, api.IssuesPhasesFile),
+			err = convertXLS(*f,
+				fmt.Sprintf("%s/%s", out, web.ComicsFile),
+				fmt.Sprintf("%s/%s", out, web.PhasesFile),
+				fmt.Sprintf("%s/%s", out, web.FissuesFile),
 			)
 		}
 	}
-	
+
 	if *update {
 		errFlag = validateUpdateFlags(*f, *start, *end, *mPubKey, *mPriKey)
 		if errFlag == nil {
@@ -45,7 +45,7 @@ func main() {
 			err = updateXLS(*f, *start, *end, *mPubKey, *mPriKey)
 		}
 	}
-	
+
 	if *folders {
 		out, errFlag := validateFoldersFlags(*f, *o)
 		if errFlag == nil {
@@ -53,20 +53,20 @@ func main() {
 			err = createFolders(*f, out)
 		}
 	}
-	
+
 	if !*convert && !*update && !*folders {
 		errFlag = errors.New("One these flags is mandatory: [-convert, -update, -folders]")
 	}
-	
+
 	if errFlag != nil {
 		fmt.Println(errFlag.Error())
 		flag.PrintDefaults()
 	}
-	
+
 	if err != nil {
 		fmt.Println(err.Error())
 	}
-		
+
 }
 
 func validateConvertFlags(f, o string) (string, error) {
@@ -81,40 +81,40 @@ func validateConvertFlags(f, o string) (string, error) {
 }
 
 func convertXLS(f, comicsOut, phasesOut, issuesPhasesOut string) error {
-	
+
 	// Read XLS file
 	comics, phases, issuesPhases, err := service.NewComicListFromXLSX(f)
 	if err != nil {
 		return err
 	}
-	
+
 	// Write JSON files
 	json, err := comics.ToJson()
 	if err != nil {
 		return err
 	}
-    err = ioutil.WriteFile(comicsOut, json, 0644)
-    if err != nil {
-		return err
-	}
-    json, err = phases.ToJson()
+	err = ioutil.WriteFile(comicsOut, json, 0644)
 	if err != nil {
 		return err
 	}
-    err = ioutil.WriteFile(phasesOut, json, 0644)
-    if err != nil {
-		return err
-	}
-    json, err = issuesPhases.ToJson()
+	json, err = phases.ToJson()
 	if err != nil {
 		return err
 	}
-    err = ioutil.WriteFile(issuesPhasesOut, json, 0644)
-    if err != nil {
+	err = ioutil.WriteFile(phasesOut, json, 0644)
+	if err != nil {
 		return err
 	}
-    fmt.Println("Done!")
-    return nil
+	json, err = issuesPhases.ToJson()
+	if err != nil {
+		return err
+	}
+	err = ioutil.WriteFile(issuesPhasesOut, json, 0644)
+	if err != nil {
+		return err
+	}
+	fmt.Println("Done!")
+	return nil
 }
 
 func validateUpdateFlags(f string, start, end int, mPubKey, mPriKey string) error {
@@ -125,15 +125,15 @@ func validateUpdateFlags(f string, start, end int, mPubKey, mPriKey string) erro
 }
 
 func updateXLS(f string, start, end int, mPubKey, mPriKey string) error {
-	
+
 	// Update XLS file
 	err := service.UpdateXLSX(f, start, end, mPubKey, mPriKey)
 	if err != nil {
 		return err
 	}
-	
-    fmt.Println("Done!")
-    return nil
+
+	fmt.Println("Done!")
+	return nil
 }
 
 func validateFoldersFlags(f, o string) (string, error) {
@@ -148,13 +148,13 @@ func validateFoldersFlags(f, o string) (string, error) {
 }
 
 func createFolders(f, o string) error {
-	
+
 	// Create folders structure
 	err := service.CreateFolders(f, o)
 	if err != nil {
 		return err
 	}
-	
-    fmt.Println("Done!")
-    return nil
+
+	fmt.Println("Done!")
+	return nil
 }
