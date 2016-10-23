@@ -37,7 +37,7 @@ body a:hover{
 }
 .w3l-agile-horror,.general-agileits-w3l,.single-page-agile-main,.wthree-comedy {
    padding:3em 0;
-   margin-bottom:100px;
+   /*margin-bottom:100px;*/
 }
 /*--/tab--*/
 ul#myTab li a {

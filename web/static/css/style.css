@@ -42,7 +42,7 @@ input[type="submit"],.agileinfo_chat a,.w3ls_footer_grid1_left p a,.w3l_sign_in_
 
   /* Equal to height of footer */
   /* But also accounting for potential margin-bottom of last child */
-  margin-bottom: -150px;
+  /*margin-bottom: -150px;*/
 }
 
 /*-- header --*/
@@ -221,7 +221,7 @@ ul.dropdown-menu.multi-column ul li a:hover{
 /*-- general --*/
 .general,.Latest-tv-series,.faq{
     padding: 3em 0;
-    padding-bottom: 150px;
+    /*padding-bottom: 150px;*/
 }
 .w3_latest_text {
     margin-left: 3em;
@@ -389,7 +389,7 @@ p.fexi_header_para1 a i {
 .footer{
 	background:#212121;
 	padding:4em 0;
-	height: 150px;
+	/*height: 150px;*/
 }
 .w3ls_footer_grid_left1{
 	position:relative;
