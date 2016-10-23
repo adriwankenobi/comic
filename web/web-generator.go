@@ -20,7 +20,11 @@ func getIndexPage(issues *service.FissuesList) (string, error) {
 			if i.Date != "" {
 				year = i.Date[:4]
 			}
-			conIssue := fmt.Sprintf(c["tab-content-phase"], e.Phase.ID, i.SortID, i.Pic, i.Title, year, "Protagonist", e.Phase.ID, i.SortID, i.Title)
+			pic := "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+			if i.Pic != "" {
+				pic = i.Pic
+			}
+			conIssue := fmt.Sprintf(c["tab-content-phase"], e.Phase.ID, i.SortID, pic, i.Title, year, "Protagonist", e.Phase.ID, i.SortID, i.Title)
 			conPhase = fmt.Sprintf("%s%s", conPhase, conIssue)
 		}
 		con := fmt.Sprintf(c["tab-content"], "", phaseID, phaseID, phaseID, conPhase)
@@ -52,10 +56,14 @@ func getIssuesPage(issues *service.ComicList) (string, error) {
 		if e.Comments == "" {
 			displayComments = "none"
 		}
+		pic := "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+		if e.Pic != "" {
+			pic = e.Pic
+		}
 		// TODO: For each comment
 		commentsList := fmt.Sprintf(c["list"], e.Comments)
-		
-		con := fmt.Sprintf(c["issue-content"], name, e.PhaseID, e.SortID, e.Pic, name,
+
+		con := fmt.Sprintf(c["issue-content"], name, e.PhaseID, e.SortID, pic, name,
 			e.Collection,
 			e.Vol,
 			e.Num,
