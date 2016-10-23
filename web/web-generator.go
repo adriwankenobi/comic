@@ -32,7 +32,7 @@ func getIndexPage(issues *service.FissuesList) (string, error) {
 			if i.Date != "" {
 				year = i.Date[:4]
 			}
-			conIssue := fmt.Sprintf(c["tab-content-phase"], e.Phase.ID, i.SortID, i.Pic, i.Title, e.Phase.ID, i.SortID, i.Title, year, "Protagonist")
+			conIssue := fmt.Sprintf(c["tab-content-phase"], e.Phase.ID, i.SortID, i.Pic, i.Title, year, "Protagonist", e.Phase.ID, i.SortID, i.Title)
 			conPhase = fmt.Sprintf("%s%s", conPhase, conIssue)
 		}
 		con := fmt.Sprintf(c["tab-content"], "", phaseID, phaseID, phaseID, conPhase)
