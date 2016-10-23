@@ -3,20 +3,8 @@ package web
 import (
 	"fmt"
 	"github.com/adriwankenobi/comic/service"
+	"strings"
 )
-
-var htmlFiles = []string{
-	"template",
-	"tabs",
-	"tab-li",
-	"tab-content",
-	"tab-content-intro",
-	"tab-content-phase",
-	"clear-fix",
-	"issues",
-	"issue-content",
-	"not-found",
-}
 
 func getIndexPage(issues *service.FissuesList) (string, error) {
 	introID := "intro"
@@ -46,7 +34,7 @@ func getIndexPage(issues *service.FissuesList) (string, error) {
 
 func getIssuesPage(issues *service.ComicList) (string, error) {
 	if issues.IsEmpty() {
-		return notFound(), nil
+		return getNotFoundPage(), nil
 	}
 
 	issuesContent := ""
@@ -64,6 +52,9 @@ func getIssuesPage(issues *service.ComicList) (string, error) {
 		if e.Comments == "" {
 			displayComments = "none"
 		}
+		// TODO: For each comment
+		commentsList := fmt.Sprintf(c["list"], e.Comments)
+		
 		con := fmt.Sprintf(c["issue-content"], name, e.PhaseID, e.SortID, e.Pic, name,
 			e.Collection,
 			e.Vol,
@@ -74,10 +65,10 @@ func getIssuesPage(issues *service.ComicList) (string, error) {
 			displayEvent,
 			e.Event,
 			essential,
-			e.Characters,
-			e.Creators,
+			strings.Join(e.Characters, ", "),
+			strings.Join(e.Creators, ", "),
 			displayComments,
-			e.Comments,
+			commentsList,
 		)
 		issuesContent = fmt.Sprintf("%s%s", issuesContent, con)
 	}
@@ -87,6 +78,10 @@ func getIssuesPage(issues *service.ComicList) (string, error) {
 	return content, nil
 }
 
-func notFound() string {
+func getAboutPage() string {
+	return fmt.Sprintf(c["template"], c["about"])
+}
+
+func getNotFoundPage() string {
 	return fmt.Sprintf(c["template"], c["not-found"])
 }

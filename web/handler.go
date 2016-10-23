@@ -25,7 +25,7 @@ func init() {
 	if err != nil {
 		return
 	}
-	c, err = readWebFiles(htmlFiles)
+	c, err = readWebFiles()
 	if err != nil {
 		return
 	}
@@ -83,7 +83,7 @@ func init() {
 		if err != nil {
 			return "", err
 		}
-		return getIndexPage(issues)
+		return getIndexPage(issues)	
 	}))
 
 	// Issues -> Get all issues from this comic from this phase
@@ -93,6 +93,11 @@ func init() {
 			return "", err
 		}
 		return getIssuesPage(issues)
+	}))
+	
+	// About
+	router.GET("/about", webHandle(func(p httprouter.Params) (string, error) {
+		return getAboutPage(), nil
 	}))
 
 	http.Handle("/", router)
@@ -124,14 +129,23 @@ func readJsonFiles() (jsonContent, error) {
 	return m, nil
 }
 
-func readWebFiles(in []string) (webContent, error) {
+func readWebFiles() (webContent, error) {
 	m := make(webContent)
-	for _, e := range in {
-		bytes, err := ioutil.ReadFile(fmt.Sprintf("html/%s.html", e))
+	folder := "html"
+	files, err := ioutil.ReadDir(folder)
+	if err != nil {
+		return m, err
+	}
+	for _, f := range files {
+		split := strings.Split(f.Name(), ".")
+		if f.IsDir() || len(split) != 2 || split[1] != "html" {
+			break
+		}
+		bytes, err := ioutil.ReadFile(fmt.Sprintf("%s/%s", folder, f.Name()))
 		if err != nil {
 			return m, err
 		}
-		m[e] = string(bytes)
+		m[split[0]] = string(bytes)
 	}
 	return m, nil
 }
