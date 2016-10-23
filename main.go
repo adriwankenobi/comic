@@ -11,7 +11,7 @@ import (
 func main() {
 
 	// TODO: Custom usages for each flag
-	convert := flag.Bool("convert", false, "Convert XLSX file to JSON")
+	generate := flag.Bool("generate", false, "Generate JSON files from XLSX file")
 	update := flag.Bool("update", false, "Update XLSX file with some info from MARVEL API")
 	folders := flag.Bool("folders", false, "Create folders structure")
 	f := flag.String("f", "", "XSLX file to read")
@@ -25,11 +25,11 @@ func main() {
 	var err error
 	var errFlag error
 
-	if *convert {
-		out, errFlag := validateConvertFlags(*f, *o)
+	if *generate {
+		out, errFlag := validateGenerateFlags(*f, *o)
 		if errFlag == nil {
-			fmt.Printf("Converting from '%s' to '%s'\n", *f, out)
-			err = convertXLS(*f, out)
+			fmt.Printf("Generating from '%s' to '%s'\n", *f, out)
+			err = generateJSON(*f, out)
 		}
 	}
 
@@ -49,8 +49,8 @@ func main() {
 		}
 	}
 
-	if !*convert && !*update && !*folders {
-		errFlag = errors.New("One these flags is mandatory: [-convert, -update, -folders]")
+	if !*generate && !*update && !*folders {
+		errFlag = errors.New("One these flags is mandatory: [-generate, -update, -folders]")
 	}
 
 	if errFlag != nil {
@@ -64,7 +64,7 @@ func main() {
 
 }
 
-func validateConvertFlags(f, o string) (string, error) {
+func validateGenerateFlags(f, o string) (string, error) {
 	if f == "" || o == "" {
 		return "", errors.New("Input file and output path cannot be empty")
 	}
@@ -75,9 +75,9 @@ func validateConvertFlags(f, o string) (string, error) {
 	return out, nil
 }
 
-func convertXLS(f, out string) error {
+func generateJSON(f, out string) error {
 	// Read XLS file
-	err := service.NewComicListFromXLSX(f, out)
+	err := service.JsonGenerator(f, out)
 	if err != nil {
 		return err
 	}

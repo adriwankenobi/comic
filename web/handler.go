@@ -10,19 +10,6 @@ import (
 	"strings"
 )
 
-var htmlFiles = []string{
-	"template.html",
-	"tabs.html",
-	"tab-li.html",
-	"tab-content.html",
-	"tab-content-intro.html",
-	"tab-content-phase.html",
-	"clear-fix.html",
-	"issues.html",
-	"issue-content.html",
-	"not-found.html",
-}
-
 type jsonHandler func(p httprouter.Params) (service.JsonAble, error)
 type webHandler func(p httprouter.Params) (string, error)
 
@@ -38,7 +25,6 @@ func init() {
 	if err != nil {
 		return
 	}
-
 	c, err = readWebFiles(htmlFiles)
 	if err != nil {
 		return

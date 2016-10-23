@@ -5,6 +5,19 @@ import (
 	"github.com/adriwankenobi/comic/service"
 )
 
+var htmlFiles = []string{
+	"template.html",
+	"tabs.html",
+	"tab-li.html",
+	"tab-content.html",
+	"tab-content-intro.html",
+	"tab-content-phase.html",
+	"clear-fix.html",
+	"issues.html",
+	"issue-content.html",
+	"not-found.html",
+}
+
 func getIndexPage(issues *service.FissuesList) (string, error) {
 	introID := "intro"
 	issuesLi := fmt.Sprintf(c["tab-li"], "active", introID, introID, introID, "Intro")
