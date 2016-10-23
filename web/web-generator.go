@@ -5,7 +5,7 @@ import (
 	"github.com/adriwankenobi/comic/service"
 )
 
-func getIndexPage(issues *service.IssuesPhaseList) (string, error) {
+func getIndexPage(issues *service.FissuesList) (string, error) {
 	introID := "intro"
 	issuesLi := fmt.Sprintf(c["tab-li"], "active", introID, introID, introID, "Intro")
 	issuesContent := fmt.Sprintf(c["tab-content"], "active", introID, introID, introID, c["tab-content-intro"])

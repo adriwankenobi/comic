@@ -71,12 +71,12 @@ func init() {
 
 	// Get all first issues from all phases
 	router.GET("/api/fissues", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
-		return service.ListFirstIssues(j["issues-phases"])
+		return service.ListFirstIssues(j["fissues"])
 	}))
 
 	// Get all first issues from this phase
 	router.GET("/api/fissues/:id", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
-		return service.FindFirstIssuesByPhaseID(j["issues-phases"], p.ByName("id"))
+		return service.FindFirstIssuesByPhaseID(j["fissues"], p.ByName("id"))
 	}))
 
 	// Get all issues from this phase
@@ -93,7 +93,7 @@ func init() {
 
 	// Index -> Get all first issues from all phases
 	router.GET("/", webHandle(func(p httprouter.Params) (string, error) {
-		issues, err := service.ListFirstIssues(j["issues-phases"])
+		issues, err := service.ListFirstIssues(j["fissues"])
 		if err != nil {
 			return "", err
 		}

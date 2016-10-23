@@ -41,9 +41,9 @@ type JsonAble interface {
 type DatastoreType map[string]JsonAble
 
 var Datastore = DatastoreType{
-	"comics":        nil,
-	"phases":        nil,
-	"issues-phases": nil,
+	"comics":  nil,
+	"phases":  nil,
+	"fissues": nil,
 }
 
 // Comics
@@ -107,26 +107,26 @@ func (p *PhaseList) IsEmpty() bool {
 }
 
 // First issues
-type IssuesPhase struct {
+type Fissues struct {
 	Phase Phase     `json:"phase"`
 	List  ComicList `json:"list,omitempty"`
 }
-type IssuesPhaseList []IssuesPhase
+type FissuesList []Fissues
 
-func (i *IssuesPhase) ToJson() ([]byte, error) {
-	return json.MarshalIndent(i, "", "	")
+func (f *Fissues) ToJson() ([]byte, error) {
+	return json.MarshalIndent(f, "", "	")
 }
 
-func (i *IssuesPhase) IsEmpty() bool {
-	return i.Phase.IsEmpty() && i.List.IsEmpty()
+func (f *Fissues) IsEmpty() bool {
+	return f.Phase.IsEmpty() && f.List.IsEmpty()
 }
 
-func (i *IssuesPhaseList) ToJson() ([]byte, error) {
-	return json.MarshalIndent(i, "", "	")
+func (f *FissuesList) ToJson() ([]byte, error) {
+	return json.MarshalIndent(f, "", "	")
 }
 
-func (i *IssuesPhaseList) IsEmpty() bool {
-	return len(*i) <= 0
+func (f *FissuesList) IsEmpty() bool {
+	return len(*f) <= 0
 }
 
 // Constructors from jsonql
@@ -249,9 +249,9 @@ func NewPhaseList(in interface{}) (*PhaseList, error) {
 	return &phases, nil
 }
 
-func NewIssuesPhase(in interface{}) (IssuesPhase, error) {
+func NewFissues(in interface{}) (Fissues, error) {
 	m := in.(map[string]interface{})
-	is := IssuesPhase{}
+	is := Fissues{}
 	for i, e := range m {
 		switch i {
 		case "phase":
@@ -275,18 +275,18 @@ func NewIssuesPhase(in interface{}) (IssuesPhase, error) {
 	return is, nil
 }
 
-func NewIssuesPhaseList(in interface{}) (*IssuesPhaseList, error) {
+func NewFissuesList(in interface{}) (*FissuesList, error) {
 	all := in.([]interface{})
-	issuesPhases := make(IssuesPhaseList, len(all))
+	fissues := make(FissuesList, len(all))
 	for i, e := range all {
 		m := e.(map[string]interface{})
-		is, err := NewIssuesPhase(m)
+		is, err := NewFissues(m)
 		if err != nil {
-			return &issuesPhases, err
+			return &fissues, err
 		}
-		issuesPhases[i] = is
+		fissues[i] = is
 	}
-	return &issuesPhases, nil
+	return &fissues, nil
 }
 
 // Constructor from XLSX
@@ -298,7 +298,7 @@ func NewComicListFromXLSX(path, out string) error {
 	phases := PhaseList{}
 
 	// New issues phase list
-	issuesPhases := IssuesPhaseList{}
+	fissues := FissuesList{}
 
 	// Open file
 	xls, err := xlsx.OpenFile(path)
@@ -316,7 +316,7 @@ func NewComicListFromXLSX(path, out string) error {
 		p.Name = sheet.Name
 		phases = append(phases, p)
 
-		i := IssuesPhase{}
+		i := Fissues{}
 		i.Phase = p
 		i.List = ComicList{}
 
@@ -415,11 +415,11 @@ func NewComicListFromXLSX(path, out string) error {
 			comics = append(comics, c)
 		}
 
-		issuesPhases = append(issuesPhases, i)
+		fissues = append(fissues, i)
 	}
 	Datastore["comics"] = &comics
 	Datastore["phases"] = &phases
-	Datastore["issues-phases"] = &issuesPhases
+	Datastore["fissues"] = &fissues
 	return nil
 }
 

@@ -46,19 +46,19 @@ func ListPhases(phases *jsonql.JSONQL) (*PhaseList, error) {
 }
 
 // Find first issues
-func FindFirstIssuesByPhaseID(issuesPhases *jsonql.JSONQL, id string) (*IssuesPhase, error) {
-	list, err := FindIssuesPhaseList(issuesPhases, "phase.id='"+id+"'")
+func FindFirstIssuesByPhaseID(fissues *jsonql.JSONQL, id string) (*Fissues, error) {
+	list, err := FindFissuesList(fissues, "phase.id='"+id+"'")
 	if err != nil {
-		return &IssuesPhase{}, err
+		return &Fissues{}, err
 	}
 	if len(*list) <= 0 {
-		return &IssuesPhase{}, nil
+		return &Fissues{}, nil
 	}
 	return &(*list)[0], nil
 }
 
-func ListFirstIssues(issuesPhases *jsonql.JSONQL) (*IssuesPhaseList, error) {
-	return FindIssuesPhaseList(issuesPhases, "phase.id!=''")
+func ListFirstIssues(fissues *jsonql.JSONQL) (*FissuesList, error) {
+	return FindFissuesList(fissues, "phase.id!=''")
 }
 
 // Utils
@@ -78,10 +78,10 @@ func FindPhaseList(phases *jsonql.JSONQL, q string) (*PhaseList, error) {
 	return NewPhaseList(result)
 }
 
-func FindIssuesPhaseList(issuesPhases *jsonql.JSONQL, q string) (*IssuesPhaseList, error) {
-	result, err := issuesPhases.Query(q)
+func FindFissuesList(fissues *jsonql.JSONQL, q string) (*FissuesList, error) {
+	result, err := fissues.Query(q)
 	if err != nil {
 		return nil, err
 	}
-	return NewIssuesPhaseList(result)
+	return NewFissuesList(result)
 }
