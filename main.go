@@ -5,7 +5,6 @@ import (
 	"flag"
 	"fmt"
 	"github.com/adriwankenobi/comic/service"
-	"github.com/adriwankenobi/comic/web"
 	"io/ioutil"
 )
 
@@ -29,12 +28,8 @@ func main() {
 	if *convert {
 		out, errFlag := validateConvertFlags(*f, *o)
 		if errFlag == nil {
-			fmt.Printf("Converting from '%s' to '%s\n", *f, out)
-			err = convertXLS(*f,
-				fmt.Sprintf("%s/%s", out, web.ComicsFile),
-				fmt.Sprintf("%s/%s", out, web.PhasesFile),
-				fmt.Sprintf("%s/%s", out, web.FissuesFile),
-			)
+			fmt.Printf("Converting from '%s' to '%s'\n", *f, out)
+			err = convertXLS(*f, out)
 		}
 	}
 
@@ -80,38 +75,24 @@ func validateConvertFlags(f, o string) (string, error) {
 	return out, nil
 }
 
-func convertXLS(f, comicsOut, phasesOut, issuesPhasesOut string) error {
-
+func convertXLS(f, out string) error {
 	// Read XLS file
-	comics, phases, issuesPhases, err := service.NewComicListFromXLSX(f)
+	err := service.NewComicListFromXLSX(f, out)
 	if err != nil {
 		return err
 	}
 
 	// Write JSON files
-	json, err := comics.ToJson()
-	if err != nil {
-		return err
-	}
-	err = ioutil.WriteFile(comicsOut, json, 0644)
-	if err != nil {
-		return err
-	}
-	json, err = phases.ToJson()
-	if err != nil {
-		return err
-	}
-	err = ioutil.WriteFile(phasesOut, json, 0644)
-	if err != nil {
-		return err
-	}
-	json, err = issuesPhases.ToJson()
-	if err != nil {
-		return err
-	}
-	err = ioutil.WriteFile(issuesPhasesOut, json, 0644)
-	if err != nil {
-		return err
+	for key, value := range service.Datastore {
+		json, err := value.ToJson()
+		if err != nil {
+			return err
+		}
+		output := fmt.Sprintf("%s/%s.json", out, key)
+		err = ioutil.WriteFile(output, json, 0644)
+		if err != nil {
+			return err
+		}
 	}
 	fmt.Println("Done!")
 	return nil

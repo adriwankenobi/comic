@@ -32,6 +32,20 @@ const (
 	mandatory_cols = 12
 )
 
+type jsonAble interface {
+	ToJson() ([]byte, error)
+	IsEmpty() bool
+}
+
+// Datastore
+type DatastoreType map[string]jsonAble
+
+var Datastore = DatastoreType{
+	"comics":        nil,
+	"phases":        nil,
+	"issues-phases": nil,
+}
+
 // Comics
 type Comic struct {
 	ID         string   `json:"id,omitempty"`         // From Marvel API
@@ -275,8 +289,8 @@ func NewIssuesPhaseList(in interface{}) (*IssuesPhaseList, error) {
 	return &issuesPhases, nil
 }
 
-// Constructors from XLSX
-func NewComicListFromXLSX(path string) (ComicList, PhaseList, IssuesPhaseList, error) {
+// Constructor from XLSX
+func NewComicListFromXLSX(path, out string) error {
 	// New comic list
 	comics := ComicList{}
 
@@ -289,7 +303,7 @@ func NewComicListFromXLSX(path string) (ComicList, PhaseList, IssuesPhaseList, e
 	// Open file
 	xls, err := xlsx.OpenFile(path)
 	if err != nil {
-		return comics, phases, issuesPhases, err
+		return err
 	}
 
 	// Loop through file sheets
@@ -297,7 +311,7 @@ func NewComicListFromXLSX(path string) (ComicList, PhaseList, IssuesPhaseList, e
 		p := Phase{}
 		p.ID, err = getCode(sheet_i + 1)
 		if err != nil {
-			return comics, phases, issuesPhases, err
+			return err
 		}
 		p.Name = sheet.Name
 		phases = append(phases, p)
@@ -311,57 +325,57 @@ func NewComicListFromXLSX(path string) (ComicList, PhaseList, IssuesPhaseList, e
 		for _, row := range sheet.Rows[1:] {
 			id, err := row.Cells[id_col].String()
 			if err != nil {
-				return comics, phases, issuesPhases, err
+				return err
 			}
 			collection, err := row.Cells[collection_col].String()
 			if err != nil {
-				return comics, phases, issuesPhases, err
+				return err
 			}
 			vol, err := row.Cells[vol_col].Int()
 			if err != nil {
-				return comics, phases, issuesPhases, err
+				return err
 			}
 			num, err := row.Cells[num_col].Int()
 			if err != nil {
-				return comics, phases, issuesPhases, err
+				return err
 			}
 			title, err := row.Cells[title_col].String()
 			if err != nil {
-				return comics, phases, issuesPhases, err
+				return err
 			}
 			date, err := row.Cells[date_col].String()
 			if err != nil {
-				return comics, phases, issuesPhases, err
+				return err
 			}
 			event, err := row.Cells[event_col].String()
 			if err != nil {
-				return comics, phases, issuesPhases, err
+				return err
 			}
 			characters, err := row.Cells[characters_col].String()
 			if err != nil {
-				return comics, phases, issuesPhases, err
+				return err
 			}
 			creators, err := row.Cells[creators_col].String()
 			if err != nil {
-				return comics, phases, issuesPhases, err
+				return err
 			}
 			pic, err := row.Cells[pic_col].String()
 			if err != nil {
-				return comics, phases, issuesPhases, err
+				return err
 			}
 			universe, err := row.Cells[universe_col].String()
 			if err != nil {
-				return comics, phases, issuesPhases, err
+				return err
 			}
 			essential, err := row.Cells[essential_col].String()
 			if err != nil {
-				return comics, phases, issuesPhases, err
+				return err
 			}
 			var comments string
 			if len(row.Cells) > mandatory_cols {
 				comments, err = row.Cells[comments_col].String()
 				if err != nil {
-					return comics, phases, issuesPhases, err
+					return err
 				}
 			}
 			c := Comic{}
@@ -385,7 +399,7 @@ func NewComicListFromXLSX(path string) (ComicList, PhaseList, IssuesPhaseList, e
 				lastTitle = title
 				sID, err := getCode(sortID)
 				if err != nil {
-					return comics, phases, issuesPhases, err
+					return err
 				}
 				i.List = append(i.List, Comic{
 					Pic:    pic,
@@ -396,14 +410,17 @@ func NewComicListFromXLSX(path string) (ComicList, PhaseList, IssuesPhaseList, e
 			}
 			c.SortID, err = getCode(sortID)
 			if err != nil {
-				return comics, phases, issuesPhases, err
+				return err
 			}
 			comics = append(comics, c)
 		}
 
 		issuesPhases = append(issuesPhases, i)
 	}
-	return comics, phases, issuesPhases, nil
+	Datastore["comics"] = &comics
+	Datastore["phases"] = &phases
+	Datastore["issues-phases"] = &issuesPhases
+	return nil
 }
 
 // Update XLSX from MARVEL API

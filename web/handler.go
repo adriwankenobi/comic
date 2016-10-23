@@ -1,6 +1,7 @@
 package web
 
 import (
+	"fmt"
 	"github.com/adriwankenobi/comic/service"
 	"github.com/elgs/jsonql"
 	"github.com/julienschmidt/httprouter"
@@ -9,15 +10,17 @@ import (
 	"strings"
 )
 
-const (
-	ComicsFile  = "comics.json"
-	PhasesFile  = "phases.json"
-	FissuesFile = "issues-phases.json"
-)
-
-type jsonAble interface {
-	ToJson() ([]byte, error)
-	IsEmpty() bool
+var htmlFiles = []string{
+	"template.html",
+	"tabs.html",
+	"tab-li.html",
+	"tab-content.html",
+	"tab-content-intro.html",
+	"tab-content-phase.html",
+	"clear-fix.html",
+	"issues.html",
+	"issue-content.html",
+	"not-found.html",
 }
 
 type jsonHandler func(p httprouter.Params) (jsonAble, error)
@@ -31,27 +34,12 @@ var j jsonContent
 
 func init() {
 	// Read files
-	j, err := readJsonFiles([]string{
-		"comics.json",
-		"phases.json",
-		"issues-phases.json",
-	})
+	j, err := readJsonFiles(service.Datastore)
 	if err != nil {
 		return
 	}
 
-	c, err = readWebFiles([]string{
-		"template.html",
-		"tabs.html",
-		"tab-li.html",
-		"tab-content.html",
-		"tab-content-intro.html",
-		"tab-content-phase.html",
-		"clear-fix.html",
-		"issues.html",
-		"issue-content.html",
-		"not-found.html",
-	})
+	c, err = readWebFiles(htmlFiles)
 	if err != nil {
 		return
 	}
@@ -125,10 +113,10 @@ func init() {
 }
 
 // File readers
-func readJsonFiles(in []string) (jsonContent, error) {
+func readJsonFiles(in service.DatastoreType) (jsonContent, error) {
 	m := make(jsonContent)
-	for _, e := range in {
-		bytes, err := ioutil.ReadFile(e)
+	for _, e := range in.Keys() {
+		bytes, err := ioutil.ReadFile(fmt.Sprintf("%s.json", e))
 		if err != nil {
 			return m, err
 		}
