@@ -85,19 +85,40 @@ func init() {
 		}
 		return getIndexPage(issues)	
 	}))
-
+	
+	// Issues -> Get all first issues from this phases
+	router.GET("/phases/:id", webHandle(func(p httprouter.Params) (string, error) {
+		phases, err := service.ListPhases(j["phases"])
+		if err != nil {
+			return "", err
+		}
+		issues, err := service.FindFirstIssuesByPhaseID(j["fissues"], p.ByName("id"))
+		if err != nil {
+			return "", err
+		}
+		return getPhasePage(phases, issues)
+	}))
+	
 	// Issues -> Get all issues from this comic from this phase
 	router.GET("/phases/:id/issues/:sortid", webHandle(func(p httprouter.Params) (string, error) {
+		phases, err := service.ListPhases(j["phases"])
+		if err != nil {
+			return "", err
+		}
 		issues, err := service.ListComicsBySortID(j[fmt.Sprintf("comics-phase-%s", p.ByName("id"))], p.ByName("sortid"))
 		if err != nil {
 			return "", err
 		}
-		return getIssuesPage(issues)
+		return getIssuesPage(phases, issues)
 	}))
 	
 	// About
 	router.GET("/about", webHandle(func(p httprouter.Params) (string, error) {
-		return getAboutPage(), nil
+		phases, err := service.ListPhases(j["phases"])
+		if err != nil {
+			return "", err
+		}
+		return getAboutPage(phases), nil
 	}))
 
 	http.Handle("/", router)

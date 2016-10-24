@@ -5,6 +5,7 @@ import (
 	"flag"
 	"fmt"
 	"github.com/adriwankenobi/comic/service"
+	"github.com/adriwankenobi/comic/web"
 	"io/ioutil"
 )
 

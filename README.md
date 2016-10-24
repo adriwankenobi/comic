@@ -1,4 +1,7 @@
 # MARVEL comics management application
+Deployed at:
+
+	http://acerete-comic.appspot.com/
 
 Get MARVEL API key pair from:
 
