@@ -1330,7 +1330,7 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4f205c34141c0.jpg",
 		"universe": "Earth-616",
-		"comments": "The death of Odin",
+		"comments": "Odin dies",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "007"
@@ -3601,7 +3601,6 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/f0/577e6c883fc98.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Introduction of Xorn",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "020"
@@ -7747,7 +7746,7 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4babed3c773ef.jpg",
 		"universe": "Earth-616",
-		"comments": "Traducido",
+		"comments": "Translated",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "057"
@@ -7768,7 +7767,7 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/57643f05ed90b.jpg",
 		"universe": "Earth-616",
-		"comments": "Traducido",
+		"comments": "Translated",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "057"
@@ -7789,7 +7788,7 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/57643cc2c1015.jpg",
 		"universe": "Earth-616",
-		"comments": "Traducido",
+		"comments": "Translated",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "057"
@@ -7810,7 +7809,7 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/57643cac3fd9e.jpg",
 		"universe": "Earth-616",
-		"comments": "Traducido",
+		"comments": "Translated",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "057"
@@ -9616,7 +9615,7 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/5196815e28e90.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Cyclops and Emma Frost run the X-Men school",
+		"comments": "Cyclops and Emma Frost start running the X-Men school",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "072"
@@ -10054,6 +10053,7 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/56cde163656a1.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": "Norman Osborn and Gwen Stacy's infamous kids story",
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "076"

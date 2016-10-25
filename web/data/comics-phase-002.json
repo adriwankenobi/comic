@@ -8,12 +8,11 @@
 		"date": "2004-06-02",
 		"event": "Avengers Dissasembled",
 		"characters": [
-			"Thor"
+			"Thor",
+			"Loki"
 		],
 		"creators": [
-			"Steve Epting",
 			"Mike Avon Oeming",
-			"Laura Villari",
 			"Andrea Di Vito"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/56f2ca6c61f94.jpg",
@@ -32,15 +31,11 @@
 		"date": "2004-06-16",
 		"event": "Avengers Dissasembled",
 		"characters": [
-			"Avengers",
-			"Captain America",
-			"Iron Man",
-			"Thor"
+			"Thor",
+			"Loki"
 		],
 		"creators": [
-			"Steve Epting",
 			"Mike Avon Oeming",
-			"Laura Villari",
 			"Andrea Di Vito"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/56f2ca605a8c4.jpg",
@@ -59,12 +54,11 @@
 		"date": "2004-07-07",
 		"event": "Avengers Dissasembled",
 		"characters": [
-			"Thor"
+			"Thor",
+			"Loki"
 		],
 		"creators": [
-			"Steve Epting",
 			"Mike Avon Oeming",
-			"Laura Villari",
 			"Andrea Di Vito"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/56f2ca5509afe.jpg",
@@ -83,12 +77,11 @@
 		"date": "2004-08-04",
 		"event": "Avengers Dissasembled",
 		"characters": [
-			"Thor"
+			"Thor",
+			"Loki"
 		],
 		"creators": [
-			"Steve Epting",
 			"Mike Avon Oeming",
-			"Laura Villari",
 			"Andrea Di Vito"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/56f2ca0343ea5.jpg",
@@ -107,13 +100,11 @@
 		"date": "2004-09-01",
 		"event": "Avengers Dissasembled",
 		"characters": [
-			"Thor"
+			"Thor",
+			"Loki"
 		],
 		"creators": [
-			"Steve Epting",
-			"Randy Gentile",
 			"Mike Avon Oeming",
-			"Laura Villari",
 			"Andrea Di Vito"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/56f2c9a06235f.jpg",
@@ -132,13 +123,11 @@
 		"date": "2004-10-06",
 		"event": "Avengers Dissasembled",
 		"characters": [
-			"Thor"
+			"Thor",
+			"Loki"
 		],
 		"creators": [
-			"Steve Epting",
-			"Randy Gentile",
 			"Mike Avon Oeming",
-			"Laura Villari",
 			"Andrea Di Vito"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/56f2c9d73ebbc.jpg",
@@ -161,10 +150,8 @@
 			"Iron Man"
 		],
 		"creators": [
-			"Edgar Delgado",
-			"Steve Epting",
-			"Jorge Pereira Lucas",
-			"John Miller"
+			"John Jackson Miller",
+			"Jorge Lucas"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4d2526fe375bf.jpg",
 		"universe": "Earth-616",
@@ -184,10 +171,8 @@
 			"Iron Man"
 		],
 		"creators": [
-			"Edgar Delgado",
-			"Steve Epting",
-			"Jorge Pereira Lucas",
-			"John Miller"
+			"John Jackson Miller",
+			"Jorge Lucas"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4d250fc6c15f0.jpg",
 		"universe": "Earth-616",
@@ -207,8 +192,6 @@
 			"Spider-Man"
 		],
 		"creators": [
-			"Edgar Delgado",
-			"Steve Epting",
 			"Paul Jenkins",
 			"Michael Ryan"
 		],
@@ -230,8 +213,6 @@
 			"Spider-Man"
 		],
 		"creators": [
-			"Edgar Delgado",
-			"Steve Epting",
 			"Paul Jenkins",
 			"Michael Ryan"
 		],
@@ -253,8 +234,6 @@
 			"Spider-Man"
 		],
 		"creators": [
-			"Edgar Delgado",
-			"Wayne Faucher",
 			"Paul Jenkins",
 			"Humberto Ramos"
 		],
@@ -276,8 +255,6 @@
 			"Spider-Man"
 		],
 		"creators": [
-			"Edgar Delgado",
-			"Wayne Faucher",
 			"Paul Jenkins",
 			"Humberto Ramos"
 		],
@@ -299,9 +276,7 @@
 			"Spider-Man"
 		],
 		"creators": [
-			"Wayne Faucher",
 			"Paul Jenkins",
-			"Cory Petit",
 			"Humberto Ramos"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/57e55d8c436d6.jpg",
@@ -322,9 +297,7 @@
 			"Spider-Man"
 		],
 		"creators": [
-			"Wayne Faucher",
 			"Paul Jenkins",
-			"Cory Petit",
 			"Humberto Ramos"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/57e567e20c6cc.jpg",
@@ -342,14 +315,13 @@
 		"date": "2004-07-07",
 		"event": "Avengers Dissasembled",
 		"characters": [
-			""
+			"Steve Rogers",
+			"Sam Wilson",
+			"Scarlet Witch"
 		],
 		"creators": [
-			"Joe Bennett",
-			"Transparency Digital",
-			"Steve Epting",
-			"Jack Jadson",
-			"Christopher Priest"
+			"Christopher Priest",
+			"Joe Bennett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/51d2f06d04209.jpg",
 		"universe": "Earth-616",
@@ -366,13 +338,13 @@
 		"date": "2004-08-04",
 		"event": "Avengers Dissasembled",
 		"characters": [
-			""
+			"Steve Rogers",
+			"Sam Wilson",
+			"Scarlet Witch"
 		],
 		"creators": [
-			"Joe Bennett",
-			"Transparency Digital",
-			"Jack Jadson",
-			"Christopher Priest"
+			"Christopher Priest",
+			"Joe Bennett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/51d2f063a7fe1.jpg",
 		"universe": "Earth-616",
@@ -389,14 +361,13 @@
 		"date": "2004-09-01",
 		"event": "Avengers Dissasembled",
 		"characters": [
-			""
+			"Steve Rogers",
+			"Sam Wilson",
+			"Scarlet Witch"
 		],
 		"creators": [
-			"Joe Bennett",
-			"Transparency Digital",
-			"Jack Jadson",
 			"Christopher Priest",
-			"Dave Sharpe"
+			"Joe Bennett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/51e0587f7f723.jpg",
 		"universe": "Earth-616",
@@ -413,13 +384,23 @@
 		"date": "2004-09-15",
 		"event": "Avengers Dissasembled",
 		"characters": [
-			"Avengers"
+			"Avengers",
+			"Scott Lang",
+			"Steve Rogers",
+			"Sam Wilson",
+			"Hawkeye",
+			"Scarlet Witch",
+			"She-Hulk",
+			"Vision",
+			"Wasp",
+			"Hank Pym",
+			"Iron Man",
+			"Carol Danvers",
+			"Wonder Man"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Frank D'Armata",
-			"David Finch",
-			"Danny K. Miki"
+			"David Finch"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4f5a50d019d82.jpg",
 		"universe": "Earth-616",
@@ -438,13 +419,23 @@
 		"date": "2004-10-01",
 		"event": "Avengers Dissasembled",
 		"characters": [
-			"Avengers"
+			"Avengers",
+			"Scott Lang",
+			"Steve Rogers",
+			"Sam Wilson",
+			"Hawkeye",
+			"Scarlet Witch",
+			"She-Hulk",
+			"Vision",
+			"Wasp",
+			"Hank Pym",
+			"Iron Man",
+			"Carol Danvers",
+			"Wonder Man"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Frank D'Armata",
-			"David Finch",
-			"Danny K. Miki"
+			"David Finch"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4f5a50236ebb2.jpg",
 		"universe": "Earth-616",
@@ -463,18 +454,22 @@
 		"event": "Avengers Dissasembled",
 		"characters": [
 			"Avengers",
-			"Captain America",
+			"Scott Lang",
+			"Steve Rogers",
+			"Sam Wilson",
 			"Hawkeye",
-			"Iron Man",
 			"Scarlet Witch",
-			"Wasp"
+			"She-Hulk",
+			"Vision",
+			"Wasp",
+			"Hank Pym",
+			"Iron Man",
+			"Carol Danvers",
+			"Wonder Man"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Frank D'Armata",
-			"David Finch",
-			"Danny K. Miki",
-			"Richard Starkings"
+			"David Finch"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f58d176985bc.jpg",
 		"universe": "Earth-616",
@@ -493,14 +488,22 @@
 		"event": "Avengers Dissasembled",
 		"characters": [
 			"Avengers",
-			"Captain America"
+			"Scott Lang",
+			"Steve Rogers",
+			"Sam Wilson",
+			"Hawkeye",
+			"Scarlet Witch",
+			"She-Hulk",
+			"Vision",
+			"Wasp",
+			"Hank Pym",
+			"Iron Man",
+			"Carol Danvers",
+			"Wonder Man"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Frank D'Armata",
-			"David Finch",
-			"Danny K. Miki",
-			"Richard Starkings"
+			"David Finch"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4f5a4f71e8dd5.jpg",
 		"universe": "Earth-616",
@@ -518,11 +521,23 @@
 		"date": "2004-11-10",
 		"event": "Avengers Dissasembled",
 		"characters": [
-			""
+			"Avengers",
+			"Scott Lang",
+			"Steve Rogers",
+			"Sam Wilson",
+			"Hawkeye",
+			"Scarlet Witch",
+			"She-Hulk",
+			"Vision",
+			"Wasp",
+			"Hank Pym",
+			"Iron Man",
+			"Carol Danvers",
+			"Wonder Man"
 		],
 		"creators": [
-			"Neal Adams",
-			"Brian Michael Bendis"
+			"Brian Michael Bendis",
+			"David Finch"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/51e045c27a7b0.jpg",
 		"universe": "Earth-616",
@@ -542,11 +557,11 @@
 		"event": "Avengers Dissasembled",
 		"characters": [
 			"Captain America",
-			"Count Nefaria",
 			"Sharon Carter"
 		],
 		"creators": [
-			""
+			"Robert Kirkman",
+			"Scot Eaton"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/4e8b2947716c8.jpg",
 		"universe": "Earth-616",
@@ -564,11 +579,11 @@
 		"event": "Avengers Dissasembled",
 		"characters": [
 			"Captain America",
-			"Count Nefaria",
 			"Sharon Carter"
 		],
 		"creators": [
-			""
+			"Robert Kirkman",
+			"Scot Eaton"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4e8b2b833d073.jpg",
 		"universe": "Earth-616",
@@ -586,11 +601,11 @@
 		"event": "Avengers Dissasembled",
 		"characters": [
 			"Captain America",
-			"Ka-Zar",
 			"Sharon Carter"
 		],
 		"creators": [
-			""
+			"Robert Kirkman",
+			"Scot Eaton"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4e8b4d83564dd.jpg",
 		"universe": "Earth-616",
@@ -608,10 +623,11 @@
 		"event": "Avengers Dissasembled",
 		"characters": [
 			"Captain America",
-			"Nick Fury"
+			"Sharon Carter"
 		],
 		"creators": [
-			""
+			"Robert Kirkman",
+			"Scot Eaton"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/4e8b5fbcbdfcf.jpg",
 		"universe": "Earth-616",
@@ -631,11 +647,8 @@
 			"Iron Man"
 		],
 		"creators": [
-			"Tom Feister",
-			"Tony Harris",
-			"Pat Lee",
-			"J. D. Mettler",
-			"Mark Ricketts"
+			"Mark Ricketts",
+			"Tony Harris"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4d24e94fd08df.jpg",
 		"universe": "Earth-616",
@@ -655,11 +668,8 @@
 			"Iron Man"
 		],
 		"creators": [
-			"Tom Feister",
-			"Tony Harris",
-			"Pat Lee",
-			"J. D. Mettler",
-			"Mark Ricketts"
+			"Mark Ricketts",
+			"Tony Harris"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4d251531383aa.jpg",
 		"universe": "Earth-616",
@@ -679,12 +689,8 @@
 			"Iron Man"
 		],
 		"creators": [
-			"Tom Feister",
-			"Randy Gentile",
-			"Tony Harris",
-			"Pat Lee",
-			"J. D. Mettler",
-			"Mark Ricketts"
+			"Mark Ricketts",
+			"Tony Harris"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4d24fcb8df124.jpg",
 		"universe": "Earth-616",
@@ -704,12 +710,8 @@
 			"Iron Man"
 		],
 		"creators": [
-			"Tom Feister",
-			"Randy Gentile",
-			"Tony Harris",
-			"Pat Lee",
-			"J. D. Mettler",
-			"Mark Ricketts"
+			"Mark Ricketts",
+			"Scott Kolins"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4d2511fc3b7f0.jpg",
 		"universe": "Earth-616",
@@ -726,10 +728,13 @@
 		"date": "2004-08-18",
 		"event": "Avengers Dissasembled",
 		"characters": [
-			"Fantastic Four"
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing"
 		],
 		"creators": [
-			"Karl Kesel",
 			"Mark Waid",
 			"Mike Wieringo"
 		],
@@ -748,13 +753,15 @@
 		"date": "2004-09-15",
 		"event": "Avengers Dissasembled",
 		"characters": [
-			"Fantastic Four"
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing"
 		],
 		"creators": [
-			"Karl Kesel",
 			"Mark Waid",
-			"Mike Wieringo",
-			"Rus Wooton"
+			"Mike Wieringo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/57e972daf2e76.jpg",
 		"universe": "Earth-616",
@@ -771,13 +778,16 @@
 		"date": "2004-10-20",
 		"event": "Avengers Dissasembled",
 		"characters": [
-			"Fantastic Four"
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing",
+			"Galactus"
 		],
 		"creators": [
-			"Karl Kesel",
 			"Mark Waid",
-			"Mike Wieringo",
-			"Rus Wooton"
+			"Mike Wieringo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/57e9754707eaf.jpg",
 		"universe": "Earth-616",
