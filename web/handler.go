@@ -83,9 +83,9 @@ func init() {
 		if err != nil {
 			return "", err
 		}
-		return getIndexPage(issues)	
+		return getIndexPage(issues)
 	}))
-	
+
 	// Issues -> Get all first issues from this phases
 	router.GET("/phases/:id", webHandle(func(p httprouter.Params) (string, error) {
 		phases, err := service.ListPhases(j["phases"])
@@ -98,7 +98,7 @@ func init() {
 		}
 		return getPhasePage(phases, issues)
 	}))
-	
+
 	// Issues -> Get all issues from this comic from this phase
 	router.GET("/phases/:id/issues/:sortid", webHandle(func(p httprouter.Params) (string, error) {
 		phases, err := service.ListPhases(j["phases"])
@@ -111,7 +111,7 @@ func init() {
 		}
 		return getIssuesPage(phases, issues)
 	}))
-	
+
 	// About
 	router.GET("/about", webHandle(func(p httprouter.Params) (string, error) {
 		phases, err := service.ListPhases(j["phases"])

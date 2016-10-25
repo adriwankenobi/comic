@@ -6,11 +6,12 @@ import (
 	"strings"
 )
 
+// Index
 func getIndexPage(issues *service.FissuesList) (string, error) {
 	introID := "intro"
 	issuesLi := fmt.Sprintf(c["tab-li"], "active", introID, introID, introID, "Intro")
 	issuesContent := fmt.Sprintf(c["tab-content"], "active", introID, introID, introID, c["tab-content-intro"])
-	phases := []service.Phase{}
+	phases := service.PhaseList{}
 	for _, e := range *issues {
 		phaseID := fmt.Sprintf("phase%s", e.Phase.ID)
 		li := fmt.Sprintf(c["tab-li"], "", phaseID, phaseID, phaseID, e.Phase.Name)
@@ -22,11 +23,7 @@ func getIndexPage(issues *service.FissuesList) (string, error) {
 			if i.Date != "" {
 				year = i.Date[:4]
 			}
-			pic := "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
-			if i.Pic != "" {
-				pic = i.Pic
-			}
-			conIssue := fmt.Sprintf(c["tab-content-phase"], e.Phase.ID, i.SortID, pic, i.Title, year, "Protagonist", e.Phase.ID, i.SortID, i.Title)
+			conIssue := fmt.Sprintf(c["tab-content-phase"], e.Phase.ID, i.SortID, i.Pic, i.Title, year, "Protagonist", e.Phase.ID, i.SortID, i.Title)
 			conPhase = fmt.Sprintf("%s%s", conPhase, conIssue)
 		}
 		con := fmt.Sprintf(c["tab-content"], "", phaseID, phaseID, phaseID, conPhase)
@@ -34,15 +31,13 @@ func getIndexPage(issues *service.FissuesList) (string, error) {
 	}
 	issuesContent = fmt.Sprintf("%s%s", issuesContent, c["clear-fix"])
 	content := fmt.Sprintf(c["tabs"], issuesLi, issuesContent)
-	phasesMenu := getPhasesMenuList(phases, 3)
-	content = fmt.Sprintf(c["template"], phasesMenu[0], phasesMenu[1], phasesMenu[2], content)
-	return content, nil
+	return getTemplate(content, &phases), nil
 }
 
+// Issues
 func getIssuesPage(phases *service.PhaseList, issues *service.ComicList) (string, error) {
-	phasesMenu := getPhasesMenuList(*phases, 3)
 	if issues.IsEmpty() {
-		return getNotFoundPage(phasesMenu), nil
+		return getNotFoundPage(phases), nil
 	}
 
 	issuesContent := ""
@@ -60,14 +55,10 @@ func getIssuesPage(phases *service.PhaseList, issues *service.ComicList) (string
 		if e.Comments == "" {
 			displayComments = "none"
 		}
-		pic := "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
-		if e.Pic != "" {
-			pic = e.Pic
-		}
 		// TODO: For each comment
 		commentsList := fmt.Sprintf(c["list"], e.Comments)
 
-		con := fmt.Sprintf(c["issue-content"], name, e.PhaseID, e.SortID, pic, name,
+		con := fmt.Sprintf(c["issue-content"], name, e.PhaseID, e.SortID, e.Pic, name,
 			e.Collection,
 			e.Vol,
 			e.Num,
@@ -86,70 +77,42 @@ func getIssuesPage(phases *service.PhaseList, issues *service.ComicList) (string
 	}
 	issuesContent = fmt.Sprintf("%s%s", issuesContent, c["clear-fix"])
 	content := fmt.Sprintf(c["issues"], (*issues)[0].PhaseID, (*issues)[0].SortID, (*issues)[0].Title, issuesContent)
-	content = fmt.Sprintf(c["template"], phasesMenu[0], phasesMenu[1], phasesMenu[2], content)
-	return content, nil
+	return getTemplate(content, phases), nil
 }
 
+// Phase
 func getPhasePage(phases *service.PhaseList, fissues *service.Fissues) (string, error) {
-	phasesMenu := getPhasesMenuList(*phases, 3)
 	if fissues.IsEmpty() {
-		return getNotFoundPage(phasesMenu), nil
+		return getNotFoundPage(phases), nil
 	}
+
 	issues := (*fissues).List
+	phaseID := fissues.Phase.ID
 	issuesContent := ""
-	for _, e := range issues {
-		name := fmt.Sprintf("%s vol. %v #%v", e.Collection, e.Vol, e.Num)
-		essential := "NO"
-		if e.Essential {
-			essential = "YES"
+	for _, i := range issues {
+		year := ""
+		if i.Date != "" {
+			year = i.Date[:4]
 		}
-		displayEvent := "block"
-		if e.Event == "" {
-			displayEvent = "none"
-		}
-		displayComments := "block"
-		if e.Comments == "" {
-			displayComments = "none"
-		}
-		pic := "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
-		if e.Pic != "" {
-			pic = e.Pic
-		}
-		// TODO: For each comment
-		commentsList := fmt.Sprintf(c["list"], e.Comments)
-
-		con := fmt.Sprintf(c["issue-content"], name, e.PhaseID, e.SortID, pic, name,
-			e.Collection,
-			e.Vol,
-			e.Num,
-			e.Date,
-			e.Universe,
-			e.PhaseName,
-			displayEvent,
-			e.Event,
-			essential,
-			strings.Join(e.Characters, ", "),
-			strings.Join(e.Creators, ", "),
-			displayComments,
-			commentsList,
-		)
-		issuesContent = fmt.Sprintf("%s%s", issuesContent, con)
+		conIssue := fmt.Sprintf(c["tab-content-phase"], phaseID, i.SortID, i.Pic, i.Title, year, "Protagonist", phaseID, i.SortID, i.Title)
+		issuesContent = fmt.Sprintf("%s%s", issuesContent, conIssue)
 	}
-	issuesContent = fmt.Sprintf("%s%s", issuesContent, c["clear-fix"])
-	content := fmt.Sprintf(c["issues"], issues[0].PhaseID, issues[0].SortID, issues[0].Title, issuesContent)
-	content = fmt.Sprintf(c["template"], phasesMenu[0], phasesMenu[1], phasesMenu[2], content)
-	return content, nil
+	content := fmt.Sprintf(c["phase"], fissues.Phase.Name, issuesContent)
+	return getTemplate(content, phases), nil
 }
 
+// About
 func getAboutPage(phases *service.PhaseList) string {
-	phasesMenu := getPhasesMenuList(*phases, 3)
-	return fmt.Sprintf(c["template"], phasesMenu[0], phasesMenu[1], phasesMenu[2], c["about"])
+	return getTemplate(c["about"], phases)
 }
 
-func getNotFoundPage(phasesMenu []string) string {
-	return fmt.Sprintf(c["template"], phasesMenu[0], phasesMenu[1], phasesMenu[2], c["not-found"])
+// Not found
+func getNotFoundPage(phases *service.PhaseList) string {
+	return getTemplate(c["not-found"], phases)
 }
 
+// Utils
+// Menu
 func getPhasesMenuList(phases []service.Phase, n int) []string {
 	result := make([]string, n)
 	m := len(phases) / n
@@ -164,11 +127,22 @@ func getPhasesMenuList(phases []service.Phase, n int) []string {
 		}
 		for j := start; j < end; j++ {
 			link := fmt.Sprintf("/phases/%s", phases[j].ID)
-		    li := fmt.Sprintf(c["list-link"], link, phases[j].Name)
-		    list = fmt.Sprintf("%s%s", list, li)
+			title := fmt.Sprintf("%v - %s", j+1, phases[j].Name)
+			li := fmt.Sprintf(c["list-link"], link, title)
+			list = fmt.Sprintf("%s%s", list, li)
 		}
 		result[i] = list
 		start = end
 	}
 	return result
+}
+
+func getTemplate(content string, phases *service.PhaseList) string {
+	phasesMenu := getPhasesMenuList(*phases, 3)
+	return fmt.Sprintf(c["template"],
+		phasesMenu[0],
+		phasesMenu[1],
+		phasesMenu[2],
+		content,
+	)
 }
