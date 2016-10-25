@@ -64,6 +64,7 @@ func getIssuesPage(phases *service.PhaseList, issues *service.ComicList) (string
 			e.Num,
 			e.Date,
 			e.Universe,
+			e.PhaseID,
 			e.PhaseName,
 			displayEvent,
 			e.Event,
