@@ -31,7 +31,7 @@ func getIndexPage(issues *service.FissuesList) (string, error) {
 	}
 	issuesContent = fmt.Sprintf("%s%s", issuesContent, c["clear-fix"])
 	content := fmt.Sprintf(c["tabs"], issuesLi, issuesContent)
-	return getTemplate(content, &phases), nil
+	return getTemplate(content, &phases, 0), nil
 }
 
 // Issues
@@ -78,7 +78,7 @@ func getIssuesPage(phases *service.PhaseList, issues *service.ComicList) (string
 	}
 	issuesContent = fmt.Sprintf("%s%s", issuesContent, c["clear-fix"])
 	content := fmt.Sprintf(c["issues"], (*issues)[0].PhaseID, (*issues)[0].SortID, (*issues)[0].Title, issuesContent)
-	return getTemplate(content, phases), nil
+	return getTemplate(content, phases, -1), nil
 }
 
 // Phase
@@ -99,17 +99,17 @@ func getPhasePage(phases *service.PhaseList, fissues *service.Fissues) (string, 
 		issuesContent = fmt.Sprintf("%s%s", issuesContent, conIssue)
 	}
 	content := fmt.Sprintf(c["phase"], fissues.Phase.Name, issuesContent)
-	return getTemplate(content, phases), nil
+	return getTemplate(content, phases, 1), nil
 }
 
 // About
 func getAboutPage(phases *service.PhaseList) string {
-	return getTemplate(c["about"], phases)
+	return getTemplate(c["about"], phases, 2)
 }
 
 // Not found
 func getNotFoundPage(phases *service.PhaseList) string {
-	return getTemplate(c["not-found"], phases)
+	return getTemplate(c["not-found"], phases, -1)
 }
 
 // Utils
@@ -138,12 +138,19 @@ func getPhasesMenuList(phases []service.Phase, n int) []string {
 	return result
 }
 
-func getTemplate(content string, phases *service.PhaseList) string {
+func getTemplate(content string, phases *service.PhaseList, n int) string {
 	phasesMenu := getPhasesMenuList(*phases, 3)
+	active := [3]string{"", "", ""}
+	if n >= 0 && n <= 3 {
+		active[n] = "active"
+	}
 	return fmt.Sprintf(c["template"],
+		active[0],
+		active[1],
 		phasesMenu[0],
 		phasesMenu[1],
 		phasesMenu[2],
+		active[2],
 		content,
 	)
 }
