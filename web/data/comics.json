@@ -2784,7 +2784,6 @@
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Marvel Knights",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/57277fa704a8c.jpg",
@@ -2806,7 +2805,6 @@
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Marvel Knights",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/5727805f3e036.jpg",
@@ -2848,9 +2846,8 @@
 			"Daredevil"
 		],
 		"creators": [
-			"Joe Bennett",
-			"Alex Maleev",
-			"Rob Rodi"
+			"Brian Michael Bendis",
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/572781d374f5c.jpg",
 		"universe": "Earth-616",
@@ -2870,7 +2867,7 @@
 			"Daredevil"
 		],
 		"creators": [
-			"Marvel Knights",
+			"Brian Michael Bendis",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/57278298b2bb6.jpg",
@@ -11056,14 +11053,16 @@
 		"num": 520,
 		"date": "2004-11-17",
 		"characters": [
-			"Fantastic Four"
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing",
+			"Galactus"
 		],
 		"creators": [
-			"Karl Kesel",
-			"Paul Mounts",
 			"Mark Waid",
-			"Mike Wieringo",
-			"Rus Wooton"
+			"Mike Wieringo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/57e9787f70001.jpg",
 		"universe": "Earth-616",
@@ -11079,14 +11078,16 @@
 		"num": 521,
 		"date": "2004-12-15",
 		"characters": [
-			"Fantastic Four"
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing",
+			"Galactus"
 		],
 		"creators": [
-			"Karl Kesel",
-			"Paul Mounts",
 			"Mark Waid",
-			"Mike Wieringo",
-			"Rus Wooton"
+			"Mike Wieringo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/57e9729445677.jpg",
 		"universe": "Earth-616",
@@ -11102,14 +11103,16 @@
 		"num": 522,
 		"date": "2005-01-26",
 		"characters": [
-			"Fantastic Four"
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing",
+			"Galactus"
 		],
 		"creators": [
-			"Karl Kesel",
-			"Paul Mounts",
 			"Mark Waid",
-			"Mike Wieringo",
-			"Rus Wooton"
+			"Mike Wieringo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/57e97281b1ebf.jpg",
 		"universe": "Earth-616",
@@ -11125,14 +11128,16 @@
 		"num": 523,
 		"date": "2005-02-23",
 		"characters": [
-			"Fantastic Four"
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing",
+			"Galactus"
 		],
 		"creators": [
-			"Karl Kesel",
-			"Paul Mounts",
 			"Mark Waid",
-			"Mike Wieringo",
-			"Rus Wooton"
+			"Mike Wieringo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc4790f5f8a2.jpg",
 		"universe": "Earth-616",
@@ -11149,17 +11154,14 @@
 		"date": "2005-03-30",
 		"characters": [
 			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
 			"Human Torch",
-			"Invisible Woman",
-			"Mr. Fantastic",
 			"Thing"
 		],
 		"creators": [
-			"Karl Kesel",
-			"Paul Mounts",
 			"Mark Waid",
-			"Mike Wieringo",
-			"Rus Wooton"
+			"Mike Wieringo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/57e972b09027e.jpg",
 		"universe": "Earth-616",
@@ -11175,12 +11177,17 @@
 		"num": 444,
 		"date": "2004-05-05",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Cannonball"
 		],
 		"creators": [
 			"Chris Claremont",
-			"Mark Farmer",
-			"Liquid Graphics"
+			"Alan Davis"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc688085d41a.jpg",
 		"universe": "Earth-616",
@@ -11196,12 +11203,17 @@
 		"num": 445,
 		"date": "2004-06-02",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Cannonball"
 		],
 		"creators": [
 			"Chris Claremont",
-			"Frank D'Armata",
-			"Mark Farmer"
+			"Alan Davis"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4bc6831c3450a.jpg",
 		"universe": "Earth-616",
@@ -11217,12 +11229,17 @@
 		"num": 446,
 		"date": "2004-07-07",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Cannonball"
 		],
 		"creators": [
 			"Chris Claremont",
-			"Frank D'Armata",
-			"Mark Farmer"
+			"Alan Davis"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bc68b1b3801e.jpg",
 		"universe": "Earth-616",
@@ -11238,12 +11255,17 @@
 		"num": 447,
 		"date": "2004-08-04",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Cannonball"
 		],
 		"creators": [
 			"Chris Claremont",
-			"Frank D'Armata",
-			"Mark Farmer"
+			"Alan Davis"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4bc68f57ad599.jpg",
 		"universe": "Earth-616",
@@ -11259,15 +11281,17 @@
 		"num": 448,
 		"date": "2004-09-01",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Cannonball"
 		],
 		"creators": [
-			"Chris Chuckry",
 			"Chris Claremont",
-			"Olivier Coipel",
-			"Scott Hanna",
-			"Greg Land",
-			"Rus Wooton"
+			"Olivier Coipel"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/4bc67b93b7fd8.jpg",
 		"universe": "Earth-616",
@@ -11283,15 +11307,17 @@
 		"num": 449,
 		"date": "2004-09-22",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Cannonball"
 		],
 		"creators": [
-			"Chris Chuckry",
 			"Chris Claremont",
-			"Olivier Coipel",
-			"Scott Hanna",
-			"Greg Land",
-			"Rus Wooton"
+			"Olivier Coipel"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/553a49ab1bfb5.jpg",
 		"universe": "Earth-616",
@@ -11307,13 +11333,18 @@
 		"num": 450,
 		"date": "2004-10-06",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Cannonball",
+			"X-23"
 		],
 		"creators": [
 			"Chris Claremont",
-			"Frank D'Armata",
-			"Mark Farmer",
-			"Rus Wooton"
+			"Alan Davis"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc6767cd04bb.jpg",
 		"universe": "Earth-616",
@@ -11329,12 +11360,18 @@
 		"num": 451,
 		"date": "2004-10-20",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Cannonball",
+			"X-23"
 		],
 		"creators": [
 			"Chris Claremont",
-			"Mark Farmer",
-			"Rus Wooton"
+			"Alan Davis"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4bc67341161c2.jpg",
 		"universe": "Earth-616",
@@ -11350,14 +11387,17 @@
 		"num": 452,
 		"date": "2004-11-03",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Cannonball"
 		],
 		"creators": [
 			"Chris Claremont",
-			"Andy Park",
-			"Jonathan Sibal",
-			"Paul Smith",
-			"Rus Wooton"
+			"Andy Park"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/4bc6b59487841.jpg",
 		"universe": "Earth-616",
@@ -11373,15 +11413,17 @@
 		"num": 453,
 		"date": "2004-12-01",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Cannonball"
 		],
 		"creators": [
 			"Chris Claremont",
-			"Greg Land",
-			"Andy Park",
-			"Justin Ponsor",
-			"Jonathan Sibal",
-			"Rus Wooton"
+			"Andy Park"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc65f8bcc920.jpg",
 		"universe": "Earth-616",
@@ -11397,15 +11439,17 @@
 		"num": 454,
 		"date": "2005-01-05",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Cannonball"
 		],
 		"creators": [
 			"Chris Claremont",
-			"Andy Park",
-			"Justin Ponsor",
-			"Jonathan Sibal",
-			"Paul Smith",
-			"Rus Wooton"
+			"Andy Park"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bc654d565ab1.jpg",
 		"universe": "Earth-616",
@@ -11421,13 +11465,10 @@
 		"num": 1,
 		"date": "2004-05-12",
 		"characters": [
-			""
+			"Bishop"
 		],
 		"creators": [
 			"David Hine",
-			"Steve McNiven",
-			"Alejandro Sicat",
-			"Avalon Studio",
 			"David Yardin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc68803ae54c.jpg",
@@ -11444,13 +11485,10 @@
 		"num": 2,
 		"date": "2004-06-09",
 		"characters": [
-			""
+			"Bishop"
 		],
 		"creators": [
 			"David Hine",
-			"Steve McNiven",
-			"Alejandro Sicat",
-			"Avalon Studio",
 			"David Yardin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc6830e2793b.jpg",
@@ -11467,13 +11505,10 @@
 		"num": 3,
 		"date": "2004-07-14",
 		"characters": [
-			""
+			"Bishop"
 		],
 		"creators": [
 			"David Hine",
-			"Steve McNiven",
-			"Alejandro Sicat",
-			"Avalon Studio",
 			"David Yardin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bc68b3db396b.jpg",
@@ -11490,14 +11525,11 @@
 		"num": 4,
 		"date": "2004-08-11",
 		"characters": [
-			""
+			"Bishop"
 		],
 		"creators": [
 			"David Hine",
-			"Steve McNiven",
-			"Lan Medina",
-			"Alejandro Sicat",
-			"Avalon Studio"
+			"Lan Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4bc6898c6c135.jpg",
 		"universe": "Earth-616",
@@ -11513,14 +11545,10 @@
 		"num": 5,
 		"date": "2004-09-08",
 		"characters": [
-			""
+			"Bishop"
 		],
 		"creators": [
 			"David Hine",
-			"Steve McNiven",
-			"Alejandro Sicat",
-			"Richard Starkings",
-			"Avalon Studio",
 			"David Yardin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/4bc67b5e9e7a8.jpg",
@@ -11537,15 +11565,11 @@
 		"num": 6,
 		"date": "2004-10-13",
 		"characters": [
-			""
+			"Bishop"
 		],
 		"creators": [
 			"David Hine",
-			"Steve McNiven",
-			"Alejandro Sicat",
-			"Richard Starkings",
-			"Avalon Studio",
-			"David Yardin"
+			"Mike Perkins"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/4bc6737f08828.jpg",
 		"universe": "Earth-616",
@@ -11561,13 +11585,14 @@
 		"num": 1,
 		"date": "2004-09-15",
 		"characters": [
-			"Madrox"
+			"X-Factor",
+			"Madrox",
+			"Strong Guy",
+			"Wolfsbane"
 		],
 		"creators": [
 			"Peter David",
-			"David Lloyd",
-			"Pablo Raimondi",
-			"Brian Reber"
+			"Pablo Raimondi"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bc67870dabe8.jpg",
 		"universe": "Earth-616",
@@ -11583,13 +11608,14 @@
 		"num": 2,
 		"date": "2004-10-20",
 		"characters": [
-			"Madrox"
+			"X-Factor",
+			"Madrox",
+			"Strong Guy",
+			"Wolfsbane"
 		],
 		"creators": [
 			"Peter David",
-			"David Lloyd",
-			"Pablo Raimondi",
-			"Brian Reber"
+			"Pablo Raimondi"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4c7d67a917c64.jpg",
 		"universe": "Earth-616",
@@ -11605,15 +11631,14 @@
 		"num": 3,
 		"date": "2004-11-17",
 		"characters": [
-			"Madrox"
+			"X-Factor",
+			"Madrox",
+			"Strong Guy",
+			"Wolfsbane"
 		],
 		"creators": [
 			"Peter David",
-			"Andrew Hennessy",
-			"David Lloyd",
-			"Cory Petit",
-			"Pablo Raimondi",
-			"Brian Reber"
+			"Pablo Raimondi"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
 		"universe": "Earth-616",
@@ -11629,15 +11654,14 @@
 		"num": 4,
 		"date": "2004-12-15",
 		"characters": [
-			"Madrox"
+			"X-Factor",
+			"Madrox",
+			"Strong Guy",
+			"Wolfsbane"
 		],
 		"creators": [
 			"Peter David",
-			"Andrew Hennessy",
-			"David Lloyd",
-			"Cory Petit",
-			"Pablo Raimondi",
-			"Brian Reber"
+			"Pablo Raimondi"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bc65de11ea17.jpg",
 		"universe": "Earth-616",
@@ -11653,15 +11677,14 @@
 		"num": 5,
 		"date": "2005-01-19",
 		"characters": [
-			"Madrox"
+			"X-Factor",
+			"Madrox",
+			"Strong Guy",
+			"Wolfsbane"
 		],
 		"creators": [
 			"Peter David",
-			"Andrew Hennessy",
-			"David Lloyd",
-			"Cory Petit",
-			"Pablo Raimondi",
-			"Brian Reber"
+			"Pablo Raimondi"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4bc6575d3762d.jpg",
 		"universe": "Earth-616",
@@ -11680,10 +11703,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Randall Green",
-			"Rick Ketcham",
-			"Peter Pantazis",
-			"Christina Weir"
+			"Christina Weir",
+			"Randy Green"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/5702aadacc828.jpg",
 		"universe": "Earth-616",
@@ -11702,10 +11723,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Tom Chu",
-			"Randall Green",
-			"Rick Ketcham",
-			"Christina Weir"
+			"Christina Weir",
+			"Randy Green"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5702aa68846f9.jpg",
 		"universe": "Earth-616",
@@ -11724,11 +11743,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Randall Green",
-			"Staz Johnson",
-			"Rick Ketcham",
-			"Peter Pantazis",
-			"Christina Weir"
+			"Christina Weir",
+			"Staz Johnson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5702aa1f9f909.jpg",
 		"universe": "Earth-616",
@@ -11747,11 +11763,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Randall Green",
-			"Staz Johnson",
-			"Rick Ketcham",
-			"Peter Pantazis",
-			"Christina Weir"
+			"Christina Weir",
+			"Staz Johnson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5702aaf598bb8.jpg",
 		"universe": "Earth-616",
@@ -11770,12 +11783,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Randall Green",
-			"Staz Johnson",
-			"Rick Ketcham",
-			"Peter Pantazis",
-			"Dave Sharpe",
-			"Christina Weir"
+			"Christina Weir",
+			"Michael Ryan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/5702aaa92d406.jpg",
 		"universe": "Earth-616",
@@ -11794,12 +11803,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Randall Green",
-			"Staz Johnson",
-			"Rick Ketcham",
-			"Peter Pantazis",
-			"Dave Sharpe",
-			"Christina Weir"
+			"Christina Weir",
+			"Michael Ryan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5702aa9d45d18.jpg",
 		"universe": "Earth-616",
@@ -11815,11 +11820,12 @@
 		"num": 1,
 		"date": "2003-10-01",
 		"characters": [
+			"Cosmic",
+			"Thanos",
 			"Adam Warlock",
-			"Thanos"
+			"Galactus"
 		],
 		"creators": [
-			"Al Milgrom",
 			"Jim Starlin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/577ea4c217030.jpg",
@@ -11836,11 +11842,12 @@
 		"num": 2,
 		"date": "2003-11-05",
 		"characters": [
+			"Cosmic",
+			"Thanos",
 			"Adam Warlock",
-			"Thanos"
+			"Galactus"
 		],
 		"creators": [
-			"Al Milgrom",
 			"Jim Starlin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/577eaab4676b9.jpg",
@@ -11857,11 +11864,12 @@
 		"num": 3,
 		"date": "2003-12-03",
 		"characters": [
-			"Galactus",
-			"Thanos"
+			"Cosmic",
+			"Thanos",
+			"Adam Warlock",
+			"Galactus"
 		],
 		"creators": [
-			"Al Milgrom",
 			"Jim Starlin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/577eb29f09a39.jpg",
@@ -11878,13 +11886,12 @@
 		"num": 4,
 		"date": "2004-01-07",
 		"characters": [
+			"Cosmic",
+			"Thanos",
 			"Adam Warlock",
-			"Galactus",
-			"Pip",
-			"Thanos"
+			"Galactus"
 		],
 		"creators": [
-			"Al Milgrom",
 			"Jim Starlin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/577eb8c673296.jpg",
@@ -11901,11 +11908,12 @@
 		"num": 5,
 		"date": "2004-01-21",
 		"characters": [
-			"Galactus",
-			"Thanos"
+			"Cosmic",
+			"Thanos",
+			"Adam Warlock",
+			"Galactus"
 		],
 		"creators": [
-			"Al Milgrom",
 			"Jim Starlin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/577fa39917d8c.jpg",
@@ -11922,13 +11930,12 @@
 		"num": 6,
 		"date": "2004-02-04",
 		"characters": [
+			"Cosmic",
+			"Thanos",
 			"Adam Warlock",
-			"Galactus",
-			"Pip",
-			"Thanos"
+			"Galactus"
 		],
 		"creators": [
-			"Al Milgrom",
 			"Jim Starlin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/577fac0b86a0d.jpg",
@@ -11945,12 +11952,14 @@
 		"num": 7,
 		"date": "2004-03-03",
 		"characters": [
-			"Thanos"
+			"Cosmic",
+			"Thanos",
+			"Star-Lord",
+			"Galactus"
 		],
 		"creators": [
 			"Keith Giffen",
-			"Ron Lim",
-			"Jim Starlin"
+			"Ron Lim"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/04/577faf41bf9ff.jpg",
 		"universe": "Earth-616",
@@ -11966,7 +11975,10 @@
 		"num": 8,
 		"date": "2004-03-17",
 		"characters": [
-			"Thanos"
+			"Cosmic",
+			"Thanos",
+			"Star-Lord",
+			"Galactus"
 		],
 		"creators": [
 			"Keith Giffen",
@@ -11986,7 +11998,10 @@
 		"num": 9,
 		"date": "2004-04-07",
 		"characters": [
-			"Thanos"
+			"Cosmic",
+			"Thanos",
+			"Star-Lord",
+			"Galactus"
 		],
 		"creators": [
 			"Keith Giffen",
@@ -12006,15 +12021,14 @@
 		"num": 10,
 		"date": "2004-05-05",
 		"characters": [
-			"Skreet",
-			"Star-Lord (Peter Quill)",
-			"Thanos"
+			"Cosmic",
+			"Thanos",
+			"Star-Lord",
+			"Galactus"
 		],
 		"creators": [
 			"Keith Giffen",
-			"Ron Lim",
-			"Al Milgrom",
-			"Christie Scheele"
+			"Ron Lim"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/577fc808dd6fc.jpg",
 		"universe": "Earth-616",
@@ -12030,16 +12044,14 @@
 		"num": 11,
 		"date": "2004-06-02",
 		"characters": [
-			"Galactus",
-			"Peter Quill",
-			"Skreet",
-			"Thanos"
+			"Cosmic",
+			"Thanos",
+			"Star-Lord",
+			"Galactus"
 		],
 		"creators": [
 			"Keith Giffen",
-			"Ron Lim",
-			"Al Milgrom",
-			"Christie Scheele"
+			"Ron Lim"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/577fcdbf254be.jpg",
 		"universe": "Earth-616",
@@ -12055,16 +12067,14 @@
 		"num": 12,
 		"date": "2004-07-07",
 		"characters": [
-			"Galactus",
-			"Peter Quill",
-			"Skreet",
-			"Thanos"
+			"Cosmic",
+			"Thanos",
+			"Star-Lord",
+			"Galactus"
 		],
 		"creators": [
 			"Keith Giffen",
-			"Ron Lim",
-			"Al Milgrom",
-			"Christie Scheele"
+			"Ron Lim"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/577fdbd4e9557.jpg",
 		"universe": "Earth-616",
@@ -12080,17 +12090,17 @@
 		"num": 1,
 		"date": "2005-02-09",
 		"characters": [
+			"Young Avengers",
 			"Hulkling",
-			"Iron Lad",
 			"Patriot",
 			"Wiccan",
-			"Young Avengers"
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Jim Cheung",
-			"John Dell",
 			"Allan Heinberg",
-			"Justin Ponsor"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/564259ee974d5.jpg",
 		"universe": "Earth-616",
@@ -12108,18 +12118,17 @@
 		"num": 2,
 		"date": "2005-03-16",
 		"characters": [
+			"Young Avengers",
 			"Hulkling",
-			"Iron Lad",
 			"Patriot",
 			"Wiccan",
-			"Young Avengers"
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Jim Cheung",
-			"John Dell",
 			"Allan Heinberg",
-			"Cory Petit",
-			"Justin Ponsor"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bc64c48a95b9.jpg",
 		"universe": "Earth-616",
@@ -12136,14 +12145,17 @@
 		"num": 3,
 		"date": "2005-04-20",
 		"characters": [
-			"Young Avengers"
+			"Young Avengers",
+			"Hulkling",
+			"Patriot",
+			"Wiccan",
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Jim Cheung",
-			"John Dell",
 			"Allan Heinberg",
-			"Cory Petit",
-			"Justin Ponsor"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bc644df04650.jpg",
 		"universe": "Earth-616",
@@ -12160,19 +12172,17 @@
 		"num": 4,
 		"date": "2005-05-11",
 		"characters": [
-			"Captain America",
-			"Iron Lad",
-			"Iron Man",
-			"Kang",
+			"Young Avengers",
+			"Hulkling",
 			"Patriot",
-			"Young Avengers"
+			"Wiccan",
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Jim Cheung",
-			"John Dell",
 			"Allan Heinberg",
-			"Cory Petit",
-			"Justin Ponsor"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bc63e3d91062.jpg",
 		"universe": "Earth-616",
@@ -12189,14 +12199,17 @@
 		"num": 5,
 		"date": "2005-06-29",
 		"characters": [
-			"Young Avengers"
+			"Young Avengers",
+			"Hulkling",
+			"Patriot",
+			"Wiccan",
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Jim Cheung",
-			"John Dell",
 			"Allan Heinberg",
-			"Cory Petit",
-			"Justin Ponsor"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc6386b33cf3.jpg",
 		"universe": "Earth-616",
@@ -12213,19 +12226,17 @@
 		"num": 6,
 		"date": "2005-07-20",
 		"characters": [
-			"Hawkeye (Kate Bishop)",
+			"Young Avengers",
 			"Hulkling",
 			"Patriot",
-			"Stature",
 			"Wiccan",
-			"Young Avengers"
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Jim Cheung",
-			"John Dell",
 			"Allan Heinberg",
-			"Cory Petit",
-			"Justin Ponsor"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/4bc631d2a7b50.jpg",
 		"universe": "Earth-616",
@@ -12242,17 +12253,15 @@
 		"num": 1,
 		"date": "2004-06-30",
 		"characters": [
-			"Spider-Girl (Anya Corazon)"
+			"Anya Corazon"
 		],
 		"creators": [
 			"Fiona Avery",
-			"Mark Brooks",
-			"Udon Comics",
-			"Jaime Mendoza"
+			"Mark Brooks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56cb7746bd44a.jpg",
 		"universe": "Earth-616",
-		"comments": "Anya Corazón origins - traducido",
+		"comments": "Anya Corazón origins, Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -12265,17 +12274,15 @@
 		"num": 2,
 		"date": "2004-07-28",
 		"characters": [
-			"Spider-Girl (Anya Corazon)"
+			"Anya Corazon"
 		],
 		"creators": [
 			"Fiona Avery",
-			"Mark Brooks",
-			"Udon Comics",
-			"Jaime Mendoza"
+			"Mark Brooks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/56cb6bb538602.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -12288,18 +12295,15 @@
 		"num": 3,
 		"date": "2004-08-25",
 		"characters": [
-			"Spider-Girl (Anya Corazon)"
+			"Anya Corazon"
 		],
 		"creators": [
 			"Fiona Avery",
-			"Mark Brooks",
-			"Udon Comics",
-			"Roger Cruz",
-			"Jaime Mendoza"
+			"Mark Brooks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/56cb6d2cd1338.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -12312,18 +12316,15 @@
 		"num": 4,
 		"date": "2004-09-29",
 		"characters": [
-			"Spider-Girl (Anya Corazon)"
+			"Anya Corazon"
 		],
 		"creators": [
 			"Fiona Avery",
-			"Mark Brooks",
-			"Udon Comics",
-			"Jaime Mendoza",
-			"Rus Wooton"
+			"Mark Brooks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/56cb6ee146ef6.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -12336,18 +12337,15 @@
 		"num": 5,
 		"date": "2004-10-27",
 		"characters": [
-			"Spider-Girl (Anya Corazon)"
+			"Anya Corazon"
 		],
 		"creators": [
 			"Fiona Avery",
-			"Mark Brooks",
-			"Udon Comics",
-			"Jaime Mendoza",
-			"Rus Wooton"
+			"Mark Brooks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/56cb6fa2dd2c3.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -12360,17 +12358,15 @@
 		"num": 6,
 		"date": "2004-11-24",
 		"characters": [
-			"Spider-Girl (Anya Corazon)"
+			"Anya Corazon"
 		],
 		"creators": [
 			"Fiona Avery",
-			"Mark Brooks",
-			"Udon Comics",
-			"Rus Wooton"
+			"Mark Brooks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/56cb7028ce644.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -12383,12 +12379,12 @@
 		"num": 1,
 		"date": "2004-03-24",
 		"characters": [
+			"Cable",
 			"Deadpool"
 		],
 		"creators": [
-			"Mark Brooks",
-			"Rob Liefeld",
-			"Fabian Nicieza"
+			"Fabian Nicieza",
+			"Rob Liefeld"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/535142a7043ae.jpg",
 		"universe": "Earth-616",
@@ -12405,12 +12401,12 @@
 		"num": 2,
 		"date": "2004-04-21",
 		"characters": [
+			"Cable",
 			"Deadpool"
 		],
 		"creators": [
-			"Mark Brooks",
-			"Rob Liefeld",
-			"Fabian Nicieza"
+			"Fabian Nicieza",
+			"Mark Brooks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/56e1c7cc58c50.jpg",
 		"universe": "Earth-616",
@@ -12426,11 +12422,10 @@
 		"num": 3,
 		"date": "2004-05-19",
 		"characters": [
+			"Cable",
 			"Deadpool"
 		],
 		"creators": [
-			"Udon Comics",
-			"Rob Liefeld",
 			"Fabian Nicieza",
 			"Patrick Zircher"
 		],
@@ -12448,11 +12443,10 @@
 		"num": 4,
 		"date": "2004-06-16",
 		"characters": [
+			"Cable",
 			"Deadpool"
 		],
 		"creators": [
-			"Udon Comics",
-			"Rob Liefeld",
 			"Fabian Nicieza",
 			"Patrick Zircher"
 		],
@@ -12470,11 +12464,10 @@
 		"num": 5,
 		"date": "2004-07-21",
 		"characters": [
+			"Cable",
 			"Deadpool"
 		],
 		"creators": [
-			"Mark Brooks",
-			"Udon Comics",
 			"Fabian Nicieza",
 			"Patrick Zircher"
 		],
@@ -12492,10 +12485,10 @@
 		"num": 6,
 		"date": "2004-08-18",
 		"characters": [
+			"Cable",
 			"Deadpool"
 		],
 		"creators": [
-			"Udon Comics",
 			"Fabian Nicieza",
 			"Patrick Zircher"
 		],
@@ -12513,12 +12506,11 @@
 		"num": 7,
 		"date": "2004-09-15",
 		"characters": [
+			"Cable",
 			"Deadpool"
 		],
 		"creators": [
-			"Udon Comics",
 			"Fabian Nicieza",
-			"Cory Petit",
 			"Patrick Zircher"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/56e1cb54c7da1.jpg",
@@ -12535,12 +12527,11 @@
 		"num": 8,
 		"date": "2004-10-20",
 		"characters": [
+			"Cable",
 			"Deadpool"
 		],
 		"creators": [
-			"Udon Comics",
 			"Fabian Nicieza",
-			"Cory Petit",
 			"Patrick Zircher"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/56e1ccb47d52b.jpg",
@@ -12558,15 +12549,10 @@
 		"date": "2004-11-17",
 		"characters": [
 			"Cable",
-			"Cyclops",
-			"Deadpool",
-			"Wolverine"
+			"Deadpool"
 		],
 		"creators": [
-			"Udon Comics",
-			"Gotham Entertainment Group",
 			"Fabian Nicieza",
-			"Cory Petit",
 			"Patrick Zircher"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/56e1d0bf16b80.jpg",
@@ -12583,13 +12569,11 @@
 		"num": 10,
 		"date": "2004-12-15",
 		"characters": [
+			"Cable",
 			"Deadpool"
 		],
 		"creators": [
-			"Udon Comics",
-			"Gotham Entertainment Group",
 			"Fabian Nicieza",
-			"Cory Petit",
 			"Patrick Zircher"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/56e1d22cd7940.jpg",
@@ -12606,13 +12590,11 @@
 		"num": 11,
 		"date": "2005-01-19",
 		"characters": [
+			"Cable",
 			"Deadpool"
 		],
 		"creators": [
-			"Udon Comics",
-			"Gotham Entertainment Group",
 			"Fabian Nicieza",
-			"Cory Petit",
 			"Patrick Zircher"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/56e1d367d7390.jpg",
@@ -12629,15 +12611,11 @@
 		"num": 12,
 		"date": "2005-02-16",
 		"characters": [
-			"Agent X (Nijo)",
 			"Cable",
 			"Deadpool"
 		],
 		"creators": [
-			"Udon Comics",
-			"Gotham Entertainment Group",
 			"Fabian Nicieza",
-			"Cory Petit",
 			"Patrick Zircher"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/56e1d3ee8d995.jpg",
@@ -12654,12 +12632,11 @@
 		"num": 61,
 		"date": "2004-06-16",
 		"characters": [
-			"Black Widow",
-			"Daredevil"
+			"Daredevil",
+			"Black Widow"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/00/57278372e5660.jpg",
@@ -12677,11 +12654,11 @@
 		"num": 62,
 		"date": "2004-07-21",
 		"characters": [
-			"Daredevil"
+			"Daredevil",
+			"Black Widow"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/5727844f5186e.jpg",
@@ -12699,12 +12676,11 @@
 		"num": 63,
 		"date": "2004-08-18",
 		"characters": [
-			"Black Widow",
-			"Daredevil"
+			"Daredevil",
+			"Black Widow"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/90/5727851a88f86.jpg",
@@ -12722,14 +12698,12 @@
 		"num": 64,
 		"date": "2004-09-15",
 		"characters": [
-			"Black Widow",
-			"Daredevil"
+			"Daredevil",
+			"Black Widow"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Cory Petit"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/572785e2790da.jpg",
 		"universe": "Earth-616",
@@ -12746,14 +12720,12 @@
 		"num": 65,
 		"date": "2004-09-29",
 		"characters": [
-			"Daredevil"
+			"Daredevil",
+			"Black Widow"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
-			"Greg Land",
-			"Alex Maleev",
-			"Cory Petit"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/572786ad0f550.jpg",
 		"universe": "Earth-616",
@@ -12774,9 +12746,7 @@
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Cory Petit"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/572787643041b.jpg",
 		"universe": "Earth-616",
@@ -12797,9 +12767,7 @@
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Alex Maleev",
-			"Cory Petit",
-			"Dave Stewart"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5727882d64025.jpg",
 		"universe": "Earth-616",
@@ -12820,9 +12788,7 @@
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Alex Maleev",
-			"Cory Petit",
-			"Dave Stewart"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/572795c90e027.jpg",
 		"universe": "Earth-616",
@@ -12839,14 +12805,11 @@
 		"num": 69,
 		"date": "2005-01-19",
 		"characters": [
-			"Daredevil",
-			"Spider-Man"
+			"Daredevil"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Alex Maleev",
-			"Cory Petit",
-			"Dave Stewart"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/5727968375c39.jpg",
 		"universe": "Earth-616",
@@ -12867,9 +12830,7 @@
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Alex Maleev",
-			"Cory Petit",
-			"Dave Stewart"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5727972d12545.jpg",
 		"universe": "Earth-616",
@@ -12890,9 +12851,7 @@
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Alex Maleev",
-			"Cory Petit",
-			"Dave Stewart"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/572797fbcf1b4.jpg",
 		"universe": "Earth-616",
@@ -12913,9 +12872,7 @@
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Alex Maleev",
-			"Cory Petit",
-			"Dave Stewart"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/572798b44110b.jpg",
 		"universe": "Earth-616",
@@ -12936,9 +12893,7 @@
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Alex Maleev",
-			"Cory Petit",
-			"Dave Stewart"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/57279974d65a0.jpg",
 		"universe": "Earth-616",
@@ -12959,9 +12914,7 @@
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Alex Maleev",
-			"Cory Petit",
-			"Dave Stewart"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/30/57279a2961467.jpg",
 		"universe": "Earth-616",
@@ -12982,9 +12935,7 @@
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Alex Maleev",
-			"Cory Petit",
-			"Dave Stewart"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/57279ac594c00.jpg",
 		"universe": "Earth-616",
@@ -13001,14 +12952,11 @@
 		"num": 1,
 		"date": "2004-09-01",
 		"characters": [
-			""
+			"Bullseye"
 		],
 		"creators": [
-			"Mike Deodato",
-			"Randy Gentile",
-			"Tom Palmer",
 			"Daniel Way",
-			"Dean White"
+			"Steve Dillon"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/56e19e3890232.jpg",
 		"universe": "Earth-616",
@@ -13024,14 +12972,11 @@
 		"num": 2,
 		"date": "2004-10-13",
 		"characters": [
-			""
+			"Bullseye"
 		],
 		"creators": [
-			"Mike Deodato",
-			"Randy Gentile",
-			"Tom Palmer",
 			"Daniel Way",
-			"Dean White"
+			"Steve Dillon"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/56e19ef51ccf5.jpg",
 		"universe": "Earth-616",
@@ -13047,14 +12992,11 @@
 		"num": 3,
 		"date": "2004-11-10",
 		"characters": [
-			""
+			"Bullseye"
 		],
 		"creators": [
-			"Mike Deodato",
-			"Steve Dillon",
-			"Randy Gentile",
-			"Avalon Studio",
-			"Daniel Way"
+			"Daniel Way",
+			"Steve Dillon"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/56e1a03ae6126.jpg",
 		"universe": "Earth-616",
@@ -13070,14 +13012,11 @@
 		"num": 4,
 		"date": "2004-12-08",
 		"characters": [
-			""
+			"Bullseye"
 		],
 		"creators": [
-			"Mike Deodato",
-			"Steve Dillon",
-			"Randy Gentile",
-			"Avalon Studio",
-			"Daniel Way"
+			"Daniel Way",
+			"Steve Dillon"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/56e1a0f56450c.jpg",
 		"universe": "Earth-616",
@@ -13093,14 +13032,11 @@
 		"num": 5,
 		"date": "2005-01-19",
 		"characters": [
-			""
+			"Bullseye"
 		],
 		"creators": [
-			"Mike Deodato",
-			"Steve Dillon",
-			"Randy Gentile",
-			"Avalon Studio",
-			"Daniel Way"
+			"Daniel Way",
+			"Steve Dillon"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/56e1a17c1f15b.jpg",
 		"universe": "Earth-616",
@@ -13116,10 +13052,11 @@
 		"num": 1,
 		"date": "2005-04-01",
 		"characters": [
-			""
+			"Daredevil"
 		],
 		"creators": [
-			""
+			"David Hine",
+			"Michael Gaydos"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc37e2e77d71.jpg",
 		"universe": "Earth-616",
@@ -13135,14 +13072,11 @@
 		"num": 2,
 		"date": "2005-02-16",
 		"characters": [
-			""
+			"Daredevil"
 		],
 		"creators": [
-			"Michael Gaydos",
 			"David Hine",
-			"Lee Loughridge",
-			"Cory Petit",
-			"Bill Sienkiewicz"
+			"Michael Gaydos"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4bc651397a172.jpg",
 		"universe": "Earth-616",
@@ -13158,14 +13092,11 @@
 		"num": 3,
 		"date": "2005-03-30",
 		"characters": [
-			""
+			"Daredevil"
 		],
 		"creators": [
-			"Michael Gaydos",
 			"David Hine",
-			"Lee Loughridge",
-			"Cory Petit",
-			"Bill Sienkiewicz"
+			"Michael Gaydos"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/4bc64abf42bc2.jpg",
 		"universe": "Earth-616",
@@ -13181,14 +13112,11 @@
 		"num": 4,
 		"date": "2005-05-04",
 		"characters": [
-			""
+			"Daredevil"
 		],
 		"creators": [
-			"Michael Gaydos",
 			"David Hine",
-			"Lee Loughridge",
-			"Cory Petit",
-			"Bill Sienkiewicz"
+			"Michael Gaydos"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4bc6435017e07.jpg",
 		"universe": "Earth-616",
@@ -13204,14 +13132,11 @@
 		"num": 5,
 		"date": "2005-06-22",
 		"characters": [
-			""
+			"Daredevil"
 		],
 		"creators": [
-			"Michael Gaydos",
 			"David Hine",
-			"Lee Loughridge",
-			"Cory Petit",
-			"Bill Sienkiewicz"
+			"Michael Gaydos"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bc63cd545ad1.jpg",
 		"universe": "Earth-616",
@@ -13230,11 +13155,8 @@
 			"Daredevil"
 		],
 		"creators": [
-			"Michael Gaydos",
 			"David Hine",
-			"Lee Loughridge",
-			"Cory Petit",
-			"Bill Sienkiewicz"
+			"Michael Gaydos"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc636f5cb820.jpg",
 		"universe": "Earth-616",
@@ -13248,22 +13170,17 @@
 		"title": "Out of Time",
 		"vol": 5,
 		"num": 1,
-		"date": "2002-06-01",
+		"date": "2005-01-01",
 		"characters": [
-			"Captain America",
-			"Nick Fury"
+			"Steve Rogers",
+			"Bucky Barnes",
+			"Sharon Carter"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Wes Abbot",
-			"Richard Starkings",
-			"John Cassaday",
-			"John Ney Rieber",
-			"Dave Stewart"
+			"Ed Brubaker",
+			"Steve Epting"
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/00/4bc47b0eaa200.jpg",
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/c/c0/5728d2ec8b6dc/detail.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"comments": "Winter soldier introduction",
@@ -13277,31 +13194,17 @@
 		"title": "Out of Time",
 		"vol": 5,
 		"num": 2,
-		"date": "2002-07-01",
+		"date": "2005-02-01",
 		"characters": [
-			"Captain America",
-			"Nick Fury"
+			"Steve Rogers",
+			"Bucky Barnes",
+			"Sharon Carter"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"C. B. Cebulski",
-			"Nanci Dakesian",
-			"Ralph Macchio",
-			"Stuart Moore",
-			"Brian Smith",
-			"Wes Abbot",
-			"Chris Eliopoulos",
-			"Richard Starkings",
-			"Chuck Austen",
-			"Stan Lee",
-			"John Ney Rieber",
-			"John Cassaday",
-			"David Finch",
-			"Matt Milla",
-			"Dave Stewart",
-			"Art Thibert"
+			"Ed Brubaker",
+			"Steve Epting"
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/4bc37f8c955fc.jpg",
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/f/50/5140ad1091316/detail.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "003",
@@ -13314,21 +13217,17 @@
 		"title": "Out of Time",
 		"vol": 5,
 		"num": 3,
-		"date": "2002-08-01",
+		"date": "2005-03-01",
 		"characters": [
-			"Captain America"
+			"Steve Rogers",
+			"Bucky Barnes",
+			"Sharon Carter"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Wes Abbot",
-			"Richard Starkings",
-			"John Cassaday",
-			"John Ney Rieber",
-			"Dave Stewart"
+			"Ed Brubaker",
+			"Steve Epting"
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc37f966022c.jpg",
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/8/d0/5140b0df384eb/detail.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "003",
@@ -13341,24 +13240,17 @@
 		"title": "Out of Time",
 		"vol": 5,
 		"num": 4,
-		"date": "2002-09-10",
+		"date": "2005-04-01",
 		"characters": [
-			"Captain America",
-			"Nick Fury"
+			"Steve Rogers",
+			"Bucky Barnes",
+			"Sharon Carter"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Joe Quesada",
-			"Wes Abbot",
-			"Richard Starkings",
-			"John Cassaday",
-			"Signed P.r.",
-			"John Ney Rieber",
-			"Dave Stewart"
+			"Ed Brubaker",
+			"Steve Epting"
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc37f9b3c0b6.jpg",
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/c/00/5140b2a6ee8bf/detail.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "003",
@@ -13371,23 +13263,17 @@
 		"title": "Out of Time",
 		"vol": 5,
 		"num": 5,
-		"date": "2002-10-10",
+		"date": "2005-05-01",
 		"characters": [
-			"Captain America",
-			"Nick Fury"
+			"Steve Rogers",
+			"Bucky Barnes",
+			"Sharon Carter"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Joe Quesada",
-			"Wes Abbot",
-			"Richard Starkings",
-			"John Cassaday",
-			"John Ney Rieber",
-			"Dave Stewart"
+			"Ed Brubaker",
+			"Steve Epting"
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/4bb8543f68682.jpg",
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/a/50/5728fbf9df067/detail.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "003",
@@ -13400,31 +13286,17 @@
 		"title": "Out of Time",
 		"vol": 5,
 		"num": 6,
-		"date": "2002-12-10",
+		"date": "2005-06-01",
 		"characters": [
-			"Archangel",
-			"Captain America",
-			"Juggernaut",
-			"Nightcrawler",
-			"Stacy X"
+			"Steve Rogers",
+			"Bucky Barnes",
+			"Sharon Carter"
 		],
 		"creators": [
-			"Kelly Lamy",
-			"Nanci Dakesian",
-			"Stuart Moore",
-			"Joe Quesada",
-			"Wes Abbot",
-			"Richard Starkings",
-			"Paul Tutrone",
-			"Kia Asamiya",
-			"Chuck Austen",
-			"Stan Lee",
-			"John Ney Rieber",
-			"John Cassaday",
-			"J.d. Smith",
-			"Dave Stewart"
+			"Ed Brubaker",
+			"Steve Epting"
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc35d58dd4aa.jpg",
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/9/03/572903ce72454/detail.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "003",
@@ -13437,22 +13309,16 @@
 		"title": "Out of Time",
 		"vol": 5,
 		"num": 7,
-		"date": "2003-02-10",
+		"date": "2005-07-01",
 		"characters": [
-			"Captain America"
+			"Steve Rogers",
+			"Bucky Barnes"
 		],
 		"creators": [
-			"Wes Abbot",
-			"Richard Starkings",
-			"John Cassaday",
-			"Trevor Hairsine",
-			"Nick Lowe",
-			"Joe Quesada",
-			"Danny K. Miki",
-			"John Ney Rieber",
-			"Dave Stewart"
+			"Ed Brubaker",
+			"John Paul Leon"
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bc47ace66152.jpg",
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/2/f0/5140b840a1d88/detail.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "003",
@@ -13468,7 +13334,16 @@
 		"date": "2004-02-04",
 		"event": "Secret War",
 		"characters": [
-			""
+			"Nick Fury",
+			"Quake",
+			"Maria Hill",
+			"Steve Rogers",
+			"Spider-Man",
+			"Wolverine",
+			"Daredevil",
+			"Black Widow",
+			"Luke Cage",
+			"Jessica Jones"
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -13491,7 +13366,16 @@
 		"date": "2004-05-26",
 		"event": "Secret War",
 		"characters": [
-			""
+			"Nick Fury",
+			"Quake",
+			"Maria Hill",
+			"Steve Rogers",
+			"Spider-Man",
+			"Wolverine",
+			"Daredevil",
+			"Black Widow",
+			"Luke Cage",
+			"Jessica Jones"
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -13513,7 +13397,16 @@
 		"date": "2004-10-13",
 		"event": "Secret War",
 		"characters": [
-			""
+			"Nick Fury",
+			"Quake",
+			"Maria Hill",
+			"Steve Rogers",
+			"Spider-Man",
+			"Wolverine",
+			"Daredevil",
+			"Black Widow",
+			"Luke Cage",
+			"Jessica Jones"
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -13535,12 +13428,20 @@
 		"date": "2005-03-30",
 		"event": "Secret War",
 		"characters": [
-			""
+			"Nick Fury",
+			"Quake",
+			"Maria Hill",
+			"Steve Rogers",
+			"Spider-Man",
+			"Wolverine",
+			"Daredevil",
+			"Black Widow",
+			"Luke Cage",
+			"Jessica Jones"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Gabriele Dell'Otto",
-			"Cory Petit"
+			"Gabriele Dell'Otto"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bc64c8d1308b.jpg",
 		"universe": "Earth-616",
@@ -13558,12 +13459,20 @@
 		"date": "2005-12-14",
 		"event": "Secret War",
 		"characters": [
-			""
+			"Nick Fury",
+			"Quake",
+			"Maria Hill",
+			"Steve Rogers",
+			"Spider-Man",
+			"Wolverine",
+			"Daredevil",
+			"Black Widow",
+			"Luke Cage",
+			"Jessica Jones"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Gabriele Dell'Otto",
-			"Cory Petit"
+			"Gabriele Dell'Otto"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc61c3f15578.jpg",
 		"universe": "Earth-616",
@@ -13582,19 +13491,14 @@
 		"date": "2004-11-10",
 		"event": "Secret War",
 		"characters": [
-			"Captain America",
-			"Danny Rand",
 			"Jessica Jones",
-			"Logan",
+			"Ben Urich",
 			"Luke Cage",
-			"Nick Fury",
-			"Wolverine"
+			"Nick Fury"
 		],
 		"creators": [
-			"Brent Anderson",
 			"Brian Michael Bendis",
-			"Peter Pantazis",
-			"Cory Petit"
+			"Brent Anderson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/56538fd257915.jpg",
 		"universe": "Earth-616",
@@ -13612,15 +13516,14 @@
 		"date": "2005-01-12",
 		"event": "Secret War",
 		"characters": [
+			"Jessica Jones",
 			"Ben Urich",
-			"Jessica Jones"
+			"Luke Cage",
+			"Nick Fury"
 		],
 		"creators": [
-			"Brent Anderson",
 			"Brian Michael Bendis",
-			"Mike Mayhew",
-			"Peter Pantazis",
-			"Cory Petit"
+			"Brent Anderson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/00/56535583219c8.jpg",
 		"universe": "Earth-616",
@@ -13638,16 +13541,14 @@
 		"date": "2005-03-30",
 		"event": "Secret War",
 		"characters": [
+			"Jessica Jones",
 			"Ben Urich",
-			"Jessica Jones"
+			"Luke Cage",
+			"Nick Fury"
 		],
 		"creators": [
-			"Brent Anderson",
 			"Brian Michael Bendis",
-			"Michael Lark",
-			"Mike Mayhew",
-			"Peter Pantazis",
-			"Cory Petit"
+			"Michael Lark"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/565354cb26d91.jpg",
 		"universe": "Earth-616",
@@ -13665,18 +13566,14 @@
 		"date": "2005-06-08",
 		"event": "Secret War",
 		"characters": [
-			"Ben Urich",
-			"J. Jonah Jameson",
 			"Jessica Jones",
+			"Ben Urich",
 			"Luke Cage",
-			"Wolverine"
+			"Nick Fury"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Michael Lark",
-			"Mike Mayhew",
-			"Peter Pantazis",
-			"Cory Petit"
+			"Michael Lark"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/565354b34bc94.jpg",
 		"universe": "Earth-616",
@@ -13694,20 +13591,18 @@
 		"date": "2004-12-01",
 		"characters": [
 			"Avengers",
-			"Captain America",
+			"Steve Rogers",
 			"Iron Man",
 			"Luke Cage",
-			"Sentry (Robert Reynolds)",
+			"Sentry",
 			"Spider-Man",
-			"Spider-Woman (Jessica Drew)",
-			"Wolverine"
+			"Spider-Woman",
+			"Wolverine",
+			"Maria Hill"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Frank D'Armata",
-			"David Finch",
-			"Danny K. Miki",
-			"Richard Starkings"
+			"David Finch"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/5149eb485fbf8.jpg",
 		"universe": "Earth-616",
@@ -13726,21 +13621,18 @@
 		"date": "2004-12-29",
 		"characters": [
 			"Avengers",
-			"Captain America",
-			"Daredevil",
-			"Electro",
+			"Steve Rogers",
 			"Iron Man",
 			"Luke Cage",
-			"Spider-Man"
+			"Sentry",
+			"Spider-Man",
+			"Spider-Woman",
+			"Wolverine",
+			"Maria Hill"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Tom Brevoort",
-			"Frank D'Armata",
-			"David Finch",
-			"Danny K. Miki",
-			"Mark Morales",
-			"Richard Starkings"
+			"David Finch"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4f7da88490208.jpg",
 		"universe": "Earth-616",
@@ -13757,18 +13649,19 @@
 		"num": 3,
 		"date": "2005-02-02",
 		"characters": [
-			"Captain America",
+			"Avengers",
+			"Steve Rogers",
 			"Iron Man",
-			"Jessica Jones",
 			"Luke Cage",
-			"Sentry (Robert Reynolds)"
+			"Sentry",
+			"Spider-Man",
+			"Spider-Woman",
+			"Wolverine",
+			"Maria Hill"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Frank D'Armata",
-			"David Finch",
-			"Danny K. Miki",
-			"Richard Starkings"
+			"David Finch"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/4f7daa5793897.jpg",
 		"universe": "Earth-616",
@@ -13786,24 +13679,18 @@
 		"date": "2005-03-23",
 		"characters": [
 			"Avengers",
-			"Bushwacker",
-			"Captain America",
-			"Electro",
-			"Grey Gargoyle",
+			"Steve Rogers",
 			"Iron Man",
 			"Luke Cage",
-			"Maria Hill",
-			"Mr. Hyde",
+			"Sentry",
 			"Spider-Man",
-			"Spider-Woman (Jessica Drew)",
-			"Wolverine"
+			"Spider-Woman",
+			"Wolverine",
+			"Maria Hill"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Frank D'Armata",
-			"David Finch",
-			"Danny K. Miki",
-			"Richard Starkings"
+			"David Finch"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4f7dabc27bd16.jpg",
 		"universe": "Earth-616",
@@ -13821,22 +13708,18 @@
 		"date": "2005-04-27",
 		"characters": [
 			"Avengers",
-			"Captain America",
+			"Steve Rogers",
 			"Iron Man",
 			"Luke Cage",
-			"Sauron",
-			"Sentry (Robert Reynolds)",
+			"Sentry",
 			"Spider-Man",
-			"Spider-Woman (Jessica Drew)",
-			"Vertigo (Savage Land Mutate)",
-			"Wolverine"
+			"Spider-Woman",
+			"Wolverine",
+			"Maria Hill"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Frank D'Armata",
-			"David Finch",
-			"Danny K. Miki",
-			"Richard Starkings"
+			"David Finch"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4f7dad200e939.jpg",
 		"universe": "Earth-616",
@@ -13854,24 +13737,18 @@
 		"date": "2005-06-22",
 		"characters": [
 			"Avengers",
-			"Black Widow",
-			"Captain America",
+			"Steve Rogers",
 			"Iron Man",
 			"Luke Cage",
-			"Maria Hill",
-			"Sauron",
-			"Sentry (Robert Reynolds)",
+			"Sentry",
 			"Spider-Man",
-			"Spider-Woman (Jessica Drew)",
-			"Vertigo (Savage Land Mutate)",
-			"Wolverine"
+			"Spider-Woman",
+			"Wolverine",
+			"Maria Hill"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Frank D'Armata",
-			"David Finch",
-			"Danny K. Miki",
-			"Richard Starkings"
+			"David Finch"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4f7dae738407f.jpg",
 		"universe": "Earth-616",
@@ -13892,11 +13769,7 @@
 		],
 		"creators": [
 			"Tony Bedard",
-			"Mike Deodato",
-			"Raul Fernandez",
-			"Manuel Garcia",
-			"Cory Petit",
-			"Chris Sotomayor"
+			"Manuel Garcia"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc63e75162e1.jpg",
 		"universe": "Earth-616",
@@ -13916,11 +13789,7 @@
 		],
 		"creators": [
 			"Tony Bedard",
-			"Mike Deodato",
-			"Raul Fernandez",
-			"Manuel Garcia",
-			"Cory Petit",
-			"Chris Sotomayor"
+			"Manuel Garcia"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bc639fb682be.jpg",
 		"universe": "Earth-616",
@@ -13940,11 +13809,7 @@
 		],
 		"creators": [
 			"Tony Bedard",
-			"Mike Deodato",
-			"Raul Fernandez",
-			"Manuel Garcia",
-			"Cory Petit",
-			"Chris Sotomayor"
+			"Manuel Garcia"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
 		"universe": "Earth-616",
@@ -13964,10 +13829,7 @@
 		],
 		"creators": [
 			"Tony Bedard",
-			"Raul Fernandez",
-			"Manuel Garcia",
-			"Cory Petit",
-			"Chris Sotomayor"
+			"Manuel Garcia"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bc62d0f7afe5.jpg",
 		"universe": "Earth-616",
@@ -13987,9 +13849,7 @@
 		],
 		"creators": [
 			"Tony Bedard",
-			"Raul Fernandez",
-			"Manuel Garcia",
-			"Chris Sotomayor"
+			"Manuel Garcia"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4bc6274f04545.jpg",
 		"universe": "Earth-616",
@@ -14008,11 +13868,8 @@
 			"Black Panther"
 		],
 		"creators": [
-			"Chris Eliopoulos",
 			"Reginald Hudlin",
-			"Klaus Janson",
-			"John Romita JR.",
-			"Dean White"
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/5744b9e7af758.jpg",
 		"universe": "Earth-616",
@@ -14032,12 +13889,8 @@
 			"Black Panther"
 		],
 		"creators": [
-			"Chris Eliopoulos",
 			"Reginald Hudlin",
-			"Klaus Janson",
-			"Esad Ribic",
-			"John Romita JR.",
-			"Dean White"
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/5744be90eea32.jpg",
 		"universe": "Earth-616",
@@ -14056,12 +13909,8 @@
 			"Black Panther"
 		],
 		"creators": [
-			"Frank Cho",
-			"Chris Eliopoulos",
 			"Reginald Hudlin",
-			"Klaus Janson",
-			"John Romita JR.",
-			"Dean White"
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/5745c0fd00165.jpg",
 		"universe": "Earth-616",
@@ -14080,12 +13929,8 @@
 			"Black Panther"
 		],
 		"creators": [
-			"John Cassaday",
-			"Chris Eliopoulos",
 			"Reginald Hudlin",
-			"Klaus Janson",
-			"John Romita JR.",
-			"Dean White"
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5745c00112846.jpg",
 		"universe": "Earth-616",
@@ -14104,12 +13949,8 @@
 			"Black Panther"
 		],
 		"creators": [
-			"Terry Dodson",
-			"Chris Eliopoulos",
 			"Reginald Hudlin",
-			"Klaus Janson",
-			"John Romita JR.",
-			"Dean White"
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/5745bf6c5e959.jpg",
 		"universe": "Earth-616",
@@ -14128,11 +13969,8 @@
 			"Black Panther"
 		],
 		"creators": [
-			"Kaare Andrews",
-			"Randy Gentile",
 			"Reginald Hudlin",
-			"Klaus Janson",
-			"John Romita JR."
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5745beba12657.jpg",
 		"universe": "Earth-616",
@@ -14148,19 +13986,12 @@
 		"num": 1,
 		"date": "2005-04-06",
 		"characters": [
-			"Big Bertha",
-			"Dinah Soar",
-			"Doorman",
-			"Flatman",
 			"Great Lakes Avengers",
-			"Mr. Immortal",
 			"Squirrel Girl"
 		],
 		"creators": [
-			"Rick Magyar",
-			"Paul Pelletier",
-			"Wil Quintana",
-			"Dan Slott"
+			"Dan Slott",
+			"Paul Pelletier"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc465362ba79.jpg",
 		"universe": "Earth-616",
@@ -14177,23 +14008,12 @@
 		"num": 2,
 		"date": "2005-05-04",
 		"characters": [
-			"Black Cat",
-			"Daredevil",
-			"Hercules",
-			"Mr. Fantastic",
-			"Sasquatch (Walter Langkowski)",
-			"Silver Surfer",
-			"Spider-Man",
-			"Thor",
-			"Wasp",
-			"Wolverine",
-			"Wonder Man"
+			"Great Lakes Avengers",
+			"Squirrel Girl"
 		],
 		"creators": [
-			"Rick Magyar",
-			"Paul Pelletier",
-			"Wil Quintana",
-			"Dan Slott"
+			"Dan Slott",
+			"Paul Pelletier"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/57cf34d70b954.jpg",
 		"universe": "Earth-616",
@@ -14209,14 +14029,12 @@
 		"num": 3,
 		"date": "2005-06-15",
 		"characters": [
-			""
+			"Great Lakes Avengers",
+			"Squirrel Girl"
 		],
 		"creators": [
-			"Dave Lanphear",
-			"Rick Magyar",
-			"Paul Pelletier",
-			"Wil Quintana",
-			"Dan Slott"
+			"Dan Slott",
+			"Paul Pelletier"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/57cf34a1100e6.jpg",
 		"universe": "Earth-616",
@@ -14232,14 +14050,12 @@
 		"num": 4,
 		"date": "2005-07-06",
 		"characters": [
-			""
+			"Great Lakes Avengers",
+			"Squirrel Girl"
 		],
 		"creators": [
-			"Dave Lanphear",
-			"Rick Magyar",
-			"Paul Pelletier",
-			"Wil Quintana",
-			"Dan Slott"
+			"Dan Slott",
+			"Paul Pelletier"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/57cf34b208c66.jpg",
 		"universe": "Earth-617",
@@ -14255,14 +14071,12 @@
 		"num": 1,
 		"date": "2005-12-14",
 		"characters": [
-			""
+			"Great Lakes Avengers",
+			"Squirrel Girl"
 		],
 		"creators": [
-			"Dave Lanphear",
-			"Paul Pelletier",
-			"Wil Quintana",
 			"Dan Slott",
-			"Ty Templeton"
+			"Paul Pelletier"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/90/57f6738e73546.jpg",
 		"universe": "Earth-618",
@@ -14278,13 +14092,13 @@
 		"num": 2,
 		"date": "2006-04-01",
 		"characters": [
-			""
+			"Great Lakes Avengers",
+			"Squirrel Girl",
+			"Speedball"
 		],
 		"creators": [
-			"Gez Fry",
-			"Paco Medina",
-			"Mike Norton",
-			"Fabian Nicieza"
+			"Fabian Nicieza",
+			"Paco Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bb6c3f68780e.jpg",
 		"universe": "Earth-616",
@@ -14300,13 +14114,18 @@
 		"num": 455,
 		"date": "2005-02-02",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Psylocke",
+			"X-23"
 		],
 		"creators": [
 			"Chris Claremont",
-			"Mark Farmer",
-			"Dean White",
-			"Rus Wooton"
+			"Alan Davis"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/570294c7e1f6b.jpg",
 		"universe": "Earth-616",
@@ -14322,13 +14141,18 @@
 		"num": 456,
 		"date": "2005-02-23",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Psylocke",
+			"X-24"
 		],
 		"creators": [
 			"Chris Claremont",
-			"Mark Farmer",
-			"Dean White",
-			"Rus Wooton"
+			"Alan Davis"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bc64f9dca725.jpg",
 		"universe": "Earth-616",
@@ -14344,13 +14168,18 @@
 		"num": 457,
 		"date": "2005-03-16",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Psylocke",
+			"X-25"
 		],
 		"creators": [
 			"Chris Claremont",
-			"Mark Farmer",
-			"Dean White",
-			"Rus Wooton"
+			"Alan Davis"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4c7d663f526da.jpg",
 		"universe": "Earth-616",
@@ -14366,13 +14195,18 @@
 		"num": 458,
 		"date": "2005-04-20",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Psylocke",
+			"X-26"
 		],
 		"creators": [
 			"Chris Claremont",
-			"Mark Farmer",
-			"Dean White",
-			"Rus Wooton"
+			"Alan Davis"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc641b57e077.jpg",
 		"universe": "Earth-616",
@@ -14388,13 +14222,18 @@
 		"num": 459,
 		"date": "2005-05-18",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Psylocke",
+			"X-27"
 		],
 		"creators": [
 			"Chris Claremont",
-			"Mark Farmer",
-			"Dean White",
-			"Rus Wooton"
+			"Alan Davis"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc63c8f21fdb.jpg",
 		"universe": "Earth-616",
@@ -14410,16 +14249,21 @@
 		"num": 1,
 		"date": "2005-01-05",
 		"characters": [
+			"X-Men",
 			"Jean Grey",
-			"Jean Grey",
-			"X-Men"
+			"Wolverine",
+			"Cyclops",
+			"Beast",
+			"Emma Frost",
+			"Kitty Pride",
+			"Colossus",
+			"Angel",
+			"Storm",
+			"Nightcrawler"
 		],
 		"creators": [
-			"Greg Land",
 			"Greg Pak",
-			"Justin Ponsor",
-			"Clem Robins",
-			"Matt Ryan"
+			"Greg Land"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc654cf9d0ac.jpg",
 		"universe": "Earth-616",
@@ -14436,14 +14280,21 @@
 		"num": 2,
 		"date": "2005-02-02",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Jean Grey",
+			"Wolverine",
+			"Cyclops",
+			"Beast",
+			"Emma Frost",
+			"Kitty Pride",
+			"Colossus",
+			"Angel",
+			"Storm",
+			"Nightcrawler"
 		],
 		"creators": [
-			"Greg Land",
 			"Greg Pak",
-			"Justin Ponsor",
-			"Clem Robins",
-			"Matt Ryan"
+			"Greg Land"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc654ca5765f.jpg",
 		"universe": "Earth-616",
@@ -14460,14 +14311,21 @@
 		"num": 3,
 		"date": "2005-02-23",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Jean Grey",
+			"Wolverine",
+			"Cyclops",
+			"Beast",
+			"Emma Frost",
+			"Kitty Pride",
+			"Colossus",
+			"Angel",
+			"Storm",
+			"Nightcrawler"
 		],
 		"creators": [
-			"Greg Land",
 			"Greg Pak",
-			"Justin Ponsor",
-			"Clem Robins",
-			"Matt Ryan"
+			"Greg Land"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc64f935cfc1.jpg",
 		"universe": "Earth-616",
@@ -14484,14 +14342,21 @@
 		"num": 4,
 		"date": "2005-03-30",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Jean Grey",
+			"Wolverine",
+			"Cyclops",
+			"Beast",
+			"Emma Frost",
+			"Kitty Pride",
+			"Colossus",
+			"Angel",
+			"Storm",
+			"Nightcrawler"
 		],
 		"creators": [
-			"Greg Land",
 			"Greg Pak",
-			"Justin Ponsor",
-			"Clem Robins",
-			"Matt Ryan"
+			"Greg Land"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc649209db0b.jpg",
 		"universe": "Earth-616",
@@ -14508,14 +14373,21 @@
 		"num": 5,
 		"date": "2005-04-27",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Jean Grey",
+			"Wolverine",
+			"Cyclops",
+			"Beast",
+			"Emma Frost",
+			"Kitty Pride",
+			"Colossus",
+			"Angel",
+			"Storm",
+			"Nightcrawler"
 		],
 		"creators": [
-			"Greg Land",
 			"Greg Pak",
-			"Justin Ponsor",
-			"Clem Robins",
-			"Matt Ryan"
+			"Greg Land"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bc641a7212e7.jpg",
 		"universe": "Earth-616",
@@ -14535,11 +14407,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Chris Bachalo",
-			"Edgar Delgado",
-			"Dave Sharpe",
-			"Tim Townsend",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Chris Bachalo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/568c36c06a2d5.jpg",
 		"universe": "Earth-295",
@@ -14558,11 +14427,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Chris Bachalo",
-			"Edgar Delgado",
-			"Dave Sharpe",
-			"Tim Townsend",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Chris Bachalo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/568c370c924f4.jpg",
 		"universe": "Earth-295",
@@ -14581,11 +14447,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Chris Bachalo",
-			"Edgar Delgado",
-			"Dave Sharpe",
-			"Tim Townsend",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Chris Bachalo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/568c36e3d336f.jpg",
 		"universe": "Earth-295",
@@ -14604,11 +14467,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Chris Bachalo",
-			"Edgar Delgado",
-			"Dave Sharpe",
-			"Tim Townsend",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Chris Bachalo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/568c375d1ac65.jpg",
 		"universe": "Earth-295",
@@ -14627,11 +14487,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Chris Bachalo",
-			"Edgar Delgado",
-			"Dave Sharpe",
-			"Tim Townsend",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Chris Bachalo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/568c3789da283.jpg",
 		"universe": "Earth-295",
@@ -14650,11 +14507,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Chris Bachalo",
-			"Edgar Delgado",
-			"Chris Eliopoulos",
-			"Tim Townsend",
-			"Akira Yoshida"
+			"Akira Yoshida",
+			"Chris Bachalo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/568c372e43df9.jpg",
 		"universe": "Earth-295",
@@ -14674,12 +14528,9 @@
 			"X-Men"
 		],
 		"creators": [
-			"Brian Haberlin",
-			"Cory Petit",
-			"Jeanine Schaefer",
-			"Jonathan Sibal",
-			"Billy Tan",
-			"Chris Yost"
+			"Craig Kyle",
+			"Chris Yost",
+			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc468ba18fc2.jpg",
 		"universe": "Earth-616",
@@ -14700,10 +14551,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Brian Haberlin",
 			"Craig Kyle",
-			"Cory Petit",
-			"Jonathan Sibal",
+			"Chris Yost",
 			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/57488a1a2c6c3.jpg",
@@ -14724,10 +14573,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Brian Haberlin",
 			"Craig Kyle",
-			"Cory Petit",
-			"Jonathan Sibal",
+			"Chris Yost",
 			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/574889e5d330a.jpg",
@@ -14748,10 +14595,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Brian Haberlin",
 			"Craig Kyle",
-			"Cory Petit",
-			"Jonathan Sibal",
+			"Chris Yost",
 			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/574889e3122a5.jpg",
@@ -14772,10 +14617,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Brian Haberlin",
 			"Craig Kyle",
-			"Cory Petit",
-			"Jonathan Sibal",
+			"Chris Yost",
 			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/574889d0a8456.jpg",
@@ -14796,11 +14639,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Brian Haberlin",
 			"Craig Kyle",
 			"Chris Yost",
-			"Cory Petit",
-			"Jonathan Sibal",
 			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/574889a492d8d.jpg",
@@ -14817,12 +14657,12 @@
 		"num": 1,
 		"date": "2005-01-12",
 		"characters": [
-			""
+			"Cosmic",
+			"Beta Ray Bill",
+			"Galactus"
 		],
 		"creators": [
-			"Daniel Berman",
-			"Mike Avon Oeming",
-			"Laura Villari",
+			"Mike Oeming",
 			"Andrea Di Vito"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4bc6548214c54.jpg",
@@ -14839,11 +14679,12 @@
 		"num": 2,
 		"date": "2005-02-16",
 		"characters": [
-			""
+			"Cosmic",
+			"Beta Ray Bill",
+			"Galactus"
 		],
 		"creators": [
-			"Mike Avon Oeming",
-			"Laura Villari",
+			"Mike Oeming",
 			"Andrea Di Vito"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bc64e1307ff2.jpg",
@@ -14860,11 +14701,12 @@
 		"num": 3,
 		"date": "2005-03-16",
 		"characters": [
-			""
+			"Cosmic",
+			"Beta Ray Bill",
+			"Galactus"
 		],
 		"creators": [
-			"Mike Avon Oeming",
-			"Laura Villari",
+			"Mike Oeming",
 			"Andrea Di Vito"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc6483a5c3f3.jpg",
@@ -14881,12 +14723,12 @@
 		"num": 4,
 		"date": "2005-04-20",
 		"characters": [
-			""
+			"Cosmic",
+			"Beta Ray Bill",
+			"Galactus"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Mike Avon Oeming",
-			"Laura Villari",
+			"Mike Oeming",
 			"Andrea Di Vito"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4bc640350f101.jpg",
@@ -14903,12 +14745,12 @@
 		"num": 5,
 		"date": "2005-05-18",
 		"characters": [
-			""
+			"Cosmic",
+			"Beta Ray Bill",
+			"Galactus"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Mike Avon Oeming",
-			"Laura Villari",
+			"Mike Oeming",
 			"Andrea Di Vito"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc63b059a96a.jpg",
@@ -14925,12 +14767,12 @@
 		"num": 6,
 		"date": "2005-06-15",
 		"characters": [
-			""
+			"Cosmic",
+			"Beta Ray Bill",
+			"Galactus"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Mike Avon Oeming",
-			"Laura Villari",
+			"Mike Oeming",
 			"Andrea Di Vito"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4bc63543487a1.jpg",
@@ -14947,15 +14789,15 @@
 		"num": 525,
 		"date": "2005-04-20",
 		"characters": [
-			"Fantastic Four"
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing"
 		],
 		"creators": [
-			"Jim Cheung",
-			"Randy Gentile",
-			"Tom Grummett",
 			"Karl Kesel",
-			"Paul Mounts",
-			"Larry Stucker"
+			"Tom Grummett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/80/57e974ec59a5f.jpg",
 		"universe": "Earth-616",
@@ -14971,13 +14813,15 @@
 		"num": 526,
 		"date": "2005-05-11",
 		"characters": [
-			"Fantastic Four"
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing"
 		],
 		"creators": [
-			"Jim Cheung",
-			"Tom Grummett",
 			"Karl Kesel",
-			"Paul Mounts"
+			"Tom Grummett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/57e972d21cd4c.jpg",
 		"universe": "Earth-616",
@@ -14993,19 +14837,17 @@
 		"num": 7,
 		"date": "2004-12-22",
 		"characters": [
+			"X-Men",
 			"Beast",
 			"Cyclops",
 			"Emma Frost",
-			"Kitty Pryde",
-			"Lockheed",
 			"Wolverine",
-			"X-Men"
+			"Kitty Pride",
+			"Colossus"
 		],
 		"creators": [
-			"John Cassaday",
-			"Chris Eliopoulos",
-			"Laura Martin",
-			"Joss Whedon"
+			"Joss Whedon",
+			"John Cassaday"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/56ddf11f48885.jpg",
 		"universe": "Earth-616",
@@ -15022,19 +14864,17 @@
 		"num": 8,
 		"date": "2005-02-16",
 		"characters": [
+			"X-Men",
 			"Beast",
-			"Colossus",
 			"Cyclops",
 			"Emma Frost",
-			"Kitty Pryde",
 			"Wolverine",
-			"X-Men"
+			"Kitty Pride",
+			"Colossus"
 		],
 		"creators": [
-			"John Cassaday",
-			"Chris Eliopoulos",
-			"Laura Martin",
-			"Joss Whedon"
+			"Joss Whedon",
+			"John Cassaday"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4d25117a9bdeb.jpg",
 		"universe": "Earth-616",
@@ -15051,18 +14891,17 @@
 		"num": 9,
 		"date": "2005-03-30",
 		"characters": [
+			"X-Men",
 			"Beast",
 			"Cyclops",
 			"Emma Frost",
-			"Kitty Pryde",
 			"Wolverine",
-			"X-Men"
+			"Kitty Pride",
+			"Colossus"
 		],
 		"creators": [
-			"John Cassaday",
-			"Chris Eliopoulos",
-			"Laura Martin",
-			"Joss Whedon"
+			"Joss Whedon",
+			"John Cassaday"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/56ddf1e7a799a.jpg",
 		"universe": "Earth-616",
@@ -15079,19 +14918,17 @@
 		"num": 10,
 		"date": "2005-05-11",
 		"characters": [
+			"X-Men",
 			"Beast",
 			"Cyclops",
 			"Emma Frost",
-			"Kitty Pryde",
-			"Professor X",
 			"Wolverine",
-			"X-Men"
+			"Kitty Pride",
+			"Colossus"
 		],
 		"creators": [
-			"John Cassaday",
-			"Chris Eliopoulos",
-			"Laura Martin",
-			"Joss Whedon"
+			"Joss Whedon",
+			"John Cassaday"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4d24dcda5fd84.jpg",
 		"universe": "Earth-616",
@@ -15108,16 +14945,17 @@
 		"num": 11,
 		"date": "2005-07-06",
 		"characters": [
+			"X-Men",
 			"Beast",
-			"Colossus",
 			"Cyclops",
-			"Kitty Pryde",
-			"Professor X",
+			"Emma Frost",
 			"Wolverine",
-			"X-Men"
+			"Kitty Pride",
+			"Colossus"
 		],
 		"creators": [
-			""
+			"Joss Whedon",
+			"John Cassaday"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc34c8b2c630.jpg",
 		"universe": "Earth-616",
@@ -15134,20 +14972,17 @@
 		"num": 12,
 		"date": "2005-08-31",
 		"characters": [
+			"X-Men",
 			"Beast",
-			"Colossus",
 			"Cyclops",
 			"Emma Frost",
-			"Kitty Pryde",
-			"Professor X",
 			"Wolverine",
-			"X-Men"
+			"Kitty Pride",
+			"Colossus"
 		],
 		"creators": [
-			"John Cassaday",
-			"Chris Eliopoulos",
-			"Laura Martin",
-			"Joss Whedon"
+			"Joss Whedon",
+			"John Cassaday"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/56ddf2bb45f54.jpg",
 		"universe": "Earth-616",
@@ -15164,15 +14999,11 @@
 		"num": 7,
 		"date": "2004-11-10",
 		"characters": [
-			""
+			"Bishop"
 		],
 		"creators": [
-			"Andrew Blase",
 			"David Hine",
-			"Lan Medina",
-			"Alejandro Sicat",
-			"Richard Starkings",
-			"Avalon Studio"
+			"Lan Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc6b0937d851.jpg",
 		"universe": "Earth-616",
@@ -15188,15 +15019,11 @@
 		"num": 8,
 		"date": "2004-12-08",
 		"characters": [
-			""
+			"Bishop"
 		],
 		"creators": [
 			"David Hine",
-			"Steve McNiven",
-			"Lan Medina",
-			"Alejandro Sicat",
-			"Richard Starkings",
-			"Avalon Studio"
+			"Lan Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4bc65bf919eb7.jpg",
 		"universe": "Earth-616",
@@ -15212,15 +15039,11 @@
 		"num": 9,
 		"date": "2005-01-12",
 		"characters": [
-			""
+			"Bishop"
 		],
 		"creators": [
 			"David Hine",
-			"Lan Medina",
-			"Tom Raney",
-			"Alejandro Sicat",
-			"Richard Starkings",
-			"Avalon Studio"
+			"Lan Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bc6562687e16.jpg",
 		"universe": "Earth-616",
@@ -15236,15 +15059,11 @@
 		"num": 10,
 		"date": "2005-02-09",
 		"characters": [
-			""
+			"Bishop"
 		],
 		"creators": [
 			"David Hine",
-			"Lan Medina",
-			"Tom Raney",
-			"Alejandro Sicat",
-			"Richard Starkings",
-			"Avalon Studio"
+			"Lan Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bc64fc30a9df.jpg",
 		"universe": "Earth-616",
@@ -15260,15 +15079,11 @@
 		"num": 11,
 		"date": "2005-03-09",
 		"characters": [
-			""
+			"Bishop"
 		],
 		"creators": [
 			"David Hine",
-			"Lan Medina",
-			"Tom Raney",
-			"Alejandro Sicat",
-			"Richard Starkings",
-			"Avalon Studio"
+			"Lan Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4bc64949cdc55.jpg",
 		"universe": "Earth-616",
@@ -15284,15 +15099,11 @@
 		"num": 12,
 		"date": "2005-04-13",
 		"characters": [
-			""
+			"Bishop"
 		],
 		"creators": [
 			"David Hine",
-			"Lan Medina",
-			"Tom Raney",
-			"Alejandro Sicat",
-			"Richard Starkings",
-			"Avalon Studio"
+			"Lan Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc64323475dc.jpg",
 		"universe": "Earth-616",
@@ -15308,15 +15119,11 @@
 		"num": 13,
 		"date": "2005-05-11",
 		"characters": [
-			""
+			"Bishop"
 		],
 		"creators": [
-			"Trevor Hairsine",
 			"David Hine",
-			"Lan Medina",
-			"Alejandro Sicat",
-			"Richard Starkings",
-			"Avalon Studio"
+			"Lan Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bc638aa08dc2.jpg",
 		"universe": "Earth-616",
@@ -15335,12 +15142,8 @@
 			"Bishop"
 		],
 		"creators": [
-			"Trevor Hairsine",
 			"David Hine",
-			"Lan Medina",
-			"Alejandro Sicat",
-			"Richard Starkings",
-			"Avalon Studio"
+			"Lan Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc6337a3dee6.jpg",
 		"universe": "Earth-616",
@@ -15352,7 +15155,7 @@
 		"id": "838",
 		"collection": "Nightcrawler",
 		"title": "The Devil Inside",
-		"vol": 1,
+		"vol": 3,
 		"num": 1,
 		"date": "2004-09-22",
 		"characters": [
@@ -15360,13 +15163,11 @@
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Greg Land",
-			"Tom Palmer",
 			"Darick Robertson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4bc6784420b98.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -15375,7 +15176,7 @@
 		"id": "928",
 		"collection": "Nightcrawler",
 		"title": "The Devil Inside",
-		"vol": 1,
+		"vol": 3,
 		"num": 2,
 		"date": "2004-10-27",
 		"characters": [
@@ -15383,12 +15184,11 @@
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Greg Land",
 			"Darick Robertson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/4bc6726077977.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -15397,7 +15197,7 @@
 		"id": "28",
 		"collection": "Nightcrawler",
 		"title": "The Devil Inside",
-		"vol": 1,
+		"vol": 3,
 		"num": 3,
 		"date": "2004-11-24",
 		"characters": [
@@ -15405,15 +15205,11 @@
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Wayne Faucher",
-			"Greg Land",
-			"Matt Milla",
-			"Cory Petit",
 			"Darick Robertson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bc6b5592b2a2.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -15422,7 +15218,7 @@
 		"id": "1425",
 		"collection": "Nightcrawler",
 		"title": "The Devil Inside",
-		"vol": 1,
+		"vol": 3,
 		"num": 4,
 		"date": "2004-12-22",
 		"characters": [
@@ -15430,15 +15226,11 @@
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Wayne Faucher",
-			"Greg Land",
-			"Matt Milla",
-			"Cory Petit",
 			"Darick Robertson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc65f6d9111e.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -15447,7 +15239,7 @@
 		"id": "1521",
 		"collection": "Nightcrawler",
 		"title": "The Devil Inside",
-		"vol": 1,
+		"vol": 3,
 		"num": 5,
 		"date": "2005-01-19",
 		"characters": [
@@ -15455,15 +15247,11 @@
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Wayne Faucher",
-			"Greg Land",
-			"Matt Milla",
-			"Cory Petit",
 			"Darick Robertson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc658d346e37.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -15472,7 +15260,7 @@
 		"id": "1621",
 		"collection": "Nightcrawler",
 		"title": "The Devil Inside",
-		"vol": 1,
+		"vol": 3,
 		"num": 6,
 		"date": "2005-02-23",
 		"characters": [
@@ -15480,15 +15268,11 @@
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Wayne Faucher",
-			"Matt Milla",
-			"Cory Petit",
-			"Darick Robertson",
-			"Bill Sienkiewicz"
+			"Darick Robertson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4bc652ea004df.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -15497,7 +15281,7 @@
 		"id": "2130",
 		"collection": "Nightcrawler",
 		"title": "The Winding Way",
-		"vol": 1,
+		"vol": 3,
 		"num": 7,
 		"date": "2005-06-22",
 		"characters": [
@@ -15505,14 +15289,11 @@
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Matt Milla",
-			"Jimmy Palmiotti",
-			"Cory Petit",
 			"Darick Robertson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4bc633700ad2c.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -15521,7 +15302,7 @@
 		"id": "2239",
 		"collection": "Nightcrawler",
 		"title": "The Winding Way",
-		"vol": 1,
+		"vol": 3,
 		"num": 8,
 		"date": "2005-07-27",
 		"characters": [
@@ -15529,14 +15310,11 @@
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Matt Milla",
-			"Jimmy Palmiotti",
-			"Cory Petit",
 			"Darick Robertson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/4bc62cfab1c0f.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -15545,7 +15323,7 @@
 		"id": "2350",
 		"collection": "Nightcrawler",
 		"title": "The Winding Way",
-		"vol": 1,
+		"vol": 3,
 		"num": 9,
 		"date": "2005-08-24",
 		"characters": [
@@ -15553,14 +15331,11 @@
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Matt Milla",
-			"Jimmy Palmiotti",
-			"Cory Petit",
 			"Darick Robertson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc6273a59a5e.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -15569,7 +15344,7 @@
 		"id": "2494",
 		"collection": "Nightcrawler",
 		"title": "The Winding Way",
-		"vol": 1,
+		"vol": 3,
 		"num": 10,
 		"date": "2005-09-28",
 		"characters": [
@@ -15577,14 +15352,11 @@
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Matt Milla",
-			"Jimmy Palmiotti",
-			"Cory Petit",
 			"Darick Robertson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bc61f0f72a3c.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -15593,7 +15365,7 @@
 		"id": "2495",
 		"collection": "Nightcrawler",
 		"title": "The Winding Way",
-		"vol": 1,
+		"vol": 3,
 		"num": 11,
 		"date": "2005-11-02",
 		"characters": [
@@ -15601,14 +15373,11 @@
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Matt Milla",
-			"Jimmy Palmiotti",
-			"Cory Petit",
 			"Darick Robertson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4bc61f0963741.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -15617,7 +15386,7 @@
 		"id": "3096",
 		"collection": "Nightcrawler",
 		"title": "The Winding Way",
-		"vol": 1,
+		"vol": 3,
 		"num": 12,
 		"date": "2005-11-30",
 		"characters": [
@@ -15625,14 +15394,11 @@
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Matt Milla",
-			"Cory Petit",
-			"Rodney Ramos",
 			"Darick Robertson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc61a978710a.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": "Translated",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -15649,10 +15415,7 @@
 		],
 		"creators": [
 			"Tony Bedard",
-			"Transparency Digital",
-			"Scot Eaton",
-			"Karl Moline",
-			"Dave Sharpe"
+			"Karl Moline"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc653333daf3.jpg",
 		"universe": "Earth-616",
@@ -15672,11 +15435,7 @@
 		],
 		"creators": [
 			"Tony Bedard",
-			"Transparency Digital",
-			"Scot Eaton",
-			"Rick Magyar",
-			"Karl Moline",
-			"Dave Sharpe"
+			"Karl Moline"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bc64e034a188.jpg",
 		"universe": "Earth-616",
@@ -15696,11 +15455,7 @@
 		],
 		"creators": [
 			"Tony Bedard",
-			"Transparency Digital",
-			"Scot Eaton",
-			"Rick Magyar",
-			"Karl Moline",
-			"Dave Sharpe"
+			"Derec Donovan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bc6482aada9d.jpg",
 		"universe": "Earth-616",
@@ -15720,11 +15475,7 @@
 		],
 		"creators": [
 			"Tony Bedard",
-			"Transparency Digital",
-			"Scot Eaton",
-			"Rick Magyar",
-			"Karl Moline",
-			"Dave Sharpe"
+			"Karl Moline"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4bc6401b9272b.jpg",
 		"universe": "Earth-616",
@@ -15740,15 +15491,11 @@
 		"num": 11,
 		"date": "2005-05-18",
 		"characters": [
-			"Lady Deathstrike",
 			"Rogue"
 		],
 		"creators": [
-			"Derec Aucoin",
 			"Tony Bedard",
-			"Transparency Digital",
-			"Scot Eaton",
-			"Dave Sharpe"
+			"Derec Donovan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bc63af1c18c5.jpg",
 		"universe": "Earth-616",
@@ -15764,19 +15511,11 @@
 		"num": 12,
 		"date": "2005-06-22",
 		"characters": [
-			"Gambit",
-			"Havok",
-			"Iceman",
-			"Polaris",
 			"Rogue"
 		],
 		"creators": [
 			"Tony Bedard",
-			"Transparency Digital",
-			"Scot Eaton",
-			"Rick Magyar",
-			"Karl Moline",
-			"Dave Sharpe"
+			"Karl Moline"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4bc6351519d12.jpg",
 		"universe": "Earth-616",
@@ -15793,20 +15532,17 @@
 		"date": "2005-07-13",
 		"characters": [
 			"Avengers",
-			"Captain America",
+			"Steve Rogers",
 			"Iron Man",
-			"Sentry (Robert Reynolds)",
+			"Luke Cage",
+			"Sentry",
 			"Spider-Man",
-			"Spider-Woman (Jessica Drew)",
+			"Spider-Woman",
 			"Wolverine"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"David Finch",
-			"Morry Hollowell",
-			"Steve McNiven",
-			"Mark Morales",
-			"Richard Starkings"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4f7db39021b77.jpg",
 		"universe": "Earth-616",
@@ -15824,20 +15560,17 @@
 		"date": "2005-08-03",
 		"characters": [
 			"Avengers",
-			"Captain America",
+			"Steve Rogers",
 			"Iron Man",
-			"Mr. Fantastic",
-			"Sentry (Robert Reynolds)",
+			"Luke Cage",
+			"Sentry",
 			"Spider-Man",
-			"Thing"
+			"Spider-Woman",
+			"Wolverine"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Sal Buscema",
-			"Steve McNiven",
-			"David Finch",
-			"Morry Hollowell",
-			"Mark Morales"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f7db48e58b01.jpg",
 		"universe": "Earth-616",
@@ -15855,31 +15588,17 @@
 		"date": "2005-08-24",
 		"characters": [
 			"Avengers",
-			"Beast",
-			"Captain America",
-			"Cyclops",
-			"Doctor Strange",
-			"Emma Frost",
-			"Human Torch",
+			"Steve Rogers",
 			"Iron Man",
 			"Luke Cage",
-			"Mr. Fantastic",
-			"Professor X",
-			"Sentry (Robert Reynolds)",
+			"Sentry",
 			"Spider-Man",
-			"Spider-Woman (Jessica Drew)",
-			"Sub-Mariner",
-			"Thing",
+			"Spider-Woman",
 			"Wolverine"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"David Finch",
-			"Morry Hollowell",
-			"Steve McNiven",
-			"Danny K. Miki",
-			"Mark Morales",
-			"Richard Starkings"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4f7db64f51c31.jpg",
 		"universe": "Earth-616",
@@ -15897,31 +15616,17 @@
 		"date": "2005-09-21",
 		"characters": [
 			"Avengers",
-			"Black Bolt",
-			"Captain America",
-			"Cyclops",
-			"Doctor Strange",
-			"Emma Frost",
-			"Gorgon",
-			"Invisible Woman",
+			"Steve Rogers",
 			"Iron Man",
 			"Luke Cage",
-			"Mastermind",
-			"Mr. Fantastic",
-			"Sentry (Robert Reynolds)",
+			"Sentry",
 			"Spider-Man",
-			"Spider-Woman (Jessica Drew)",
-			"Sub-Mariner",
+			"Spider-Woman",
 			"Wolverine"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"David Finch",
-			"Morry Hollowell",
-			"Laura Martin",
-			"Steve McNiven",
-			"Mark Morales",
-			"Richard Starkings"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4f7dfbda0e3b9.jpg",
 		"universe": "Earth-616",
@@ -15938,14 +15643,16 @@
 		"num": 7,
 		"date": "2005-09-28",
 		"characters": [
-			"Young Avengers"
+			"Young Avengers",
+			"Hulkling",
+			"Patriot",
+			"Wiccan",
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Jim Cheung",
-			"John Dell",
 			"Allan Heinberg",
-			"Cory Petit",
-			"Justin Ponsor",
 			"Andrea Di Vito"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bc628d3289f5.jpg",
@@ -15963,14 +15670,16 @@
 		"num": 8,
 		"date": "2005-10-26",
 		"characters": [
-			"Young Avengers"
+			"Young Avengers",
+			"Hulkling",
+			"Patriot",
+			"Wiccan",
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Jim Cheung",
 			"Allan Heinberg",
-			"Andrew Hennessy",
-			"Cory Petit",
-			"Justin Ponsor",
 			"Andrea Di Vito"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4bc622267420f.jpg",
@@ -15988,13 +15697,16 @@
 		"num": 1,
 		"date": "2005-12-28",
 		"characters": [
-			""
+			"Young Avengers",
+			"Hulkling",
+			"Patriot",
+			"Wiccan",
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Jim Cheung",
-			"Gene Ha",
-			"Allan Heinberg",
-			"Cory Petit"
+			"Allan Heinberg"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc60cc45e087.jpg",
 		"universe": "Earth-616",
@@ -16011,19 +15723,17 @@
 		"num": 9,
 		"date": "2005-11-23",
 		"characters": [
-			"Hawkeye (Kate Bishop)",
+			"Young Avengers",
 			"Hulkling",
 			"Patriot",
-			"Vision",
 			"Wiccan",
-			"Young Avengers"
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Jim Cheung",
-			"John Dell",
 			"Allan Heinberg",
-			"Cory Petit",
-			"Justin Ponsor"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4bc32e9875641.jpg",
 		"universe": "Earth-616",
@@ -16040,14 +15750,17 @@
 		"num": 10,
 		"date": "2006-02-08",
 		"characters": [
-			"Young Avengers"
+			"Young Avengers",
+			"Hulkling",
+			"Patriot",
+			"Wiccan",
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Jim Cheung",
 			"Allan Heinberg",
-			"Dave Meikis",
-			"Cory Petit",
-			"Justin Ponsor"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bc612b22cf6d.jpg",
 		"universe": "Earth-616",
@@ -16064,14 +15777,17 @@
 		"num": 11,
 		"date": "2006-04-05",
 		"characters": [
-			"Young Avengers"
+			"Young Avengers",
+			"Hulkling",
+			"Patriot",
+			"Wiccan",
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Jim Cheung",
 			"Allan Heinberg",
-			"Cory Petit",
-			"Justin Ponsor",
-			"Robert Stull"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4bc5f69385a49.jpg",
 		"universe": "Earth-616",
@@ -16088,21 +15804,17 @@
 		"num": 12,
 		"date": "2006-06-28",
 		"characters": [
-			"Captain America",
-			"Hawkeye (Kate Bishop)",
+			"Young Avengers",
+			"Hulkling",
 			"Patriot",
-			"Spider-Man",
-			"Spider-Woman (Jessica Drew)",
-			"Vision",
 			"Wiccan",
-			"Young Avengers"
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Jim Cheung",
 			"Allan Heinberg",
-			"Cory Petit",
-			"Justin Ponsor",
-			"Robert Stull"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4d251d30321ea.jpg",
 		"universe": "Earth-616",
@@ -16119,15 +15831,13 @@
 		"num": 20,
 		"date": "2004-10-06",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Elektra",
+			"Nick Fury"
 		],
 		"creators": [
-			"Klaus Janson",
 			"Mark Millar",
-			"Paul Mounts",
-			"John Romita JR.",
-			"Rus Wooton"
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/51ed63ab9d42c.jpg",
 		"universe": "Earth-616",
@@ -16144,15 +15854,13 @@
 		"num": 21,
 		"date": "2004-10-27",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Elektra",
+			"Nick Fury"
 		],
 		"creators": [
-			"Klaus Janson",
 			"Mark Millar",
-			"Paul Mounts",
-			"John Romita JR.",
-			"Rus Wooton"
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/51ed660eacc1e.jpg",
 		"universe": "Earth-616",
@@ -16169,15 +15877,13 @@
 		"num": 22,
 		"date": "2004-11-17",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Elektra",
+			"Nick Fury"
 		],
 		"creators": [
-			"Klaus Janson",
 			"Mark Millar",
-			"Paul Mounts",
-			"John Romita JR.",
-			"Rus Wooton"
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/51ed65ff3f32e.jpg",
 		"universe": "Earth-616",
@@ -16194,15 +15900,13 @@
 		"num": 23,
 		"date": "2004-12-15",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Elektra",
+			"Nick Fury"
 		],
 		"creators": [
-			"Klaus Janson",
 			"Mark Millar",
-			"Paul Mounts",
-			"John Romita JR.",
-			"Rus Wooton"
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51ed65f6c37d3.jpg",
 		"universe": "Earth-616",
@@ -16219,15 +15923,13 @@
 		"num": 24,
 		"date": "2005-01-19",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Elektra",
+			"Nick Fury"
 		],
 		"creators": [
-			"Klaus Janson",
 			"Mark Millar",
-			"Paul Mounts",
-			"John Romita JR.",
-			"Rus Wooton"
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/51ed65e8b52f0.jpg",
 		"universe": "Earth-616",
@@ -16244,23 +15946,13 @@
 		"num": 25,
 		"date": "2005-02-16",
 		"characters": [
-			"Beast",
-			"Cyclops",
-			"Emma Frost",
-			"Iron Man",
-			"Kitty Pryde",
-			"Nick Fury",
-			"Rachel Grey",
-			"Storm",
 			"Wolverine",
-			"X-Men"
+			"Elektra",
+			"Nick Fury"
 		],
 		"creators": [
-			"Klaus Janson",
 			"Mark Millar",
-			"Paul Mounts",
-			"John Romita JR.",
-			"Rus Wooton"
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/51ed65df32104.jpg",
 		"universe": "Earth-616",
@@ -16277,16 +15969,13 @@
 		"num": 26,
 		"date": "2005-03-16",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Elektra",
+			"Nick Fury"
 		],
 		"creators": [
-			"Klaus Janson",
-			"Greg Land",
 			"Mark Millar",
-			"Paul Mounts",
-			"John Romita JR.",
-			"Rus Wooton"
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/51ed65d183c56.jpg",
 		"universe": "Earth-616",
@@ -16303,18 +15992,13 @@
 		"num": 27,
 		"date": "2005-04-20",
 		"characters": [
+			"Wolverine",
 			"Elektra",
-			"Iron Man",
-			"Nick Fury",
-			"Wolverine"
+			"Nick Fury"
 		],
 		"creators": [
-			"Klaus Janson",
-			"Greg Land",
 			"Mark Millar",
-			"Paul Mounts",
-			"Cory Petit",
-			"John Romita JR."
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/51ed65c7e1f87.jpg",
 		"universe": "Earth-616",
@@ -16331,16 +16015,13 @@
 		"num": 28,
 		"date": "2005-05-18",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Elektra",
+			"Nick Fury"
 		],
 		"creators": [
-			"Randy Gentile",
-			"Klaus Janson",
-			"Greg Land",
 			"Mark Millar",
-			"Paul Mounts",
-			"John Romita JR."
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/51ed65bab7ed9.jpg",
 		"universe": "Earth-616",
@@ -16357,16 +16038,13 @@
 		"num": 29,
 		"date": "2005-06-15",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Elektra",
+			"Nick Fury"
 		],
 		"creators": [
-			"Randy Gentile",
-			"Klaus Janson",
 			"Mark Millar",
-			"Paul Mounts",
-			"Joe Quesada",
-			"John Romita JR."
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/51ed65a4bd5b4.jpg",
 		"universe": "Earth-616",
@@ -16383,16 +16061,13 @@
 		"num": 30,
 		"date": "2005-07-20",
 		"characters": [
-			"Gorgon",
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Elektra",
+			"Nick Fury"
 		],
 		"creators": [
-			"Randy Gentile",
-			"Klaus Janson",
 			"Mark Millar",
-			"Paul Mounts",
-			"John Romita JR."
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/51ed659513699.jpg",
 		"universe": "Earth-616",
@@ -16409,15 +16084,13 @@
 		"num": 31,
 		"date": "2005-08-24",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Elektra",
+			"Nick Fury"
 		],
 		"creators": [
-			"Randy Gentile",
-			"Klaus Janson",
 			"Mark Millar",
-			"Paul Mounts",
-			"John Romita JR."
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4d2512f9caec7.jpg",
 		"universe": "Earth-616",
@@ -16434,14 +16107,11 @@
 		"num": 32,
 		"date": "2005-09-21",
 		"characters": [
-			"Iron Man",
 			"Wolverine"
 		],
 		"creators": [
-			"Kaare Andrews",
-			"Randy Gentile",
 			"Mark Millar",
-			"Jose Villarrubia"
+			"Kaare Andrews"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4d250538ed7ff.jpg",
 		"universe": "Earth-616",
@@ -16457,18 +16127,18 @@
 		"num": 460,
 		"date": "2005-06-01",
 		"characters": [
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
 			"Psylocke",
-			"X-23",
-			"X-Men"
+			"X-27"
 		],
 		"creators": [
-			"Frank Cho",
-			"Randall Green",
 			"Chris Claremont",
-			"Gina Going",
-			"Scott Hanna",
-			"Tom Raney",
-			"Rus Wooton"
+			"Tom Raney"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4bc636baa70b1.jpg",
 		"universe": "Earth-616",
@@ -16484,13 +16154,17 @@
 		"num": 461,
 		"date": "2005-06-15",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Rachel Grey",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"Psylocke",
+			"X-27"
 		],
 		"creators": [
-			"Frank Cho",
 			"Chris Claremont",
-			"Gina Going",
-			"Scott Hanna",
 			"Tom Raney"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4bc636b579f66.jpg",
@@ -16507,19 +16181,15 @@
 		"num": 7,
 		"date": "2005-04-06",
 		"characters": [
-			"Scorpion (Carmilla Black)"
+			"Carmilla Black"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Randy Gentile",
-			"Jonathan Glapion",
-			"James Jean",
-			"Leonard Kirk",
-			"Fred Van Lente"
+			"Fred Van Lente",
+			"Leonard Kirk"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/56cb709d2583f.jpg",
 		"universe": "Earth-616",
-		"comments": "Scorpion origins - inglés",
+		"comments": "Scorpion origins, In English",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -16532,18 +16202,15 @@
 		"num": 8,
 		"date": "2005-05-04",
 		"characters": [
-			"Scorpion (Carmilla Black)"
+			"Carmilla Black"
 		],
 		"creators": [
-			"Jonathan Glapion",
-			"James Jean",
-			"Leonard Kirk",
 			"Fred Van Lente",
-			"Rus Wooton"
+			"Leonard Kirk"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/56cb71175e5be.jpg",
 		"universe": "Earth-616",
-		"comments": "inglés",
+		"comments": "In English",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -16556,19 +16223,15 @@
 		"num": 9,
 		"date": "2005-06-01",
 		"characters": [
-			"Scorpion (Carmilla Black)"
+			"Carmilla Black"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Jonathan Glapion",
-			"James Jean",
-			"Leonard Kirk",
 			"Fred Van Lente",
-			"Rus Wooton"
+			"Leonard Kirk"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/56cb7177740bb.jpg",
 		"universe": "Earth-616",
-		"comments": "inglés",
+		"comments": "In English",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -16581,17 +16244,15 @@
 		"num": 10,
 		"date": "2005-07-06",
 		"characters": [
-			"Scorpion (Carmilla Black)"
+			"Carmilla Black"
 		],
 		"creators": [
-			"James Jean",
-			"Leonard Kirk",
-			"Federica Manfredi",
-			"Fred Van Lente"
+			"Fred Van Lente",
+			"Leonard Kirk"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56cb721f79c3a.jpg",
 		"universe": "Earth-616",
-		"comments": "inglés",
+		"comments": "In English",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -16604,18 +16265,15 @@
 		"num": 11,
 		"date": "2005-08-03",
 		"characters": [
-			"Scorpion (Carmilla Black)"
+			"Carmilla Black"
 		],
 		"creators": [
-			"James Jean",
-			"Leonard Kirk",
-			"Federica Manfredi",
-			"Jeff Parker",
-			"Fred Van Lente"
+			"Fred Van Lente",
+			"Leonard Kirk"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/56cb7308d7e8b.jpg",
 		"universe": "Earth-616",
-		"comments": "inglés",
+		"comments": "In English",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -16628,18 +16286,15 @@
 		"num": 12,
 		"date": "2005-09-07",
 		"characters": [
-			"Scorpion (Carmilla Black)"
+			"Carmilla Black"
 		],
 		"creators": [
-			"James Jean",
-			"Leonard Kirk",
-			"Federica Manfredi",
-			"Jeff Parker",
-			"Fred Van Lente"
+			"Fred Van Lente",
+			"Leonard Kirk"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/56cb7389343bc.jpg",
 		"universe": "Earth-616",
-		"comments": "inglés",
+		"comments": "In English",
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -16652,10 +16307,12 @@
 		"num": 15,
 		"date": "2005-11-30",
 		"characters": [
-			"Spider-Man"
+			"Amadeus Cho",
+			"Hulk"
 		],
 		"creators": [
-			"Pete Woods"
+			"Greg Pak",
+			"Takeshi Miyazawa"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/56cb74a9868bc.jpg",
 		"universe": "Earth-616",
@@ -16677,9 +16334,6 @@
 		],
 		"creators": [
 			"Peter David",
-			"Edgar Delgado",
-			"Randy Gentile",
-			"Tom Palmer",
 			"Lee Weeks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc656661c7c0.jpg",
@@ -16700,9 +16354,6 @@
 		],
 		"creators": [
 			"Peter David",
-			"Edgar Delgado",
-			"Randy Gentile",
-			"Tom Palmer",
 			"Lee Weeks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/4c7d665705472.jpg",
@@ -16723,9 +16374,6 @@
 		],
 		"creators": [
 			"Peter David",
-			"Edgar Delgado",
-			"Randy Gentile",
-			"Tom Palmer",
 			"Lee Weeks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/4bc64ac9d7fdc.jpg",
@@ -16746,8 +16394,6 @@
 		],
 		"creators": [
 			"Peter David",
-			"Edgar Delgado",
-			"Tom Palmer",
 			"Lee Weeks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc643553dc29.jpg",
@@ -16768,9 +16414,6 @@
 		],
 		"creators": [
 			"Peter David",
-			"Edgar Delgado",
-			"Randy Gentile",
-			"Tom Palmer",
 			"Lee Weeks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc63cad6909c.jpg",
@@ -16790,10 +16433,8 @@
 			"Hulk"
 		],
 		"creators": [
-			"June Chung",
 			"Peter David",
-			"Randy Gentile",
-			"Jae Lee"
+			"Lee Weeks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4bc636ffcf728.jpg",
 		"universe": "Earth-616",
@@ -16812,12 +16453,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Nunzio DeFilippis",
-			"Randall Green",
-			"Rick Ketcham",
-			"Peter Pantazis",
-			"Michael Ryan",
-			"Dave Sharpe"
+			"Christina Weir",
+			"Michael Ryan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5702aa7b613c6.jpg",
 		"universe": "Earth-616",
@@ -16836,12 +16473,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Nunzio DeFilippis",
-			"Randall Green",
-			"Rick Ketcham",
-			"Peter Pantazis",
-			"Michael Ryan",
-			"Dave Sharpe"
+			"Christina Weir",
+			"Michael Ryan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5702aab38b7b5.jpg",
 		"universe": "Earth-616",
@@ -16860,13 +16493,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Nunzio DeFilippis",
 			"Christina Weir",
-			"Randall Green",
-			"Rick Ketcham",
-			"Peter Pantazis",
-			"Michael Ryan",
-			"Dave Sharpe"
+			"Carlo Pagulayan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/5702ad7ec120c.jpg",
 		"universe": "Earth-616",
@@ -16882,18 +16510,11 @@
 		"num": 10,
 		"date": "2005-02-16",
 		"characters": [
-			"Beast",
-			"Cyclops",
-			"Emma Frost",
 			"X-Men"
 		],
 		"creators": [
-			"Nunzio DeFilippis",
-			"Paco Medina",
-			"Peter Pantazis",
-			"Michael Ryan",
-			"Dave Sharpe",
-			"Juan Vlasco"
+			"Christina Weir",
+			"Paco Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/5702adb9a4d93.jpg",
 		"universe": "Earth-616",
@@ -16912,11 +16533,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Nunzio DeFilippis",
-			"Randall Green",
-			"Peter Pantazis",
-			"Dave Sharpe",
-			"Juan Vlasco"
+			"Christina Weir",
+			"Paco Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5702ad6a56a3b.jpg",
 		"universe": "Earth-616",
@@ -16932,21 +16550,11 @@
 		"num": 1,
 		"date": "2005-05-25",
 		"characters": [
-			"Emma Frost",
-			"Hellion",
-			"Hellions (Squad)",
-			"Mercury",
-			"Rockslide",
-			"Tag",
-			"Wither",
 			"X-Men"
 		],
 		"creators": [
-			"Clayton Henry",
-			"Mark Morales",
-			"Wil Quintana",
-			"Dave Sharpe",
-			"Christina Weir"
+			"Christina Weir",
+			"Clayton Henry"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc63a4d0d77f.jpg",
 		"universe": "Earth-616",
@@ -16965,12 +16573,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Nunzio DeFilippis",
 			"Christina Weir",
-			"Clayton Henry",
-			"Mark Morales",
-			"Wil Quintana",
-			"Dave Sharpe"
+			"Clayton Henry"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bc633c2df676.jpg",
 		"universe": "Earth-616",
@@ -16989,12 +16593,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Nunzio DeFilippis",
 			"Christina Weir",
-			"Clayton Henry",
-			"Mark Morales",
-			"Wil Quintana",
-			"Dave Sharpe"
+			"Clayton Henry"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bc62ea6e4173.jpg",
 		"universe": "Earth-616",
@@ -17013,11 +16613,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Clayton Henry",
-			"Mark Morales",
-			"Wil Quintana",
-			"Dave Sharpe",
-			"Christina Weir"
+			"Christina Weir",
+			"Clayton Henry"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/4bc628d86f773.jpg",
 		"universe": "Earth-616",
@@ -17036,11 +16633,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Nunzio DeFilippis",
-			"Rick Ketcham",
-			"Peter Pantazis",
-			"Michael Ryan",
-			"Dave Sharpe"
+			"Christina Weir",
+			"Michael Ryan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/5702ad5a51bef.jpg",
 		"universe": "Earth-616",
@@ -17059,11 +16653,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Nunzio DeFilippis",
-			"Rick Ketcham",
-			"Peter Pantazis",
-			"Michael Ryan",
-			"Dave Sharpe"
+			"Christina Weir",
+			"Michael Ryan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5702ab2938c54.jpg",
 		"universe": "Earth-616",
@@ -17082,12 +16673,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Nunzio DeFilippis",
-			"Paco Medina",
-			"Peter Pantazis",
-			"Michael Ryan",
-			"Dave Sharpe",
-			"Juan Vlasco"
+			"Christina Weir",
+			"Paco Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc473a4c82b8.jpg",
 		"universe": "Earth-616",
@@ -17106,13 +16693,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Nunzio DeFilippis",
 			"Christina Weir",
-			"Paco Medina",
-			"Peter Pantazis",
-			"Michael Ryan",
-			"Dave Sharpe",
-			"Juan Vlasco"
+			"Paco Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/5702ad213f43c.jpg",
 		"universe": "Earth-617",
@@ -17131,13 +16713,8 @@
 			"X-Men"
 		],
 		"creators": [
-			"Tom Chu",
-			"Nunzio DeFilippis",
 			"Christina Weir",
-			"Don Hillsman",
-			"Georges Jeanty",
-			"Aaron Lopresti",
-			"Dave Sharpe"
+			"Georges Jeanty"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/10/4bc61c4dcfbdf.jpg",
 		"universe": "Earth-616",
@@ -17153,23 +16730,12 @@
 		"num": 519,
 		"date": "2005-04-20",
 		"characters": [
-			"Avengers",
-			"Captain America",
-			"Luke Cage",
-			"Mary Jane Watson",
 			"Spider-Man",
-			"Spider-Woman (Jessica Drew)",
-			"Wolverine"
+			"Avengers"
 		],
 		"creators": [
-			"Axel Alonso",
-			"Mike Deodato",
-			"Stan Lee",
-			"J. Michael Straczynski",
-			"Matt Milla",
-			"Cory Petit",
-			"Joe Pimentel",
-			"Jose Pimentel"
+			"J Michael Straczynski",
+			"Mike Deodato Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/57f7ac2fdbf24.jpg",
 		"universe": "Earth-616",
@@ -17187,20 +16753,12 @@
 		"num": 520,
 		"date": "2005-05-25",
 		"characters": [
-			"Captain America",
-			"Iron Man",
-			"Luke Cage",
-			"Mary Jane Watson",
-			"Robbie Robertson",
 			"Spider-Man",
-			"Spider-Woman (Jessica Drew)"
+			"Avengers"
 		],
 		"creators": [
-			"Mike Deodato",
-			"Stan Lee",
-			"Matt Milla",
-			"Cory Petit",
-			"Jose Pimentel"
+			"J Michael Straczynski",
+			"Mike Deodato Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/57f7b322bebd8.jpg",
 		"universe": "Earth-616",
@@ -17217,20 +16775,12 @@
 		"num": 521,
 		"date": "2005-06-29",
 		"characters": [
-			"Captain America",
-			"Hydra",
-			"Mary Jane Watson",
 			"Spider-Man",
-			"Wolverine"
+			"Avengers"
 		],
 		"creators": [
-			"Axel Alonso",
-			"Mike Deodato",
-			"Stan Lee",
-			"J. Michael Straczynski",
-			"Matt Milla",
-			"Cory Petit",
-			"Jose Pimentel"
+			"J Michael Straczynski",
+			"Mike Deodato Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/56cde65f20251.jpg",
 		"universe": "Earth-616",
@@ -17247,24 +16797,12 @@
 		"num": 522,
 		"date": "2005-07-27",
 		"characters": [
-			"Hydra",
-			"Luke Cage",
-			"Mary Jane Watson",
 			"Spider-Man",
-			"Spider-Woman (Jessica Drew)",
-			"Tony Stark",
-			"Wolverine"
+			"Avengers"
 		],
 		"creators": [
-			"Axel Alonso",
-			"Kaare Andrews",
-			"Mike Deodato",
-			"Stan Lee",
-			"J. Michael Straczynski",
-			"Matt Milla",
-			"Cory Petit",
-			"Joe Pimentel",
-			"Jose Pimentel"
+			"J Michael Straczynski",
+			"Mike Deodato Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/56cde6b7c2826.jpg",
 		"universe": "Earth-616",
@@ -17281,23 +16819,12 @@
 		"num": 523,
 		"date": "2005-08-31",
 		"characters": [
-			"Captain America",
-			"Hydra",
-			"Iron Man",
-			"Luke Cage",
 			"Spider-Man",
-			"Spider-Woman (Jessica Drew)"
+			"Avengers"
 		],
 		"creators": [
-			"Axel Alonso",
-			"Mike Deodato",
-			"Terry Dodson",
-			"Stan Lee",
-			"John Stracuzzi",
-			"Matt Milla",
-			"Cory Petit",
-			"Joe Pimentel",
-			"Jose Pimentel"
+			"J Michael Straczynski",
+			"Mike Deodato Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/56cde741caceb.jpg",
 		"universe": "Earth-616",
@@ -17314,20 +16841,12 @@
 		"num": 524,
 		"date": "2005-09-28",
 		"characters": [
-			"Hydra",
-			"Mary Jane Watson",
 			"Spider-Man",
-			"Tony Stark"
+			"Avengers"
 		],
 		"creators": [
-			"Axel Alonso",
-			"Mike Deodato",
-			"Tony Harris",
-			"Stan Lee",
-			"J. Michael Straczynski",
-			"Matt Milla",
-			"Cory Petit",
-			"Jose Pimentel"
+			"J Michael Straczynski",
+			"Mike Deodato Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4d24f1c876ade.jpg",
 		"universe": "Earth-616",
@@ -17345,48 +16864,21 @@
 		"date": "2005-09-14",
 		"event": "Wild Kingdom",
 		"characters": [
+			"Black Panther",
+			"X-Men",
+			"Storm",
 			"Gambit",
-			"Havok",
+			"Rogue",
+			"Wolverine",
 			"Iceman",
 			"Polaris",
-			"Rogue",
-			"Storm",
-			"X-Men"
+			"Havok"
 		],
 		"creators": [
-			"Liquid Graphics",
-			"Salvador Larroca",
-			"Danny K. Miki",
 			"Peter Milligan",
-			"Cory Petit"
+			"Salvador Larroca"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bc6241c423ec.jpg",
-		"universe": "Earth-616",
-		"phaseid": "003",
-		"phasename": "Secret War",
-		"sortid": "051"
-	},
-	{
-		"id": "2435",
-		"collection": "X-Men",
-		"title": "Wild Kingdom",
-		"vol": 2,
-		"num": 176,
-		"date": "2005-09-21",
-		"event": "Wild Kingdom",
-		"characters": [
-			"Black Panther",
-			"Storm"
-		],
-		"creators": [
-			"Frank Cho",
-			"Randy Gentile",
-			"Reginald Hudlin",
-			"Jay Leisten",
-			"Dean White",
-			"David Yardin"
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4d2513de63723.jpg",
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
@@ -17402,17 +16894,49 @@
 		"event": "Wild Kingdom",
 		"characters": [
 			"Black Panther",
+			"X-Men",
 			"Storm",
-			"X-Men"
+			"Gambit",
+			"Rogue",
+			"Wolverine",
+			"Iceman",
+			"Polaris",
+			"Havok"
 		],
 		"creators": [
-			"Liquid Graphics",
-			"Salvador Larroca",
-			"Danny K. Miki",
-			"Peter Milligan",
-			"Cory Petit"
+			"Reginald Hudlin",
+			"David Yardin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4bc620d8f3629.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "051"
+	},
+	{
+		"id": "2435",
+		"collection": "X-Men",
+		"title": "Wild Kingdom",
+		"vol": 2,
+		"num": 176,
+		"date": "2005-09-21",
+		"event": "Wild Kingdom",
+		"characters": [
+			"Black Panther",
+			"X-Men",
+			"Storm",
+			"Gambit",
+			"Rogue",
+			"Wolverine",
+			"Iceman",
+			"Polaris",
+			"Havok"
+		],
+		"creators": [
+			"Peter Milligan",
+			"Salvador Larroca"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4d2513de63723.jpg",
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
@@ -17428,15 +16952,17 @@
 		"event": "Wild Kingdom",
 		"characters": [
 			"Black Panther",
-			"Dragon Man",
-			"Wolverine"
+			"X-Men",
+			"Storm",
+			"Gambit",
+			"Rogue",
+			"Wolverine",
+			"Iceman",
+			"Polaris",
+			"Havok"
 		],
 		"creators": [
-			"Andy Brase",
-			"Randy Gentile",
 			"Reginald Hudlin",
-			"Jay Leisten",
-			"Dean White",
 			"David Yardin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4d250eb90ce78.jpg",
@@ -17453,14 +16979,11 @@
 		"num": 1,
 		"date": "2005-09-07",
 		"characters": [
-			"X-Men"
+			"Colossus"
 		],
 		"creators": [
-			"Chris Bachalo",
-			"Tom Chu",
 			"David Hine",
-			"Jorge Pereira Lucas",
-			"Dave Sharpe"
+			"Jorge Lucas"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/56a79296c1daf.jpg",
 		"universe": "Earth-616",
@@ -17476,13 +16999,11 @@
 		"num": 2,
 		"date": "2005-10-19",
 		"characters": [
-			"X-Men"
+			"Colossus"
 		],
 		"creators": [
-			"Chris Bachalo",
 			"David Hine",
-			"Jorge Pereira Lucas",
-			"Dave Sharpe"
+			"Jorge Lucas"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc46d3b08ed6.jpg",
 		"universe": "Earth-616",
@@ -17498,14 +17019,11 @@
 		"num": 3,
 		"date": "2005-11-02",
 		"characters": [
-			"X-Men"
+			"Colossus"
 		],
 		"creators": [
-			"Chris Bachalo",
-			"Tom Chu",
 			"David Hine",
-			"Jorge Pereira Lucas",
-			"Dave Sharpe"
+			"Jorge Lucas"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/56a791d73931c.jpg",
 		"universe": "Earth-616",
@@ -17521,14 +17039,11 @@
 		"num": 4,
 		"date": "2005-12-07",
 		"characters": [
-			"X-Men"
+			"Colossus"
 		],
 		"creators": [
-			"Chris Bachalo",
-			"Tom Chu",
 			"David Hine",
-			"Jorge Pereira Lucas",
-			"Dave Sharpe"
+			"Jorge Lucas"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4d24e7ca42ffd.jpg",
 		"universe": "Earth-616",
@@ -17544,14 +17059,11 @@
 		"num": 5,
 		"date": "2006-01-04",
 		"characters": [
-			"X-Men"
+			"Colossus"
 		],
 		"creators": [
-			"Chris Bachalo",
-			"Tom Chu",
 			"David Hine",
-			"Jorge Pereira Lucas",
-			"Dave Sharpe"
+			"Jorge Lucas"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/56a7925c51017.jpg",
 		"universe": "Earth-616",
@@ -17567,14 +17079,12 @@
 		"num": 13,
 		"date": "2005-04-13",
 		"characters": [
-			"Spider-Man"
+			"Spider-Man",
+			"Avengers"
 		],
 		"creators": [
-			"Ian Hannin",
 			"Reginald Hudlin",
-			"Steve McNiven",
-			"Cory Petit",
-			"Jonathan Sibal"
+			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/57ae4908f3f8f.jpg",
 		"universe": "Earth-616",
@@ -17590,14 +17100,11 @@
 		"num": 14,
 		"date": "2005-05-18",
 		"characters": [
-			"Spider-Man"
+			"Spider-Man",
+			"Avengers"
 		],
 		"creators": [
-			"Ian Hannin",
 			"Reginald Hudlin",
-			"Steve McNiven",
-			"Cory Petit",
-			"Jonathan Sibal",
 			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/04/57ae48e7dcea9.jpg",
@@ -17614,13 +17121,11 @@
 		"num": 15,
 		"date": "2005-06-08",
 		"characters": [
-			"Spider-Man"
+			"Spider-Man",
+			"Avengers"
 		],
 		"creators": [
-			"Ian Hannin",
 			"Reginald Hudlin",
-			"Steve McNiven",
-			"Cory Petit",
 			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/57ae4932638dd.jpg",
@@ -17637,13 +17142,11 @@
 		"num": 16,
 		"date": "2005-07-20",
 		"characters": [
-			"Spider-Man"
+			"Spider-Man",
+			"Avengers"
 		],
 		"creators": [
-			"Ian Hannin",
 			"Reginald Hudlin",
-			"Steve McNiven",
-			"Cory Petit",
 			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/57ae49fb6378d.jpg",
@@ -17660,14 +17163,11 @@
 		"num": 17,
 		"date": "2005-08-24",
 		"characters": [
-			"Spider-Man"
+			"Spider-Man",
+			"Avengers"
 		],
 		"creators": [
-			"Ian Hannin",
 			"Reginald Hudlin",
-			"Steve McNiven",
-			"Cory Petit",
-			"Jonathan Sibal",
 			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/57ae4960d3dcd.jpg",
@@ -17684,14 +17184,11 @@
 		"num": 18,
 		"date": "2005-09-14",
 		"characters": [
-			"Spider-Man"
+			"Spider-Man",
+			"Avengers"
 		],
 		"creators": [
-			"Ian Hannin",
 			"Reginald Hudlin",
-			"Steve McNiven",
-			"Cory Petit",
-			"Jonathan Sibal",
 			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/57ae498c3a6bd.jpg",
@@ -17708,15 +17205,13 @@
 		"num": 1,
 		"date": "2004-11-10",
 		"characters": [
-			""
+			"Thunderbolts",
+			"Songbird",
+			"Genis-Vell"
 		],
 		"creators": [
-			"Kurt Busiek",
 			"Fabian Nicieza",
-			"Gary Erskine",
-			"Tom Grummett",
-			"Chris Sotomayor",
-			"Richard Starkings"
+			"Tom Grummett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc6b22116c9f.jpg",
 		"universe": "Earth-616",
@@ -17733,14 +17228,13 @@
 		"num": 2,
 		"date": "2004-11-24",
 		"characters": [
-			""
+			"Thunderbolts",
+			"Songbird",
+			"Genis-Vell"
 		],
 		"creators": [
-			"Gary Erskine",
-			"Tom Grummett",
 			"Fabian Nicieza",
-			"Chris Sotomayor",
-			"Richard Starkings"
+			"Tom Grummett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4bc6b21bc1255.jpg",
 		"universe": "Earth-616",
@@ -17756,14 +17250,13 @@
 		"num": 3,
 		"date": "2004-12-22",
 		"characters": [
-			""
+			"Thunderbolts",
+			"Songbird",
+			"Genis-Vell"
 		],
 		"creators": [
-			"Kurt Busiek",
-			"Gary Erskine",
-			"Tom Grummett",
-			"Chris Sotomayor",
-			"Richard Starkings"
+			"Fabian Nicieza",
+			"Tom Grummett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bc65c493a1d0.jpg",
 		"universe": "Earth-616",
@@ -17779,15 +17272,13 @@
 		"num": 4,
 		"date": "2005-01-12",
 		"characters": [
-			"Swordsman",
-			"Wolverine"
+			"Thunderbolts",
+			"Songbird",
+			"Genis-Vell"
 		],
 		"creators": [
-			"Gary Erskine",
-			"Tom Grummett",
 			"Fabian Nicieza",
-			"Chris Sotomayor",
-			"Richard Starkings"
+			"Tom Grummett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bc65660b97d5.jpg",
 		"universe": "Earth-616",
@@ -17803,14 +17294,13 @@
 		"num": 5,
 		"date": "2005-02-09",
 		"characters": [
-			""
+			"Thunderbolts",
+			"Songbird",
+			"Genis-Vell"
 		],
 		"creators": [
-			"Gary Erskine",
-			"Tom Grummett",
 			"Fabian Nicieza",
-			"Chris Sotomayor",
-			"Richard Starkings"
+			"Tom Grummett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc6513e9fc45.jpg",
 		"universe": "Earth-616",
@@ -17826,20 +17316,13 @@
 		"num": 6,
 		"date": "2005-03-09",
 		"characters": [
-			"Atlas (Team)",
-			"Blizzard",
-			"Joystick",
-			"Radioactive Man",
+			"Thunderbolts",
 			"Songbird",
-			"Speed Demon",
-			"Swordsman"
+			"Genis-Vell"
 		],
 		"creators": [
-			"Gary Erskine",
-			"Tom Grummett",
 			"Fabian Nicieza",
-			"Chris Sotomayor",
-			"Richard Starkings"
+			"Tom Grummett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bc64ac470eba.jpg",
 		"universe": "Earth-616",
