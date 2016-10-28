@@ -75,6 +75,16 @@ func init() {
 		return service.ListComicsBySortID(j[fmt.Sprintf("comics-phase-%s", p.ByName("id"))], p.ByName("sortid"))
 	}))
 
+	// Get all events
+	router.GET("/api/events", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
+		return service.ListEvents(j["events"])
+	}))
+
+	// Get this event
+	router.GET("/api/events/:id", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
+		return service.FindEventByID(j["events"], p.ByName("id"))
+	}))
+
 	// WEB
 
 	// Index -> Get all first issues from all phases
@@ -83,7 +93,11 @@ func init() {
 		if err != nil {
 			return "", err
 		}
-		return getIndexPage(phases)
+		events, err := service.ListEvents(j["events"])
+		if err != nil {
+			return "", err
+		}
+		return getIndexPage(phases, events)
 	}))
 
 	// Issues -> Get all first issues from this phases
@@ -92,11 +106,15 @@ func init() {
 		if err != nil {
 			return "", err
 		}
+		events, err := service.ListEvents(j["events"])
+		if err != nil {
+			return "", err
+		}
 		issues, err := service.FindFirstIssuesByPhaseID(j["fissues"], p.ByName("id"))
 		if err != nil {
 			return "", err
 		}
-		return getPhasePage(phases, issues)
+		return getPhasePage(phases, events, issues)
 	}))
 
 	// Issues -> Get all issues from this comic from this phase
@@ -105,11 +123,15 @@ func init() {
 		if err != nil {
 			return "", err
 		}
+		events, err := service.ListEvents(j["events"])
+		if err != nil {
+			return "", err
+		}
 		issues, err := service.ListComicsBySortID(j[fmt.Sprintf("comics-phase-%s", p.ByName("id"))], p.ByName("sortid"))
 		if err != nil {
 			return "", err
 		}
-		return getIssuesPage(phases, issues)
+		return getIssuesPage(phases, events, issues)
 	}))
 
 	// About
@@ -118,7 +140,11 @@ func init() {
 		if err != nil {
 			return "", err
 		}
-		return getAboutPage(phases), nil
+		events, err := service.ListEvents(j["events"])
+		if err != nil {
+			return "", err
+		}
+		return getAboutPage(phases, events), nil
 	}))
 
 	http.Handle("/", router)

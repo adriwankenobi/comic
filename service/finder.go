@@ -57,6 +57,22 @@ func ListFirstIssues(fissues *jsonql.JSONQL) (*FissuesList, error) {
 	return FindFissuesList(fissues, "phase.id!=''")
 }
 
+// Find events
+func FindEventByID(events *jsonql.JSONQL, id string) (*Event, error) {
+	list, err := FindEventList(events, "id='"+id+"'")
+	if err != nil {
+		return &Event{}, err
+	}
+	if len(*list) <= 0 {
+		return &Event{}, nil
+	}
+	return &(*list)[0], nil
+}
+
+func ListEvents(events *jsonql.JSONQL) (*EventList, error) {
+	return FindEventList(events, "id!=''")
+}
+
 // Utils
 func FindComicList(comics *jsonql.JSONQL, q string) (*ComicList, error) {
 	result, err := comics.Query(q)
@@ -80,4 +96,12 @@ func FindFissuesList(fissues *jsonql.JSONQL, q string) (*FissuesList, error) {
 		return nil, err
 	}
 	return NewFissuesList(result)
+}
+
+func FindEventList(events *jsonql.JSONQL, q string) (*EventList, error) {
+	result, err := events.Query(q)
+	if err != nil {
+		return nil, err
+	}
+	return NewEventList(result)
 }
