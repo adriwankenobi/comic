@@ -18,6 +18,9 @@ func JsonGenerator(path, out string) error {
 	// New phase list
 	phases := PhaseList{}
 
+	// New events list
+	events := EventList{}
+
 	// New issues phase list
 	fissues := FissuesList{}
 
@@ -26,6 +29,10 @@ func JsonGenerator(path, out string) error {
 	if err != nil {
 		return err
 	}
+
+	eventsMap := map[string]Event{}
+	eventsComics := map[string]*ComicList{}
+	eventID := 0
 
 	// Loop through file sheets
 	for sheet_i, sheet := range xls.Sheets {
@@ -40,7 +47,7 @@ func JsonGenerator(path, out string) error {
 		i := Fissues{}
 		i.Phase = p
 		i.List = ComicList{}
-		
+
 		cp := ComicList{}
 
 		lastTitle := ""
@@ -108,13 +115,30 @@ func JsonGenerator(path, out string) error {
 			c.Num = num
 			c.Title = title
 			c.Date = date
-			c.Event = event
+			if event != "" {
+				c.Event = event
+				e, exists := eventsMap[event]
+				if !exists {
+					eventID++
+					eID, err := getCode(eventID)
+					if err != nil {
+						return err
+					}
+					e = Event{ID: eID, Name: event}
+					eventsMap[event] = e
+					eventsComics[eID] = &ComicList{}
+					events = append(events, e)
+				}
+				c.EventID = e.ID
+			}
 			c.Characters = strings.Split(characters, ", ")
 			c.Creators = strings.Split(creators, ", ")
 			c.Pic = pic
 			c.Universe = universe
 			c.Essential = essential == "YES"
-			c.Comments = comments
+			if comments != "" {
+				c.Comments = strings.Split(comments, ", ")
+			}
 			c.PhaseID = p.ID
 			c.PhaseName = p.Name
 			if title != lastTitle {
@@ -137,6 +161,9 @@ func JsonGenerator(path, out string) error {
 			}
 			comics = append(comics, c)
 			cp = append(cp, c)
+			if event != "" {
+				*(eventsComics[c.EventID]) = append(*(eventsComics[c.EventID]), c)
+			}
 		}
 
 		fissues = append(fissues, i)
@@ -145,6 +172,10 @@ func JsonGenerator(path, out string) error {
 	Datastore["comics"] = &comics
 	Datastore["phases"] = &phases
 	Datastore["fissues"] = &fissues
+	Datastore["events"] = &events
+	for key, value := range eventsComics {
+		Datastore[fmt.Sprintf("comics-event-%s", key)] = value
+	}
 	return nil
 }
 

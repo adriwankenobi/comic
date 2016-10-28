@@ -7,6 +7,7 @@
 		"num": 1,
 		"date": "2005-11-09",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -19,7 +20,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4bc6175373f29.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "90% of mutants lose their powers",
+		"comments": [
+			"90% of mutants lose their powers"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "001"
@@ -32,6 +35,7 @@
 		"num": 1,
 		"date": "2006-01-18",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -43,7 +47,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc607a8c9207.jpg",
 		"universe": "Earth-616",
-		"comments": "New sentinels are formed",
+		"comments": [
+			"New sentinels are formed"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "002"
@@ -56,6 +62,7 @@
 		"num": 2,
 		"date": "2006-02-15",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -80,6 +87,7 @@
 		"num": 3,
 		"date": "2006-03-08",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -104,6 +112,7 @@
 		"num": 4,
 		"date": "2006-04-19",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -129,6 +138,7 @@
 		"num": 5,
 		"date": "2006-05-03",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -154,6 +164,7 @@
 		"num": 177,
 		"date": "2005-11-09",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -178,6 +189,7 @@
 		"num": 178,
 		"date": "2005-11-30",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Sentinel",
 			"Wolverine",
@@ -204,6 +216,7 @@
 		"num": 179,
 		"date": "2005-12-14",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -228,6 +241,7 @@
 		"num": 20,
 		"date": "2005-11-09",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Hellion",
 			"Mercury",
@@ -256,6 +270,7 @@
 		"num": 21,
 		"date": "2005-12-14",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -281,6 +296,7 @@
 		"num": 22,
 		"date": "2006-01-11",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -306,6 +322,7 @@
 		"num": 23,
 		"date": "2006-02-22",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -331,6 +348,7 @@
 		"num": 13,
 		"date": "2006-02-08",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -343,7 +361,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/568414810a6fc.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "005"
@@ -356,6 +376,7 @@
 		"num": 1,
 		"date": "2005-12-14",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Quicksilver"
 		],
@@ -367,7 +388,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc60cf09a1ff.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Quicksilver steals terragenesis stones",
+		"comments": [
+			"Quicksilver steals terragenesis stones"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "006"
@@ -380,6 +403,7 @@
 		"num": 2,
 		"date": "2006-01-11",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -404,6 +428,7 @@
 		"num": 3,
 		"date": "2006-02-08",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -428,6 +453,7 @@
 		"num": 4,
 		"date": "2006-03-08",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -452,6 +478,7 @@
 		"num": 5,
 		"date": "2006-04-12",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -477,6 +504,7 @@
 		"num": 6,
 		"date": "2006-05-31",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -502,6 +530,7 @@
 		"num": 1,
 		"date": "2006-01-11",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -526,6 +555,7 @@
 		"num": 2,
 		"date": "2006-02-08",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Sentinel",
 			"X-Men"
@@ -552,6 +582,7 @@
 		"num": 3,
 		"date": "2006-03-08",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -577,6 +608,7 @@
 		"num": 4,
 		"date": "2006-04-12",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -602,6 +634,7 @@
 		"num": 5,
 		"date": "2006-05-10",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -627,6 +660,7 @@
 		"num": 1,
 		"date": "2006-01-10",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Sally Floyd",
 			"X-Men"
@@ -650,6 +684,7 @@
 		"num": 2,
 		"date": "2006-02-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Jubilee",
 			"Sally Floyd",
@@ -675,6 +710,7 @@
 		"num": 3,
 		"date": "2006-03-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Blob",
 			"Sally Floyd"
@@ -699,6 +735,7 @@
 		"num": 4,
 		"date": "2006-04-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Angel (Warren Worthington III)",
 			"Sally Floyd",
@@ -726,6 +763,7 @@
 		"num": 5,
 		"date": "2006-05-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Angel (Warren Worthington III)",
 			"Sally Floyd",
@@ -753,6 +791,7 @@
 		"num": 1,
 		"date": "2005-12-14",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Banshee (Theresa Rourke)",
 			"M (Monet St. Croix)",
@@ -783,6 +822,7 @@
 		"num": 2,
 		"date": "2005-12-28",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -807,6 +847,7 @@
 		"num": 3,
 		"date": "2006-02-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Madrox",
 			"Strong Guy",
@@ -834,6 +875,7 @@
 		"num": 4,
 		"date": "2006-03-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -858,6 +900,7 @@
 		"num": 5,
 		"date": "2006-03-22",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Banshee (Theresa Rourke)",
 			"X-Men"
@@ -883,6 +926,7 @@
 		"num": 6,
 		"date": "2006-04-26",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -907,6 +951,7 @@
 		"num": 1,
 		"date": "2005-11-16",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -918,7 +963,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/570293252a4f3.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Xavier's secret second team + Vulcan origins",
+		"comments": [
+			"Xavier's secret second team + Vulcan origins"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "010"
@@ -931,6 +978,7 @@
 		"num": 2,
 		"date": "2005-12-21",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Cyclops",
 			"Vulcan (Gabriel Summers)",
@@ -956,6 +1004,7 @@
 		"num": 3,
 		"date": "2006-01-25",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -979,6 +1028,7 @@
 		"num": 4,
 		"date": "2006-02-15",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1002,6 +1052,7 @@
 		"num": 5,
 		"date": "2006-03-15",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -1023,6 +1074,7 @@
 		"num": 6,
 		"date": "2006-05-17",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1046,6 +1098,7 @@
 		"num": 1,
 		"date": "2007-06-20",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Cyclops",
 			"Nightcrawler",
@@ -1065,7 +1118,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/56f953a644953.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "011"
@@ -1078,6 +1133,7 @@
 		"num": 200,
 		"date": "2007-06-20",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1099,6 +1155,7 @@
 		"num": 488,
 		"date": "2007-08-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1120,6 +1177,7 @@
 		"num": 21,
 		"date": "2007-09-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1141,6 +1199,7 @@
 		"num": 40,
 		"date": "2007-09-15",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1162,6 +1221,7 @@
 		"num": 201,
 		"date": "2007-09-25",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1183,6 +1243,7 @@
 		"num": 489,
 		"date": "2007-09-30",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1204,6 +1265,7 @@
 		"num": 22,
 		"date": "2007-10-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1225,6 +1287,7 @@
 		"num": 41,
 		"date": "2007-10-15",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1246,6 +1309,7 @@
 		"num": 202,
 		"date": "2007-10-25",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1267,6 +1331,7 @@
 		"num": 490,
 		"date": "2007-10-30",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1288,6 +1353,7 @@
 		"num": 23,
 		"date": "2007-11-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1309,6 +1375,7 @@
 		"num": 42,
 		"date": "2007-11-10",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1330,6 +1397,7 @@
 		"num": 203,
 		"date": "2007-11-20",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1351,6 +1419,7 @@
 		"num": 491,
 		"date": "2007-11-30",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1372,6 +1441,7 @@
 		"num": 24,
 		"date": "2007-12-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1393,6 +1463,7 @@
 		"num": 204,
 		"date": "2007-12-10",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1414,6 +1485,7 @@
 		"num": 204,
 		"date": "2007-12-30",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -1943,7 +2015,11 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/55f1ec17724da.jpg",
 		"universe": "Earth-616",
-		"comments": "Ares, Hercules, Phobos introduction",
+		"comments": [
+			"Ares",
+			"Hercules",
+			"Phobos introduction"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "017"
@@ -2060,7 +2136,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/56cdce9df30ab.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "018"
@@ -2085,7 +2163,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/56cdcf6b73044.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "018"
@@ -2110,7 +2190,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/56cdcfde28d51.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "018"
@@ -2135,7 +2217,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/56cdd06baf949.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "018"
@@ -2160,7 +2244,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/56cdd129e563c.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "018"
@@ -2185,7 +2271,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/56cdd1bc0cd49.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "018"
@@ -2210,7 +2298,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/56ddd93d7eadc.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "019"
@@ -2235,7 +2325,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56cdd2296a4e4.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "019"
@@ -2260,7 +2352,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/56cdd2ba93876.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "019"
@@ -2284,7 +2378,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/56cdd339ac8d6.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "019"
@@ -2309,7 +2405,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/56cdd3a8ed02e.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "019"
@@ -2334,7 +2432,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/56cdd40a4ef5a.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "019"
@@ -2356,7 +2456,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4f7f0a8fb8c03.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Iron Man infected with Extremis virus - traducido",
+		"comments": [
+			"Iron Man infected with Extremis virus - traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -2379,7 +2481,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4f7f0c3c2b64f.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -2402,7 +2506,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4d251fee74e41.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -2425,7 +2531,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/00/519fa5eac4abd.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -2448,7 +2556,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb7dec0199b5.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -2471,7 +2581,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4f84752bb13d5.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -2873,7 +2985,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/5744c8d966949.jpg",
 		"universe": "Earth-616",
-		"comments": "Thunderbolts 100th",
+		"comments": [
+			"Thunderbolts 100th"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "023"
@@ -3559,7 +3673,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/57644201a63b5.jpg",
 		"universe": "Earth-616",
-		"comments": "She-Hulk 100th",
+		"comments": [
+			"She-Hulk 100th"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "028"
@@ -3657,7 +3773,6 @@
 		"vol": 1,
 		"num": 1,
 		"date": "2005-10-12",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Spider-Man"
 		],
@@ -3671,7 +3786,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56a8ef914ba16.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Spider-Man evolves",
+		"comments": [
+			"Spider-Man evolves"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "030"
@@ -3683,7 +3800,6 @@
 		"vol": 1,
 		"num": 19,
 		"date": "2005-10-19",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Mary Jane Watson",
 			"Spider-Man"
@@ -3707,7 +3823,6 @@
 		"vol": 1,
 		"num": 525,
 		"date": "2005-10-26",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Mary Jane Watson",
 			"Spider-Man",
@@ -3738,7 +3853,6 @@
 		"vol": 1,
 		"num": 2,
 		"date": "2005-11-09",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Black Panther",
 			"Mr. Fantastic",
@@ -3765,7 +3879,6 @@
 		"vol": 1,
 		"num": 20,
 		"date": "2005-11-16",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Mary Jane Watson",
 			"Spider-Man"
@@ -3789,7 +3902,6 @@
 		"vol": 1,
 		"num": 526,
 		"date": "2005-11-23",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Morlun",
 			"Spider-Man"
@@ -3818,7 +3930,6 @@
 		"vol": 1,
 		"num": 3,
 		"date": "2005-12-07",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Spider-Man"
 		],
@@ -3843,7 +3954,6 @@
 		"vol": 1,
 		"num": 21,
 		"date": "2005-12-14",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Spider-Man"
 		],
@@ -3866,7 +3976,6 @@
 		"vol": 1,
 		"num": 527,
 		"date": "2005-12-28",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Avengers",
 			"Mary Jane Watson",
@@ -3896,7 +4005,6 @@
 		"vol": 1,
 		"num": 4,
 		"date": "2006-01-18",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Mary Jane Watson",
 			"Spider-Man"
@@ -3922,7 +4030,6 @@
 		"vol": 1,
 		"num": 22,
 		"date": "2006-01-18",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Spider-Man"
 		],
@@ -3945,7 +4052,6 @@
 		"vol": 1,
 		"num": 528,
 		"date": "2006-01-25",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Mary Jane Watson",
 			"Spider-Man",
@@ -4249,7 +4355,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/57470b733fd27.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Daredevil goes to prison",
+		"comments": [
+			"Daredevil goes to prison"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "033"
@@ -4399,7 +4507,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bc61ae126812.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Hulk is launched to space",
+		"comments": [
+			"Hulk is launched to space"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "034"
@@ -4705,7 +4815,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4d24edc54a507.jpg",
 		"universe": "Earth-616",
-		"comments": "Wolverine recovers his memory",
+		"comments": [
+			"Wolverine recovers his memory"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "037"
@@ -5187,7 +5299,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc60cf5e77e2.jpg",
 		"universe": "Earth-616",
-		"comments": "Spider-Manwoman origins",
+		"comments": [
+			"Spider-Manwoman origins"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "040"
@@ -5756,7 +5870,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/56425a7007be0.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Danielle Cage is born",
+		"comments": [
+			"Danielle Cage is born"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "043"
@@ -6135,7 +6251,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4bb6abe28cd0d.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Daredevil escapes from prison",
+		"comments": [
+			"Daredevil escapes from prison"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "045"
@@ -6248,7 +6366,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc5fe75153ca.jpg",
 		"universe": "Earth-616",
-		"comments": "Spider-Man gets iron suit",
+		"comments": [
+			"Spider-Man gets iron suit"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "047"
@@ -6806,7 +6926,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f8479d44fd50.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -6832,7 +6954,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4d24e83a5b5d5.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -6859,7 +6983,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4d24dea0ce8e1.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -6887,7 +7013,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/4d25153f18362.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -6914,7 +7042,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/4d250b7077707.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -6939,7 +7069,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4d2515cda44ae.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -7558,7 +7690,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc4c9253bcee.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Xavier regains his powers",
+		"comments": [
+			"Xavier regains his powers"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "057"
@@ -7582,7 +7716,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/51882298836ab.jpg",
 		"universe": "Earth-616",
-		"comments": "Moon Knight introduction",
+		"comments": [
+			"Moon Knight introduction"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "058"
@@ -7710,6 +7846,7 @@
 		"num": 1,
 		"date": "2006-03-15",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Cammi",
 			"Drax",
@@ -7728,7 +7865,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/57865227ac607.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Annihilation wave redefines cosmic universe",
+		"comments": [
+			"Annihilation wave redefines cosmic universe"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "059"
@@ -7741,6 +7880,7 @@
 		"num": 1,
 		"date": "2006-04-19",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Nova"
 		],
@@ -7766,6 +7906,7 @@
 		"num": 2,
 		"date": "2006-05-17",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Cammi",
 			"Drax",
@@ -7792,6 +7933,7 @@
 		"num": 3,
 		"date": "2006-06-21",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Nova",
 			"Quasar (Wendell Vaughn)"
@@ -7817,6 +7959,7 @@
 		"num": 4,
 		"date": "2006-07-19",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Annihilus",
 			"Drax",
@@ -7844,6 +7987,7 @@
 		"num": 1,
 		"date": "2006-04-12",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Baroness S'Bak",
 			"Super-Skrull"
@@ -7870,6 +8014,7 @@
 		"num": 2,
 		"date": "2006-05-10",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Praxagora",
 			"Preak",
@@ -7897,6 +8042,7 @@
 		"num": 3,
 		"date": "2006-06-14",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Lord Hawal",
 			"Praxagora",
@@ -7924,6 +8070,7 @@
 		"num": 4,
 		"date": "2006-07-12",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Praxagora",
 			"Preak",
@@ -7951,6 +8098,7 @@
 		"num": 1,
 		"date": "2006-04-05",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Air-Walker (Gabriel Lan)",
 			"Silver Surfer",
@@ -7978,6 +8126,7 @@
 		"num": 2,
 		"date": "2006-05-03",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Annihilus",
 			"Firelord",
@@ -8008,6 +8157,7 @@
 		"num": 3,
 		"date": "2006-06-07",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Annihilus",
 			"Firelord",
@@ -8038,6 +8188,7 @@
 		"num": 4,
 		"date": "2006-07-12",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Galactus",
 			"Ravenous",
@@ -8068,6 +8219,7 @@
 		"num": 1,
 		"date": "2006-04-26",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Ronan"
 		],
@@ -8093,6 +8245,7 @@
 		"num": 2,
 		"date": "2006-05-24",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Devos",
 			"Gamora",
@@ -8123,6 +8276,7 @@
 		"num": 3,
 		"date": "2006-06-28",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Gamora",
 			"Glorian",
@@ -8150,6 +8304,7 @@
 		"num": 4,
 		"date": "2006-07-26",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Gamora",
 			"Glorian",
@@ -8180,6 +8335,7 @@
 		"num": 1,
 		"date": "2006-08-09",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Annihilus",
 			"Drax",
@@ -8210,6 +8366,7 @@
 		"num": 2,
 		"date": "2006-09-13",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Drax",
 			"Nova",
@@ -8239,6 +8396,7 @@
 		"num": 3,
 		"date": "2006-10-11",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Annihilus",
 			"Drax",
@@ -8269,6 +8427,7 @@
 		"num": 4,
 		"date": "2006-11-08",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Annihilus",
 			"Drax",
@@ -8299,6 +8458,7 @@
 		"num": 5,
 		"date": "2006-12-27",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Drax",
 			"Galactus",
@@ -8330,6 +8490,7 @@
 		"num": 6,
 		"date": "2007-01-31",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Annihilus",
 			"Galactus",
@@ -8359,6 +8520,7 @@
 		"num": 1,
 		"date": "2007-02-28",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			""
 		],
@@ -8386,6 +8548,7 @@
 		"num": 2,
 		"date": "2007-04-04",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			""
 		],
@@ -8693,7 +8856,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc5f840658e4.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "062"

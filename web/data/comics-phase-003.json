@@ -1059,7 +1059,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/564259ee974d5.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Young Avengers origin",
+		"comments": [
+			"Young Avengers origin"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "009"
@@ -1215,7 +1217,10 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56cb7746bd44a.jpg",
 		"universe": "Earth-616",
-		"comments": "Anya Corazón origins, Translated",
+		"comments": [
+			"Anya Corazón origins",
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -1236,7 +1241,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/56cb6bb538602.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -1257,7 +1264,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/56cb6d2cd1338.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -1278,7 +1287,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/56cb6ee146ef6.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -1299,7 +1310,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/56cb6fa2dd2c3.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -1320,7 +1333,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/56cb7028ce644.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -1342,7 +1357,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/535142a7043ae.jpg",
 		"universe": "Earth-616",
-		"comments": "Cable \u0026 Deadpool team up",
+		"comments": [
+			"Cable \u0026 Deadpool team up"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "011"
@@ -2137,7 +2154,9 @@
 		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/c/c0/5728d2ec8b6dc/detail.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Winter soldier introduction",
+		"comments": [
+			"Winter soldier introduction"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "018"
@@ -2287,6 +2306,7 @@
 		"num": 1,
 		"date": "2004-02-04",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Nick Fury",
 			"Quake",
@@ -2306,7 +2326,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc6aedcd6792.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Nick Fury leaves SHIELD and goes solo",
+		"comments": [
+			"Nick Fury leaves SHIELD and goes solo"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "019"
@@ -2319,6 +2341,7 @@
 		"num": 2,
 		"date": "2004-05-26",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Nick Fury",
 			"Quake",
@@ -2350,6 +2373,7 @@
 		"num": 3,
 		"date": "2004-10-13",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Nick Fury",
 			"Quake",
@@ -2381,6 +2405,7 @@
 		"num": 4,
 		"date": "2005-03-30",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Nick Fury",
 			"Quake",
@@ -2412,6 +2437,7 @@
 		"num": 5,
 		"date": "2005-12-14",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Nick Fury",
 			"Quake",
@@ -2431,7 +2457,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc61c3f15578.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Maria Hill becomes SHIELD director",
+		"comments": [
+			"Maria Hill becomes SHIELD director"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "019"
@@ -2444,6 +2472,7 @@
 		"num": 6,
 		"date": "2004-11-10",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Jessica Jones",
 			"Ben Urich",
@@ -2469,6 +2498,7 @@
 		"num": 7,
 		"date": "2005-01-12",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Jessica Jones",
 			"Ben Urich",
@@ -2494,6 +2524,7 @@
 		"num": 8,
 		"date": "2005-03-30",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Jessica Jones",
 			"Ben Urich",
@@ -2519,6 +2550,7 @@
 		"num": 9,
 		"date": "2005-06-08",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Jessica Jones",
 			"Ben Urich",
@@ -2561,7 +2593,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/5149eb485fbf8.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "New Avengers are formed",
+		"comments": [
+			"New Avengers are formed"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "021"
@@ -2827,7 +2861,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/5744b9e7af758.jpg",
 		"universe": "Earth-616",
-		"comments": "Black Panther introduction",
+		"comments": [
+			"Black Panther introduction"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "023"
@@ -2949,7 +2985,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc465362ba79.jpg",
 		"universe": "Earth-616",
-		"comments": "Introduction to Great Lakes Avengers",
+		"comments": [
+			"Introduction to Great Lakes Avengers"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "024"
@@ -3488,7 +3526,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc468ba18fc2.jpg",
 		"universe": "Earth-616",
-		"comments": "X-23 origin",
+		"comments": [
+			"X-23 origin"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "028"
@@ -4121,7 +4161,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4bc6784420b98.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -4142,7 +4184,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/4bc6726077977.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -4163,7 +4207,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bc6b5592b2a2.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -4184,7 +4230,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc65f6d9111e.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -4205,7 +4253,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc658d346e37.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -4226,7 +4276,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4bc652ea004df.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -4247,7 +4299,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4bc633700ad2c.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -4268,7 +4322,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/4bc62cfab1c0f.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -4289,7 +4345,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc6273a59a5e.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -4310,7 +4368,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bc61f0f72a3c.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -4331,7 +4391,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4bc61f0963741.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -4352,7 +4414,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc61a978710a.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -5143,7 +5207,10 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/56cb709d2583f.jpg",
 		"universe": "Earth-616",
-		"comments": "Scorpion origins, In English",
+		"comments": [
+			"Scorpion origins",
+			"In English"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -5164,7 +5231,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/56cb71175e5be.jpg",
 		"universe": "Earth-616",
-		"comments": "In English",
+		"comments": [
+			"In English"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -5185,7 +5254,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/56cb7177740bb.jpg",
 		"universe": "Earth-616",
-		"comments": "In English",
+		"comments": [
+			"In English"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -5206,7 +5277,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56cb721f79c3a.jpg",
 		"universe": "Earth-616",
-		"comments": "In English",
+		"comments": [
+			"In English"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -5227,7 +5300,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/56cb7308d7e8b.jpg",
 		"universe": "Earth-616",
-		"comments": "In English",
+		"comments": [
+			"In English"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -5248,7 +5323,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/56cb7389343bc.jpg",
 		"universe": "Earth-616",
-		"comments": "In English",
+		"comments": [
+			"In English"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -5271,7 +5348,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/56cb74a9868bc.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Amadeus Cho origins",
+		"comments": [
+			"Amadeus Cho origins"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "045"
@@ -5694,7 +5773,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/57f7ac2fdbf24.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Spider-Man moves to Avengers tower",
+		"comments": [
+			"Spider-Man moves to Avengers tower"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "050"
@@ -5816,7 +5897,6 @@
 		"vol": 2,
 		"num": 175,
 		"date": "2005-09-14",
-		"event": "Wild Kingdom",
 		"characters": [
 			"Black Panther",
 			"X-Men",
@@ -5845,7 +5925,6 @@
 		"vol": 4,
 		"num": 8,
 		"date": "2005-10-19",
-		"event": "Wild Kingdom",
 		"characters": [
 			"Black Panther",
 			"X-Men",
@@ -5874,7 +5953,6 @@
 		"vol": 2,
 		"num": 176,
 		"date": "2005-09-21",
-		"event": "Wild Kingdom",
 		"characters": [
 			"Black Panther",
 			"X-Men",
@@ -5903,7 +5981,6 @@
 		"vol": 4,
 		"num": 9,
 		"date": "2005-10-26",
-		"event": "Wild Kingdom",
 		"characters": [
 			"Black Panther",
 			"X-Men",
@@ -6169,7 +6246,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc6b22116c9f.jpg",
 		"universe": "Earth-616",
-		"comments": "Thunderbolts team is reassembled",
+		"comments": [
+			"Thunderbolts team is reassembled"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "054"

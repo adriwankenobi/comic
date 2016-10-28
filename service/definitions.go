@@ -43,12 +43,13 @@ type Comic struct {
 	Num        int      `json:"num,omitempty"`        // From XLSX
 	Date       string   `json:"date,omitempty"`       // From Marvel API
 	Event      string   `json:"event,omitempty"`      // From XLSX
+	EventID    string   `json:"eventid,omitempty"`    // From XLSX
 	Characters []string `json:"characters,omitempty"` // From Marvel API
 	Creators   []string `json:"creators,omitempty"`   // From Marvel API
 	Pic        string   `json:"pic,omitempty"`        // From Marvel API
 	Universe   string   `json:"universe,omitempty"`   // From XLSX
 	Essential  bool     `json:"essential,omitempty"`  // From XLSX
-	Comments   string   `json:"comments,omitempty"`   // From XLSX
+	Comments   []string `json:"comments,omitempty"`   // From XLSX
 	PhaseID    string   `json:"phaseid,omitempty"`    // From XLSX: Generated based on sheet position
 	PhaseName  string   `json:"phasename,omitempty"`  // From XLSX: Generated based on sheet name
 	SortID     string   `json:"sortid,omitempty"`     // From XLSX: Generated based on row position
@@ -92,6 +93,29 @@ func (p *PhaseList) ToJson() ([]byte, error) {
 
 func (p *PhaseList) IsEmpty() bool {
 	return len(*p) <= 0
+}
+
+// Events
+type Event struct {
+	ID   string `json:"id"`
+	Name string `json:"name"`
+}
+type EventList []Event
+
+func (e *Event) ToJson() ([]byte, error) {
+	return json.MarshalIndent(e, "", "	")
+}
+
+func (e *Event) IsEmpty() bool {
+	return e.ID == "" && e.Name == ""
+}
+
+func (e *EventList) ToJson() ([]byte, error) {
+	return json.MarshalIndent(e, "", "	")
+}
+
+func (e *EventList) IsEmpty() bool {
+	return len(*e) <= 0
 }
 
 // First issues
@@ -144,6 +168,9 @@ func NewComic(in interface{}) (Comic, error) {
 		case "event":
 			c.Event = e.(string)
 			break
+		case "eventid":
+			c.EventID = e.(string)
+			break
 		case "characters":
 			c.Characters = NewStringList(e)
 			break
@@ -160,7 +187,7 @@ func NewComic(in interface{}) (Comic, error) {
 			c.Essential = e.(bool)
 			break
 		case "comments":
-			c.Comments = e.(string)
+			c.Comments = NewStringList(e)
 			break
 		case "phaseid":
 			c.PhaseID = e.(string)
@@ -235,6 +262,41 @@ func NewPhaseList(in interface{}) (*PhaseList, error) {
 		phases[i] = p
 	}
 	return &phases, nil
+}
+
+func NewEvent(in interface{}) (Event, error) {
+	m := in.(map[string]interface{})
+	ev := Event{}
+	for i, e := range m {
+		switch i {
+		case "id":
+			ev.ID = e.(string)
+			break
+		case "name":
+			ev.Name = e.(string)
+			break
+		default:
+			return ev, fmt.Errorf("Unknown field: %v", i)
+		}
+	}
+	if ev.ID == "" {
+		return ev, fmt.Errorf("Event doesn't contain 'id' field: %v", ev)
+	}
+	return ev, nil
+}
+
+func NewEventList(in interface{}) (*EventList, error) {
+	all := in.([]interface{})
+	events := make(EventList, len(all))
+	for i, e := range all {
+		m := e.(map[string]interface{})
+		ev, err := NewEvent(m)
+		if err != nil {
+			return &events, err
+		}
+		events[i] = ev
+	}
+	return &events, nil
 }
 
 func NewFissues(in interface{}) (Fissues, error) {

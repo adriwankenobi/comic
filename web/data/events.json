@@ -1,0 +1,50 @@
+[
+	{
+		"id": "001",
+		"name": "Avengers Dissasembled"
+	},
+	{
+		"id": "002",
+		"name": "Secret War"
+	},
+	{
+		"id": "003",
+		"name": "House of M"
+	},
+	{
+		"id": "004",
+		"name": "Decimation"
+	},
+	{
+		"id": "005",
+		"name": "Annihilation"
+	},
+	{
+		"id": "006",
+		"name": "Civil War"
+	},
+	{
+		"id": "007",
+		"name": "Planet Hulk"
+	},
+	{
+		"id": "008",
+		"name": "World War Hulk"
+	},
+	{
+		"id": "009",
+		"name": "Messiah Complex"
+	},
+	{
+		"id": "010",
+		"name": "Annihilation Conquest"
+	},
+	{
+		"id": "011",
+		"name": "Secret Invasion"
+	},
+	{
+		"id": "012",
+		"name": "War of Kings"
+	}
+]

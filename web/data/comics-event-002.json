@@ -1,0 +1,272 @@
+[
+	{
+		"id": "104",
+		"collection": "Secret war",
+		"title": "Secret War",
+		"vol": 1,
+		"num": 1,
+		"date": "2004-02-04",
+		"event": "Secret War",
+		"eventid": "002",
+		"characters": [
+			"Nick Fury",
+			"Quake",
+			"Maria Hill",
+			"Steve Rogers",
+			"Spider-Man",
+			"Wolverine",
+			"Daredevil",
+			"Black Widow",
+			"Luke Cage",
+			"Jessica Jones"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Gabriele Dell'Otto"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc6aedcd6792.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Nick Fury leaves SHIELD and goes solo"
+		],
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "019"
+	},
+	{
+		"id": "668",
+		"collection": "Secret war",
+		"title": "Secret War",
+		"vol": 1,
+		"num": 2,
+		"date": "2004-05-26",
+		"event": "Secret War",
+		"eventid": "002",
+		"characters": [
+			"Nick Fury",
+			"Quake",
+			"Maria Hill",
+			"Steve Rogers",
+			"Spider-Man",
+			"Wolverine",
+			"Daredevil",
+			"Black Widow",
+			"Luke Cage",
+			"Jessica Jones"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Gabriele Dell'Otto"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc684c2ad149.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "019"
+	},
+	{
+		"id": "773",
+		"collection": "Secret war",
+		"title": "Secret War",
+		"vol": 1,
+		"num": 3,
+		"date": "2004-10-13",
+		"event": "Secret War",
+		"eventid": "002",
+		"characters": [
+			"Nick Fury",
+			"Quake",
+			"Maria Hill",
+			"Steve Rogers",
+			"Spider-Man",
+			"Wolverine",
+			"Daredevil",
+			"Black Widow",
+			"Luke Cage",
+			"Jessica Jones"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Gabriele Dell'Otto"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bc67d43da4b0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "019"
+	},
+	{
+		"id": "1708",
+		"collection": "Secret war",
+		"title": "Secret War",
+		"vol": 1,
+		"num": 4,
+		"date": "2005-03-30",
+		"event": "Secret War",
+		"eventid": "002",
+		"characters": [
+			"Nick Fury",
+			"Quake",
+			"Maria Hill",
+			"Steve Rogers",
+			"Spider-Man",
+			"Wolverine",
+			"Daredevil",
+			"Black Widow",
+			"Luke Cage",
+			"Jessica Jones"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Gabriele Dell'Otto"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bc64c8d1308b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "019"
+	},
+	{
+		"id": "2594",
+		"collection": "Secret war",
+		"title": "Secret War",
+		"vol": 1,
+		"num": 5,
+		"date": "2005-12-14",
+		"event": "Secret War",
+		"eventid": "002",
+		"characters": [
+			"Nick Fury",
+			"Quake",
+			"Maria Hill",
+			"Steve Rogers",
+			"Spider-Man",
+			"Wolverine",
+			"Daredevil",
+			"Black Widow",
+			"Luke Cage",
+			"Jessica Jones"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Gabriele Dell'Otto"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc61c3f15578.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Maria Hill becomes SHIELD director"
+		],
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "019"
+	},
+	{
+		"id": "2",
+		"collection": "The Pulse",
+		"title": "Secret War The Pulse",
+		"vol": 1,
+		"num": 6,
+		"date": "2004-11-10",
+		"event": "Secret War",
+		"eventid": "002",
+		"characters": [
+			"Jessica Jones",
+			"Ben Urich",
+			"Luke Cage",
+			"Nick Fury"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Brent Anderson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/56538fd257915.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "020"
+	},
+	{
+		"id": "1508",
+		"collection": "The Pulse",
+		"title": "Secret War The Pulse",
+		"vol": 1,
+		"num": 7,
+		"date": "2005-01-12",
+		"event": "Secret War",
+		"eventid": "002",
+		"characters": [
+			"Jessica Jones",
+			"Ben Urich",
+			"Luke Cage",
+			"Nick Fury"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Brent Anderson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/00/56535583219c8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "020"
+	},
+	{
+		"id": "1707",
+		"collection": "The Pulse",
+		"title": "Secret War The Pulse",
+		"vol": 1,
+		"num": 8,
+		"date": "2005-03-30",
+		"event": "Secret War",
+		"eventid": "002",
+		"characters": [
+			"Jessica Jones",
+			"Ben Urich",
+			"Luke Cage",
+			"Nick Fury"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Michael Lark"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/565354cb26d91.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "020"
+	},
+	{
+		"id": "1935",
+		"collection": "The Pulse",
+		"title": "Secret War The Pulse",
+		"vol": 1,
+		"num": 9,
+		"date": "2005-06-08",
+		"event": "Secret War",
+		"eventid": "002",
+		"characters": [
+			"Jessica Jones",
+			"Ben Urich",
+			"Luke Cage",
+			"Nick Fury"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Michael Lark"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/565354b34bc94.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "020"
+	}
+]

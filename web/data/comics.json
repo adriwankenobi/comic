@@ -16,7 +16,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/53766fb162cda.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Inhumans introduction",
+		"comments": [
+			"Inhumans introduction"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "001"
@@ -269,7 +271,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/57223eff00d5d.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Daredevil introduction",
+		"comments": [
+			"Daredevil introduction"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "002"
@@ -592,7 +596,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bc369f3bdae4.jpg",
 		"universe": "Earth-616",
-		"comments": "Street heroes team-up",
+		"comments": [
+			"Street heroes team-up"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "004"
@@ -1005,7 +1011,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4bc48124acb03.jpg",
 		"universe": "Earth-616",
-		"comments": "Sentry origins",
+		"comments": [
+			"Sentry origins"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "005"
@@ -1202,7 +1210,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bc334cc50087.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Daredevil origins recap",
+		"comments": [
+			"Daredevil origins recap"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "006"
@@ -1330,7 +1340,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4f205c34141c0.jpg",
 		"universe": "Earth-616",
-		"comments": "Odin dies",
+		"comments": [
+			"Odin dies"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "007"
@@ -1529,7 +1541,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc6995bd4126.jpg",
 		"universe": "Earth-616",
-		"comments": "Thor's youth",
+		"comments": [
+			"Thor's youth"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "008"
@@ -2036,7 +2050,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/57238fedf3225.jpg",
 		"universe": "Earth-616",
-		"comments": "Missing",
+		"comments": [
+			"Missing"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2057,7 +2073,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/572391403c40f.jpg",
 		"universe": "Earth-616",
-		"comments": "Missing",
+		"comments": [
+			"Missing"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2078,7 +2096,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5723923ef3ca2.jpg",
 		"universe": "Earth-616",
-		"comments": "Missing",
+		"comments": [
+			"Missing"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2099,7 +2119,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/572392ce0bd7f.jpg",
 		"universe": "Earth-616",
-		"comments": "Missing",
+		"comments": [
+			"Missing"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2120,7 +2142,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5723c3e93c642.jpg",
 		"universe": "Earth-616",
-		"comments": "Missing",
+		"comments": [
+			"Missing"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2141,7 +2165,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5723c5a6396fc.jpg",
 		"universe": "Earth-616",
-		"comments": "Missing",
+		"comments": [
+			"Missing"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2289,7 +2315,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb7b822b926b.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Daredevil's secret identity goes public",
+		"comments": [
+			"Daredevil's secret identity goes public"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "013"
@@ -2894,7 +2922,9 @@
 		"pic": "http://vignette2.wikia.nocookie.net/marveldatabase/images/e/ed/Alias_Vol_1_1.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Jessica Jones origins",
+		"comments": [
+			"Jessica Jones origins"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "018"
@@ -3489,7 +3519,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/5140cda8ce9af.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Destruction of Genosha",
+		"comments": [
+			"Destruction of Genosha"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "019"
@@ -4050,7 +4082,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/51e4179fa1896.jpg",
 		"universe": "Earth-616",
-		"comments": "Wolverine origins",
+		"comments": [
+			"Wolverine origins"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "023"
@@ -4171,7 +4205,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4bc37f13cfdfd.jpg",
 		"universe": "Earth-616",
-		"comments": "Emma Frost origins",
+		"comments": [
+			"Emma Frost origins"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "024"
@@ -4998,7 +5034,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/577e75c614e3d.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Jean Grey dies",
+		"comments": [
+			"Jean Grey dies"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "030"
@@ -5104,7 +5142,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/4bc33020280ee.jpg",
 		"universe": "Earth-616",
-		"comments": "Fantastic Four introduction",
+		"comments": [
+			"Fantastic Four introduction"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "031"
@@ -5374,7 +5414,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc365a07d1f4.jpg",
 		"universe": "Earth-616",
-		"comments": "Fantastic Four 500th",
+		"comments": [
+			"Fantastic Four 500th"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "032"
@@ -5782,7 +5824,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bb6700d5eb23.jpg",
 		"universe": "Earth-616",
-		"comments": "Green Goblin returns",
+		"comments": [
+			"Green Goblin returns"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "038"
@@ -6041,7 +6085,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/c0/57a34895df8f9.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "9/11",
+		"comments": [
+			"9/11"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "040"
@@ -6105,7 +6151,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/57a3460d4d5aa.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Peter tells Aunt May about Spider-Man",
+		"comments": [
+			"Peter tells Aunt May about Spider-Man"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "041"
@@ -6567,7 +6615,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/53767557adfc5.jpg",
 		"universe": "Earth-616",
-		"comments": "Gwen Stacy's story recap",
+		"comments": [
+			"Gwen Stacy's story recap"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "046"
@@ -7046,7 +7096,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/4bb50cfbef02e.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Spider-Man 500th",
+		"comments": [
+			"Spider-Man 500th"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "050"
@@ -7234,7 +7286,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5188021fd1fc8.jpg",
 		"universe": "Earth-616",
-		"comments": "Thanos destroys the Marvel Universe",
+		"comments": [
+			"Thanos destroys the Marvel Universe"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "053"
@@ -7361,7 +7415,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/57910e324df34.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Runaways origins",
+		"comments": [
+			"Runaways origins"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "054"
@@ -7743,7 +7799,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4babed3c773ef.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "057"
@@ -7764,7 +7822,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/57643f05ed90b.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "057"
@@ -7785,7 +7845,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/57643cc2c1015.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "057"
@@ -7806,7 +7868,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/57643cac3fd9e.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "057"
@@ -7992,7 +8056,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/56425aa850c47.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Jessica Jones starts working at the Daily Bugle",
+		"comments": [
+			"Jessica Jones starts working at the Daily Bugle"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "059"
@@ -8354,7 +8420,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc46846aa44c.jpg",
 		"universe": "Earth-616",
-		"comments": "Mystique secretly works for Xavier",
+		"comments": [
+			"Mystique secretly works for Xavier"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "062"
@@ -8835,7 +8903,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bc6a257386fa.jpg",
 		"universe": "Earth-616",
-		"comments": "Hulk origins recap",
+		"comments": [
+			"Hulk origins recap"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "066"
@@ -9612,7 +9682,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/5196815e28e90.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Cyclops and Emma Frost start running the X-Men school",
+		"comments": [
+			"Cyclops and Emma Frost start running the X-Men school"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "072"
@@ -10050,7 +10122,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/56cde163656a1.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Norman Osborn and Gwen Stacy's infamous kids story",
+		"comments": [
+			"Norman Osborn and Gwen Stacy's infamous kids story"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "076"
@@ -10257,6 +10331,7 @@
 		"num": 80,
 		"date": "2004-06-02",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Thor",
 			"Loki"
@@ -10280,6 +10355,7 @@
 		"num": 81,
 		"date": "2004-06-16",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Thor",
 			"Loki"
@@ -10303,6 +10379,7 @@
 		"num": 82,
 		"date": "2004-07-07",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Thor",
 			"Loki"
@@ -10326,6 +10403,7 @@
 		"num": 83,
 		"date": "2004-08-04",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Thor",
 			"Loki"
@@ -10349,6 +10427,7 @@
 		"num": 84,
 		"date": "2004-09-01",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Thor",
 			"Loki"
@@ -10372,6 +10451,7 @@
 		"num": 85,
 		"date": "2004-10-06",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Thor",
 			"Loki"
@@ -10383,7 +10463,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/56f2c9d73ebbc.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Thor dies",
+		"comments": [
+			"Thor dies"
+		],
 		"phaseid": "002",
 		"phasename": "Disassembled",
 		"sortid": "001"
@@ -10396,6 +10478,7 @@
 		"num": 84,
 		"date": "2004-06-09",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Iron Man"
 		],
@@ -10417,6 +10500,7 @@
 		"num": 85,
 		"date": "2004-06-30",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Iron Man"
 		],
@@ -10438,6 +10522,7 @@
 		"num": 15,
 		"date": "2004-06-09",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Spider-Man"
 		],
@@ -10459,6 +10544,7 @@
 		"num": 16,
 		"date": "2004-06-30",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Spider-Man"
 		],
@@ -10480,6 +10566,7 @@
 		"num": 17,
 		"date": "2004-07-14",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Spider-Man"
 		],
@@ -10501,6 +10588,7 @@
 		"num": 18,
 		"date": "2004-08-11",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Spider-Man"
 		],
@@ -10522,6 +10610,7 @@
 		"num": 19,
 		"date": "2004-09-08",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Spider-Man"
 		],
@@ -10543,6 +10632,7 @@
 		"num": 20,
 		"date": "2004-10-20",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Spider-Man"
 		],
@@ -10564,6 +10654,7 @@
 		"num": 5,
 		"date": "2004-07-07",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Steve Rogers",
 			"Sam Wilson",
@@ -10587,6 +10678,7 @@
 		"num": 6,
 		"date": "2004-08-04",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Steve Rogers",
 			"Sam Wilson",
@@ -10610,6 +10702,7 @@
 		"num": 7,
 		"date": "2004-09-01",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Steve Rogers",
 			"Sam Wilson",
@@ -10633,6 +10726,7 @@
 		"num": 500,
 		"date": "2004-09-15",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Avengers",
 			"Scott Lang",
@@ -10655,7 +10749,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4f5a50d019d82.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Avengers 500th",
+		"comments": [
+			"Avengers 500th"
+		],
 		"phaseid": "002",
 		"phasename": "Disassembled",
 		"sortid": "006"
@@ -10668,6 +10764,7 @@
 		"num": 501,
 		"date": "2004-10-01",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Avengers",
 			"Scott Lang",
@@ -10702,6 +10799,7 @@
 		"num": 502,
 		"date": "2004-11-01",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Avengers",
 			"Scott Lang",
@@ -10736,6 +10834,7 @@
 		"num": 503,
 		"date": "2004-12-01",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Avengers",
 			"Scott Lang",
@@ -10770,6 +10869,7 @@
 		"num": 1,
 		"date": "2004-11-10",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Avengers",
 			"Scott Lang",
@@ -10792,7 +10892,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/51e045c27a7b0.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Avengers get dissasembled",
+		"comments": [
+			"Avengers get dissasembled"
+		],
 		"phaseid": "002",
 		"phasename": "Disassembled",
 		"sortid": "007"
@@ -10805,6 +10907,7 @@
 		"num": 29,
 		"date": "2000-05-10",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Captain America",
 			"Sharon Carter"
@@ -10827,6 +10930,7 @@
 		"num": 30,
 		"date": "2000-06-10",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Captain America",
 			"Sharon Carter"
@@ -10849,6 +10953,7 @@
 		"num": 31,
 		"date": "2000-07-10",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Captain America",
 			"Sharon Carter"
@@ -10871,6 +10976,7 @@
 		"num": 32,
 		"date": "2000-08-10",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Captain America",
 			"Sharon Carter"
@@ -10893,6 +10999,7 @@
 		"num": 86,
 		"date": "2004-07-14",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Iron Man"
 		],
@@ -10914,6 +11021,7 @@
 		"num": 87,
 		"date": "2004-08-11",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Iron Man"
 		],
@@ -10935,6 +11043,7 @@
 		"num": 88,
 		"date": "2004-09-08",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Iron Man"
 		],
@@ -10956,6 +11065,7 @@
 		"num": 89,
 		"date": "2004-10-13",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Iron Man"
 		],
@@ -10977,6 +11087,7 @@
 		"num": 517,
 		"date": "2004-08-18",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Fantastic Four",
 			"Reed Richards",
@@ -11002,6 +11113,7 @@
 		"num": 518,
 		"date": "2004-09-15",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Fantastic Four",
 			"Reed Richards",
@@ -11027,6 +11139,7 @@
 		"num": 519,
 		"date": "2004-10-20",
 		"event": "Avengers Dissasembled",
+		"eventid": "001",
 		"characters": [
 			"Fantastic Four",
 			"Reed Richards",
@@ -12105,7 +12218,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/564259ee974d5.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Young Avengers origin",
+		"comments": [
+			"Young Avengers origin"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "009"
@@ -12261,7 +12376,10 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56cb7746bd44a.jpg",
 		"universe": "Earth-616",
-		"comments": "Anya Corazón origins, Translated",
+		"comments": [
+			"Anya Corazón origins",
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -12282,7 +12400,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/56cb6bb538602.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -12303,7 +12423,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/56cb6d2cd1338.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -12324,7 +12446,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/56cb6ee146ef6.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -12345,7 +12469,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/56cb6fa2dd2c3.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -12366,7 +12492,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/56cb7028ce644.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "010"
@@ -12388,7 +12516,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/535142a7043ae.jpg",
 		"universe": "Earth-616",
-		"comments": "Cable \u0026 Deadpool team up",
+		"comments": [
+			"Cable \u0026 Deadpool team up"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "011"
@@ -13183,7 +13313,9 @@
 		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/c/c0/5728d2ec8b6dc/detail.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Winter soldier introduction",
+		"comments": [
+			"Winter soldier introduction"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "018"
@@ -13333,6 +13465,7 @@
 		"num": 1,
 		"date": "2004-02-04",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Nick Fury",
 			"Quake",
@@ -13352,7 +13485,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc6aedcd6792.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Nick Fury leaves SHIELD and goes solo",
+		"comments": [
+			"Nick Fury leaves SHIELD and goes solo"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "019"
@@ -13365,6 +13500,7 @@
 		"num": 2,
 		"date": "2004-05-26",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Nick Fury",
 			"Quake",
@@ -13396,6 +13532,7 @@
 		"num": 3,
 		"date": "2004-10-13",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Nick Fury",
 			"Quake",
@@ -13427,6 +13564,7 @@
 		"num": 4,
 		"date": "2005-03-30",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Nick Fury",
 			"Quake",
@@ -13458,6 +13596,7 @@
 		"num": 5,
 		"date": "2005-12-14",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Nick Fury",
 			"Quake",
@@ -13477,7 +13616,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc61c3f15578.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Maria Hill becomes SHIELD director",
+		"comments": [
+			"Maria Hill becomes SHIELD director"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "019"
@@ -13490,6 +13631,7 @@
 		"num": 6,
 		"date": "2004-11-10",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Jessica Jones",
 			"Ben Urich",
@@ -13515,6 +13657,7 @@
 		"num": 7,
 		"date": "2005-01-12",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Jessica Jones",
 			"Ben Urich",
@@ -13540,6 +13683,7 @@
 		"num": 8,
 		"date": "2005-03-30",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Jessica Jones",
 			"Ben Urich",
@@ -13565,6 +13709,7 @@
 		"num": 9,
 		"date": "2005-06-08",
 		"event": "Secret War",
+		"eventid": "002",
 		"characters": [
 			"Jessica Jones",
 			"Ben Urich",
@@ -13607,7 +13752,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/5149eb485fbf8.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "New Avengers are formed",
+		"comments": [
+			"New Avengers are formed"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "021"
@@ -13873,7 +14020,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/5744b9e7af758.jpg",
 		"universe": "Earth-616",
-		"comments": "Black Panther introduction",
+		"comments": [
+			"Black Panther introduction"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "023"
@@ -13995,7 +14144,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc465362ba79.jpg",
 		"universe": "Earth-616",
-		"comments": "Introduction to Great Lakes Avengers",
+		"comments": [
+			"Introduction to Great Lakes Avengers"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "024"
@@ -14534,7 +14685,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc468ba18fc2.jpg",
 		"universe": "Earth-616",
-		"comments": "X-23 origin",
+		"comments": [
+			"X-23 origin"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "028"
@@ -15167,7 +15320,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4bc6784420b98.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -15188,7 +15343,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/4bc6726077977.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -15209,7 +15366,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bc6b5592b2a2.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -15230,7 +15389,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc65f6d9111e.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -15251,7 +15412,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc658d346e37.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -15272,7 +15435,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4bc652ea004df.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "033"
@@ -15293,7 +15458,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4bc633700ad2c.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -15314,7 +15481,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/4bc62cfab1c0f.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -15335,7 +15504,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc6273a59a5e.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -15356,7 +15527,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bc61f0f72a3c.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -15377,7 +15550,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4bc61f0963741.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -15398,7 +15573,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc61a978710a.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "034"
@@ -16189,7 +16366,10 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/56cb709d2583f.jpg",
 		"universe": "Earth-616",
-		"comments": "Scorpion origins, In English",
+		"comments": [
+			"Scorpion origins",
+			"In English"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -16210,7 +16390,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/56cb71175e5be.jpg",
 		"universe": "Earth-616",
-		"comments": "In English",
+		"comments": [
+			"In English"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -16231,7 +16413,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/56cb7177740bb.jpg",
 		"universe": "Earth-616",
-		"comments": "In English",
+		"comments": [
+			"In English"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -16252,7 +16436,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56cb721f79c3a.jpg",
 		"universe": "Earth-616",
-		"comments": "In English",
+		"comments": [
+			"In English"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -16273,7 +16459,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/56cb7308d7e8b.jpg",
 		"universe": "Earth-616",
-		"comments": "In English",
+		"comments": [
+			"In English"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -16294,7 +16482,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/56cb7389343bc.jpg",
 		"universe": "Earth-616",
-		"comments": "In English",
+		"comments": [
+			"In English"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "044"
@@ -16317,7 +16507,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/56cb74a9868bc.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Amadeus Cho origins",
+		"comments": [
+			"Amadeus Cho origins"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "045"
@@ -16740,7 +16932,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/57f7ac2fdbf24.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Spider-Man moves to Avengers tower",
+		"comments": [
+			"Spider-Man moves to Avengers tower"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "050"
@@ -16862,7 +17056,6 @@
 		"vol": 2,
 		"num": 175,
 		"date": "2005-09-14",
-		"event": "Wild Kingdom",
 		"characters": [
 			"Black Panther",
 			"X-Men",
@@ -16891,7 +17084,6 @@
 		"vol": 4,
 		"num": 8,
 		"date": "2005-10-19",
-		"event": "Wild Kingdom",
 		"characters": [
 			"Black Panther",
 			"X-Men",
@@ -16920,7 +17112,6 @@
 		"vol": 2,
 		"num": 176,
 		"date": "2005-09-21",
-		"event": "Wild Kingdom",
 		"characters": [
 			"Black Panther",
 			"X-Men",
@@ -16949,7 +17140,6 @@
 		"vol": 4,
 		"num": 9,
 		"date": "2005-10-26",
-		"event": "Wild Kingdom",
 		"characters": [
 			"Black Panther",
 			"X-Men",
@@ -17215,7 +17405,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc6b22116c9f.jpg",
 		"universe": "Earth-616",
-		"comments": "Thunderbolts team is reassembled",
+		"comments": [
+			"Thunderbolts team is reassembled"
+		],
 		"phaseid": "003",
 		"phasename": "Secret War",
 		"sortid": "054"
@@ -17338,6 +17530,7 @@
 		"num": 1,
 		"date": "2005-06-01",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"X-Men",
 			"Avengers",
@@ -17366,7 +17559,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51cc4da1a7058.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Scarlet Witch creates Earth-58163",
+		"comments": [
+			"Scarlet Witch creates Earth-58163"
+		],
 		"phaseid": "004",
 		"phasename": "House of M",
 		"sortid": "001"
@@ -17379,6 +17574,7 @@
 		"num": 2,
 		"date": "2005-06-22",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"X-Men",
 			"Avengers",
@@ -17419,6 +17615,7 @@
 		"num": 3,
 		"date": "2005-07-06",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"X-Men",
 			"Avengers",
@@ -17459,6 +17656,7 @@
 		"num": 4,
 		"date": "2005-07-20",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"X-Men",
 			"Avengers",
@@ -17499,6 +17697,7 @@
 		"num": 5,
 		"date": "2005-08-10",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"X-Men",
 			"Avengers",
@@ -17539,6 +17738,7 @@
 		"num": 6,
 		"date": "2005-10-01",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"X-Men",
 			"Avengers",
@@ -17579,6 +17779,7 @@
 		"num": 7,
 		"date": "2005-10-12",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"X-Men",
 			"Avengers",
@@ -17619,6 +17820,7 @@
 		"num": 8,
 		"date": "2005-11-02",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"X-Men",
 			"Avengers",
@@ -17659,6 +17861,7 @@
 		"num": 1,
 		"date": "2005-06-01",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Fantastic Four"
 		],
@@ -17680,6 +17883,7 @@
 		"num": 2,
 		"date": "2005-08-03",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Fantastic Four"
 		],
@@ -17701,6 +17905,7 @@
 		"num": 3,
 		"date": "2005-09-07",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Fantastic Four"
 		],
@@ -17722,6 +17927,7 @@
 		"num": 1,
 		"date": "2005-06-22",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Spider-Man"
 		],
@@ -17743,6 +17949,7 @@
 		"num": 2,
 		"date": "2005-07-20",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Spider-Man"
 		],
@@ -17764,6 +17971,7 @@
 		"num": 3,
 		"date": "2005-08-17",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Spider-Man"
 		],
@@ -17785,6 +17993,7 @@
 		"num": 4,
 		"date": "2005-09-28",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Spider-Man"
 		],
@@ -17806,6 +18015,7 @@
 		"num": 5,
 		"date": "2005-11-02",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Spider-Man"
 		],
@@ -17827,6 +18037,7 @@
 		"num": 1,
 		"date": "2005-07-06",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Iron Man"
 		],
@@ -17848,6 +18059,7 @@
 		"num": 2,
 		"date": "2005-08-03",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Iron Man"
 		],
@@ -17869,6 +18081,7 @@
 		"num": 3,
 		"date": "2005-09-07",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Iron Man"
 		],
@@ -17890,6 +18103,7 @@
 		"num": 83,
 		"date": "2005-07-06",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Hulk"
 		],
@@ -17911,6 +18125,7 @@
 		"num": 84,
 		"date": "2005-07-20",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Hulk"
 		],
@@ -17932,6 +18147,7 @@
 		"num": 85,
 		"date": "2005-08-10",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Hulk"
 		],
@@ -17953,6 +18169,7 @@
 		"num": 86,
 		"date": "2005-09-07",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Hulk"
 		],
@@ -17974,6 +18191,7 @@
 		"num": 87,
 		"date": "2005-10-05",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Hulk"
 		],
@@ -17995,6 +18213,7 @@
 		"num": 1,
 		"date": "2005-07-13",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Bishop"
 		],
@@ -18016,6 +18235,7 @@
 		"num": 2,
 		"date": "2005-08-17",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Bishop"
 		],
@@ -18037,6 +18257,7 @@
 		"num": 3,
 		"date": "2005-09-14",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Bishop"
 		],
@@ -18058,6 +18279,7 @@
 		"num": 4,
 		"date": "2005-10-12",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Bishop"
 		],
@@ -18079,6 +18301,7 @@
 		"num": 5,
 		"date": "2005-11-16",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Bishop"
 		],
@@ -18100,6 +18323,7 @@
 		"num": 10,
 		"date": "2005-07-27",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Ben Urich",
 			"Hawkeye"
@@ -18123,6 +18347,7 @@
 		"num": 7,
 		"date": "2005-08-24",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Black Panther"
 		],
@@ -18144,6 +18369,7 @@
 		"num": 10,
 		"date": "2005-10-01",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Steve Rogers"
 		],
@@ -18165,6 +18391,7 @@
 		"num": 33,
 		"date": "2005-09-28",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Wolverine"
 		],
@@ -18186,6 +18413,7 @@
 		"num": 34,
 		"date": "2005-10-12",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Wolverine"
 		],
@@ -18207,6 +18435,7 @@
 		"num": 35,
 		"date": "2005-10-26",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"Wolverine"
 		],
@@ -18228,6 +18457,7 @@
 		"num": 462,
 		"date": "2005-07-06",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"X-Men",
 			"Rachel Grey",
@@ -18251,6 +18481,7 @@
 		"num": 463,
 		"date": "2005-08-03",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"X-Men",
 			"Rachel Grey",
@@ -18274,6 +18505,7 @@
 		"num": 464,
 		"date": "2005-09-07",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"X-Men",
 			"Rachel Grey",
@@ -18297,6 +18529,7 @@
 		"num": 465,
 		"date": "2005-10-05",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"X-Men",
 			"Rachel Grey",
@@ -18320,6 +18553,7 @@
 		"num": 16,
 		"date": "2005-07-27",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"X-Men"
 		],
@@ -18341,6 +18575,7 @@
 		"num": 17,
 		"date": "2005-08-31",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"X-Men"
 		],
@@ -18362,6 +18597,7 @@
 		"num": 18,
 		"date": "2005-09-28",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"X-Men"
 		],
@@ -18383,6 +18619,7 @@
 		"num": 19,
 		"date": "2005-10-26",
 		"event": "House of M",
+		"eventid": "003",
 		"characters": [
 			"X-Men"
 		],
@@ -18412,7 +18649,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4bc5fead6c4b9.jpg",
 		"universe": "Earth-616",
-		"comments": "Carol Danvers introduction",
+		"comments": [
+			"Carol Danvers introduction"
+		],
 		"phaseid": "004",
 		"phasename": "House of M",
 		"sortid": "013"
@@ -18440,7 +18679,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc38f75c2352.jpg",
 		"universe": "Earth-58163",
-		"comments": "Story about Street Avengers",
+		"comments": [
+			"Story about Street Avengers"
+		],
 		"phaseid": "004",
 		"phasename": "House of M",
 		"sortid": "014"
@@ -18568,7 +18809,10 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4bb41515a6cca.jpg",
 		"universe": "Earth-58163",
-		"comments": "Story about some villains, Translated",
+		"comments": [
+			"Story about some villains",
+			"Translated"
+		],
 		"phaseid": "004",
 		"phasename": "House of M",
 		"sortid": "015"
@@ -18589,7 +18833,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bb4699cac3bb.jpg",
 		"universe": "Earth-58163",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "004",
 		"phasename": "House of M",
 		"sortid": "015"
@@ -18610,7 +18856,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bb4361be08e1.jpg",
 		"universe": "Earth-58163",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "004",
 		"phasename": "House of M",
 		"sortid": "015"
@@ -18631,7 +18879,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bb4053dc6318.jpg",
 		"universe": "Earth-58163",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "004",
 		"phasename": "House of M",
 		"sortid": "015"
@@ -18654,7 +18904,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/572a3dd32a736.jpg",
 		"universe": "Earth-58163",
-		"comments": "How Magneto rised to power",
+		"comments": [
+			"How Magneto rised to power"
+		],
 		"phaseid": "004",
 		"phasename": "House of M",
 		"sortid": "016"
@@ -18764,7 +19016,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/56e1d6714e720.jpg",
 		"universe": "Earth-616",
-		"comments": "Deadpool travels through Earth-58163",
+		"comments": [
+			"Deadpool travels through Earth-58163"
+		],
 		"phaseid": "004",
 		"phasename": "House of M",
 		"sortid": "017"
@@ -18892,7 +19146,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bc63e88d2b61.jpg",
 		"universe": "Earth-616",
-		"comments": "Photon travels through Earth-58163",
+		"comments": [
+			"Photon travels through Earth-58163"
+		],
 		"phaseid": "004",
 		"phasename": "House of M",
 		"sortid": "018"
@@ -19015,6 +19271,7 @@
 		"num": 1,
 		"date": "2005-11-09",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -19027,7 +19284,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4bc6175373f29.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "90% of mutants lose their powers",
+		"comments": [
+			"90% of mutants lose their powers"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "001"
@@ -19040,6 +19299,7 @@
 		"num": 1,
 		"date": "2006-01-18",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -19051,7 +19311,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc607a8c9207.jpg",
 		"universe": "Earth-616",
-		"comments": "New sentinels are formed",
+		"comments": [
+			"New sentinels are formed"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "002"
@@ -19064,6 +19326,7 @@
 		"num": 2,
 		"date": "2006-02-15",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -19088,6 +19351,7 @@
 		"num": 3,
 		"date": "2006-03-08",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -19112,6 +19376,7 @@
 		"num": 4,
 		"date": "2006-04-19",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -19137,6 +19402,7 @@
 		"num": 5,
 		"date": "2006-05-03",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -19162,6 +19428,7 @@
 		"num": 177,
 		"date": "2005-11-09",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -19186,6 +19453,7 @@
 		"num": 178,
 		"date": "2005-11-30",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Sentinel",
 			"Wolverine",
@@ -19212,6 +19480,7 @@
 		"num": 179,
 		"date": "2005-12-14",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -19236,6 +19505,7 @@
 		"num": 20,
 		"date": "2005-11-09",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Hellion",
 			"Mercury",
@@ -19264,6 +19534,7 @@
 		"num": 21,
 		"date": "2005-12-14",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -19289,6 +19560,7 @@
 		"num": 22,
 		"date": "2006-01-11",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -19314,6 +19586,7 @@
 		"num": 23,
 		"date": "2006-02-22",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -19339,6 +19612,7 @@
 		"num": 13,
 		"date": "2006-02-08",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -19351,7 +19625,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/568414810a6fc.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "005"
@@ -19364,6 +19640,7 @@
 		"num": 1,
 		"date": "2005-12-14",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Quicksilver"
 		],
@@ -19375,7 +19652,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc60cf09a1ff.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Quicksilver steals terragenesis stones",
+		"comments": [
+			"Quicksilver steals terragenesis stones"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "006"
@@ -19388,6 +19667,7 @@
 		"num": 2,
 		"date": "2006-01-11",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -19412,6 +19692,7 @@
 		"num": 3,
 		"date": "2006-02-08",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -19436,6 +19717,7 @@
 		"num": 4,
 		"date": "2006-03-08",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -19460,6 +19742,7 @@
 		"num": 5,
 		"date": "2006-04-12",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -19485,6 +19768,7 @@
 		"num": 6,
 		"date": "2006-05-31",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -19510,6 +19794,7 @@
 		"num": 1,
 		"date": "2006-01-11",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -19534,6 +19819,7 @@
 		"num": 2,
 		"date": "2006-02-08",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Sentinel",
 			"X-Men"
@@ -19560,6 +19846,7 @@
 		"num": 3,
 		"date": "2006-03-08",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -19585,6 +19872,7 @@
 		"num": 4,
 		"date": "2006-04-12",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -19610,6 +19898,7 @@
 		"num": 5,
 		"date": "2006-05-10",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -19635,6 +19924,7 @@
 		"num": 1,
 		"date": "2006-01-10",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Sally Floyd",
 			"X-Men"
@@ -19658,6 +19948,7 @@
 		"num": 2,
 		"date": "2006-02-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Jubilee",
 			"Sally Floyd",
@@ -19683,6 +19974,7 @@
 		"num": 3,
 		"date": "2006-03-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Blob",
 			"Sally Floyd"
@@ -19707,6 +19999,7 @@
 		"num": 4,
 		"date": "2006-04-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Angel (Warren Worthington III)",
 			"Sally Floyd",
@@ -19734,6 +20027,7 @@
 		"num": 5,
 		"date": "2006-05-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Angel (Warren Worthington III)",
 			"Sally Floyd",
@@ -19761,6 +20055,7 @@
 		"num": 1,
 		"date": "2005-12-14",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Banshee (Theresa Rourke)",
 			"M (Monet St. Croix)",
@@ -19791,6 +20086,7 @@
 		"num": 2,
 		"date": "2005-12-28",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -19815,6 +20111,7 @@
 		"num": 3,
 		"date": "2006-02-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Madrox",
 			"Strong Guy",
@@ -19842,6 +20139,7 @@
 		"num": 4,
 		"date": "2006-03-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -19866,6 +20164,7 @@
 		"num": 5,
 		"date": "2006-03-22",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Banshee (Theresa Rourke)",
 			"X-Men"
@@ -19891,6 +20190,7 @@
 		"num": 6,
 		"date": "2006-04-26",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -19915,6 +20215,7 @@
 		"num": 1,
 		"date": "2005-11-16",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -19926,7 +20227,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/570293252a4f3.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Xavier's secret second team + Vulcan origins",
+		"comments": [
+			"Xavier's secret second team + Vulcan origins"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "010"
@@ -19939,6 +20242,7 @@
 		"num": 2,
 		"date": "2005-12-21",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Cyclops",
 			"Vulcan (Gabriel Summers)",
@@ -19964,6 +20268,7 @@
 		"num": 3,
 		"date": "2006-01-25",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -19987,6 +20292,7 @@
 		"num": 4,
 		"date": "2006-02-15",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20010,6 +20316,7 @@
 		"num": 5,
 		"date": "2006-03-15",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			""
 		],
@@ -20031,6 +20338,7 @@
 		"num": 6,
 		"date": "2006-05-17",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20054,6 +20362,7 @@
 		"num": 1,
 		"date": "2007-06-20",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"Cyclops",
 			"Nightcrawler",
@@ -20073,7 +20382,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/56f953a644953.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "011"
@@ -20086,6 +20397,7 @@
 		"num": 200,
 		"date": "2007-06-20",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20107,6 +20419,7 @@
 		"num": 488,
 		"date": "2007-08-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20128,6 +20441,7 @@
 		"num": 21,
 		"date": "2007-09-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20149,6 +20463,7 @@
 		"num": 40,
 		"date": "2007-09-15",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20170,6 +20485,7 @@
 		"num": 201,
 		"date": "2007-09-25",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20191,6 +20507,7 @@
 		"num": 489,
 		"date": "2007-09-30",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20212,6 +20529,7 @@
 		"num": 22,
 		"date": "2007-10-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20233,6 +20551,7 @@
 		"num": 41,
 		"date": "2007-10-15",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20254,6 +20573,7 @@
 		"num": 202,
 		"date": "2007-10-25",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20275,6 +20595,7 @@
 		"num": 490,
 		"date": "2007-10-30",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20296,6 +20617,7 @@
 		"num": 23,
 		"date": "2007-11-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20317,6 +20639,7 @@
 		"num": 42,
 		"date": "2007-11-10",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20338,6 +20661,7 @@
 		"num": 203,
 		"date": "2007-11-20",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20359,6 +20683,7 @@
 		"num": 491,
 		"date": "2007-11-30",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20380,6 +20705,7 @@
 		"num": 24,
 		"date": "2007-12-01",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20401,6 +20727,7 @@
 		"num": 204,
 		"date": "2007-12-10",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20422,6 +20749,7 @@
 		"num": 204,
 		"date": "2007-12-30",
 		"event": "Decimation",
+		"eventid": "004",
 		"characters": [
 			"X-Men"
 		],
@@ -20951,7 +21279,11 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/55f1ec17724da.jpg",
 		"universe": "Earth-616",
-		"comments": "Ares, Hercules, Phobos introduction",
+		"comments": [
+			"Ares",
+			"Hercules",
+			"Phobos introduction"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "017"
@@ -21068,7 +21400,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/56cdce9df30ab.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "018"
@@ -21093,7 +21427,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/56cdcf6b73044.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "018"
@@ -21118,7 +21454,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/56cdcfde28d51.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "018"
@@ -21143,7 +21481,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/56cdd06baf949.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "018"
@@ -21168,7 +21508,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/56cdd129e563c.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "018"
@@ -21193,7 +21535,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/56cdd1bc0cd49.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "018"
@@ -21218,7 +21562,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/56ddd93d7eadc.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "019"
@@ -21243,7 +21589,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56cdd2296a4e4.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "019"
@@ -21268,7 +21616,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/56cdd2ba93876.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "019"
@@ -21292,7 +21642,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/56cdd339ac8d6.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "019"
@@ -21317,7 +21669,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/56cdd3a8ed02e.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "019"
@@ -21342,7 +21696,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/56cdd40a4ef5a.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "019"
@@ -21364,7 +21720,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4f7f0a8fb8c03.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Iron Man infected with Extremis virus - traducido",
+		"comments": [
+			"Iron Man infected with Extremis virus - traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -21387,7 +21745,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4f7f0c3c2b64f.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -21410,7 +21770,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4d251fee74e41.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -21433,7 +21795,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/00/519fa5eac4abd.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -21456,7 +21820,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb7dec0199b5.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -21479,7 +21845,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4f84752bb13d5.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -21881,7 +22249,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/5744c8d966949.jpg",
 		"universe": "Earth-616",
-		"comments": "Thunderbolts 100th",
+		"comments": [
+			"Thunderbolts 100th"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "023"
@@ -22567,7 +22937,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/57644201a63b5.jpg",
 		"universe": "Earth-616",
-		"comments": "She-Hulk 100th",
+		"comments": [
+			"She-Hulk 100th"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "028"
@@ -22665,7 +23037,6 @@
 		"vol": 1,
 		"num": 1,
 		"date": "2005-10-12",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Spider-Man"
 		],
@@ -22679,7 +23050,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56a8ef914ba16.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Spider-Man evolves",
+		"comments": [
+			"Spider-Man evolves"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "030"
@@ -22691,7 +23064,6 @@
 		"vol": 1,
 		"num": 19,
 		"date": "2005-10-19",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Mary Jane Watson",
 			"Spider-Man"
@@ -22715,7 +23087,6 @@
 		"vol": 1,
 		"num": 525,
 		"date": "2005-10-26",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Mary Jane Watson",
 			"Spider-Man",
@@ -22746,7 +23117,6 @@
 		"vol": 1,
 		"num": 2,
 		"date": "2005-11-09",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Black Panther",
 			"Mr. Fantastic",
@@ -22773,7 +23143,6 @@
 		"vol": 1,
 		"num": 20,
 		"date": "2005-11-16",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Mary Jane Watson",
 			"Spider-Man"
@@ -22797,7 +23166,6 @@
 		"vol": 1,
 		"num": 526,
 		"date": "2005-11-23",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Morlun",
 			"Spider-Man"
@@ -22826,7 +23194,6 @@
 		"vol": 1,
 		"num": 3,
 		"date": "2005-12-07",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Spider-Man"
 		],
@@ -22851,7 +23218,6 @@
 		"vol": 1,
 		"num": 21,
 		"date": "2005-12-14",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Spider-Man"
 		],
@@ -22874,7 +23240,6 @@
 		"vol": 1,
 		"num": 527,
 		"date": "2005-12-28",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Avengers",
 			"Mary Jane Watson",
@@ -22904,7 +23269,6 @@
 		"vol": 1,
 		"num": 4,
 		"date": "2006-01-18",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Mary Jane Watson",
 			"Spider-Man"
@@ -22930,7 +23294,6 @@
 		"vol": 1,
 		"num": 22,
 		"date": "2006-01-18",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Spider-Man"
 		],
@@ -22953,7 +23316,6 @@
 		"vol": 1,
 		"num": 528,
 		"date": "2006-01-25",
-		"event": "Spider-Man The Other",
 		"characters": [
 			"Mary Jane Watson",
 			"Spider-Man",
@@ -23257,7 +23619,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/57470b733fd27.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Daredevil goes to prison",
+		"comments": [
+			"Daredevil goes to prison"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "033"
@@ -23407,7 +23771,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bc61ae126812.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Hulk is launched to space",
+		"comments": [
+			"Hulk is launched to space"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "034"
@@ -23713,7 +24079,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4d24edc54a507.jpg",
 		"universe": "Earth-616",
-		"comments": "Wolverine recovers his memory",
+		"comments": [
+			"Wolverine recovers his memory"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "037"
@@ -24195,7 +24563,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc60cf5e77e2.jpg",
 		"universe": "Earth-616",
-		"comments": "Spider-Manwoman origins",
+		"comments": [
+			"Spider-Manwoman origins"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "040"
@@ -24764,7 +25134,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/56425a7007be0.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Danielle Cage is born",
+		"comments": [
+			"Danielle Cage is born"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "043"
@@ -25143,7 +25515,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4bb6abe28cd0d.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Daredevil escapes from prison",
+		"comments": [
+			"Daredevil escapes from prison"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "045"
@@ -25256,7 +25630,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc5fe75153ca.jpg",
 		"universe": "Earth-616",
-		"comments": "Spider-Man gets iron suit",
+		"comments": [
+			"Spider-Man gets iron suit"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "047"
@@ -25814,7 +26190,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f8479d44fd50.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -25840,7 +26218,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4d24e83a5b5d5.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -25867,7 +26247,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4d24dea0ce8e1.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -25895,7 +26277,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/4d25153f18362.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -25922,7 +26306,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/4d250b7077707.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -25947,7 +26333,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4d2515cda44ae.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -26566,7 +26954,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc4c9253bcee.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Xavier regains his powers",
+		"comments": [
+			"Xavier regains his powers"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "057"
@@ -26590,7 +26980,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/51882298836ab.jpg",
 		"universe": "Earth-616",
-		"comments": "Moon Knight introduction",
+		"comments": [
+			"Moon Knight introduction"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "058"
@@ -26718,6 +27110,7 @@
 		"num": 1,
 		"date": "2006-03-15",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Cammi",
 			"Drax",
@@ -26736,7 +27129,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/57865227ac607.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Annihilation wave redefines cosmic universe",
+		"comments": [
+			"Annihilation wave redefines cosmic universe"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "059"
@@ -26749,6 +27144,7 @@
 		"num": 1,
 		"date": "2006-04-19",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Nova"
 		],
@@ -26774,6 +27170,7 @@
 		"num": 2,
 		"date": "2006-05-17",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Cammi",
 			"Drax",
@@ -26800,6 +27197,7 @@
 		"num": 3,
 		"date": "2006-06-21",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Nova",
 			"Quasar (Wendell Vaughn)"
@@ -26825,6 +27223,7 @@
 		"num": 4,
 		"date": "2006-07-19",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Annihilus",
 			"Drax",
@@ -26852,6 +27251,7 @@
 		"num": 1,
 		"date": "2006-04-12",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Baroness S'Bak",
 			"Super-Skrull"
@@ -26878,6 +27278,7 @@
 		"num": 2,
 		"date": "2006-05-10",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Praxagora",
 			"Preak",
@@ -26905,6 +27306,7 @@
 		"num": 3,
 		"date": "2006-06-14",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Lord Hawal",
 			"Praxagora",
@@ -26932,6 +27334,7 @@
 		"num": 4,
 		"date": "2006-07-12",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Praxagora",
 			"Preak",
@@ -26959,6 +27362,7 @@
 		"num": 1,
 		"date": "2006-04-05",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Air-Walker (Gabriel Lan)",
 			"Silver Surfer",
@@ -26986,6 +27390,7 @@
 		"num": 2,
 		"date": "2006-05-03",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Annihilus",
 			"Firelord",
@@ -27016,6 +27421,7 @@
 		"num": 3,
 		"date": "2006-06-07",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Annihilus",
 			"Firelord",
@@ -27046,6 +27452,7 @@
 		"num": 4,
 		"date": "2006-07-12",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Galactus",
 			"Ravenous",
@@ -27076,6 +27483,7 @@
 		"num": 1,
 		"date": "2006-04-26",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Ronan"
 		],
@@ -27101,6 +27509,7 @@
 		"num": 2,
 		"date": "2006-05-24",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Devos",
 			"Gamora",
@@ -27131,6 +27540,7 @@
 		"num": 3,
 		"date": "2006-06-28",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Gamora",
 			"Glorian",
@@ -27158,6 +27568,7 @@
 		"num": 4,
 		"date": "2006-07-26",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Gamora",
 			"Glorian",
@@ -27188,6 +27599,7 @@
 		"num": 1,
 		"date": "2006-08-09",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Annihilus",
 			"Drax",
@@ -27218,6 +27630,7 @@
 		"num": 2,
 		"date": "2006-09-13",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Drax",
 			"Nova",
@@ -27247,6 +27660,7 @@
 		"num": 3,
 		"date": "2006-10-11",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Annihilus",
 			"Drax",
@@ -27277,6 +27691,7 @@
 		"num": 4,
 		"date": "2006-11-08",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Annihilus",
 			"Drax",
@@ -27307,6 +27722,7 @@
 		"num": 5,
 		"date": "2006-12-27",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Drax",
 			"Galactus",
@@ -27338,6 +27754,7 @@
 		"num": 6,
 		"date": "2007-01-31",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			"Annihilus",
 			"Galactus",
@@ -27367,6 +27784,7 @@
 		"num": 1,
 		"date": "2007-02-28",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			""
 		],
@@ -27394,6 +27812,7 @@
 		"num": 2,
 		"date": "2007-04-04",
 		"event": "Annihilation",
+		"eventid": "005",
 		"characters": [
 			""
 		],
@@ -27701,7 +28120,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc5f840658e4.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "062"
@@ -27998,6 +28419,7 @@
 		"num": 529,
 		"date": "2006-02-22",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Spider-Man"
 		],
@@ -28023,6 +28445,7 @@
 		"num": 530,
 		"date": "2006-03-22",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Iron Man",
 			"Spider-Man"
@@ -28049,6 +28472,7 @@
 		"num": 531,
 		"date": "2006-04-26",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Iron Man",
 			"Spider-Man",
@@ -28074,6 +28498,7 @@
 		"num": 1,
 		"date": "2006-03-29",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -28087,7 +28512,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/55ba3e95d3a92.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Illuminati origins",
+		"comments": [
+			"Illuminati origins"
+		],
 		"phaseid": "006",
 		"phasename": "Civil War",
 		"sortid": "002"
@@ -28100,6 +28527,7 @@
 		"num": 536,
 		"date": "2006-03-29",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Fantastic Four"
 		],
@@ -28126,6 +28554,7 @@
 		"num": 537,
 		"date": "2006-04-26",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Fantastic Four",
 			"Thing"
@@ -28152,6 +28581,7 @@
 		"vol": 1,
 		"num": 1,
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -28172,6 +28602,7 @@
 		"num": 8,
 		"date": "2006-05-24",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"She-Hulk (Jennifer Walters)"
 		],
@@ -28196,6 +28627,7 @@
 		"num": 42,
 		"date": "2006-05-24",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -28222,6 +28654,7 @@
 		"num": 8,
 		"date": "2006-06-28",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"X-Men"
 		],
@@ -28246,6 +28679,7 @@
 		"num": 21,
 		"date": "2006-06-28",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Avengers",
 			"Captain America"
@@ -28272,6 +28706,7 @@
 		"num": 1,
 		"date": "2006-06-07",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain America",
 			"Colossus",
@@ -28304,6 +28739,7 @@
 		"num": 532,
 		"date": "2006-05-31",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Iron Man",
 			"Spider-Man"
@@ -28330,6 +28766,7 @@
 		"num": 2,
 		"date": "2006-06-14",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain America",
 			"Hawkeye (Kate Bishop)",
@@ -28350,7 +28787,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/511307fb3f7bc.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Spider-Man reveals his secret identity",
+		"comments": [
+			"Spider-Man reveals his secret identity"
+		],
 		"phaseid": "006",
 		"phasename": "Civil War",
 		"sortid": "011"
@@ -28363,6 +28802,7 @@
 		"num": 533,
 		"date": "2006-06-28",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain Marvel (Carol Danvers)",
 			"Iron Man",
@@ -28390,6 +28830,7 @@
 		"num": 2,
 		"date": "2006-06-28",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -28414,6 +28855,7 @@
 		"num": 9,
 		"date": "2006-07-19",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"She-Hulk (Jennifer Walters)"
 		],
@@ -28439,6 +28881,7 @@
 		"num": 103,
 		"date": "2006-06-14",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Thunderbolts"
 		],
@@ -28463,6 +28906,7 @@
 		"num": 22,
 		"date": "2006-07-26",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Avengers",
 			"Luke Cage"
@@ -28488,6 +28932,7 @@
 		"num": 28,
 		"date": "2006-07-12",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Spider-Man"
 		],
@@ -28510,6 +28955,7 @@
 		"num": 9,
 		"date": "2006-07-26",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"X-Men"
 		],
@@ -28534,6 +28980,7 @@
 		"num": 11,
 		"date": "2006-08-02",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Spider-Man"
 		],
@@ -28558,6 +29005,7 @@
 		"num": 12,
 		"date": "2006-09-06",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Mysterio (Francis Klum)",
 			"Spider-Man"
@@ -28584,6 +29032,7 @@
 		"num": 13,
 		"date": "2006-10-04",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Mysterio",
 			"Spider-Man"
@@ -28610,6 +29059,7 @@
 		"num": 3,
 		"date": "2006-07-12",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -28636,6 +29086,7 @@
 		"num": 1,
 		"date": "2006-08-23",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Heroes For Hire"
 		],
@@ -28660,6 +29111,7 @@
 		"num": 1,
 		"date": "2006-07-26",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Runaways",
 			"Young Avengers"
@@ -28686,6 +29138,7 @@
 		"num": 2,
 		"date": "2006-08-30",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Runaways",
 			"Young Avengers"
@@ -28712,6 +29165,7 @@
 		"num": 3,
 		"date": "2006-09-27",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Runaways",
 			"Young Avengers"
@@ -28738,6 +29192,7 @@
 		"num": 4,
 		"date": "2006-11-08",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Molly Hayes",
 			"Patriot",
@@ -28767,6 +29222,7 @@
 		"num": 104,
 		"date": "2006-07-12",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Thunderbolts"
 		],
@@ -28791,6 +29247,7 @@
 		"num": 105,
 		"date": "2006-08-16",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Thunderbolts"
 		],
@@ -28815,6 +29272,7 @@
 		"num": 30,
 		"date": "2006-07-19",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Daredevil",
 			"Deadpool"
@@ -28841,6 +29299,7 @@
 		"num": 538,
 		"date": "2006-06-28",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain America",
 			"Fantastic Four",
@@ -28872,6 +29331,7 @@
 		"num": 28,
 		"date": "2006-07-19",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain Marvel (Carol Danvers)",
 			"Forge",
@@ -28903,6 +29363,7 @@
 		"num": 29,
 		"date": "2006-08-09",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"X-Men"
 		],
@@ -28928,6 +29389,7 @@
 		"num": 30,
 		"date": "2006-09-13",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"X-Men"
 		],
@@ -28953,6 +29415,7 @@
 		"num": 31,
 		"date": "2006-10-11",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"X-Men"
 		],
@@ -28978,6 +29441,7 @@
 		"num": 32,
 		"date": "2006-11-08",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"X-Men"
 		],
@@ -29003,6 +29467,7 @@
 		"num": 18,
 		"date": "2006-07-26",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Beast",
 			"Bishop",
@@ -29034,7 +29499,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5744bfa7e3063.jpg",
 		"universe": "Earth-616",
-		"comments": "T'Challa and Storm wedding",
+		"comments": [
+			"T'Challa and Storm wedding"
+		],
 		"phaseid": "006",
 		"phasename": "Civil War",
 		"sortid": "027"
@@ -29047,6 +29514,7 @@
 		"num": 4,
 		"date": "2006-07-26",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -29073,6 +29541,7 @@
 		"num": 19,
 		"date": "2006-08-30",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Black Panther"
 		],
@@ -29098,6 +29567,7 @@
 		"num": 13,
 		"date": "2006-11-15",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Iron Man"
 		],
@@ -29124,6 +29594,7 @@
 		"num": 20,
 		"date": "2006-09-27",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Black Bolt",
 			"Black Panther",
@@ -29152,6 +29623,7 @@
 		"num": 5,
 		"date": "2006-08-09",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -29178,6 +29650,7 @@
 		"num": 29,
 		"date": "2006-08-16",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Spider-Man"
 		],
@@ -29201,6 +29674,7 @@
 		"num": 30,
 		"date": "2006-09-20",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Chameleon",
 			"Scarecrow (Ebenezer Laughton)",
@@ -29229,6 +29703,7 @@
 		"num": 31,
 		"date": "2006-10-25",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Spider-Man"
 		],
@@ -29254,6 +29729,7 @@
 		"num": 3,
 		"date": "2006-07-19",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain America",
 			"Iron Man"
@@ -29280,6 +29756,7 @@
 		"num": 4,
 		"date": "2006-09-20",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Hank Pym",
 			"Thor",
@@ -29308,6 +29785,7 @@
 		"num": 6,
 		"date": "2006-09-27",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -29333,6 +29811,7 @@
 		"num": 31,
 		"date": "2006-08-30",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Deadpool"
 		],
@@ -29358,6 +29837,7 @@
 		"num": 32,
 		"date": "2006-09-27",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Cable",
 			"Deadpool"
@@ -29384,6 +29864,7 @@
 		"num": 43,
 		"date": "2006-06-28",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Iron Man",
 			"Nitro",
@@ -29411,6 +29892,7 @@
 		"num": 44,
 		"date": "2006-07-26",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -29437,6 +29919,7 @@
 		"num": 45,
 		"date": "2006-08-23",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -29463,6 +29946,7 @@
 		"num": 22,
 		"date": "2006-09-27",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain America",
 			"S.H.I.E.L.D."
@@ -29489,6 +29973,7 @@
 		"num": 23,
 		"date": "2006-10-25",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -29514,6 +29999,7 @@
 		"num": 7,
 		"date": "2006-10-11",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -29541,6 +30027,7 @@
 		"num": 534,
 		"date": "2006-07-26",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain America",
 			"Spider-Man",
@@ -29568,6 +30055,7 @@
 		"num": 539,
 		"date": "2006-08-02",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Fantastic Four",
 			"Thing"
@@ -29596,6 +30084,7 @@
 		"num": 21,
 		"date": "2006-10-25",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Black Panther",
 			"Sub-Mariner"
@@ -29621,6 +30110,7 @@
 		"num": 22,
 		"date": "2006-11-29",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Black Panther",
 			"Captain America",
@@ -29648,6 +30138,7 @@
 		"num": 1,
 		"date": "2006-07-19",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Bishop",
 			"Cyclops",
@@ -29675,6 +30166,7 @@
 		"num": 2,
 		"date": "2006-08-16",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"X-Men"
 		],
@@ -29700,6 +30192,7 @@
 		"num": 3,
 		"date": "2006-09-20",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"X-Men"
 		],
@@ -29725,6 +30218,7 @@
 		"num": 4,
 		"date": "2006-10-18",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"X-Men"
 		],
@@ -29750,6 +30244,7 @@
 		"num": 2,
 		"date": "2006-09-27",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Black Cat",
 			"Captain America",
@@ -29779,6 +30274,7 @@
 		"num": 3,
 		"date": "2006-10-25",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Black Cat",
 			"Heroes For Hire"
@@ -29805,6 +30301,7 @@
 		"num": 6,
 		"date": "2006-08-09",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain Marvel (Carol Danvers)"
 		],
@@ -29830,6 +30327,7 @@
 		"num": 7,
 		"date": "2006-09-13",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain Marvel (Carol Danvers)"
 		],
@@ -29855,6 +30353,7 @@
 		"num": 8,
 		"date": "2006-10-18",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain Marvel (Carol Danvers)"
 		],
@@ -29880,6 +30379,7 @@
 		"num": 23,
 		"date": "2006-08-23",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Spider-Woman (Jessica Drew)"
 		],
@@ -29904,6 +30404,7 @@
 		"num": 24,
 		"date": "2006-10-25",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Sentry (Robert Reynolds)"
 		],
@@ -29927,6 +30428,7 @@
 		"num": 1,
 		"date": "2007-01-24",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -29948,6 +30450,7 @@
 		"num": 1,
 		"date": "2006-12-20",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain America",
 			"Iron Man"
@@ -29970,6 +30473,7 @@
 		"num": 46,
 		"date": "2006-09-20",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -29996,6 +30500,7 @@
 		"num": 47,
 		"date": "2006-10-18",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -30022,6 +30527,7 @@
 		"num": 23,
 		"date": "2006-12-27",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Black Panther",
 			"Captain America",
@@ -30049,6 +30555,7 @@
 		"num": 24,
 		"date": "2006-11-29",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Arnim Zola",
 			"Red Skull"
@@ -30075,6 +30582,7 @@
 		"num": 8,
 		"date": "2006-11-22",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -30102,6 +30610,7 @@
 		"num": 48,
 		"date": "2006-11-22",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -30128,6 +30637,7 @@
 		"num": 540,
 		"date": "2006-10-04",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Fantastic Four"
 		],
@@ -30155,6 +30665,7 @@
 		"num": 535,
 		"date": "2006-09-27",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Iron Man",
 			"Spider-Man"
@@ -30181,6 +30692,7 @@
 		"num": 5,
 		"date": "2006-11-15",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Bullseye",
 			"Punisher",
@@ -30209,6 +30721,7 @@
 		"num": 1,
 		"date": "2006-11-22",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Punisher"
 		],
@@ -30232,6 +30745,7 @@
 		"num": 541,
 		"date": "2006-12-20",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Fantastic Four"
 		],
@@ -30259,6 +30773,7 @@
 		"num": 1,
 		"date": "2006-12-20",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Iron Man",
 			"Kingpin"
@@ -30284,6 +30799,7 @@
 		"num": 9,
 		"date": "2006-12-20",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -30311,6 +30827,7 @@
 		"num": 536,
 		"date": "2006-11-22",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Spider-Man"
 		],
@@ -30336,6 +30853,7 @@
 		"num": 7,
 		"date": "2007-01-24",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Moon Knight",
 			"Spider-Man"
@@ -30360,6 +30878,7 @@
 		"num": 8,
 		"date": "2007-03-14",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain America",
 			"Moon Knight"
@@ -30384,6 +30903,7 @@
 		"num": 9,
 		"date": "2007-04-18",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Moon Knight"
 		],
@@ -30408,6 +30928,7 @@
 		"num": 10,
 		"date": "2007-05-16",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Moon Knight"
 		],
@@ -30431,6 +30952,7 @@
 		"num": 542,
 		"date": "2007-01-17",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Fantastic Four",
 			"Human Torch"
@@ -30459,6 +30981,7 @@
 		"num": 14,
 		"date": "2006-12-20",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Iron Man"
 		],
@@ -30485,6 +31008,7 @@
 		"num": 14,
 		"date": "2006-11-29",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Spider-Man"
 		],
@@ -30509,6 +31033,7 @@
 		"num": 15,
 		"date": "2006-12-20",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Spider-Man",
 			"Vulture (Adrian Toomes)"
@@ -30534,6 +31059,7 @@
 		"num": 16,
 		"date": "2007-01-10",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Spider-Man"
 		],
@@ -30558,6 +31084,7 @@
 		"num": 32,
 		"date": "2006-11-29",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Mary Jane Watson",
 			"Spider-Man"
@@ -30583,6 +31110,7 @@
 		"num": 33,
 		"date": "2006-12-20",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Spider-Man"
 		],
@@ -30608,6 +31136,7 @@
 		"num": 34,
 		"date": "2007-01-17",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Spider-Man"
 		],
@@ -30633,6 +31162,7 @@
 		"num": 1,
 		"date": "2006-12-27",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -30656,6 +31186,7 @@
 		"num": 537,
 		"date": "2007-01-03",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain America",
 			"Punisher",
@@ -30684,6 +31215,7 @@
 		"num": 24,
 		"date": "2007-01-31",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Black Panther",
 			"Captain America",
@@ -30712,6 +31244,7 @@
 		"num": 2,
 		"date": "2007-01-03",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Punisher"
 		],
@@ -30735,6 +31268,7 @@
 		"num": 6,
 		"date": "2007-01-03",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain America",
 			"Cloak",
@@ -30764,6 +31298,7 @@
 		"num": 3,
 		"date": "2007-01-24",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain America",
 			"Punisher"
@@ -30788,6 +31323,7 @@
 		"num": 25,
 		"date": "2006-11-15",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Iron Man",
 			"Maria Hill"
@@ -30814,6 +31350,7 @@
 		"num": 10,
 		"date": "2007-01-03",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -30841,6 +31378,7 @@
 		"num": 7,
 		"date": "2007-02-21",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain America",
 			"Captain Marvel (Carol Danvers)",
@@ -30874,6 +31412,7 @@
 		"num": 25,
 		"date": "2007-02-28",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Black Panther",
 			"Storm",
@@ -30900,6 +31439,7 @@
 		"num": 538,
 		"date": "2007-02-21",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Spider-Man"
 		],
@@ -30925,6 +31465,7 @@
 		"num": 543,
 		"date": "2007-03-07",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Fantastic Four"
 		],
@@ -30940,7 +31481,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4d24ef9b6a998.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Black Panther and Storm join Fantastic Four",
+		"comments": [
+			"Black Panther and Storm join Fantastic Four"
+		],
 		"phaseid": "006",
 		"phasename": "Civil War",
 		"sortid": "078"
@@ -30953,6 +31496,7 @@
 		"num": 11,
 		"date": "2007-02-28",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Iron Man"
 		],
@@ -30979,6 +31523,7 @@
 		"num": 4,
 		"date": "2007-02-21",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Punisher"
 		],
@@ -31003,6 +31548,7 @@
 		"num": 106,
 		"date": "2006-09-13",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Grandmaster",
 			"Radioactive Man",
@@ -31031,6 +31577,7 @@
 		"num": 107,
 		"date": "2006-10-11",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Hyperion (Earth-712)",
 			"Songbird",
@@ -31057,6 +31604,7 @@
 		"num": 108,
 		"date": "2006-11-15",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Thunderbolts"
 		],
@@ -31081,6 +31629,7 @@
 		"num": 109,
 		"date": "2006-12-20",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Thunderbolts"
 		],
@@ -31105,6 +31654,7 @@
 		"num": 25,
 		"date": "2007-03-07",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			"Captain America"
 		],
@@ -31116,7 +31666,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/55b9488ef2727.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Captain America dies",
+		"comments": [
+			"Captain America dies"
+		],
 		"phaseid": "006",
 		"phasename": "Civil War",
 		"sortid": "082"
@@ -31129,6 +31681,7 @@
 		"num": 1,
 		"date": "2007-04-04",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -31152,6 +31705,7 @@
 		"num": 2,
 		"date": "2007-04-25",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -31174,6 +31728,7 @@
 		"num": 3,
 		"date": "2007-05-16",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -31198,6 +31753,7 @@
 		"num": 4,
 		"date": "2007-06-20",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -31221,6 +31777,7 @@
 		"num": 5,
 		"date": "2007-07-05",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -31243,6 +31800,7 @@
 		"num": 1,
 		"date": "2007-03-07",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -31254,7 +31812,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/55b9474f57b80.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Iron Man becomes SHIELD director",
+		"comments": [
+			"Iron Man becomes SHIELD director"
+		],
 		"phaseid": "006",
 		"phasename": "Civil War",
 		"sortid": "084"
@@ -31267,6 +31827,7 @@
 		"num": 1,
 		"date": "2007-05-01",
 		"event": "Civil War",
+		"eventid": "006",
 		"characters": [
 			""
 		],
@@ -31512,7 +32073,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/56cdec49c98c9.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Spider-Man goes back to black suit",
+		"comments": [
+			"Spider-Man goes back to black suit"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "004"
@@ -32070,6 +32633,7 @@
 		"num": 92,
 		"date": "2006-02-08",
 		"event": "Planet Hulk",
+		"eventid": "007",
 		"characters": [
 			"Hulk"
 		],
@@ -32084,7 +32648,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4f6a2316f20a4.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Hulk lands in Sakaar",
+		"comments": [
+			"Hulk lands in Sakaar"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "008"
@@ -32097,6 +32663,7 @@
 		"num": 93,
 		"date": "2006-03-22",
 		"event": "Planet Hulk",
+		"eventid": "007",
 		"characters": [
 			"Hulk",
 			"Miek"
@@ -32124,6 +32691,7 @@
 		"num": 94,
 		"date": "2006-04-26",
 		"event": "Planet Hulk",
+		"eventid": "007",
 		"characters": [
 			"Hulk"
 		],
@@ -32149,6 +32717,7 @@
 		"num": 95,
 		"date": "2006-05-31",
 		"event": "Planet Hulk",
+		"eventid": "007",
 		"characters": [
 			"Hulk",
 			"Silver Surfer"
@@ -32175,6 +32744,7 @@
 		"num": 1,
 		"date": "2006-06-21",
 		"event": "Planet Hulk",
+		"eventid": "007",
 		"characters": [
 			"Hulk"
 		],
@@ -32199,6 +32769,7 @@
 		"num": 96,
 		"date": "2006-07-05",
 		"event": "Planet Hulk",
+		"eventid": "007",
 		"characters": [
 			"Hulk",
 			"Korg",
@@ -32226,6 +32797,7 @@
 		"num": 97,
 		"date": "2006-08-09",
 		"event": "Planet Hulk",
+		"eventid": "007",
 		"characters": [
 			"Hulk"
 		],
@@ -32251,6 +32823,7 @@
 		"num": 98,
 		"date": "2006-09-13",
 		"event": "Planet Hulk",
+		"eventid": "007",
 		"characters": [
 			"Hulk"
 		],
@@ -32276,6 +32849,7 @@
 		"num": 99,
 		"date": "2006-10-04",
 		"event": "Planet Hulk",
+		"eventid": "007",
 		"characters": [
 			"Hulk"
 		],
@@ -32301,6 +32875,7 @@
 		"num": 100,
 		"date": "2006-11-01",
 		"event": "Planet Hulk",
+		"eventid": "007",
 		"characters": [
 			"Hulk"
 		],
@@ -32315,7 +32890,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4d24f491cecd7.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Incredible Hulk 100th",
+		"comments": [
+			"Incredible Hulk 100th"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "010"
@@ -32328,6 +32905,7 @@
 		"num": 101,
 		"date": "2006-12-06",
 		"event": "Planet Hulk",
+		"eventid": "007",
 		"characters": [
 			"Hiroim",
 			"Hulk"
@@ -32354,6 +32932,7 @@
 		"num": 102,
 		"date": "2007-01-03",
 		"event": "Planet Hulk",
+		"eventid": "007",
 		"characters": [
 			"Hulk"
 		],
@@ -32379,6 +32958,7 @@
 		"num": 103,
 		"date": "2007-02-03",
 		"event": "Planet Hulk",
+		"eventid": "007",
 		"characters": [
 			""
 		],
@@ -32400,6 +32980,7 @@
 		"num": 104,
 		"date": "2007-03-07",
 		"event": "Planet Hulk",
+		"eventid": "007",
 		"characters": [
 			"Hulk"
 		],
@@ -32425,6 +33006,7 @@
 		"num": 105,
 		"date": "2007-04-04",
 		"event": "Planet Hulk",
+		"eventid": "007",
 		"characters": [
 			"Hulk"
 		],
@@ -32676,7 +33258,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4d24fa66df783.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Thor reborn",
+		"comments": [
+			"Thor reborn"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "014"
@@ -32768,7 +33352,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/4d24f003f312b.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Loki reborn as female",
+		"comments": [
+			"Loki reborn as female"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "014"
@@ -32947,7 +33533,10 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4d24f87b77073.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Thor vanished, Balder king",
+		"comments": [
+			"Thor vanished",
+			"Balder king"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "015"
@@ -33113,7 +33702,10 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4f7effdc01f82.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Hawkeye, Strange \u0026 Iron Fist join Avengers",
+		"comments": [
+			"Hawkeye",
+			"Strange \u0026 Iron Fist join Avengers"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "017"
@@ -33274,7 +33866,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4f7b2c8211fc3.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Mighty Avengers introduction",
+		"comments": [
+			"Mighty Avengers introduction"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "018"
@@ -33834,7 +34428,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/57a25305eeaa5.jpg",
 		"universe": "Earth-616",
-		"comments": "SHIELD starts recruiting superhumans",
+		"comments": [
+			"SHIELD starts recruiting superhumans"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "022"
@@ -33916,7 +34512,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/5744c98191881.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Norman Osborn takes Thunderbolts control",
+		"comments": [
+			"Norman Osborn takes Thunderbolts control"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "023"
@@ -34540,7 +35138,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4f75b12e313c8.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Bucky becomes Captain America",
+		"comments": [
+			"Bucky becomes Captain America"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "027"
@@ -34936,7 +35536,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/517acfdbb7f0f.jpg",
 		"universe": "Earth-616",
-		"comments": "Eric O'Grady introduction (new Antman)",
+		"comments": [
+			"Eric O'Grady introduction (new Antman)"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "030"
@@ -36389,7 +36991,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/56d70754b284f.jpg",
 		"universe": "Earth-982",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "042"
@@ -36413,7 +37017,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/56d707c92624e.jpg",
 		"universe": "Earth-982",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "042"
@@ -36437,7 +37043,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/56d708312e80b.jpg",
 		"universe": "Earth-982",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "042"
@@ -36461,7 +37069,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/56d708a64e2bd.jpg",
 		"universe": "Earth-982",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "042"
@@ -36486,7 +37096,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/56d709135f6bc.jpg",
 		"universe": "Earth-982",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "042"
@@ -36510,7 +37122,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/56d70974b0d4c.jpg",
 		"universe": "Earth-982",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "042"
@@ -36534,7 +37148,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/56d709d1d03f6.jpg",
 		"universe": "Earth-982",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "043"
@@ -36558,7 +37174,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/56d70a4fb3744.jpg",
 		"universe": "Earth-982",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "043"
@@ -36582,7 +37200,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/56d70aa59ea9b.jpg",
 		"universe": "Earth-982",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "043"
@@ -36606,7 +37226,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/56d70b16bc983.jpg",
 		"universe": "Earth-982",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "043"
@@ -36630,7 +37252,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/56d70b806db57.jpg",
 		"universe": "Earth-982",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "043"
@@ -36654,7 +37278,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/56d70be3e6825.jpg",
 		"universe": "Earth-982",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "043"
@@ -36678,7 +37304,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/56d70c4639d54.jpg",
 		"universe": "Earth-982",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "044"
@@ -36702,7 +37330,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/56d70ceae0516.jpg",
 		"universe": "Earth-982",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "044"
@@ -36727,7 +37357,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb7c8679b0c3.jpg",
 		"universe": "Earth-982",
-		"comments": "missing",
+		"comments": [
+			"missing"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "044"
@@ -36752,7 +37384,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4bb7974a12819.jpg",
 		"universe": "Earth-982",
-		"comments": "missing",
+		"comments": [
+			"missing"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "044"
@@ -36777,7 +37411,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4c361c177f2c6.jpg",
 		"universe": "Earth-982",
-		"comments": "missing",
+		"comments": [
+			"missing"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "044"
@@ -36802,7 +37438,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4bb71868b3135.jpg",
 		"universe": "Earth-982",
-		"comments": "missing",
+		"comments": [
+			"missing"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "044"
@@ -39459,7 +40097,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4f7afeea5a6a3.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Kitty Pride is lost in space",
+		"comments": [
+			"Kitty Pride is lost in space"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "063"
@@ -39741,7 +40381,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bb8638fbc04d.jpg",
 		"universe": "Earth-616",
-		"comments": "Great Lakes Avengers join The Initiative",
+		"comments": [
+			"Great Lakes Avengers join The Initiative"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "066"
@@ -40318,7 +40960,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/57e977d50f63a.jpg",
 		"universe": "Earth-616",
-		"comments": "Black Panther and Storm leave Fantastic Four",
+		"comments": [
+			"Black Panther and Storm leave Fantastic Four"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "071"
@@ -40522,7 +41166,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/5351924a683f7.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Inhumans war against USA",
+		"comments": [
+			"Inhumans war against USA"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "073"
@@ -40648,6 +41294,7 @@
 		"num": 106,
 		"date": "2007-05-02",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -40661,7 +41308,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/516320485c126.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Hulk returns to Earth and starts WWH",
+		"comments": [
+			"Hulk returns to Earth and starts WWH"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "074"
@@ -40674,6 +41323,7 @@
 		"num": 1,
 		"date": "2007-05-09",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -40698,6 +41348,7 @@
 		"num": 1,
 		"date": "2007-06-13",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -40724,6 +41375,7 @@
 		"num": 19,
 		"date": "2007-06-20",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk",
 			"Iron Man"
@@ -40751,6 +41403,7 @@
 		"num": 107,
 		"date": "2007-06-20",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hercules",
 			"Hulk"
@@ -40777,6 +41430,7 @@
 		"num": 1,
 		"date": "2007-06-27",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Black Bolt",
 			"Hulk"
@@ -40801,6 +41455,7 @@
 		"num": 1,
 		"date": "2007-06-27",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk",
 			"Professor X",
@@ -40826,6 +41481,7 @@
 		"num": 10,
 		"date": "2007-07-05",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Ant-Man (Eric O'Grady)",
 			"Hulk"
@@ -40851,6 +41507,7 @@
 		"num": 1,
 		"date": "2007-07-18",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -40876,6 +41533,7 @@
 		"num": 2,
 		"date": "2007-07-18",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Black Panther",
 			"Fantastic Four",
@@ -40909,6 +41567,7 @@
 		"num": 2,
 		"date": "2007-07-18",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -40934,6 +41593,7 @@
 		"num": 4,
 		"date": "2007-07-18",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hardball",
 			"Hulk",
@@ -40961,6 +41621,7 @@
 		"num": 2,
 		"date": "2007-07-25",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk",
 			"Wolverine",
@@ -40986,6 +41647,7 @@
 		"num": 11,
 		"date": "2007-06-20",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Heroes For Hire"
 		],
@@ -41009,6 +41671,7 @@
 		"num": 12,
 		"date": "2007-07-25",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Colleen Wing",
 			"Heroes For Hire",
@@ -41036,6 +41699,7 @@
 		"num": 20,
 		"date": "2007-07-25",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Iron Man"
 		],
@@ -41061,6 +41725,7 @@
 		"num": 108,
 		"date": "2007-07-25",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Archangel",
 			"Hercules",
@@ -41091,6 +41756,7 @@
 		"num": 3,
 		"date": "2007-08-01",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41117,6 +41783,7 @@
 		"num": 3,
 		"date": "2007-08-08",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Black Bolt",
 			"Captain Marvel (Carol Danvers)",
@@ -41148,6 +41815,7 @@
 		"num": 109,
 		"date": "2007-08-08",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41174,6 +41842,7 @@
 		"num": 2,
 		"date": "2007-08-22",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41198,6 +41867,7 @@
 		"num": 3,
 		"date": "2007-08-29",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Colossus",
 			"Cyclops",
@@ -41228,6 +41898,7 @@
 		"num": 5,
 		"date": "2007-08-29",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Constrictor",
 			"Hulk",
@@ -41258,6 +41929,7 @@
 		"num": 110,
 		"date": "2007-09-06",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41284,6 +41956,7 @@
 		"num": 13,
 		"date": "2007-09-12",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Heroes For Hire"
 		],
@@ -41309,6 +41982,7 @@
 		"num": 3,
 		"date": "2007-09-19",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41333,6 +42007,7 @@
 		"num": 4,
 		"date": "2007-09-19",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Black Bolt",
 			"Doctor Strange",
@@ -41363,6 +42038,7 @@
 		"num": 4,
 		"date": "2007-09-19",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41389,6 +42065,7 @@
 		"num": 5,
 		"date": "2007-10-10",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk",
 			"Sentry (Robert Reynolds)"
@@ -41416,6 +42093,7 @@
 		"num": 12,
 		"date": "2007-10-10",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk",
 			"Punisher"
@@ -41439,6 +42117,7 @@
 		"num": 14,
 		"date": "2007-10-10",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Black Cat",
 			"Colleen Wing",
@@ -41469,6 +42148,7 @@
 		"num": 15,
 		"date": "2007-11-21",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Heroes For Hire"
 		],
@@ -41494,6 +42174,7 @@
 		"num": 4,
 		"date": "2007-11-07",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41519,6 +42200,7 @@
 		"num": 111,
 		"date": "2007-11-21",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41545,6 +42227,7 @@
 		"num": 5,
 		"date": "2007-11-14",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41571,6 +42254,7 @@
 		"num": 6,
 		"date": "2007-11-29",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41595,6 +42279,7 @@
 		"num": 1,
 		"date": "2007-12-05",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41619,6 +42304,7 @@
 		"num": 1,
 		"date": "2008-01-23",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			""
 		],
@@ -41642,6 +42328,7 @@
 		"num": 2,
 		"date": "2008-02-27",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			""
 		],
@@ -41666,6 +42353,7 @@
 		"num": 3,
 		"date": "2008-03-26",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			""
 		],
@@ -41690,6 +42378,7 @@
 		"num": 112,
 		"date": "2007-12-19",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41713,6 +42402,7 @@
 		"num": 113,
 		"date": "2008-02-01",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			""
 		],
@@ -41733,6 +42423,7 @@
 		"num": 114,
 		"date": "2008-02-20",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Amadeus Cho",
 			"Angel (Thomas Halloway)",
@@ -41766,6 +42457,7 @@
 		"num": 115,
 		"date": "2008-03-19",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Amadeus Cho",
 			"Ares",
@@ -41794,6 +42486,7 @@
 		"num": 1,
 		"date": "2007-12-19",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41817,6 +42510,7 @@
 		"num": 2,
 		"date": "2008-03-01",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41837,6 +42531,7 @@
 		"num": 3,
 		"date": "2008-04-01",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41857,6 +42552,7 @@
 		"num": 4,
 		"date": "2008-05-01",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41877,6 +42573,7 @@
 		"num": 5,
 		"date": "2008-04-16",
 		"event": "World War Hulk",
+		"eventid": "008",
 		"characters": [
 			"Hulk"
 		],
@@ -41976,7 +42673,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/519684406e84d.jpg",
 		"universe": "Earth-616",
-		"comments": "Red Hulk origins",
+		"comments": [
+			"Red Hulk origins"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "112"
@@ -42219,6 +42918,7 @@
 		"num": 1,
 		"date": "2007-10-31",
 		"event": "Messiah Complex",
+		"eventid": "009",
 		"characters": [
 			"Cyclops",
 			"Mister Sinister",
@@ -42236,7 +42936,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/513a8972c747e.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "First mutant baby is born since the M-day",
+		"comments": [
+			"First mutant baby is born since the M-day"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "114"
@@ -42249,6 +42951,7 @@
 		"num": 492,
 		"date": "2007-11-07",
 		"event": "Messiah Complex",
+		"eventid": "009",
 		"characters": [
 			"X-Men"
 		],
@@ -42275,6 +42978,7 @@
 		"num": 25,
 		"date": "2007-11-14",
 		"event": "Messiah Complex",
+		"eventid": "009",
 		"characters": [
 			"Layla Miller",
 			"Madrox",
@@ -42303,6 +43007,7 @@
 		"num": 44,
 		"date": "2007-11-21",
 		"event": "Messiah Complex",
+		"eventid": "009",
 		"characters": [
 			"Mercury",
 			"Prodigy",
@@ -42335,6 +43040,7 @@
 		"num": 205,
 		"date": "2007-11-29",
 		"event": "Messiah Complex",
+		"eventid": "009",
 		"characters": [
 			"X-Men"
 		],
@@ -42361,6 +43067,7 @@
 		"num": 493,
 		"date": "2007-12-05",
 		"event": "Messiah Complex",
+		"eventid": "009",
 		"characters": [
 			"X-Men"
 		],
@@ -42387,6 +43094,7 @@
 		"num": 26,
 		"date": "2007-12-12",
 		"event": "Messiah Complex",
+		"eventid": "009",
 		"characters": [
 			"X-Men"
 		],
@@ -42413,6 +43121,7 @@
 		"num": 45,
 		"date": "2007-12-19",
 		"event": "Messiah Complex",
+		"eventid": "009",
 		"characters": [
 			"X-23",
 			"X-Men"
@@ -42441,6 +43150,7 @@
 		"num": 206,
 		"date": "2007-12-28",
 		"event": "Messiah Complex",
+		"eventid": "009",
 		"characters": [
 			"X-Men"
 		],
@@ -42467,6 +43177,7 @@
 		"num": 494,
 		"date": "2008-01-04",
 		"event": "Messiah Complex",
+		"eventid": "009",
 		"characters": [
 			"Cyclops",
 			"Emma Frost",
@@ -42496,6 +43207,7 @@
 		"num": 27,
 		"date": "2008-01-09",
 		"event": "Messiah Complex",
+		"eventid": "009",
 		"characters": [
 			"X-Men"
 		],
@@ -42522,6 +43234,7 @@
 		"num": 46,
 		"date": "2008-01-16",
 		"event": "Messiah Complex",
+		"eventid": "009",
 		"characters": [
 			"X-Men"
 		],
@@ -42549,6 +43262,7 @@
 		"num": 207,
 		"date": "2008-01-23",
 		"event": "Messiah Complex",
+		"eventid": "009",
 		"characters": [
 			"X-Men"
 		],
@@ -42563,7 +43277,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/513a8ea81c01f.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "X-Men gets dissasembled",
+		"comments": [
+			"X-Men gets dissasembled"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "114"
@@ -44426,7 +45142,6 @@
 		"vol": 1,
 		"num": 500,
 		"date": "2008-07-23",
-		"event": "Manifest Destiny",
 		"characters": [
 			""
 		],
@@ -44436,7 +45151,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/513f4b8517c45.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Uncanny X-Men 500th",
+		"comments": [
+			"Uncanny X-Men 500th"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "130"
@@ -44448,7 +45165,6 @@
 		"vol": 1,
 		"num": 501,
 		"date": "2008-08-20",
-		"event": "Manifest Destiny",
 		"characters": [
 			"X-Men"
 		],
@@ -44475,7 +45191,6 @@
 		"vol": 1,
 		"num": 502,
 		"date": "2008-09-17",
-		"event": "Manifest Destiny",
 		"characters": [
 			"X-Men"
 		],
@@ -44502,7 +45217,6 @@
 		"vol": 1,
 		"num": 503,
 		"date": "2008-10-15",
-		"event": "Manifest Destiny",
 		"characters": [
 			"X-Men"
 		],
@@ -44518,7 +45232,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/513f4ba800048.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "X-Men settle in San Francisco",
+		"comments": [
+			"X-Men settle in San Francisco"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "130"
@@ -44530,7 +45246,6 @@
 		"vol": 1,
 		"num": 1,
 		"date": "2008-10-22",
-		"event": "Manifest Destiny",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -44556,7 +45271,6 @@
 		"vol": 1,
 		"num": 2,
 		"date": "2008-12-03",
-		"event": "Manifest Destiny",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -44583,7 +45297,6 @@
 		"vol": 1,
 		"num": 3,
 		"date": "2008-12-31",
-		"event": "Manifest Destiny",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -44611,7 +45324,6 @@
 		"vol": 1,
 		"num": 4,
 		"date": "2009-02-11",
-		"event": "Manifest Destiny",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -44639,7 +45351,6 @@
 		"vol": 1,
 		"num": 1,
 		"date": "2008-09-03",
-		"event": "Manifest Destiny",
 		"characters": [
 			"Iceman",
 			"X-Men"
@@ -44673,7 +45384,6 @@
 		"vol": 1,
 		"num": 2,
 		"date": "2008-10-08",
-		"event": "Manifest Destiny",
 		"characters": [
 			"X-Men"
 		],
@@ -44706,7 +45416,6 @@
 		"vol": 1,
 		"num": 3,
 		"date": "2008-11-05",
-		"event": "Manifest Destiny",
 		"characters": [
 			"X-Men"
 		],
@@ -44740,7 +45449,6 @@
 		"vol": 1,
 		"num": 4,
 		"date": "2008-12-03",
-		"event": "Manifest Destiny",
 		"characters": [
 			"X-Men"
 		],
@@ -44772,7 +45480,6 @@
 		"vol": 1,
 		"num": 5,
 		"date": "2009-01-07",
-		"event": "Manifest Destiny",
 		"characters": [
 			"X-Men"
 		],
@@ -44805,7 +45512,6 @@
 		"vol": 1,
 		"num": 215,
 		"date": "2008-08-27",
-		"event": "Manifest Destiny",
 		"characters": [
 			"X-Men"
 		],
@@ -44834,7 +45540,6 @@
 		"vol": 1,
 		"num": 216,
 		"date": "2008-09-24",
-		"event": "Manifest Destiny",
 		"characters": [
 			"X-Men"
 		],
@@ -44859,7 +45564,6 @@
 		"title": "Manifest Destiny V",
 		"vol": 1,
 		"num": 1,
-		"event": "Manifest Destiny",
 		"characters": [
 			""
 		],
@@ -44878,7 +45582,6 @@
 		"vol": 1,
 		"num": 504,
 		"date": "2008-11-19",
-		"event": "Manifest Destiny",
 		"characters": [
 			"X-Men"
 		],
@@ -44903,7 +45606,6 @@
 		"vol": 1,
 		"num": 505,
 		"date": "2008-12-17",
-		"event": "Manifest Destiny",
 		"characters": [
 			"X-Men"
 		],
@@ -44928,7 +45630,6 @@
 		"vol": 1,
 		"num": 506,
 		"date": "2009-02-18",
-		"event": "Manifest Destiny",
 		"characters": [
 			"X-Men"
 		],
@@ -44953,7 +45654,6 @@
 		"vol": 1,
 		"num": 507,
 		"date": "2009-03-18",
-		"event": "Manifest Destiny",
 		"characters": [
 			"X-Men"
 		],
@@ -45477,7 +46177,6 @@
 		"vol": 1,
 		"num": 28,
 		"date": "2008-09-24",
-		"event": "Original Sin",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -45503,7 +46202,6 @@
 		"vol": 1,
 		"num": 1,
 		"date": "2008-10-08",
-		"event": "Original Sin",
 		"characters": [
 			"X-Men"
 		],
@@ -45533,7 +46231,6 @@
 		"vol": 1,
 		"num": 217,
 		"date": "2008-10-22",
-		"event": "Original Sin",
 		"characters": [
 			"X-Men"
 		],
@@ -45562,7 +46259,6 @@
 		"vol": 1,
 		"num": 29,
 		"date": "2008-10-29",
-		"event": "Original Sin",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -45588,7 +46284,6 @@
 		"vol": 1,
 		"num": 218,
 		"date": "2008-11-19",
-		"event": "Original Sin",
 		"characters": [
 			"X-Men"
 		],
@@ -45614,7 +46309,6 @@
 		"vol": 1,
 		"num": 30,
 		"date": "2008-11-26",
-		"event": "Original Sin",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -45677,7 +46371,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/4d24e32259672.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "140"
@@ -45702,7 +46398,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4ea1818dc1b0e.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "140"
@@ -45728,7 +46426,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4ea183a6278e6.jpg",
 		"universe": "Earth-616",
-		"comments": "traducido",
+		"comments": [
+			"traducido"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "140"
@@ -46631,7 +47331,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/51b74b27bcefc.jpg",
 		"universe": "Earth-616",
-		"comments": "Iron Fist origins",
+		"comments": [
+			"Iron Fist origins"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "147"
@@ -47866,7 +48568,6 @@
 		"vol": 1,
 		"num": 544,
 		"date": "2007-09-06",
-		"event": "One More Day",
 		"characters": [
 			"Mary Jane Watson",
 			"May Parker",
@@ -47892,7 +48593,6 @@
 		"vol": 1,
 		"num": 24,
 		"date": "2007-10-10",
-		"event": "One More Day",
 		"characters": [
 			"Doctor Strange",
 			"Spider-Man"
@@ -47917,7 +48617,6 @@
 		"vol": 2,
 		"num": 41,
 		"date": "2007-11-29",
-		"event": "One More Day",
 		"characters": [
 			"Spider-Man"
 		],
@@ -47941,7 +48640,6 @@
 		"vol": 1,
 		"num": 545,
 		"date": "2007-12-28",
-		"event": "One More Day",
 		"characters": [
 			"Mary Jane Watson",
 			"Spider-Man"
@@ -47955,7 +48653,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/56ddda739850b.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Spider-Man sells his marriage to Mephisto",
+		"comments": [
+			"Spider-Man sells his marriage to Mephisto"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "155"
@@ -47977,7 +48677,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/4bc38bf8988d5.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Spider-Man's life gets reseted",
+		"comments": [
+			"Spider-Man's life gets reseted"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "156"
@@ -48695,7 +49397,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/578e266e4f5d0.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Eddie Brock becomes Anti-Venom",
+		"comments": [
+			"Eddie Brock becomes Anti-Venom"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "161"
@@ -49232,6 +49936,7 @@
 		"num": 1,
 		"date": "2007-06-20",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Quasar (Phyla-Vell)"
 		],
@@ -49257,6 +49962,7 @@
 		"num": 1,
 		"date": "2007-07-18",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Quasar (Phyla-Vell)"
 		],
@@ -49282,6 +49988,7 @@
 		"num": 2,
 		"date": "2007-08-15",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Quasar (Phyla-Vell)"
 		],
@@ -49306,6 +50013,7 @@
 		"num": 3,
 		"date": "2007-09-19",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Quasar (Phyla-Vell)"
 		],
@@ -49332,6 +50040,7 @@
 		"num": 4,
 		"date": "2007-10-31",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Quasar (Phyla-Vell)"
 		],
@@ -49358,6 +50067,7 @@
 		"num": 1,
 		"date": "2007-07-25",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Guardians of the Galaxy"
 		],
@@ -49384,6 +50094,7 @@
 		"num": 2,
 		"date": "2007-08-22",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Captain Universe",
 			"Deathcry",
@@ -49414,6 +50125,7 @@
 		"num": 3,
 		"date": "2007-09-26",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Star-Lord (Peter Quill)"
 		],
@@ -49440,6 +50152,7 @@
 		"num": 4,
 		"date": "2007-11-07",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Star-Lord (Peter Quill)"
 		],
@@ -49465,6 +50178,7 @@
 		"num": 1,
 		"date": "2007-07-11",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Wraith"
 		],
@@ -49490,6 +50204,7 @@
 		"num": 2,
 		"date": "2007-08-08",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Wraith"
 		],
@@ -49515,6 +50230,7 @@
 		"num": 3,
 		"date": "2007-09-06",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			""
 		],
@@ -49540,6 +50256,7 @@
 		"num": 4,
 		"date": "2007-10-24",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Wraith"
 		],
@@ -49565,6 +50282,7 @@
 		"num": 4,
 		"date": "2007-08-11",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Gamora",
 			"Nova"
@@ -49593,6 +50311,7 @@
 		"num": 5,
 		"date": "2007-08-30",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Gamora",
 			"Nova"
@@ -49621,6 +50340,7 @@
 		"num": 6,
 		"date": "2007-09-12",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Gamora",
 			"Nova"
@@ -49650,6 +50370,7 @@
 		"num": 7,
 		"date": "2007-10-10",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Gamora",
 			"Nova"
@@ -49679,6 +50400,7 @@
 		"num": 8,
 		"date": "2007-11-14",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Cosmo (dog)",
 			"Nova"
@@ -49707,6 +50429,7 @@
 		"num": 9,
 		"date": "2007-12-12",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Cosmo (dog)",
 			"Nova"
@@ -49735,6 +50458,7 @@
 		"num": 10,
 		"date": "2008-01-09",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Gamora",
 			"Nova"
@@ -49761,6 +50485,7 @@
 		"num": 1,
 		"date": "2008-02-13",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Nova"
 		],
@@ -49788,6 +50513,7 @@
 		"num": 11,
 		"date": "2008-03-12",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Drax",
 			"Gamora",
@@ -49818,6 +50544,7 @@
 		"num": 12,
 		"date": "2008-04-09",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Gamora",
 			"Nova",
@@ -49847,6 +50574,7 @@
 		"num": 1,
 		"date": "2007-11-07",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Adam Warlock",
 			"Blastaar",
@@ -49884,6 +50612,7 @@
 		"num": 2,
 		"date": "2007-12-05",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Adam Warlock",
 			"High Evolutionary",
@@ -49920,6 +50649,7 @@
 		"num": 3,
 		"date": "2008-01-04",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Adam Warlock",
 			"High Evolutionary",
@@ -49955,6 +50685,7 @@
 		"num": 4,
 		"date": "2008-02-06",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Adam Warlock",
 			"High Evolutionary",
@@ -49988,6 +50719,7 @@
 		"num": 5,
 		"date": "2008-03-12",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Adam Warlock",
 			"High Evolutionary",
@@ -50021,6 +50753,7 @@
 		"num": 6,
 		"date": "2008-04-16",
 		"event": "Annihilation Conquest",
+		"eventid": "010",
 		"characters": [
 			"Adam Warlock",
 			"High Evolutionary",
@@ -50044,7 +50777,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4e81eebde62e0.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Guardians of the Galaxy are formed",
+		"comments": [
+			"Guardians of the Galaxy are formed"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "165"
@@ -50426,7 +51161,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bb7c826b5dc7.jpg",
 		"universe": "Earth-616",
-		"comments": "Skaar origins",
+		"comments": [
+			"Skaar origins"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "169"
@@ -50635,7 +51372,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc3978adfd4a.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Vulcan becomes Emperor of Shi'ar",
+		"comments": [
+			"Vulcan becomes Emperor of Shi'ar"
+		],
 		"phaseid": "007",
 		"phasename": "Initiative",
 		"sortid": "170"
@@ -51110,6 +51849,7 @@
 		"num": 1,
 		"date": "2006-12-20",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Black Bolt",
 			"Doctor Strange",
@@ -51127,7 +51867,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/570e6223be57c.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Skrulls invade Earth",
+		"comments": [
+			"Skrulls invade Earth"
+		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
 		"sortid": "001"
@@ -51140,6 +51882,7 @@
 		"num": 2,
 		"date": "2007-02-21",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Black Bolt",
 			"Doctor Strange",
@@ -51169,6 +51912,7 @@
 		"num": 3,
 		"date": "2007-05-30",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Black Bolt",
 			"Doctor Strange",
@@ -51200,6 +51944,7 @@
 		"num": 4,
 		"date": "2007-08-01",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Black Bolt",
 			"Charles Xavier",
@@ -51235,6 +51980,7 @@
 		"num": 5,
 		"date": "2007-11-07",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Black Bolt",
 			"Charles Xavier",
@@ -51267,6 +52013,7 @@
 		"num": 38,
 		"date": "2008-02-13",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Black Widow",
 			"Jessica Jones",
@@ -51295,6 +52042,7 @@
 		"num": 39,
 		"date": "2008-03-26",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Clint Barton",
 			"Daredevil",
@@ -51322,6 +52070,7 @@
 		"num": 1,
 		"date": "2007-11-14",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Captain Marvel (Mar-Vell)"
 		],
@@ -51346,6 +52095,7 @@
 		"num": 2,
 		"date": "2007-12-28",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -51370,6 +52120,7 @@
 		"num": 3,
 		"date": "2008-02-13",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -51395,6 +52146,7 @@
 		"num": 4,
 		"date": "2008-03-19",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -51420,6 +52172,7 @@
 		"num": 5,
 		"date": "2008-04-16",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Captain Marvel (Mar-Vell)"
 		],
@@ -51445,6 +52198,7 @@
 		"num": 25,
 		"date": "2008-03-26",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Captain Marvel (Carol Danvers)",
 			"Skrulls"
@@ -51470,6 +52224,7 @@
 		"num": 26,
 		"date": "2008-04-23",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Captain Marvel (Carol Danvers)",
 			"Skrulls"
@@ -51496,6 +52251,7 @@
 		"num": 27,
 		"date": "2008-05-29",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Captain Marvel (Carol Danvers)",
 			"Skrulls"
@@ -51521,6 +52277,7 @@
 		"num": 116,
 		"date": "2008-04-16",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -51545,6 +52302,7 @@
 		"num": 1,
 		"date": "2008-03-05",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -51567,6 +52325,7 @@
 		"num": 1,
 		"date": "2008-04-02",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Captain America",
 			"Skrulls",
@@ -51596,6 +52355,7 @@
 		"num": 12,
 		"date": "2008-04-23",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Avengers",
 			"Maria Hill",
@@ -51625,6 +52385,7 @@
 		"num": 40,
 		"date": "2008-04-30",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -51651,6 +52412,7 @@
 		"num": 2,
 		"date": "2008-05-07",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Skrulls"
 		],
@@ -51677,6 +52439,7 @@
 		"num": 13,
 		"date": "2008-05-07",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Ares",
 			"Avengers",
@@ -51693,7 +52456,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4d250a9cc2fe6.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Nick Fury forms the Secret Warriors",
+		"comments": [
+			"Nick Fury forms the Secret Warriors"
+		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
 		"sortid": "011"
@@ -51706,6 +52471,7 @@
 		"num": 1,
 		"date": "2008-05-14",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -51729,6 +52495,7 @@
 		"num": 1,
 		"date": "2008-05-14",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Fantastic Four"
 		],
@@ -51751,6 +52518,7 @@
 		"num": 14,
 		"date": "2008-05-21",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Avengers",
 			"Iron Man",
@@ -51780,6 +52548,7 @@
 		"num": 117,
 		"date": "2008-05-21",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -51806,6 +52575,7 @@
 		"num": 41,
 		"date": "2008-05-29",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Ka-Zar",
 			"Shanna the She-Devil",
@@ -51832,6 +52602,7 @@
 		"num": 3,
 		"date": "2008-06-04",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Iron Man",
 			"Skrulls"
@@ -51858,6 +52629,7 @@
 		"vol": 1,
 		"num": 1,
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -51878,6 +52650,7 @@
 		"num": 2,
 		"date": "2008-06-11",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -51906,6 +52679,7 @@
 		"num": 2,
 		"date": "2008-06-18",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Fantastic Four"
 		],
@@ -51935,6 +52709,7 @@
 		"num": 118,
 		"date": "2008-06-18",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -51964,6 +52739,7 @@
 		"num": 1,
 		"date": "2008-06-25",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -51991,6 +52767,7 @@
 		"num": 14,
 		"date": "2008-06-25",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"3-D Man",
 			"Ant-Man (Eric O'Grady)",
@@ -52023,6 +52800,7 @@
 		"num": 15,
 		"date": "2008-06-25",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Avengers",
 			"Black Widow",
@@ -52054,6 +52832,7 @@
 		"num": 28,
 		"date": "2008-06-25",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Captain Marvel (Carol Danvers)",
 			"Skrulls"
@@ -52080,6 +52859,7 @@
 		"num": 42,
 		"date": "2008-06-25",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Spider-Woman (Jessica Drew)"
 		],
@@ -52106,6 +52886,7 @@
 		"num": 1,
 		"date": "2008-07-02",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -52130,6 +52911,7 @@
 		"num": 3,
 		"date": "2008-07-09",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -52157,6 +52939,7 @@
 		"num": 4,
 		"date": "2008-07-09",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Nick Fury",
 			"Skrulls"
@@ -52184,6 +52967,7 @@
 		"num": 16,
 		"date": "2008-07-16",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Avengers",
 			"Daredevil",
@@ -52216,6 +53000,7 @@
 		"num": 33,
 		"date": "2008-07-16",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"X-Men"
 		],
@@ -52242,6 +53027,7 @@
 		"num": 119,
 		"date": "2008-07-16",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -52271,6 +53057,7 @@
 		"num": 14,
 		"date": "2008-07-23",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"New Warriors"
 		],
@@ -52296,6 +53083,7 @@
 		"num": 15,
 		"date": "2008-07-23",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"3-D Man",
 			"Gauntlet (Joseph Green)",
@@ -52327,6 +53115,7 @@
 		"num": 31,
 		"date": "2008-07-23",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"She-Hulk (Jennifer Walters)"
 		],
@@ -52353,6 +53142,7 @@
 		"num": 43,
 		"date": "2008-07-23",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Ka-Zar",
 			"Shanna the She-Devil",
@@ -52382,6 +53172,7 @@
 		"num": 122,
 		"date": "2008-07-23",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Thunderbolts"
 		],
@@ -52409,6 +53200,7 @@
 		"num": 3,
 		"date": "2008-07-30",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Fantastic Four"
 		],
@@ -52437,6 +53229,7 @@
 		"num": 29,
 		"date": "2008-07-30",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Captain Marvel (Carol Danvers)",
 			"Skrulls"
@@ -52464,6 +53257,7 @@
 		"num": 39,
 		"date": "2008-07-30",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Black Panther",
 			"Skrulls"
@@ -52489,6 +53283,7 @@
 		"num": 2,
 		"date": "2008-08-06",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -52514,6 +53309,7 @@
 		"num": 1,
 		"date": "2008-08-13",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"X-Men"
 		],
@@ -52540,6 +53336,7 @@
 		"num": 1,
 		"date": "2008-08-13",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -52568,6 +53365,7 @@
 		"num": 1,
 		"date": "2008-08-13",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Thor"
 		],
@@ -52593,6 +53391,7 @@
 		"num": 2,
 		"date": "2008-08-13",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -52620,6 +53419,7 @@
 		"num": 4,
 		"date": "2008-08-13",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -52647,6 +53447,7 @@
 		"num": 5,
 		"date": "2008-08-13",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Skrulls"
 		],
@@ -52673,6 +53474,7 @@
 		"num": 4,
 		"date": "2008-08-20",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Guardians of the Galaxy"
 		],
@@ -52701,6 +53503,7 @@
 		"num": 34,
 		"date": "2008-08-20",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"X-Men"
 		],
@@ -52727,6 +53530,7 @@
 		"num": 120,
 		"date": "2008-08-20",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -52760,6 +53564,7 @@
 		"num": 1,
 		"date": "2008-08-27",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Spider-Man"
 		],
@@ -52788,6 +53593,7 @@
 		"num": 15,
 		"date": "2008-08-27",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"New Warriors"
 		],
@@ -52813,6 +53619,7 @@
 		"num": 16,
 		"date": "2008-08-27",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Nova",
 			"Super-Skrull"
@@ -52842,6 +53649,7 @@
 		"num": 16,
 		"date": "2008-08-27",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"3-D Man",
 			"Beta-Ray Bill",
@@ -52875,6 +53683,7 @@
 		"num": 17,
 		"date": "2008-08-27",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Dum Dum Dugan",
 			"Hank Pym",
@@ -52904,6 +53713,7 @@
 		"num": 32,
 		"date": "2008-08-27",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"She-Hulk (Jennifer Walters)"
 		],
@@ -52930,6 +53740,7 @@
 		"num": 40,
 		"date": "2008-08-27",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Black Panther",
 			"Skrulls"
@@ -52956,6 +53767,7 @@
 		"num": 44,
 		"date": "2008-08-27",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Iron Man",
 			"Namor",
@@ -52985,6 +53797,7 @@
 		"num": 123,
 		"date": "2008-08-27",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Thunderbolts"
 		],
@@ -53011,6 +53824,7 @@
 		"num": 3,
 		"date": "2008-09-03",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -53036,6 +53850,7 @@
 		"num": 1,
 		"date": "2008-09-10",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Deadpool"
 		],
@@ -53056,6 +53871,7 @@
 		"num": 2,
 		"date": "2008-09-10",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"X-Men"
 		],
@@ -53082,6 +53898,7 @@
 		"num": 2,
 		"date": "2008-09-10",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -53109,6 +53926,7 @@
 		"num": 3,
 		"date": "2008-09-10",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -53135,6 +53953,7 @@
 		"num": 6,
 		"date": "2008-09-10",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Avengers",
 			"Skrulls"
@@ -53162,6 +53981,7 @@
 		"num": 30,
 		"date": "2008-09-10",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Captain Marvel (Carol Danvers)",
 			"Skrulls"
@@ -53189,6 +54009,7 @@
 		"num": 2,
 		"date": "2008-09-17",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Thor"
 		],
@@ -53214,6 +54035,7 @@
 		"num": 5,
 		"date": "2008-09-17",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Guardians of the Galaxy"
 		],
@@ -53242,6 +54064,7 @@
 		"num": 18,
 		"date": "2008-09-17",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Maria Hill",
 			"Nick Fury",
@@ -53269,6 +54092,7 @@
 		"num": 33,
 		"date": "2008-09-17",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Iron Man"
 		],
@@ -53295,6 +54119,7 @@
 		"num": 2,
 		"date": "2008-09-24",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Deadpool"
 		],
@@ -53321,6 +54146,7 @@
 		"num": 2,
 		"date": "2008-09-24",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Spider-Man"
 		],
@@ -53348,6 +54174,7 @@
 		"num": 17,
 		"date": "2008-09-24",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Darkhawk",
 			"Nova"
@@ -53378,6 +54205,7 @@
 		"num": 17,
 		"date": "2008-09-24",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"3-D Man",
 			"Ant-Man (Eric O'Grady)",
@@ -53413,6 +54241,7 @@
 		"num": 33,
 		"date": "2008-09-24",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"She-Hulk (Jennifer Walters)"
 		],
@@ -53439,6 +54268,7 @@
 		"num": 41,
 		"date": "2008-09-24",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Black Panther",
 			"Skrulls",
@@ -53466,6 +54296,7 @@
 		"num": 45,
 		"date": "2008-09-24",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -53493,6 +54324,7 @@
 		"num": 124,
 		"date": "2008-09-24",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Thunderbolts"
 		],
@@ -53519,6 +54351,7 @@
 		"num": 24,
 		"date": "2008-10-01",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -53544,6 +54377,7 @@
 		"num": 3,
 		"date": "2008-10-08",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Deadpool"
 		],
@@ -53570,6 +54404,7 @@
 		"num": 3,
 		"date": "2008-10-08",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -53597,6 +54432,7 @@
 		"num": 4,
 		"date": "2008-10-15",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -53622,6 +54458,7 @@
 		"num": 6,
 		"date": "2008-10-15",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Guardians of the Galaxy"
 		],
@@ -53650,6 +54487,7 @@
 		"num": 19,
 		"date": "2008-10-15",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Captain Marvel (Mar-Vell)",
 			"Kree",
@@ -53679,6 +54517,7 @@
 		"num": 34,
 		"date": "2008-10-15",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Iron Man"
 		],
@@ -53705,6 +54544,7 @@
 		"num": 3,
 		"date": "2008-10-22",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Spider-Man"
 		],
@@ -53736,6 +54576,7 @@
 		"num": 7,
 		"date": "2008-10-22",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Skrulls",
 			"Wasp"
@@ -53752,7 +54593,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/5151f0c98bbe7.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Janet Van Dyne dies",
+		"comments": [
+			"Janet Van Dyne dies"
+		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
 		"sortid": "087"
@@ -53765,6 +54608,7 @@
 		"num": 46,
 		"date": "2008-10-22",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Madame Masque",
 			"The Hood"
@@ -53792,6 +54636,7 @@
 		"num": 125,
 		"date": "2008-10-22",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Thunderbolts"
 		],
@@ -53818,6 +54663,7 @@
 		"num": 3,
 		"date": "2008-10-29",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"X-Men"
 		],
@@ -53844,6 +54690,7 @@
 		"num": 3,
 		"date": "2008-10-29",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Thor"
 		],
@@ -53868,6 +54715,7 @@
 		"num": 18,
 		"date": "2008-10-29",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Darkhawk",
 			"Nova",
@@ -53899,6 +54747,7 @@
 		"num": 18,
 		"date": "2008-10-29",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"3-D Man",
 			"Ant-Man (Eric O'Grady)",
@@ -53935,6 +54784,7 @@
 		"num": 25,
 		"date": "2008-11-19",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -53961,6 +54811,7 @@
 		"num": 35,
 		"date": "2008-11-19",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Iron Man"
 		],
@@ -53987,6 +54838,7 @@
 		"num": 4,
 		"date": "2008-11-26",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"X-Men"
 		],
@@ -54014,6 +54866,7 @@
 		"num": 4,
 		"date": "2008-11-26",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -54029,7 +54882,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5151f42855c0c.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Inhumans ally with Kree Empire",
+		"comments": [
+			"Inhumans ally with Kree Empire"
+		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
 		"sortid": "097"
@@ -54042,6 +54897,7 @@
 		"num": 8,
 		"date": "2008-12-03",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Avengers",
 			"Skrulls"
@@ -54057,7 +54913,10 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/5151f0d51369a.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "SHIELD closes, Norman Osborn takes control",
+		"comments": [
+			"SHIELD closes",
+			"Norman Osborn takes control"
+		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
 		"sortid": "098"
@@ -54070,6 +54929,7 @@
 		"num": 5,
 		"date": "2008-12-03",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -54095,6 +54955,7 @@
 		"num": 47,
 		"date": "2008-12-03",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Jessica Jones",
 			"Luke Cage"
@@ -54123,6 +54984,7 @@
 		"num": 1,
 		"date": "2008-12-10",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -54148,6 +55010,7 @@
 		"num": 19,
 		"date": "2008-12-17",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"3-D Man",
 			"Ant-Man (Eric O'Grady)",
@@ -54183,6 +55046,7 @@
 		"num": 20,
 		"date": "2008-12-17",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			"Avengers",
 			"Captain Marvel (Carol Danvers)",
@@ -54218,6 +55082,7 @@
 		"num": 1,
 		"date": "2009-04-15",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -54245,6 +55110,7 @@
 		"num": 1,
 		"date": "2009-01-07",
 		"event": "Secret Invasion",
+		"eventid": "011",
 		"characters": [
 			""
 		],
@@ -54839,7 +55705,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4bb6012279a77.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 1",
+		"comments": [
+			"Story 1"
+		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
 		"sortid": "111"
@@ -54963,7 +55831,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/56d7160ad4723.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 1",
+		"comments": [
+			"Story 1"
+		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
 		"sortid": "111"
@@ -55000,7 +55870,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/56d7160ad4723.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 3",
+		"comments": [
+			"Story 3"
+		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
 		"sortid": "111"
@@ -55292,7 +56164,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4f634e633fc47.jpg",
 		"universe": "Earth-616",
-		"comments": "Hulk 600th",
+		"comments": [
+			"Hulk 600th"
+		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
 		"sortid": "114"
@@ -55508,7 +56382,6 @@
 		"vol": 1,
 		"num": 1,
 		"date": "2009-02-04",
-		"event": "Messiah War",
 		"characters": [
 			"X-Men"
 		],
@@ -55535,7 +56408,6 @@
 		"vol": 1,
 		"num": 2,
 		"date": "2009-03-25",
-		"event": "Messiah War",
 		"characters": [
 			"X-Men"
 		],
@@ -55562,7 +56434,6 @@
 		"vol": 1,
 		"num": 3,
 		"date": "2009-04-22",
-		"event": "Messiah War",
 		"characters": [
 			"X-Men"
 		],
@@ -55590,7 +56461,6 @@
 		"vol": 1,
 		"num": 1,
 		"date": "2009-04-29",
-		"event": "Messiah War",
 		"characters": [
 			"X-Men"
 		],
@@ -55611,7 +56481,6 @@
 		"vol": 2,
 		"num": 13,
 		"date": "2009-04-01",
-		"event": "Messiah War",
 		"characters": [
 			"Archangel",
 			"Bishop",
@@ -55647,7 +56516,6 @@
 		"vol": 3,
 		"num": 14,
 		"date": "2009-04-22",
-		"event": "Messiah War",
 		"characters": [
 			"X-Force",
 			"X-Men"
@@ -55672,7 +56540,6 @@
 		"vol": 2,
 		"num": 14,
 		"date": "2009-05-06",
-		"event": "Messiah War",
 		"characters": [
 			"Apocalypse",
 			"Archangel",
@@ -55709,7 +56576,6 @@
 		"vol": 3,
 		"num": 15,
 		"date": "2009-05-28",
-		"event": "Messiah War",
 		"characters": [
 			"X-Force",
 			"X-Men"
@@ -55735,7 +56601,6 @@
 		"vol": 2,
 		"num": 15,
 		"date": "2009-06-17",
-		"event": "Messiah War",
 		"characters": [
 			"Apocalypse",
 			"Archangel",
@@ -55771,7 +56636,6 @@
 		"vol": 3,
 		"num": 16,
 		"date": "2009-06-24",
-		"event": "Messiah War",
 		"characters": [
 			"X-Force",
 			"X-Men"
@@ -55798,7 +56662,6 @@
 		"vol": 3,
 		"num": 66,
 		"date": "2008-06-18",
-		"event": "Old Man Logan",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -55825,7 +56688,6 @@
 		"vol": 3,
 		"num": 67,
 		"date": "2008-07-30",
-		"event": "Old Man Logan",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -55853,7 +56715,6 @@
 		"vol": 3,
 		"num": 68,
 		"date": "2008-08-27",
-		"event": "Old Man Logan",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -55882,7 +56743,6 @@
 		"vol": 3,
 		"num": 69,
 		"date": "2008-11-12",
-		"event": "Old Man Logan",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -55909,7 +56769,6 @@
 		"vol": 3,
 		"num": 70,
 		"date": "2008-12-31",
-		"event": "Old Man Logan",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -55931,7 +56790,6 @@
 		"vol": 3,
 		"num": 71,
 		"date": "2009-03-18",
-		"event": "Old Man Logan",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -55959,7 +56817,6 @@
 		"vol": 3,
 		"num": 72,
 		"date": "2009-04-08",
-		"event": "Old Man Logan",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -55989,7 +56846,6 @@
 		"vol": 1,
 		"num": 1,
 		"date": "2009-09-23",
-		"event": "Old Man Logan",
 		"characters": [
 			"Iron Man",
 			"Wolverine"
@@ -57045,7 +57901,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/574ef7ee35439.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Daredevil 500th",
+		"comments": [
+			"Daredevil 500th"
+		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
 		"sortid": "127"
@@ -57076,7 +57934,11 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/5773ea4e0b0dc.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Mockingbird, Ms Marvel \u0026 Bucky join Avengers, Iron Fist leaves",
+		"comments": [
+			"Mockingbird",
+			"Ms Marvel \u0026 Bucky join Avengers",
+			"Iron Fist leaves"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "001"
@@ -57284,7 +58146,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/55d4b41f7c4c9.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Hank Pym becomes the Wasp",
+		"comments": [
+			"Hank Pym becomes the Wasp"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "004"
@@ -57343,7 +58207,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/514c9ca17bba9.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "HAMMER \u0026 Dark Avengers introductions",
+		"comments": [
+			"HAMMER \u0026 Dark Avengers introductions"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "006"
@@ -57533,7 +58399,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/56d726c8a60bc.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 1",
+		"comments": [
+			"Story 1"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
@@ -57567,7 +58435,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/56d726c8a60bc.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 2",
+		"comments": [
+			"Story 2"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
@@ -57601,7 +58471,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/56d726c8a60bc.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 3",
+		"comments": [
+			"Story 3"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
@@ -57643,7 +58515,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/56d7169314e16.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 1",
+		"comments": [
+			"Story 1"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
@@ -57684,7 +58558,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/56d7169314e16.jpg",
 		"universe": "Earth-8121",
-		"comments": "Story 3",
+		"comments": [
+			"Story 3"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
@@ -57726,7 +58602,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/56d7169314e16.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 4",
+		"comments": [
+			"Story 4"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
@@ -57747,7 +58625,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4bb6012279a77.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 3",
+		"comments": [
+			"Story 3"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
@@ -57935,7 +58815,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/56dddba617a63.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 1",
+		"comments": [
+			"Story 1"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
@@ -57974,7 +58856,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/56dddba617a63.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 2",
+		"comments": [
+			"Story 2"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
@@ -58013,7 +58897,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/56dddba617a63.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 3",
+		"comments": [
+			"Story 3"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
@@ -58054,7 +58940,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/56d71734b28b4.jpg",
 		"universe": "Earth-8121",
-		"comments": "Story 3",
+		"comments": [
+			"Story 3"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "008"
@@ -58186,7 +59074,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/56d7183442952.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 2",
+		"comments": [
+			"Story 2"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "009"
@@ -58227,7 +59117,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/56d7183442952.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 3",
+		"comments": [
+			"Story 3"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "009"
@@ -58270,7 +59162,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/56d7189f590bd.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 1",
+		"comments": [
+			"Story 1"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "009"
@@ -58313,7 +59207,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/56d7189f590bd.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 3",
+		"comments": [
+			"Story 3"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "009"
@@ -58356,7 +59252,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/56d7189f590bd.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 4",
+		"comments": [
+			"Story 4"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "009"
@@ -58448,7 +59346,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4e8e09d92cea7.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "JJ Jameson becomes NY major",
+		"comments": [
+			"JJ Jameson becomes NY major"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "009"
@@ -60029,7 +60929,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/4e79ec925e2df.jpg",
 		"universe": "Earth-616",
-		"comments": "Hawkeye and Mockingbird go to Zaragoza",
+		"comments": [
+			"Hawkeye and Mockingbird go to Zaragoza"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "027"
@@ -61198,7 +62100,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb48a72d26ae.jpg",
 		"universe": "Earth-616",
-		"comments": "Lyra from Earth-80009 arrives into Earth-616",
+		"comments": [
+			"Lyra from Earth-80009 arrives into Earth-616"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "036"
@@ -61334,6 +62238,7 @@
 		"num": 19,
 		"date": "2008-11-26",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Nova"
 		],
@@ -61364,6 +62269,7 @@
 		"num": 20,
 		"date": "2008-12-24",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"New Warriors",
 			"Nova"
@@ -61396,6 +62302,7 @@
 		"num": 21,
 		"date": "2009-01-28",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Nova"
 		],
@@ -61424,6 +62331,7 @@
 		"num": 22,
 		"date": "2009-02-25",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Nova"
 		],
@@ -61451,6 +62359,7 @@
 		"num": 1,
 		"date": "2009-01-14",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			""
 		],
@@ -61480,6 +62389,7 @@
 		"num": 7,
 		"date": "2008-11-26",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Guardians of the Galaxy"
 		],
@@ -61501,6 +62411,7 @@
 		"num": 8,
 		"date": "2008-12-31",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Guardians of the Galaxy"
 		],
@@ -61529,6 +62440,7 @@
 		"num": 9,
 		"date": "2009-01-21",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Guardians of the Galaxy"
 		],
@@ -61562,6 +62474,7 @@
 		"num": 10,
 		"date": "2009-02-18",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Guardians of the Galaxy"
 		],
@@ -61591,6 +62504,7 @@
 		"num": 11,
 		"date": "2009-03-11",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Guardians of the Galaxy"
 		],
@@ -61619,6 +62533,7 @@
 		"num": 12,
 		"date": "2009-03-25",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Guardians of the Galaxy"
 		],
@@ -61646,6 +62561,7 @@
 		"num": 1,
 		"date": "2008-12-17",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"X-Men"
 		],
@@ -61674,6 +62590,7 @@
 		"num": 2,
 		"date": "2009-01-21",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"X-Men"
 		],
@@ -61703,6 +62620,7 @@
 		"num": 3,
 		"date": "2009-02-18",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"X-Men"
 		],
@@ -61732,6 +62650,7 @@
 		"num": 4,
 		"date": "2009-03-25",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"X-Men"
 		],
@@ -61761,6 +62680,7 @@
 		"num": 1,
 		"date": "2009-02-04",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			""
 		],
@@ -61791,6 +62711,7 @@
 		"num": 23,
 		"date": "2009-03-25",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Nova",
 			"Quasar (Wendell Vaughn)"
@@ -61820,6 +62741,7 @@
 		"num": 2,
 		"date": "2009-03-25",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			""
 		],
@@ -61850,6 +62772,7 @@
 		"num": 1,
 		"date": "2009-03-04",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Black Bolt",
 			"Crystal"
@@ -61866,7 +62789,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb5983bdb52f.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Sh'iar Empire invades the Kree Empire",
+		"comments": [
+			"Sh'iar Empire invades the Kree Empire"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "044"
@@ -61879,6 +62804,7 @@
 		"num": 24,
 		"date": "2009-04-29",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Nova",
 			"Quasar (Wendell Vaughn)"
@@ -61907,6 +62833,7 @@
 		"num": 2,
 		"date": "2009-04-01",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			""
 		],
@@ -61935,6 +62862,7 @@
 		"num": 1,
 		"date": "2009-06-10",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			""
 		],
@@ -61964,6 +62892,7 @@
 		"num": 1,
 		"date": "2009-07-08",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			""
 		],
@@ -61985,6 +62914,7 @@
 		"num": 2,
 		"date": "2009-08-05",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			""
 		],
@@ -62006,6 +62936,7 @@
 		"num": 1,
 		"date": "2009-04-01",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			""
 		],
@@ -62030,6 +62961,7 @@
 		"num": 13,
 		"date": "2009-04-22",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Guardians of the Galaxy"
 		],
@@ -62059,6 +62991,7 @@
 		"num": 25,
 		"date": "2009-05-28",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Nova",
 			"Quasar (Wendell Vaughn)"
@@ -62090,6 +63023,7 @@
 		"num": 3,
 		"date": "2009-05-06",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			""
 		],
@@ -62118,6 +63052,7 @@
 		"num": 2,
 		"date": "2009-05-13",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			""
 		],
@@ -62147,6 +63082,7 @@
 		"num": 14,
 		"date": "2009-05-28",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Guardians of the Galaxy"
 		],
@@ -62177,6 +63113,7 @@
 		"num": 26,
 		"date": "2009-06-24",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Nova"
 		],
@@ -62204,6 +63141,7 @@
 		"num": 4,
 		"date": "2009-06-03",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			""
 		],
@@ -62232,6 +63170,7 @@
 		"num": 3,
 		"date": "2009-06-17",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			""
 		],
@@ -62261,6 +63200,7 @@
 		"num": 15,
 		"date": "2009-06-24",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Guardians of the Galaxy"
 		],
@@ -62290,6 +63230,7 @@
 		"num": 27,
 		"date": "2009-07-22",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Nova"
 		],
@@ -62317,6 +63258,7 @@
 		"num": 5,
 		"date": "2009-07-01",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			""
 		],
@@ -62345,6 +63287,7 @@
 		"num": 4,
 		"date": "2009-07-29",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			""
 		],
@@ -62373,6 +63316,7 @@
 		"num": 16,
 		"date": "2009-07-22",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Guardians of the Galaxy"
 		],
@@ -62401,6 +63345,7 @@
 		"num": 6,
 		"date": "2009-08-05",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			""
 		],
@@ -62431,6 +63376,7 @@
 		"num": 17,
 		"date": "2000-01-10",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Machine Man",
 			"Mysterio",
@@ -62470,6 +63416,7 @@
 		"num": 28,
 		"date": "2009-08-26",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Nova"
 		],
@@ -62496,6 +63443,7 @@
 		"vol": 1,
 		"date": "2009-09-10",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			""
 		],
@@ -62524,6 +63472,7 @@
 		"num": 18,
 		"date": "2009-09-23",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Guardians of the Galaxy"
 		],
@@ -62551,6 +63500,7 @@
 		"num": 19,
 		"date": "2009-10-28",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Guardians of the Galaxy",
 			"Kang"
@@ -62579,6 +63529,7 @@
 		"num": 29,
 		"date": "2009-09-23",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Nova"
 		],
@@ -62606,6 +63557,7 @@
 		"num": 30,
 		"date": "2009-10-28",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Nova"
 		],
@@ -62632,6 +63584,7 @@
 		"num": 31,
 		"date": "2009-11-04",
 		"event": "War of Kings",
+		"eventid": "012",
 		"characters": [
 			"Darkhawk",
 			"Nova"
@@ -63049,7 +64002,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/04/4f7c8e76e8feb.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Hank Pym forms the New Mighty Avengers",
+		"comments": [
+			"Hank Pym forms the New Mighty Avengers"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "072"
@@ -63234,7 +64189,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/50b398602005c.jpg",
 		"universe": "Earth-616",
-		"comments": "Gamma Corps",
+		"comments": [
+			"Gamma Corps"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "075"
@@ -63800,7 +64757,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/56f2c71090af9.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Loki male again",
+		"comments": [
+			"Loki male again"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "081"
@@ -63825,7 +64784,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/56f2c71c92f00.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Asgardians move to Latveria",
+		"comments": [
+			"Asgardians move to Latveria"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "081"
@@ -63852,7 +64813,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/513f6ddf6b59f.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Captain America memorial (600th)",
+		"comments": [
+			"Captain America memorial (600th)"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "082"
@@ -63891,7 +64854,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/513f6daa62546.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Captain America memorial (600th)",
+		"comments": [
+			"Captain America memorial (600th)"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "082"
@@ -63933,7 +64898,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/56d71734b28b4.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 1",
+		"comments": [
+			"Story 1"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "083"
@@ -64021,7 +64988,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4e8dfd1a18088.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Harry Osborn becomes American Son",
+		"comments": [
+			"Harry Osborn becomes American Son"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "083"
@@ -64122,7 +65091,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/56d7195a3d239.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 1",
+		"comments": [
+			"Story 1"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "084"
@@ -64187,7 +65158,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/56d719caf31b4.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 1",
+		"comments": [
+			"Story 1"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "084"
@@ -64225,7 +65198,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/56d719caf31b4.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Story 3",
+		"comments": [
+			"Story 3"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "084"
@@ -64262,7 +65237,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/56d719caf31b4.jpg",
 		"universe": "Earth-90984",
-		"comments": "Story 4",
+		"comments": [
+			"Story 4"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "084"
@@ -65441,7 +66418,6 @@
 		"vol": 1,
 		"num": 1,
 		"date": "2009-07-08",
-		"event": "Utopia",
 		"characters": [
 			"X-Men"
 		],
@@ -65464,7 +66440,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/30/4bb4bdd2eecf7.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Norman Osborn forms the Dark X-Men",
+		"comments": [
+			"Norman Osborn forms the Dark X-Men"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "100"
@@ -65476,7 +66454,6 @@
 		"vol": 1,
 		"num": 2,
 		"date": "2009-07-29",
-		"event": "Utopia",
 		"characters": [
 			"X-Men"
 		],
@@ -65510,7 +66487,6 @@
 		"vol": 1,
 		"num": 3,
 		"date": "2009-08-26",
-		"event": "Utopia",
 		"characters": [
 			"X-Men"
 		],
@@ -65542,7 +66518,6 @@
 		"vol": 1,
 		"num": 226,
 		"date": "2009-07-08",
-		"event": "Utopia",
 		"characters": [
 			"X-Men"
 		],
@@ -65570,7 +66545,6 @@
 		"vol": 1,
 		"num": 227,
 		"date": "2009-08-19",
-		"event": "Utopia",
 		"characters": [
 			"X-Men"
 		],
@@ -65598,7 +66572,6 @@
 		"vol": 1,
 		"num": 1,
 		"date": "2009-06-24",
-		"event": "Utopia",
 		"characters": [
 			"X-Men"
 		],
@@ -65625,7 +66598,6 @@
 		"vol": 1,
 		"num": 513,
 		"date": "2009-07-01",
-		"event": "Utopia",
 		"characters": [
 			"X-Men"
 		],
@@ -65651,7 +66623,6 @@
 		"vol": 1,
 		"num": 7,
 		"date": "2009-07-15",
-		"event": "Utopia",
 		"characters": [
 			"Dark Avengers"
 		],
@@ -65679,7 +66650,6 @@
 		"vol": 1,
 		"num": 514,
 		"date": "2009-08-12",
-		"event": "Utopia",
 		"characters": [
 			"Cloak",
 			"Dagger",
@@ -65711,7 +66681,6 @@
 		"vol": 1,
 		"num": 8,
 		"date": "2009-08-26",
-		"event": "Utopia",
 		"characters": [
 			"Dark Avengers"
 		],
@@ -65739,7 +66708,6 @@
 		"vol": 1,
 		"num": 1,
 		"date": "2009-09-10",
-		"event": "Utopia",
 		"characters": [
 			"X-Men"
 		],
@@ -65769,7 +66737,6 @@
 		"vol": 1,
 		"num": 1,
 		"date": "2009-09-23",
-		"event": "Utopia",
 		"characters": [
 			"X-Men"
 		],
@@ -66121,7 +67088,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4bb52b56984f0.jpg",
 		"universe": "Earth-616",
-		"comments": "Skaar arrives to Earth",
+		"comments": [
+			"Skaar arrives to Earth"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "111"
@@ -66575,7 +67544,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/513f626834660.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Captain America reborn",
+		"comments": [
+			"Captain America reborn"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "118"
@@ -67243,7 +68214,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bb3d1f8b5d0f.jpg",
 		"universe": "Earth-616",
-		"comments": "Punisher dies",
+		"comments": [
+			"Punisher dies"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "138"
@@ -67628,7 +68601,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4ba96574bfbd0.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Tony Stark loses part of his memories",
+		"comments": [
+			"Tony Stark loses part of his memories"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "143"
@@ -67719,7 +68694,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/56f2c786b18e5.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Asgardians leave Latveria",
+		"comments": [
+			"Asgardians leave Latveria"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "145"

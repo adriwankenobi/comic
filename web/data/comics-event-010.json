@@ -1,0 +1,858 @@
+[
+	{
+		"id": "15891",
+		"collection": "Annihilation Conquest Prologue",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 1,
+		"date": "2007-06-20",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Quasar (Phyla-Vell)"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Randy Gentile",
+			"Mike Perkins"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/513a75867ca5d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "15992",
+		"collection": "Annihilation Conquest Quasar",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 1,
+		"date": "2007-07-18",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Quasar (Phyla-Vell)"
+		],
+		"creators": [
+			"Eric Basaldua",
+			"Rick Basaldua",
+			"Joe Caramagna",
+			"Christos Gage",
+			"Matthew Wilson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/51df02ba8e64e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "16176",
+		"collection": "Annihilation Conquest Quasar",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 2,
+		"date": "2007-08-15",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Quasar (Phyla-Vell)"
+		],
+		"creators": [
+			"Rick Basaldua",
+			"Joe Caramagna",
+			"Christos Gage",
+			"Mike Lilly"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/51df0dcded20a.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "16573",
+		"collection": "Annihilation Conquest Quasar",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 3,
+		"date": "2007-09-19",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Quasar (Phyla-Vell)"
+		],
+		"creators": [
+			"Bob Almond",
+			"Joe Caramagna",
+			"Christos Gage",
+			"Mike Lilly",
+			"Stephane Peru",
+			"Matthew Wilson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/51df10f1c8f8d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "16574",
+		"collection": "Annihilation Conquest Quasar",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 4,
+		"date": "2007-10-31",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Quasar (Phyla-Vell)"
+		],
+		"creators": [
+			"Bob Almond",
+			"Joe Caramagna",
+			"Christos Gage",
+			"Mike Lilly",
+			"Stephane Peru",
+			"Matthew Wilson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51df11e2482bb.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "16009",
+		"collection": "Annihilation Conquest Star Lord",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 1,
+		"date": "2007-07-25",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Guardians of the Galaxy"
+		],
+		"creators": [
+			"Nathan Fairbairn",
+			"Keith Giffen",
+			"Timothy Green",
+			"Nic Klein",
+			"Victor Olazaba",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/51df25c64725e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "16191",
+		"collection": "Annihilation Conquest Star Lord",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 2,
+		"date": "2007-08-22",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Captain Universe",
+			"Deathcry",
+			"Groot",
+			"Mantis",
+			"Rocket Raccoon"
+		],
+		"creators": [
+			"Nathan Fairbairn",
+			"Keith Giffen",
+			"Timothy Green",
+			"Nic Klein",
+			"Victor Olazaba",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/51df26f6f3ec3.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "16598",
+		"collection": "Annihilation Conquest Star Lord",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 3,
+		"date": "2007-09-26",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Star-Lord (Peter Quill)"
+		],
+		"creators": [
+			"Nathan Fairbairn",
+			"Keith Giffen",
+			"Timothy Green",
+			"Nic Klein",
+			"Victor Olazaba",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/51df288b4fbaf.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "16599",
+		"collection": "Annihilation Conquest Star Lord",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 4,
+		"date": "2007-11-07",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Star-Lord (Peter Quill)"
+		],
+		"creators": [
+			"Nathan Fairbairn",
+			"Keith Giffen",
+			"Timothy Green",
+			"Nic Klein",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/51df29e9e311d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "16000",
+		"collection": "Annihilation Conquest Wraith",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 1,
+		"date": "2007-07-11",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Wraith"
+		],
+		"creators": [
+			"Randy Gentile",
+			"Gina Going",
+			"Javier Grillomarxuach",
+			"Kyle Hotz",
+			"Clint Langley"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51df15c67c6f5.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "16184",
+		"collection": "Annihilation Conquest Wraith",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 2,
+		"date": "2007-08-08",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Wraith"
+		],
+		"creators": [
+			"Randy Gentile",
+			"Gina Going",
+			"Javier Grillomarxuach",
+			"Kyle Hotz",
+			"Clint Langley"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/51df1d517b118.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "16585",
+		"collection": "Annihilation Conquest Wraith",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 3,
+		"date": "2007-09-06",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Randy Gentile",
+			"Gina Going",
+			"Javier Grillomarxuach",
+			"Kyle Hotz",
+			"Clint Langley"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/51df21946b56d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "16586",
+		"collection": "Annihilation Conquest Wraith",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 4,
+		"date": "2007-10-24",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Wraith"
+		],
+		"creators": [
+			"Randy Gentile",
+			"Gina Going",
+			"Javier Grillomarxuach",
+			"Kyle Hotz",
+			"Clint Langley"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/51df233443e8c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "15972",
+		"collection": "Nova",
+		"title": "Annihilation Conquest",
+		"vol": 4,
+		"num": 4,
+		"date": "2007-08-11",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Gamora",
+			"Nova"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Sean Chen",
+			"Adi Granov",
+			"Scott Hanna",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/578e841c9535a.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "16157",
+		"collection": "Nova",
+		"title": "Annihilation Conquest",
+		"vol": 4,
+		"num": 5,
+		"date": "2007-08-30",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Gamora",
+			"Nova"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Sean Chen",
+			"Adi Granov",
+			"Scott Hanna",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/578e8ce1cfd47.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "16532",
+		"collection": "Nova",
+		"title": "Annihilation Conquest",
+		"vol": 4,
+		"num": 6,
+		"date": "2007-09-12",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Gamora",
+			"Nova"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Sean Chen",
+			"Brian Denham",
+			"Adi Granov",
+			"Scott Hanna",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/52c5d44533c73.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "16533",
+		"collection": "Nova",
+		"title": "Annihilation Conquest",
+		"vol": 4,
+		"num": 7,
+		"date": "2007-10-10",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Gamora",
+			"Nova"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Sean Chen",
+			"Brian Denham",
+			"Adi Granov",
+			"Scott Hanna",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/578f7d527a4e4.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "17257",
+		"collection": "Nova",
+		"title": "Annihilation Conquest",
+		"vol": 4,
+		"num": 8,
+		"date": "2007-11-14",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Cosmo (dog)",
+			"Nova"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Wellington Alves",
+			"Adi Granov",
+			"Scott Hanna",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/578f7dcbaff2a.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "17391",
+		"collection": "Nova",
+		"title": "Annihilation Conquest",
+		"vol": 4,
+		"num": 9,
+		"date": "2007-12-12",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Cosmo (dog)",
+			"Nova"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Wellington Alves",
+			"Adi Granov",
+			"Scott Hanna",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/578f8521dba0d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "17634",
+		"collection": "Nova",
+		"title": "Annihilation Conquest",
+		"vol": 4,
+		"num": 10,
+		"date": "2008-01-09",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Gamora",
+			"Nova"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Dan Abnett",
+			"Wellington Alves",
+			"Adi Granov",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/578f89d998505.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "20713",
+		"collection": "Nova Annual",
+		"title": "Annihilation Conquest",
+		"vol": 4,
+		"num": 1,
+		"date": "2008-02-13",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Nova"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Klebs Junior",
+			"Dan Abnett",
+			"Wellington Alves",
+			"Mahmud Asrar",
+			"Nic Klein",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4bc3186e07808.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "20873",
+		"collection": "Nova",
+		"title": "Annihilation Conquest",
+		"vol": 4,
+		"num": 11,
+		"date": "2008-03-12",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Drax",
+			"Gamora",
+			"Nova",
+			"Warlock (Technarchy)"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Scott Hanna",
+			"Alex Maleev",
+			"Paul Pelletier",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/578f9152b9f07.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "21007",
+		"collection": "Nova",
+		"title": "Annihilation Conquest",
+		"vol": 4,
+		"num": 12,
+		"date": "2008-04-09",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Gamora",
+			"Nova",
+			"Warlock (Technarchy)"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Rick Magyar",
+			"Alex Maleev",
+			"Paul Pelletier",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/579120814b061.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "17271",
+		"collection": "Annihilation Conquest",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 1,
+		"date": "2007-11-07",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Adam Warlock",
+			"Blastaar",
+			"High Evolutionary",
+			"Moondragon",
+			"Quasar (Phyla-Vell)",
+			"Ronan",
+			"Star-Lord (Peter Quill)",
+			"Super-Skrull",
+			"Ultron",
+			"Wraith"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Aleksi Briclot",
+			"Joe Caramagna",
+			"Frank D'Armata",
+			"Scott Hanna",
+			"Tom Raney",
+			"Bill Rosemann"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4e8381b35e231.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "17405",
+		"collection": "Annihilation Conquest",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 2,
+		"date": "2007-12-05",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Adam Warlock",
+			"High Evolutionary",
+			"Moondragon",
+			"Quasar (Phyla-Vell)",
+			"Ronan",
+			"Star-Lord (Peter Quill)",
+			"Super-Skrull",
+			"Ultron",
+			"Wraith"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Aleksi Briclot",
+			"Joe Caramagna",
+			"Frank D'Armata",
+			"Scott Hanna",
+			"Tom Raney",
+			"Bill Rosemann"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4e8384c84cd95.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "17645",
+		"collection": "Annihilation Conquest",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 3,
+		"date": "2008-01-04",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Adam Warlock",
+			"High Evolutionary",
+			"Quasar (Phyla-Vell)",
+			"Ronan",
+			"Star-Lord (Peter Quill)",
+			"Super-Skrull",
+			"Ultron",
+			"Wraith"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Aleksi Briclot",
+			"Joe Caramagna",
+			"Frank D'Armata",
+			"Scott Hanna",
+			"Tom Raney",
+			"Bill Rosemann"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/4e83867ba1c87.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "20686",
+		"collection": "Annihilation Conquest",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 4,
+		"date": "2008-02-06",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Adam Warlock",
+			"High Evolutionary",
+			"Quasar (Phyla-Vell)",
+			"Ronan",
+			"Star-Lord (Peter Quill)",
+			"Ultron"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Frank D'Armata",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Aleksi Briclot",
+			"Joe Caramagna",
+			"Scott Hanna",
+			"Tom Raney"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/4e83879785c16.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "20885",
+		"collection": "Annihilation Conquest",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 5,
+		"date": "2008-03-12",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Adam Warlock",
+			"High Evolutionary",
+			"Quasar (Phyla-Vell)",
+			"Ronan",
+			"Star-Lord (Peter Quill)",
+			"Ultron"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Aleksi Briclot",
+			"Joe Caramagna",
+			"Frank D'Armata",
+			"Scott Hanna",
+			"Tom Raney",
+			"Bill Rosemann"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/90/4e8389572567c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	},
+	{
+		"id": "21016",
+		"collection": "Annihilation Conquest",
+		"title": "Annihilation Conquest",
+		"vol": 1,
+		"num": 6,
+		"date": "2008-04-16",
+		"event": "Annihilation Conquest",
+		"eventid": "010",
+		"characters": [
+			"Adam Warlock",
+			"High Evolutionary",
+			"Quasar (Phyla-Vell)",
+			"Rocket Raccoon",
+			"Ronan",
+			"Star-Lord (Peter Quill)",
+			"Ultron"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Wellington Alves",
+			"Tom Raney",
+			"Aleksi Briclot",
+			"Joe Caramagna",
+			"Frank D'Armata",
+			"Scott Hanna",
+			"Bill Rosemann"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4e81eebde62e0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Guardians of the Galaxy are formed"
+		],
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "165"
+	}
+]

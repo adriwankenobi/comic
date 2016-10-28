@@ -1,0 +1,376 @@
+[
+	{
+		"id": "16600",
+		"collection": "X-Men Messiah Complex One Shot",
+		"title": "Messiah Complex",
+		"vol": 1,
+		"num": 1,
+		"date": "2007-10-31",
+		"event": "Messiah Complex",
+		"eventid": "009",
+		"characters": [
+			"Cyclops",
+			"Mister Sinister",
+			"Mystique",
+			"Professor X",
+			"Wolverine",
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"David Finch",
+			"Cory Petit",
+			"Marc Silvestri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/513a8972c747e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"First mutant baby is born since the M-day"
+		],
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "114"
+	},
+	{
+		"id": "17206",
+		"collection": "Uncanny X-Men",
+		"title": "Messiah Complex",
+		"vol": 1,
+		"num": 492,
+		"date": "2007-11-07",
+		"event": "Messiah Complex",
+		"eventid": "009",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Chris Eliopoulos",
+			"David Finch",
+			"Danny K. Miki",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/513a8aca3046a.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "114"
+	},
+	{
+		"id": "17241",
+		"collection": "X-Factor",
+		"title": "Messiah Complex",
+		"vol": 3,
+		"num": 25,
+		"date": "2007-11-14",
+		"event": "Messiah Complex",
+		"eventid": "009",
+		"characters": [
+			"Layla Miller",
+			"Madrox",
+			"X-Men"
+		],
+		"creators": [
+			"Frank D'Armata",
+			"Peter David",
+			"John Dell",
+			"Scot Eaton",
+			"David Finch",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/513a8ce4f0b49.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "114"
+	},
+	{
+		"id": "17223",
+		"collection": "New X-Men",
+		"title": "Messiah Complex",
+		"vol": 2,
+		"num": 44,
+		"date": "2007-11-21",
+		"event": "Messiah Complex",
+		"eventid": "009",
+		"characters": [
+			"Mercury",
+			"Prodigy",
+			"Rockslide",
+			"Surge",
+			"X-23",
+			"X-Men"
+		],
+		"creators": [
+			"Carlos Alberto cruz Cuevas",
+			"Edgar Delgado",
+			"David Finch",
+			"Craig Kyle",
+			"Chris Yost",
+			"Humberto Ramos",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/5702b0d1c25a9.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "114"
+	},
+	{
+		"id": "17205",
+		"collection": "X-Men",
+		"title": "Messiah Complex",
+		"vol": 2,
+		"num": 205,
+		"date": "2007-11-29",
+		"event": "Messiah Complex",
+		"eventid": "009",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Mike Carey",
+			"David Finch",
+			"Cory Petit",
+			"Brian Reber",
+			"Tim Townsend"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/513a8e8643b9c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "114"
+	},
+	{
+		"id": "17336",
+		"collection": "Uncanny X-Men",
+		"title": "Messiah Complex",
+		"vol": 1,
+		"num": 493,
+		"date": "2007-12-05",
+		"event": "Messiah Complex",
+		"eventid": "009",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Chris Eliopoulos",
+			"David Finch",
+			"Danny K. Miki",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/513a8ad8d71c6.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "114"
+	},
+	{
+		"id": "21915",
+		"collection": "X-Factor",
+		"title": "Messiah Complex",
+		"vol": 3,
+		"num": 26,
+		"date": "2007-12-12",
+		"event": "Messiah Complex",
+		"eventid": "009",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Frank D'Armata",
+			"Peter David",
+			"John Dell",
+			"Scot Eaton",
+			"David Finch",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/513a8cf40e190.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "114"
+	},
+	{
+		"id": "17356",
+		"collection": "New X-Men",
+		"title": "Messiah Complex",
+		"vol": 2,
+		"num": 45,
+		"date": "2007-12-19",
+		"event": "Messiah Complex",
+		"eventid": "009",
+		"characters": [
+			"X-23",
+			"X-Men"
+		],
+		"creators": [
+			"Carlos Alberto cruz Cuevas",
+			"Edgar Delgado",
+			"David Finch",
+			"Craig Kyle",
+			"Chris Yost",
+			"Humberto Ramos",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5702b0f88e8a7.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "114"
+	},
+	{
+		"id": "17334",
+		"collection": "X-Men",
+		"title": "Messiah Complex",
+		"vol": 2,
+		"num": 206,
+		"date": "2007-12-28",
+		"event": "Messiah Complex",
+		"eventid": "009",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Mike Carey",
+			"Edgar Delgado",
+			"David Finch",
+			"Cory Petit",
+			"Tim Townsend"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/513a8e94daa72.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "114"
+	},
+	{
+		"id": "17576",
+		"collection": "Uncanny X-Men",
+		"title": "Messiah Complex",
+		"vol": 1,
+		"num": 494,
+		"date": "2008-01-04",
+		"event": "Messiah Complex",
+		"eventid": "009",
+		"characters": [
+			"Cyclops",
+			"Emma Frost",
+			"Wolverine",
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Frank D'Armata",
+			"Chris Eliopoulos",
+			"David Finch",
+			"Danny K. Miki",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/513a8ae845ffb.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "114"
+	},
+	{
+		"id": "17615",
+		"collection": "X-Factor",
+		"title": "Messiah Complex",
+		"vol": 3,
+		"num": 27,
+		"date": "2008-01-09",
+		"event": "Messiah Complex",
+		"eventid": "009",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Frank D'Armata",
+			"Peter David",
+			"John Dell",
+			"Scot Eaton",
+			"David Finch",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/513a8cb43b657.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "114"
+	},
+	{
+		"id": "17595",
+		"collection": "New X-Men",
+		"title": "Messiah Complex",
+		"vol": 2,
+		"num": 46,
+		"date": "2008-01-16",
+		"event": "Messiah Complex",
+		"eventid": "009",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Carlos Alberto cruz Cuevas",
+			"Edgar Delgado",
+			"David Finch",
+			"Craig Kyle",
+			"Chris Yost",
+			"Humberto Ramos",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/5702b0a846e03.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "114"
+	},
+	{
+		"id": "17575",
+		"collection": "X-Men",
+		"title": "Messiah Complex",
+		"vol": 2,
+		"num": 207,
+		"date": "2008-01-23",
+		"event": "Messiah Complex",
+		"eventid": "009",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Chris Bachalo",
+			"Mike Carey",
+			"Edgar Delgado",
+			"David Finch",
+			"Cory Petit",
+			"Tim Townsend"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/513a8ea81c01f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"X-Men gets dissasembled"
+		],
+		"phaseid": "007",
+		"phasename": "Initiative",
+		"sortid": "114"
+	}
+]

@@ -1,0 +1,1502 @@
+[
+	{
+		"id": "3095",
+		"collection": "Decimation House of M - The Day After 1",
+		"title": "The Day After",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-11-09",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Chris Claremont",
+			"Randy Gentile",
+			"Randall Green",
+			"Robert Hunter"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4bc6175373f29.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"90% of mutants lose their powers"
+		],
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "001"
+	},
+	{
+		"id": "3425",
+		"collection": "Sentinel Squad One",
+		"title": "Tin Can Heroes",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-01-18",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Pasqual Ferry",
+			"John Layman",
+			"Aaron Lopresti",
+			"Norm Rapmund"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc607a8c9207.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"New sentinels are formed"
+		],
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "002"
+	},
+	{
+		"id": "3543",
+		"collection": "Sentinel Squad One",
+		"title": "Tin Can Heroes",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-02-15",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Pasqual Ferry",
+			"John Layman",
+			"Aaron Lopresti",
+			"Norm Rapmund",
+			"Chris Walker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4bc601c5de006.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "002"
+	},
+	{
+		"id": "3950",
+		"collection": "Sentinel Squad One",
+		"title": "Tin Can Heroes",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-03-08",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Pasqual Ferry",
+			"John Layman",
+			"Aaron Lopresti",
+			"Norm Rapmund",
+			"Chris Walker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bc5fb2b721dc.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "002"
+	},
+	{
+		"id": "4077",
+		"collection": "Sentinel Squad One",
+		"title": "Tin Can Heroes",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-04-19",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Pasqual Ferry",
+			"John Layman",
+			"Aaron Lopresti",
+			"Norm Rapmund",
+			"Dave Sharpe",
+			"Chris Walker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/4bc5f21a14d0f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "002"
+	},
+	{
+		"id": "4189",
+		"collection": "Sentinel Squad One",
+		"title": "Tin Can Heroes",
+		"vol": 1,
+		"num": 5,
+		"date": "2006-05-03",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Pasqual Ferry",
+			"John Layman",
+			"Aaron Lopresti",
+			"Norm Rapmund",
+			"Dave Sharpe",
+			"Chris Walker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4bc5e8754aa8f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "002"
+	},
+	{
+		"id": "3027",
+		"collection": "X-Men",
+		"title": "House Arrest",
+		"vol": 2,
+		"num": 177,
+		"date": "2005-11-09",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Liquid Graphics",
+			"Salvador Larroca",
+			"Danny K. Miki",
+			"Peter Milligan",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc612b84e389.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "003"
+	},
+	{
+		"id": "3028",
+		"collection": "X-Men",
+		"title": "House Arrest",
+		"vol": 2,
+		"num": 178,
+		"date": "2005-11-30",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"Sentinel",
+			"Wolverine",
+			"X-Men"
+		],
+		"creators": [
+			"Liquid Graphics",
+			"Salvador Larroca",
+			"Danny K. Miki",
+			"Peter Milligan",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/4bc615c453633.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "003"
+	},
+	{
+		"id": "3136",
+		"collection": "X-Men",
+		"title": "House Arrest",
+		"vol": 2,
+		"num": 179,
+		"date": "2005-12-14",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Liquid Graphics",
+			"Salvador Larroca",
+			"Danny K. Miki",
+			"Peter Milligan",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4bc6111773162.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "003"
+	},
+	{
+		"id": "3059",
+		"collection": "New X-Men",
+		"title": "Childhood's End",
+		"vol": 2,
+		"num": 20,
+		"date": "2005-11-09",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"Hellion",
+			"Mercury",
+			"X-23",
+			"X-Men"
+		],
+		"creators": [
+			"Mark Brooks",
+			"Craig Kyle",
+			"Chris Yost",
+			"Jaime Mendoza",
+			"Brian Reber",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5702ae23cbb93.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "004"
+	},
+	{
+		"id": "3154",
+		"collection": "New X-Men",
+		"title": "Childhood's End",
+		"vol": 2,
+		"num": 21,
+		"date": "2005-12-14",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Mark Brooks",
+			"Rick Ketcham",
+			"Craig Kyle",
+			"Chris Yost",
+			"Brian Reber",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5702ae3be334d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "004"
+	},
+	{
+		"id": "3376",
+		"collection": "New X-Men",
+		"title": "Childhood's End",
+		"vol": 2,
+		"num": 22,
+		"date": "2006-01-11",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Mark Brooks",
+			"Craig Kyle",
+			"Chris Yost",
+			"Jaime Mendoza",
+			"Brian Reber",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5702adf018892.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "004"
+	},
+	{
+		"id": "3494",
+		"collection": "New X-Men",
+		"title": "Childhood's End",
+		"vol": 2,
+		"num": 23,
+		"date": "2006-02-22",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Mark Brooks",
+			"Craig Kyle",
+			"Chris Yost",
+			"Jaime Mendoza",
+			"Brian Reber",
+			"Dave Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/57028d4dc5a69.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "004"
+	},
+	{
+		"id": "3526",
+		"collection": "X-Men Unlimited",
+		"title": "Blind love",
+		"vol": 2,
+		"num": 13,
+		"date": "2006-02-08",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Mike Deodato",
+			"Damon Hurd",
+			"Hugh Stebakov",
+			"Clay Mann",
+			"Mike Ratera"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/568414810a6fc.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"traducido"
+		],
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "005"
+	},
+	{
+		"id": "3213",
+		"collection": "Son of M",
+		"title": "Son of M",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-12-14",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"Quicksilver"
+		],
+		"creators": [
+			"David Hine",
+			"Roy Allan Martinez",
+			"John Watson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc60cf09a1ff.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Quicksilver steals terragenesis stones"
+		],
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "006"
+	},
+	{
+		"id": "3421",
+		"collection": "Son of M",
+		"title": "Son of M",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-01-11",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Dave Lanphear",
+			"Roy Allan Martinez",
+			"Peter Pantazis"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bc607bc996cd.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "006"
+	},
+	{
+		"id": "3536",
+		"collection": "Son of M",
+		"title": "Son of M",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-02-08",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Dave Lanphear",
+			"Roy Allan Martinez",
+			"Peter Pantazis"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc601d9cc95c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "006"
+	},
+	{
+		"id": "3941",
+		"collection": "Son of M",
+		"title": "Son of M",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-03-08",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Dave Lanphear",
+			"Roy Allan Martinez",
+			"Peter Pantazis"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bc5fb62f00e2.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "006"
+	},
+	{
+		"id": "4064",
+		"collection": "Son of M",
+		"title": "Son of M",
+		"vol": 1,
+		"num": 5,
+		"date": "2006-04-12",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Dave Lanphear",
+			"Roy Allan Martinez",
+			"Peter Pantazis",
+			"John Watson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc5f257256cf.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "006"
+	},
+	{
+		"id": "4176",
+		"collection": "Son of M",
+		"title": "Son of M",
+		"vol": 1,
+		"num": 6,
+		"date": "2006-05-31",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			""
+		],
+		"creators": [
+			"David Hine",
+			"Dave Lanphear",
+			"Roy Allan Martinez",
+			"Peter Pantazis",
+			"John Watson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bacf62e157f8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "006"
+	},
+	{
+		"id": "3424",
+		"collection": "X-Men - The 198",
+		"title": "The 198",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-01-11",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Kevin Conrad",
+			"Juan Doe",
+			"Randy Gentile",
+			"David Hine",
+			"Jim Muniz"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/56f5af6850606.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "007"
+	},
+	{
+		"id": "3542",
+		"collection": "X-Men - The 198",
+		"title": "The 198",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-02-08",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"Sentinel",
+			"X-Men"
+		],
+		"creators": [
+			"Kevin Conrad",
+			"Juan Doe",
+			"Randy Gentile",
+			"David Hine",
+			"Matt Milla",
+			"Jim Muniz"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/56f5aff2f000b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "007"
+	},
+	{
+		"id": "3948",
+		"collection": "X-Men - The 198",
+		"title": "The 198",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-03-08",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Kevin Conrad",
+			"Juan Doe",
+			"David Hine",
+			"Matt Milla",
+			"Jim Muniz"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/56f5aff810ae7.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "007"
+	},
+	{
+		"id": "4075",
+		"collection": "X-Men - The 198",
+		"title": "The 198",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-04-12",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Kevin Conrad",
+			"Juan Doe",
+			"David Hine",
+			"Matt Milla",
+			"Jim Muniz"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/56f5afdfa8704.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "007"
+	},
+	{
+		"id": "4187",
+		"collection": "X-Men - The 198",
+		"title": "The 198",
+		"vol": 1,
+		"num": 5,
+		"date": "2006-05-10",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Kevin Conrad",
+			"Juan Doe",
+			"David Hine",
+			"Matt Milla",
+			"Jim Muniz"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/56f5afb176ce4.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "007"
+	},
+	{
+		"id": "17203",
+		"collection": "Generation M",
+		"title": "Generation M",
+		"vol": 1,
+		"num": 1,
+		"date": "2006-01-10",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"Sally Floyd",
+			"X-Men"
+		],
+		"creators": [
+			"Ramon Bachs",
+			"Stuart Immonen",
+			"Paul Jenkins"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bb862b2a3046.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "008"
+	},
+	{
+		"id": "3209",
+		"collection": "Generation M",
+		"title": "Generation M",
+		"vol": 1,
+		"num": 2,
+		"date": "2006-02-01",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"Jubilee",
+			"Sally Floyd",
+			"Stacy X"
+		],
+		"creators": [
+			"Ramon Bachs",
+			"Randy Gentile",
+			"Stuart Immonen",
+			"Paul Jenkins"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/57ea9ec081ff5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "008"
+	},
+	{
+		"id": "3417",
+		"collection": "Generation M",
+		"title": "Generation M",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-03-01",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"Blob",
+			"Sally Floyd"
+		],
+		"creators": [
+			"Ramon Bachs",
+			"Randy Gentile",
+			"Stuart Immonen",
+			"Paul Jenkins"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/57eaa11480c4e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "008"
+	},
+	{
+		"id": "3532",
+		"collection": "Generation M",
+		"title": "Generation M",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-04-01",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"Angel (Warren Worthington III)",
+			"Sally Floyd",
+			"X-Men"
+		],
+		"creators": [
+			"Ramon Bachs",
+			"Randy Gentile",
+			"Stuart Immonen",
+			"Paul Jenkins",
+			"John Lucas",
+			"Art Lyon"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/57eaa19e48645.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "008"
+	},
+	{
+		"id": "3980",
+		"collection": "Generation M",
+		"title": "Generation M",
+		"vol": 1,
+		"num": 5,
+		"date": "2006-05-01",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"Angel (Warren Worthington III)",
+			"Sally Floyd",
+			"X-Men"
+		],
+		"creators": [
+			"Ramon Bachs",
+			"Joe Caramagna",
+			"Stuart Immonen",
+			"Paul Jenkins",
+			"John Lucas",
+			"Art Lyon"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/57eaa2826db38.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "008"
+	},
+	{
+		"id": "3046",
+		"collection": "X-Factor",
+		"title": "The Longest Night",
+		"vol": 3,
+		"num": 1,
+		"date": "2005-12-14",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"Banshee (Theresa Rourke)",
+			"M (Monet St. Croix)",
+			"Madrox",
+			"Rictor",
+			"Strong Guy",
+			"X-Factor",
+			"X-Men"
+		],
+		"creators": [
+			"Peter David",
+			"Wade von Grawbadger",
+			"Cory Petit",
+			"Ryan Sook",
+			"Jose Villarrubia"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4bc616260515b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "009"
+	},
+	{
+		"id": "3150",
+		"collection": "X-Factor",
+		"title": "The Longest Night",
+		"vol": 3,
+		"num": 2,
+		"date": "2005-12-28",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Peter David",
+			"Wade von Grawbadger",
+			"Cory Petit",
+			"Ryan Sook",
+			"Jose Villarrubia"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/4bc610ecbeaa0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "009"
+	},
+	{
+		"id": "3372",
+		"collection": "X-Factor",
+		"title": "The Longest Night",
+		"vol": 3,
+		"num": 3,
+		"date": "2006-02-01",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"Madrox",
+			"Strong Guy",
+			"Wolfsbane",
+			"X-Men"
+		],
+		"creators": [
+			"Peter David",
+			"Wade von Grawbadger",
+			"Cory Petit",
+			"Ryan Sook",
+			"Jose Villarrubia"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc60afde987a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "009"
+	},
+	{
+		"id": "3486",
+		"collection": "X-Factor",
+		"title": "The Longest Night",
+		"vol": 3,
+		"num": 4,
+		"date": "2006-03-01",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Peter David",
+			"Wade von Grawbadger",
+			"Cory Petit",
+			"Ryan Sook",
+			"Jose Villarrubia"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bc60464a18a2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "009"
+	},
+	{
+		"id": "3897",
+		"collection": "X-Factor",
+		"title": "The Longest Night",
+		"vol": 3,
+		"num": 5,
+		"date": "2006-03-22",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"Banshee (Theresa Rourke)",
+			"X-Men"
+		],
+		"creators": [
+			"Dennis Calero",
+			"Peter David",
+			"Cory Petit",
+			"Ryan Sook",
+			"Jose Villarrubia"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc5f665ca9b3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "009"
+	},
+	{
+		"id": "4029",
+		"collection": "X-Factor",
+		"title": "The Longest Night",
+		"vol": 3,
+		"num": 6,
+		"date": "2006-04-26",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Dennis Calero",
+			"Peter David",
+			"Gabriele Dell'Otto",
+			"Cory Petit",
+			"Jose Villarrubia"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc5f4c704e4b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "009"
+	},
+	{
+		"id": "3591",
+		"collection": "X-Men - Deadly Genesis",
+		"title": "Deadly Genesis",
+		"vol": 1,
+		"num": 1,
+		"date": "2005-11-16",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Trevor Hairsine",
+			"Marc Silvestri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/570293252a4f3.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Xavier's secret second team + Vulcan origins"
+		],
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "010"
+	},
+	{
+		"id": "3593",
+		"collection": "X-Men - Deadly Genesis",
+		"title": "Deadly Genesis",
+		"vol": 1,
+		"num": 2,
+		"date": "2005-12-21",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"Cyclops",
+			"Vulcan (Gabriel Summers)",
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Trevor Hairsine",
+			"Marc Silvestri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/57028d991e836.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "010"
+	},
+	{
+		"id": "3595",
+		"collection": "X-Men - Deadly Genesis",
+		"title": "Deadly Genesis",
+		"vol": 1,
+		"num": 3,
+		"date": "2006-01-25",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Trevor Hairsine",
+			"Marc Silvestri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/570292fcb9f63.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "010"
+	},
+	{
+		"id": "3629",
+		"collection": "X-Men - Deadly Genesis",
+		"title": "Deadly Genesis",
+		"vol": 1,
+		"num": 4,
+		"date": "2006-02-15",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Trevor Hairsine",
+			"Marc Silvestri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/570292f318eed.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "010"
+	},
+	{
+		"id": "3999",
+		"collection": "X-Men - Deadly Genesis",
+		"title": "Deadly Genesis",
+		"vol": 1,
+		"num": 5,
+		"date": "2006-03-15",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			""
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/570292c8e5217.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "010"
+	},
+	{
+		"id": "3628",
+		"collection": "X-Men - Deadly Genesis",
+		"title": "Deadly Genesis",
+		"vol": 1,
+		"num": 6,
+		"date": "2006-05-17",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Ed Brubaker",
+			"Trevor Hairsine",
+			"Marc Silvestri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/90/4bb7c309cc1a2.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "010"
+	},
+	{
+		"id": "15874",
+		"collection": "X-Men - Endangered Species",
+		"title": "Endangered Spicies",
+		"vol": 1,
+		"num": 1,
+		"date": "2007-06-20",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"Cyclops",
+			"Nightcrawler",
+			"Rogue",
+			"Wolverine",
+			"X-Factor",
+			"X-Force",
+			"X-Men"
+		],
+		"creators": [
+			"Mike Carey",
+			"John Dell",
+			"Scot Eaton",
+			"Chris Eliopoulos",
+			"Marc Silvestri"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/56f953a644953.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"traducido"
+		],
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20781",
+		"collection": "X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 200,
+		"date": "2007-06-20",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb8783d46bf0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20782",
+		"collection": "Uncanny X-Men",
+		"title": "Endangered Spicies",
+		"vol": 1,
+		"num": 488,
+		"date": "2007-08-01",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/4c7d57fa856c8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20783",
+		"collection": "X-Factor",
+		"title": "Endangered Spicies",
+		"vol": 3,
+		"num": 21,
+		"date": "2007-09-01",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/4bb8734419f97.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20784",
+		"collection": "New X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 40,
+		"date": "2007-09-15",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bb8733eea2f4.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20785",
+		"collection": "X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 201,
+		"date": "2007-09-25",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bb8733a036e7.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20786",
+		"collection": "Uncanny X-Men",
+		"title": "Endangered Spicies",
+		"vol": 1,
+		"num": 489,
+		"date": "2007-09-30",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/4bb87334e5839.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20787",
+		"collection": "X-Factor",
+		"title": "Endangered Spicies",
+		"vol": 3,
+		"num": 22,
+		"date": "2007-10-01",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bb8731aa73d0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20788",
+		"collection": "New X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 41,
+		"date": "2007-10-15",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bb8730b7222a.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20789",
+		"collection": "X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 202,
+		"date": "2007-10-25",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4bb872fca96fa.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20790",
+		"collection": "Uncanny X-Men",
+		"title": "Endangered Spicies",
+		"vol": 1,
+		"num": 490,
+		"date": "2007-10-30",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb872f7bc700.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20791",
+		"collection": "X-Factor",
+		"title": "Endangered Spicies",
+		"vol": 3,
+		"num": 23,
+		"date": "2007-11-01",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bb872e2e9ec1.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20792",
+		"collection": "New X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 42,
+		"date": "2007-11-10",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4bb871b211520.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20793",
+		"collection": "X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 203,
+		"date": "2007-11-20",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4bb871ad15eb0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20794",
+		"collection": "Uncanny X-Men",
+		"title": "Endangered Spicies",
+		"vol": 1,
+		"num": 491,
+		"date": "2007-11-30",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4bb871a4b025c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20795",
+		"collection": "X-Factor",
+		"title": "Endangered Spicies",
+		"vol": 3,
+		"num": 24,
+		"date": "2007-12-01",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bb8719fb1152.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20796",
+		"collection": "X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 204,
+		"date": "2007-12-10",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb8719ab04f3.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	},
+	{
+		"id": "20797",
+		"collection": "X-Men",
+		"title": "Endangered Spicies",
+		"vol": 2,
+		"num": 204,
+		"date": "2007-12-30",
+		"event": "Decimation",
+		"eventid": "004",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4bb87195cdcf7.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "005",
+		"phasename": "Decimation",
+		"sortid": "011"
+	}
+]

@@ -29,11 +29,14 @@ func getIssuesPage(phases *service.PhaseList, issues *service.ComicList) (string
 			displayEvent = "none"
 		}
 		displayComments := "block"
-		if e.Comments == "" {
+		if len(e.Comments) <= 0 {
 			displayComments = "none"
 		}
-		// TODO: For each comment
-		commentsList := fmt.Sprintf(c["list"], e.Comments)
+		commentList := ""
+		for _, e := range e.Comments {
+			comment := fmt.Sprintf(c["list"], strings.Trim(e, " "))
+			commentList = fmt.Sprintf("%s%s", commentList, comment)
+		}
 
 		con := fmt.Sprintf(c["content-issue"], name, e.PhaseID, e.SortID, e.Pic, name,
 			e.Collection,
@@ -49,7 +52,7 @@ func getIssuesPage(phases *service.PhaseList, issues *service.ComicList) (string
 			strings.Join(e.Characters, ", "),
 			strings.Join(e.Creators, ", "),
 			displayComments,
-			commentsList,
+			commentList,
 		)
 		issuesContent = fmt.Sprintf("%s%s", issuesContent, con)
 	}

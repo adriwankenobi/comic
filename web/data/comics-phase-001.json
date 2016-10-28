@@ -16,7 +16,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/53766fb162cda.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Inhumans introduction",
+		"comments": [
+			"Inhumans introduction"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "001"
@@ -269,7 +271,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/57223eff00d5d.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Daredevil introduction",
+		"comments": [
+			"Daredevil introduction"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "002"
@@ -592,7 +596,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bc369f3bdae4.jpg",
 		"universe": "Earth-616",
-		"comments": "Street heroes team-up",
+		"comments": [
+			"Street heroes team-up"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "004"
@@ -1005,7 +1011,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4bc48124acb03.jpg",
 		"universe": "Earth-616",
-		"comments": "Sentry origins",
+		"comments": [
+			"Sentry origins"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "005"
@@ -1202,7 +1210,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bc334cc50087.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Daredevil origins recap",
+		"comments": [
+			"Daredevil origins recap"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "006"
@@ -1330,7 +1340,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4f205c34141c0.jpg",
 		"universe": "Earth-616",
-		"comments": "Odin dies",
+		"comments": [
+			"Odin dies"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "007"
@@ -1529,7 +1541,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc6995bd4126.jpg",
 		"universe": "Earth-616",
-		"comments": "Thor's youth",
+		"comments": [
+			"Thor's youth"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "008"
@@ -2036,7 +2050,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/57238fedf3225.jpg",
 		"universe": "Earth-616",
-		"comments": "Missing",
+		"comments": [
+			"Missing"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2057,7 +2073,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/572391403c40f.jpg",
 		"universe": "Earth-616",
-		"comments": "Missing",
+		"comments": [
+			"Missing"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2078,7 +2096,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5723923ef3ca2.jpg",
 		"universe": "Earth-616",
-		"comments": "Missing",
+		"comments": [
+			"Missing"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2099,7 +2119,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/572392ce0bd7f.jpg",
 		"universe": "Earth-616",
-		"comments": "Missing",
+		"comments": [
+			"Missing"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2120,7 +2142,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5723c3e93c642.jpg",
 		"universe": "Earth-616",
-		"comments": "Missing",
+		"comments": [
+			"Missing"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2141,7 +2165,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5723c5a6396fc.jpg",
 		"universe": "Earth-616",
-		"comments": "Missing",
+		"comments": [
+			"Missing"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "011"
@@ -2289,7 +2315,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb7b822b926b.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Daredevil's secret identity goes public",
+		"comments": [
+			"Daredevil's secret identity goes public"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "013"
@@ -2894,7 +2922,9 @@
 		"pic": "http://vignette2.wikia.nocookie.net/marveldatabase/images/e/ed/Alias_Vol_1_1.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Jessica Jones origins",
+		"comments": [
+			"Jessica Jones origins"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "018"
@@ -3489,7 +3519,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/5140cda8ce9af.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Destruction of Genosha",
+		"comments": [
+			"Destruction of Genosha"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "019"
@@ -4050,7 +4082,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/51e4179fa1896.jpg",
 		"universe": "Earth-616",
-		"comments": "Wolverine origins",
+		"comments": [
+			"Wolverine origins"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "023"
@@ -4171,7 +4205,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4bc37f13cfdfd.jpg",
 		"universe": "Earth-616",
-		"comments": "Emma Frost origins",
+		"comments": [
+			"Emma Frost origins"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "024"
@@ -4998,7 +5034,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/577e75c614e3d.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Jean Grey dies",
+		"comments": [
+			"Jean Grey dies"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "030"
@@ -5104,7 +5142,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/4bc33020280ee.jpg",
 		"universe": "Earth-616",
-		"comments": "Fantastic Four introduction",
+		"comments": [
+			"Fantastic Four introduction"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "031"
@@ -5374,7 +5414,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc365a07d1f4.jpg",
 		"universe": "Earth-616",
-		"comments": "Fantastic Four 500th",
+		"comments": [
+			"Fantastic Four 500th"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "032"
@@ -5782,7 +5824,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bb6700d5eb23.jpg",
 		"universe": "Earth-616",
-		"comments": "Green Goblin returns",
+		"comments": [
+			"Green Goblin returns"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "038"
@@ -6041,7 +6085,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/c0/57a34895df8f9.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "9/11",
+		"comments": [
+			"9/11"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "040"
@@ -6105,7 +6151,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/57a3460d4d5aa.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Peter tells Aunt May about Spider-Man",
+		"comments": [
+			"Peter tells Aunt May about Spider-Man"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "041"
@@ -6567,7 +6615,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/53767557adfc5.jpg",
 		"universe": "Earth-616",
-		"comments": "Gwen Stacy's story recap",
+		"comments": [
+			"Gwen Stacy's story recap"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "046"
@@ -7046,7 +7096,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/4bb50cfbef02e.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Spider-Man 500th",
+		"comments": [
+			"Spider-Man 500th"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "050"
@@ -7234,7 +7286,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5188021fd1fc8.jpg",
 		"universe": "Earth-616",
-		"comments": "Thanos destroys the Marvel Universe",
+		"comments": [
+			"Thanos destroys the Marvel Universe"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "053"
@@ -7361,7 +7415,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/57910e324df34.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Runaways origins",
+		"comments": [
+			"Runaways origins"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "054"
@@ -7743,7 +7799,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4babed3c773ef.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "057"
@@ -7764,7 +7822,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/57643f05ed90b.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "057"
@@ -7785,7 +7845,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/57643cc2c1015.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "057"
@@ -7806,7 +7868,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/57643cac3fd9e.jpg",
 		"universe": "Earth-616",
-		"comments": "Translated",
+		"comments": [
+			"Translated"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "057"
@@ -7992,7 +8056,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/56425aa850c47.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Jessica Jones starts working at the Daily Bugle",
+		"comments": [
+			"Jessica Jones starts working at the Daily Bugle"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "059"
@@ -8354,7 +8420,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc46846aa44c.jpg",
 		"universe": "Earth-616",
-		"comments": "Mystique secretly works for Xavier",
+		"comments": [
+			"Mystique secretly works for Xavier"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "062"
@@ -8835,7 +8903,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bc6a257386fa.jpg",
 		"universe": "Earth-616",
-		"comments": "Hulk origins recap",
+		"comments": [
+			"Hulk origins recap"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "066"
@@ -9612,7 +9682,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/5196815e28e90.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Cyclops and Emma Frost start running the X-Men school",
+		"comments": [
+			"Cyclops and Emma Frost start running the X-Men school"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "072"
@@ -10050,7 +10122,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/56cde163656a1.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": "Norman Osborn and Gwen Stacy's infamous kids story",
+		"comments": [
+			"Norman Osborn and Gwen Stacy's infamous kids story"
+		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "076"

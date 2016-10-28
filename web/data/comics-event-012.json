@@ -1,0 +1,1376 @@
+[
+	{
+		"id": "22504",
+		"collection": "Nova",
+		"title": "Nova Corps",
+		"vol": 4,
+		"num": 19,
+		"date": "2008-11-26",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Nova"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Francesco Mattina",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Wellington Alves",
+			"Geraldo Borges",
+			"Chris Eliopoulos",
+			"Scott Hanna",
+			"Nelson Pereira",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/578fce6045951.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "038"
+	},
+	{
+		"id": "22910",
+		"collection": "Nova",
+		"title": "Nova Corps",
+		"vol": 4,
+		"num": 20,
+		"date": "2008-12-24",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"New Warriors",
+			"Nova"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Wellington Alves",
+			"Geraldo Borges",
+			"Mike Deodato",
+			"Scott Hanna",
+			"Jim Nausedas",
+			"Nelson Pereira",
+			"Chris Eliopoulos",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/578fdc4d02e83.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "038"
+	},
+	{
+		"id": "23110",
+		"collection": "Nova",
+		"title": "Nova Corps",
+		"vol": 4,
+		"num": 21,
+		"date": "2009-01-28",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Nova"
+		],
+		"creators": [
+			"Guru-eFX",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Wellington Alves",
+			"Adi Granov",
+			"Chris Eliopoulos",
+			"Scott Hanna",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/5790cac58cd2b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "038"
+	},
+	{
+		"id": "23606",
+		"collection": "Nova",
+		"title": "Nova Corps",
+		"vol": 4,
+		"num": 22,
+		"date": "2009-02-25",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Nova"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Juan Doe",
+			"Chris Eliopoulos",
+			"Impacto - Bruno Hang",
+			"Cory Petit",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/5790d6d929319.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "038"
+	},
+	{
+		"id": "23185",
+		"collection": "Nova The Origin of Richard Rider",
+		"title": "Nova Corps",
+		"vol": 1,
+		"num": 1,
+		"date": "2009-01-14",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Geraldo Borges",
+			"Matt Milla",
+			"Impacto - Diogo Saito",
+			"Chris Sotomayor",
+			"Nelson Pereira",
+			"Cory Petit",
+			"Tom Smith"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/4bb6040d15f4b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "038"
+	},
+	{
+		"id": "22544",
+		"collection": "Guardians of the Galaxy",
+		"title": "War of Kings",
+		"vol": 2,
+		"num": 7,
+		"date": "2008-11-26",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Guardians of the Galaxy"
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/573b8064b8870.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "039"
+	},
+	{
+		"id": "22957",
+		"collection": "Guardians of the Galaxy",
+		"title": "War of Kings",
+		"vol": 2,
+		"num": 8,
+		"date": "2008-12-31",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Guardians of the Galaxy"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Joe Caramagna",
+			"Chris Eliopoulos",
+			"Clint Langley",
+			"Wil Quintana",
+			"Victor Olazaba",
+			"Brad Walker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/517ad459c4bc5.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "039"
+	},
+	{
+		"id": "23148",
+		"collection": "Guardians of the Galaxy",
+		"title": "War of Kings",
+		"vol": 2,
+		"num": 9,
+		"date": "2009-01-21",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Guardians of the Galaxy"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Joe Caramagna",
+			"Chris Eliopoulos",
+			"Impacto - Bruno Hang",
+			"Michael Kelleher",
+			"Wil Quintana",
+			"Clint Langley",
+			"Carlos Magno",
+			"Brad Walker",
+			"Victor Olazaba",
+			"Jack Purcell",
+			"Rodney Ramos"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/517ad45130d84.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "039"
+	},
+	{
+		"id": "23636",
+		"collection": "Guardians of the Galaxy",
+		"title": "War of Kings",
+		"vol": 2,
+		"num": 10,
+		"date": "2009-02-18",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Guardians of the Galaxy"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Joe Caramagna",
+			"Chris Eliopoulos",
+			"Clint Langley",
+			"Wil Quintana",
+			"John Livesay",
+			"Victor Olazaba",
+			"Brad Walker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/517ad44aa4e16.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "039"
+	},
+	{
+		"id": "23792",
+		"collection": "Guardians of the Galaxy",
+		"title": "War of Kings",
+		"vol": 2,
+		"num": 11,
+		"date": "2009-03-11",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Guardians of the Galaxy"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Joe Caramagna",
+			"Wes Craig",
+			"David Yardin",
+			"Chris Eliopoulos",
+			"Impacto - Bruno Hang",
+			"Wil Quintana"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/517ad59750d3f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "039"
+	},
+	{
+		"id": "23793",
+		"collection": "Guardians of the Galaxy",
+		"title": "War of Kings",
+		"vol": 2,
+		"num": 12,
+		"date": "2009-03-25",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Guardians of the Galaxy"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Joe Caramagna",
+			"Wes Craig",
+			"Chris Eliopoulos",
+			"Wil Quintana",
+			"Paul Renaud"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/517ad5a167300.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "039"
+	},
+	{
+		"id": "23007",
+		"collection": "X-Men Kingsbreaker",
+		"title": "Kingsbreaker",
+		"vol": 1,
+		"num": 1,
+		"date": "2008-12-17",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Chris Eliopoulos",
+			"Rian Hughes",
+			"Nathan Fairbairn",
+			"Brandon Peterson",
+			"Jaime Mendoza",
+			"Dustin Weaver",
+			"Chris Yost"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4badd4a07387e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "040"
+	},
+	{
+		"id": "23181",
+		"collection": "X-Men Kingsbreaker",
+		"title": "Kingsbreaker",
+		"vol": 1,
+		"num": 2,
+		"date": "2009-01-21",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Chris Eliopoulos",
+			"Nathan Fairbairn",
+			"Brandon Peterson",
+			"John Rauch",
+			"Jaime Mendoza",
+			"Victor Olazaba",
+			"Dustin Weaver",
+			"Chris Yost"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bb6042264025.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "040"
+	},
+	{
+		"id": "23663",
+		"collection": "X-Men Kingsbreaker",
+		"title": "Kingsbreaker",
+		"vol": 1,
+		"num": 3,
+		"date": "2009-02-18",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Vicente Cifuentes",
+			"Jaime Mendoza",
+			"Chris Eliopoulos",
+			"Nathan Fairbairn",
+			"Brandon Peterson",
+			"Paco Diaz Luque",
+			"Dustin Weaver",
+			"Chris Yost"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bac881609eba.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "040"
+	},
+	{
+		"id": "23835",
+		"collection": "X-Men Kingsbreaker",
+		"title": "Kingsbreaker",
+		"vol": 1,
+		"num": 4,
+		"date": "2009-03-25",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Joe Caramagna",
+			"Vicente Cifuentes",
+			"Jaime Mendoza",
+			"Chris Eliopoulos",
+			"Nathan Fairbairn",
+			"Brandon Peterson",
+			"Paco Diaz Luque",
+			"Dustin Weaver",
+			"Chris Yost"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bb597eeb35a6.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "040"
+	},
+	{
+		"id": "23649",
+		"collection": "War of Kings Darkhawk",
+		"title": "Darkhawk",
+		"vol": 1,
+		"num": 1,
+		"date": "2009-02-04",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Rainier Beredo",
+			"Jay David Ramos",
+			"C. B. Cebulski",
+			"Bong Dazo",
+			"Brandon Peterson",
+			"Harvey Tolibao",
+			"Chris Eliopoulos",
+			"Tom Smith",
+			"Cory Petit",
+			"Jose Pimentel"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/55df511413230.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "041"
+	},
+	{
+		"id": "23766",
+		"collection": "Nova",
+		"title": "End of Story",
+		"vol": 4,
+		"num": 23,
+		"date": "2009-03-25",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Nova",
+			"Quasar (Wendell Vaughn)"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Daniel Acuna",
+			"Juan Doe",
+			"Joe Caramagna",
+			"Chris Eliopoulos",
+			"Impacto - Bruno Hang",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/5790da7e928d4.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "042"
+	},
+	{
+		"id": "23813",
+		"collection": "War of Kings Darkhawk",
+		"title": "Darkhawk",
+		"vol": 1,
+		"num": 2,
+		"date": "2009-03-25",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dan Abnett",
+			"C. B. Cebulski",
+			"Andy Lanning",
+			"PAOLO PANTALENA",
+			"Harvey Tolibao",
+			"Brandon Peterson",
+			"Jay David Ramos",
+			"John Rauch",
+			"Tom Smith",
+			"Rus Wooton"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/55df63bc7413c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "043"
+	},
+	{
+		"id": "23814",
+		"collection": "War of Kings",
+		"title": "War of Kings",
+		"vol": 1,
+		"num": 1,
+		"date": "2009-03-04",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Black Bolt",
+			"Crystal"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Joe Caramagna",
+			"Rick Magyar",
+			"Paul Pelletier",
+			"Brandon Peterson",
+			"Wil Quintana"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb5983bdb52f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Sh'iar Empire invades the Kree Empire"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "044"
+	},
+	{
+		"id": "23966",
+		"collection": "Nova",
+		"title": "This World and the Next",
+		"vol": 4,
+		"num": 24,
+		"date": "2009-04-29",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Nova",
+			"Quasar (Wendell Vaughn)"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Daniel Acuna",
+			"Chris Eliopoulos",
+			"Impacto - Bruno Hang",
+			"Cory Petit",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/5790df71aa91c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "045"
+	},
+	{
+		"id": "24006",
+		"collection": "War of Kings",
+		"title": "War of Kings",
+		"vol": 1,
+		"num": 2,
+		"date": "2009-04-01",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Joe Caramagna",
+			"Chris Eliopoulos",
+			"Rick Magyar",
+			"Paul Pelletier",
+			"Brandon Peterson",
+			"Wil Quintana"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bad7ebf7464c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "046"
+	},
+	{
+		"id": "26245",
+		"collection": "War of Kings Savage World of Skaar",
+		"title": "Savage World of Skaar",
+		"vol": 1,
+		"num": 1,
+		"date": "2009-06-10",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Reilly Brown",
+			"Graham Nolan",
+			"Paul Pelletier",
+			"Frank D'Armata",
+			"Chris Sotomayor",
+			"Nelson DeCastro",
+			"Roland Paris",
+			"Ed Dukeshire",
+			"Christos Gage"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb4c2960a7a8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "047"
+	},
+	{
+		"id": "27075",
+		"collection": "War of Kings Warriors",
+		"title": "Warriors",
+		"vol": 1,
+		"num": 1,
+		"date": "2009-07-08",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			""
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/566f23d7c4935.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "048"
+	},
+	{
+		"id": "27614",
+		"collection": "War of Kings Warriors",
+		"title": "Warriors",
+		"vol": 1,
+		"num": 2,
+		"date": "2009-08-05",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			""
+		],
+		"creators": [
+			""
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/566f23813d790.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "048"
+	},
+	{
+		"id": "23914",
+		"collection": "War of Kings Ascension",
+		"title": "Ascension",
+		"vol": 1,
+		"num": 1,
+		"date": "2009-04-01",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Wellington Alves",
+			"Brandon Peterson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bb579fbc616d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "049"
+	},
+	{
+		"id": "23986",
+		"collection": "Guardians of the Galaxy",
+		"title": "Peacemakers",
+		"vol": 2,
+		"num": 13,
+		"date": "2009-04-22",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Guardians of the Galaxy"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Joe Caramagna",
+			"Frank D'Armata",
+			"Wil Quintana",
+			"Chris Eliopoulos",
+			"Salvador Larroca",
+			"Brad Walker",
+			"Victor Olazaba"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/517ad59261332.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "050"
+	},
+	{
+		"id": "24165",
+		"collection": "Nova",
+		"title": "Empire of the Mind",
+		"vol": 4,
+		"num": 25,
+		"date": "2009-05-28",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Nova",
+			"Quasar (Wendell Vaughn)"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Daniel Acuna",
+			"Kevin Sharpe",
+			"Alejandro Arbona",
+			"Chris Eliopoulos",
+			"Impacto - Bruno Hang",
+			"Jeffrey Huet",
+			"Nelson Pereira",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/b0/5790e881c7e79.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "051"
+	},
+	{
+		"id": "24212",
+		"collection": "War of Kings",
+		"title": "War of Kings",
+		"vol": 1,
+		"num": 3,
+		"date": "2009-05-06",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Joe Caramagna",
+			"Chris Eliopoulos",
+			"Rick Magyar",
+			"Paul Pelletier",
+			"Brandon Peterson",
+			"Wil Quintana"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb52d05ce67c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "052"
+	},
+	{
+		"id": "24267",
+		"collection": "War of Kings Ascension",
+		"title": "Ascension",
+		"vol": 1,
+		"num": 2,
+		"date": "2009-05-13",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Guru-eFX",
+			"Brandon Peterson",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Wellington Alves",
+			"Chris Eliopoulos",
+			"Scott Hanna",
+			"Nelson Pereira",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bb52b5b81283.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "053"
+	},
+	{
+		"id": "24188",
+		"collection": "Guardians of the Galaxy",
+		"title": "To The Death",
+		"vol": 2,
+		"num": 14,
+		"date": "2009-05-28",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Guardians of the Galaxy"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Alejandro Arbona",
+			"Joe Caramagna",
+			"Frank D'Armata",
+			"Jay David Ramos",
+			"Chris Eliopoulos",
+			"Salvador Larroca",
+			"Victor Olazaba",
+			"Brad Walker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/517ad5840ecf8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "054"
+	},
+	{
+		"id": "26091",
+		"collection": "Nova",
+		"title": "Saving Private Robbie",
+		"vol": 4,
+		"num": 26,
+		"date": "2009-06-24",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Nova"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Daniel Acuna",
+			"Chris Eliopoulos",
+			"Impacto - Bruno Hang",
+			"Cory Petit",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5790ee7eb07b8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "055"
+	},
+	{
+		"id": "27059",
+		"collection": "War of Kings",
+		"title": "War of Kings",
+		"vol": 1,
+		"num": 4,
+		"date": "2009-06-03",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Joe Caramagna",
+			"Chris Eliopoulos",
+			"Rick Magyar",
+			"Paul Pelletier",
+			"Brandon Peterson",
+			"Wil Quintana"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bb4f8e362ca5.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "056"
+	},
+	{
+		"id": "27070",
+		"collection": "War of Kings Ascension",
+		"title": "Ascension",
+		"vol": 1,
+		"num": 3,
+		"date": "2009-06-17",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Guru-eFX",
+			"Brandon Peterson",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Wellington Alves",
+			"Chris Eliopoulos",
+			"Scott Hanna",
+			"Nelson Pereira",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/30/4bb4f8de4fabb.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "057"
+	},
+	{
+		"id": "25303",
+		"collection": "Guardians of the Galaxy",
+		"title": "Knowhere To Run To",
+		"vol": 2,
+		"num": 15,
+		"date": "2009-06-24",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Guardians of the Galaxy"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Frank D'Armata",
+			"Jay David Ramos",
+			"Chris Eliopoulos",
+			"Salvador Larroca",
+			"John Livesay",
+			"Victor Olazaba",
+			"Brad Walker"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/517ad57e4a6e4.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "058"
+	},
+	{
+		"id": "26092",
+		"collection": "Nova",
+		"title": "Shock and Awe",
+		"vol": 4,
+		"num": 27,
+		"date": "2009-07-22",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Nova"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Daniel Acuna",
+			"Chris Eliopoulos",
+			"Impacto - Bruno Hang",
+			"Cory Petit",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/5790f5a308360.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "059"
+	},
+	{
+		"id": "27061",
+		"collection": "War of Kings",
+		"title": "War of Kings",
+		"vol": 1,
+		"num": 5,
+		"date": "2009-07-01",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Joe Caramagna",
+			"Chris Eliopoulos",
+			"Rick Magyar",
+			"Paul Pelletier",
+			"Brandon Peterson",
+			"Wil Quintana"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/56b8d070a2f41.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "060"
+	},
+	{
+		"id": "27071",
+		"collection": "War of Kings Ascension",
+		"title": "Ascension",
+		"vol": 1,
+		"num": 4,
+		"date": "2009-07-29",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Guru-eFX",
+			"Brandon Peterson",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Wellington Alves",
+			"Chris Eliopoulos",
+			"Scott Hanna",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb42178cc2df.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "061"
+	},
+	{
+		"id": "25304",
+		"collection": "Guardians of the Galaxy",
+		"title": "Earth, Overcome",
+		"vol": 2,
+		"num": 16,
+		"date": "2009-07-22",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Guardians of the Galaxy"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Joe Caramagna",
+			"Wes Craig",
+			"Frank D'Armata",
+			"Nathan Fairbairn",
+			"Chris Eliopoulos",
+			"Pasqual Ferry"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/517ad6ab06469.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "062"
+	},
+	{
+		"id": "27063",
+		"collection": "War of Kings",
+		"title": "War of Kings",
+		"vol": 1,
+		"num": 6,
+		"date": "2009-08-05",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Joe Caramagna",
+			"Chris Eliopoulos",
+			"Andrew Hennessy",
+			"Rick Magyar",
+			"Paul Pelletier",
+			"Andrea Di Vito",
+			"Brandon Peterson",
+			"Wil Quintana"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bb418096a8b0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "063"
+	},
+	{
+		"id": "23505",
+		"collection": "Guardians of the Galaxy",
+		"title": "Adam Magus",
+		"vol": 2,
+		"num": 17,
+		"date": "2000-01-10",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Machine Man",
+			"Mysterio",
+			"Sebastian Shaw",
+			"Spider-Man",
+			"X-Men"
+		],
+		"creators": [
+			"Mas",
+			"Richard Case",
+			"Bob Wiacek",
+			"Steve Behling",
+			"Ralph Macchio",
+			"Michael Stewart",
+			"Joe Bennett",
+			"Geof Isherwood",
+			"Gregg Schigiel",
+			"Karl Bollers",
+			"Glenn Herdling",
+			"Michael Higgins",
+			"Chris Dickey",
+			"Benchmark Productions",
+			"Paul Mounts"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "064"
+	},
+	{
+		"id": "26093",
+		"collection": "Nova",
+		"title": "War Crimes",
+		"vol": 4,
+		"num": 28,
+		"date": "2009-08-26",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Nova"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Daniel Acuna",
+			"Chris Eliopoulos",
+			"Impacto - Bruno Hang",
+			"Cory Petit",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5790ccf4e0262.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "065"
+	},
+	{
+		"id": "28101",
+		"collection": "War of Kings Who Will Rule",
+		"title": "Who Will Rule",
+		"vol": 1,
+		"date": "2009-09-10",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			""
+		],
+		"creators": [
+			"Guru-eFX",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Joe Caramagna",
+			"Chris Eliopoulos",
+			"Andrew Hennessy",
+			"Paul Pelletier",
+			"Brandon Peterson"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/5425e5bb30df8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "066"
+	},
+	{
+		"id": "25306",
+		"collection": "Guardians of the Galaxy",
+		"title": "Other Worlds Other Wars",
+		"vol": 2,
+		"num": 18,
+		"date": "2009-09-23",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Guardians of the Galaxy"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Joe Caramagna",
+			"Wes Craig",
+			"Pasqual Ferry",
+			"Frank D'Armata",
+			"Nathan Fairbairn"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/517ad697b2fb5.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "067"
+	},
+	{
+		"id": "25307",
+		"collection": "Guardians of the Galaxy",
+		"title": "Other Worlds Other Wars",
+		"vol": 2,
+		"num": 19,
+		"date": "2009-10-28",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Guardians of the Galaxy",
+			"Kang"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Joe Caramagna",
+			"Wes Craig",
+			"Alex Garner",
+			"Nathan Fairbairn",
+			"Serge LaPointe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/517ad68eb623e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "067"
+	},
+	{
+		"id": "26094",
+		"collection": "Nova",
+		"title": "Starstalker Krushed Most Wanted",
+		"vol": 4,
+		"num": 29,
+		"date": "2009-09-23",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Nova"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Impacto - Bruno Hang",
+			"Nelson Pereira",
+			"Brandon Peterson",
+			"Kevin Sharpe",
+			"Cory Petit"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/5790d6608e5bf.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "068"
+	},
+	{
+		"id": "26095",
+		"collection": "Nova",
+		"title": "Starstalker Krushed Most Wanted",
+		"vol": 4,
+		"num": 30,
+		"date": "2009-10-28",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Nova"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Nelson Pereira",
+			"Brandon Peterson",
+			"Cory Petit",
+			"Kevin Sharpe"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/5790d8afe7c65.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "068"
+	},
+	{
+		"id": "26096",
+		"collection": "Nova",
+		"title": "Starstalker Krushed Most Wanted",
+		"vol": 4,
+		"num": 31,
+		"date": "2009-11-04",
+		"event": "War of Kings",
+		"eventid": "012",
+		"characters": [
+			"Darkhawk",
+			"Nova"
+		],
+		"creators": [
+			"Dan Abnett",
+			"Andy Lanning",
+			"Impacto - Bruno Hang",
+			"Brandon Peterson",
+			"Cory Petit",
+			"Andrea Di Vito"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5669fc7db03d3.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "068"
+	}
+]
