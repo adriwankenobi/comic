@@ -7,31 +7,8 @@ import (
 )
 
 // Index
-func getIndexPage(issues *service.FissuesList) (string, error) {
-	introID := "intro"
-	issuesLi := fmt.Sprintf(c["tab-li"], "active", introID, introID, introID, "Intro")
-	issuesContent := fmt.Sprintf(c["tab-content"], "active", introID, introID, introID, c["tab-content-intro"])
-	phases := service.PhaseList{}
-	for _, e := range *issues {
-		phaseID := fmt.Sprintf("phase%s", e.Phase.ID)
-		li := fmt.Sprintf(c["tab-li"], "", phaseID, phaseID, phaseID, e.Phase.Name)
-		issuesLi = fmt.Sprintf("%s%s", issuesLi, li)
-		phases = append(phases, e.Phase)
-		conPhase := ""
-		for _, i := range e.List {
-			year := ""
-			if i.Date != "" {
-				year = i.Date[:4]
-			}
-			conIssue := fmt.Sprintf(c["tab-content-phase"], e.Phase.ID, i.SortID, i.Pic, i.Title, year, "Protagonist", e.Phase.ID, i.SortID, i.Title)
-			conPhase = fmt.Sprintf("%s%s", conPhase, conIssue)
-		}
-		con := fmt.Sprintf(c["tab-content"], "", phaseID, phaseID, phaseID, conPhase)
-		issuesContent = fmt.Sprintf("%s%s", issuesContent, con)
-	}
-	issuesContent = fmt.Sprintf("%s%s", issuesContent, c["clear-fix"])
-	content := fmt.Sprintf(c["tabs"], issuesLi, issuesContent)
-	return getTemplate(content, &phases, 0), nil
+func getIndexPage(phases *service.PhaseList) (string, error) {
+	return getTemplate(c["intro"], phases, 0), nil
 }
 
 // Issues
@@ -58,7 +35,7 @@ func getIssuesPage(phases *service.PhaseList, issues *service.ComicList) (string
 		// TODO: For each comment
 		commentsList := fmt.Sprintf(c["list"], e.Comments)
 
-		con := fmt.Sprintf(c["issue-content"], name, e.PhaseID, e.SortID, e.Pic, name,
+		con := fmt.Sprintf(c["content-issue"], name, e.PhaseID, e.SortID, e.Pic, name,
 			e.Collection,
 			e.Vol,
 			e.Num,
@@ -77,7 +54,7 @@ func getIssuesPage(phases *service.PhaseList, issues *service.ComicList) (string
 		issuesContent = fmt.Sprintf("%s%s", issuesContent, con)
 	}
 	issuesContent = fmt.Sprintf("%s%s", issuesContent, c["clear-fix"])
-	content := fmt.Sprintf(c["issues"], (*issues)[0].PhaseID, (*issues)[0].SortID, (*issues)[0].Title, issuesContent)
+	content := fmt.Sprintf(c["content-issues"], (*issues)[0].PhaseID, (*issues)[0].SortID, (*issues)[0].Title, issuesContent)
 	return getTemplate(content, phases, -1), nil
 }
 
@@ -95,10 +72,10 @@ func getPhasePage(phases *service.PhaseList, fissues *service.Fissues) (string, 
 		if i.Date != "" {
 			year = i.Date[:4]
 		}
-		conIssue := fmt.Sprintf(c["tab-content-phase"], phaseID, i.SortID, i.Pic, i.Title, year, "Protagonist", phaseID, i.SortID, i.Title)
+		conIssue := fmt.Sprintf(c["content-fissue"], phaseID, i.SortID, i.Pic, i.Title, year, "Protagonist", phaseID, i.SortID, i.Title)
 		issuesContent = fmt.Sprintf("%s%s", issuesContent, conIssue)
 	}
-	content := fmt.Sprintf(c["phase"], fissues.Phase.Name, issuesContent)
+	content := fmt.Sprintf(c["content"], fissues.Phase.Name, issuesContent)
 	return getTemplate(content, phases, 1), nil
 }
 

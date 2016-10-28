@@ -79,11 +79,11 @@ func init() {
 
 	// Index -> Get all first issues from all phases
 	router.GET("/", webHandle(func(p httprouter.Params) (string, error) {
-		issues, err := service.ListFirstIssues(j["fissues"])
+		phases, err := service.ListPhases(j["phases"])
 		if err != nil {
 			return "", err
 		}
-		return getIndexPage(issues)
+		return getIndexPage(phases)
 	}))
 
 	// Issues -> Get all first issues from this phases
