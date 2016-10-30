@@ -64,8 +64,8 @@ func ListNamables(namables *jsonql.JSONQL) (*NamableList, error) {
 }
 
 // Find first issues
-func FindFirstIssuesByPhaseID(fissues *jsonql.JSONQL, id string) (*Fissues, error) {
-	list, err := FindFissuesList(fissues, "phase.id='"+id+"'")
+func FindFirstIssuesByID(fissues *jsonql.JSONQL, id string) (*Fissues, error) {
+	list, err := FindFissuesList(fissues, "namable.id='"+id+"'")
 	if err != nil {
 		return &Fissues{}, err
 	}
@@ -76,7 +76,7 @@ func FindFirstIssuesByPhaseID(fissues *jsonql.JSONQL, id string) (*Fissues, erro
 }
 
 func ListFirstIssues(fissues *jsonql.JSONQL) (*FissuesList, error) {
-	return FindFissuesList(fissues, "phase.id!=''")
+	return FindFissuesList(fissues, "namable.id!=''")
 }
 
 // Utils

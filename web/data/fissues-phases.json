@@ -1,6 +1,6 @@
 [
 	{
-		"phase": {
+		"namable": {
 			"id": "001",
 			"name": "Marvel Knights"
 		},
@@ -9,468 +9,545 @@
 				"title": "Inhumans",
 				"date": "1998-11-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/53766fb162cda.jpg",
+				"phaseid": "001",
 				"sortid": "001"
 			},
 			{
 				"title": "Guardian Devil",
 				"date": "1998-11-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/57223eff00d5d.jpg",
+				"phaseid": "001",
 				"sortid": "002"
 			},
 			{
 				"title": "Parts of a Hole",
 				"date": "1999-12-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/57224121a9252.jpg",
+				"phaseid": "001",
 				"sortid": "003"
 			},
 			{
 				"title": "Marvel Knights",
 				"date": "2000-07-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bc369f3bdae4.jpg",
+				"phaseid": "001",
 				"sortid": "004"
 			},
 			{
 				"title": "The Sentry",
 				"date": "2000-09-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4bc48124acb03.jpg",
+				"phaseid": "001",
 				"sortid": "005"
 			},
 			{
 				"title": "Yellow",
 				"date": "2001-08-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bc334cc50087.jpg",
+				"phaseid": "001",
 				"sortid": "006"
 			},
 			{
 				"title": "The death of Odin",
 				"date": "2001-06-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4f205c34141c0.jpg",
+				"phaseid": "001",
 				"sortid": "007"
 			},
 			{
 				"title": "Son of Asgard",
 				"date": "2004-03-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc6995bd4126.jpg",
+				"phaseid": "001",
 				"sortid": "008"
 			},
 			{
 				"title": "Infinity Abyss",
 				"date": "2002-08-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4bb6de59aeded.jpg",
+				"phaseid": "001",
 				"sortid": "009"
 			},
 			{
 				"title": "Wake up",
 				"date": "2001-05-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5632732c44205.jpg",
+				"phaseid": "001",
 				"sortid": "010"
 			},
 			{
 				"title": "Playing to the Camera",
 				"date": "2001-09-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/57238fedf3225.jpg",
+				"phaseid": "001",
 				"sortid": "011"
 			},
 			{
 				"title": "Underboss",
 				"date": "2001-12-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/5727637552032.jpg",
+				"phaseid": "001",
 				"sortid": "012"
 			},
 			{
 				"title": "Out",
 				"date": "2002-06-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb7b822b926b.jpg",
+				"phaseid": "001",
 				"sortid": "013"
 			},
 			{
 				"title": "Lowlife",
 				"date": "2003-03-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/5727bb6adedcf.jpg",
+				"phaseid": "001",
 				"sortid": "014"
 			},
 			{
 				"title": "Hardcore",
 				"date": "2003-06-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/5727987d1991a.jpg",
+				"phaseid": "001",
 				"sortid": "015"
 			},
 			{
 				"title": "Echo",
 				"date": "2003-11-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/57277be9bb56b.jpg",
+				"phaseid": "001",
 				"sortid": "016"
 			},
 			{
 				"title": "The King of Hell's Kitchen",
 				"date": "2004-02-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/57277fa704a8c.jpg",
+				"phaseid": "001",
 				"sortid": "017"
 			},
 			{
 				"title": "Alias",
 				"date": "2001-11-01",
 				"pic": "http://vignette2.wikia.nocookie.net/marveldatabase/images/e/ed/Alias_Vol_1_1.jpg",
+				"phaseid": "001",
 				"sortid": "018"
 			},
 			{
 				"title": "E is for Extintion",
 				"date": "2001-07-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/5140cda8ce9af.jpg",
+				"phaseid": "001",
 				"sortid": "019"
 			},
 			{
 				"title": "The Man from the Room X",
 				"date": "2001-09-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/f0/577e6c883fc98.jpg",
+				"phaseid": "001",
 				"sortid": "020"
 			},
 			{
 				"title": "Imperial",
 				"date": "2001-11-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/a0/4e5eadba5bcac.png",
+				"phaseid": "001",
 				"sortid": "021"
 			},
 			{
 				"title": "New Worlds",
 				"date": "2002-08-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/577d1e5e3289c.jpg",
+				"phaseid": "001",
 				"sortid": "022"
 			},
 			{
 				"title": "Wolverine Origins",
 				"date": "2001-11-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/51e4179fa1896.jpg",
+				"phaseid": "001",
 				"sortid": "023"
 			},
 			{
 				"title": "Higher Learning",
 				"date": "2003-08-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4bc37f13cfdfd.jpg",
+				"phaseid": "001",
 				"sortid": "024"
 			},
 			{
 				"title": "Mind Games",
 				"date": "2004-03-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bc37f50a044f.jpg",
+				"phaseid": "001",
 				"sortid": "025"
 			},
 			{
 				"title": "Bloom",
 				"date": "2004-09-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4bc37f5588621.jpg",
+				"phaseid": "001",
 				"sortid": "026"
 			},
 			{
 				"title": "Riot at Xavier's",
 				"date": "2003-01-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4c35ed2920f8d.jpg",
+				"phaseid": "001",
 				"sortid": "027"
 			},
 			{
 				"title": "Assault on Weapon Plus",
 				"date": "2003-06-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/b0/577d723e96f94.jpg",
+				"phaseid": "001",
 				"sortid": "028"
 			},
 			{
 				"title": "Planet X",
 				"date": "2003-10-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bc46b1e313f8.jpg",
+				"phaseid": "001",
 				"sortid": "029"
 			},
 			{
 				"title": "Here comes Tomorrow",
 				"date": "2004-01-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/577e75c614e3d.jpg",
+				"phaseid": "001",
 				"sortid": "030"
 			},
 			{
 				"title": "Imaginauts",
 				"date": "2002-10-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/4bc33020280ee.jpg",
+				"phaseid": "001",
 				"sortid": "031"
 			},
 			{
 				"title": "Unthinkable",
 				"date": "2003-05-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bb852f4c042d.jpg",
+				"phaseid": "001",
 				"sortid": "032"
 			},
 			{
 				"title": "5th wheel",
 				"date": "2003-10-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc365a5628d1.jpg",
+				"phaseid": "001",
 				"sortid": "033"
 			},
 			{
 				"title": "Authoritative action",
 				"date": "2003-11-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4bc47919268ea.jpg",
+				"phaseid": "001",
 				"sortid": "034"
 			},
 			{
 				"title": "Hereafter",
 				"date": "2004-03-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/57e9721be1c8c.jpg",
+				"phaseid": "001",
 				"sortid": "035"
 			},
 			{
 				"title": "Spider sense",
 				"date": "2004-04-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/57e9757b71d88.jpg",
+				"phaseid": "001",
 				"sortid": "036"
 			},
 			{
 				"title": "Dysfunctional",
 				"date": "2004-06-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/57e9755fcc307.jpg",
+				"phaseid": "001",
 				"sortid": "037"
 			},
 			{
 				"title": "Revenge of the Green Goblin",
 				"date": "2000-10-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bb6700d5eb23.jpg",
+				"phaseid": "001",
 				"sortid": "038"
 			},
 			{
 				"title": "Flowers for Rhino",
 				"date": "2001-10-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4bc4706449c88.jpg",
+				"phaseid": "001",
 				"sortid": "039"
 			},
 			{
 				"title": "Coming home",
 				"date": "2001-06-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/50b3a4745f209.jpg",
+				"phaseid": "001",
 				"sortid": "040"
 			},
 			{
 				"title": "Revelations",
 				"date": "2001-12-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/50b511d69e770.jpg",
+				"phaseid": "001",
 				"sortid": "041"
 			},
 			{
 				"title": "A Death in the Family",
 				"date": "2002-07-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4bc4732d88b38.jpg",
+				"phaseid": "001",
 				"sortid": "042"
 			},
 			{
 				"title": "The Hunger",
 				"date": "2003-07-02",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/4bb7a68d0baa2.jpg",
+				"phaseid": "001",
 				"sortid": "043"
 			},
 			{
 				"title": "Until the Stars Turn Cold",
 				"date": "2002-06-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/57a34410cdd46.jpg",
+				"phaseid": "001",
 				"sortid": "044"
 			},
 			{
 				"title": "The Life and Death of Spiders",
 				"date": "2002-12-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/52962a9406367.jpg",
+				"phaseid": "001",
 				"sortid": "045"
 			},
 			{
 				"title": "Blue",
 				"date": "2002-07-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/53767557adfc5.jpg",
+				"phaseid": "001",
 				"sortid": "046"
 			},
 			{
 				"title": "Unintended consequences",
 				"date": "2003-05-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/57e953be7b0b4.jpg",
+				"phaseid": "001",
 				"sortid": "047"
 			},
 			{
 				"title": "Stuff of Legends",
 				"date": "2003-08-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/4bb84741323d9.jpg",
+				"phaseid": "001",
 				"sortid": "048"
 			},
 			{
 				"title": "Negative Exposure",
 				"date": "2003-10-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc6a0ea5de92.jpg",
+				"phaseid": "001",
 				"sortid": "049"
 			},
 			{
 				"title": "Happy Birthday",
 				"date": "2003-10-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/57ea8d7ee79e4.jpg",
+				"phaseid": "001",
 				"sortid": "050"
 			},
 			{
 				"title": "May \u0026 Mary Jane",
 				"date": "2003-11-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/56cdde384419d.jpg",
+				"phaseid": "001",
 				"sortid": "051"
 			},
 			{
 				"title": "The Book of Ezekiel",
 				"date": "2004-01-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/56cddf0896c11.jpg",
+				"phaseid": "001",
 				"sortid": "052"
 			},
 			{
 				"title": "The End",
 				"date": "2003-04-02",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5188021fd1fc8.jpg",
+				"phaseid": "001",
 				"sortid": "053"
 			},
 			{
 				"title": "Pride and Joy",
 				"date": "2003-07-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/57910e324df34.jpg",
+				"phaseid": "001",
 				"sortid": "054"
 			},
 			{
 				"title": "Teenage Wasteland",
 				"date": "2003-12-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/5791338e1e411.jpg",
+				"phaseid": "001",
 				"sortid": "055"
 			},
 			{
 				"title": "The Good Die Young",
 				"date": "2004-03-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/5797aec38da69.jpg",
+				"phaseid": "001",
 				"sortid": "056"
 			},
 			{
 				"title": "Single Green Female",
 				"date": "2004-03-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4babed3c773ef.jpg",
+				"phaseid": "001",
 				"sortid": "057"
 			},
 			{
 				"title": "Superhuman Law",
 				"date": "2004-09-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/57643d291d88b.jpg",
+				"phaseid": "001",
 				"sortid": "058"
 			},
 			{
 				"title": "Thin Air",
 				"date": "2004-02-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/56425aa850c47.jpg",
+				"phaseid": "001",
 				"sortid": "059"
 			},
 			{
 				"title": "Powerless",
 				"date": "2004-06-30",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/56b0efeeee03c.jpg",
+				"phaseid": "001",
 				"sortid": "060"
 			},
 			{
 				"title": "Going Rogue",
 				"date": "2004-07-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc68cb741791.jpg",
+				"phaseid": "001",
 				"sortid": "061"
 			},
 			{
 				"title": "Dead Drop Gorgeus",
 				"date": "2003-06-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc46846aa44c.jpg",
+				"phaseid": "001",
 				"sortid": "062"
 			},
 			{
 				"title": "Tinker, Tailor, Mutant, Spy",
 				"date": "2003-11-02",
 				"pic": "http://vignette1.wikia.nocookie.net/marveldatabase/images/a/a7/Mystique_Vol_1_7.jpg",
+				"phaseid": "001",
 				"sortid": "063"
 			},
 			{
 				"title": "Unnatural",
 				"date": "2004-05-12",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc687ecab273.jpg",
+				"phaseid": "001",
 				"sortid": "064"
 			},
 			{
 				"title": "Quiet",
 				"date": "2004-09-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bc678490face.jpg",
+				"phaseid": "001",
 				"sortid": "065"
 			},
 			{
 				"title": "Grey",
 				"date": "2003-10-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bc6a257386fa.jpg",
+				"phaseid": "001",
 				"sortid": "066"
 			},
 			{
 				"title": "Wolf and the Door",
 				"date": "2004-02-11",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bc69d6c705cb.jpg",
+				"phaseid": "001",
 				"sortid": "067"
 			},
 			{
 				"title": "The Stuff of Nightmares",
 				"date": "2004-07-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/4bc64671489d9.jpg",
+				"phaseid": "001",
 				"sortid": "068"
 			},
 			{
 				"title": "Divine Time",
 				"date": "2004-12-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/4bc65a713b1ac.jpg",
+				"phaseid": "001",
 				"sortid": "069"
 			},
 			{
 				"title": "Impossible Things Happen Everyday",
 				"date": "2005-06-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bc6337f1bca4.jpg",
+				"phaseid": "001",
 				"sortid": "070"
 			},
 			{
 				"title": "The Resurrection of Nicholas Stratch",
 				"date": "2005-12-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bc60ea372ba9.jpg",
+				"phaseid": "001",
 				"sortid": "071"
 			},
 			{
 				"title": "Gifted",
 				"date": "2004-05-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/5196815e28e90.jpg",
+				"phaseid": "001",
 				"sortid": "072"
 			},
 			{
 				"title": "Down Among the Dead Men",
 				"date": "2004-04-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/57ae4a640bc35.jpg",
+				"phaseid": "001",
 				"sortid": "073"
 			},
 			{
 				"title": "Venomous",
 				"date": "2004-08-11",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/57ae4a49ba6ab.jpg",
+				"phaseid": "001",
 				"sortid": "074"
 			},
 			{
 				"title": "The Last Stand",
 				"date": "2004-12-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/57ae49e59093b.jpg",
+				"phaseid": "001",
 				"sortid": "075"
 			},
 			{
 				"title": "Sins Past",
 				"date": "2004-06-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/56cde163656a1.jpg",
+				"phaseid": "001",
 				"sortid": "076"
 			},
 			{
 				"title": "Skin Deep",
 				"date": "2004-12-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/57f69dbbc28f3.jpg",
+				"phaseid": "001",
 				"sortid": "077"
 			}
 		]
 	},
 	{
-		"phase": {
+		"namable": {
 			"id": "002",
 			"name": "Disassembled"
 		},
@@ -479,66 +556,76 @@
 				"title": "Ragnarok",
 				"date": "2004-06-02",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/56f2ca6c61f94.jpg",
+				"phaseid": "002",
 				"sortid": "001"
 			},
 			{
 				"title": "Turf War",
 				"date": "2004-06-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4d2526fe375bf.jpg",
+				"phaseid": "002",
 				"sortid": "002"
 			},
 			{
 				"title": "Under My Skin",
 				"date": "2004-06-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/57e55d6474b3c.jpg",
+				"phaseid": "002",
 				"sortid": "003"
 			},
 			{
 				"title": "Changes",
 				"date": "2004-07-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/57e55d9e8c28d.jpg",
+				"phaseid": "002",
 				"sortid": "004"
 			},
 			{
 				"title": "Dissasembled",
 				"date": "2004-07-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/51d2f06d04209.jpg",
+				"phaseid": "002",
 				"sortid": "005"
 			},
 			{
 				"title": "Avengers Dissasembled",
 				"date": "2004-09-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4f5a50d019d82.jpg",
+				"phaseid": "002",
 				"sortid": "006"
 			},
 			{
 				"title": "Avengers Dissasembled Finale",
 				"date": "2004-11-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/51e045c27a7b0.jpg",
+				"phaseid": "002",
 				"sortid": "007"
 			},
 			{
 				"title": "Super-Patriot",
 				"date": "2000-05-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/4e8b2947716c8.jpg",
+				"phaseid": "002",
 				"sortid": "008"
 			},
 			{
 				"title": "The Singularity",
 				"date": "2004-07-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4d24e94fd08df.jpg",
+				"phaseid": "002",
 				"sortid": "009"
 			},
 			{
 				"title": "Fourtitude",
 				"date": "2004-08-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/57e9748092fdc.jpg",
+				"phaseid": "002",
 				"sortid": "010"
 			}
 		]
 	},
 	{
-		"phase": {
+		"namable": {
 			"id": "003",
 			"name": "Secret War"
 		},
@@ -547,330 +634,384 @@
 				"title": "Rising Storm",
 				"date": "2004-11-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/57e9787f70001.jpg",
+				"phaseid": "003",
 				"sortid": "001"
 			},
 			{
 				"title": "The End of History",
 				"date": "2004-05-05",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc688085d41a.jpg",
+				"phaseid": "003",
 				"sortid": "002"
 			},
 			{
 				"title": "The Cruelest Cut",
 				"date": "2004-10-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc6767cd04bb.jpg",
+				"phaseid": "003",
 				"sortid": "003"
 			},
 			{
 				"title": "Mr M",
 				"date": "2004-05-12",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc68803ae54c.jpg",
+				"phaseid": "003",
 				"sortid": "004"
 			},
 			{
 				"title": "Multiple Choice",
 				"date": "2004-09-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bc67870dabe8.jpg",
+				"phaseid": "003",
 				"sortid": "005"
 			},
 			{
 				"title": "Choosing Sides",
 				"date": "2004-05-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/5702aadacc828.jpg",
+				"phaseid": "003",
 				"sortid": "006"
 			},
 			{
 				"title": "Epiphany",
 				"date": "2003-10-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/577ea4c217030.jpg",
+				"phaseid": "003",
 				"sortid": "007"
 			},
 			{
 				"title": "Samaritan",
 				"date": "2004-03-03",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/04/577faf41bf9ff.jpg",
+				"phaseid": "003",
 				"sortid": "008"
 			},
 			{
 				"title": "Sidekicks",
 				"date": "2005-02-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/564259ee974d5.jpg",
+				"phaseid": "003",
 				"sortid": "009"
 			},
 			{
 				"title": "Heart of the Spider",
 				"date": "2004-06-30",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56cb7746bd44a.jpg",
+				"phaseid": "003",
 				"sortid": "010"
 			},
 			{
 				"title": "If Looks Could Kill",
 				"date": "2004-03-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/535142a7043ae.jpg",
+				"phaseid": "003",
 				"sortid": "011"
 			},
 			{
 				"title": "The Burnt Offering",
 				"date": "2004-09-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/56e1cb54c7da1.jpg",
+				"phaseid": "003",
 				"sortid": "012"
 			},
 			{
 				"title": "The Widow",
 				"date": "2004-06-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/00/57278372e5660.jpg",
+				"phaseid": "003",
 				"sortid": "013"
 			},
 			{
 				"title": "Golden Age",
 				"date": "2004-10-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/572787643041b.jpg",
+				"phaseid": "003",
 				"sortid": "014"
 			},
 			{
 				"title": "Decalogue",
 				"date": "2005-03-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/572797fbcf1b4.jpg",
+				"phaseid": "003",
 				"sortid": "015"
 			},
 			{
 				"title": "Greatest Hits",
 				"date": "2004-09-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/56e19e3890232.jpg",
+				"phaseid": "003",
 				"sortid": "016"
 			},
 			{
 				"title": "Redemption",
 				"date": "2005-04-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc37e2e77d71.jpg",
+				"phaseid": "003",
 				"sortid": "017"
 			},
 			{
 				"title": "Out of Time",
 				"date": "2005-01-01",
 				"pic": "https://i.annihil.us/u/prod/marvel/i/mg/c/c0/5728d2ec8b6dc/detail.jpg",
+				"phaseid": "003",
 				"sortid": "018"
 			},
 			{
 				"title": "Secret War",
 				"date": "2004-02-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc6aedcd6792.jpg",
+				"phaseid": "003",
 				"sortid": "019"
 			},
 			{
 				"title": "Secret War The Pulse",
 				"date": "2004-11-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/56538fd257915.jpg",
+				"phaseid": "003",
 				"sortid": "020"
 			},
 			{
 				"title": "Breakout",
 				"date": "2004-12-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/5149eb485fbf8.jpg",
+				"phaseid": "003",
 				"sortid": "021"
 			},
 			{
 				"title": "Spider-Man Breakout",
 				"date": "2005-04-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc63e75162e1.jpg",
+				"phaseid": "003",
 				"sortid": "022"
 			},
 			{
 				"title": "Who is the Black Panther",
 				"date": "2005-02-02",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/5744b9e7af758.jpg",
+				"phaseid": "003",
 				"sortid": "023"
 			},
 			{
 				"title": "Missasembled",
 				"date": "2005-04-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc465362ba79.jpg",
+				"phaseid": "003",
 				"sortid": "024"
 			},
 			{
 				"title": "World's End",
 				"date": "2005-02-02",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/570294c7e1f6b.jpg",
+				"phaseid": "003",
 				"sortid": "025"
 			},
 			{
 				"title": "Phoenix Endsong",
 				"date": "2005-01-05",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc654cf9d0ac.jpg",
+				"phaseid": "003",
 				"sortid": "026"
 			},
 			{
 				"title": "The New Age of Apocalypse",
 				"date": "2005-03-02",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/568c36c06a2d5.jpg",
+				"phaseid": "003",
 				"sortid": "027"
 			},
 			{
 				"title": "Innocence Lost",
 				"date": "2005-01-12",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc468ba18fc2.jpg",
+				"phaseid": "003",
 				"sortid": "028"
 			},
 			{
 				"title": "Stormbreaker",
 				"date": "2005-01-12",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4bc6548214c54.jpg",
+				"phaseid": "003",
 				"sortid": "029"
 			},
 			{
 				"title": "Dream Fever",
 				"date": "2005-04-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/80/57e974ec59a5f.jpg",
+				"phaseid": "003",
 				"sortid": "030"
 			},
 			{
 				"title": "Dangerous",
 				"date": "2004-12-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/56ddf11f48885.jpg",
+				"phaseid": "003",
 				"sortid": "031"
 			},
 			{
 				"title": "Underground",
 				"date": "2004-11-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc6b0937d851.jpg",
+				"phaseid": "003",
 				"sortid": "032"
 			},
 			{
 				"title": "The Devil Inside",
 				"date": "2004-09-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4bc6784420b98.jpg",
+				"phaseid": "003",
 				"sortid": "033"
 			},
 			{
 				"title": "The Winding Way",
 				"date": "2005-06-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4bc633700ad2c.jpg",
+				"phaseid": "003",
 				"sortid": "034"
 			},
 			{
 				"title": "Forget me not",
 				"date": "2005-01-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc653333daf3.jpg",
+				"phaseid": "003",
 				"sortid": "035"
 			},
 			{
 				"title": "The Sentry",
 				"date": "2005-07-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4f7db39021b77.jpg",
+				"phaseid": "003",
 				"sortid": "036"
 			},
 			{
 				"title": "Secret Identities",
 				"date": "2005-09-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bc628d3289f5.jpg",
+				"phaseid": "003",
 				"sortid": "037"
 			},
 			{
 				"title": "Special",
 				"date": "2005-12-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc60cc45e087.jpg",
+				"phaseid": "003",
 				"sortid": "038"
 			},
 			{
 				"title": "Family Matters",
 				"date": "2005-11-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4bc32e9875641.jpg",
+				"phaseid": "003",
 				"sortid": "039"
 			},
 			{
 				"title": "Enemy of the State",
 				"date": "2004-10-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/51ed63ab9d42c.jpg",
+				"phaseid": "003",
 				"sortid": "040"
 			},
 			{
 				"title": "Agent of SHIELD",
 				"date": "2005-03-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/51ed65d183c56.jpg",
+				"phaseid": "003",
 				"sortid": "041"
 			},
 			{
 				"title": "Prisoner Zero",
 				"date": "2005-09-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4d250538ed7ff.jpg",
+				"phaseid": "003",
 				"sortid": "042"
 			},
 			{
 				"title": "On Ice",
 				"date": "2005-06-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4bc636baa70b1.jpg",
+				"phaseid": "003",
 				"sortid": "043"
 			},
 			{
 				"title": "Poison Tomorrow",
 				"date": "2005-04-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/56cb709d2583f.jpg",
+				"phaseid": "003",
 				"sortid": "044"
 			},
 			{
 				"title": "Masterming Excello",
 				"date": "2005-11-30",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/56cb74a9868bc.jpg",
+				"phaseid": "003",
 				"sortid": "045"
 			},
 			{
 				"title": "Tempest Fugit",
 				"date": "2005-01-05",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc656661c7c0.jpg",
+				"phaseid": "003",
 				"sortid": "046"
 			},
 			{
 				"title": "Haunted",
 				"date": "2004-11-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5702aa7b613c6.jpg",
+				"phaseid": "003",
 				"sortid": "047"
 			},
 			{
 				"title": "Hellions",
 				"date": "2005-05-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc63a4d0d77f.jpg",
+				"phaseid": "003",
 				"sortid": "048"
 			},
 			{
 				"title": "Posed",
 				"date": "2005-04-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/5702ad5a51bef.jpg",
+				"phaseid": "003",
 				"sortid": "049"
 			},
 			{
 				"title": "New Avengers",
 				"date": "2005-04-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/57f7ac2fdbf24.jpg",
+				"phaseid": "003",
 				"sortid": "050"
 			},
 			{
 				"title": "Wild Kingdom",
 				"date": "2005-09-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bc6241c423ec.jpg",
+				"phaseid": "003",
 				"sortid": "051"
 			},
 			{
 				"title": "Bloodline",
 				"date": "2005-09-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/56a79296c1daf.jpg",
+				"phaseid": "003",
 				"sortid": "052"
 			},
 			{
 				"title": "Wild Blue Yonder",
 				"date": "2005-04-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/57ae4908f3f8f.jpg",
+				"phaseid": "003",
 				"sortid": "053"
 			},
 			{
 				"title": "One Step Forward",
 				"date": "2004-11-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc6b22116c9f.jpg",
+				"phaseid": "003",
 				"sortid": "054"
 			}
 		]
 	},
 	{
-		"phase": {
+		"namable": {
 			"id": "004",
 			"name": "House of M"
 		},
@@ -879,114 +1020,132 @@
 				"title": "House of M",
 				"date": "2005-06-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51cc4da1a7058.jpg",
+				"phaseid": "004",
 				"sortid": "001"
 			},
 			{
 				"title": "Fantastic Four House of M",
 				"date": "2005-06-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/535190892db5e.jpg",
+				"phaseid": "004",
 				"sortid": "002"
 			},
 			{
 				"title": "Spider-Man House of M",
 				"date": "2005-06-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bb86d0cf217b.jpg",
+				"phaseid": "004",
 				"sortid": "003"
 			},
 			{
 				"title": "Iron-Man House of M",
 				"date": "2005-07-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bc62ce032575.jpg",
+				"phaseid": "004",
 				"sortid": "004"
 			},
 			{
 				"title": "House of M Incredible Hulk",
 				"date": "2005-07-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc62c46bdb85.jpg",
+				"phaseid": "004",
 				"sortid": "005"
 			},
 			{
 				"title": "Mutopia X",
 				"date": "2005-07-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bc62d059e115.jpg",
+				"phaseid": "004",
 				"sortid": "006"
 			},
 			{
 				"title": "House of M The Pulse",
 				"date": "2005-07-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5653544c5e3bf.jpg",
+				"phaseid": "004",
 				"sortid": "007"
 			},
 			{
 				"title": "House of M Black Panther",
 				"date": "2005-08-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5745bcc5d2777.jpg",
+				"phaseid": "004",
 				"sortid": "008"
 			},
 			{
 				"title": "House of M Captain America",
 				"date": "2005-10-01",
 				"pic": "https://i.annihil.us/u/prod/marvel/i/mg/c/10/4d24fef511cb5/detail.jpg",
+				"phaseid": "004",
 				"sortid": "009"
 			},
 			{
 				"title": "House of M Wolverine",
 				"date": "2005-09-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4d24f6a19cd02.jpg",
+				"phaseid": "004",
 				"sortid": "010"
 			},
 			{
 				"title": "House of M Uncanny X-Men",
 				"date": "2005-07-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc6305a2b7c6.jpg",
+				"phaseid": "004",
 				"sortid": "011"
 			},
 			{
 				"title": "House of M New X-Men",
 				"date": "2005-07-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/5702aba9be7c9.jpg",
+				"phaseid": "004",
 				"sortid": "012"
 			},
 			{
 				"title": "Moment of Clarity",
 				"date": "2006-02-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4bc5fead6c4b9.jpg",
+				"phaseid": "004",
 				"sortid": "013"
 			},
 			{
 				"title": "House of M Avengers",
 				"date": "2007-11-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc38f75c2352.jpg",
+				"phaseid": "004",
 				"sortid": "014"
 			},
 			{
 				"title": "House of M Masters of Evil",
 				"date": "2009-08-05",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4bb41515a6cca.jpg",
+				"phaseid": "004",
 				"sortid": "015"
 			},
 			{
 				"title": "House of M Civil War",
 				"date": "2008-09-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/572a3dd32a736.jpg",
+				"phaseid": "004",
 				"sortid": "016"
 			},
 			{
 				"title": "The Human Race",
 				"date": "2005-03-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/56e1d6714e720.jpg",
+				"phaseid": "004",
 				"sortid": "017"
 			},
 			{
 				"title": "Modern Marvels",
 				"date": "2005-04-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bc63e88d2b61.jpg",
+				"phaseid": "004",
 				"sortid": "018"
 			}
 		]
 	},
 	{
-		"phase": {
+		"namable": {
 			"id": "005",
 			"name": "Decimation"
 		},
@@ -995,388 +1154,494 @@
 				"title": "The Day After",
 				"date": "2005-11-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4bc6175373f29.jpg",
+				"phaseid": "005",
 				"sortid": "001"
 			},
 			{
 				"title": "Tin Can Heroes",
 				"date": "2006-01-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc607a8c9207.jpg",
+				"phaseid": "005",
 				"sortid": "002"
 			},
 			{
 				"title": "House Arrest",
 				"date": "2005-11-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc612b84e389.jpg",
+				"phaseid": "005",
 				"sortid": "003"
 			},
 			{
 				"title": "Childhood's End",
 				"date": "2005-11-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5702ae23cbb93.jpg",
+				"phaseid": "005",
 				"sortid": "004"
 			},
 			{
 				"title": "Blind love",
 				"date": "2006-02-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/568414810a6fc.jpg",
+				"phaseid": "005",
 				"sortid": "005"
 			},
 			{
 				"title": "Son of M",
 				"date": "2005-12-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc60cf09a1ff.jpg",
+				"phaseid": "005",
 				"sortid": "006"
 			},
 			{
 				"title": "The 198",
 				"date": "2006-01-11",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/56f5af6850606.jpg",
+				"phaseid": "005",
 				"sortid": "007"
 			},
 			{
 				"title": "Generation M",
 				"date": "2006-01-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bb862b2a3046.jpg",
+				"phaseid": "005",
 				"sortid": "008"
 			},
 			{
 				"title": "The Longest Night",
 				"date": "2005-12-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4bc616260515b.jpg",
+				"phaseid": "005",
 				"sortid": "009"
 			},
 			{
 				"title": "Deadly Genesis",
 				"date": "2005-11-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/570293252a4f3.jpg",
+				"phaseid": "005",
 				"sortid": "010"
 			},
 			{
 				"title": "Endangered Spicies",
 				"date": "2007-06-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/56f953a644953.jpg",
+				"phaseid": "005",
 				"sortid": "011"
 			},
 			{
 				"title": "Ronin",
 				"date": "2005-09-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4f7e00708ff3f.jpg",
+				"phaseid": "005",
 				"sortid": "012"
 			},
 			{
 				"title": "Choices",
 				"date": "2005-07-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc62c329dd17.jpg",
+				"phaseid": "005",
 				"sortid": "013"
 			},
 			{
 				"title": "Secret and Lies",
 				"date": "2005-12-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4f7e037894ea0.jpg",
+				"phaseid": "005",
 				"sortid": "014"
 			},
 			{
 				"title": "True Believers",
 				"date": "2005-02-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/515af88eac9f4.jpg",
+				"phaseid": "005",
 				"sortid": "015"
 			},
 			{
 				"title": "Escape to New York",
 				"date": "2005-08-31",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/5796669d84c2f.jpg",
+				"phaseid": "005",
 				"sortid": "016"
 			},
 			{
 				"title": "God of War",
 				"date": "2006-01-11",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/55f1ec17724da.jpg",
+				"phaseid": "005",
 				"sortid": "017"
 			},
 			{
 				"title": "In The Beginning",
 				"date": "2005-01-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/56cdce9df30ab.jpg",
+				"phaseid": "005",
 				"sortid": "018"
 			},
 			{
 				"title": "Night of the Hunter",
 				"date": "2005-07-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/56ddd93d7eadc.jpg",
+				"phaseid": "005",
 				"sortid": "019"
 			},
 			{
 				"title": "Extremis",
 				"date": "2004-11-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4f7f0a8fb8c03.jpg",
+				"phaseid": "005",
 				"sortid": "020"
 			},
 			{
 				"title": "Earthfall",
 				"date": "2005-09-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc61f37ead85.jpg",
+				"phaseid": "005",
 				"sortid": "021"
 			},
 			{
 				"title": "The Devil You Know",
 				"date": "2005-04-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4bc63e7eead78.jpg",
+				"phaseid": "005",
 				"sortid": "022"
 			},
 			{
 				"title": "Right of Power",
 				"date": "2005-10-05",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4bc61ed50025b.jpg",
+				"phaseid": "005",
 				"sortid": "023"
 			},
 			{
 				"title": "Right of Power II",
 				"date": "2006-04-12",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5744c91d5154a.jpg",
+				"phaseid": "005",
 				"sortid": "024"
 			},
 			{
 				"title": "Under the Eye of the Clock",
 				"date": "2005-09-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb71ef816b29.jpg",
+				"phaseid": "005",
 				"sortid": "025"
 			},
 			{
 				"title": "Winter Soldier",
 				"date": "2005-07-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/5140b932ac375.jpg",
+				"phaseid": "005",
 				"sortid": "026"
 			},
 			{
 				"title": "The Life Fantastic",
 				"date": "2005-05-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/57e976c50d591.jpg",
+				"phaseid": "005",
 				"sortid": "027"
 			},
 			{
 				"title": "Time trials",
 				"date": "2005-11-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/57630ae196881.jpg",
+				"phaseid": "005",
 				"sortid": "028"
 			},
 			{
 				"title": "Beaus and Eros",
 				"date": "2006-03-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/576442eb62b2a.jpg",
+				"phaseid": "005",
 				"sortid": "029"
 			},
 			{
 				"title": "The Other",
 				"date": "2005-10-12",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56a8ef914ba16.jpg",
+				"phaseid": "005",
 				"sortid": "030"
 			},
 			{
 				"title": "Target X",
 				"date": "2006-12-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/57460dd0baefd.jpg",
+				"phaseid": "005",
 				"sortid": "031"
 			},
 			{
 				"title": "The Oath",
 				"date": "2006-10-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/517ad22da11c8.jpg",
+				"phaseid": "005",
 				"sortid": "032"
 			},
 			{
 				"title": "The Murdock Papers",
 				"date": "2005-08-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/57470b733fd27.jpg",
+				"phaseid": "005",
 				"sortid": "033"
 			},
 			{
 				"title": "Peace in Our Time",
 				"date": "2005-11-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bc61ae126812.jpg",
+				"phaseid": "005",
 				"sortid": "034"
 			},
 			{
 				"title": "Four",
 				"date": "2006-03-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bc5fb6e401f0.jpg",
+				"phaseid": "005",
 				"sortid": "035"
 			},
 			{
 				"title": "End of Greys",
 				"date": "2005-11-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bc612a51f765.jpg",
+				"phaseid": "005",
 				"sortid": "036"
 			},
 			{
 				"title": "Origins \u0026 Endings",
 				"date": "2005-11-30",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4d24edc54a507.jpg",
+				"phaseid": "005",
 				"sortid": "037"
 			},
 			{
 				"title": "Born in Blood",
 				"date": "2006-04-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/51e06c1504154.jpg",
+				"phaseid": "005",
 				"sortid": "038"
 			},
 			{
 				"title": "Savior - Swift and Terrible",
 				"date": "2006-09-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4d24e4ce22f4e.jpg",
+				"phaseid": "005",
 				"sortid": "039"
 			},
 			{
 				"title": "Origin",
 				"date": "2005-12-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc60cf5e77e2.jpg",
+				"phaseid": "005",
 				"sortid": "040"
 			},
 			{
 				"title": "Bosom Buddies - Living Legends",
 				"date": "2005-09-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc47b4bb43fa.jpg",
+				"phaseid": "005",
 				"sortid": "041"
 			},
 			{
 				"title": "Reality Check",
 				"date": "2005-06-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/57cf34c4bf32f.jpg",
+				"phaseid": "005",
 				"sortid": "042"
 			},
 			{
 				"title": "Fear",
 				"date": "2005-09-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5653546c4c5b2.jpg",
+				"phaseid": "005",
 				"sortid": "043"
 			},
 			{
 				"title": "Red Menace",
 				"date": "2006-02-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/570bc887abd51.jpg",
+				"phaseid": "005",
 				"sortid": "044"
 			},
 			{
 				"title": "The Devil in Cell-Block D",
 				"date": "2006-02-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4d250ded85b05.jpg",
+				"phaseid": "005",
 				"sortid": "045"
 			},
 			{
 				"title": "Silver Rage",
 				"date": "2007-04-11",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc35532dff58.jpg",
+				"phaseid": "005",
 				"sortid": "046"
 			},
 			{
 				"title": "Feral",
 				"date": "2006-01-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc5fe75153ca.jpg",
+				"phaseid": "005",
 				"sortid": "047"
 			},
 			{
 				"title": "Bad Mutha",
 				"date": "2005-11-30",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/56dee9a3e4122.jpg",
+				"phaseid": "005",
 				"sortid": "048"
 			},
 			{
 				"title": "The Bride",
 				"date": "2006-03-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/5747190f12e97.jpg",
+				"phaseid": "005",
 				"sortid": "049"
 			},
 			{
 				"title": "First Foursaken",
 				"date": "2006-04-12",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bc5f4d10a19f.jpg",
+				"phaseid": "005",
 				"sortid": "050"
 			},
 			{
 				"title": "Derailed",
 				"date": "2006-03-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/56a8f02dc1ebb.jpg",
+				"phaseid": "005",
 				"sortid": "051"
 			},
 			{
 				"title": "Execute Program",
 				"date": "2006-04-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f8479d44fd50.jpg",
+				"phaseid": "005",
 				"sortid": "052"
 			},
 			{
 				"title": "The Collective",
 				"date": "2006-02-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/e0/5196646a80915.jpg",
+				"phaseid": "005",
 				"sortid": "053"
 			},
 			{
 				"title": "Happily Ever After",
 				"date": "2006-04-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/519647bac7745.jpg",
+				"phaseid": "005",
 				"sortid": "054"
 			},
 			{
 				"title": "Blood of Apocalypse",
 				"date": "2006-02-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/40/4bc601e40d04b.jpg",
+				"phaseid": "005",
 				"sortid": "055"
 			},
 			{
 				"title": "Two Meetings",
 				"date": "2006-05-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4bc5e6dd7b4d9.jpg",
+				"phaseid": "005",
 				"sortid": "056"
 			},
 			{
 				"title": "Rise and Fall of the Shi'ar Empire",
 				"date": "2006-07-05",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc5da58d73b0.jpg",
+				"phaseid": "005",
 				"sortid": "057"
 			},
 			{
 				"title": "The Bottom",
 				"date": "2006-04-05",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/51882298836ab.jpg",
+				"phaseid": "005",
 				"sortid": "058"
 			},
 			{
-				"title": "Annihilation",
+				"title": "Annihilation Prologue",
 				"date": "2006-03-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/57865227ac607.jpg",
+				"phaseid": "005",
 				"sortid": "059"
 			},
 			{
-				"title": "Best of the Best",
+				"title": "Annihilation Nova",
+				"date": "2006-04-19",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/578551ef6051b.jpg",
+				"phaseid": "005",
 				"sortid": "060"
+			},
+			{
+				"title": "Annihilation Super Skrull",
+				"date": "2006-04-12",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/578791d73a15a.jpg",
+				"phaseid": "005",
+				"sortid": "061"
+			},
+			{
+				"title": "Annihilation Silver Surfer",
+				"date": "2006-04-05",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/578671f120fd2.jpg",
+				"phaseid": "005",
+				"sortid": "062"
+			},
+			{
+				"title": "Annihilation Ronan",
+				"date": "2006-04-26",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/57864ff113f2e.jpg",
+				"phaseid": "005",
+				"sortid": "063"
+			},
+			{
+				"title": "Annihilation",
+				"date": "2006-08-09",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/51b61283075b2.jpg",
+				"phaseid": "005",
+				"sortid": "064"
+			},
+			{
+				"title": "Annihilation Herald of Galactus",
+				"date": "2007-02-28",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/51e407787996b.jpg",
+				"phaseid": "005",
+				"sortid": "065"
+			},
+			{
+				"title": "Best of the Best",
+				"phaseid": "005",
+				"sortid": "066"
 			},
 			{
 				"title": "Parental Guidance",
 				"date": "2006-02-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/515afa8707756.jpg",
-				"sortid": "061"
+				"phaseid": "005",
+				"sortid": "067"
 			},
 			{
 				"title": "The Hunter Revealed",
 				"date": "2006-03-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc5f840658e4.jpg",
-				"sortid": "062"
+				"phaseid": "005",
+				"sortid": "068"
 			},
 			{
 				"title": "Crusade",
 				"date": "2006-03-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/570294f9b5fe5.jpg",
-				"sortid": "063"
+				"phaseid": "005",
+				"sortid": "069"
 			},
 			{
 				"title": "Idol of Millions",
 				"date": "2005-11-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/578d1ff2b72cf.jpg",
-				"sortid": "064"
+				"phaseid": "005",
+				"sortid": "070"
 			}
 		]
 	},
 	{
-		"phase": {
+		"namable": {
 			"id": "006",
 			"name": "Civil War"
 		},
@@ -1385,514 +1650,599 @@
 				"title": "Mr Parker Goes to Washington",
 				"date": "2006-02-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4bc3291a4b067.jpg",
+				"phaseid": "006",
 				"sortid": "001"
 			},
 			{
 				"title": "Illuminati",
 				"date": "2006-03-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/55ba3e95d3a92.jpg",
+				"phaseid": "006",
 				"sortid": "002"
 			},
 			{
 				"title": "The Hammer falls",
 				"date": "2006-03-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc4790a6079b.jpg",
+				"phaseid": "006",
 				"sortid": "003"
 			},
 			{
 				"title": "Civil War",
+				"phaseid": "006",
 				"sortid": "004"
 			},
 			{
 				"title": "Civil Union",
 				"date": "2006-05-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/52619e005f08e.jpg",
+				"phaseid": "006",
 				"sortid": "005"
 			},
 			{
 				"title": "Vendetta",
 				"date": "2006-05-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/4d24f53902240.jpg",
+				"phaseid": "006",
 				"sortid": "006"
 			},
 			{
 				"title": "Colission Course",
 				"date": "2006-06-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc32fb49846d.jpg",
+				"phaseid": "006",
 				"sortid": "007"
 			},
 			{
 				"title": "Disassembled",
 				"date": "2006-06-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/571fbc2daae2d.jpg",
+				"phaseid": "006",
 				"sortid": "008"
 			},
 			{
 				"title": "Embedded",
 				"date": "2006-06-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/56f993e54beb5.jpg",
+				"phaseid": "006",
 				"sortid": "009"
 			},
 			{
 				"title": "The War At Home",
 				"date": "2006-05-31",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/56fd2b470c37c.jpg",
+				"phaseid": "006",
 				"sortid": "010"
 			},
 			{
 				"title": "Civil War",
 				"date": "2006-06-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/511307fb3f7bc.jpg",
+				"phaseid": "006",
 				"sortid": "011"
 			},
 			{
 				"title": "The War At Home",
 				"date": "2006-06-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/56fd2c41e38cf.jpg",
+				"phaseid": "006",
 				"sortid": "012"
 			},
 			{
 				"title": "Embedded",
 				"date": "2006-06-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/56f9947ca6dff.jpg",
+				"phaseid": "006",
 				"sortid": "013"
 			},
 			{
 				"title": "The Big Reveal",
 				"date": "2006-07-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bb6f73b87e5a.jpg",
+				"phaseid": "006",
 				"sortid": "014"
 			},
 			{
 				"title": "Civil War",
 				"date": "2006-06-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bc468d7b2c9d.jpg",
+				"phaseid": "006",
 				"sortid": "015"
 			},
 			{
 				"title": "Disassembled",
 				"date": "2006-07-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/571fbde825568.jpg",
+				"phaseid": "006",
 				"sortid": "016"
 			},
 			{
 				"title": "Peter Parker, Spider-Man",
 				"date": "2006-07-12",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bc5d7f10885e.jpg",
+				"phaseid": "006",
 				"sortid": "017"
 			},
 			{
 				"title": "Trust Issues",
 				"date": "2006-07-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/4bc5d7e61dacd.jpg",
+				"phaseid": "006",
 				"sortid": "018"
 			},
 			{
 				"title": "Mystery Date",
 				"date": "2006-08-02",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/56a8f2b5a9167.jpg",
+				"phaseid": "006",
 				"sortid": "019"
 			},
 			{
 				"title": "Embedded",
 				"date": "2006-07-12",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/56f994e554803.jpg",
+				"phaseid": "006",
 				"sortid": "020"
 			},
 			{
 				"title": "Taking It To the Streets",
 				"date": "2006-08-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/518821f4a2d6e.jpg",
+				"phaseid": "006",
 				"sortid": "021"
 			},
 			{
 				"title": "Young Avengers \u0026 Runaways",
 				"date": "2006-07-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5718ee6a84c6b.jpg",
+				"phaseid": "006",
 				"sortid": "022"
 			},
 			{
 				"title": "Civil War Thunderbolts",
 				"date": "2006-07-12",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc5da76d601f.jpg",
+				"phaseid": "006",
 				"sortid": "023"
 			},
 			{
 				"title": "Paved With Good Intentions",
 				"date": "2006-07-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/56e1e60d2c4b3.jpg",
+				"phaseid": "006",
 				"sortid": "024"
 			},
 			{
 				"title": "Civil War Fantastic Four",
 				"date": "2006-06-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/4bc330444c729.jpg",
+				"phaseid": "006",
 				"sortid": "025"
 			},
 			{
 				"title": "Nimrod",
 				"date": "2006-07-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/5702abe8df20d.jpg",
+				"phaseid": "006",
 				"sortid": "026"
 			},
 			{
 				"title": "Here Comes a Storm",
 				"date": "2006-07-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5744bfa7e3063.jpg",
+				"phaseid": "006",
 				"sortid": "027"
 			},
 			{
 				"title": "Embedded",
 				"date": "2006-07-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/90/56f99567b3185.jpg",
+				"phaseid": "006",
 				"sortid": "028"
 			},
 			{
 				"title": "World Tour",
 				"date": "2006-08-30",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5745f5f7ac425.jpg",
+				"phaseid": "006",
 				"sortid": "029"
 			},
 			{
 				"title": "Civil War Iron Man",
 				"date": "2006-11-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4d24fdc986281.jpg",
+				"phaseid": "006",
 				"sortid": "030"
 			},
 			{
 				"title": "World Tour",
 				"date": "2006-09-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/5746f87b2d3e4.jpg",
+				"phaseid": "006",
 				"sortid": "031"
 			},
 			{
 				"title": "Embedded",
 				"date": "2006-08-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/56f995d77612b.jpg",
+				"phaseid": "006",
 				"sortid": "032"
 			},
 			{
 				"title": "Peter Parker, Spider-Man",
 				"date": "2006-08-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc5cf95094e2.jpg",
+				"phaseid": "006",
 				"sortid": "033"
 			},
 			{
 				"title": "Civil War",
 				"date": "2006-07-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/5113089c2a2cd.jpg",
+				"phaseid": "006",
 				"sortid": "034"
 			},
 			{
 				"title": "Embedded",
 				"date": "2006-09-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/e0/56f99647e5d74.jpg",
+				"phaseid": "006",
 				"sortid": "035"
 			},
 			{
 				"title": "Paved With Good Intentions",
 				"date": "2006-08-30",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/5616a00059612.jpg",
+				"phaseid": "006",
 				"sortid": "036"
 			},
 			{
 				"title": "Vendetta",
 				"date": "2006-06-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4d251665ef060.jpg",
+				"phaseid": "006",
 				"sortid": "037"
 			},
 			{
 				"title": "The Drums of War",
 				"date": "2006-09-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/80/56f98fae9d219.jpg",
+				"phaseid": "006",
 				"sortid": "038"
 			},
 			{
 				"title": "Embedded",
 				"date": "2006-10-11",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/56f996f43b3e1.jpg",
+				"phaseid": "006",
 				"sortid": "039"
 			},
 			{
 				"title": "The War At Home",
 				"date": "2006-07-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/56fd2cd1d3111.jpg",
+				"phaseid": "006",
 				"sortid": "040"
 			},
 			{
 				"title": "Civil War Fantastic Four",
 				"date": "2006-08-02",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc3303f4fd32.jpg",
+				"phaseid": "006",
 				"sortid": "041"
 			},
 			{
 				"title": "Civil War Black Panther",
 				"date": "2006-10-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/c0/5746f9ef545f7.jpg",
+				"phaseid": "006",
 				"sortid": "042"
 			},
 			{
 				"title": "Civil War X-Men",
 				"date": "2006-07-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/570c0714801d5.jpg",
+				"phaseid": "006",
 				"sortid": "043"
 			},
 			{
 				"title": "Taking It To the Streets",
 				"date": "2006-09-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc5c68bc1e94.jpg",
+				"phaseid": "006",
 				"sortid": "044"
 			},
 			{
 				"title": "Battle Lines",
 				"date": "2006-08-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/576841c6b2b2e.jpg",
+				"phaseid": "006",
 				"sortid": "045"
 			},
 			{
 				"title": "Disassembled",
 				"date": "2006-08-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/571fc01eef200.jpg",
+				"phaseid": "006",
 				"sortid": "046"
 			},
 			{
 				"title": "The Return",
 				"date": "2007-01-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb8a3f765cb4.jpg",
+				"phaseid": "006",
 				"sortid": "047"
 			},
 			{
 				"title": "Casualties of War",
 				"date": "2006-12-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4f883c72b840a.jpg",
+				"phaseid": "006",
 				"sortid": "048"
 			},
 			{
 				"title": "Vendetta",
 				"date": "2006-09-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4d250e7c28711.jpg",
+				"phaseid": "006",
 				"sortid": "049"
 			},
 			{
 				"title": "War Crimes",
 				"date": "2006-12-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/56fd34d40df79.jpg",
+				"phaseid": "006",
 				"sortid": "050"
 			},
 			{
 				"title": "The Drums of War",
 				"date": "2006-11-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/e0/56f990d564e99.jpg",
+				"phaseid": "006",
 				"sortid": "051"
 			},
 			{
 				"title": "Embedded",
 				"date": "2006-11-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/56f99773db35b.jpg",
+				"phaseid": "006",
 				"sortid": "052"
 			},
 			{
 				"title": "Vendetta",
 				"date": "2006-11-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/51ed693cecfd1.jpg",
+				"phaseid": "006",
 				"sortid": "053"
 			},
 			{
 				"title": "Civil War Fantastic Four",
 				"date": "2006-10-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/4bc331618a925.jpg",
+				"phaseid": "006",
 				"sortid": "054"
 			},
 			{
 				"title": "The War At Home",
 				"date": "2006-09-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/56fd2d63d8964.jpg",
+				"phaseid": "006",
 				"sortid": "055"
 			},
 			{
 				"title": "Civil War",
 				"date": "2006-11-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/511309057cd07.jpg",
+				"phaseid": "006",
 				"sortid": "056"
 			},
 			{
 				"title": "War Journal",
 				"date": "2006-11-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/571e37d922c17.jpg",
+				"phaseid": "006",
 				"sortid": "057"
 			},
 			{
 				"title": "Civil War",
 				"date": "2006-12-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4d24e6414cccc.jpg",
+				"phaseid": "006",
 				"sortid": "058"
 			},
 			{
 				"title": "War Crimes",
 				"date": "2006-12-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/4f75b93fa96bd.jpg",
+				"phaseid": "006",
 				"sortid": "059"
 			},
 			{
 				"title": "Embedded",
 				"date": "2006-12-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/b0/56f9980168fdf.jpg",
+				"phaseid": "006",
 				"sortid": "060"
 			},
 			{
 				"title": "The War At Home",
 				"date": "2006-11-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/56fd2e0e0eca3.jpg",
+				"phaseid": "006",
 				"sortid": "061"
 			},
 			{
 				"title": "Midnight Sun",
 				"date": "2007-01-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4bc5b9f618fad.jpg",
+				"phaseid": "006",
 				"sortid": "062"
 			},
 			{
 				"title": "Civil War Fantastic Four",
 				"date": "2007-01-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/4d251917128e3.jpg",
+				"phaseid": "006",
 				"sortid": "063"
 			},
 			{
 				"title": "Civil War Iron Man",
 				"date": "2006-12-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4d2525b096dec.jpg",
+				"phaseid": "006",
 				"sortid": "064"
 			},
 			{
 				"title": "Mystery Date",
 				"date": "2006-11-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/56a8f3a040fa8.jpg",
+				"phaseid": "006",
 				"sortid": "065"
 			},
 			{
 				"title": "Peter Parker, Spider-Man",
 				"date": "2006-11-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc5be2bd439c.jpg",
+				"phaseid": "006",
 				"sortid": "066"
 			},
 			{
 				"title": "Winter Kills",
 				"date": "2006-12-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/5721077c60c05.jpg",
+				"phaseid": "006",
 				"sortid": "067"
 			},
 			{
 				"title": "The War At Home",
 				"date": "2007-01-03",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/52c5d83eb25d6.jpg",
+				"phaseid": "006",
 				"sortid": "068"
 			},
 			{
 				"title": "War Crimes",
 				"date": "2007-01-31",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/56fd3566ca2d8.jpg",
+				"phaseid": "006",
 				"sortid": "069"
 			},
 			{
 				"title": "War Journal",
 				"date": "2007-01-03",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/571e3e68b263a.jpg",
+				"phaseid": "006",
 				"sortid": "070"
 			},
 			{
 				"title": "Civil War",
 				"date": "2007-01-03",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/51130945d1273.jpg",
+				"phaseid": "006",
 				"sortid": "071"
 			},
 			{
 				"title": "War Journal",
 				"date": "2007-01-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/571e3f899a117.jpg",
+				"phaseid": "006",
 				"sortid": "072"
 			},
 			{
 				"title": "Disassembled",
 				"date": "2006-11-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/571fc2eaf2796.jpg",
+				"phaseid": "006",
 				"sortid": "073"
 			},
 			{
 				"title": "Embedded",
 				"date": "2007-01-03",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/56f9989940985.jpg",
+				"phaseid": "006",
 				"sortid": "074"
 			},
 			{
 				"title": "Civil War",
 				"date": "2007-02-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/511309c4e9172.jpg",
+				"phaseid": "006",
 				"sortid": "075"
 			},
 			{
 				"title": "War Crimes",
 				"date": "2007-02-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/56fd3660d6c5c.jpg",
+				"phaseid": "006",
 				"sortid": "076"
 			},
 			{
 				"title": "The War At Home",
 				"date": "2007-02-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/56fd2f680a2fd.jpg",
+				"phaseid": "006",
 				"sortid": "077"
 			},
 			{
 				"title": "Civil War",
 				"date": "2007-03-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4d24ef9b6a998.jpg",
+				"phaseid": "006",
 				"sortid": "078"
 			},
 			{
 				"title": "Embedded",
 				"date": "2007-02-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/56f9990826c04.jpg",
+				"phaseid": "006",
 				"sortid": "079"
 			},
 			{
 				"title": "War Journal",
 				"date": "2007-02-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/571e40dea4abf.jpg",
+				"phaseid": "006",
 				"sortid": "080"
 			},
 			{
 				"title": "The Guardian Protocols",
 				"date": "2006-09-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc32e77c95ab.jpg",
+				"phaseid": "006",
 				"sortid": "081"
 			},
 			{
 				"title": "The Death of the Dream",
 				"date": "2007-03-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/55b9488ef2727.jpg",
+				"phaseid": "006",
 				"sortid": "082"
 			},
 			{
 				"title": "Fallen Son",
 				"date": "2007-04-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bc3584ddeea7.jpg",
+				"phaseid": "006",
 				"sortid": "083"
 			},
 			{
 				"title": "The Initiative",
 				"date": "2007-03-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/55b9474f57b80.jpg",
+				"phaseid": "006",
 				"sortid": "084"
 			},
 			{
 				"title": "The Confession",
 				"date": "2007-05-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/4bb877eed45f5.jpg",
+				"phaseid": "006",
 				"sortid": "085"
 			}
 		]
 	},
 	{
-		"phase": {
+		"namable": {
 			"id": "007",
 			"name": "Initiative"
 		},
@@ -1901,1034 +2251,1241 @@
 				"title": "I Married a Wolfman",
 				"date": "2006-08-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/b0/5764427d17524.jpg",
+				"phaseid": "007",
 				"sortid": "001"
 			},
 			{
 				"title": "Doppelganger",
 				"date": "2006-11-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5768447a27b3d.jpg",
+				"phaseid": "007",
 				"sortid": "002"
 			},
 			{
 				"title": "Midnight Sun",
 				"date": "2007-06-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bacf651089a6.jpg",
+				"phaseid": "007",
 				"sortid": "003"
 			},
 			{
 				"title": "Back in Black",
 				"date": "2007-03-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/56cdec49c98c9.jpg",
+				"phaseid": "007",
 				"sortid": "004"
 			},
 			{
 				"title": "Back in Black II",
 				"date": "2007-02-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/4bb898ea58e07.jpg",
+				"phaseid": "007",
 				"sortid": "005"
 			},
 			{
 				"title": "Back in Black III",
 				"date": "2007-02-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc5a6ee730cd.jpg",
+				"phaseid": "007",
 				"sortid": "006"
 			},
 			{
 				"title": "The Devil Inside and Out",
 				"date": "2006-08-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/572d1095b1de2.jpg",
+				"phaseid": "007",
 				"sortid": "007"
 			},
 			{
 				"title": "Planet Hulk Exile",
 				"date": "2006-02-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4f6a2316f20a4.jpg",
+				"phaseid": "007",
 				"sortid": "008"
 			},
 			{
 				"title": "Planet Hulk Anarchy",
 				"date": "2006-06-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/55b2458c0ebc7.jpg",
+				"phaseid": "007",
 				"sortid": "009"
 			},
 			{
 				"title": "Planet Hulk Allegiance",
 				"date": "2006-11-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4d24f491cecd7.jpg",
+				"phaseid": "007",
 				"sortid": "010"
 			},
 			{
 				"title": "Planet Hulk Armageddon",
 				"date": "2007-03-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4d24ebd7d087e.jpg",
+				"phaseid": "007",
 				"sortid": "011"
 			},
 			{
 				"title": "Director of SHIELD",
 				"date": "2007-04-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bb4135ee97ca.jpg",
+				"phaseid": "007",
 				"sortid": "012"
 			},
 			{
 				"title": "Binaria",
 				"date": "2007-01-31",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bc5ad6633da4.jpg",
+				"phaseid": "007",
 				"sortid": "013"
 			},
 			{
 				"title": "Wandering Gods",
 				"date": "2007-07-05",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4d24fa66df783.jpg",
+				"phaseid": "007",
 				"sortid": "014"
 			},
 			{
 				"title": "Thunder Days",
 				"date": "2008-03-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4d2507118af94.jpg",
+				"phaseid": "007",
 				"sortid": "015"
 			},
 			{
 				"title": "Revolution",
 				"date": "2007-06-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/4bc4956f4981f.jpg",
+				"phaseid": "007",
 				"sortid": "016"
 			},
 			{
 				"title": "Revolution New Avengers",
 				"date": "2006-12-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4f7effdc01f82.jpg",
+				"phaseid": "007",
 				"sortid": "017"
 			},
 			{
 				"title": "The Ultron Initiative",
 				"date": "2007-03-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4f7b2c8211fc3.jpg",
+				"phaseid": "007",
 				"sortid": "018"
 			},
 			{
 				"title": "Venom Bomb",
 				"date": "2008-01-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4d24f3d7dbe4d.jpg",
+				"phaseid": "007",
 				"sortid": "019"
 			},
 			{
 				"title": "The Trust",
 				"date": "2007-07-11",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/90/4f7efcd860779.jpg",
+				"phaseid": "007",
 				"sortid": "020"
 			},
 			{
 				"title": "The Trust II",
 				"date": "2008-01-30",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/519647dc9f36c.jpg",
+				"phaseid": "007",
 				"sortid": "021"
 			},
 			{
 				"title": "Basic Training",
 				"date": "2007-04-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/57a25305eeaa5.jpg",
+				"phaseid": "007",
 				"sortid": "022"
 			},
 			{
 				"title": "Faith in Monsters",
 				"date": "2007-01-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/5744c98191881.jpg",
+				"phaseid": "007",
 				"sortid": "023"
 			},
 			{
 				"title": "Caged Angels",
 				"date": "2007-08-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/5744cbe0c2ebf.jpg",
+				"phaseid": "007",
 				"sortid": "024"
 			},
 			{
 				"title": "Presents",
 				"date": "2008-01-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4bc33e511a5d4.jpg",
+				"phaseid": "007",
 				"sortid": "025"
 			},
 			{
 				"title": "The Death of the Dream",
 				"date": "2007-05-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f75ae9b534a4.jpg",
+				"phaseid": "007",
 				"sortid": "026"
 			},
 			{
 				"title": "The Burden of Dreams",
 				"date": "2007-10-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/570bce6467104.jpg",
+				"phaseid": "007",
 				"sortid": "027"
 			},
 			{
 				"title": "The Man who bought America",
 				"date": "2008-04-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/570bd4f634981.jpg",
+				"phaseid": "007",
 				"sortid": "028"
 			},
 			{
 				"title": "Goin' Out West",
 				"date": "2007-03-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc5a396b55c2.jpg",
+				"phaseid": "007",
 				"sortid": "029"
 			},
 			{
 				"title": "Low Life",
 				"date": "2006-10-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/517acfdbb7f0f.jpg",
+				"phaseid": "007",
 				"sortid": "030"
 			},
 			{
 				"title": "Small Minded",
 				"date": "2007-04-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/517ad0ec03128.jpg",
+				"phaseid": "007",
 				"sortid": "031"
 			},
 			{
 				"title": "Operation Lightning Storm",
 				"date": "2007-05-02",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/57684990ec04f.jpg",
+				"phaseid": "007",
 				"sortid": "032"
 			},
 			{
 				"title": "Monster Smash",
 				"date": "2007-11-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/57684d4e2584c.jpg",
+				"phaseid": "007",
 				"sortid": "033"
 			},
 			{
 				"title": "Live Fast",
 				"date": "2006-08-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/515afb9558fa9.jpg",
+				"phaseid": "007",
 				"sortid": "034"
 			},
 			{
 				"title": "Saga",
 				"date": "2007-03-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/4bc5a3d0f1e3c.jpg",
+				"phaseid": "007",
 				"sortid": "035"
 			},
 			{
 				"title": "Dead End Kids",
 				"date": "2007-04-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/515afdc9119cd.jpg",
+				"phaseid": "007",
 				"sortid": "036"
 			},
 			{
 				"title": "My Fair Superhero",
 				"date": "2006-12-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc5b824e6eb1.jpg",
+				"phaseid": "007",
 				"sortid": "037"
 			},
 			{
 				"title": "Mercury Falling",
 				"date": "2006-12-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5702ac348389a.jpg",
+				"phaseid": "007",
 				"sortid": "038"
 			},
 			{
 				"title": "Quest for Magik",
 				"date": "2007-04-11",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5702b03ec85d9.jpg",
+				"phaseid": "007",
 				"sortid": "039"
 			},
 			{
 				"title": "Agents of Atlas",
 				"date": "2006-08-02",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/56b216e07bc79.jpg",
+				"phaseid": "007",
 				"sortid": "040"
 			},
 			{
 				"title": "What Happened to Daughter of Spider-Man",
 				"date": "2006-10-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/56d7050698f72.jpg",
+				"phaseid": "007",
 				"sortid": "041"
 			},
 			{
 				"title": "Comes the Carnage",
 				"date": "2007-04-11",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/56d70754b284f.jpg",
+				"phaseid": "007",
 				"sortid": "042"
 			},
 			{
 				"title": "Mind Games",
 				"date": "2007-10-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/56d709d1d03f6.jpg",
+				"phaseid": "007",
 				"sortid": "043"
 			},
 			{
 				"title": "Brand New May",
 				"date": "2008-04-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/56d70c4639d54.jpg",
+				"phaseid": "007",
 				"sortid": "044"
 			},
 			{
 				"title": "Reign",
 				"date": "2006-12-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/4bc5b8699bc8d.jpg",
+				"phaseid": "007",
 				"sortid": "045"
 			},
 			{
 				"title": "Supernovas",
 				"date": "2006-07-12",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4bb6637c0296e.jpg",
+				"phaseid": "007",
 				"sortid": "046"
 			},
 			{
 				"title": "Paved With Intentions - Separation Anxiety",
 				"date": "2007-01-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/56e1ea3826126.jpg",
+				"phaseid": "007",
 				"sortid": "047"
 			},
 			{
 				"title": "Deadpool vs. The Marvel Universe",
 				"date": "2007-07-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/56e2d4ea4afe4.jpg",
+				"phaseid": "007",
 				"sortid": "048"
 			},
 			{
 				"title": "Planet Without a Hulk",
 				"date": "2007-01-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/80/5764446d97e4f.jpg",
+				"phaseid": "007",
 				"sortid": "049"
 			},
 			{
 				"title": "God \u0026 Country",
 				"date": "2007-10-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc3926b4bcf1.jpg",
+				"phaseid": "007",
 				"sortid": "050"
 			},
 			{
 				"title": "The Death of Marc Spector",
 				"date": "2008-07-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bb797a02c98f.jpg",
+				"phaseid": "007",
 				"sortid": "051"
 			},
 			{
 				"title": "Our War",
 				"date": "2007-07-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/30/4bc444303b40a.jpg",
+				"phaseid": "007",
 				"sortid": "052"
 			},
 			{
 				"title": "Evolution",
 				"date": "2007-01-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/51ed698018786.jpg",
+				"phaseid": "007",
 				"sortid": "053"
 			},
 			{
 				"title": "The Death of Wolverine",
 				"date": "2007-08-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4d25183f5d9a6.jpg",
+				"phaseid": "007",
 				"sortid": "054"
 			},
 			{
 				"title": "Phoenix Warsong",
 				"date": "2006-09-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc5cc1c59a5c.jpg",
+				"phaseid": "007",
 				"sortid": "055"
 			},
 			{
 				"title": "X'd out",
 				"date": "2006-08-30",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bc5d10973cda.jpg",
+				"phaseid": "007",
 				"sortid": "056"
 			},
 			{
 				"title": "Many Lives of Madrox",
 				"date": "2006-11-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc5b9d73a403.jpg",
+				"phaseid": "007",
 				"sortid": "057"
 			},
 			{
 				"title": "Heart of Ice",
 				"date": "2007-04-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4bc355a34c30a.jpg",
+				"phaseid": "007",
 				"sortid": "058"
 			},
 			{
 				"title": "Extremists",
 				"date": "2007-06-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bc4970ba6f59.jpg",
+				"phaseid": "007",
 				"sortid": "059"
 			},
 			{
 				"title": "Blinded by the Light",
+				"phaseid": "007",
 				"sortid": "060"
 			},
 			{
 				"title": "Torn",
 				"date": "2006-02-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/56ddf34a30ada.jpg",
+				"phaseid": "007",
 				"sortid": "061"
 			},
 			{
 				"title": "Unstoppable",
 				"date": "2006-12-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc5bcaf41955.jpg",
+				"phaseid": "007",
 				"sortid": "062"
 			},
 			{
 				"title": "Gone",
 				"date": "2008-05-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4f7afeea5a6a3.jpg",
+				"phaseid": "007",
 				"sortid": "063"
 			},
 			{
 				"title": "Ahead The Curve",
 				"date": "2006-11-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bc5b9d21ab6e.jpg",
+				"phaseid": "007",
 				"sortid": "064"
 			},
 			{
 				"title": "The New Fantastic Four",
 				"date": "2007-03-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4d24fb0441860.jpg",
+				"phaseid": "007",
 				"sortid": "065"
 			},
 			{
 				"title": "Summer Fun",
 				"date": "2007-06-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bb8638fbc04d.jpg",
+				"phaseid": "007",
 				"sortid": "066"
 			},
 			{
 				"title": "Defiant",
 				"date": "2007-06-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bc496f0d9480.jpg",
+				"phaseid": "007",
 				"sortid": "067"
 			},
 			{
 				"title": "Thrashed",
 				"date": "2007-12-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/70/4bc38ab223116.jpg",
+				"phaseid": "007",
 				"sortid": "068"
 			},
 			{
 				"title": "Four the Hard Way",
 				"date": "2007-03-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/5746fe22b8054.jpg",
+				"phaseid": "007",
 				"sortid": "069"
 			},
 			{
 				"title": "Little Green Men",
 				"date": "2007-10-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/a0/574704676a217.jpg",
+				"phaseid": "007",
 				"sortid": "070"
 			},
 			{
 				"title": "The New Fantastic Four",
 				"date": "2007-06-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/57e977d50f63a.jpg",
+				"phaseid": "007",
 				"sortid": "071"
 			},
 			{
 				"title": "The Beginning of the End",
 				"date": "2007-11-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/57e9737ed5b58.jpg",
+				"phaseid": "007",
 				"sortid": "072"
 			},
 			{
 				"title": "Silent War",
 				"date": "2007-01-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/5351924a683f7.jpg",
+				"phaseid": "007",
 				"sortid": "073"
 			},
 			{
 				"title": "Warbound",
 				"date": "2007-05-02",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/516320485c126.jpg",
+				"phaseid": "007",
 				"sortid": "074"
 			},
 			{
 				"title": "Worldbreaker",
 				"date": "2007-05-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/00/4f6a200da01bd.jpg",
+				"phaseid": "007",
 				"sortid": "075"
 			},
 			{
 				"title": "World War Hulk",
 				"date": "2007-06-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/4f674b7218168.jpg",
+				"phaseid": "007",
 				"sortid": "076"
 			},
 			{
 				"title": "World War Hulk Iron Man",
 				"date": "2007-06-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4f6a213acf4e6.jpg",
+				"phaseid": "007",
 				"sortid": "077"
 			},
 			{
 				"title": "Warbound",
 				"date": "2007-06-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4f6782b54a1d4.jpg",
+				"phaseid": "007",
 				"sortid": "078"
 			},
 			{
 				"title": "Embedded",
 				"date": "2007-06-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/4f675a190625d.jpg",
+				"phaseid": "007",
 				"sortid": "079"
 			},
 			{
 				"title": "World War Hulk X-Men",
 				"date": "2007-06-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/a0/4f677855a7980.jpg",
+				"phaseid": "007",
 				"sortid": "080"
 			},
 			{
 				"title": "World War Hulk Ant-Man",
 				"date": "2007-07-05",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4f6a1df116019.jpg",
+				"phaseid": "007",
 				"sortid": "081"
 			},
 			{
 				"title": "Gamma Corps",
 				"date": "2007-07-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4f6770378a40e.jpg",
+				"phaseid": "007",
 				"sortid": "082"
 			},
 			{
 				"title": "World War Hulk",
 				"date": "2007-07-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f674bf82d748.jpg",
+				"phaseid": "007",
 				"sortid": "083"
 			},
 			{
 				"title": "Embedded",
 				"date": "2007-07-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4f675bafd5b49.jpg",
+				"phaseid": "007",
 				"sortid": "084"
 			},
 			{
 				"title": "Green Zone",
 				"date": "2007-07-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4e8f5b14eab36.jpg",
+				"phaseid": "007",
 				"sortid": "085"
 			},
 			{
 				"title": "World War Hulk X-Men",
 				"date": "2007-07-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f6778e73c61e.jpg",
+				"phaseid": "007",
 				"sortid": "086"
 			},
 			{
 				"title": "World War Hulk Heroes for Hire",
 				"date": "2007-06-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/51631bd7b7cee.jpg",
+				"phaseid": "007",
 				"sortid": "087"
 			},
 			{
 				"title": "World War Hulk Iron Man",
 				"date": "2007-07-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4d2504af3c929.jpg",
+				"phaseid": "007",
 				"sortid": "088"
 			},
 			{
 				"title": "Warbound",
 				"date": "2007-07-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/51632057add32.jpg",
+				"phaseid": "007",
 				"sortid": "089"
 			},
 			{
 				"title": "World War Hulk",
 				"date": "2007-08-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f674e1b5b09e.jpg",
+				"phaseid": "007",
 				"sortid": "090"
 			},
 			{
 				"title": "Embedded",
 				"date": "2007-08-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4f675c3c59272.jpg",
+				"phaseid": "007",
 				"sortid": "091"
 			},
 			{
 				"title": "Warbound",
 				"date": "2007-08-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4f67834d223b4.jpg",
+				"phaseid": "007",
 				"sortid": "092"
 			},
 			{
 				"title": "Gamma Corps",
 				"date": "2007-08-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4f677086b3f2b.jpg",
+				"phaseid": "007",
 				"sortid": "093"
 			},
 			{
 				"title": "World War Hulk X-Men",
 				"date": "2007-08-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/4f677947ce43f.jpg",
+				"phaseid": "007",
 				"sortid": "094"
 			},
 			{
 				"title": "Green Zone",
 				"date": "2007-08-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4e8f5d2a5a839.jpg",
+				"phaseid": "007",
 				"sortid": "095"
 			},
 			{
 				"title": "Warbound",
 				"date": "2007-09-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/5163205c77f6a.jpg",
+				"phaseid": "007",
 				"sortid": "096"
 			},
 			{
 				"title": "World War Hulk Heroes for Hire",
 				"date": "2007-09-12",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/51631be7d831b.jpg",
+				"phaseid": "007",
 				"sortid": "097"
 			},
 			{
 				"title": "Gamma Corps",
 				"date": "2007-09-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4f6770e636ae2.jpg",
+				"phaseid": "007",
 				"sortid": "098"
 			},
 			{
 				"title": "World War Hulk",
 				"date": "2007-09-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/4f674f3028099.jpg",
+				"phaseid": "007",
 				"sortid": "099"
 			},
 			{
 				"title": "Embedded",
 				"date": "2007-09-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/4f67652e9732d.jpg",
+				"phaseid": "007",
 				"sortid": "100"
 			},
 			{
 				"title": "World War Frank",
 				"date": "2007-10-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4f677b01083c2.jpg",
+				"phaseid": "007",
 				"sortid": "101"
 			},
 			{
 				"title": "World War Hulk Heroes for Hire",
 				"date": "2007-10-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/51631bf2909e3.jpg",
+				"phaseid": "007",
 				"sortid": "102"
 			},
 			{
 				"title": "Gamma Corps",
 				"date": "2007-11-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/4f6771460528a.jpg",
+				"phaseid": "007",
 				"sortid": "103"
 			},
 			{
 				"title": "Warbound",
 				"date": "2007-11-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f6751c9d77a5.jpg",
+				"phaseid": "007",
 				"sortid": "104"
 			},
 			{
 				"title": "World War Hulk",
 				"date": "2007-11-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/4f674f957277b.jpg",
+				"phaseid": "007",
 				"sortid": "105"
 			},
 			{
 				"title": "Embedded",
 				"date": "2007-11-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/4f6766166ef4a.jpg",
+				"phaseid": "007",
 				"sortid": "106"
 			},
 			{
 				"title": "After Smash",
 				"date": "2007-12-05",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/4f6756d455960.jpg",
+				"phaseid": "007",
 				"sortid": "107"
 			},
 			{
 				"title": "Damage Control",
 				"date": "2008-01-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/51631e8d52dbb.jpg",
+				"phaseid": "007",
 				"sortid": "108"
 			},
 			{
 				"title": "Against the World",
 				"date": "2007-12-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4d2505f525e11.jpg",
+				"phaseid": "007",
 				"sortid": "109"
 			},
 			{
 				"title": "Warbound",
 				"date": "2007-12-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/576af06fdf86d.jpg",
+				"phaseid": "007",
 				"sortid": "110"
 			},
 			{
 				"title": "Another me Another you",
 				"date": "2007-06-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/57644559ab51c.jpg",
+				"phaseid": "007",
 				"sortid": "111"
 			},
 			{
 				"title": "Red Hulk",
 				"date": "2008-01-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/519684406e84d.jpg",
+				"phaseid": "007",
 				"sortid": "112"
 			},
 			{
 				"title": "Red \u0026 Green",
 				"date": "2008-10-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/4f6733a852714.jpg",
+				"phaseid": "007",
 				"sortid": "113"
 			},
 			{
 				"title": "Messiah Complex",
 				"date": "2007-10-31",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/513a8972c747e.jpg",
+				"phaseid": "007",
 				"sortid": "114"
 			},
 			{
 				"title": "Haunted",
 				"date": "2007-11-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc38d8c91d03.jpg",
+				"phaseid": "007",
 				"sortid": "115"
 			},
 			{
 				"title": "With Iron Hands",
 				"date": "2008-05-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/51683b30b67cd.jpg",
+				"phaseid": "007",
 				"sortid": "116"
 			},
 			{
 				"title": "Persons of Interest",
 				"date": "2007-09-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/4e8f5ec99405d.jpg",
+				"phaseid": "007",
 				"sortid": "117"
 			},
 			{
 				"title": "Cancelled",
 				"date": "2007-08-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/517ad0d814915.jpg",
+				"phaseid": "007",
 				"sortid": "118"
 			},
 			{
 				"title": "Killed in Action",
 				"date": "2007-12-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4e8f61c4acb0a.jpg",
+				"phaseid": "007",
 				"sortid": "119"
 			},
 			{
 				"title": "Hunter Hunted",
 				"date": "2007-11-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc38f60c82fa.jpg",
+				"phaseid": "007",
 				"sortid": "120"
 			},
 			{
 				"title": "Jigsaw",
 				"date": "2008-04-02",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bb85ef421291.jpg",
+				"phaseid": "007",
 				"sortid": "121"
 			},
 			{
 				"title": "Jaded",
 				"date": "2007-10-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/57644482e3c25.jpg",
+				"phaseid": "007",
 				"sortid": "122"
 			},
 			{
 				"title": "Here Today",
 				"date": "2008-03-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/576445ab6f241.jpg",
+				"phaseid": "007",
 				"sortid": "123"
 			},
 			{
 				"title": "The Only Game in Town",
 				"date": "2008-02-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc3198ab1b82.jpg",
+				"phaseid": "007",
 				"sortid": "124"
 			},
 			{
 				"title": "Angels and Demons",
 				"date": "2008-02-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/30/5351455482888.jpg",
+				"phaseid": "007",
 				"sortid": "125"
 			},
 			{
 				"title": "Old Ghosts",
 				"date": "2008-09-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/80/5768479a528fc.jpg",
+				"phaseid": "007",
 				"sortid": "126"
 			},
 			{
 				"title": "Divided We Stand",
 				"date": "2008-02-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/40/4bc31a1074cd2.jpg",
+				"phaseid": "007",
 				"sortid": "127"
 			},
 			{
 				"title": "Divided He Stands",
 				"date": "2008-02-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/51a4dd1fe56ea.jpg",
+				"phaseid": "007",
 				"sortid": "128"
 			},
 			{
 				"title": "Sins of the Father",
 				"date": "2008-05-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51a4dd19ba351.jpg",
+				"phaseid": "007",
 				"sortid": "129"
 			},
 			{
 				"title": "Manifest Destiny",
 				"date": "2008-07-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/513f4b8517c45.jpg",
+				"phaseid": "007",
 				"sortid": "130"
 			},
 			{
 				"title": "Manifest Destiny II",
 				"date": "2008-10-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bb6cd58b62da.jpg",
+				"phaseid": "007",
 				"sortid": "131"
 			},
 			{
 				"title": "Manifest Destiny III",
 				"date": "2008-09-03",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb7169d9ae05.jpg",
+				"phaseid": "007",
 				"sortid": "132"
 			},
 			{
 				"title": "Manifest Destiny IV",
 				"date": "2008-08-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/51a4ddc2e991e.jpg",
+				"phaseid": "007",
 				"sortid": "133"
 			},
 			{
 				"title": "Manifest Destiny V",
+				"phaseid": "007",
 				"sortid": "134"
 			},
 			{
 				"title": "Lovelorn",
 				"date": "2008-11-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/513f4bb89993e.jpg",
+				"phaseid": "007",
 				"sortid": "135"
 			},
 			{
 				"title": "Get Mystique",
 				"date": "2008-02-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4d24e04ccd743.jpg",
+				"phaseid": "007",
 				"sortid": "136"
 			},
 			{
 				"title": "Ghost Box",
 				"date": "2008-07-02",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/56e96101a74eb.jpg",
+				"phaseid": "007",
 				"sortid": "137"
 			},
 			{
 				"title": "Deadpool",
 				"date": "2008-01-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/51e07e31eac13.jpg",
+				"phaseid": "007",
 				"sortid": "138"
 			},
 			{
 				"title": "Original Sin",
 				"date": "2008-09-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4d24ec2d3a8cf.jpg",
+				"phaseid": "007",
 				"sortid": "139"
 			},
 			{
 				"title": "Messiah War",
 				"date": "2008-03-05",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/4ea17c010dfa6.jpg",
+				"phaseid": "007",
 				"sortid": "140"
 			},
 			{
 				"title": "Waiting for the End of the World",
 				"date": "2008-08-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4ea18b6d6855a.jpg",
+				"phaseid": "007",
 				"sortid": "141"
 			},
 			{
 				"title": "Wasteland Blues",
 				"date": "2009-02-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4ea0720a9f634.jpg",
+				"phaseid": "007",
 				"sortid": "142"
 			},
 			{
 				"title": "Hell to Pay",
 				"date": "2007-02-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bc5a8caae550.jpg",
+				"phaseid": "007",
 				"sortid": "143"
 			},
 			{
 				"title": "Without Fear",
 				"date": "2007-09-12",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/572d0ebfc1930.jpg",
+				"phaseid": "007",
 				"sortid": "144"
 			},
 			{
 				"title": "Cruel and Unusual",
 				"date": "2007-12-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4bb8685a53495.jpg",
+				"phaseid": "007",
 				"sortid": "145"
 			},
 			{
 				"title": "Lady Bullseye",
 				"date": "2008-09-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/572d13efaf36d.jpg",
+				"phaseid": "007",
 				"sortid": "146"
 			},
 			{
 				"title": "The Last Iron Fist Story",
 				"date": "2006-11-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/51b74b27bcefc.jpg",
+				"phaseid": "007",
 				"sortid": "147"
 			},
 			{
 				"title": "The Seven Capital Cities of Heaven",
 				"date": "2007-07-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/51b74c0c1d57e.jpg",
+				"phaseid": "007",
 				"sortid": "148"
 			},
 			{
 				"title": "The Book of Iron Fist",
 				"date": "2007-12-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/51b74e78ea8f5.jpg",
+				"phaseid": "007",
 				"sortid": "149"
 			},
 			{
 				"title": "The Mortal Iron Fist",
 				"date": "2008-07-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/57d0667b06c11.jpg",
+				"phaseid": "007",
 				"sortid": "150"
 			},
 			{
 				"title": "Escape from the Eight City",
 				"date": "2008-12-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/57d06622e4a21.jpg",
+				"phaseid": "007",
 				"sortid": "151"
 			},
 			{
 				"title": "Inmortal Weapons",
 				"date": "2009-07-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/57d0657c017b7.jpg",
+				"phaseid": "007",
 				"sortid": "152"
 			},
 			{
 				"title": "Spider-Man Family",
 				"date": "2007-02-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc5a6d9a0d46.jpg",
+				"phaseid": "007",
 				"sortid": "153"
 			},
 			{
 				"title": "Spider-Man Family II",
 				"date": "2007-08-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4bc39bec96c49.jpg",
+				"phaseid": "007",
 				"sortid": "154"
 			},
 			{
 				"title": "One More Day",
 				"date": "2007-09-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/574db7c359217.jpg",
+				"phaseid": "007",
 				"sortid": "155"
 			},
 			{
 				"title": "Brand New Day 0",
 				"date": "2008-01-30",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/4bc38bf8988d5.jpg",
+				"phaseid": "007",
 				"sortid": "156"
 			},
 			{
 				"title": "Brand New Day vol 1",
 				"date": "2008-01-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4d24e46ee23ad.jpg",
+				"phaseid": "007",
 				"sortid": "157"
 			},
 			{
 				"title": "Brand New Day vol 2",
 				"date": "2008-03-05",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4d24e54f2d37a.jpg",
+				"phaseid": "007",
 				"sortid": "158"
 			},
 			{
 				"title": "Brand New Day vol 3",
 				"date": "2008-05-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4d24ef1ce5687.jpg",
+				"phaseid": "007",
 				"sortid": "159"
 			},
 			{
 				"title": "Kraven's First Hunt",
 				"date": "2008-07-02",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/56d4a1336d932.jpg",
+				"phaseid": "007",
 				"sortid": "160"
 			},
 			{
 				"title": "New Ways to Die",
 				"date": "2008-08-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/56d474d57b251.jpg",
+				"phaseid": "007",
 				"sortid": "161"
 			},
 			{
 				"title": "Back to Africa",
 				"date": "2008-02-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bc316c80cda5.jpg",
+				"phaseid": "007",
 				"sortid": "162"
 			},
 			{
 				"title": "World's Greatest",
 				"date": "2008-02-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/57e977e7c0e45.jpg",
+				"phaseid": "007",
 				"sortid": "163"
 			},
 			{
 				"title": "The Initiative",
 				"date": "2007-06-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/566a0018c857d.jpg",
+				"phaseid": "007",
 				"sortid": "164"
 			},
 			{
-				"title": "Annihilation Conquest",
+				"title": "Annihilation Conquest Prologue",
 				"date": "2007-06-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/513a75867ca5d.jpg",
+				"phaseid": "007",
 				"sortid": "165"
+			},
+			{
+				"title": "Annihilation Conquest Quasar",
+				"date": "2007-07-18",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/51df02ba8e64e.jpg",
+				"phaseid": "007",
+				"sortid": "166"
+			},
+			{
+				"title": "Annihilation Conquest Star Lord",
+				"date": "2007-07-25",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/51df25c64725e.jpg",
+				"phaseid": "007",
+				"sortid": "167"
+			},
+			{
+				"title": "Annihilation Conquest Wraith",
+				"date": "2007-07-11",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51df15c67c6f5.jpg",
+				"phaseid": "007",
+				"sortid": "168"
+			},
+			{
+				"title": "Annihilation Conquest Nova",
+				"date": "2007-08-11",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/578e841c9535a.jpg",
+				"phaseid": "007",
+				"sortid": "169"
+			},
+			{
+				"title": "Annihilation Conquest",
+				"date": "2007-11-07",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4e8381b35e231.jpg",
+				"phaseid": "007",
+				"sortid": "170"
 			},
 			{
 				"title": "Legacy",
 				"date": "2008-05-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/517ad3738f6a1.jpg",
-				"sortid": "166"
+				"phaseid": "007",
+				"sortid": "171"
 			},
 			{
 				"title": "On the Last Day",
 				"date": "2008-05-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5151f2075ae76.jpg",
-				"sortid": "167"
+				"phaseid": "007",
+				"sortid": "172"
 			},
 			{
 				"title": "The Five Nightmares",
 				"date": "2008-05-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5176b0fc854c1.jpg",
-				"sortid": "168"
+				"phaseid": "007",
+				"sortid": "173"
 			},
 			{
 				"title": "Son of Hulk",
 				"date": "2008-06-11",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bb7c826b5dc7.jpg",
-				"sortid": "169"
+				"phaseid": "007",
+				"sortid": "174"
 			},
 			{
 				"title": "Emperor Vulcan",
 				"date": "2007-09-12",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc3978adfd4a.jpg",
-				"sortid": "170"
+				"phaseid": "007",
+				"sortid": "175"
 			},
 			{
 				"title": "Avengers / Invaders",
 				"date": "2008-05-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4f71b93bc1f6c.jpg",
-				"sortid": "171"
+				"phaseid": "007",
+				"sortid": "176"
 			},
 			{
 				"title": "Avengers / Invaders II",
 				"date": "2008-12-31",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/4f84716fb7fbe.jpg",
-				"sortid": "172"
+				"phaseid": "007",
+				"sortid": "177"
 			}
 		]
 	},
 	{
-		"phase": {
+		"namable": {
 			"id": "008",
 			"name": "Secret Invasion"
 		},
@@ -2937,766 +3494,893 @@
 				"title": "Illuminati",
 				"date": "2006-12-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/570e6223be57c.jpg",
+				"phaseid": "008",
 				"sortid": "001"
 			},
 			{
 				"title": "Secret Invasion Prologue",
 				"date": "2008-02-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/c0/4f7efa69e8864.jpg",
+				"phaseid": "008",
 				"sortid": "002"
 			},
 			{
 				"title": "Secret Invasion Captain Marvel",
 				"date": "2007-11-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/57e55371da372.jpg",
+				"phaseid": "008",
 				"sortid": "003"
 			},
 			{
 				"title": "Secret Invasion Ms Marvel",
 				"date": "2008-03-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5152058ae4fe6.jpg",
+				"phaseid": "008",
 				"sortid": "004"
 			},
 			{
 				"title": "Sacred Invasion",
 				"date": "2008-04-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/5152046570580.jpg",
+				"phaseid": "008",
 				"sortid": "005"
 			},
 			{
 				"title": "Secret Invasion Saga",
 				"date": "2008-03-05",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bb7ca409a1f5.jpg",
+				"phaseid": "008",
 				"sortid": "006"
 			},
 			{
 				"title": "Secret Invasion",
 				"date": "2008-04-02",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5151efbb93d76.jpg",
+				"phaseid": "008",
 				"sortid": "007"
 			},
 			{
 				"title": "The Awakening",
 				"date": "2008-04-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4d24eb19eb913.jpg",
+				"phaseid": "008",
 				"sortid": "008"
 			},
 			{
 				"title": "Secret Invasion New Avengers",
 				"date": "2008-04-30",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/4f7ef9839290a.jpg",
+				"phaseid": "008",
 				"sortid": "009"
 			},
 			{
 				"title": "Secret Invasion",
 				"date": "2008-05-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/5151efc9dd24e.jpg",
+				"phaseid": "008",
 				"sortid": "010"
 			},
 			{
 				"title": "Secret Invasion New Avengers",
 				"date": "2008-05-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4d250a9cc2fe6.jpg",
+				"phaseid": "008",
 				"sortid": "011"
 			},
 			{
 				"title": "The Guns of Avalon",
 				"date": "2008-05-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4d25162da13e4.jpg",
+				"phaseid": "008",
 				"sortid": "012"
 			},
 			{
 				"title": "Secret Invasion Fantastic Four",
 				"date": "2008-05-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c3660da6602b.jpg",
+				"phaseid": "008",
 				"sortid": "013"
 			},
 			{
 				"title": "Secret Invasion Mighty Avengers",
 				"date": "2008-05-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4d251a5d20343.jpg",
+				"phaseid": "008",
 				"sortid": "014"
 			},
 			{
 				"title": "Sacred Invasion",
 				"date": "2008-05-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/60/51520473d5944.jpg",
+				"phaseid": "008",
 				"sortid": "015"
 			},
 			{
 				"title": "Secret Invasion New Avengers",
 				"date": "2008-05-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/4f7ef8e6509d0.jpg",
+				"phaseid": "008",
 				"sortid": "016"
 			},
 			{
 				"title": "Secret Invasion",
 				"date": "2008-06-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/5151efd6b1a12.jpg",
+				"phaseid": "008",
 				"sortid": "017"
 			},
 			{
 				"title": "Who Do You Trust",
+				"phaseid": "008",
 				"sortid": "018"
 			},
 			{
 				"title": "The Guns of Avalon",
 				"date": "2008-06-11",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/51520265956ae.jpg",
+				"phaseid": "008",
 				"sortid": "019"
 			},
 			{
 				"title": "Secret Invasion Fantastic Four",
 				"date": "2008-06-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/4bb7c6bdb982c.jpg",
+				"phaseid": "008",
 				"sortid": "020"
 			},
 			{
 				"title": "Sacred Invasion",
 				"date": "2008-06-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/b0/5152048086586.jpg",
+				"phaseid": "008",
 				"sortid": "021"
 			},
 			{
 				"title": "Secret Invasion Runaways / Young Avengers",
 				"date": "2008-06-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5151f6dd708aa.jpg",
+				"phaseid": "008",
 				"sortid": "022"
 			},
 			{
 				"title": "Secret Invasion Avengers The Initiative",
 				"date": "2008-06-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/4e9492b596bde.jpg",
+				"phaseid": "008",
 				"sortid": "023"
 			},
 			{
 				"title": "Secret Invasion Mighty Avengers",
 				"date": "2008-06-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4d24fbde85c51.jpg",
+				"phaseid": "008",
 				"sortid": "024"
 			},
 			{
 				"title": "Battle of Manhattan",
 				"date": "2008-06-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/515205b278dab.jpg",
+				"phaseid": "008",
 				"sortid": "025"
 			},
 			{
 				"title": "Secret Invasion New Avengers",
 				"date": "2008-06-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4f7ef88b64a03.jpg",
+				"phaseid": "008",
 				"sortid": "026"
 			},
 			{
 				"title": "Secret Invasion Front Line",
 				"date": "2008-07-02",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5151f571134de.jpg",
+				"phaseid": "008",
 				"sortid": "027"
 			},
 			{
 				"title": "The Guns of Avalon",
 				"date": "2008-07-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/51520257b8d6c.jpg",
+				"phaseid": "008",
 				"sortid": "028"
 			},
 			{
 				"title": "Secret Invasion",
 				"date": "2008-07-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5151efe58715c.jpg",
+				"phaseid": "008",
 				"sortid": "029"
 			},
 			{
 				"title": "Secret Invasion Mighty Avengers",
 				"date": "2008-07-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4d24fc7a0105e.jpg",
+				"phaseid": "008",
 				"sortid": "030"
 			},
 			{
 				"title": "He Loves You",
 				"date": "2008-07-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/51521a819ebf0.jpg",
+				"phaseid": "008",
 				"sortid": "031"
 			},
 			{
 				"title": "Sacred Invasion",
 				"date": "2008-07-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5152048e9e7dc.jpg",
+				"phaseid": "008",
 				"sortid": "032"
 			},
 			{
 				"title": "Secret Invasion New Warriors",
 				"date": "2008-07-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/515219b65e8bc.jpg",
+				"phaseid": "008",
 				"sortid": "033"
 			},
 			{
 				"title": "Secret Invasion Avengers The Initiative",
 				"date": "2008-07-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/b0/4e949584d8f3e.jpg",
+				"phaseid": "008",
 				"sortid": "034"
 			},
 			{
 				"title": "He Loves You",
 				"date": "2008-07-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/51521b21b50f5.jpg",
+				"phaseid": "008",
 				"sortid": "035"
 			},
 			{
 				"title": "Secret Invasion New Avengers",
 				"date": "2008-07-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/04/5773ecec9be9e.jpg",
+				"phaseid": "008",
 				"sortid": "036"
 			},
 			{
 				"title": "Running the Asylum",
 				"date": "2008-07-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/5744cc26a4dbb.jpg",
+				"phaseid": "008",
 				"sortid": "037"
 			},
 			{
 				"title": "Secret Invasion Fantastic Four",
 				"date": "2008-07-30",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/53ea3d3e48080.jpg",
+				"phaseid": "008",
 				"sortid": "038"
 			},
 			{
 				"title": "Battle of Manhattan",
 				"date": "2008-07-30",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/515205bfd04c2.jpg",
+				"phaseid": "008",
 				"sortid": "039"
 			},
 			{
 				"title": "See Wakanda and Die",
 				"date": "2008-07-30",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/03/57470d91215c3.jpg",
+				"phaseid": "008",
 				"sortid": "040"
 			},
 			{
 				"title": "Secret Invasion Front Line",
 				"date": "2008-08-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/5151f55ceb162.jpg",
+				"phaseid": "008",
 				"sortid": "041"
 			},
 			{
 				"title": "Secret Invasion X-Men",
 				"date": "2008-08-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/515200548e1cc.jpg",
+				"phaseid": "008",
 				"sortid": "042"
 			},
 			{
 				"title": "Secret Invasion Inhumans",
 				"date": "2008-08-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/5151f453b05f9.jpg",
+				"phaseid": "008",
 				"sortid": "043"
 			},
 			{
 				"title": "Secret Invasion Thor",
 				"date": "2008-08-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/5151f83970113.jpg",
+				"phaseid": "008",
 				"sortid": "044"
 			},
 			{
 				"title": "Secret Invasion Runaways / Young Avengers",
 				"date": "2008-08-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/5151f6ec6faec.jpg",
+				"phaseid": "008",
 				"sortid": "045"
 			},
 			{
 				"title": "The Guns of Avalon",
 				"date": "2008-08-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/515202441ec03.jpg",
+				"phaseid": "008",
 				"sortid": "046"
 			},
 			{
 				"title": "Secret Invasion",
 				"date": "2008-08-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/5151f0b267794.jpg",
+				"phaseid": "008",
 				"sortid": "047"
 			},
 			{
 				"title": "Damages",
 				"date": "2008-08-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/517ad36440e01.jpg",
+				"phaseid": "008",
 				"sortid": "048"
 			},
 			{
 				"title": "He Loves You",
 				"date": "2008-08-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/51521aa22f7e4.jpg",
+				"phaseid": "008",
 				"sortid": "049"
 			},
 			{
 				"title": "Sacred Invasion",
 				"date": "2008-08-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/5152049a94911.jpg",
+				"phaseid": "008",
 				"sortid": "050"
 			},
 			{
 				"title": "Brand New Secret Invasion",
 				"date": "2008-08-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/5151f35265d5b.jpg",
+				"phaseid": "008",
 				"sortid": "051"
 			},
 			{
 				"title": "Secret Invasion New Warriors",
 				"date": "2008-08-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/515219dea032c.jpg",
+				"phaseid": "008",
 				"sortid": "052"
 			},
 			{
 				"title": "Green for Danger",
 				"date": "2008-08-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/578fae0b41d85.jpg",
+				"phaseid": "008",
 				"sortid": "053"
 			},
 			{
 				"title": "Secret Invasion Avengers The Initiative",
 				"date": "2008-08-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4e949a86d0b27.jpg",
+				"phaseid": "008",
 				"sortid": "054"
 			},
 			{
 				"title": "Secret Invasion Mighty Avengers",
 				"date": "2008-08-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4d25194ee9cd4.jpg",
+				"phaseid": "008",
 				"sortid": "055"
 			},
 			{
 				"title": "Secret Invasion She-Hulk",
 				"date": "2008-08-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/51521b5d0c5bd.jpg",
+				"phaseid": "008",
 				"sortid": "056"
 			},
 			{
 				"title": "See Wakanda and Die",
 				"date": "2008-08-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/57470e8c047e2.jpg",
+				"phaseid": "008",
 				"sortid": "057"
 			},
 			{
 				"title": "Secret Invasion New Avengers",
 				"date": "2008-08-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/5773ecde71cde.jpg",
+				"phaseid": "008",
 				"sortid": "058"
 			},
 			{
 				"title": "Running the Asylum",
 				"date": "2008-08-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/5744cdabbb4ef.jpg",
+				"phaseid": "008",
 				"sortid": "059"
 			},
 			{
 				"title": "Secret Invasion Front Line",
 				"date": "2008-09-03",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5151f549af5fb.jpg",
+				"phaseid": "008",
 				"sortid": "060"
 			},
 			{
 				"title": "One of Us",
 				"date": "2008-09-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5152037405711.jpg",
+				"phaseid": "008",
 				"sortid": "061"
 			},
 			{
 				"title": "Secret Invasion X-Men",
 				"date": "2008-09-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/515200637ccff.jpg",
+				"phaseid": "008",
 				"sortid": "062"
 			},
 			{
 				"title": "Secret Invasion Inhumans",
 				"date": "2008-09-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5151f43f66d7a.jpg",
+				"phaseid": "008",
 				"sortid": "063"
 			},
 			{
 				"title": "Secret Invasion Runaways / Young Avengers",
 				"date": "2008-09-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5151f6f2ec269.jpg",
+				"phaseid": "008",
 				"sortid": "064"
 			},
 			{
 				"title": "Secret Invasion",
 				"date": "2008-09-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/5151f0be10549.jpg",
+				"phaseid": "008",
 				"sortid": "065"
 			},
 			{
 				"title": "Battle of Manhattan",
 				"date": "2008-09-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/515205d3c4c38.jpg",
+				"phaseid": "008",
 				"sortid": "066"
 			},
 			{
 				"title": "Secret Invasion Thor",
 				"date": "2008-09-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5151f860692da.jpg",
+				"phaseid": "008",
 				"sortid": "067"
 			},
 			{
 				"title": "Deception",
 				"date": "2008-09-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/517ad355c9b05.jpg",
+				"phaseid": "008",
 				"sortid": "068"
 			},
 			{
 				"title": "Secret Invasion Mighty Avengers",
 				"date": "2008-09-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4d24e82b555c9.jpg",
+				"phaseid": "008",
 				"sortid": "069"
 			},
 			{
 				"title": "War Machine Weapon of SHIELD",
 				"date": "2008-09-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/5153022d8ccc9.jpg",
+				"phaseid": "008",
 				"sortid": "070"
 			},
 			{
 				"title": "One of Us",
 				"date": "2008-09-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/5732265c65605.jpg",
+				"phaseid": "008",
 				"sortid": "071"
 			},
 			{
 				"title": "Brand New Secret Invasion",
 				"date": "2008-09-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/5151f36116f33.jpg",
+				"phaseid": "008",
 				"sortid": "072"
 			},
 			{
 				"title": "Brothers in Arms",
 				"date": "2008-09-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5151f2824baed.jpg",
+				"phaseid": "008",
 				"sortid": "073"
 			},
 			{
 				"title": "Secret Invasion Avengers The Initiative",
 				"date": "2008-09-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4e949db2a50c2.jpg",
+				"phaseid": "008",
 				"sortid": "074"
 			},
 			{
 				"title": "Secret Invasion She-Hulk",
 				"date": "2008-09-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/51521b488b63b.jpg",
+				"phaseid": "008",
 				"sortid": "075"
 			},
 			{
 				"title": "See Wakanda and Die",
 				"date": "2008-09-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/57470f17923c2.jpg",
+				"phaseid": "008",
 				"sortid": "076"
 			},
 			{
 				"title": "Secret Invasion New Avengers",
 				"date": "2008-09-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5773ecd05663b.jpg",
+				"phaseid": "008",
 				"sortid": "077"
 			},
 			{
 				"title": "Running the Asylum",
 				"date": "2008-09-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5744cdf09c0a3.jpg",
+				"phaseid": "008",
 				"sortid": "078"
 			},
 			{
 				"title": "Secret Invasion Punisher",
 				"date": "2008-10-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bb6d20e51ebe.jpg",
+				"phaseid": "008",
 				"sortid": "079"
 			},
 			{
 				"title": "One of Us",
 				"date": "2008-10-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/51520360c51c5.jpg",
+				"phaseid": "008",
 				"sortid": "080"
 			},
 			{
 				"title": "Secret Invasion Inhumans",
 				"date": "2008-10-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5151f436b45c6.jpg",
+				"phaseid": "008",
 				"sortid": "081"
 			},
 			{
 				"title": "Secret Invasion Front Line",
 				"date": "2008-10-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5151f53528b6b.jpg",
+				"phaseid": "008",
 				"sortid": "082"
 			},
 			{
 				"title": "Death",
 				"date": "2008-10-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/517ad475ab6f8.jpg",
+				"phaseid": "008",
 				"sortid": "083"
 			},
 			{
 				"title": "Secret Invasion Mighty Avengers",
 				"date": "2008-10-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4d251a069f575.jpg",
+				"phaseid": "008",
 				"sortid": "084"
 			},
 			{
 				"title": "War Machine Weapon of SHIELD",
 				"date": "2008-10-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/d0/51530221aeba0.jpg",
+				"phaseid": "008",
 				"sortid": "085"
 			},
 			{
 				"title": "Brand New Secret Invasion",
 				"date": "2008-10-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5151f36c5291a.jpg",
+				"phaseid": "008",
 				"sortid": "086"
 			},
 			{
 				"title": "Secret Invasion",
 				"date": "2008-10-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/5151f0c98bbe7.jpg",
+				"phaseid": "008",
 				"sortid": "087"
 			},
 			{
 				"title": "Secret Invasion New Avengers",
 				"date": "2008-10-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5773ecc19ce46.jpg",
+				"phaseid": "008",
 				"sortid": "088"
 			},
 			{
 				"title": "Running the Asylum",
 				"date": "2008-10-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/5744cdda486d9.jpg",
+				"phaseid": "008",
 				"sortid": "089"
 			},
 			{
 				"title": "Secret Invasion X-Men",
 				"date": "2008-10-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/5152006e6818b.jpg",
+				"phaseid": "008",
 				"sortid": "090"
 			},
 			{
 				"title": "Secret Invasion Thor",
 				"date": "2008-10-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5151f86ec5981.jpg",
+				"phaseid": "008",
 				"sortid": "091"
 			},
 			{
 				"title": "Reborn",
 				"date": "2008-10-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/5151f28fe9acd.jpg",
+				"phaseid": "008",
 				"sortid": "092"
 			},
 			{
 				"title": "Secret Invasion Avengers The Initiative",
 				"date": "2008-10-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4e94a0790135d.jpg",
+				"phaseid": "008",
 				"sortid": "093"
 			},
 			{
 				"title": "Secret Invasion Punisher",
 				"date": "2008-11-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/5152fde500f73.jpg",
+				"phaseid": "008",
 				"sortid": "094"
 			},
 			{
 				"title": "War Machine Weapon of SHIELD",
 				"date": "2008-11-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/515302170faf9.jpg",
+				"phaseid": "008",
 				"sortid": "095"
 			},
 			{
 				"title": "Secret Invasion X-Men",
 				"date": "2008-11-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/5152007d88b41.jpg",
+				"phaseid": "008",
 				"sortid": "096"
 			},
 			{
 				"title": "Secret Invasion Inhumans",
 				"date": "2008-11-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5151f42855c0c.jpg",
+				"phaseid": "008",
 				"sortid": "097"
 			},
 			{
 				"title": "Secret Invasion",
 				"date": "2008-12-03",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/5151f0d51369a.jpg",
+				"phaseid": "008",
 				"sortid": "098"
 			},
 			{
 				"title": "Secret Invasion Front Line",
 				"date": "2008-12-03",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/5151f526b4d7b.jpg",
+				"phaseid": "008",
 				"sortid": "099"
 			},
 			{
 				"title": "Secret Invasion New Avengers",
 				"date": "2008-12-03",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/5773ea5dde94d.jpg",
+				"phaseid": "008",
 				"sortid": "100"
 			},
 			{
 				"title": "Dark Reign",
 				"date": "2008-12-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/5151f61b6f895.jpg",
+				"phaseid": "008",
 				"sortid": "101"
 			},
 			{
 				"title": "Secret Invasion Avengers The Initiative",
 				"date": "2008-12-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4e94a888dd6b6.jpg",
+				"phaseid": "008",
 				"sortid": "102"
 			},
 			{
 				"title": "Secret Invasion Mighty Avengers",
 				"date": "2008-12-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4d24f2ecc818d.jpg",
+				"phaseid": "008",
 				"sortid": "103"
 			},
 			{
 				"title": "Aftermath",
 				"date": "2009-04-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb4e63e638e4.jpg",
+				"phaseid": "008",
 				"sortid": "104"
 			},
 			{
 				"title": "War of Kings",
 				"date": "2009-01-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5151f7bdd7316.jpg",
+				"phaseid": "008",
 				"sortid": "105"
 			},
 			{
 				"title": "Horror Business",
 				"date": "2008-11-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/51520351e77ff.jpg",
+				"phaseid": "008",
 				"sortid": "106"
 			},
 			{
 				"title": "Secret Agent Carol Danvers",
 				"date": "2008-09-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/576952e063c8f.jpg",
+				"phaseid": "008",
 				"sortid": "107"
 			},
 			{
 				"title": "Down South",
 				"date": "2009-01-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bb606346dc06.jpg",
+				"phaseid": "008",
 				"sortid": "108"
 			},
 			{
 				"title": "Love and War",
 				"date": "2008-09-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb718f15b4e8.jpg",
+				"phaseid": "008",
 				"sortid": "109"
 			},
 			{
 				"title": "A Tale of Two Jackpots",
 				"date": "2008-10-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bb6cf41806d7.jpg",
+				"phaseid": "008",
 				"sortid": "110"
 			},
 			{
 				"title": "Crime and Punisher",
 				"date": "2008-10-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/579119d2b4ab7.jpg",
+				"phaseid": "008",
 				"sortid": "111"
 			},
 			{
 				"title": "Death and Dating",
 				"date": "2008-11-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/578e7384d7355.jpg",
+				"phaseid": "008",
 				"sortid": "112"
 			},
 			{
 				"title": "Hulk No More",
 				"date": "2009-02-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5109ae12b7c7c.jpg",
+				"phaseid": "008",
 				"sortid": "113"
 			},
 			{
 				"title": "Hulk No More II",
 				"date": "2009-07-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4f634e633fc47.jpg",
+				"phaseid": "008",
 				"sortid": "114"
 			},
 			{
 				"title": "Worlds Apart",
 				"date": "2008-10-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb6ccf199291.jpg",
+				"phaseid": "008",
 				"sortid": "115"
 			},
 			{
 				"title": "Infernus",
 				"date": "2008-12-03",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4e7a13b8011a5.jpg",
+				"phaseid": "008",
 				"sortid": "116"
 			},
 			{
 				"title": "Messiah War",
 				"date": "2009-02-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bb5d236e8d0b.jpg",
+				"phaseid": "008",
 				"sortid": "117"
 			},
 			{
 				"title": "Old Man Logan",
 				"date": "2008-06-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/51ed6c4be6a12.jpg",
+				"phaseid": "008",
 				"sortid": "118"
 			},
 			{
 				"title": "A Mile in My Moccasins",
 				"date": "2009-05-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51ed6d90d83c6.jpg",
+				"phaseid": "008",
 				"sortid": "119"
 			},
 			{
 				"title": "Family Business",
 				"date": "2008-12-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/51e0804f84210.jpg",
+				"phaseid": "008",
 				"sortid": "120"
 			},
 			{
 				"title": "Salvage",
 				"date": "2008-12-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/51a4deae50c5c.jpg",
+				"phaseid": "008",
 				"sortid": "121"
 			},
 			{
 				"title": "Sisterhood",
 				"date": "2009-04-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/513f4d2a5dd2b.jpg",
+				"phaseid": "008",
 				"sortid": "122"
 			},
 			{
 				"title": "Best Intentions",
 				"date": "2008-08-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4c3618df29907.jpg",
+				"phaseid": "008",
 				"sortid": "123"
 			},
 			{
 				"title": "Dead Wrong",
 				"date": "2008-08-27",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/5797bbb1b9e1f.jpg",
+				"phaseid": "008",
 				"sortid": "124"
 			},
 			{
 				"title": "Rock Zombies",
 				"date": "2009-02-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/80/5798c9f83551b.jpg",
+				"phaseid": "008",
 				"sortid": "125"
 			},
 			{
 				"title": "Homeschooling",
 				"date": "2009-06-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/5798c76b07096.jpg",
+				"phaseid": "008",
 				"sortid": "126"
 			},
 			{
 				"title": "Return of the King",
 				"date": "2009-03-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/572d11b7b0138.jpg",
+				"phaseid": "008",
 				"sortid": "127"
 			}
 		]
 	},
 	{
-		"phase": {
+		"namable": {
 			"id": "009",
 			"name": "Dark Reign"
 		},
@@ -3705,864 +4389,1009 @@
 				"title": "Power",
 				"date": "2008-12-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/5773ea4e0b0dc.jpg",
+				"phaseid": "009",
 				"sortid": "001"
 			},
 			{
 				"title": "Burning Down the House",
 				"date": "2008-11-19",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/5744cca171631.jpg",
+				"phaseid": "009",
 				"sortid": "002"
 			},
 			{
 				"title": "The Initiative Disassembled",
 				"date": "2008-12-31",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4e94ab1e440ad.jpg",
+				"phaseid": "009",
 				"sortid": "003"
 			},
 			{
 				"title": "Requiem",
 				"date": "2008-12-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/55d4b41f7c4c9.jpg",
+				"phaseid": "009",
 				"sortid": "004"
 			},
 			{
 				"title": "Power",
 				"date": "2009-01-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5773ea806cfd3.jpg",
+				"phaseid": "009",
 				"sortid": "005"
 			},
 			{
 				"title": "Dark Reign",
 				"date": "2009-01-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/514c9ca17bba9.jpg",
+				"phaseid": "009",
 				"sortid": "006"
 			},
 			{
 				"title": "The Man With No Face",
 				"date": "2008-10-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/570be752c35a9.jpg",
+				"phaseid": "009",
 				"sortid": "007"
 			},
 			{
 				"title": "Election Day",
 				"date": "2009-01-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/56d726c8a60bc.jpg",
+				"phaseid": "009",
 				"sortid": "008"
 			},
 			{
 				"title": "24 7",
 				"date": "2009-03-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bb59a28d6c1c.jpg",
+				"phaseid": "009",
 				"sortid": "009"
 			},
 			{
 				"title": "World's Most Wanted",
 				"date": "2008-12-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/04/4f7b27ff6bfe7.jpg",
+				"phaseid": "009",
 				"sortid": "010"
 			},
 			{
 				"title": "Dark Reign Young Avengers",
 				"date": "2009-05-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4bac88113b32c.jpg",
+				"phaseid": "009",
 				"sortid": "011"
 			},
 			{
 				"title": "Weapon XI",
 				"date": "2009-02-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/51e0803d27c77.jpg",
+				"phaseid": "009",
 				"sortid": "012"
 			},
 			{
 				"title": "Burning Down the House",
 				"date": "2009-01-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5744ce69b4a83.jpg",
+				"phaseid": "009",
 				"sortid": "013"
 			},
 			{
 				"title": "How Low Can You Go",
 				"date": "2009-01-14",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/57323d2c9aadb.jpg",
+				"phaseid": "009",
 				"sortid": "014"
 			},
 			{
 				"title": "The Initiative Disassembled",
 				"date": "2009-05-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/4e95993593b6c.jpg",
+				"phaseid": "009",
 				"sortid": "015"
 			},
 			{
 				"title": "Magnum Opus",
 				"date": "2009-03-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/51a4f5f9d9e4b.jpg",
+				"phaseid": "009",
 				"sortid": "016"
 			},
 			{
 				"title": "Dark Reign",
 				"date": "2009-02-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/514c9cc2cd25c.jpg",
+				"phaseid": "009",
 				"sortid": "017"
 			},
 			{
 				"title": "Dark Reign Young Avengers",
 				"date": "2009-07-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bb4bf1d41cb7.jpg",
+				"phaseid": "009",
 				"sortid": "018"
 			},
 			{
 				"title": "Dark Reign Fantastic Four",
 				"date": "2009-03-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bae68d2ed171.jpg",
+				"phaseid": "009",
 				"sortid": "019"
 			},
 			{
 				"title": "The Prince",
 				"date": "2009-06-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bb4f718443dc.jpg",
+				"phaseid": "009",
 				"sortid": "020"
 			},
 			{
 				"title": "The Death of Ms. Marvel",
 				"date": "2009-01-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/60/5769581361747.jpg",
+				"phaseid": "009",
 				"sortid": "021"
 			},
 			{
 				"title": "Dark Ms Marvel",
 				"date": "2009-07-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/c0/57695bdf699f1.jpg",
+				"phaseid": "009",
 				"sortid": "022"
 			},
 			{
 				"title": "Dark Reign Elektra",
 				"date": "2009-03-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bad7eb8b0729.jpg",
+				"phaseid": "009",
 				"sortid": "023"
 			},
 			{
 				"title": "Agent of SWORD",
 				"date": "2009-09-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/5665e2d5c6f84.jpg",
+				"phaseid": "009",
 				"sortid": "024"
 			},
 			{
 				"title": "Dark Reign Captain America",
 				"date": "2009-04-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/5696b45796ba7.jpg",
+				"phaseid": "009",
 				"sortid": "025"
 			},
 			{
 				"title": "Dark Reign Skrull Kill Krew",
 				"date": "2009-04-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/56a93bf9a44b9.jpg",
+				"phaseid": "009",
 				"sortid": "026"
 			},
 			{
 				"title": "The Reunion",
 				"date": "2009-03-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/4e79ec925e2df.jpg",
+				"phaseid": "009",
 				"sortid": "027"
 			},
 			{
 				"title": "Nick Fury Agent of Nothing",
 				"date": "2009-02-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/51f68aaba7c39.jpg",
+				"phaseid": "009",
 				"sortid": "028"
 			},
 			{
 				"title": "Dark Reign Agents of Atlas",
 				"date": "2009-02-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/563cfef44cc7b.jpg",
+				"phaseid": "009",
 				"sortid": "029"
 			},
 			{
 				"title": "The Deadliest of the Species",
 				"date": "2009-02-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/56cb422e83057.jpg",
+				"phaseid": "009",
 				"sortid": "030"
 			},
 			{
 				"title": "Dark Reign The Hood",
 				"date": "2009-05-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bb52b50cde91.jpg",
+				"phaseid": "009",
 				"sortid": "031"
 			},
 			{
 				"title": "Dark Reign Mr Negative",
 				"date": "2009-06-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bacf1c46c7d5.jpg",
+				"phaseid": "009",
 				"sortid": "032"
 			},
 			{
 				"title": "Living in Darkness",
 				"date": "2009-01-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/5703e2a31eb1b.jpg",
+				"phaseid": "009",
 				"sortid": "033"
 			},
 			{
 				"title": "Dead End",
 				"date": "2009-06-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb4f6335ae96.jpg",
+				"phaseid": "009",
 				"sortid": "034"
 			},
 			{
 				"title": "Dark Reign Zodiac",
 				"date": "2009-06-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/55ba5ee6f3534.jpg",
+				"phaseid": "009",
 				"sortid": "035"
 			},
 			{
 				"title": "Women of Mass Destruction",
 				"date": "2009-05-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb48a72d26ae.jpg",
+				"phaseid": "009",
 				"sortid": "036"
 			},
 			{
 				"title": "Godhunter",
 				"date": "2009-06-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/56dd9429b4124.jpg",
+				"phaseid": "009",
 				"sortid": "037"
 			},
 			{
 				"title": "Nova Corps",
 				"date": "2008-11-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/578fce6045951.jpg",
+				"phaseid": "009",
 				"sortid": "038"
 			},
 			{
 				"title": "War of Kings",
 				"date": "2008-11-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/573b8064b8870.jpg",
+				"phaseid": "009",
 				"sortid": "039"
 			},
 			{
 				"title": "Kingsbreaker",
 				"date": "2008-12-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4badd4a07387e.jpg",
+				"phaseid": "009",
 				"sortid": "040"
 			},
 			{
 				"title": "Darkhawk",
 				"date": "2009-02-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/55df511413230.jpg",
+				"phaseid": "009",
 				"sortid": "041"
 			},
 			{
 				"title": "End of Story",
 				"date": "2009-03-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/5790da7e928d4.jpg",
+				"phaseid": "009",
 				"sortid": "042"
 			},
 			{
 				"title": "Darkhawk",
 				"date": "2009-03-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/55df63bc7413c.jpg",
+				"phaseid": "009",
 				"sortid": "043"
 			},
 			{
 				"title": "War of Kings",
 				"date": "2009-03-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb5983bdb52f.jpg",
+				"phaseid": "009",
 				"sortid": "044"
 			},
 			{
 				"title": "This World and the Next",
 				"date": "2009-04-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/5790df71aa91c.jpg",
+				"phaseid": "009",
 				"sortid": "045"
 			},
 			{
 				"title": "War of Kings",
 				"date": "2009-04-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bad7ebf7464c.jpg",
+				"phaseid": "009",
 				"sortid": "046"
 			},
 			{
 				"title": "Savage World of Skaar",
 				"date": "2009-06-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb4c2960a7a8.jpg",
+				"phaseid": "009",
 				"sortid": "047"
 			},
 			{
 				"title": "Warriors",
 				"date": "2009-07-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/566f23d7c4935.jpg",
+				"phaseid": "009",
 				"sortid": "048"
 			},
 			{
 				"title": "Ascension",
 				"date": "2009-04-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bb579fbc616d.jpg",
+				"phaseid": "009",
 				"sortid": "049"
 			},
 			{
 				"title": "Peacemakers",
 				"date": "2009-04-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/517ad59261332.jpg",
+				"phaseid": "009",
 				"sortid": "050"
 			},
 			{
 				"title": "Empire of the Mind",
 				"date": "2009-05-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/b0/5790e881c7e79.jpg",
+				"phaseid": "009",
 				"sortid": "051"
 			},
 			{
 				"title": "War of Kings",
 				"date": "2009-05-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb52d05ce67c.jpg",
+				"phaseid": "009",
 				"sortid": "052"
 			},
 			{
 				"title": "Ascension",
 				"date": "2009-05-13",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bb52b5b81283.jpg",
+				"phaseid": "009",
 				"sortid": "053"
 			},
 			{
 				"title": "To The Death",
 				"date": "2009-05-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/517ad5840ecf8.jpg",
+				"phaseid": "009",
 				"sortid": "054"
 			},
 			{
 				"title": "Saving Private Robbie",
 				"date": "2009-06-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5790ee7eb07b8.jpg",
+				"phaseid": "009",
 				"sortid": "055"
 			},
 			{
 				"title": "War of Kings",
 				"date": "2009-06-03",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bb4f8e362ca5.jpg",
+				"phaseid": "009",
 				"sortid": "056"
 			},
 			{
 				"title": "Ascension",
 				"date": "2009-06-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/30/4bb4f8de4fabb.jpg",
+				"phaseid": "009",
 				"sortid": "057"
 			},
 			{
 				"title": "Knowhere To Run To",
 				"date": "2009-06-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/517ad57e4a6e4.jpg",
+				"phaseid": "009",
 				"sortid": "058"
 			},
 			{
 				"title": "Shock and Awe",
 				"date": "2009-07-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/5790f5a308360.jpg",
+				"phaseid": "009",
 				"sortid": "059"
 			},
 			{
 				"title": "War of Kings",
 				"date": "2009-07-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/56b8d070a2f41.jpg",
+				"phaseid": "009",
 				"sortid": "060"
 			},
 			{
 				"title": "Ascension",
 				"date": "2009-07-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb42178cc2df.jpg",
+				"phaseid": "009",
 				"sortid": "061"
 			},
 			{
 				"title": "Earth, Overcome",
 				"date": "2009-07-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/517ad6ab06469.jpg",
+				"phaseid": "009",
 				"sortid": "062"
 			},
 			{
 				"title": "War of Kings",
 				"date": "2009-08-05",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bb418096a8b0.jpg",
+				"phaseid": "009",
 				"sortid": "063"
 			},
 			{
 				"title": "Adam Magus",
 				"date": "2000-01-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+				"phaseid": "009",
 				"sortid": "064"
 			},
 			{
 				"title": "War Crimes",
 				"date": "2009-08-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5790ccf4e0262.jpg",
+				"phaseid": "009",
 				"sortid": "065"
 			},
 			{
 				"title": "Who Will Rule",
 				"date": "2009-09-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/5425e5bb30df8.jpg",
+				"phaseid": "009",
 				"sortid": "066"
 			},
 			{
 				"title": "Other Worlds Other Wars",
 				"date": "2009-09-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/517ad697b2fb5.jpg",
+				"phaseid": "009",
 				"sortid": "067"
 			},
 			{
 				"title": "Starstalker Krushed Most Wanted",
 				"date": "2009-09-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/5790d6608e5bf.jpg",
+				"phaseid": "009",
 				"sortid": "068"
 			},
 			{
 				"title": "SWORD",
 				"date": "2009-11-11",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bb409e07355b.jpg",
+				"phaseid": "009",
 				"sortid": "069"
 			},
 			{
 				"title": "Shock and Awe",
 				"date": "2009-09-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/4bb3d3c2ddb0e.jpg",
+				"phaseid": "009",
 				"sortid": "070"
 			},
 			{
 				"title": "Dark Reign War Machine",
 				"date": "2008-12-31",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4d250af57ed2b.jpg",
+				"phaseid": "009",
 				"sortid": "071"
 			},
 			{
 				"title": "Earth's Mightiest",
 				"date": "2009-02-04",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/04/4f7c8e76e8feb.jpg",
+				"phaseid": "009",
 				"sortid": "072"
 			},
 			{
 				"title": "Dark Reign Hercules",
 				"date": "2009-03-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bb59a237879c.jpg",
+				"phaseid": "009",
 				"sortid": "073"
 			},
 			{
 				"title": "Dark Reign Goblin Legacy",
 				"date": "2009-07-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/52c5cb36ce1e9.jpg",
+				"phaseid": "009",
 				"sortid": "074"
 			},
 			{
 				"title": "Dark Reign Made Men",
 				"date": "2009-04-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/50b398602005c.jpg",
+				"phaseid": "009",
 				"sortid": "075"
 			},
 			{
 				"title": "Dark Reign The Cabal",
 				"date": "2009-04-29",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/52c5cb7e114d4.jpg",
+				"phaseid": "009",
 				"sortid": "076"
 			},
 			{
 				"title": "Mighty Fantastic",
+				"phaseid": "009",
 				"sortid": "077"
 			},
 			{
 				"title": "The New Sorcerer Supreme",
+				"phaseid": "009",
 				"sortid": "078"
 			},
 			{
 				"title": "The Unspoken",
 				"date": "2009-07-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/4f7c92a66c689.jpg",
+				"phaseid": "009",
 				"sortid": "079"
 			},
 			{
 				"title": "Dark Reign",
 				"date": "2009-06-03",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/514c9eef8c7d3.jpg",
+				"phaseid": "009",
 				"sortid": "080"
 			},
 			{
 				"title": "Dark Reign Thor",
 				"date": "2009-02-11",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/5758369777d60.jpg",
+				"phaseid": "009",
 				"sortid": "081"
 			},
 			{
 				"title": "600th",
 				"date": "2009-06-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/513f6ddf6b59f.jpg",
+				"phaseid": "009",
 				"sortid": "082"
 			},
 			{
 				"title": "American Son",
 				"date": "2009-02-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/56d71734b28b4.jpg",
+				"phaseid": "009",
 				"sortid": "083"
 			},
 			{
 				"title": "American Son II",
 				"date": "2009-06-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4e8df40021ffd.jpg",
+				"phaseid": "009",
 				"sortid": "084"
 			},
 			{
 				"title": "Sinister Spider-Man",
 				"date": "2009-06-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/4bb45b642d1d0.jpg",
+				"phaseid": "009",
 				"sortid": "085"
 			},
 			{
 				"title": "Dark Reign Hawkeye",
 				"date": "2009-04-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4bb4e97476ae3.jpg",
+				"phaseid": "009",
 				"sortid": "086"
 			},
 			{
 				"title": "Dark Reign Lethal Legion",
 				"date": "2009-06-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4bb4f9743d5fc.jpg",
+				"phaseid": "009",
 				"sortid": "087"
 			},
 			{
 				"title": "The Prince",
 				"date": "2009-09-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/4bb465beedf09.jpg",
+				"phaseid": "009",
 				"sortid": "088"
 			},
 			{
 				"title": "World's Most Wanted",
 				"date": "2009-01-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4f7b28a2293e7.jpg",
+				"phaseid": "009",
 				"sortid": "089"
 			},
 			{
 				"title": "Dark Reign War Machine",
 				"date": "2009-05-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/56c391c45871b.jpg",
+				"phaseid": "009",
 				"sortid": "090"
 			},
 			{
 				"title": "The Initiative Disassembled",
 				"date": "2009-06-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/4e959a67b3953.jpg",
+				"phaseid": "009",
 				"sortid": "091"
 			},
 			{
 				"title": "Dark Reign War Machine",
 				"date": "2009-11-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/56c392c3a94d6.jpg",
+				"phaseid": "009",
 				"sortid": "092"
 			},
 			{
 				"title": "World's Most Wanted",
 				"date": "2009-04-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4f7b067ead9f5.jpg",
+				"phaseid": "009",
 				"sortid": "093"
 			},
 			{
 				"title": "Losers",
 				"date": "2009-07-22",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/90/4e8214ea4c0ab.jpg",
+				"phaseid": "009",
 				"sortid": "094"
 			},
 			{
 				"title": "Suicide Kings",
 				"date": "2009-04-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/56aa8bc60acf4.jpg",
+				"phaseid": "009",
 				"sortid": "095"
 			},
 			{
 				"title": "Bullseye",
 				"date": "2009-05-06",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/51a4f5dc70384.jpg",
+				"phaseid": "009",
 				"sortid": "096"
 			},
 			{
 				"title": "Powerloss",
+				"phaseid": "009",
 				"sortid": "097"
 			},
 			{
 				"title": "Might Dark",
 				"date": "2009-12-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4f7c9504222ba.jpg",
+				"phaseid": "009",
 				"sortid": "098"
 			},
 			{
 				"title": "White Queen Dark Reign",
 				"date": "2009-01-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4e56ab6833476.jpg",
+				"phaseid": "009",
 				"sortid": "099"
 			},
 			{
 				"title": "Utopia",
 				"date": "2009-07-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/30/4bb4bdd2eecf7.jpg",
+				"phaseid": "009",
 				"sortid": "100"
 			},
 			{
 				"title": "Utopia II",
 				"date": "2009-07-08",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/51a4e0bcaa087.jpg",
+				"phaseid": "009",
 				"sortid": "101"
 			},
 			{
 				"title": "Utopia III",
 				"date": "2009-06-24",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4badd16ddbfc2.jpg",
+				"phaseid": "009",
 				"sortid": "102"
 			},
 			{
 				"title": "Utopia IV",
 				"date": "2009-07-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/513f4edac168e.jpg",
+				"phaseid": "009",
 				"sortid": "103"
 			},
 			{
 				"title": "Utopia V",
 				"date": "2009-07-15",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/514c9f5f097d9.jpg",
+				"phaseid": "009",
 				"sortid": "104"
 			},
 			{
 				"title": "Utopia VI",
 				"date": "2009-08-12",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/513f4ecb75399.jpg",
+				"phaseid": "009",
 				"sortid": "105"
 			},
 			{
 				"title": "Utopia VII",
 				"date": "2009-08-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/00/514ca06314a11.jpg",
+				"phaseid": "009",
 				"sortid": "106"
 			},
 			{
 				"title": "Utopia VIII",
 				"date": "2009-09-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bb3e3d7b125c.jpg",
+				"phaseid": "009",
 				"sortid": "107"
 			},
 			{
 				"title": "Utopia IX",
 				"date": "2009-09-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb3c82d5fe45.jpg",
+				"phaseid": "009",
 				"sortid": "108"
 			},
 			{
 				"title": "The List",
 				"date": "2009-09-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4bb3c7b986fea.jpg",
+				"phaseid": "009",
 				"sortid": "109"
 			},
 			{
 				"title": "Journey to the Center of the Goblin",
 				"date": "2009-11-11",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bae63eec6974.jpg",
+				"phaseid": "009",
 				"sortid": "110"
 			},
 			{
 				"title": "Planet Skaar",
 				"date": "2009-01-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/55d35b0c3c75d.jpg",
+				"phaseid": "009",
 				"sortid": "111"
 			},
 			{
 				"title": "Hulk No More",
 				"date": "2009-08-05",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4f6346210fa7a.jpg",
+				"phaseid": "009",
 				"sortid": "112"
 			},
 			{
 				"title": "Incredible Hulks",
 				"date": "2009-08-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f634fa742f1f.jpg",
+				"phaseid": "009",
 				"sortid": "113"
 			},
 			{
 				"title": "The List",
 				"date": "2009-10-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bae5353c9fbd.jpg",
+				"phaseid": "009",
 				"sortid": "114"
 			},
 			{
 				"title": "Incredible Hulks",
 				"date": "2009-11-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/03/4f63535e27110.jpg",
+				"phaseid": "009",
 				"sortid": "115"
 			},
 			{
 				"title": "Nightmares",
 				"date": "2009-09-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4e8f27f0adbe5.jpg",
+				"phaseid": "009",
 				"sortid": "116"
 			},
 			{
 				"title": "Powerloss",
 				"date": "2009-11-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/5773e60d6594e.jpg",
+				"phaseid": "009",
 				"sortid": "117"
 			},
 			{
 				"title": "Reborn",
 				"date": "2009-07-01",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/513f629e6a231.jpg",
+				"phaseid": "009",
 				"sortid": "118"
 			},
 			{
 				"title": "Who Will Wield the Shield",
 				"date": "2009-12-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/5717822c6248d.jpg",
+				"phaseid": "009",
 				"sortid": "119"
 			},
 			{
 				"title": "The List",
 				"date": "2009-09-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/52c5cb286f828.jpg",
+				"phaseid": "009",
 				"sortid": "120"
 			},
 			{
 				"title": "Siege",
 				"date": "2009-12-09",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/56425a92ad43c.jpg",
+				"phaseid": "009",
 				"sortid": "121"
 			},
 			{
 				"title": "Pre-Siege Mentality",
 				"date": "2010-03-03",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/4f7c983a17847.jpg",
+				"phaseid": "009",
 				"sortid": "122"
 			},
 			{
 				"title": "The List",
 				"date": "2009-09-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bb3d3cd4b4a6.jpg",
+				"phaseid": "009",
 				"sortid": "123"
 			},
 			{
 				"title": "A Cautionary Tale",
 				"date": "2009-12-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/4bb3cd33119bb.jpg",
+				"phaseid": "009",
 				"sortid": "124"
 			},
 			{
 				"title": "The List",
 				"date": "2009-10-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4f761984d7bad.jpg",
+				"phaseid": "009",
 				"sortid": "125"
 			},
 			{
 				"title": "Siege Prologue",
 				"date": "2009-12-03",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/52c5cb495d37b.jpg",
+				"phaseid": "009",
 				"sortid": "126"
 			},
 			{
 				"title": "Widowmaker",
 				"date": "2009-05-20",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5744d001edb18.jpg",
+				"phaseid": "009",
 				"sortid": "127"
 			},
 			{
 				"title": "God of Fear God of War",
 				"date": "2009-08-26",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/4f677b3c5548c.jpg",
+				"phaseid": "009",
 				"sortid": "128"
 			},
 			{
 				"title": "Widowmaker",
 				"date": "2009-09-10",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/5744ce9895db7.jpg",
+				"phaseid": "009",
 				"sortid": "129"
 			},
 			{
 				"title": "God of Fear God of War",
 				"date": "2009-09-30",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/4f677cf58d50c.jpg",
+				"phaseid": "009",
 				"sortid": "130"
 			},
 			{
 				"title": "Widowmaker",
 				"date": "2009-09-30",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/5744cee2d0a87.jpg",
+				"phaseid": "009",
 				"sortid": "131"
 			},
 			{
 				"title": "God of Fear God of War",
 				"date": "2009-10-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f677e77a5a48.jpg",
+				"phaseid": "009",
 				"sortid": "132"
 			},
 			{
 				"title": "Ares",
 				"date": "2009-10-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4bb435c4240c3.jpg",
+				"phaseid": "009",
 				"sortid": "133"
 			},
 			{
 				"title": "The List",
 				"date": "2009-10-07",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/f0/4bb3dcdd1cffd.jpg",
+				"phaseid": "009",
 				"sortid": "134"
 			},
 			{
 				"title": "God of Fear God of War",
 				"date": "2009-11-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/4f67809f03e81.jpg",
+				"phaseid": "009",
 				"sortid": "135"
 			},
 			{
 				"title": "World's Most Wanted",
 				"date": "2009-06-17",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4f7b0b5169b80.jpg",
+				"phaseid": "009",
 				"sortid": "136"
 			},
 			{
 				"title": "Pro Patria",
 				"date": "2009-10-21",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5744d10b9a1e1.jpg",
+				"phaseid": "009",
 				"sortid": "137"
 			},
 			{
 				"title": "The List",
 				"date": "2009-10-28",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bb3d1f8b5d0f.jpg",
+				"phaseid": "009",
 				"sortid": "138"
 			},
 			{
 				"title": "Kids with Guns vs the Eternal Angel of Death",
 				"date": "2009-09-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4f7b0f65c9e15.jpg",
+				"phaseid": "009",
 				"sortid": "139"
 			},
 			{
 				"title": "Siege Prologue",
 				"date": "2009-09-16",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/514ca04f8dedc.jpg",
+				"phaseid": "009",
 				"sortid": "140"
 			},
 			{
 				"title": "Poisoned Chalice",
 				"date": "2009-12-23",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/4e95d72bcf5c8.jpg",
+				"phaseid": "009",
 				"sortid": "141"
 			},
 			{
 				"title": "Acceptable Losses",
 				"date": "2009-11-18",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/517ea6c59726f.jpg",
+				"phaseid": "009",
 				"sortid": "142"
 			},
 			{
 				"title": "Stark Dissasembled",
 				"date": "2009-11-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/4f7c7a30cfef3.jpg",
+				"phaseid": "009",
 				"sortid": "143"
 			},
 			{
 				"title": "Full Circle",
 				"date": "2009-11-25",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/50b4fd935fd9b.jpg",
+				"phaseid": "009",
 				"sortid": "144"
 			},
 			{
 				"title": "Latverian Prometheus",
 				"date": "2009-12-03",
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/56f2c6e1dc505.jpg",
+				"phaseid": "009",
 				"sortid": "145"
 			}
 		]

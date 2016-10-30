@@ -61,24 +61,24 @@ func getIssuesPage(menu service.Menu, issues *service.ComicList) (string, error)
 	return getTemplate(content, menu, -1), nil
 }
 
-// Phase
-func getPhasePage(menu service.Menu, fissues *service.Fissues) (string, error) {
+// Fissues
+func getFissuesPage(menu service.Menu, fissues *service.Fissues) (string, error) {
 	if fissues.IsEmpty() {
 		return getNotFoundPage(menu), nil
 	}
 
 	issues := (*fissues).List
-	phaseID := fissues.Phase.ID
+	phaseID := fissues.Namable.ID
 	issuesContent := ""
 	for _, i := range issues {
 		year := ""
 		if i.Date != "" {
 			year = i.Date[:4]
 		}
-		conIssue := fmt.Sprintf(c["content-fissue"], phaseID, i.SortID, i.Pic, i.Title, year, "Protagonist", phaseID, i.SortID, i.Title)
+		conIssue := fmt.Sprintf(c["content-fissue"], i.PhaseID, i.SortID, i.Pic, i.Title, year, "Protagonist", phaseID, i.SortID, i.Title)
 		issuesContent = fmt.Sprintf("%s%s", issuesContent, conIssue)
 	}
-	content := fmt.Sprintf(c["content"], fissues.Phase.Name, issuesContent)
+	content := fmt.Sprintf(c["content"], fissues.Namable.Name, issuesContent)
 	return getTemplate(content, menu, 1), nil
 }
 

@@ -70,5 +70,8 @@ handlers:
 - url: /phases.*
   script: _go_app
   
+- url: /events.*
+  script: _go_app
+  
 - url: /api.*
   script: _go_app

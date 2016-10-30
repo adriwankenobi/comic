@@ -22,7 +22,7 @@ func JsonGenerator(path, out string) error {
 	events := NamableList{}
 
 	// New issues phase list
-	fissues := FissuesList{}
+	fissuesPhases := FissuesList{}
 
 	// Open file
 	xls, err := xlsx.OpenFile(path)
@@ -44,9 +44,9 @@ func JsonGenerator(path, out string) error {
 		p.Name = sheet.Name
 		phases = append(phases, p)
 
-		i := Fissues{}
-		i.Phase = p
-		i.List = ComicList{}
+		iPhases := Fissues{}
+		iPhases.Namable = p
+		iPhases.List = ComicList{}
 
 		cp := ComicList{}
 
@@ -148,12 +148,18 @@ func JsonGenerator(path, out string) error {
 				if err != nil {
 					return err
 				}
-				i.List = append(i.List, Comic{
-					Pic:    pic,
-					Title:  title,
-					Date:   date,
-					SortID: sID,
-				})
+				co := Comic{
+					Pic:     pic,
+					Title:   title,
+					Date:    date,
+					SortID:  sID,
+					PhaseID: p.ID,
+				}
+				iPhases.List = append(iPhases.List, co)
+				if event != "" {
+					co.Event = event
+					*(eventsComics[c.EventID]) = append(*(eventsComics[c.EventID]), co)
+				}
 			}
 			c.SortID, err = getCode(sortID)
 			if err != nil {
@@ -161,21 +167,27 @@ func JsonGenerator(path, out string) error {
 			}
 			comics = append(comics, c)
 			cp = append(cp, c)
-			if event != "" {
-				*(eventsComics[c.EventID]) = append(*(eventsComics[c.EventID]), c)
-			}
 		}
 
-		fissues = append(fissues, i)
+		fissuesPhases = append(fissuesPhases, iPhases)
 		Datastore[fmt.Sprintf("comics-phase-%s", p.ID)] = &cp
 	}
 	Datastore["comics"] = &comics
 	Datastore["phases"] = &phases
-	Datastore["fissues"] = &fissues
+	Datastore["fissues-phases"] = &fissuesPhases
 	Datastore["events"] = &events
+
+	fissuesEvents := FissuesList{}
 	for key, value := range eventsComics {
-		Datastore[fmt.Sprintf("comics-event-%s", key)] = value
+		iEvents := Fissues{}
+		iEvents.List = ComicList{}
+		for _, e := range *value {
+			iEvents.List = append(iEvents.List, e)
+		}
+		iEvents.Namable = Namable{ID: key, Name: (*value)[0].Event}
+		fissuesEvents = append(fissuesEvents, iEvents)
 	}
+	Datastore["fissues-events"] = &fissuesEvents
 	return nil
 }
 

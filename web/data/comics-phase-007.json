@@ -18089,7 +18089,7 @@
 	{
 		"id": "15891",
 		"collection": "Annihilation Conquest Prologue",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Prologue",
 		"vol": 1,
 		"num": 1,
 		"date": "2007-06-20",
@@ -18115,7 +18115,7 @@
 	{
 		"id": "15992",
 		"collection": "Annihilation Conquest Quasar",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Quasar",
 		"vol": 1,
 		"num": 1,
 		"date": "2007-07-18",
@@ -18136,12 +18136,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "166"
 	},
 	{
 		"id": "16176",
 		"collection": "Annihilation Conquest Quasar",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Quasar",
 		"vol": 1,
 		"num": 2,
 		"date": "2007-08-15",
@@ -18161,12 +18161,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "166"
 	},
 	{
 		"id": "16573",
 		"collection": "Annihilation Conquest Quasar",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Quasar",
 		"vol": 1,
 		"num": 3,
 		"date": "2007-09-19",
@@ -18188,12 +18188,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "166"
 	},
 	{
 		"id": "16574",
 		"collection": "Annihilation Conquest Quasar",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Quasar",
 		"vol": 1,
 		"num": 4,
 		"date": "2007-10-31",
@@ -18215,12 +18215,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "166"
 	},
 	{
 		"id": "16009",
 		"collection": "Annihilation Conquest Star Lord",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Star Lord",
 		"vol": 1,
 		"num": 1,
 		"date": "2007-07-25",
@@ -18242,12 +18242,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "167"
 	},
 	{
 		"id": "16191",
 		"collection": "Annihilation Conquest Star Lord",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Star Lord",
 		"vol": 1,
 		"num": 2,
 		"date": "2007-08-22",
@@ -18273,12 +18273,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "167"
 	},
 	{
 		"id": "16598",
 		"collection": "Annihilation Conquest Star Lord",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Star Lord",
 		"vol": 1,
 		"num": 3,
 		"date": "2007-09-26",
@@ -18300,12 +18300,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "167"
 	},
 	{
 		"id": "16599",
 		"collection": "Annihilation Conquest Star Lord",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Star Lord",
 		"vol": 1,
 		"num": 4,
 		"date": "2007-11-07",
@@ -18326,12 +18326,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "167"
 	},
 	{
 		"id": "16000",
 		"collection": "Annihilation Conquest Wraith",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Wraith",
 		"vol": 1,
 		"num": 1,
 		"date": "2007-07-11",
@@ -18352,12 +18352,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "168"
 	},
 	{
 		"id": "16184",
 		"collection": "Annihilation Conquest Wraith",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Wraith",
 		"vol": 1,
 		"num": 2,
 		"date": "2007-08-08",
@@ -18378,12 +18378,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "168"
 	},
 	{
 		"id": "16585",
 		"collection": "Annihilation Conquest Wraith",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Wraith",
 		"vol": 1,
 		"num": 3,
 		"date": "2007-09-06",
@@ -18404,12 +18404,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "168"
 	},
 	{
 		"id": "16586",
 		"collection": "Annihilation Conquest Wraith",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Wraith",
 		"vol": 1,
 		"num": 4,
 		"date": "2007-10-24",
@@ -18430,12 +18430,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "168"
 	},
 	{
 		"id": "15972",
 		"collection": "Nova",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Nova",
 		"vol": 4,
 		"num": 4,
 		"date": "2007-08-11",
@@ -18459,12 +18459,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "169"
 	},
 	{
 		"id": "16157",
 		"collection": "Nova",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Nova",
 		"vol": 4,
 		"num": 5,
 		"date": "2007-08-30",
@@ -18488,12 +18488,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "169"
 	},
 	{
 		"id": "16532",
 		"collection": "Nova",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Nova",
 		"vol": 4,
 		"num": 6,
 		"date": "2007-09-12",
@@ -18518,12 +18518,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "169"
 	},
 	{
 		"id": "16533",
 		"collection": "Nova",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Nova",
 		"vol": 4,
 		"num": 7,
 		"date": "2007-10-10",
@@ -18548,12 +18548,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "169"
 	},
 	{
 		"id": "17257",
 		"collection": "Nova",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Nova",
 		"vol": 4,
 		"num": 8,
 		"date": "2007-11-14",
@@ -18577,12 +18577,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "169"
 	},
 	{
 		"id": "17391",
 		"collection": "Nova",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Nova",
 		"vol": 4,
 		"num": 9,
 		"date": "2007-12-12",
@@ -18606,12 +18606,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "169"
 	},
 	{
 		"id": "17634",
 		"collection": "Nova",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Nova",
 		"vol": 4,
 		"num": 10,
 		"date": "2008-01-09",
@@ -18633,12 +18633,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "169"
 	},
 	{
 		"id": "20713",
 		"collection": "Nova Annual",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Nova",
 		"vol": 4,
 		"num": 1,
 		"date": "2008-02-13",
@@ -18661,12 +18661,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "169"
 	},
 	{
 		"id": "20873",
 		"collection": "Nova",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Nova",
 		"vol": 4,
 		"num": 11,
 		"date": "2008-03-12",
@@ -18692,12 +18692,12 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "169"
 	},
 	{
 		"id": "21007",
 		"collection": "Nova",
-		"title": "Annihilation Conquest",
+		"title": "Annihilation Conquest Nova",
 		"vol": 4,
 		"num": 12,
 		"date": "2008-04-09",
@@ -18722,7 +18722,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "169"
 	},
 	{
 		"id": "17271",
@@ -18760,7 +18760,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "170"
 	},
 	{
 		"id": "17405",
@@ -18797,7 +18797,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "170"
 	},
 	{
 		"id": "17645",
@@ -18833,7 +18833,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "170"
 	},
 	{
 		"id": "20686",
@@ -18867,7 +18867,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "170"
 	},
 	{
 		"id": "20885",
@@ -18901,7 +18901,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "170"
 	},
 	{
 		"id": "21016",
@@ -18940,7 +18940,7 @@
 		],
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "165"
+		"sortid": "170"
 	},
 	{
 		"id": "21268",
@@ -18964,7 +18964,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "166"
+		"sortid": "171"
 	},
 	{
 		"id": "21412",
@@ -18991,7 +18991,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "166"
+		"sortid": "171"
 	},
 	{
 		"id": "21586",
@@ -19018,7 +19018,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "166"
+		"sortid": "171"
 	},
 	{
 		"id": "21221",
@@ -19044,7 +19044,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "167"
+		"sortid": "172"
 	},
 	{
 		"id": "21360",
@@ -19073,7 +19073,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "167"
+		"sortid": "172"
 	},
 	{
 		"id": "21541",
@@ -19102,7 +19102,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "167"
+		"sortid": "172"
 	},
 	{
 		"id": "21272",
@@ -19131,7 +19131,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "168"
+		"sortid": "173"
 	},
 	{
 		"id": "21416",
@@ -19161,7 +19161,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "168"
+		"sortid": "173"
 	},
 	{
 		"id": "21590",
@@ -19190,7 +19190,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "168"
+		"sortid": "173"
 	},
 	{
 		"id": "21788",
@@ -19219,7 +19219,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "168"
+		"sortid": "173"
 	},
 	{
 		"id": "22030",
@@ -19245,7 +19245,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "168"
+		"sortid": "173"
 	},
 	{
 		"id": "22355",
@@ -19271,7 +19271,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "168"
+		"sortid": "173"
 	},
 	{
 		"id": "22546",
@@ -19295,7 +19295,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "168"
+		"sortid": "173"
 	},
 	{
 		"id": "21371",
@@ -19324,7 +19324,7 @@
 		],
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "169"
+		"sortid": "174"
 	},
 	{
 		"id": "21550",
@@ -19347,7 +19347,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "169"
+		"sortid": "174"
 	},
 	{
 		"id": "21745",
@@ -19371,7 +19371,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "169"
+		"sortid": "174"
 	},
 	{
 		"id": "22050",
@@ -19403,7 +19403,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "169"
+		"sortid": "174"
 	},
 	{
 		"id": "22304",
@@ -19427,7 +19427,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "169"
+		"sortid": "174"
 	},
 	{
 		"id": "22509",
@@ -19451,7 +19451,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "169"
+		"sortid": "174"
 	},
 	{
 		"id": "23001",
@@ -19486,7 +19486,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "169"
+		"sortid": "174"
 	},
 	{
 		"id": "22916",
@@ -19510,7 +19510,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "169"
+		"sortid": "174"
 	},
 	{
 		"id": "16540",
@@ -19535,7 +19535,7 @@
 		],
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "170"
+		"sortid": "175"
 	},
 	{
 		"id": "16541",
@@ -19560,7 +19560,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "170"
+		"sortid": "175"
 	},
 	{
 		"id": "17259",
@@ -19584,7 +19584,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "170"
+		"sortid": "175"
 	},
 	{
 		"id": "17396",
@@ -19609,7 +19609,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "170"
+		"sortid": "175"
 	},
 	{
 		"id": "17637",
@@ -19636,7 +19636,7 @@
 		"essential": true,
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "170"
+		"sortid": "175"
 	},
 	{
 		"id": "21247",
@@ -19669,7 +19669,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "171"
+		"sortid": "176"
 	},
 	{
 		"id": "21394",
@@ -19705,7 +19705,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "171"
+		"sortid": "176"
 	},
 	{
 		"id": "21565",
@@ -19737,7 +19737,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "171"
+		"sortid": "176"
 	},
 	{
 		"id": "21761",
@@ -19765,7 +19765,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "171"
+		"sortid": "176"
 	},
 	{
 		"id": "22330",
@@ -19790,7 +19790,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "171"
+		"sortid": "176"
 	},
 	{
 		"id": "22524",
@@ -19822,7 +19822,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "171"
+		"sortid": "176"
 	},
 	{
 		"id": "22935",
@@ -19856,7 +19856,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "172"
+		"sortid": "177"
 	},
 	{
 		"id": "23132",
@@ -19880,7 +19880,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "172"
+		"sortid": "177"
 	},
 	{
 		"id": "24549",
@@ -19917,7 +19917,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "172"
+		"sortid": "177"
 	},
 	{
 		"id": "23975",
@@ -19949,7 +19949,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "172"
+		"sortid": "177"
 	},
 	{
 		"id": "24174",
@@ -19973,7 +19973,7 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "172"
+		"sortid": "177"
 	},
 	{
 		"id": "24539",
@@ -19997,6 +19997,6 @@
 		"universe": "Earth-616",
 		"phaseid": "007",
 		"phasename": "Initiative",
-		"sortid": "172"
+		"sortid": "177"
 	}
 ]

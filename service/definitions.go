@@ -97,8 +97,8 @@ func (n *NamableList) IsEmpty() bool {
 
 // First issues
 type Fissues struct {
-	Phase Namable   `json:"phase"`
-	List  ComicList `json:"list,omitempty"`
+	Namable Namable   `json:"namable"`
+	List    ComicList `json:"list,omitempty"`
 }
 type FissuesList []Fissues
 
@@ -107,7 +107,7 @@ func (f *Fissues) ToJson() ([]byte, error) {
 }
 
 func (f *Fissues) IsEmpty() bool {
-	return f.Phase.IsEmpty() && f.List.IsEmpty()
+	return f.Namable.IsEmpty() && f.List.IsEmpty()
 }
 
 func (f *FissuesList) ToJson() ([]byte, error) {
@@ -246,12 +246,12 @@ func NewFissues(in interface{}) (Fissues, error) {
 	is := Fissues{}
 	for i, e := range m {
 		switch i {
-		case "phase":
-			phase, err := NewNamable(e)
+		case "namable":
+			namable, err := NewNamable(e)
 			if err != nil {
 				return is, err
 			}
-			is.Phase = phase
+			is.Namable = namable
 			break
 		case "list":
 			list, err := NewComicList(e)

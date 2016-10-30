@@ -67,7 +67,7 @@ func init() {
 
 	// Get all first issues from this phase
 	router.GET("/api/fissues/:id", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
-		return service.FindFirstIssuesByPhaseID(j["fissues"], p.ByName("id"))
+		return service.FindFirstIssuesByID(j["fissues"], p.ByName("id"))
 	}))
 
 	// Get all issues from this phase
@@ -99,11 +99,11 @@ func init() {
 
 	// Issues -> Get all first issues from this phases
 	router.GET("/phases/:id", webHandle(func(p httprouter.Params) (string, error) {
-		issues, err := service.FindFirstIssuesByPhaseID(j["fissues"], p.ByName("id"))
+		issues, err := service.FindFirstIssuesByID(j["fissues-phases"], p.ByName("id"))
 		if err != nil {
 			return "", err
 		}
-		return getPhasePage(menu, issues)
+		return getFissuesPage(menu, issues)
 	}))
 
 	// Issues -> Get all issues from this comic from this phase
@@ -113,6 +113,15 @@ func init() {
 			return "", err
 		}
 		return getIssuesPage(menu, issues)
+	}))
+
+	// Issues -> Get all first issues from this event
+	router.GET("/events/:id", webHandle(func(p httprouter.Params) (string, error) {
+		issues, err := service.FindFirstIssuesByID(j["fissues-events"], p.ByName("id"))
+		if err != nil {
+			return "", err
+		}
+		return getFissuesPage(menu, issues)
 	}))
 
 	// About

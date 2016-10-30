@@ -7841,7 +7841,7 @@
 	{
 		"id": "3985",
 		"collection": "Annihilation Prologue",
-		"title": "Annihilation",
+		"title": "Annihilation Prologue",
 		"vol": 1,
 		"num": 1,
 		"date": "2006-03-15",
@@ -7875,7 +7875,7 @@
 	{
 		"id": "4111",
 		"collection": "Annihilation Nova",
-		"title": "Annihilation",
+		"title": "Annihilation Nova",
 		"vol": 1,
 		"num": 1,
 		"date": "2006-04-19",
@@ -7896,12 +7896,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "060"
 	},
 	{
 		"id": "4221",
 		"collection": "Annihilation Nova",
-		"title": "Annihilation",
+		"title": "Annihilation Nova",
 		"vol": 1,
 		"num": 2,
 		"date": "2006-05-17",
@@ -7923,12 +7923,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "060"
 	},
 	{
 		"id": "4318",
 		"collection": "Annihilation Nova",
-		"title": "Annihilation",
+		"title": "Annihilation Nova",
 		"vol": 1,
 		"num": 3,
 		"date": "2006-06-21",
@@ -7949,12 +7949,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "060"
 	},
 	{
 		"id": "4473",
 		"collection": "Annihilation Nova",
-		"title": "Annihilation",
+		"title": "Annihilation Nova",
 		"vol": 1,
 		"num": 4,
 		"date": "2006-07-19",
@@ -7977,12 +7977,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "060"
 	},
 	{
 		"id": "4110",
 		"collection": "Annihilation Super Skrull",
-		"title": "Annihilation",
+		"title": "Annihilation Super Skrull",
 		"vol": 1,
 		"num": 1,
 		"date": "2006-04-12",
@@ -8004,12 +8004,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "061"
 	},
 	{
 		"id": "4220",
 		"collection": "Annihilation Super Skrull",
-		"title": "Annihilation",
+		"title": "Annihilation Super Skrull",
 		"vol": 1,
 		"num": 2,
 		"date": "2006-05-10",
@@ -8032,12 +8032,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "061"
 	},
 	{
 		"id": "4317",
 		"collection": "Annihilation Super Skrull",
-		"title": "Annihilation",
+		"title": "Annihilation Super Skrull",
 		"vol": 1,
 		"num": 3,
 		"date": "2006-06-14",
@@ -8060,12 +8060,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "061"
 	},
 	{
 		"id": "4472",
 		"collection": "Annihilation Super Skrull",
-		"title": "Annihilation",
+		"title": "Annihilation Super Skrull",
 		"vol": 1,
 		"num": 4,
 		"date": "2006-07-12",
@@ -8088,12 +8088,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "061"
 	},
 	{
 		"id": "4108",
 		"collection": "Annihilation Silver Surfer",
-		"title": "Annihilation",
+		"title": "Annihilation Silver Surfer",
 		"vol": 1,
 		"num": 1,
 		"date": "2006-04-05",
@@ -8116,12 +8116,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "062"
 	},
 	{
 		"id": "4218",
 		"collection": "Annihilation Silver Surfer",
-		"title": "Annihilation",
+		"title": "Annihilation Silver Surfer",
 		"vol": 1,
 		"num": 2,
 		"date": "2006-05-03",
@@ -8147,12 +8147,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "062"
 	},
 	{
 		"id": "4315",
 		"collection": "Annihilation Silver Surfer",
-		"title": "Annihilation",
+		"title": "Annihilation Silver Surfer",
 		"vol": 1,
 		"num": 3,
 		"date": "2006-06-07",
@@ -8178,12 +8178,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "062"
 	},
 	{
 		"id": "4470",
 		"collection": "Annihilation Silver Surfer",
-		"title": "Annihilation",
+		"title": "Annihilation Silver Surfer",
 		"vol": 1,
 		"num": 4,
 		"date": "2006-07-12",
@@ -8209,12 +8209,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "062"
 	},
 	{
 		"id": "4109",
 		"collection": "Annihilation Ronan",
-		"title": "Annihilation",
+		"title": "Annihilation Ronan",
 		"vol": 1,
 		"num": 1,
 		"date": "2006-04-26",
@@ -8235,12 +8235,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "063"
 	},
 	{
 		"id": "4219",
 		"collection": "Annihilation Ronan",
-		"title": "Annihilation",
+		"title": "Annihilation Ronan",
 		"vol": 1,
 		"num": 2,
 		"date": "2006-05-24",
@@ -8266,12 +8266,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "063"
 	},
 	{
 		"id": "4316",
 		"collection": "Annihilation Ronan",
-		"title": "Annihilation",
+		"title": "Annihilation Ronan",
 		"vol": 1,
 		"num": 3,
 		"date": "2006-06-28",
@@ -8294,12 +8294,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "063"
 	},
 	{
 		"id": "4471",
 		"collection": "Annihilation Ronan",
-		"title": "Annihilation",
+		"title": "Annihilation Ronan",
 		"vol": 1,
 		"num": 4,
 		"date": "2006-07-26",
@@ -8325,7 +8325,7 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "063"
 	},
 	{
 		"id": "4788",
@@ -8356,7 +8356,7 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "064"
 	},
 	{
 		"id": "5078",
@@ -8386,7 +8386,7 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "064"
 	},
 	{
 		"id": "5230",
@@ -8417,7 +8417,7 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "064"
 	},
 	{
 		"id": "5529",
@@ -8448,7 +8448,7 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "064"
 	},
 	{
 		"id": "5655",
@@ -8480,7 +8480,7 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "064"
 	},
 	{
 		"id": "5795",
@@ -8510,12 +8510,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "064"
 	},
 	{
 		"id": "5976",
 		"collection": "Annihilation Herald of Galactus",
-		"title": "Annihilation",
+		"title": "Annihilation Herald of Galactus",
 		"vol": 1,
 		"num": 1,
 		"date": "2007-02-28",
@@ -8538,12 +8538,12 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "065"
 	},
 	{
 		"id": "6175",
 		"collection": "Annihilation Herald of Galactus",
-		"title": "Annihilation",
+		"title": "Annihilation Herald of Galactus",
 		"vol": 1,
 		"num": 2,
 		"date": "2007-04-04",
@@ -8565,7 +8565,7 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "059"
+		"sortid": "065"
 	},
 	{
 		"id": "3649",
@@ -8582,7 +8582,7 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "060"
+		"sortid": "066"
 	},
 	{
 		"id": "4076",
@@ -8606,7 +8606,7 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "060"
+		"sortid": "066"
 	},
 	{
 		"id": "4188",
@@ -8630,7 +8630,7 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "060"
+		"sortid": "066"
 	},
 	{
 		"id": "4287",
@@ -8655,7 +8655,7 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "060"
+		"sortid": "066"
 	},
 	{
 		"id": "4443",
@@ -8679,7 +8679,7 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "060"
+		"sortid": "066"
 	},
 	{
 		"id": "3529",
@@ -8703,7 +8703,7 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "061"
+		"sortid": "067"
 	},
 	{
 		"id": "3933",
@@ -8728,7 +8728,7 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "061"
+		"sortid": "067"
 	},
 	{
 		"id": "3906",
@@ -8756,7 +8756,7 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "061"
+		"sortid": "067"
 	},
 	{
 		"id": "4058",
@@ -8785,7 +8785,7 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "061"
+		"sortid": "067"
 	},
 	{
 		"id": "4173",
@@ -8810,7 +8810,7 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "061"
+		"sortid": "067"
 	},
 	{
 		"id": "4273",
@@ -8835,7 +8835,7 @@
 		"essential": true,
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "061"
+		"sortid": "067"
 	},
 	{
 		"id": "3977",
@@ -8861,7 +8861,7 @@
 		],
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "062"
+		"sortid": "068"
 	},
 	{
 		"id": "3900",
@@ -8885,7 +8885,7 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "063"
+		"sortid": "069"
 	},
 	{
 		"id": "4071",
@@ -8915,7 +8915,7 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "063"
+		"sortid": "069"
 	},
 	{
 		"id": "4184",
@@ -8939,7 +8939,7 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "063"
+		"sortid": "069"
 	},
 	{
 		"id": "4285",
@@ -8965,7 +8965,7 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "063"
+		"sortid": "069"
 	},
 	{
 		"id": "3043",
@@ -8986,7 +8986,7 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "064"
+		"sortid": "070"
 	},
 	{
 		"id": "3147",
@@ -9007,7 +9007,7 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "064"
+		"sortid": "070"
 	},
 	{
 		"id": "3148",
@@ -9028,7 +9028,7 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "064"
+		"sortid": "070"
 	},
 	{
 		"id": "3484",
@@ -9050,7 +9050,7 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "064"
+		"sortid": "070"
 	},
 	{
 		"id": "3896",
@@ -9072,7 +9072,7 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "064"
+		"sortid": "070"
 	},
 	{
 		"id": "4028",
@@ -9094,7 +9094,7 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "064"
+		"sortid": "070"
 	},
 	{
 		"id": "4172",
@@ -9116,7 +9116,7 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "064"
+		"sortid": "070"
 	},
 	{
 		"id": "4272",
@@ -9145,6 +9145,6 @@
 		"universe": "Earth-616",
 		"phaseid": "005",
 		"phasename": "Decimation",
-		"sortid": "064"
+		"sortid": "070"
 	}
 ]
