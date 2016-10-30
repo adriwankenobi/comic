@@ -7,14 +7,14 @@ import (
 )
 
 // Index
-func getIndexPage(phases *service.PhaseList, events *service.EventList) (string, error) {
-	return getTemplate(c["intro"], phases, events, 0), nil
+func getIndexPage(menu service.Menu) (string, error) {
+	return getTemplate(c["intro"], menu, 0), nil
 }
 
 // Issues
-func getIssuesPage(phases *service.PhaseList, events *service.EventList, issues *service.ComicList) (string, error) {
+func getIssuesPage(menu service.Menu, issues *service.ComicList) (string, error) {
 	if issues.IsEmpty() {
-		return getNotFoundPage(phases, events), nil
+		return getNotFoundPage(menu), nil
 	}
 
 	issuesContent := ""
@@ -58,13 +58,13 @@ func getIssuesPage(phases *service.PhaseList, events *service.EventList, issues 
 	}
 	issuesContent = fmt.Sprintf("%s%s", issuesContent, c["clear-fix"])
 	content := fmt.Sprintf(c["content-issues"], (*issues)[0].PhaseID, (*issues)[0].SortID, (*issues)[0].Title, issuesContent)
-	return getTemplate(content, phases, events, -1), nil
+	return getTemplate(content, menu, -1), nil
 }
 
 // Phase
-func getPhasePage(phases *service.PhaseList, events *service.EventList, fissues *service.Fissues) (string, error) {
+func getPhasePage(menu service.Menu, fissues *service.Fissues) (string, error) {
 	if fissues.IsEmpty() {
-		return getNotFoundPage(phases, events), nil
+		return getNotFoundPage(menu), nil
 	}
 
 	issues := (*fissues).List
@@ -79,25 +79,25 @@ func getPhasePage(phases *service.PhaseList, events *service.EventList, fissues 
 		issuesContent = fmt.Sprintf("%s%s", issuesContent, conIssue)
 	}
 	content := fmt.Sprintf(c["content"], fissues.Phase.Name, issuesContent)
-	return getTemplate(content, phases, events, 1), nil
+	return getTemplate(content, menu, 1), nil
 }
 
 // About
-func getAboutPage(phases *service.PhaseList, events *service.EventList) string {
-	return getTemplate(c["about"], phases, events, 3)
+func getAboutPage(menu service.Menu) string {
+	return getTemplate(c["about"], menu, 3)
 }
 
 // Not found
-func getNotFoundPage(phases *service.PhaseList, events *service.EventList) string {
-	return getTemplate(c["not-found"], phases, events, -1)
+func getNotFoundPage(menu service.Menu) string {
+	return getTemplate(c["not-found"], menu, -1)
 }
 
 // Utils
 // Menu
-func getPhasesMenuList(phases []service.Phase, n int) []string {
+func getMenuList(namables service.NamableList, n int, link string, showID bool) []string {
 	result := make([]string, n)
-	m := len(phases) / n
-	r := len(phases) % n
+	m := len(namables) / n
+	r := len(namables) % n
 	start := 0
 	for i := 0; i < n; i++ {
 		list := ""
@@ -107,8 +107,11 @@ func getPhasesMenuList(phases []service.Phase, n int) []string {
 			r--
 		}
 		for j := start; j < end; j++ {
-			link := fmt.Sprintf("/phases/%s", phases[j].ID)
-			title := fmt.Sprintf("%v - %s", j+1, phases[j].Name)
+			link := fmt.Sprintf("/%s/%s", link, namables[j].ID)
+			title := namables[j].Name
+			if showID {
+				title = fmt.Sprintf("%v - %s", j+1, title)
+			}
 			li := fmt.Sprintf(c["list-link"], link, title)
 			list = fmt.Sprintf("%s%s", list, li)
 		}
@@ -118,35 +121,12 @@ func getPhasesMenuList(phases []service.Phase, n int) []string {
 	return result
 }
 
-func getEventsMenuList(events []service.Event, n int) []string {
-	result := make([]string, n)
-	m := len(events) / n
-	r := len(events) % n
-	start := 0
-	for i := 0; i < n; i++ {
-		list := ""
-		end := start + m
-		if r != 0 {
-			end++
-			r--
-		}
-		for j := start; j < end; j++ {
-			link := fmt.Sprintf("/events/%s", events[j].ID)
-			li := fmt.Sprintf(c["list-link"], link, events[j].Name)
-			list = fmt.Sprintf("%s%s", list, li)
-		}
-		result[i] = list
-		start = end
-	}
-	return result
-}
-
-func getTemplate(content string, phases *service.PhaseList, events *service.EventList, n int) string {
-	phasesMenu := getPhasesMenuList(*phases, 3)
-	eventsMenu := getEventsMenuList(*events, 3)
+func getTemplate(content string, menu service.Menu, activeTab int) string {
+	phasesMenu := getMenuList(*menu.Phases, 3, "phases", true)
+	eventsMenu := getMenuList(*menu.Events, 3, "events", false)
 	active := [4]string{"", "", "", ""}
-	if n >= 0 && n <= 3 {
-		active[n] = "active"
+	if activeTab >= 0 && activeTab <= 3 {
+		active[activeTab] = "active"
 	}
 	return fmt.Sprintf(c["template"],
 		active[0],

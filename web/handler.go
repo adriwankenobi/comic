@@ -30,6 +30,11 @@ func init() {
 		return
 	}
 
+	menu, err := service.GetMenu(j["phases"], j["events"])
+	if err != nil {
+		return
+	}
+
 	// Start server
 	router := httprouter.New()
 
@@ -47,12 +52,12 @@ func init() {
 
 	// Get all phases
 	router.GET("/api/phases", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
-		return service.ListPhases(j["phases"])
+		return service.ListNamables(j["phases"])
 	}))
 
 	// Get this phase
 	router.GET("/api/phases/:id", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
-		return service.FindPhaseByID(j["phases"], p.ByName("id"))
+		return service.FindNamableByID(j["phases"], p.ByName("id"))
 	}))
 
 	// Get all first issues from all phases
@@ -77,74 +82,42 @@ func init() {
 
 	// Get all events
 	router.GET("/api/events", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
-		return service.ListEvents(j["events"])
+		return service.ListNamables(j["events"])
 	}))
 
 	// Get this event
 	router.GET("/api/events/:id", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
-		return service.FindEventByID(j["events"], p.ByName("id"))
+		return service.FindNamableByID(j["events"], p.ByName("id"))
 	}))
 
 	// WEB
 
 	// Index -> Get all first issues from all phases
 	router.GET("/", webHandle(func(p httprouter.Params) (string, error) {
-		phases, err := service.ListPhases(j["phases"])
-		if err != nil {
-			return "", err
-		}
-		events, err := service.ListEvents(j["events"])
-		if err != nil {
-			return "", err
-		}
-		return getIndexPage(phases, events)
+		return getIndexPage(menu)
 	}))
 
 	// Issues -> Get all first issues from this phases
 	router.GET("/phases/:id", webHandle(func(p httprouter.Params) (string, error) {
-		phases, err := service.ListPhases(j["phases"])
-		if err != nil {
-			return "", err
-		}
-		events, err := service.ListEvents(j["events"])
-		if err != nil {
-			return "", err
-		}
 		issues, err := service.FindFirstIssuesByPhaseID(j["fissues"], p.ByName("id"))
 		if err != nil {
 			return "", err
 		}
-		return getPhasePage(phases, events, issues)
+		return getPhasePage(menu, issues)
 	}))
 
 	// Issues -> Get all issues from this comic from this phase
 	router.GET("/phases/:id/issues/:sortid", webHandle(func(p httprouter.Params) (string, error) {
-		phases, err := service.ListPhases(j["phases"])
-		if err != nil {
-			return "", err
-		}
-		events, err := service.ListEvents(j["events"])
-		if err != nil {
-			return "", err
-		}
 		issues, err := service.ListComicsBySortID(j[fmt.Sprintf("comics-phase-%s", p.ByName("id"))], p.ByName("sortid"))
 		if err != nil {
 			return "", err
 		}
-		return getIssuesPage(phases, events, issues)
+		return getIssuesPage(menu, issues)
 	}))
 
 	// About
 	router.GET("/about", webHandle(func(p httprouter.Params) (string, error) {
-		phases, err := service.ListPhases(j["phases"])
-		if err != nil {
-			return "", err
-		}
-		events, err := service.ListEvents(j["events"])
-		if err != nil {
-			return "", err
-		}
-		return getAboutPage(phases, events), nil
+		return getAboutPage(menu), nil
 	}))
 
 	http.Handle("/", router)

@@ -4,6 +4,28 @@ import (
 	"github.com/elgs/jsonql"
 )
 
+// Menu
+type Menu struct {
+	Phases *NamableList
+	Events *NamableList
+}
+
+// Get menu
+func GetMenu(phases *jsonql.JSONQL, events *jsonql.JSONQL) (Menu, error) {
+	m := Menu{}
+	phaseList, err := ListNamables(phases)
+	if err != nil {
+		return m, err
+	}
+	m.Phases = phaseList
+	eventList, err := ListNamables(events)
+	if err != nil {
+		return m, err
+	}
+	m.Events = eventList
+	return m, nil
+}
+
 // Find comics
 func FindComicByID(comics *jsonql.JSONQL, id string) (*Comic, error) {
 	list, err := FindComicList(comics, "id='"+id+"'")
@@ -25,20 +47,20 @@ func ListComicsBySortID(comics *jsonql.JSONQL, sortid string) (*ComicList, error
 	return FindComicList(comics, "sortid='"+sortid+"'")
 }
 
-// Find phases
-func FindPhaseByID(phases *jsonql.JSONQL, id string) (*Phase, error) {
-	list, err := FindPhaseList(phases, "id='"+id+"'")
+// Find namables
+func FindNamableByID(namables *jsonql.JSONQL, id string) (*Namable, error) {
+	list, err := FindNamableList(namables, "id='"+id+"'")
 	if err != nil {
-		return &Phase{}, err
+		return &Namable{}, err
 	}
 	if len(*list) <= 0 {
-		return &Phase{}, nil
+		return &Namable{}, nil
 	}
 	return &(*list)[0], nil
 }
 
-func ListPhases(phases *jsonql.JSONQL) (*PhaseList, error) {
-	return FindPhaseList(phases, "id!=''")
+func ListNamables(namables *jsonql.JSONQL) (*NamableList, error) {
+	return FindNamableList(namables, "id!=''")
 }
 
 // Find first issues
@@ -57,22 +79,6 @@ func ListFirstIssues(fissues *jsonql.JSONQL) (*FissuesList, error) {
 	return FindFissuesList(fissues, "phase.id!=''")
 }
 
-// Find events
-func FindEventByID(events *jsonql.JSONQL, id string) (*Event, error) {
-	list, err := FindEventList(events, "id='"+id+"'")
-	if err != nil {
-		return &Event{}, err
-	}
-	if len(*list) <= 0 {
-		return &Event{}, nil
-	}
-	return &(*list)[0], nil
-}
-
-func ListEvents(events *jsonql.JSONQL) (*EventList, error) {
-	return FindEventList(events, "id!=''")
-}
-
 // Utils
 func FindComicList(comics *jsonql.JSONQL, q string) (*ComicList, error) {
 	result, err := comics.Query(q)
@@ -82,12 +88,12 @@ func FindComicList(comics *jsonql.JSONQL, q string) (*ComicList, error) {
 	return NewComicList(result)
 }
 
-func FindPhaseList(phases *jsonql.JSONQL, q string) (*PhaseList, error) {
-	result, err := phases.Query(q)
+func FindNamableList(namables *jsonql.JSONQL, q string) (*NamableList, error) {
+	result, err := namables.Query(q)
 	if err != nil {
 		return nil, err
 	}
-	return NewPhaseList(result)
+	return NewNamableList(result)
 }
 
 func FindFissuesList(fissues *jsonql.JSONQL, q string) (*FissuesList, error) {
@@ -96,12 +102,4 @@ func FindFissuesList(fissues *jsonql.JSONQL, q string) (*FissuesList, error) {
 		return nil, err
 	}
 	return NewFissuesList(result)
-}
-
-func FindEventList(events *jsonql.JSONQL, q string) (*EventList, error) {
-	result, err := events.Query(q)
-	if err != nil {
-		return nil, err
-	}
-	return NewEventList(result)
 }

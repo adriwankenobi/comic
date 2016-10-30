@@ -72,55 +72,32 @@ func (c *ComicList) IsEmpty() bool {
 	return len(*c) <= 0
 }
 
-// Phases
-type Phase struct {
+// Namable
+type Namable struct {
 	ID   string `json:"id"`
 	Name string `json:"name"`
 }
-type PhaseList []Phase
+type NamableList []Namable
 
-func (p *Phase) ToJson() ([]byte, error) {
-	return json.MarshalIndent(p, "", "	")
+func (n *Namable) ToJson() ([]byte, error) {
+	return json.MarshalIndent(n, "", "	")
 }
 
-func (p *Phase) IsEmpty() bool {
-	return p.ID == "" && p.Name == ""
+func (n *Namable) IsEmpty() bool {
+	return n.ID == "" && n.Name == ""
 }
 
-func (p *PhaseList) ToJson() ([]byte, error) {
-	return json.MarshalIndent(p, "", "	")
+func (n *NamableList) ToJson() ([]byte, error) {
+	return json.MarshalIndent(n, "", "	")
 }
 
-func (p *PhaseList) IsEmpty() bool {
-	return len(*p) <= 0
-}
-
-// Events
-type Event struct {
-	ID   string `json:"id"`
-	Name string `json:"name"`
-}
-type EventList []Event
-
-func (e *Event) ToJson() ([]byte, error) {
-	return json.MarshalIndent(e, "", "	")
-}
-
-func (e *Event) IsEmpty() bool {
-	return e.ID == "" && e.Name == ""
-}
-
-func (e *EventList) ToJson() ([]byte, error) {
-	return json.MarshalIndent(e, "", "	")
-}
-
-func (e *EventList) IsEmpty() bool {
-	return len(*e) <= 0
+func (n *NamableList) IsEmpty() bool {
+	return len(*n) <= 0
 }
 
 // First issues
 type Fissues struct {
-	Phase Phase     `json:"phase"`
+	Phase Namable   `json:"phase"`
 	List  ComicList `json:"list,omitempty"`
 }
 type FissuesList []Fissues
@@ -229,74 +206,39 @@ func NewStringList(in interface{}) []string {
 	return ss
 }
 
-func NewPhase(in interface{}) (Phase, error) {
+func NewNamable(in interface{}) (Namable, error) {
 	m := in.(map[string]interface{})
-	p := Phase{}
+	n := Namable{}
 	for i, e := range m {
 		switch i {
 		case "id":
-			p.ID = e.(string)
+			n.ID = e.(string)
 			break
 		case "name":
-			p.Name = e.(string)
+			n.Name = e.(string)
 			break
 		default:
-			return p, fmt.Errorf("Unknown field: %v", i)
+			return n, fmt.Errorf("Unknown field: %v", i)
 		}
 	}
-	if p.ID == "" {
-		return p, fmt.Errorf("Phase doesn't contain 'id' field: %v", p)
+	if n.ID == "" {
+		return n, fmt.Errorf("Namable doesn't contain 'id' field: %v", n)
 	}
-	return p, nil
+	return n, nil
 }
 
-func NewPhaseList(in interface{}) (*PhaseList, error) {
+func NewNamableList(in interface{}) (*NamableList, error) {
 	all := in.([]interface{})
-	phases := make(PhaseList, len(all))
+	namables := make(NamableList, len(all))
 	for i, e := range all {
 		m := e.(map[string]interface{})
-		p, err := NewPhase(m)
+		n, err := NewNamable(m)
 		if err != nil {
-			return &phases, err
+			return &namables, err
 		}
-		phases[i] = p
+		namables[i] = n
 	}
-	return &phases, nil
-}
-
-func NewEvent(in interface{}) (Event, error) {
-	m := in.(map[string]interface{})
-	ev := Event{}
-	for i, e := range m {
-		switch i {
-		case "id":
-			ev.ID = e.(string)
-			break
-		case "name":
-			ev.Name = e.(string)
-			break
-		default:
-			return ev, fmt.Errorf("Unknown field: %v", i)
-		}
-	}
-	if ev.ID == "" {
-		return ev, fmt.Errorf("Event doesn't contain 'id' field: %v", ev)
-	}
-	return ev, nil
-}
-
-func NewEventList(in interface{}) (*EventList, error) {
-	all := in.([]interface{})
-	events := make(EventList, len(all))
-	for i, e := range all {
-		m := e.(map[string]interface{})
-		ev, err := NewEvent(m)
-		if err != nil {
-			return &events, err
-		}
-		events[i] = ev
-	}
-	return &events, nil
+	return &namables, nil
 }
 
 func NewFissues(in interface{}) (Fissues, error) {
@@ -305,7 +247,7 @@ func NewFissues(in interface{}) (Fissues, error) {
 	for i, e := range m {
 		switch i {
 		case "phase":
-			phase, err := NewPhase(e)
+			phase, err := NewNamable(e)
 			if err != nil {
 				return is, err
 			}

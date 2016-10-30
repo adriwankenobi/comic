@@ -16,10 +16,10 @@ func JsonGenerator(path, out string) error {
 	comics := ComicList{}
 
 	// New phase list
-	phases := PhaseList{}
+	phases := NamableList{}
 
 	// New events list
-	events := EventList{}
+	events := NamableList{}
 
 	// New issues phase list
 	fissues := FissuesList{}
@@ -30,13 +30,13 @@ func JsonGenerator(path, out string) error {
 		return err
 	}
 
-	eventsMap := map[string]Event{}
+	eventsMap := map[string]Namable{}
 	eventsComics := map[string]*ComicList{}
 	eventID := 0
 
 	// Loop through file sheets
 	for sheet_i, sheet := range xls.Sheets {
-		p := Phase{}
+		p := Namable{}
 		p.ID, err = getCode(sheet_i + 1)
 		if err != nil {
 			return err
@@ -124,7 +124,7 @@ func JsonGenerator(path, out string) error {
 					if err != nil {
 						return err
 					}
-					e = Event{ID: eID, Name: event}
+					e = Namable{ID: eID, Name: event}
 					eventsMap[event] = e
 					eventsComics[eID] = &ComicList{}
 					events = append(events, e)
