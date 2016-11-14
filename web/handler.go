@@ -103,7 +103,7 @@ func init() {
 		if err != nil {
 			return "", err
 		}
-		return getFissuesPage(menu, issues)
+		return getPhasesFissuesPage(menu, issues)
 	}))
 
 	// Issues -> Get all issues from this comic from this phase
@@ -121,7 +121,7 @@ func init() {
 		if err != nil {
 			return "", err
 		}
-		return getFissuesPage(menu, issues)
+		return getEventsFissuesPage(menu, issues)
 	}))
 
 	// About

@@ -47,6 +47,7 @@ func getIssuesPage(menu service.Menu, issues *service.ComicList) (string, error)
 			e.PhaseID,
 			e.PhaseName,
 			displayEvent,
+			e.EventID,
 			e.Event,
 			essential,
 			strings.Join(e.Characters, ", "),
@@ -62,7 +63,15 @@ func getIssuesPage(menu service.Menu, issues *service.ComicList) (string, error)
 }
 
 // Fissues
-func getFissuesPage(menu service.Menu, fissues *service.Fissues) (string, error) {
+func getPhasesFissuesPage(menu service.Menu, fissues *service.Fissues) (string, error) {
+	return getFissuesPage(menu, fissues, 1)
+}
+
+func getEventsFissuesPage(menu service.Menu, fissues *service.Fissues) (string, error) {
+	return getFissuesPage(menu, fissues, 2)
+}
+
+func getFissuesPage(menu service.Menu, fissues *service.Fissues, activeTab int) (string, error) {
 	if fissues.IsEmpty() {
 		return getNotFoundPage(menu), nil
 	}
@@ -71,15 +80,11 @@ func getFissuesPage(menu service.Menu, fissues *service.Fissues) (string, error)
 	phaseID := fissues.Namable.ID
 	issuesContent := ""
 	for _, i := range issues {
-		year := ""
-		if i.Date != "" {
-			year = i.Date[:4]
-		}
-		conIssue := fmt.Sprintf(c["content-fissue"], i.PhaseID, i.SortID, i.Pic, i.Title, year, "Protagonist", phaseID, i.SortID, i.Title)
+		conIssue := fmt.Sprintf(c["content-fissue"], i.PhaseID, i.SortID, i.Pic, i.Title, i.Date[:4], i.Characters[0], phaseID, i.SortID, i.Title)
 		issuesContent = fmt.Sprintf("%s%s", issuesContent, conIssue)
 	}
 	content := fmt.Sprintf(c["content"], fissues.Namable.Name, issuesContent)
-	return getTemplate(content, menu, 1), nil
+	return getTemplate(content, menu, activeTab), nil
 }
 
 // About

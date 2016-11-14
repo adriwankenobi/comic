@@ -61,112 +61,115 @@ func JsonGenerator(path, out string) error {
 			if err != nil {
 				return err
 			}
-			vol, err := row.Cells[vol_col].Int()
-			if err != nil {
-				return err
-			}
-			num, err := row.Cells[num_col].Int()
-			if err != nil {
-				return err
-			}
-			title, err := row.Cells[title_col].String()
-			if err != nil {
-				return err
-			}
-			date, err := row.Cells[date_col].String()
-			if err != nil {
-				return err
-			}
-			event, err := row.Cells[event_col].String()
-			if err != nil {
-				return err
-			}
-			characters, err := row.Cells[characters_col].String()
-			if err != nil {
-				return err
-			}
-			creators, err := row.Cells[creators_col].String()
-			if err != nil {
-				return err
-			}
-			pic, err := row.Cells[pic_col].String()
-			if err != nil {
-				return err
-			}
-			universe, err := row.Cells[universe_col].String()
-			if err != nil {
-				return err
-			}
-			essential, err := row.Cells[essential_col].String()
-			if err != nil {
-				return err
-			}
-			var comments string
-			if len(row.Cells) > mandatory_cols {
-				comments, err = row.Cells[comments_col].String()
+			if collection != "" {
+				vol, err := row.Cells[vol_col].Int()
 				if err != nil {
 					return err
 				}
-			}
-			c := Comic{}
-			c.ID = id
-			c.Collection = collection
-			c.Vol = vol
-			c.Num = num
-			c.Title = title
-			c.Date = date
-			if event != "" {
-				c.Event = event
-				e, exists := eventsMap[event]
-				if !exists {
-					eventID++
-					eID, err := getCode(eventID)
+				num, err := row.Cells[num_col].Int()
+				if err != nil {
+					return err
+				}
+				title, err := row.Cells[title_col].String()
+				if err != nil {
+					return err
+				}
+				date, err := row.Cells[date_col].String()
+				if err != nil {
+					return err
+				}
+				event, err := row.Cells[event_col].String()
+				if err != nil {
+					return err
+				}
+				characters, err := row.Cells[characters_col].String()
+				if err != nil {
+					return err
+				}
+				creators, err := row.Cells[creators_col].String()
+				if err != nil {
+					return err
+				}
+				pic, err := row.Cells[pic_col].String()
+				if err != nil {
+					return err
+				}
+				universe, err := row.Cells[universe_col].String()
+				if err != nil {
+					return err
+				}
+				essential, err := row.Cells[essential_col].String()
+				if err != nil {
+					return err
+				}
+				var comments string
+				if len(row.Cells) > mandatory_cols {
+					comments, err = row.Cells[comments_col].String()
 					if err != nil {
 						return err
 					}
-					e = Namable{ID: eID, Name: event}
-					eventsMap[event] = e
-					eventsComics[eID] = &ComicList{}
-					events = append(events, e)
 				}
-				c.EventID = e.ID
-			}
-			c.Characters = strings.Split(characters, ", ")
-			c.Creators = strings.Split(creators, ", ")
-			c.Pic = pic
-			c.Universe = universe
-			c.Essential = essential == "YES"
-			if comments != "" {
-				c.Comments = strings.Split(comments, ", ")
-			}
-			c.PhaseID = p.ID
-			c.PhaseName = p.Name
-			if title != lastTitle {
-				sortID++
-				lastTitle = title
-				sID, err := getCode(sortID)
+				c := Comic{}
+				c.ID = id
+				c.Collection = collection
+				c.Vol = vol
+				c.Num = num
+				c.Title = title
+				c.Date = date
+				if event != "" {
+					c.Event = event
+					e, exists := eventsMap[event]
+					if !exists {
+						eventID++
+						eID, err := getCode(eventID)
+						if err != nil {
+							return err
+						}
+						e = Namable{ID: eID, Name: event}
+						eventsMap[event] = e
+						eventsComics[eID] = &ComicList{}
+						events = append(events, e)
+					}
+					c.EventID = e.ID
+				}
+				c.Characters = strings.Split(characters, ", ")
+				c.Creators = strings.Split(creators, ", ")
+				c.Pic = pic
+				c.Universe = universe
+				c.Essential = essential == "YES"
+				if comments != "" {
+					c.Comments = strings.Split(comments, ", ")
+				}
+				c.PhaseID = p.ID
+				c.PhaseName = p.Name
+				if title != lastTitle {
+					sortID++
+					lastTitle = title
+					sID, err := getCode(sortID)
+					if err != nil {
+						return err
+					}
+					co := Comic{
+						Pic:     pic,
+						Title:   title,
+						Date:    date,
+						SortID:  sID,
+						PhaseID: p.ID,
+						Characters: []string{c.Characters[0]},
+					}
+					iPhases.List = append(iPhases.List, co)
+					if event != "" {
+						co.Event = event
+						*(eventsComics[c.EventID]) = append(*(eventsComics[c.EventID]), co)
+					}
+				}
+				c.SortID, err = getCode(sortID)
 				if err != nil {
 					return err
 				}
-				co := Comic{
-					Pic:     pic,
-					Title:   title,
-					Date:    date,
-					SortID:  sID,
-					PhaseID: p.ID,
-				}
-				iPhases.List = append(iPhases.List, co)
-				if event != "" {
-					co.Event = event
-					*(eventsComics[c.EventID]) = append(*(eventsComics[c.EventID]), co)
-				}
+				comics = append(comics, c)
+				cp = append(cp, c)
 			}
-			c.SortID, err = getCode(sortID)
-			if err != nil {
-				return err
-			}
-			comics = append(comics, c)
-			cp = append(cp, c)
 		}
 
 		fissuesPhases = append(fissuesPhases, iPhases)
@@ -226,16 +229,18 @@ func UpdateXLSX(path string, start, end int, mPubKey, mPriKey string) error {
 						if err != nil {
 							return err
 						}
-						num, err := row.Cells[num_col].Int()
-						if err != nil {
-							return err
-						}
-						fmt.Printf("[Finding] %s %v\n", collection, num)
-						id, err = m.Find(collection, num, start, end)
-						if err != nil || id == "" {
-							fmt.Printf("%s\n", err.Error())
-						} else {
-							row.Cells[id_col].SetString(id)
+						if collection != "" {
+							num, err := row.Cells[num_col].Int()
+							if err != nil {
+								return err
+							}
+							fmt.Printf("[Finding] %s %v\n", collection, num)
+							id, err = m.Find(collection, num, start, end)
+							if err != nil || id == "" {
+								fmt.Printf("%s\n", err.Error())
+							} else {
+								row.Cells[id_col].SetString(id)
+							}
 						}
 					}
 					if id != "" {

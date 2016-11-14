@@ -9,14 +9,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man"
+			"Spider-Man",
+			"Iron Man"
 		],
 		"creators": [
-			"Mike Deodato",
-			"Stan Lee",
-			"Matt Milla",
-			"Cory Petit",
-			"Jose Pimentel"
+			"J Michael Straczynski",
+			"Ron Garney"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4bc3291a4b067.jpg",
 		"universe": "Earth-616",
@@ -35,15 +33,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man",
-			"Spider-Man"
+			"Spider-Man",
+			"Iron Man"
 		],
 		"creators": [
-			"Ron Garney",
-			"Stan Lee",
-			"Matt Milla",
-			"Cory Petit",
-			"Jose Pimentel"
+			"J Michael Straczynski",
+			"Tyler Kirkham"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4f68e11c1966e.jpg",
 		"universe": "Earth-616",
@@ -62,14 +57,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man",
 			"Spider-Man",
-			"Winter Soldier"
+			"Iron Man"
 		],
 		"creators": [
-			"Ron Garney",
-			"Stan Lee",
-			"Cory Petit"
+			"J Michael Straczynski",
+			"Tyler Kirkham"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/4f68e4809c9d4.jpg",
 		"universe": "Earth-616",
@@ -88,14 +81,17 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Iron Man",
+			"Doctor Strange",
+			"Charles Xavier",
+			"Reed Richards",
+			"Black Bolt",
+			"Namor",
+			"Black Panther"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Gabriele Dell'Otto",
-			"Chris Eliopoulos",
-			"Alex Maleev",
-			"Dave Stewart"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/55ba3e95d3a92.jpg",
 		"universe": "Earth-616",
@@ -117,15 +113,16 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Fantastic Four"
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing",
+			"Doctor Doom"
 		],
 		"creators": [
-			"Jim Calafiore",
-			"Mike McKone",
-			"Randy Gentile",
-			"Andy Lanning",
-			"Stan Lee",
-			"Paul Mounts"
+			"J Michael Straczynski",
+			"Mike McKone"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc4790a6079b.jpg",
 		"universe": "Earth-616",
@@ -145,15 +142,15 @@
 		"eventid": "006",
 		"characters": [
 			"Fantastic Four",
-			"Thing"
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing",
+			"Doctor Doom"
 		],
 		"creators": [
-			"Jim Calafiore",
-			"Mike McKone",
-			"Andy Lanning",
-			"Stan Lee",
-			"Paul Mounts",
-			"Rus Wooton"
+			"J Michael Straczynski",
+			"Mike McKone"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4d25090fb0433.jpg",
 		"universe": "Earth-616",
@@ -168,14 +165,50 @@
 		"title": "Civil War",
 		"vol": 1,
 		"num": 1,
+		"date": "2006-05-03",
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Steve Rogers",
+			"Iron Man",
+			"Avengers",
+			"New Warriors",
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing",
+			"X-Men",
+			"Cyclops",
+			"Wolverine",
+			"Luke Cage",
+			"Spider-Woman",
+			"Spider-Man",
+			"Carol Danvers",
+			"She-Hulk",
+			"Doctor Strange",
+			"Young Avengers",
+			"Hank Pym",
+			"Sam Wilson",
+			"Wasp",
+			"Cable",
+			"Maria Hill",
+			"Black Panther",
+			"Thunderbolts",
+			"Hercules",
+			"Storm",
+			"Cloack",
+			"Dagger",
+			"Wonder Man",
+			"Black Widow",
+			"Storm",
+			"Punisher"
 		],
 		"creators": [
-			""
+			"Mark Millar",
+			"Steve McNiven"
 		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/e/f0/511307b2f1200/detail.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "006",
@@ -192,12 +225,9 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"She-Hulk (Jennifer Walters)"
+			"She-Hulk"
 		],
 		"creators": [
-			"Greg Horn",
-			"Dave Kemp",
-			"Dave Sharpe",
 			"Dan Slott",
 			"Paul Smith"
 		],
@@ -217,13 +247,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Namor"
 		],
 		"creators": [
-			"Carlos Alberto cruz Cuevas",
-			"Edgar Delgado",
-			"Randy Gentile",
 			"Marc Guggenheim",
 			"Humberto Ramos"
 		],
@@ -244,14 +271,19 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men"
+			"X-Factor",
+			"Madrox",
+			"Siryn",
+			"Strong Guy",
+			"Wolfsbane",
+			"Layla Miller",
+			"Rictor",
+			"Monet",
+			"Quicksilver"
 		],
 		"creators": [
 			"Peter David",
-			"Wade von Grawbadger",
-			"Cory Petit",
-			"Ryan Sook",
-			"Jose Villarrubia"
+			"Dennis Calero"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc32fb49846d.jpg",
 		"universe": "Earth-616",
@@ -270,14 +302,13 @@
 		"eventid": "006",
 		"characters": [
 			"Avengers",
-			"Captain America"
+			"Steve Rogers",
+			"Sam Wilson",
+			"Maria Hill"
 		],
 		"creators": [
-			"Comicraft",
 			"Brian Michael Bendis",
-			"Howard Chaykin",
-			"Jose Pimentel",
-			"Dave Stewart"
+			"Howard Chaykin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/571fbc2daae2d.jpg",
 		"universe": "Earth-616",
@@ -296,21 +327,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain America",
-			"Colossus",
-			"Cyclops",
-			"Goliath (Bill Foster)",
-			"Human Torch",
-			"Iron Man",
-			"Sentry (Robert Reynolds)",
-			"Spider-Man",
-			"Wolverine"
+			"Ben Urich",
+			"Norman Osborn",
+			"Speedball"
 		],
 		"creators": [
-			"Ramon Bachs",
-			"Steve Leiber",
 			"Paul Jenkins",
-			"John Watson"
+			"Ramon Bachs",
+			"Steve Lieber"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/56f993e54beb5.jpg",
 		"universe": "Earth-616",
@@ -329,15 +353,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man",
-			"Spider-Man"
+			"Spider-Man",
+			"Iron Man"
 		],
 		"creators": [
-			"Ron Garney",
-			"Stan Lee",
-			"Matt Milla",
-			"Cory Petit",
-			"Bill Reinhold"
+			"J Michael Straczynski",
+			"Ron Garney"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/56fd2b470c37c.jpg",
 		"universe": "Earth-616",
@@ -356,21 +377,44 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain America",
-			"Hawkeye (Kate Bishop)",
-			"Hulkling",
+			"Steve Rogers",
 			"Iron Man",
-			"Patriot",
+			"Avengers",
+			"New Warriors",
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing",
+			"X-Men",
+			"Cyclops",
+			"Wolverine",
+			"Luke Cage",
+			"Spider-Woman",
 			"Spider-Man",
-			"Wiccan",
-			"Young Avengers"
+			"Carol Danvers",
+			"She-Hulk",
+			"Doctor Strange",
+			"Young Avengers",
+			"Hank Pym",
+			"Sam Wilson",
+			"Wasp",
+			"Cable",
+			"Maria Hill",
+			"Black Panther",
+			"Thunderbolts",
+			"Hercules",
+			"Storm",
+			"Cloack",
+			"Dagger",
+			"Wonder Man",
+			"Black Widow",
+			"Storm",
+			"Punisher"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Morry Hollowell",
-			"Steve McNiven",
 			"Mark Millar",
-			"Dexter Vines"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/511307fb3f7bc.jpg",
 		"universe": "Earth-616",
@@ -392,16 +436,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain Marvel (Carol Danvers)",
-			"Iron Man",
-			"Spider-Man"
+			"Spider-Man",
+			"Iron Man"
 		],
 		"creators": [
-			"Ron Garney",
-			"Stan Lee",
-			"Matt Milla",
-			"Cory Petit",
-			"Bill Reinhold"
+			"J Michael Straczynski",
+			"Ron Garney"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/56fd2c41e38cf.jpg",
 		"universe": "Earth-616",
@@ -420,13 +460,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Ben Urich",
+			"Norman Osborn",
+			"Speedball"
 		],
 		"creators": [
-			"Ramon Bachs",
-			"Steve Leiber",
 			"Paul Jenkins",
-			"John Watson"
+			"Ramon Bachs",
+			"Steve Lieber"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/56f9947ca6dff.jpg",
 		"universe": "Earth-616",
@@ -445,15 +486,11 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"She-Hulk (Jennifer Walters)"
+			"She-Hulk"
 		],
 		"creators": [
-			"Juan Bobillo",
-			"Greg Horn",
-			"Dave Kemp",
-			"Dave Sharpe",
 			"Dan Slott",
-			"Marcelo Sosa"
+			"Paul Smith"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bb6f73b87e5a.jpg",
 		"universe": "Earth-616",
@@ -471,14 +508,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Thunderbolts"
+			"Thunderbolts",
+			"Songbird"
 		],
 		"creators": [
-			"Gary Erskine",
-			"Tom Grummett",
 			"Fabian Nicieza",
-			"Chris Sotomayor",
-			"Richard Starkings"
+			"Tom Grummett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bc468d7b2c9d.jpg",
 		"universe": "Earth-616",
@@ -497,13 +532,12 @@
 		"eventid": "006",
 		"characters": [
 			"Avengers",
-			"Luke Cage"
+			"Luke Cage",
+			"Jessica Jones"
 		],
 		"creators": [
-			"Comicraft",
 			"Brian Michael Bendis",
-			"Dave McCaig",
-			"Leinil Francis Yu"
+			"Leinil Yu"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/571fbde825568.jpg",
 		"universe": "Earth-616",
@@ -522,12 +556,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man"
+			"Spider-Man",
+			"Black Cat"
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Clayton Crain",
-			"Cory Petit"
+			"Clayton Crain"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bc5d7f10885e.jpg",
 		"universe": "Earth-616",
@@ -545,14 +579,19 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men"
+			"X-Factor",
+			"Madrox",
+			"Siryn",
+			"Strong Guy",
+			"Wolfsbane",
+			"Layla Miller",
+			"Rictor",
+			"Monet",
+			"Quicksilver"
 		],
 		"creators": [
-			"Dennis Calero",
 			"Peter David",
-			"Cory Petit",
-			"Ryan Sook",
-			"Jose Villarrubia"
+			"Dennis Calero"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/4bc5d7e61dacd.jpg",
 		"universe": "Earth-616",
@@ -574,10 +613,7 @@
 		],
 		"creators": [
 			"Peter David",
-			"Karl Kesel",
-			"Paul Mounts",
-			"Cory Petit",
-			"Mike Wieringo"
+			"Todd Nauck"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/56a8f2b5a9167.jpg",
 		"universe": "Earth-616",
@@ -595,16 +631,11 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Mysterio (Francis Klum)",
 			"Spider-Man"
 		],
 		"creators": [
-			"Rob Campanella",
 			"Peter David",
-			"Paul Mounts",
-			"Todd Nauck",
-			"Cory Petit",
-			"Mike Wieringo"
+			"Todd Nauck"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/56a8f0c3f2c5f.jpg",
 		"universe": "Earth-616",
@@ -622,16 +653,11 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Mysterio",
 			"Spider-Man"
 		],
 		"creators": [
-			"Rob Campanella",
 			"Peter David",
-			"Lee Loughridge",
-			"Todd Nauck",
-			"Cory Petit",
-			"Mike Wieringo"
+			"Todd Nauck"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/56a8f346d1128.jpg",
 		"universe": "Earth-616",
@@ -649,15 +675,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Ben Urich",
+			"Norman Osborn",
+			"Speedball"
 		],
 		"creators": [
-			"Ramon Bachs",
 			"Paul Jenkins",
-			"John Lucas",
-			"Laura Martin",
-			"Cory Petit",
-			"John Watson"
+			"Ramon Bachs",
+			"Steve Lieber"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/56f994e554803.jpg",
 		"universe": "Earth-616",
@@ -676,13 +701,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Heroes For Hire"
+			"Misty Knight",
+			"Shang-Chi",
+			"Black Cat",
+			"Colleen Wing"
 		],
 		"creators": [
 			"Justin Gray",
 			"Jimmy Palmiotti",
-			"Dave Lanphear",
-			"Tom Palmer",
 			"Billy Tucci"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/518821f4a2d6e.jpg",
@@ -702,14 +728,17 @@
 		"eventid": "006",
 		"characters": [
 			"Runaways",
-			"Young Avengers"
+			"Young Avengers",
+			"Hulkling",
+			"Patriot",
+			"Wiccan",
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Stefano Caselli",
-			"Jim Cheung",
-			"Randy Gentile",
-			"Daniele Rudoni",
-			"Zeb Wells"
+			"Zeb Wells",
+			"Stefano Caselli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5718ee6a84c6b.jpg",
 		"universe": "Earth-616",
@@ -729,14 +758,17 @@
 		"eventid": "006",
 		"characters": [
 			"Runaways",
-			"Young Avengers"
+			"Young Avengers",
+			"Hulkling",
+			"Patriot",
+			"Wiccan",
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Stefano Caselli",
-			"Jim Cheung",
-			"Randy Gentile",
-			"Daniele Rudoni",
-			"Zeb Wells"
+			"Zeb Wells",
+			"Stefano Caselli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5718ef23a698a.jpg",
 		"universe": "Earth-616",
@@ -756,14 +788,17 @@
 		"eventid": "006",
 		"characters": [
 			"Runaways",
-			"Young Avengers"
+			"Young Avengers",
+			"Hulkling",
+			"Patriot",
+			"Wiccan",
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Stefano Caselli",
-			"Jim Cheung",
-			"Randy Gentile",
-			"Daniele Rudoni",
-			"Zeb Wells"
+			"Zeb Wells",
+			"Stefano Caselli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5718f05fa1f5e.jpg",
 		"universe": "Earth-616",
@@ -782,18 +817,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Molly Hayes",
-			"Patriot",
 			"Runaways",
-			"Stature",
-			"Young Avengers"
+			"Young Avengers",
+			"Hulkling",
+			"Patriot",
+			"Wiccan",
+			"Kate Bishop",
+			"Cassie Lang",
+			"Vision"
 		],
 		"creators": [
-			"Stefano Caselli",
-			"Jim Cheung",
-			"Randy Gentile",
-			"Daniele Rudoni",
-			"Zeb Wells"
+			"Zeb Wells",
+			"Stefano Caselli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/5718ed9cc636e.jpg",
 		"universe": "Earth-616",
@@ -812,14 +847,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Thunderbolts"
+			"Thunderbolts",
+			"Songbird"
 		],
 		"creators": [
-			"Gary Erskine",
-			"Tom Grummett",
 			"Fabian Nicieza",
-			"Chris Sotomayor",
-			"Richard Starkings"
+			"Tom Grummett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc5da76d601f.jpg",
 		"universe": "Earth-616",
@@ -837,14 +870,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Thunderbolts"
+			"Thunderbolts",
+			"Songbird"
 		],
 		"creators": [
-			"Gary Erskine",
-			"Tom Grummett",
 			"Fabian Nicieza",
-			"Chris Sotomayor",
-			"Richard Starkings"
+			"Tom Grummett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc5d2e7b19cc.jpg",
 		"universe": "Earth-616",
@@ -862,16 +893,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Daredevil",
+			"Cable",
 			"Deadpool"
 		],
 		"creators": [
-			"Roberto Campus",
-			"Gotham Entertainment Group",
-			"Staz Johnson",
 			"Fabian Nicieza",
-			"Cory Petit",
-			"Cam Smith"
+			"Staz Johnson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/56e1e60d2c4b3.jpg",
 		"universe": "Earth-616",
@@ -889,20 +916,15 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain America",
 			"Fantastic Four",
-			"Invisible Woman",
-			"Iron Man",
-			"Mr. Fantastic"
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing"
 		],
 		"creators": [
-			"Jim Calafiore",
-			"Mike McKone",
-			"Adi Granov",
-			"Andy Lanning",
-			"Stan Lee",
-			"Paul Mounts",
-			"Rus Wooton"
+			"J Michael Straczynski",
+			"Mike McKone"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/4bc330444c729.jpg",
 		"universe": "Earth-616",
@@ -921,21 +943,13 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain Marvel (Carol Danvers)",
-			"Forge",
-			"Hellion",
-			"Iron Man",
-			"Surge",
-			"X-23",
-			"X-Men"
+			"X-Men",
+			"X-23"
 		],
 		"creators": [
 			"Craig Kyle",
 			"Chris Yost",
-			"Paco Medina",
-			"Brian Reber",
-			"Dave Sharpe",
-			"Juan Vlasco"
+			"Paco Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/5702abe8df20d.jpg",
 		"universe": "Earth-616",
@@ -953,15 +967,13 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"X-23"
 		],
 		"creators": [
 			"Craig Kyle",
 			"Chris Yost",
-			"Paco Medina",
-			"Brian Reber",
-			"Duncan Rouleau",
-			"Dave Sharpe"
+			"Duncan Rouleau"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/5702abe71cd5a.jpg",
 		"universe": "Earth-616",
@@ -979,15 +991,13 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"X-23"
 		],
 		"creators": [
 			"Craig Kyle",
 			"Chris Yost",
-			"Paco Medina",
-			"Brian Reber",
-			"Dave Sharpe",
-			"Juan Vlasco"
+			"Paco Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/5702ac6f73ae1.jpg",
 		"universe": "Earth-616",
@@ -1005,15 +1015,13 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"X-23"
 		],
 		"creators": [
 			"Craig Kyle",
 			"Chris Yost",
-			"Paco Medina",
-			"Brian Reber",
-			"Dave Sharpe",
-			"Juan Vlasco"
+			"Paco Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5702aca6407ee.jpg",
 		"universe": "Earth-616",
@@ -1031,15 +1039,13 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"X-23"
 		],
 		"creators": [
 			"Craig Kyle",
-			"Paco Medina",
-			"Mike Norton",
-			"Brian Reber",
-			"Dave Sharpe",
-			"Juan Vlasco"
+			"Chris Yost",
+			"Mike Norton"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5702ac75a43fe.jpg",
 		"universe": "Earth-616",
@@ -1057,38 +1063,19 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Beast",
-			"Bishop",
-			"Black Bolt",
 			"Black Panther",
-			"Captain America",
-			"Colossus",
-			"Doctor Strange",
-			"Fantastic Four",
-			"Goliath (Bill Foster)",
-			"Human Torch",
-			"Invisible Woman",
-			"Iron Man",
-			"Mr. Fantastic",
-			"Professor X",
-			"Spider-Man",
 			"Storm",
-			"Sub-Mariner",
-			"Thing",
-			"Wolverine"
+			"X-Men",
+			"Avengers"
 		],
 		"creators": [
-			"Frank Cho",
-			"Scot Eaton",
-			"Randy Gentile",
 			"Reginald Hudlin",
-			"Klaus Janson",
-			"Dean White"
+			"Scot Eaton"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5744bfa7e3063.jpg",
 		"universe": "Earth-616",
 		"comments": [
-			"T'Challa and Storm wedding"
+			"T'Challa and Storm get married"
 		],
 		"phaseid": "006",
 		"phasename": "Civil War",
@@ -1104,15 +1091,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Ben Urich",
+			"Norman Osborn",
+			"Speedball"
 		],
 		"creators": [
-			"Ramon Bachs",
 			"Paul Jenkins",
-			"John Lucas",
-			"Laura Martin",
-			"Cory Petit",
-			"John Watson"
+			"Ramon Bachs",
+			"Steve Lieber"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/90/56f99567b3185.jpg",
 		"universe": "Earth-616",
@@ -1131,15 +1117,13 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Black Panther"
+			"Black Panther",
+			"Storm",
+			"Doctor Doom"
 		],
 		"creators": [
-			"Scot Eaton",
-			"Randy Gentile",
-			"Trevor Hairsine",
 			"Reginald Hudlin",
-			"Klaus Janson",
-			"Dean White"
+			"Scot Eaton"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5745f5f7ac425.jpg",
 		"universe": "Earth-616",
@@ -1160,10 +1144,7 @@
 			"Iron Man"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Edgar Delgado",
-			"Adi Granov",
-			"Scott Hanna",
+			"Charles Knauf",
 			"Daniel Knauf",
 			"Patrick Zircher"
 		],
@@ -1184,18 +1165,13 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Black Bolt",
 			"Black Panther",
-			"Inhumans",
-			"Medusa",
-			"Storm"
+			"Storm",
+			"Inhumans"
 		],
 		"creators": [
-			"Manuel Garcia",
-			"Randy Gentile",
 			"Reginald Hudlin",
-			"Matt Milla",
-			"Esad Ribic"
+			"Manuel Garcia"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/5746f87b2d3e4.jpg",
 		"universe": "Earth-616",
@@ -1213,15 +1189,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Ben Urich",
+			"Norman Osborn",
+			"Speedball"
 		],
 		"creators": [
-			"Ramon Bachs",
 			"Paul Jenkins",
-			"John Lucas",
-			"Laura Martin",
-			"Cory Petit",
-			"John Watson"
+			"Ramon Bachs",
+			"Steve Lieber"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/56f995d77612b.jpg",
 		"universe": "Earth-616",
@@ -1240,13 +1215,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man"
+			"Spider-Man",
+			"Black Cat"
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Dan Kemp",
-			"Angel Medina",
-			"Cory Petit"
+			"Angel Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc5cf95094e2.jpg",
 		"universe": "Earth-616",
@@ -1264,18 +1238,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Chameleon",
-			"Scarecrow (Ebenezer Laughton)",
 			"Spider-Man",
-			"Swarm"
+			"Black Cat"
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Clayton Crain",
-			"Scott Hanna",
-			"Dan Kemp",
-			"Angel Medina",
-			"Cory Petit"
+			"Angel Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4bc5c9aee0e7e.jpg",
 		"universe": "Earth-616",
@@ -1293,15 +1261,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man"
+			"Spider-Man",
+			"Black Cat"
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Clayton Crain",
-			"Scott Hanna",
-			"Dan Kemp",
-			"Angel Medina",
-			"Cory Petit"
+			"Angel Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/90/4bc5c31ecce2a.jpg",
 		"universe": "Earth-616",
@@ -1319,15 +1284,44 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain America",
-			"Iron Man"
+			"Steve Rogers",
+			"Iron Man",
+			"Avengers",
+			"New Warriors",
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing",
+			"X-Men",
+			"Cyclops",
+			"Wolverine",
+			"Luke Cage",
+			"Spider-Woman",
+			"Spider-Man",
+			"Carol Danvers",
+			"She-Hulk",
+			"Doctor Strange",
+			"Young Avengers",
+			"Hank Pym",
+			"Sam Wilson",
+			"Wasp",
+			"Cable",
+			"Maria Hill",
+			"Black Panther",
+			"Thunderbolts",
+			"Hercules",
+			"Storm",
+			"Cloack",
+			"Dagger",
+			"Wonder Man",
+			"Black Widow",
+			"Storm",
+			"Punisher"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Morry Hollowell",
-			"Steve McNiven",
 			"Mark Millar",
-			"Dexter Vines"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/5113089c2a2cd.jpg",
 		"universe": "Earth-616",
@@ -1346,17 +1340,44 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
+			"Steve Rogers",
+			"Iron Man",
+			"Avengers",
+			"New Warriors",
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing",
+			"X-Men",
+			"Cyclops",
+			"Wolverine",
+			"Luke Cage",
+			"Spider-Woman",
+			"Spider-Man",
+			"Carol Danvers",
+			"She-Hulk",
+			"Doctor Strange",
+			"Young Avengers",
 			"Hank Pym",
-			"Thor",
-			"Tigra (Greer Nelson)",
-			"Wasp"
+			"Sam Wilson",
+			"Wasp",
+			"Cable",
+			"Maria Hill",
+			"Black Panther",
+			"Thunderbolts",
+			"Hercules",
+			"Storm",
+			"Cloack",
+			"Dagger",
+			"Wonder Man",
+			"Black Widow",
+			"Storm",
+			"Punisher"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Morry Hollowell",
-			"Steve McNiven",
 			"Mark Millar",
-			"Dexter Vines"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5113086a9cc96.jpg",
 		"universe": "Earth-616",
@@ -1375,14 +1396,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Ben Urich",
+			"Norman Osborn",
+			"Speedball"
 		],
 		"creators": [
-			"Ramon Bachs",
 			"Paul Jenkins",
-			"John Lucas",
-			"Laura Martin",
-			"Cory Petit"
+			"Ramon Bachs",
+			"Steve Lieber"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/e0/56f99647e5d74.jpg",
 		"universe": "Earth-616",
@@ -1401,15 +1422,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
+			"Cable",
 			"Deadpool"
 		],
 		"creators": [
-			"Amanda Conner",
-			"Gotham Entertainment Group",
-			"Klaus Janson",
-			"Staz Johnson",
 			"Fabian Nicieza",
-			"Cory Petit"
+			"Staz Johnson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/5616a00059612.jpg",
 		"universe": "Earth-616",
@@ -1431,12 +1449,8 @@
 			"Deadpool"
 		],
 		"creators": [
-			"Amanda Conner",
-			"Gotham Entertainment Group",
-			"Klaus Janson",
-			"Staz Johnson",
 			"Fabian Nicieza",
-			"Cory Petit"
+			"Staz Johnson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/56e1e7ac7e0f4.jpg",
 		"universe": "Earth-616",
@@ -1454,14 +1468,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man",
-			"Nitro",
-			"Wolverine"
+			"Wolverine",
+			"Namor"
 		],
 		"creators": [
-			"Carlos Alberto cruz Cuevas",
-			"Edgar Delgado",
-			"Randy Gentile",
 			"Marc Guggenheim",
 			"Humberto Ramos"
 		],
@@ -1482,13 +1492,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Namor"
 		],
 		"creators": [
-			"Carlos Alberto cruz Cuevas",
-			"Edgar Delgado",
-			"Randy Gentile",
 			"Marc Guggenheim",
 			"Humberto Ramos"
 		],
@@ -1509,13 +1516,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Namor"
 		],
 		"creators": [
-			"Carlos Alberto cruz Cuevas",
-			"Edgar Delgado",
-			"Randy Gentile",
 			"Marc Guggenheim",
 			"Humberto Ramos"
 		],
@@ -1536,14 +1540,11 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain America",
-			"S.H.I.E.L.D."
+			"Steve Rogers",
+			"Sharon Carter"
 		],
 		"creators": [
 			"Ed Brubaker",
-			"Frank D'Armata",
-			"Steve Epting",
-			"Randy Gentile",
 			"Mike Perkins"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/80/56f98fae9d219.jpg",
@@ -1563,13 +1564,11 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Steve Rogers",
+			"Bucky Barnes"
 		],
 		"creators": [
 			"Ed Brubaker",
-			"Frank D'Armata",
-			"Steve Epting",
-			"Randy Gentile",
 			"Mike Perkins"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/56f99059cc0aa.jpg",
@@ -1589,16 +1588,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Ben Urich",
+			"Norman Osborn",
+			"Speedball"
 		],
 		"creators": [
-			"Ramon Bachs",
-			"Steve Leiber",
-			"Randy Gentile",
 			"Paul Jenkins",
-			"John Lucas",
-			"Laura Martin",
-			"John Watson"
+			"Ramon Bachs",
+			"Steve Lieber"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/56f996f43b3e1.jpg",
 		"universe": "Earth-616",
@@ -1617,16 +1614,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain America",
 			"Spider-Man",
-			"Winter Soldier"
+			"Iron Man"
 		],
 		"creators": [
-			"Ron Garney",
-			"Matt Milla",
-			"Cory Petit",
-			"Bill Reinhold",
-			"J. Michael Straczynski"
+			"J Michael Straczynski",
+			"Ron Garney"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/56fd2cd1d3111.jpg",
 		"universe": "Earth-616",
@@ -1646,16 +1639,14 @@
 		"eventid": "006",
 		"characters": [
 			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
 			"Thing"
 		],
 		"creators": [
-			"Jim Calafiore",
-			"Mike McKone",
-			"Adi Granov",
-			"Andy Lanning",
-			"Paul Mounts",
-			"J. Michael Straczynski",
-			"Rus Wooton"
+			"J Michael Straczynski",
+			"Mike McKone"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc3303f4fd32.jpg",
 		"universe": "Earth-616",
@@ -1675,14 +1666,12 @@
 		"eventid": "006",
 		"characters": [
 			"Black Panther",
-			"Sub-Mariner"
+			"Storm",
+			"Namor"
 		],
 		"creators": [
-			"Gary Frank",
-			"Manuel Garcia",
-			"Randy Gentile",
 			"Reginald Hudlin",
-			"Matt Milla"
+			"Manuel Garcia"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/c0/5746f9ef545f7.jpg",
 		"universe": "Earth-616",
@@ -1701,16 +1690,11 @@
 		"eventid": "006",
 		"characters": [
 			"Black Panther",
-			"Captain America",
-			"Iron Man",
-			"Spider-Man"
+			"Storm"
 		],
 		"creators": [
-			"Manuel Garcia",
-			"Randy Gentile",
 			"Reginald Hudlin",
-			"Matt Milla",
-			"Mark Morales"
+			"Manuel Garcia"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/56fd343003339.jpg",
 		"universe": "Earth-616",
@@ -1728,15 +1712,16 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Bishop",
+			"X-Men",
 			"Cyclops",
-			"Domino",
-			"Shatterstar",
-			"X-Men"
+			"Emma Frost",
+			"Beast",
+			"Iceman",
+			"Angel",
+			"Kitty Pride",
+			"Bishop"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Juan Doe",
 			"David Hine",
 			"Yanick Paquette"
 		],
@@ -1756,15 +1741,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Cyclops",
+			"Emma Frost",
+			"Beast",
+			"Iceman",
+			"Angel",
+			"Kitty Pride",
+			"Bishop"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Juan Doe",
 			"David Hine",
-			"Serge LaPointe",
-			"Yanick Paquette",
-			"Stephane Peru"
+			"Yanick Paquette"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/570c086a831c6.jpg",
 		"universe": "Earth-616",
@@ -1782,15 +1770,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Cyclops",
+			"Emma Frost",
+			"Beast",
+			"Iceman",
+			"Angel",
+			"Kitty Pride",
+			"Bishop"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Juan Doe",
 			"David Hine",
-			"Serge LaPointe",
-			"Yanick Paquette",
-			"Stephane Peru"
+			"Yanick Paquette"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/570c09b82a3bc.jpg",
 		"universe": "Earth-616",
@@ -1808,15 +1799,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Cyclops",
+			"Emma Frost",
+			"Beast",
+			"Iceman",
+			"Angel",
+			"Kitty Pride",
+			"Bishop"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Juan Doe",
 			"David Hine",
-			"Serge LaPointe",
-			"Yanick Paquette",
-			"Stephane Peru"
+			"Yanick Paquette"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/57712b5fa30ac.jpg",
 		"universe": "Earth-616",
@@ -1834,18 +1828,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
+			"Misty Knight",
+			"Shang-Chi",
 			"Black Cat",
-			"Captain America",
-			"Colleen Wing",
-			"Heroes For Hire",
-			"Luke Cage"
+			"Colleen Wing"
 		],
 		"creators": [
-			"Marte Gracia",
 			"Justin Gray",
 			"Jimmy Palmiotti",
-			"Dave Lanphear",
-			"Tom Palmer",
 			"Billy Tucci"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc5c68bc1e94.jpg",
@@ -1864,15 +1854,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
+			"Misty Knight",
+			"Shang-Chi",
 			"Black Cat",
-			"Heroes For Hire"
+			"Colleen Wing"
 		],
 		"creators": [
-			"Marte Gracia",
 			"Justin Gray",
 			"Jimmy Palmiotti",
-			"Dave Lanphear",
-			"Tom Palmer",
 			"Billy Tucci"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4c35f7de7b29a.jpg",
@@ -1891,15 +1880,13 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain Marvel (Carol Danvers)"
+			"Carol Danvers",
+			"Wonder Man",
+			"Anya Corazon"
 		],
 		"creators": [
-			"Roberto Delatorre",
-			"David Mack",
-			"Jimmy Palmiotti",
 			"Brian Reed",
-			"Dave Sharpe",
-			"Chris Sotomayor"
+			"Roberto De La Torre"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/576841c6b2b2e.jpg",
 		"universe": "Earth-616",
@@ -1917,15 +1904,13 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain Marvel (Carol Danvers)"
+			"Carol Danvers",
+			"Wonder Man",
+			"Anya Corazon"
 		],
 		"creators": [
-			"Roberto Delatorre",
-			"David Mack",
 			"Brian Reed",
-			"Dave Sharpe",
-			"Jonathan Sibal",
-			"Chris Sotomayor"
+			"Roberto De La Torre"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4d252575d98ba.jpg",
 		"universe": "Earth-616",
@@ -1943,15 +1928,13 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain Marvel (Carol Danvers)"
+			"Carol Danvers",
+			"Wonder Man",
+			"Anya Corazon"
 		],
 		"creators": [
-			"Roberto Delatorre",
-			"David Mack",
 			"Brian Reed",
-			"Dave Sharpe",
-			"Jonathan Sibal",
-			"Chris Sotomayor"
+			"Roberto De La Torre"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4d24ed244f5e7.jpg",
 		"universe": "Earth-616",
@@ -1969,13 +1952,13 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Woman (Jessica Drew)"
+			"Avengers",
+			"Spider-Woman",
+			"Nick Fury"
 		],
 		"creators": [
-			"Comicraft",
 			"Brian Michael Bendis",
-			"Olivier Coipel",
-			"Dave Stewart"
+			"Olivier Coipel"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/571fc01eef200.jpg",
 		"universe": "Earth-616",
@@ -1994,12 +1977,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Sentry (Robert Reynolds)"
+			"Avengers",
+			"Sentry"
 		],
 		"creators": [
-			"Comicraft",
 			"Brian Michael Bendis",
-			"Adi Granov"
+			"Pasqual Ferrry"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/571fc19f09d09.jpg",
 		"universe": "Earth-616",
@@ -2018,7 +2001,8 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Mar-Vell",
+			"Sentry"
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -2040,11 +2024,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain America",
+			"Steve Rogers",
 			"Iron Man"
 		],
 		"creators": [
-			"Jim Cheung"
+			"Christos Cage",
+			"Jeremy Haun"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4f883c72b840a.jpg",
 		"universe": "Earth-616",
@@ -2063,13 +2048,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Namor"
 		],
 		"creators": [
-			"Carlos Alberto cruz Cuevas",
-			"Edgar Delgado",
-			"Randy Gentile",
 			"Marc Guggenheim",
 			"Humberto Ramos"
 		],
@@ -2090,13 +2072,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Namor"
 		],
 		"creators": [
-			"Carlos Alberto cruz Cuevas",
-			"Edgar Delgado",
-			"Randy Gentile",
 			"Marc Guggenheim",
 			"Humberto Ramos"
 		],
@@ -2118,16 +2097,11 @@
 		"eventid": "006",
 		"characters": [
 			"Black Panther",
-			"Captain America",
-			"Iron Man",
 			"Storm"
 		],
 		"creators": [
-			"Mike Deodato",
-			"Manuel Garcia",
-			"Randy Gentile",
 			"Reginald Hudlin",
-			"Matt Milla"
+			"Koi Tumbull"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/56fd34d40df79.jpg",
 		"universe": "Earth-616",
@@ -2145,14 +2119,11 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Arnim Zola",
-			"Red Skull"
+			"Steve Rogers",
+			"Sharon Carter"
 		],
 		"creators": [
 			"Ed Brubaker",
-			"Frank D'Armata",
-			"Steve Epting",
-			"Randy Gentile",
 			"Mike Perkins"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/e0/56f990d564e99.jpg",
@@ -2172,16 +2143,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Ben Urich",
+			"Norman Osborn",
+			"Speedball"
 		],
 		"creators": [
-			"Ramon Bachs",
-			"Steve Leiber",
-			"Randy Gentile",
 			"Paul Jenkins",
-			"John Lucas",
-			"Laura Martin",
-			"John Watson"
+			"Ramon Bachs",
+			"Steve Lieber"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/56f99773db35b.jpg",
 		"universe": "Earth-616",
@@ -2227,16 +2196,15 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Fantastic Four"
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing"
 		],
 		"creators": [
-			"Jim Calafiore",
-			"Mike McKone",
-			"Adi Granov",
-			"Andy Lanning",
-			"Stan Lee",
-			"Paul Mounts",
-			"Rus Wooton"
+			"J Michael Straczynski",
+			"Mike McKone"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/4bc331618a925.jpg",
 		"universe": "Earth-616",
@@ -2255,15 +2223,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man",
-			"Spider-Man"
+			"Spider-Man",
+			"Iron Man"
 		],
 		"creators": [
-			"Ron Garney",
-			"Stan Lee",
-			"Matt Milla",
-			"Cory Petit",
-			"Bill Reinhold"
+			"J Michael Straczynski",
+			"Ron Garney"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/56fd2d63d8964.jpg",
 		"universe": "Earth-616",
@@ -2282,17 +2247,44 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Bullseye",
-			"Punisher",
+			"Steve Rogers",
+			"Iron Man",
+			"Avengers",
+			"New Warriors",
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing",
+			"X-Men",
+			"Cyclops",
+			"Wolverine",
+			"Luke Cage",
+			"Spider-Woman",
 			"Spider-Man",
-			"Venom (Mac Gargan)"
+			"Carol Danvers",
+			"She-Hulk",
+			"Doctor Strange",
+			"Young Avengers",
+			"Hank Pym",
+			"Sam Wilson",
+			"Wasp",
+			"Cable",
+			"Maria Hill",
+			"Black Panther",
+			"Thunderbolts",
+			"Hercules",
+			"Storm",
+			"Cloack",
+			"Dagger",
+			"Wonder Man",
+			"Black Widow",
+			"Storm",
+			"Punisher"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Morry Hollowell",
-			"Steve McNiven",
 			"Mark Millar",
-			"Dexter Vines"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/511309057cd07.jpg",
 		"universe": "Earth-616",
@@ -2314,10 +2306,8 @@
 			"Punisher"
 		],
 		"creators": [
-			"Joe Caramagna",
 			"Matt Fraction",
-			"Ariel Olivetti",
-			"Dean White"
+			"Ariel Olivetti"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/571e37d922c17.jpg",
 		"universe": "Earth-616",
@@ -2335,16 +2325,15 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Fantastic Four"
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing"
 		],
 		"creators": [
-			"Jim Calafiore",
-			"Mike McKone",
-			"Adi Granov",
-			"Andy Lanning",
-			"Stan Lee",
-			"Paul Mounts",
-			"Rus Wooton"
+			"J Michael Straczynski",
+			"Mike McKone"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4d24e6414cccc.jpg",
 		"universe": "Earth-616",
@@ -2389,16 +2378,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Ben Urich",
+			"Norman Osborn",
+			"Speedball"
 		],
 		"creators": [
-			"Ramon Bachs",
-			"Steve Leiber",
-			"Randy Gentile",
 			"Paul Jenkins",
-			"John Lucas",
-			"Laura Martin",
-			"John Watson"
+			"Ramon Bachs",
+			"Steve Lieber"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/b0/56f9980168fdf.jpg",
 		"universe": "Earth-616",
@@ -2417,14 +2404,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man"
+			"Spider-Man",
+			"Iron Man"
 		],
 		"creators": [
-			"Ron Garney",
-			"Stan Lee",
-			"Matt Milla",
-			"Cory Petit",
-			"Bill Reinhold"
+			"J Michael Straczynski",
+			"Ron Garney"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/56fd2e0e0eca3.jpg",
 		"universe": "Earth-616",
@@ -2443,14 +2428,11 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Moon Knight",
-			"Spider-Man"
+			"Moon Knight"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Frank D'Armata",
-			"David Finch",
-			"Charlie Huston"
+			"Charlie Huston",
+			"David Finch"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4bc5b9f618fad.jpg",
 		"universe": "Earth-616",
@@ -2468,14 +2450,11 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain America",
 			"Moon Knight"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Frank D'Armata",
-			"David Finch",
-			"Charlie Huston"
+			"Charlie Huston",
+			"David Finch"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc5b4dfda417.jpg",
 		"universe": "Earth-616",
@@ -2496,9 +2475,6 @@
 			"Moon Knight"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Frank D'Armata",
-			"David Finch",
 			"Charlie Huston",
 			"Mico Suayan"
 		],
@@ -2521,8 +2497,6 @@
 			"Moon Knight"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Frank D'Armata",
 			"Charlie Huston",
 			"Mico Suayan"
 		],
@@ -2543,16 +2517,14 @@
 		"eventid": "006",
 		"characters": [
 			"Fantastic Four",
-			"Human Torch"
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing"
 		],
 		"creators": [
-			"Jim Calafiore",
-			"Mike McKone",
-			"Adi Granov",
-			"Andy Lanning",
-			"Stan Lee",
-			"Paul Mounts",
-			"Rus Wooton"
+			"Dwayne McDuffie",
+			"Mike McKone"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/4d251917128e3.jpg",
 		"universe": "Earth-616",
@@ -2574,16 +2546,16 @@
 			"Iron Man"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Edgar Delgado",
-			"Adi Granov",
-			"Scott Hanna",
+			"Charles Knauf",
 			"Daniel Knauf",
 			"Patrick Zircher"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4d2525b096dec.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": [
+			"Happy Hogan dies"
+		],
 		"phaseid": "006",
 		"phasename": "Civil War",
 		"sortid": "064"
@@ -2602,10 +2574,7 @@
 		],
 		"creators": [
 			"Peter David",
-			"Scot Eaton",
-			"Andrew Hennessy",
-			"Paul Mounts",
-			"Cory Petit"
+			"Scot Eaton"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/56a8f3a040fa8.jpg",
 		"universe": "Earth-616",
@@ -2623,15 +2592,11 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man",
-			"Vulture (Adrian Toomes)"
+			"Spider-Man"
 		],
 		"creators": [
 			"Peter David",
-			"John Dell",
-			"Scot Eaton",
-			"Matt Milla",
-			"Cory Petit"
+			"Scot Eaton"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/56a8f375d611a.jpg",
 		"universe": "Earth-616",
@@ -2653,10 +2618,7 @@
 		],
 		"creators": [
 			"Peter David",
-			"John Dell",
-			"Scot Eaton",
-			"Matt Milla",
-			"Cory Petit"
+			"Scot Eaton"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/56a8f40d7543f.jpg",
 		"universe": "Earth-616",
@@ -2674,15 +2636,11 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Mary Jane Watson",
 			"Spider-Man"
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Sean Chen",
-			"Clayton Crain",
-			"Dan Kemp",
-			"Cory Petit"
+			"Clayton Crain"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc5be2bd439c.jpg",
 		"universe": "Earth-616",
@@ -2704,11 +2662,7 @@
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Sean Chen",
-			"Clayton Crain",
-			"Scott Hanna",
-			"Dan Kemp",
-			"Cory Petit"
+			"Clayton Crain"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4bc5b68a9f76c.jpg",
 		"universe": "Earth-616",
@@ -2726,15 +2680,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man"
+			"Spider-Man",
+			"Black Cat"
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Sean Chen",
-			"Scott Hanna",
-			"Dan Kemp",
-			"Angel Medina",
-			"Cory Petit"
+			"Sean Chen"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/30/4bc5aeb09fffa.jpg",
 		"universe": "Earth-616",
@@ -2752,11 +2703,11 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Bucky Barnes",
+			"Nick Fury"
 		],
 		"creators": [
 			"Ed Brubaker",
-			"Steve Epting",
 			"Lee Weeks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/5721077c60c05.jpg",
@@ -2776,17 +2727,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain America",
-			"Punisher",
 			"Spider-Man",
-			"Winter Soldier"
+			"Iron Man"
 		],
 		"creators": [
-			"Ron Garney",
-			"Stan Lee",
-			"Matt Milla",
-			"Cory Petit",
-			"Bill Reinhold"
+			"J Michael Straczynski",
+			"Ron Garney"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/52c5d83eb25d6.jpg",
 		"universe": "Earth-616",
@@ -2806,17 +2752,11 @@
 		"eventid": "006",
 		"characters": [
 			"Black Panther",
-			"Captain America",
-			"Falcon",
-			"Invisible Woman",
-			"Storm",
-			"Tigra (Greer Nelson)"
+			"Storm"
 		],
 		"creators": [
-			"Randy Gentile",
 			"Reginald Hudlin",
-			"Koi Turnbull",
-			"Michael Turner"
+			"Marcus To"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/56fd3566ca2d8.jpg",
 		"universe": "Earth-616",
@@ -2837,10 +2777,8 @@
 			"Punisher"
 		],
 		"creators": [
-			"Joe Caramagna",
 			"Matt Fraction",
-			"Ariel Olivetti",
-			"Dean White"
+			"Ariel Olivetti"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/571e3e68b263a.jpg",
 		"universe": "Earth-616",
@@ -2858,18 +2796,44 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain America",
-			"Cloak",
-			"Falcon",
-			"Invisible Woman",
-			"Vision"
+			"Steve Rogers",
+			"Iron Man",
+			"Avengers",
+			"New Warriors",
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing",
+			"X-Men",
+			"Cyclops",
+			"Wolverine",
+			"Luke Cage",
+			"Spider-Woman",
+			"Spider-Man",
+			"Carol Danvers",
+			"She-Hulk",
+			"Doctor Strange",
+			"Young Avengers",
+			"Hank Pym",
+			"Sam Wilson",
+			"Wasp",
+			"Cable",
+			"Maria Hill",
+			"Black Panther",
+			"Thunderbolts",
+			"Hercules",
+			"Storm",
+			"Cloack",
+			"Dagger",
+			"Wonder Man",
+			"Black Widow",
+			"Storm",
+			"Punisher"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Morry Hollowell",
-			"Steve McNiven",
 			"Mark Millar",
-			"Dexter Vines"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/51130945d1273.jpg",
 		"universe": "Earth-616",
@@ -2888,14 +2852,11 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain America",
 			"Punisher"
 		],
 		"creators": [
-			"Joe Caramagna",
 			"Matt Fraction",
-			"Ariel Olivetti",
-			"Dean White"
+			"Ariel Olivetti"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/571e3f899a117.jpg",
 		"universe": "Earth-616",
@@ -2917,11 +2878,8 @@
 			"Maria Hill"
 		],
 		"creators": [
-			"Comicraft",
 			"Brian Michael Bendis",
-			"Jim Cheung",
-			"John Dell",
-			"Dave Stewart"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/571fc2eaf2796.jpg",
 		"universe": "Earth-616",
@@ -2940,16 +2898,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Ben Urich",
+			"Norman Osborn",
+			"Speedball"
 		],
 		"creators": [
-			"Ramon Bachs",
-			"Steve Leiber",
-			"Randy Gentile",
 			"Paul Jenkins",
-			"John Lucas",
-			"Laura Martin",
-			"John Watson"
+			"Ramon Bachs",
+			"Steve Lieber"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/56f9989940985.jpg",
 		"universe": "Earth-616",
@@ -2968,22 +2924,44 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain America",
-			"Captain Marvel (Carol Danvers)",
-			"Daredevil",
-			"Hank Pym",
-			"Hulkling",
-			"Invisible Woman",
+			"Steve Rogers",
 			"Iron Man",
-			"Mr. Fantastic",
-			"Spider-Man"
+			"Avengers",
+			"New Warriors",
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing",
+			"X-Men",
+			"Cyclops",
+			"Wolverine",
+			"Luke Cage",
+			"Spider-Woman",
+			"Spider-Man",
+			"Carol Danvers",
+			"She-Hulk",
+			"Doctor Strange",
+			"Young Avengers",
+			"Hank Pym",
+			"Sam Wilson",
+			"Wasp",
+			"Cable",
+			"Maria Hill",
+			"Black Panther",
+			"Thunderbolts",
+			"Hercules",
+			"Storm",
+			"Cloack",
+			"Dagger",
+			"Wonder Man",
+			"Black Widow",
+			"Storm",
+			"Punisher"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Morry Hollowell",
-			"Steve McNiven",
 			"Mark Millar",
-			"Dexter Vines"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/511309c4e9172.jpg",
 		"universe": "Earth-616",
@@ -3003,15 +2981,11 @@
 		"eventid": "006",
 		"characters": [
 			"Black Panther",
-			"Storm",
-			"Thor"
+			"Storm"
 		],
 		"creators": [
-			"Randy Gentile",
 			"Reginald Hudlin",
-			"Aspen Mlt Inc.",
-			"Koi Turnbull",
-			"Michael Turner"
+			"Marcus To"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/56fd3660d6c5c.jpg",
 		"universe": "Earth-616",
@@ -3029,14 +3003,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man"
+			"Spider-Man",
+			"Iron Man"
 		],
 		"creators": [
-			"Ron Garney",
-			"Stan Lee",
-			"Matt Milla",
-			"Cory Petit",
-			"Bill Reinhold"
+			"J Michael Straczynski",
+			"Ron Garney"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/56fd2f680a2fd.jpg",
 		"universe": "Earth-616",
@@ -3055,16 +3027,15 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Fantastic Four"
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing"
 		],
 		"creators": [
-			"Jim Calafiore",
-			"Mike McKone",
-			"Adi Granov",
-			"Andy Lanning",
 			"Dwayne McDuffie",
-			"Paul Mounts",
-			"Rus Wooton"
+			"Mike McKone"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4d24ef9b6a998.jpg",
 		"universe": "Earth-616",
@@ -3086,15 +3057,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man"
+			"Ben Urich",
+			"Norman Osborn",
+			"Speedball"
 		],
 		"creators": [
-			"Ramon Bachs",
-			"Randy Gentile",
 			"Paul Jenkins",
-			"John Lucas",
-			"Laura Martin",
-			"John Watson"
+			"Ramon Bachs",
+			"Steve Lieber"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/56f9990826c04.jpg",
 		"universe": "Earth-616",
@@ -3116,11 +3086,8 @@
 			"Punisher"
 		],
 		"creators": [
-			"Rainier Beredo",
-			"Joe Caramagna",
-			"Mike Deodato",
 			"Matt Fraction",
-			"Ariel Olivetti"
+			"Mike Deodato Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/571e40dea4abf.jpg",
 		"universe": "Earth-616",
@@ -3138,18 +3105,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Grandmaster",
-			"Radioactive Man",
-			"Songbird",
-			"Swordsman",
-			"Thunderbolts"
+			"Thunderbolts",
+			"Songbird"
 		],
 		"creators": [
-			"Gary Erskine",
-			"Tom Grummett",
 			"Fabian Nicieza",
-			"Chris Sotomayor",
-			"Richard Starkings"
+			"Tom Grummett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc32e77c95ab.jpg",
 		"universe": "Earth-616",
@@ -3167,16 +3128,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Hyperion (Earth-712)",
-			"Songbird",
-			"Thunderbolts"
+			"Thunderbolts",
+			"Songbird"
 		],
 		"creators": [
-			"Gary Erskine",
-			"Tom Grummett",
 			"Fabian Nicieza",
-			"Chris Sotomayor",
-			"Richard Starkings"
+			"Tom Grummett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/5744c9c831870.jpg",
 		"universe": "Earth-616",
@@ -3194,14 +3151,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Thunderbolts"
+			"Thunderbolts",
+			"Songbird"
 		],
 		"creators": [
-			"Gary Erskine",
-			"Tom Grummett",
 			"Fabian Nicieza",
-			"Chris Sotomayor",
-			"Richard Starkings"
+			"Tom Grummett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5744c9eca18b5.jpg",
 		"universe": "Earth-616",
@@ -3219,14 +3174,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Thunderbolts"
+			"Thunderbolts",
+			"Songbird"
 		],
 		"creators": [
-			"Gary Erskine",
-			"Tom Grummett",
 			"Fabian Nicieza",
-			"Chris Sotomayor",
-			"Richard Starkings"
+			"Tom Grummett"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/a0/5744c99193102.jpg",
 		"universe": "Earth-616",
@@ -3244,11 +3197,13 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Captain America"
+			"Steve Rogers",
+			"Sharon Carter",
+			"Sam Wilson",
+			"Bucky Barnes"
 		],
 		"creators": [
 			"Ed Brubaker",
-			"Frank D'Armata",
 			"Steve Epting"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/55b9488ef2727.jpg",
@@ -3271,12 +3226,17 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Steve Rogers",
+			"Iron Man",
+			"Wolverine",
+			"Avengers",
+			"Spider-Man",
+			"Bucky Barnes",
+			"Maria Hill"
 		],
 		"creators": [
 			"Jeph Loeb",
-			"Dave McCaig",
-			"Leinil Francis Yu"
+			"Leinil Yu"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bc3584ddeea7.jpg",
 		"universe": "Earth-616",
@@ -3295,7 +3255,13 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Steve Rogers",
+			"Iron Man",
+			"Wolverine",
+			"Avengers",
+			"Spider-Man",
+			"Bucky Barnes",
+			"Maria Hill"
 		],
 		"creators": [
 			"Jeph Loeb",
@@ -3318,13 +3284,17 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Steve Rogers",
+			"Iron Man",
+			"Wolverine",
+			"Avengers",
+			"Spider-Man",
+			"Bucky Barnes",
+			"Maria Hill"
 		],
 		"creators": [
-			"Klaus Janson",
 			"Jeph Loeb",
-			"John Romita JR.",
-			"Christina Strain"
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/55a7c8ab53600.jpg",
 		"universe": "Earth-616",
@@ -3343,7 +3313,13 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Steve Rogers",
+			"Iron Man",
+			"Wolverine",
+			"Avengers",
+			"Spider-Man",
+			"Bucky Barnes",
+			"Maria Hill"
 		],
 		"creators": [
 			"David Finch",
@@ -3367,7 +3343,13 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Steve Rogers",
+			"Iron Man",
+			"Wolverine",
+			"Avengers",
+			"Spider-Man",
+			"Bucky Barnes",
+			"Maria Hill"
 		],
 		"creators": [
 			"John Cassaday",
@@ -3390,7 +3372,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Iron Man",
+			"Alpha Flight",
+			"Thunderbolts",
+			"Avengers"
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -3417,10 +3402,12 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			""
+			"Iron Man",
+			"Steve Rogers"
 		],
 		"creators": [
-			""
+			"Brian Michael Bendis",
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/4bb877eed45f5.jpg",
 		"universe": "Earth-616",

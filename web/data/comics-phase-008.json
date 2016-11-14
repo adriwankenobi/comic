@@ -9,18 +9,16 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Black Bolt",
-			"Doctor Strange",
-			"Illuminati",
 			"Iron Man",
-			"Mr. Fantastic",
-			"Professor X",
-			"Sub-Mariner"
+			"Doctor Strange",
+			"Charles Xavier",
+			"Reed Richards",
+			"Black Bolt",
+			"Namor"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Jim Cheung",
-			"Mark Morales"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/570e6223be57c.jpg",
 		"universe": "Earth-616",
@@ -42,18 +40,16 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Black Bolt",
-			"Doctor Strange",
-			"Illuminati",
 			"Iron Man",
-			"Mr. Fantastic",
-			"Professor X",
-			"Sub-Mariner"
+			"Doctor Strange",
+			"Charles Xavier",
+			"Reed Richards",
+			"Black Bolt",
+			"Namor"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Jim Cheung",
-			"Mark Morales"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/570e66a49ca66.jpg",
 		"universe": "Earth-616",
@@ -72,20 +68,16 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Black Bolt",
-			"Doctor Strange",
-			"Illuminati",
 			"Iron Man",
-			"Mr. Fantastic",
-			"Professor X",
-			"Sub-Mariner"
+			"Doctor Strange",
+			"Charles Xavier",
+			"Reed Richards",
+			"Black Bolt",
+			"Namor"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Jim Cheung",
-			"Mark Morales",
-			"Cory Petit",
-			"Justin Ponsor"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/570e66638cb8d.jpg",
 		"universe": "Earth-616",
@@ -104,24 +96,16 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Black Bolt",
-			"Charles Xavier",
-			"Clea",
-			"Doctor Strange",
-			"Invisible Woman",
 			"Iron Man",
-			"Lilandra",
-			"Madame Masque",
-			"Medusa",
-			"Mr. Fantastic",
+			"Doctor Strange",
+			"Charles Xavier",
+			"Reed Richards",
+			"Black Bolt",
 			"Namor"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Jim Cheung",
-			"Mark Morales",
-			"Cory Petit",
-			"Justin Ponsor"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/570e66cbea8a3.jpg",
 		"universe": "Earth-616",
@@ -140,21 +124,16 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Black Bolt",
-			"Charles Xavier",
-			"Doctor Strange",
-			"Illuminati",
 			"Iron Man",
-			"Mr. Fantastic",
+			"Doctor Strange",
+			"Charles Xavier",
+			"Reed Richards",
+			"Black Bolt",
 			"Namor"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Brian Reed",
-			"Jim Cheung",
-			"Mark Morales",
-			"Cory Petit",
-			"Justin Ponsor"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/570e6712c9775.jpg",
 		"universe": "Earth-616",
@@ -173,17 +152,18 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Black Widow",
-			"Jessica Jones",
+			"Avengers",
 			"Luke Cage",
-			"Spider-Woman (Jessica Drew)"
+			"Iron Fist",
+			"Spider-Man",
+			"Hawkeye",
+			"Wolverine",
+			"Echo",
+			"Jessica Jones"
 		],
 		"creators": [
-			"Comicraft",
 			"Brian Michael Bendis",
-			"Marko Djurdjevic",
-			"Michael Gaydos",
-			"Jose Villarrubia"
+			"Michael Gaydos"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/c0/4f7efa69e8864.jpg",
 		"universe": "Earth-616",
@@ -202,16 +182,14 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Clint Barton",
-			"Daredevil",
+			"Avengers",
+			"Hawkeye",
 			"Echo",
 			"Wolverine"
 		],
 		"creators": [
-			"Comicraft",
 			"Brian Michael Bendis",
-			"David Mack",
-			"Jose Villarrubia"
+			"David Mack"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/4f7ef9ecf3f6d.jpg",
 		"universe": "Earth-616",
@@ -230,12 +208,9 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Captain Marvel (Mar-Vell)"
+			"Mar-Vell"
 		],
 		"creators": [
-			"Stefano Gaudiano",
-			"Jason Keith",
-			"Ed McGuinness",
 			"Brian Reed",
 			"Lee Weeks"
 		],
@@ -255,12 +230,9 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Mar-Vell"
 		],
 		"creators": [
-			"Stefano Gaudiano",
-			"Jason Keith",
-			"Ed McGuinness",
 			"Brian Reed",
 			"Lee Weeks"
 		],
@@ -280,13 +252,9 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Mar-Vell"
 		],
 		"creators": [
-			"Stefano Gaudiano",
-			"Jason Keith",
-			"Todd Klein",
-			"Ed McGuinness",
 			"Brian Reed",
 			"Lee Weeks"
 		],
@@ -306,13 +274,9 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Mar-Vell"
 		],
 		"creators": [
-			"Stefano Gaudiano",
-			"Jason Keith",
-			"Todd Klein",
-			"Ed McGuinness",
 			"Brian Reed",
 			"Lee Weeks"
 		],
@@ -332,13 +296,9 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Captain Marvel (Mar-Vell)"
+			"Mar-Vell"
 		],
 		"creators": [
-			"Stefano Gaudiano",
-			"Jason Keith",
-			"Todd Klein",
-			"Ed McGuinness",
 			"Brian Reed",
 			"Lee Weeks"
 		],
@@ -358,15 +318,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Captain Marvel (Carol Danvers)",
-			"Skrulls"
+			"Carol Danvers"
 		],
 		"creators": [
-			"Greg Horn",
-			"Adriana Melo",
 			"Brian Reed",
-			"Dave Sharpe",
-			"Chris Sotomayor"
+			"Adriana Melo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5152058ae4fe6.jpg",
 		"universe": "Earth-616",
@@ -384,16 +340,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Captain Marvel (Carol Danvers)",
-			"Skrulls"
+			"Carol Danvers"
 		],
 		"creators": [
-			"Mariah Benes",
-			"Greg Horn",
-			"Adriana Melo",
 			"Brian Reed",
-			"Dave Sharpe",
-			"Chris Sotomayor"
+			"Adriana Melo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/51520599e90b6.jpg",
 		"universe": "Earth-616",
@@ -411,15 +362,12 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Captain Marvel (Carol Danvers)",
-			"Skrulls"
+			"Carol Danvers",
+			"Wonder Man"
 		],
 		"creators": [
-			"Andres Coelho",
-			"Greg Horn",
 			"Brian Reed",
-			"Dave Sharpe",
-			"Chris Sotomayor"
+			"Andre Coelho"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/515205a815e09.jpg",
 		"universe": "Earth-616",
@@ -437,13 +385,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Hercules",
+			"Amadeus Cho"
 		],
 		"creators": [
-			"Joe Caramagna",
 			"Greg Pak",
-			"Fred Van Lente",
-			"John Romita JR.",
 			"Rafa Sandoval"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/5152046570580.jpg",
@@ -462,11 +408,12 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Iron Man",
+			"Maria Hill"
 		],
 		"creators": [
 			"John Rhett Thomas",
-			"Leinil Francis Yu"
+			"Leinil Yu"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bb7ca409a1f5.jpg",
 		"universe": "Earth-616",
@@ -485,18 +432,53 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Captain America",
-			"Skrulls",
+			"Avengers",
+			"Iron Man",
+			"Spider-Woman",
+			"Black Widow",
+			"Ares",
+			"Carol Danvers",
+			"Sentry",
+			"Wonder Man",
+			"Luke Cage",
 			"Spider-Man",
-			"Wolverine"
+			"Iron Fist",
+			"Hawkeye",
+			"Wolverine",
+			"Echo",
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm ",
+			"Human Torch",
+			"Thing",
+			"Maria Hill",
+			"Marvel Boy",
+			"Thunderbolts",
+			"Norman Osborn",
+			"Wasp",
+			"Mockingbird",
+			"Young Avengers",
+			"Patriot",
+			"Wiccan",
+			"Hulkling",
+			"Kate Bishop",
+			"Vision",
+			"Cassie Lang",
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake",
+			"Phobos",
+			"Maria Hill",
+			"Thor",
+			"Bucky Barnes",
+			"Hood",
+			"Jessica Jones",
+			"Daredevil",
+			"Elektra"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Gabriele Dell'Otto",
-			"Chris Eliopoulos",
-			"Laura Martin",
-			"Mark Morales",
-			"Leinil Francis Yu"
+			"Leinil Yu"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5151efbb93d76.jpg",
 		"universe": "Earth-616",
@@ -516,16 +498,15 @@
 		"eventid": "011",
 		"characters": [
 			"Avengers",
+			"Secret Warriors",
 			"Maria Hill",
 			"Nick Fury",
-			"Skrulls",
-			"Spider-Woman (Jessica Drew)",
-			"Wolverine"
+			"Spider-Woman",
+			"Wolverine",
+			"Quake"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Marko Djurdjevic",
-			"Dave Lanphear",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4d24eb19eb913.jpg",
@@ -545,15 +526,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Avengers"
 		],
 		"creators": [
-			"Comicraft",
 			"Brian Michael Bendis",
-			"Aleksi Briclot",
-			"Jim Cheung",
-			"John Dell",
-			"Justin Ponsor"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/4f7ef9839290a.jpg",
 		"universe": "Earth-616",
@@ -572,15 +549,53 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Skrulls"
+			"Avengers",
+			"Iron Man",
+			"Spider-Woman",
+			"Black Widow",
+			"Ares",
+			"Carol Danvers",
+			"Sentry",
+			"Wonder Man",
+			"Luke Cage",
+			"Spider-Man",
+			"Iron Fist",
+			"Hawkeye",
+			"Wolverine",
+			"Echo",
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm ",
+			"Human Torch",
+			"Thing",
+			"Maria Hill",
+			"Marvel Boy",
+			"Thunderbolts",
+			"Norman Osborn",
+			"Wasp",
+			"Mockingbird",
+			"Young Avengers",
+			"Patriot",
+			"Wiccan",
+			"Hulkling",
+			"Kate Bishop",
+			"Vision",
+			"Cassie Lang",
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake",
+			"Phobos",
+			"Maria Hill",
+			"Thor",
+			"Bucky Barnes",
+			"Hood",
+			"Jessica Jones",
+			"Daredevil",
+			"Elektra"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Gabriele Dell'Otto",
-			"Chris Eliopoulos",
-			"Laura Martin",
-			"Mark Morales",
-			"Leinil Francis Yu"
+			"Leinil Yu"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/5151efc9dd24e.jpg",
 		"universe": "Earth-616",
@@ -599,16 +614,14 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Ares",
 			"Avengers",
-			"Layla Miller",
-			"Nick Fury"
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake",
+			"Phobos"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Marko Djurdjevic",
-			"Matt Hollingsworth",
-			"Dave Lanphear",
 			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4d250a9cc2fe6.jpg",
@@ -631,13 +644,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Captain Britain"
 		],
 		"creators": [
 			"Paul Cornell",
-			"Bryan Hitch",
-			"Leonard Kirk",
-			"Brian Reber"
+			"Leonard Kirk"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4d25162da13e4.jpg",
 		"universe": "Earth-616",
@@ -655,11 +666,14 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Fantastic Four"
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing"
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Alan Davis",
 			"Barry Kitson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c3660da6602b.jpg",
@@ -679,16 +693,10 @@
 		"eventid": "011",
 		"characters": [
 			"Avengers",
-			"Iron Man",
-			"Mr. Fantastic",
-			"Sentry (Robert Reynolds)",
-			"Skrulls"
+			"Sentry"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Frank Cho",
-			"Jason Keith",
-			"Dave Lanphear",
 			"Khoi Pham"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4d251a5d20343.jpg",
@@ -708,15 +716,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Hercules",
+			"Amadeus Cho"
 		],
 		"creators": [
-			"Roger Bonet",
-			"Joe Caramagna",
-			"Marte Gracia",
 			"Greg Pak",
-			"Fred Van Lente",
-			"John Romita JR.",
 			"Rafa Sandoval"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/60/51520473d5944.jpg",
@@ -735,14 +739,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Ka-Zar",
-			"Shanna the She-Devil",
+			"Avengers",
 			"Spider-Man"
 		],
 		"creators": [
-			"Comicraft",
 			"Brian Michael Bendis",
-			"Aleksi Briclot",
 			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/4f7ef8e6509d0.jpg",
@@ -762,16 +763,53 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
+			"Avengers",
 			"Iron Man",
-			"Skrulls"
+			"Spider-Woman",
+			"Black Widow",
+			"Ares",
+			"Carol Danvers",
+			"Sentry",
+			"Wonder Man",
+			"Luke Cage",
+			"Spider-Man",
+			"Iron Fist",
+			"Hawkeye",
+			"Wolverine",
+			"Echo",
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm ",
+			"Human Torch",
+			"Thing",
+			"Maria Hill",
+			"Marvel Boy",
+			"Thunderbolts",
+			"Norman Osborn",
+			"Wasp",
+			"Mockingbird",
+			"Young Avengers",
+			"Patriot",
+			"Wiccan",
+			"Hulkling",
+			"Kate Bishop",
+			"Vision",
+			"Cassie Lang",
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake",
+			"Phobos",
+			"Maria Hill",
+			"Thor",
+			"Bucky Barnes",
+			"Hood",
+			"Jessica Jones",
+			"Daredevil",
+			"Elektra"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Gabriele Dell'Otto",
-			"Laura Martin",
-			"Chris Eliopoulos",
-			"Mark Morales",
-			"Leinil Francis Yu"
+			"Leinil Yu"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/5151efd6b1a12.jpg",
 		"universe": "Earth-616",
@@ -786,14 +824,17 @@
 		"title": "Who Do You Trust",
 		"vol": 1,
 		"num": 1,
+		"date": "2008-06-11",
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Mar-Vell"
 		],
 		"creators": [
-			""
+			"Brian Reed",
+			"Lee Weeks"
 		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/4/30/5151f75f969a5/detail.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "008",
@@ -810,17 +851,10 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Captain Britain"
 		],
 		"creators": [
-			"Joe Caramagna",
 			"Paul Cornell",
-			"Jesse Delperdang",
-			"Scott Hanna",
-			"Chris Eliopoulos",
-			"Bryan Hitch",
-			"Morry Hollowell",
-			"Brian Reber",
 			"Leonard Kirk"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/51520265956ae.jpg",
@@ -839,19 +873,15 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Fantastic Four"
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing"
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Chris Eliopoulos",
-			"Joe Caramagna",
-			"Alan Davis",
-			"Mark Farmer",
-			"Mick Gray",
-			"Scott Hanna",
-			"Barry Kitson",
-			"Paul Mounts",
-			"Chris Sotomayor"
+			"Barry Kitson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/4bb7c6bdb982c.jpg",
 		"universe": "Earth-616",
@@ -869,18 +899,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Hercules",
+			"Amadeus Cho"
 		],
 		"creators": [
-			"Roger Bonet",
-			"Klaus Janson",
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Marte Gracia",
-			"Dean White",
 			"Greg Pak",
-			"Fred Van Lente",
-			"John Romita JR.",
 			"Rafa Sandoval"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/b0/5152048086586.jpg",
@@ -899,16 +922,17 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Runaways",
+			"Young Avengers",
+			"Patriot",
+			"Kate Bishop",
+			"Hulkling",
+			"Vision",
+			"Wiccan"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Rick Ketcham",
-			"Takeshi Miyazawa",
-			"Michael Ryan",
-			"Christina Strain",
-			"Chris Yost"
+			"Chris Yost",
+			"Takeshi Miyazawa"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5151f6dd708aa.jpg",
 		"universe": "Earth-616",
@@ -927,22 +951,14 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"3-D Man",
-			"Ant-Man (Eric O'Grady)",
+			"Avengers",
 			"Hank Pym",
-			"Skrulls",
-			"Super-Skrull",
-			"Tigra (Greer Nelson)",
-			"Trauma"
+			"War Machine",
+			"Eric O'Grady"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Mark Brooks",
-			"Joe Caramagna",
-			"Stefano Caselli",
-			"Christos Gage",
 			"Dan Slott",
-			"Daniele Rudoni"
+			"Stefano Caselli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/4e9492b596bde.jpg",
 		"universe": "Earth-616",
@@ -963,17 +979,11 @@
 			"Avengers",
 			"Black Widow",
 			"Hank Pym",
-			"Skrulls",
 			"Wasp"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Edgar Delgado",
-			"Marko Djurdjevic",
-			"Klaus Janson",
-			"Tom Palmer",
-			"Dave Lanphear",
-			"John Romita JR."
+			"John Romita Jr"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4d24fbde85c51.jpg",
 		"universe": "Earth-616",
@@ -992,16 +1002,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Captain Marvel (Carol Danvers)",
-			"Skrulls"
+			"Carol Danvers"
 		],
 		"creators": [
-			"Mariah Benes",
-			"Greg Horn",
-			"Adriana Melo",
 			"Brian Reed",
-			"Dave Sharpe",
-			"Chris Sotomayor"
+			"Adriana Melo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/515205b278dab.jpg",
 		"universe": "Earth-616",
@@ -1019,15 +1024,12 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Spider-Woman (Jessica Drew)"
+			"Avengers",
+			"Spider-Woman"
 		],
 		"creators": [
-			"Comicraft",
 			"Brian Michael Bendis",
-			"Aleksi Briclot",
-			"Justin Ponsor",
-			"Jim Cheung",
-			"John Dell"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4f7ef88b64a03.jpg",
 		"universe": "Earth-616",
@@ -1046,14 +1048,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Ben Urich"
 		],
 		"creators": [
-			"Marco Castiello",
-			"Barbara Ciardo",
-			"Juan Doe",
-			"Chris Eliopoulos",
-			"Brian Reed"
+			"Brian Reed",
+			"Marco Castiello"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5151f571134de.jpg",
 		"universe": "Earth-616",
@@ -1071,16 +1070,10 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Captain Britain"
 		],
 		"creators": [
-			"Joe Caramagna",
 			"Paul Cornell",
-			"Jesse Delperdang",
-			"Scott Hanna",
-			"Bryan Hitch",
-			"Morry Hollowell",
-			"Brian Reber",
 			"Leonard Kirk"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/51520257b8d6c.jpg",
@@ -1099,16 +1092,53 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
+			"Avengers",
+			"Iron Man",
+			"Spider-Woman",
+			"Black Widow",
+			"Ares",
+			"Carol Danvers",
+			"Sentry",
+			"Wonder Man",
+			"Luke Cage",
+			"Spider-Man",
+			"Iron Fist",
+			"Hawkeye",
+			"Wolverine",
+			"Echo",
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm ",
+			"Human Torch",
+			"Thing",
+			"Maria Hill",
+			"Marvel Boy",
+			"Thunderbolts",
+			"Norman Osborn",
+			"Wasp",
+			"Mockingbird",
+			"Young Avengers",
+			"Patriot",
+			"Wiccan",
+			"Hulkling",
+			"Kate Bishop",
+			"Vision",
+			"Cassie Lang",
+			"Secret Warriors",
 			"Nick Fury",
-			"Skrulls"
+			"Quake",
+			"Phobos",
+			"Maria Hill",
+			"Thor",
+			"Bucky Barnes",
+			"Hood",
+			"Jessica Jones",
+			"Daredevil",
+			"Elektra"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Gabriele Dell'Otto",
-			"Laura Martin",
-			"Chris Eliopoulos",
-			"Mark Morales",
-			"Leinil Francis Yu"
+			"Leinil Yu"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5151efe58715c.jpg",
 		"universe": "Earth-616",
@@ -1128,19 +1158,10 @@
 		"eventid": "011",
 		"characters": [
 			"Avengers",
-			"Daredevil",
-			"Electro",
-			"Elektra",
-			"Skrulls",
-			"The Hand",
-			"Wolverine"
+			"Elektra"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Marko Djurdjevic",
-			"Dean White",
-			"Dave Lanphear",
-			"Danny K. Miki",
 			"Khoi Pham"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4d24fc7a0105e.jpg",
@@ -1160,15 +1181,16 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"X-Men"
+			"X-Factor",
+			"She-Hulk",
+			"Madrox",
+			"Siryn",
+			"Strong Guy",
+			"Rictor",
+			"Monet"
 		],
 		"creators": [
-			"Boo Cook",
-			"Jeromy Cox",
 			"Peter David",
-			"Chris Eliopoulos",
-			"Cory Petit",
-			"Jonathan Sibal",
 			"Larry Stroman"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/51521a819ebf0.jpg",
@@ -1187,19 +1209,12 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Hercules",
+			"Amadeus Cho"
 		],
 		"creators": [
-			"Roger Bonet",
-			"Klaus Janson",
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Rafa Sandoval",
-			"Marte Gracia",
-			"Dean White",
 			"Greg Pak",
-			"Fred Van Lente",
-			"John Romita JR."
+			"Rafa Sandoval"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5152048e9e7dc.jpg",
 		"universe": "Earth-616",
@@ -1220,11 +1235,7 @@
 			"New Warriors"
 		],
 		"creators": [
-			"Joe Caramagna",
 			"Kevin Grevioux",
-			"Nic Klein",
-			"Beth Sotelo",
-			"Salvador Regla",
 			"Koi Turnbull"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/515219b65e8bc.jpg",
@@ -1243,21 +1254,14 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"3-D Man",
-			"Gauntlet (Joseph Green)",
+			"Avengers",
 			"Hank Pym",
-			"Iron Patriot (James Rhodes)",
-			"Skrulls"
+			"War Machine",
+			"Eric O'Grady"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Mark Brooks",
-			"Joe Caramagna",
-			"Christos Gage",
 			"Dan Slott",
-			"Jay David Ramos",
-			"Christina Strain",
-			"Harvey Tolibao"
+			"Stefano Caselli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/b0/4e949584d8f3e.jpg",
 		"universe": "Earth-616",
@@ -1275,16 +1279,17 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"She-Hulk (Jennifer Walters)"
+			"She-Hulk",
+			"X-Factor",
+			"Madrox",
+			"Siryn",
+			"Strong Guy",
+			"Rictor",
+			"Monet"
 		],
 		"creators": [
-			"Vincenzo Acunzo",
-			"Mike Deodato",
-			"Rainier Beredo",
-			"Barbara Ciardo",
-			"Vincenzo Cucca",
 			"Peter David",
-			"Dave Sharpe"
+			"Vincenzo Cucca"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/51521b21b50f5.jpg",
 		"universe": "Earth-616",
@@ -1302,18 +1307,12 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Ka-Zar",
-			"Shanna the She-Devil",
-			"Skrulls",
+			"Avengers",
 			"Spider-Man"
 		],
 		"creators": [
-			"Comicraft",
 			"Brian Michael Bendis",
-			"Aleksi Briclot",
-			"Billy Tan",
-			"Jason Keith",
-			"Danny K. Miki"
+			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/04/5773ecec9be9e.jpg",
 		"universe": "Earth-616",
@@ -1332,16 +1331,16 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Thunderbolts"
+			"Thunderbolts",
+			"Norman Osborn",
+			"Songbird",
+			"Bullseye",
+			"Mac Gargan",
+			"Mar-Vell"
 		],
 		"creators": [
-			"Comicraft",
-			"Rainier Beredo",
-			"Frank Martin",
-			"Raul Trevino",
-			"Fernando Blanco",
 			"Christos Gage",
-			"Billy Tan"
+			"Fernando Blanco"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/5744cc26a4dbb.jpg",
 		"universe": "Earth-616",
@@ -1360,18 +1359,15 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Fantastic Four"
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm",
+			"Human Torch",
+			"Thing"
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
-			"Joe Caramagna",
-			"Alan Davis",
-			"Mark Farmer",
-			"Mick Gray",
-			"Barry Kitson",
-			"Cam Smith",
-			"Paul Mounts",
-			"Chris Sotomayor"
+			"Barry Kitson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/53ea3d3e48080.jpg",
 		"universe": "Earth-616",
@@ -1389,17 +1385,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Captain Marvel (Carol Danvers)",
-			"Skrulls"
+			"Carol Danvers"
 		],
 		"creators": [
-			"Mariah Benes",
-			"PAULO SIQUEIRA",
-			"Greg Horn",
-			"Chris Sotomayor",
-			"Adriana Melo",
 			"Brian Reed",
-			"Dave Sharpe"
+			"Adriana Melo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/515205bfd04c2.jpg",
 		"universe": "Earth-616",
@@ -1418,14 +1408,11 @@
 		"eventid": "011",
 		"characters": [
 			"Black Panther",
-			"Skrulls"
+			"Storm"
 		],
 		"creators": [
 			"Jason Aaron",
-			"Lee Loughridge",
-			"Jefte Palo",
-			"Jason Pearson",
-			"Cory Petit"
+			"Jefte Palo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/03/57470d91215c3.jpg",
 		"universe": "Earth-616",
@@ -1443,15 +1430,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Ben Urich"
 		],
 		"creators": [
-			"Marco Castiello",
-			"Barbara Ciardo",
-			"Juan Doe",
-			"Chris Eliopoulos",
-			"Cory Petit",
-			"Brian Reed"
+			"Brian Reed",
+			"Marco Castiello"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/5151f55ceb162.jpg",
 		"universe": "Earth-616",
@@ -1469,16 +1452,21 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Beast",
+			"Colossus",
+			"Cyclops",
+			"Emma Frost",
+			"Iceman",
+			"Nightcrawler",
+			"X-23",
+			"X-Force",
+			"Angel",
+			"Wolfsbane"
 		],
 		"creators": [
-			"Joe Caramagna",
 			"Mike Carey",
-			"Rachel Dodson",
-			"Terry Dodson",
-			"Cary Nord",
-			"Dave McCaig",
-			"Justin Ponsor"
+			"Cary Nord"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/515200548e1cc.jpg",
 		"universe": "Earth-616",
@@ -1496,16 +1484,13 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Cosmic",
+			"Inhumans",
+			"Black Bolt",
+			"Ronan"
 		],
 		"creators": [
-			"Guru-eFX",
-			"STJEPAN SEJIC",
-			"Chris Eliopoulos",
-			"Scott Hanna",
-			"David Hine",
-			"JOE POKASKI",
-			"Cory Petit",
+			"Joe Pokaski",
 			"Tom Raney"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/5151f453b05f9.jpg",
@@ -1525,15 +1510,12 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Thor"
+			"Thor",
+			"Beta Ray Bill"
 		],
 		"creators": [
-			"Doug Braithwaite",
-			"Joe Caramagna",
-			"Gabriele Dell'Otto",
-			"Paul Mounts",
-			"Chris Eliopoulos",
-			"Matt Fraction"
+			"Matt Fraction",
+			"Doug Braithwaite"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/5151f83970113.jpg",
 		"universe": "Earth-616",
@@ -1551,16 +1533,17 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Runaways",
+			"Young Avengers",
+			"Patriot",
+			"Kate Bishop",
+			"Hulkling",
+			"Vision",
+			"Wiccan"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Rick Ketcham",
-			"Takeshi Miyazawa",
-			"Michael Ryan",
-			"Christina Strain",
-			"Chris Yost"
+			"Chris Yost",
+			"Takeshi Miyazawa"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/5151f6ec6faec.jpg",
 		"universe": "Earth-616",
@@ -1579,16 +1562,10 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Captain Britain"
 		],
 		"creators": [
-			"Joe Caramagna",
 			"Paul Cornell",
-			"Jesse Delperdang",
-			"Chris Eliopoulos",
-			"Bryan Hitch",
-			"Morry Hollowell",
-			"Brian Reber",
 			"Leonard Kirk"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/515202441ec03.jpg",
@@ -1607,15 +1584,53 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Skrulls"
+			"Avengers",
+			"Iron Man",
+			"Spider-Woman",
+			"Black Widow",
+			"Ares",
+			"Carol Danvers",
+			"Sentry",
+			"Wonder Man",
+			"Luke Cage",
+			"Spider-Man",
+			"Iron Fist",
+			"Hawkeye",
+			"Wolverine",
+			"Echo",
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm ",
+			"Human Torch",
+			"Thing",
+			"Maria Hill",
+			"Marvel Boy",
+			"Thunderbolts",
+			"Norman Osborn",
+			"Wasp",
+			"Mockingbird",
+			"Young Avengers",
+			"Patriot",
+			"Wiccan",
+			"Hulkling",
+			"Kate Bishop",
+			"Vision",
+			"Cassie Lang",
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake",
+			"Phobos",
+			"Maria Hill",
+			"Thor",
+			"Bucky Barnes",
+			"Hood",
+			"Jessica Jones",
+			"Daredevil",
+			"Elektra"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Gabriele Dell'Otto",
-			"Laura Martin",
-			"Chris Eliopoulos",
-			"Mark Morales",
-			"Leinil Francis Yu"
+			"Leinil Yu"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/5151f0b267794.jpg",
 		"universe": "Earth-616",
@@ -1634,16 +1649,20 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Guardians of the Galaxy"
+			"Cosmic",
+			"Guardians of the Galaxy",
+			"Star-Lord",
+			"Rocket Raccon",
+			"Groot",
+			"Phyla-Vell",
+			"Adam Warlock",
+			"Gamora",
+			"Drax",
+			"Cosmo"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Clint Langley",
 			"Dan Abnett",
-			"Chris Eliopoulos",
-			"Joe Caramagna",
 			"Andy Lanning",
-			"Rick Magyar",
 			"Paul Pelletier"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/517ad36440e01.jpg",
@@ -1663,15 +1682,16 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"X-Men"
+			"X-Factor",
+			"She-Hulk",
+			"Madrox",
+			"Siryn",
+			"Strong Guy",
+			"Rictor",
+			"Monet"
 		],
 		"creators": [
-			"Boo Cook",
-			"Jeromy Cox",
 			"Peter David",
-			"Chris Eliopoulos",
-			"Cory Petit",
-			"Jonathan Sibal",
 			"Larry Stroman"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/51521aa22f7e4.jpg",
@@ -1690,23 +1710,12 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Hercules",
+			"Amadeus Cho"
 		],
 		"creators": [
-			"Greg Adams",
-			"Roger Bonet",
-			"Klaus Janson",
-			"Dennis Calero",
-			"Marte Gracia",
-			"Raul Trevino",
-			"Dean White",
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Salvador Espin",
-			"John Romita JR.",
-			"Rafa Sandoval",
 			"Greg Pak",
-			"Fred Van Lente"
+			"Rafa Sandoval"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/5152049a94911.jpg",
 		"universe": "Earth-616",
@@ -1727,14 +1736,8 @@
 			"Spider-Man"
 		],
 		"creators": [
-			"Rainier Beredo",
-			"Jeromy Cox",
-			"Jared Fletcher",
-			"Andy Lanning",
-			"Mike McKone",
-			"Marco Santucci",
-			"Mark Pennington",
-			"Brian Reed"
+			"Brian Reed",
+			"Marco Santucci"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/5151f35265d5b.jpg",
 		"universe": "Earth-616",
@@ -1756,11 +1759,7 @@
 			"New Warriors"
 		],
 		"creators": [
-			"Joe Caramagna",
 			"Kevin Grevioux",
-			"Nic Klein",
-			"Beth Sotelo",
-			"Salvador Regla",
 			"Koi Turnbull"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/515219dea032c.jpg",
@@ -1779,18 +1778,14 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
+			"Cosmic",
 			"Nova",
 			"Super-Skrull"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Paul Davidson",
 			"Dan Abnett",
 			"Andy Lanning",
-			"Wellington Alves",
-			"Chris Eliopoulos",
-			"Scott Hanna",
-			"Cory Petit"
+			"Wellington Alves"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/578fae0b41d85.jpg",
 		"universe": "Earth-616",
@@ -1809,23 +1804,14 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"3-D Man",
-			"Beta-Ray Bill",
+			"Avengers",
 			"Hank Pym",
-			"Iron Patriot (James Rhodes)",
-			"Nick Fury",
-			"Thing",
-			"Trauma"
+			"War Machine",
+			"Eric O'Grady"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Mark Brooks",
-			"Stefano Caselli",
-			"Joe Caramagna",
-			"Christos Gage",
 			"Dan Slott",
-			"Luca Malisan",
-			"Christina Strain"
+			"Stefano Caselli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4e949a86d0b27.jpg",
 		"universe": "Earth-616",
@@ -1843,17 +1829,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Dum Dum Dugan",
-			"Hank Pym",
-			"Skrulls"
+			"Avengers",
+			"Hank Pym"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Marko Djurdjevic",
-			"Dean White",
-			"Andy Lanning",
-			"Dave Lanphear",
-			"Danny K. Miki",
 			"Khoi Pham"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4d25194ee9cd4.jpg",
@@ -1873,16 +1853,12 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"She-Hulk (Jennifer Walters)"
+			"She-Hulk",
+			"Super-Skrull"
 		],
 		"creators": [
-			"Vincenzo Acunzo",
-			"Mike Deodato",
-			"Rainier Beredo",
-			"Barbara Ciardo",
-			"Vincenzo Cucca",
 			"Peter David",
-			"Dave Sharpe"
+			"Vincenzo Cucca"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/51521b5d0c5bd.jpg",
 		"universe": "Earth-616",
@@ -1901,15 +1877,11 @@
 		"eventid": "011",
 		"characters": [
 			"Black Panther",
-			"Skrulls"
+			"Storm"
 		],
 		"creators": [
 			"Jason Aaron",
-			"Chris Eliopoulos",
-			"Lee Loughridge",
-			"Jefte Palo",
-			"Jason Pearson",
-			"Cory Petit"
+			"Jefte Palo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/57470e8c047e2.jpg",
 		"universe": "Earth-616",
@@ -1927,17 +1899,10 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Iron Man",
-			"Namor",
-			"Skrulls",
-			"Stephen Strange"
+			"Avengers"
 		],
 		"creators": [
-			"Comicraft",
-			"Matt Banning",
 			"Brian Michael Bendis",
-			"Aleksi Briclot",
-			"Justin Ponsor",
 			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/5773ecde71cde.jpg",
@@ -1957,15 +1922,16 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Thunderbolts"
+			"Thunderbolts",
+			"Norman Osborn",
+			"Songbird",
+			"Bullseye",
+			"Mac Gargan",
+			"Mar-Vell"
 		],
 		"creators": [
-			"Comicraft",
-			"Fernando Blanco",
 			"Christos Gage",
-			"Frank Martin",
-			"Raul Trevino",
-			"Billy Tan"
+			"Fernando Blanco"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/5744cdabbb4ef.jpg",
 		"universe": "Earth-616",
@@ -1984,15 +1950,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Ben Urich"
 		],
 		"creators": [
-			"Marco Castiello",
-			"Barbara Ciardo",
-			"Juan Doe",
-			"Chris Eliopoulos",
-			"Cory Petit",
-			"Brian Reed"
+			"Brian Reed",
+			"Marco Castiello"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5151f549af5fb.jpg",
 		"universe": "Earth-616",
@@ -2010,10 +1972,12 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Deadpool"
+			"Deadpool",
+			"Nick Fury"
 		],
 		"creators": [
-			"Clayton Crain"
+			"Daniel Way",
+			"Paco Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5152037405711.jpg",
 		"universe": "Earth-616",
@@ -2031,16 +1995,21 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Beast",
+			"Colossus",
+			"Cyclops",
+			"Emma Frost",
+			"Iceman",
+			"Nightcrawler",
+			"X-23",
+			"X-Force",
+			"Angel",
+			"Wolfsbane"
 		],
 		"creators": [
-			"Joe Caramagna",
 			"Mike Carey",
-			"Rachel Dodson",
-			"Terry Dodson",
-			"Cary Nord",
-			"Dave McCaig",
-			"Justin Ponsor"
+			"Cary Nord"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/515200637ccff.jpg",
 		"universe": "Earth-616",
@@ -2058,15 +2027,13 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Cosmic",
+			"Inhumans",
+			"Black Bolt",
+			"Ronan"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Chris Eliopoulos",
-			"Scott Hanna",
-			"STJEPAN SEJIC",
-			"Cory Petit",
-			"JOE POKASKI",
+			"Joe Pokaski",
 			"Tom Raney"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5151f43f66d7a.jpg",
@@ -2086,15 +2053,17 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Runaways",
+			"Young Avengers",
+			"Patriot",
+			"Kate Bishop",
+			"Hulkling",
+			"Vision",
+			"Wiccan"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Rick Ketcham",
-			"Takeshi Miyazawa",
-			"Michael Ryan",
-			"Christina Strain",
-			"Chris Yost"
+			"Chris Yost",
+			"Takeshi Miyazawa"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5151f6f2ec269.jpg",
 		"universe": "Earth-616",
@@ -2114,15 +2083,52 @@
 		"eventid": "011",
 		"characters": [
 			"Avengers",
-			"Skrulls"
+			"Iron Man",
+			"Spider-Woman",
+			"Black Widow",
+			"Ares",
+			"Carol Danvers",
+			"Sentry",
+			"Wonder Man",
+			"Luke Cage",
+			"Spider-Man",
+			"Iron Fist",
+			"Hawkeye",
+			"Wolverine",
+			"Echo",
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm ",
+			"Human Torch",
+			"Thing",
+			"Maria Hill",
+			"Marvel Boy",
+			"Thunderbolts",
+			"Norman Osborn",
+			"Wasp",
+			"Mockingbird",
+			"Young Avengers",
+			"Patriot",
+			"Wiccan",
+			"Hulkling",
+			"Kate Bishop",
+			"Vision",
+			"Cassie Lang",
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake",
+			"Phobos",
+			"Maria Hill",
+			"Thor",
+			"Bucky Barnes",
+			"Hood",
+			"Jessica Jones",
+			"Daredevil",
+			"Elektra"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Gabriele Dell'Otto",
-			"Leinil Francis Yu",
-			"Chris Eliopoulos",
-			"Laura Martin",
-			"Mark Morales"
+			"Leinil Yu"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/5151f0be10549.jpg",
 		"universe": "Earth-616",
@@ -2141,17 +2147,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Captain Marvel (Carol Danvers)",
-			"Skrulls"
+			"Carol Danvers"
 		],
 		"creators": [
-			"Mariah Benes",
-			"PAULO SIQUEIRA",
-			"Greg Horn",
-			"Adriana Melo",
 			"Brian Reed",
-			"Dave Sharpe",
-			"Chris Sotomayor"
+			"Adriana Melo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/515205d3c4c38.jpg",
 		"universe": "Earth-616",
@@ -2169,15 +2169,12 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Thor"
+			"Thor",
+			"Beta Ray Bill"
 		],
 		"creators": [
-			"Doug Braithwaite",
-			"Joe Caramagna",
-			"Chris Eliopoulos",
 			"Matt Fraction",
-			"Paul Mounts",
-			"Brian Reber"
+			"Doug Braithwaite"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5151f860692da.jpg",
 		"universe": "Earth-616",
@@ -2195,16 +2192,20 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Guardians of the Galaxy"
+			"Cosmic",
+			"Guardians of the Galaxy",
+			"Star-Lord",
+			"Rocket Raccon",
+			"Groot",
+			"Phyla-Vell",
+			"Adam Warlock",
+			"Gamora",
+			"Drax",
+			"Cosmo"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Chris Eliopoulos",
 			"Dan Abnett",
 			"Andy Lanning",
-			"Joe Caramagna",
-			"Clint Langley",
-			"Rick Magyar",
 			"Paul Pelletier"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/517ad355c9b05.jpg",
@@ -2224,16 +2225,13 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
+			"Avengers",
 			"Maria Hill",
-			"Nick Fury",
-			"Skrulls"
+			"Nick Fury"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Stefano Caselli",
-			"Marko Djurdjevic",
-			"Daniele Rudoni",
-			"Dave Lanphear"
+			"Stefano Caselli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4d24e82b555c9.jpg",
 		"universe": "Earth-616",
@@ -2252,16 +2250,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Iron Man"
+			"War Machine"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Sean Chen",
-			"Chris Eliopoulos",
-			"Adi Granov",
-			"Sandu Florea",
 			"Christos Gage",
-			"Jay David Ramos"
+			"Sean Chen"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/5153022d8ccc9.jpg",
 		"universe": "Earth-616",
@@ -2279,16 +2272,12 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Deadpool"
+			"Deadpool",
+			"Nick Fury"
 		],
 		"creators": [
-			"Clayton Crain",
-			"Paco Medina",
-			"Chris Eliopoulos",
-			"Marte Gracia",
-			"Cory Petit",
-			"Juan Vlasco",
-			"Daniel Way"
+			"Daniel Way",
+			"Paco Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/5732265c65605.jpg",
 		"universe": "Earth-616",
@@ -2309,13 +2298,8 @@
 			"Spider-Man"
 		],
 		"creators": [
-			"Jeromy Cox",
-			"Jared Fletcher",
-			"Andy Lanning",
-			"Mike McKone",
-			"Marco Santucci",
-			"Mark Pennington",
-			"Brian Reed"
+			"Brian Reed",
+			"Marco Santucci"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/5151f36116f33.jpg",
 		"universe": "Earth-616",
@@ -2334,19 +2318,15 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
+			"Cosmic",
+			"Nova",
 			"Darkhawk",
-			"Nova"
+			"Quasar"
 		],
 		"creators": [
 			"Dan Abnett",
-			"Chris Eliopoulos",
-			"Jorge Gonzalez Aguilar",
-			"Francesco Mattina",
-			"Wellington Alves",
-			"Geraldo Borges",
-			"Scott Hanna",
 			"Andy Lanning",
-			"Cory Petit"
+			"Wellington Alves"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5151f2824baed.jpg",
 		"universe": "Earth-616",
@@ -2365,24 +2345,10 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"3-D Man",
-			"Ant-Man (Eric O'Grady)",
-			"Bengal",
-			"Constrictor",
-			"Hank Pym",
-			"Jocasta",
-			"Nick Fury",
-			"Skrulls",
-			"Spider-Woman (Jessica Drew)"
+			"Avengers"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Mark Brooks",
-			"Joe Caramagna",
-			"Christos Gage",
 			"Dan Slott",
-			"Jay David Ramos",
-			"Christina Strain",
 			"Harvey Tolibao"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4e949db2a50c2.jpg",
@@ -2401,16 +2367,12 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"She-Hulk (Jennifer Walters)"
+			"She-Hulk",
+			"Super-Skrull"
 		],
 		"creators": [
-			"Vincenzo Acunzo",
-			"Mike Deodato",
-			"Rainier Beredo",
-			"Barbara Ciardo",
-			"Vincenzo Cucca",
 			"Peter David",
-			"Dave Sharpe"
+			"Vincenzo Cucca"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/51521b488b63b.jpg",
 		"universe": "Earth-616",
@@ -2429,16 +2391,11 @@
 		"eventid": "011",
 		"characters": [
 			"Black Panther",
-			"Skrulls",
 			"Storm"
 		],
 		"creators": [
 			"Jason Aaron",
-			"Chris Eliopoulos",
-			"Lee Loughridge",
-			"Jefte Palo",
-			"Jason Pearson",
-			"Cory Petit"
+			"Jefte Palo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/57470f17923c2.jpg",
 		"universe": "Earth-616",
@@ -2456,16 +2413,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Avengers"
 		],
 		"creators": [
-			"Comicraft",
 			"Brian Michael Bendis",
-			"Aleksi Briclot",
-			"Justin Ponsor",
-			"Jim Cheung",
-			"John Dell",
-			"Jay Leisten"
+			"Jim Cheung"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5773ecd05663b.jpg",
 		"universe": "Earth-616",
@@ -2484,15 +2436,15 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Thunderbolts"
+			"Thunderbolts",
+			"Norman Osborn",
+			"Songbird",
+			"Bullseye",
+			"Mac Gargan"
 		],
 		"creators": [
-			"Comicraft",
-			"Fernando Blanco",
 			"Christos Gage",
-			"Frank Martin",
-			"Raul Trevino",
-			"Billy Tan"
+			"Fernando Blanco"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5744cdf09c0a3.jpg",
 		"universe": "Earth-616",
@@ -2511,15 +2463,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Punisher"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Howard Chaykin",
-			"Edgar Delgado",
-			"Alex Maleev",
 			"Matt Fraction",
-			"Rick Remender"
+			"Howard Chaykin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bb6d20e51ebe.jpg",
 		"universe": "Earth-616",
@@ -2537,16 +2485,12 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Deadpool"
+			"Deadpool",
+			"Nick Fury"
 		],
 		"creators": [
-			"Clayton Crain",
-			"Chris Eliopoulos",
-			"Paco Medina",
-			"Marte Gracia",
-			"Cory Petit",
-			"Juan Vlasco",
-			"Daniel Way"
+			"Daniel Way",
+			"Paco Medina"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/51520360c51c5.jpg",
 		"universe": "Earth-616",
@@ -2564,15 +2508,13 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Cosmic",
+			"Inhumans",
+			"Black Bolt",
+			"Ronan"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Chris Eliopoulos",
-			"Scott Hanna",
-			"STJEPAN SEJIC",
-			"Cory Petit",
-			"JOE POKASKI",
+			"Joe Pokaski",
 			"Tom Raney"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5151f436b45c6.jpg",
@@ -2592,15 +2534,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Ben Urich"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Marco Castiello",
-			"Barbara Ciardo",
-			"Juan Doe",
-			"Chris Eliopoulos",
-			"Brian Reed"
+			"Brian Reed",
+			"Marco Castiello"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5151f53528b6b.jpg",
 		"universe": "Earth-616",
@@ -2618,16 +2556,20 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Guardians of the Galaxy"
+			"Cosmic",
+			"Guardians of the Galaxy",
+			"Star-Lord",
+			"Rocket Raccon",
+			"Groot",
+			"Phyla-Vell",
+			"Adam Warlock",
+			"Gamora",
+			"Drax",
+			"Cosmo"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Chris Eliopoulos",
 			"Dan Abnett",
 			"Andy Lanning",
-			"Joe Caramagna",
-			"Clint Langley",
-			"Rick Magyar",
 			"Paul Pelletier"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/517ad475ab6f8.jpg",
@@ -2647,17 +2589,12 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Captain Marvel (Mar-Vell)",
-			"Kree",
-			"Skrulls"
+			"Avengers",
+			"Mar-Vell",
+			"Marvel Boy"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Marko Djurdjevic",
-			"Paul Mounts",
-			"Dean White",
-			"Dave Lanphear",
-			"Danny K. Miki",
 			"Khoi Pham"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4d251a069f575.jpg",
@@ -2677,16 +2614,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Iron Man"
+			"War Machine"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Sean Chen",
-			"Chris Eliopoulos",
-			"Adi Granov",
-			"Sandu Florea",
 			"Christos Gage",
-			"Jay David Ramos"
+			"Sean Chen"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/d0/51530221aeba0.jpg",
 		"universe": "Earth-616",
@@ -2707,17 +2639,8 @@
 			"Spider-Man"
 		],
 		"creators": [
-			"Jeromy Cox",
-			"John Kalisz",
-			"Chris Sotomayor",
-			"Jared Fletcher",
-			"Andy Lanning",
-			"Mike McKone",
-			"Marco Santucci",
-			"Dave Meikis",
-			"Victor Olazaba",
-			"Mark Pennington",
-			"Brian Reed"
+			"Brian Reed",
+			"Marco Santucci"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5151f36c5291a.jpg",
 		"universe": "Earth-616",
@@ -2736,17 +2659,53 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Skrulls",
-			"Wasp"
+			"Avengers",
+			"Iron Man",
+			"Spider-Woman",
+			"Black Widow",
+			"Ares",
+			"Carol Danvers",
+			"Sentry",
+			"Wonder Man",
+			"Luke Cage",
+			"Spider-Man",
+			"Iron Fist",
+			"Hawkeye",
+			"Wolverine",
+			"Echo",
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm ",
+			"Human Torch",
+			"Thing",
+			"Maria Hill",
+			"Marvel Boy",
+			"Thunderbolts",
+			"Norman Osborn",
+			"Wasp",
+			"Mockingbird",
+			"Young Avengers",
+			"Patriot",
+			"Wiccan",
+			"Hulkling",
+			"Kate Bishop",
+			"Vision",
+			"Cassie Lang",
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake",
+			"Phobos",
+			"Maria Hill",
+			"Thor",
+			"Bucky Barnes",
+			"Hood",
+			"Jessica Jones",
+			"Daredevil",
+			"Elektra"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Gabriele Dell'Otto",
-			"Laura Martin",
-			"Emily Warren",
-			"Chris Eliopoulos",
-			"Mark Morales",
-			"Leinil Francis Yu"
+			"Leinil Yu"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/5151f0c98bbe7.jpg",
 		"universe": "Earth-616",
@@ -2768,15 +2727,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Madame Masque",
-			"The Hood"
+			"Avengers",
+			"Hood"
 		],
 		"creators": [
-			"Comicraft",
-			"Matt Banning",
 			"Brian Michael Bendis",
-			"Aleksi Briclot",
-			"Justin Ponsor",
 			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5773ecc19ce46.jpg",
@@ -2796,15 +2751,15 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Thunderbolts"
+			"Thunderbolts",
+			"Norman Osborn",
+			"Songbird",
+			"Bullseye",
+			"Mac Gargan"
 		],
 		"creators": [
-			"Comicraft",
-			"Fernando Blanco",
 			"Christos Gage",
-			"Frank Martin",
-			"Raul Trevino",
-			"Billy Tan"
+			"Fernando Blanco"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/5744cdda486d9.jpg",
 		"universe": "Earth-616",
@@ -2823,16 +2778,21 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Beast",
+			"Colossus",
+			"Cyclops",
+			"Emma Frost",
+			"Iceman",
+			"Nightcrawler",
+			"X-23",
+			"X-Force",
+			"Angel",
+			"Wolfsbane"
 		],
 		"creators": [
-			"Joe Caramagna",
 			"Mike Carey",
-			"Rachel Dodson",
-			"Terry Dodson",
-			"Miguel Angel Sepulveda",
-			"Dave McCaig",
-			"Justin Ponsor"
+			"Miguel Sepulveda"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/5152006e6818b.jpg",
 		"universe": "Earth-616",
@@ -2850,14 +2810,12 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Thor"
+			"Thor",
+			"Beta Ray Bill"
 		],
 		"creators": [
-			"Doug Braithwaite",
-			"Joe Caramagna",
-			"Chris Eliopoulos",
 			"Matt Fraction",
-			"Brian Reber"
+			"Doug Braithwaite"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5151f86ec5981.jpg",
 		"universe": "Earth-616",
@@ -2875,20 +2833,15 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Darkhawk",
+			"Cosmic",
 			"Nova",
-			"Quasar (Wendell Vaughn)"
+			"Darkhawk",
+			"Quasar"
 		],
 		"creators": [
-			"Guru-eFX",
 			"Dan Abnett",
-			"Chris Eliopoulos",
-			"Wellington Alves",
-			"Geraldo Borges",
-			"Francesco Mattina",
-			"Scott Hanna",
 			"Andy Lanning",
-			"Cory Petit"
+			"Wellington Alves"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/5151f28fe9acd.jpg",
 		"universe": "Earth-616",
@@ -2907,25 +2860,10 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"3-D Man",
-			"Ant-Man (Eric O'Grady)",
-			"Cloud 9",
-			"Dum Dum Dugan",
-			"Gravity",
-			"Hank Pym",
-			"Komodo (Melati Kusuma)",
-			"Skrulls",
-			"Thor Girl"
+			"Avengers"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Mark Brooks",
-			"Joe Caramagna",
-			"Edgar Delgado",
-			"Matt Milla",
-			"Christos Gage",
 			"Dan Slott",
-			"Andrew Hennessy",
 			"Steve Kurth"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4e94a0790135d.jpg",
@@ -2944,16 +2882,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Punisher"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Howard Chaykin",
-			"Edgar Delgado",
-			"Clint Langley",
-			"Chris Eliopoulos",
 			"Matt Fraction",
-			"Rick Remender"
+			"Howard Chaykin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/5152fde500f73.jpg",
 		"universe": "Earth-616",
@@ -2971,16 +2904,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"Iron Man"
+			"War Machine"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Sean Chen",
-			"Chris Eliopoulos",
-			"Adi Granov",
-			"Sandu Florea",
 			"Christos Gage",
-			"Jay David Ramos"
+			"Sean Chen"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/515302170faf9.jpg",
 		"universe": "Earth-616",
@@ -2998,17 +2926,21 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Beast",
+			"Colossus",
+			"Cyclops",
+			"Emma Frost",
+			"Iceman",
+			"Nightcrawler",
+			"X-23",
+			"X-Force",
+			"Angel",
+			"Wolfsbane"
 		],
 		"creators": [
 			"Mike Carey",
-			"Rachel Dodson",
-			"Terry Dodson",
-			"Cary Nord",
-			"Miguel Angel Sepulveda",
-			"Chris Eliopoulos",
-			"Dave McCaig",
-			"Justin Ponsor"
+			"Cary Nord"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/5152007d88b41.jpg",
 		"universe": "Earth-616",
@@ -3026,22 +2958,20 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Cosmic",
+			"Inhumans",
+			"Black Bolt",
+			"Ronan"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Chris Eliopoulos",
-			"Scott Hanna",
-			"Tom Raney",
-			"STJEPAN SEJIC",
-			"Cory Petit",
-			"JOE POKASKI"
+			"Joe Pokaski",
+			"Tom Raney"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5151f42855c0c.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"comments": [
-			"Inhumans ally with Kree Empire"
+			"Inhumans ally with the Kree Empire"
 		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
@@ -3058,21 +2988,58 @@
 		"eventid": "011",
 		"characters": [
 			"Avengers",
-			"Skrulls"
+			"Iron Man",
+			"Spider-Woman",
+			"Black Widow",
+			"Ares",
+			"Carol Danvers",
+			"Sentry",
+			"Wonder Man",
+			"Luke Cage",
+			"Spider-Man",
+			"Iron Fist",
+			"Hawkeye",
+			"Wolverine",
+			"Echo",
+			"Fantastic Four",
+			"Reed Richards",
+			"Sue Storm ",
+			"Human Torch",
+			"Thing",
+			"Maria Hill",
+			"Marvel Boy",
+			"Thunderbolts",
+			"Norman Osborn",
+			"Wasp",
+			"Mockingbird",
+			"Young Avengers",
+			"Patriot",
+			"Wiccan",
+			"Hulkling",
+			"Kate Bishop",
+			"Vision",
+			"Cassie Lang",
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake",
+			"Phobos",
+			"Maria Hill",
+			"Thor",
+			"Bucky Barnes",
+			"Hood",
+			"Jessica Jones",
+			"Daredevil",
+			"Elektra"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Gabriele Dell'Otto",
-			"Laura Martin",
-			"Chris Eliopoulos",
-			"Mark Morales",
-			"Leinil Francis Yu"
+			"Leinil Yu"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/5151f0d51369a.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"comments": [
-			"SHIELD closes",
+			"SHIELD shuts down",
 			"Norman Osborn takes control"
 		],
 		"phaseid": "008",
@@ -3089,15 +3056,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Ben Urich"
 		],
 		"creators": [
-			"Marco Castiello",
-			"Barbara Ciardo",
-			"Juan Doe",
-			"Chris Eliopoulos",
-			"Cory Petit",
-			"Brian Reed"
+			"Brian Reed",
+			"Marco Castiello"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/5151f526b4d7b.jpg",
 		"universe": "Earth-616",
@@ -3115,16 +3078,12 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
+			"Avengers",
 			"Jessica Jones",
 			"Luke Cage"
 		],
 		"creators": [
-			"Comicraft",
-			"Matt Banning",
-			"Michael Gaydos",
 			"Brian Michael Bendis",
-			"Aleksi Briclot",
-			"Justin Ponsor",
 			"Billy Tan"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/5773ea5dde94d.jpg",
@@ -3144,14 +3103,16 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Norman Osborn",
+			"Emma Frost",
+			"Doctor Doom",
+			"Namor",
+			"Loki",
+			"Hood"
 		],
 		"creators": [
-			"Comicraft",
 			"Brian Michael Bendis",
-			"Chris Eliopoulos",
-			"Alex Maleev",
-			"Dean White"
+			"Alex Maleev"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/5151f61b6f895.jpg",
 		"universe": "Earth-616",
@@ -3170,24 +3131,10 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			"3-D Man",
-			"Ant-Man (Eric O'Grady)",
-			"Dum Dum Dugan",
-			"Hank Pym",
-			"Hardball",
-			"Jocasta",
-			"Komodo (Melati Kusuma)"
+			"Avengers"
 		],
 		"creators": [
-			"Tom Brevoort",
-			"Mark Brooks",
-			"Bong Dazo",
-			"Chris Eliopoulos",
-			"Christos Gage",
 			"Dan Slott",
-			"Jay David Ramos",
-			"Chris Sotomayor",
-			"Christina Strain",
 			"Harvey Tolibao"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4e94a888dd6b6.jpg",
@@ -3207,22 +3154,18 @@
 		"eventid": "011",
 		"characters": [
 			"Avengers",
-			"Captain Marvel (Carol Danvers)",
 			"Hank Pym",
+			"Carol Danvers",
+			"Wonder Man",
 			"Iron Man",
-			"Norman Osborn",
 			"Thor",
-			"Wasp"
+			"Hawkeye",
+			"Mockingbird",
+			"Norman Osborn",
+			"Maria Hill"
 		],
 		"creators": [
 			"Brian Michael Bendis",
-			"Jim Cheung",
-			"Jeffrey Huet",
-			"Marko Djurdjevic",
-			"Jason Keith",
-			"Dean White",
-			"Dave Lanphear",
-			"Carlo Pagualyan",
 			"Lee Weeks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4d24f2ecc818d.jpg",
@@ -3242,17 +3185,11 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Beta Ray Bill"
 		],
 		"creators": [
-			"Daniel Brereton",
-			"Marko Djurdjevic",
-			"Stefano Gaudiano",
-			"Scott Hanna",
-			"Mark Pennington",
 			"Kieron Gillen",
-			"Nate Piekos",
-			"Jose Villarrubia"
+			"Daniel Brereton"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb4e63e638e4.jpg",
 		"universe": "Earth-616",
@@ -3270,21 +3207,15 @@
 		"event": "Secret Invasion",
 		"eventid": "011",
 		"characters": [
-			""
+			"Cosmic",
+			"Inhumans",
+			"Black Bolt",
+			"Ronan"
 		],
 		"creators": [
 			"Dan Abnett",
 			"Andy Lanning",
-			"Aleksi Briclot",
-			"Brandon Peterson",
-			"Wil Quintana",
-			"Joe Caramagna",
-			"Dave Lanphear",
-			"Bong Dazo",
-			"Paul Pelletier",
-			"Chris Eliopoulos",
-			"Rick Magyar",
-			"Jose Pimentel"
+			"Paul Pelletier"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5151f7bdd7316.jpg",
 		"universe": "Earth-616",
@@ -3303,15 +3234,8 @@
 			"Deadpool"
 		],
 		"creators": [
-			"Carlo Barberi",
-			"Paco Medina",
-			"Jason Pearson",
-			"Chris Eliopoulos",
-			"Marte Gracia",
-			"Raul Trevino",
-			"Cory Petit",
-			"Juan Vlasco",
-			"Daniel Way"
+			"Daniel Way",
+			"Carlo Barberi"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/51520351e77ff.jpg",
 		"universe": "Earth-616",
@@ -3330,15 +3254,8 @@
 			"Deadpool"
 		],
 		"creators": [
-			"Carlo Barberi",
-			"Jason Pearson",
-			"Chris Eliopoulos",
-			"Sandu Florea",
-			"Juan Vlasco",
-			"Marte Gracia",
-			"Raul Trevino",
-			"Cory Petit",
-			"Daniel Way"
+			"Daniel Way",
+			"Carlo Barberi"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/51520342e44cd.jpg",
 		"universe": "Earth-616",
@@ -3354,14 +3271,11 @@
 		"num": 31,
 		"date": "2008-09-24",
 		"characters": [
-			"Captain Marvel (Carol Danvers)"
+			"Carol Danvers"
 		],
 		"creators": [
-			"Frank Martin",
-			"Chris Sotomayor",
-			"Marcos Marz",
 			"Brian Reed",
-			"Dave Sharpe"
+			"Marcos Marz"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/576952e063c8f.jpg",
 		"universe": "Earth-616",
@@ -3377,16 +3291,11 @@
 		"num": 32,
 		"date": "2008-10-22",
 		"characters": [
-			"Captain Marvel (Carol Danvers)"
+			"Carol Danvers"
 		],
 		"creators": [
-			"Rainier Beredo",
-			"Chris Sotomayor",
 			"Brian Reed",
-			"Amilton Santos",
-			"David Yardin",
-			"Dave Sharpe",
-			"PAULO SIQUEIRA"
+			"Paulo Siqueira"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/576953e30c261.jpg",
 		"universe": "Earth-616",
@@ -3402,16 +3311,11 @@
 		"num": 33,
 		"date": "2008-11-26",
 		"characters": [
-			"Captain Marvel (Carol Danvers)"
+			"Carol Danvers"
 		],
 		"creators": [
-			"Mariah Benes",
-			"David Yardin",
-			"Rainier Beredo",
-			"Chris Sotomayor",
-			"Adriana Melo",
 			"Brian Reed",
-			"Dave Sharpe"
+			"Adriana Melo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/576955893664f.jpg",
 		"universe": "Earth-616",
@@ -3427,19 +3331,11 @@
 		"num": 34,
 		"date": "2008-12-24",
 		"characters": [
-			"Captain Marvel (Carol Danvers)"
+			"Carol Danvers"
 		],
 		"creators": [
-			"Mariah Benes",
-			"Amilton Santos",
-			"David Yardin",
-			"Rainier Beredo",
-			"Chris Sotomayor",
-			"Chris Eliopoulos",
-			"Dave Sharpe",
-			"Adriana Melo",
-			"PAULO SIQUEIRA",
-			"Brian Reed"
+			"Brian Reed",
+			"Paulo Siqueira"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/90/57695749c088a.jpg",
 		"universe": "Earth-616",
@@ -3455,13 +3351,9 @@
 		"num": 1,
 		"date": "2008-09-03",
 		"characters": [
-			""
+			"Carol Danvers"
 		],
 		"creators": [
-			"Antonio Fabela",
-			"Greg Horn",
-			"Mark Irwin",
-			"Nate Piekos",
 			"Brian Reed",
 			"Mark Robinson"
 		],
@@ -3479,14 +3371,11 @@
 		"num": 1,
 		"date": "2008-11-05",
 		"characters": [
-			""
+			"Carol Danvers"
 		],
 		"creators": [
-			"Giuseppe Camuncoli",
-			"Lorenzo Ruggiero",
-			"Andres Mossa",
-			"Nate Piekos",
-			"Brian Reed"
+			"Brian Reed",
+			"Giuseppe Camuncoli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bb680d45af4e.jpg",
 		"universe": "Earth-616",
@@ -3506,10 +3395,6 @@
 		],
 		"creators": [
 			"Mike Benson",
-			"Gabriele Dell'Otto",
-			"Lee Loughridge",
-			"Chris Eliopoulos",
-			"Charlie Huston",
 			"Jefte Palo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bb606346dc06.jpg",
@@ -3530,11 +3415,6 @@
 		],
 		"creators": [
 			"Mike Benson",
-			"Joe Caramagna",
-			"Gabriele Dell'Otto",
-			"Lee Loughridge",
-			"Chris Eliopoulos",
-			"Charlie Huston",
 			"Jefte Palo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/4bae46fdcbb29.jpg",
@@ -3555,11 +3435,6 @@
 		],
 		"creators": [
 			"Mike Benson",
-			"Joe Caramagna",
-			"Gabriele Dell'Otto",
-			"Lee Loughridge",
-			"Chris Eliopoulos",
-			"Charlie Huston",
 			"Jefte Palo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/b0/4bb599e5748e9.jpg",
@@ -3580,8 +3455,6 @@
 		],
 		"creators": [
 			"Mike Benson",
-			"Gabriele Dell'Otto",
-			"Lee Loughridge",
 			"Jefte Palo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/4bb57956189f0.jpg",
@@ -3602,10 +3475,6 @@
 		],
 		"creators": [
 			"Mike Benson",
-			"Joe Caramagna",
-			"Gabriele Dell'Otto",
-			"Lee Loughridge",
-			"Chris Eliopoulos",
 			"Jefte Palo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bb52e8d61a8b.jpg",
@@ -3622,10 +3491,10 @@
 		"num": 1,
 		"date": "2008-01-10",
 		"characters": [
-			""
+			"Moon Knight"
 		],
 		"creators": [
-			""
+			"Duane Swierczynski"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/51894b2a3f214.jpg",
 		"universe": "Earth-616",
@@ -3641,16 +3510,12 @@
 		"num": 121,
 		"date": "2008-09-17",
 		"characters": [
-			""
+			"Hercules",
+			"Amadeus Cho"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Arthur Suydam",
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Clayton Henry",
 			"Greg Pak",
-			"Fred Van Lente"
+			"Clayton Henry"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb718f15b4e8.jpg",
 		"universe": "Earth-616",
@@ -3666,18 +3531,12 @@
 		"num": 122,
 		"date": "2008-10-29",
 		"characters": [
-			""
+			"Hercules",
+			"Amadeus Cho"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Arthur Suydam",
-			"Raul Trevino",
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Salvador Espin",
-			"Clayton Henry",
 			"Greg Pak",
-			"Fred Van Lente"
+			"Clayton Henry"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bb6d2d51b228.jpg",
 		"universe": "Earth-616",
@@ -3693,17 +3552,12 @@
 		"num": 123,
 		"date": "2008-11-26",
 		"characters": [
-			""
+			"Hercules",
+			"Amadeus Cho"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Raul Trevino",
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Salvador Espin",
-			"Clayton Henry",
 			"Greg Pak",
-			"Fred Van Lente"
+			"Clayton Henry"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/4bb6819d9e94e.jpg",
 		"universe": "Earth-616",
@@ -3719,18 +3573,12 @@
 		"num": 124,
 		"date": "2008-12-31",
 		"characters": [
-			""
+			"Hercules",
+			"Amadeus Cho"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Lee Loughridge",
-			"Raul Trevino",
-			"Chris Eliopoulos",
-			"Salvador Espin",
-			"Clayton Henry",
-			"Bob Layton",
 			"Greg Pak",
-			"Fred Van Lente"
+			"Clayton Henry"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/40/4bb64cde2a0b0.jpg",
 		"universe": "Earth-616",
@@ -3746,20 +3594,12 @@
 		"num": 125,
 		"date": "2009-01-28",
 		"characters": [
-			""
+			"Hercules",
+			"Amadeus Cho"
 		],
 		"creators": [
-			"Guru-eFX",
-			"Lee Loughridge",
-			"Raul Trevino",
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Salvador Espin",
-			"Ed McGuinness",
-			"Mark Farmer",
-			"Clayton Henry",
 			"Greg Pak",
-			"Fred Van Lente"
+			"Salvador Espin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bb6067381cb2.jpg",
 		"universe": "Earth-616",
@@ -3775,19 +3615,12 @@
 		"num": 126,
 		"date": "2009-02-25",
 		"characters": [
-			""
+			"Hercules",
+			"Amadeus Cho"
 		],
 		"creators": [
-			"Greg Adams",
-			"Takeshi Miyazawa",
-			"Rodney Buchemi",
-			"Ed McGuinness",
-			"Joe Caramagna",
-			"Chris Eliopoulos",
 			"Greg Pak",
-			"Fred Van Lente",
-			"Val Staples",
-			"Christina Strain"
+			"Rodney Buchemi"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4bb5d5281ac3a.jpg",
 		"universe": "Earth-616",
@@ -3806,12 +3639,7 @@
 			"Spider-Man"
 		],
 		"creators": [
-			"Jeromy Cox",
-			"Chris Sotomayor",
-			"Chris Eliopoulos",
-			"Cory Petit",
 			"Marc Guggenheim",
-			"Andy Lanning",
 			"Mike McKone"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bb6cf41806d7.jpg",
@@ -3829,16 +3657,11 @@
 		"num": 574,
 		"date": "2008-10-22",
 		"characters": [
-			"Spider-Man",
-			"Venom (Flash Thompson)"
+			"Spider-Man"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Antonio Fabela",
-			"Mark Farmer",
 			"Marc Guggenheim",
-			"Barry Kitson",
-			"Cory Petit"
+			"Barry Kitson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/579119d2b4ab7.jpg",
 		"universe": "Earth-616",
@@ -3858,7 +3681,8 @@
 			"Spider-Man"
 		],
 		"creators": [
-			""
+			"Joe Kelly",
+			"Chris Bachalo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4bb6012279a77.jpg",
 		"universe": "Earth-616",
@@ -3878,18 +3702,11 @@
 		"num": 575,
 		"date": "2008-10-29",
 		"characters": [
-			"Hammerhead",
-			"Mr. Negative",
 			"Spider-Man"
 		],
 		"creators": [
-			"Chris Bachalo",
-			"Chris Eliopoulos",
-			"Antonio Fabela",
 			"Joe Kelly",
-			"Jaime Mendoza",
-			"Tim Townsend",
-			"Cory Petit"
+			"Chris Bachalo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/56d4a32e1ee74.jpg",
 		"universe": "Earth-616",
@@ -3906,19 +3723,11 @@
 		"num": 576,
 		"date": "2008-11-05",
 		"characters": [
-			"Hammerhead",
-			"Mr. Negative",
 			"Spider-Man"
 		],
 		"creators": [
-			"Chris Bachalo",
-			"Antonio Fabela",
 			"Joe Kelly",
-			"Jaime Mendoza",
-			"Tim Townsend",
-			"Al Vey",
-			"Cory Petit",
-			"Stephen Wacker"
+			"Chris Bachalo"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/57911aa7b5b02.jpg",
 		"universe": "Earth-616",
@@ -3935,20 +3744,11 @@
 		"num": 577,
 		"date": "2008-11-12",
 		"characters": [
-			"J. Jonah Jameson",
-			"Punisher",
 			"Spider-Man"
 		],
 		"creators": [
-			"Mark Farmer",
-			"Joe Kelly",
 			"Zeb Wells",
-			"Barry Kitson",
-			"Marcos Martin",
-			"Cory Petit",
-			"Paolo Rivera",
-			"Javier Rodriguez",
-			"Dean White"
+			"Paolo Rivera"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/578e5954c4760.jpg",
 		"universe": "Earth-616",
@@ -3965,26 +3765,11 @@
 		"num": 2,
 		"date": "2008-10-08",
 		"characters": [
-			"Hammerhead",
-			"May Parker",
 			"Spider-Man"
 		],
 		"creators": [
 			"John Arcudi",
-			"Paul Benjamin",
-			"Tom DeFalco",
-			"Ramon Bachs",
-			"Simon Bowland",
-			"Rainier Beredo",
-			"Allen Passalaqua",
-			"Chris Sotomayor",
-			"Sal Buscema",
-			"Mike Deodato",
-			"Victor Olazaba",
-			"Ron Frenz",
-			"Val Semeiks",
-			"Nate Piekos",
-			"Dave Sharpe"
+			"Ramon Bachs"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/56d7160ad4723.jpg",
 		"universe": "Earth-616",
@@ -4004,26 +3789,11 @@
 		"num": 2,
 		"date": "2008-10-08",
 		"characters": [
-			"Hammerhead",
-			"May Parker",
 			"Spider-Man"
 		],
 		"creators": [
-			"John Arcudi",
 			"Paul Benjamin",
-			"Tom DeFalco",
-			"Ramon Bachs",
-			"Simon Bowland",
-			"Rainier Beredo",
-			"Allen Passalaqua",
-			"Chris Sotomayor",
-			"Sal Buscema",
-			"Mike Deodato",
-			"Victor Olazaba",
-			"Ron Frenz",
-			"Val Semeiks",
-			"Nate Piekos",
-			"Dave Sharpe"
+			"Val Semeiks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/56d7160ad4723.jpg",
 		"universe": "Earth-616",
@@ -4043,16 +3813,11 @@
 		"num": 578,
 		"date": "2008-11-19",
 		"characters": [
-			"J. Jonah Jameson",
-			"Shocker (Herman Schultz)",
 			"Spider-Man"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Marcos Martin",
-			"Javier Rodriguez",
-			"Stephen Wacker",
-			"Mark Waid"
+			"Mark Waid",
+			"Marcos Martin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/578e7384d7355.jpg",
 		"universe": "Earth-616",
@@ -4069,17 +3834,11 @@
 		"num": 579,
 		"date": "2008-12-03",
 		"characters": [
-			"J. Jonah Jameson",
-			"May Parker",
-			"Shocker (Herman Schultz)",
 			"Spider-Man"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Marcos Martin",
-			"Javier Rodriguez",
-			"Stephen Wacker",
-			"Mark Waid"
+			"Mark Waid",
+			"Marcos Martin"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/4e8f164f58e77.jpg",
 		"universe": "Earth-616",
@@ -4096,16 +3855,11 @@
 		"num": 580,
 		"date": "2008-12-10",
 		"characters": [
-			"May Parker",
-			"Robbie Robertson",
 			"Spider-Man"
 		],
 		"creators": [
-			"Cory Petit",
 			"Roger Stern",
-			"Stephen Wacker",
-			"Lee Weeks",
-			"Dean White"
+			"Lee Weeks"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/578e7454e2935.jpg",
 		"universe": "Earth-616",
@@ -4122,20 +3876,11 @@
 		"num": 581,
 		"date": "2008-12-17",
 		"characters": [
-			"Harry Osborn",
-			"Liz Osborn",
-			"Molten Man",
 			"Spider-Man"
 		],
 		"creators": [
-			"Rainier Beredo",
-			"Jeromy Cox",
-			"Barry Kitson",
-			"Andy Lanning",
-			"Mike McKone",
-			"Cory Petit",
 			"Dan Slott",
-			"Stephen Wacker"
+			"Mike McKone"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/4e8f123487d5f.jpg",
 		"universe": "Earth-616",
@@ -4152,22 +3897,11 @@
 		"num": 582,
 		"date": "2009-01-07",
 		"characters": [
-			"Harry Osborn",
-			"Liz Osborn",
-			"Molten Man",
 			"Spider-Man"
 		],
 		"creators": [
-			"Chris Chuckry",
-			"Jeromy Cox",
-			"Antonio Fabela",
-			"Klaus Janson",
-			"Mike McKone",
-			"Kris Justice",
-			"Andy Lanning",
-			"Cory Petit",
 			"Dan Slott",
-			"Stephen Wacker"
+			"Mike McKone"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/4e8f0f7814c69.jpg",
 		"universe": "Earth-616",
@@ -4184,26 +3918,11 @@
 		"num": 583,
 		"date": "2009-01-14",
 		"characters": [
-			"Chameleon",
-			"Harry Osborn",
-			"J. Jonah Jameson",
-			"Menace",
 			"Spider-Man"
 		],
 		"creators": [
-			"Frank D'Armata",
-			"Antonio Fabela",
-			"Andres Mossa",
-			"Mark Farmer",
-			"Karl Kesel",
-			"Jared Fletcher",
-			"Todd Klein",
-			"Cory Petit",
-			"Barry Kitson",
-			"Todd Nauck",
-			"John Romita JR.",
 			"Mark Waid",
-			"Zeb Wells"
+			"Barry Kitson"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/4e8f0cc36cdfd.jpg",
 		"universe": "Earth-616",
@@ -4220,14 +3939,10 @@
 		"num": 10,
 		"date": "2009-02-25",
 		"characters": [
-			"Hulk"
+			"Hulk",
+			"Red Hulk"
 		],
 		"creators": [
-			"Comicraft",
-			"Guru-eFX",
-			"Chris Giarrusso",
-			"Dexter Vines",
-			"Audrey Loeb",
 			"Jeph Loeb",
 			"Ed McGuinness"
 		],
@@ -4245,16 +3960,12 @@
 		"num": 11,
 		"date": "2009-04-22",
 		"characters": [
-			"Hulk"
+			"Hulk",
+			"Red Hulk"
 		],
 		"creators": [
-			"Comicraft",
-			"Chris Giarrusso",
-			"Guru-eFX",
-			"Audrey Loeb",
 			"Jeph Loeb",
-			"Ed McGuinness",
-			"Dexter Vines"
+			"Ed McGuinness"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/5109b014b8409.jpg",
 		"universe": "Earth-616",
@@ -4270,15 +3981,10 @@
 		"num": 12,
 		"date": "2009-05-20",
 		"characters": [
-			"Hulk"
+			"Hulk",
+			"Red Hulk"
 		],
 		"creators": [
-			"Comicraft",
-			"Guru-eFX",
-			"Chris Giarrusso",
-			"Mark Farmer",
-			"Dexter Vines",
-			"Audrey Loeb",
 			"Jeph Loeb",
 			"Ed McGuinness"
 		],
@@ -4299,26 +4005,8 @@
 			"Hulk"
 		],
 		"creators": [
-			"Comicraft",
-			"Alejandro Arbona",
-			"Tom Orzechowski",
-			"Guru-eFX",
-			"Dan Brown",
-			"Chris Giarrusso",
-			"Peter Pantazis",
-			"Alex Ross",
-			"Rodney Buchemi",
-			"Ed McGuinness",
-			"Michael Ryan",
-			"Steve Scott",
-			"Jon Ennis",
-			"Salvador Espin",
-			"Mark Farmer",
-			"Al Vey",
-			"Stan Lee",
-			"Audrey Loeb",
 			"Jeph Loeb",
-			"Fred Van Lente"
+			"Ed McGuinness"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4f634e633fc47.jpg",
 		"universe": "Earth-616",
@@ -4337,17 +4025,13 @@
 		"num": 1,
 		"date": "2008-10-15",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Storm",
+			"Black Panther"
 		],
 		"creators": [
-			"Jeff Scott Campbell",
-			"Diogenes Neves",
-			"Edgar Delgado",
-			"Raul Trevino",
-			"Chris Eliopoulos",
-			"Cory Petit",
-			"Edgar Tadeo",
-			"Chris Yost"
+			"Chris Yost",
+			"Diogenes Neves"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb6ccf199291.jpg",
 		"universe": "Earth-616",
@@ -4363,17 +4047,13 @@
 		"num": 2,
 		"date": "2008-11-19",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Storm",
+			"Black Panther"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Jason Keith",
-			"Raul Trevino",
-			"Diogenes Neves",
-			"David Yardin",
-			"Cory Petit",
-			"Edgar Tadeo",
-			"Chris Yost"
+			"Chris Yost",
+			"Diogenes Neves"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4bb67e80c8ef3.jpg",
 		"universe": "Earth-616",
@@ -4389,17 +4069,13 @@
 		"num": 3,
 		"date": "2008-12-31",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Storm",
+			"Black Panther"
 		],
 		"creators": [
-			"Mike Deodato",
-			"Edgar Tadeo",
-			"Chris Eliopoulos",
-			"Morry Hollowell",
-			"Raul Trevino",
-			"Diogenes Neves",
-			"Cory Petit",
-			"Chris Yost"
+			"Chris Yost",
+			"Diogenes Neves"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bb64a5406be5.jpg",
 		"universe": "Earth-616",
@@ -4415,16 +4091,13 @@
 		"num": 4,
 		"date": "2009-01-28",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Storm",
+			"Black Panther"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Diogenes Neves",
-			"Cory Petit",
-			"Stephan Roux",
-			"Raul Trevino",
-			"Edgar Tadeo",
-			"Chris Yost"
+			"Chris Yost",
+			"Diogenes Neves"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bb60447aaeae.jpg",
 		"universe": "Earth-616",
@@ -4440,16 +4113,16 @@
 		"num": 1,
 		"date": "2008-12-03",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Colossus",
+			"Beast",
+			"Cyclops",
+			"Emma Frost",
+			"Nightcrawler"
 		],
 		"creators": [
-			"Giuseppe Camuncoli",
-			"C. B. Cebulski",
-			"Jesse Delperdang",
-			"David Finch",
-			"Marte Gracia",
-			"Jason Keith",
-			"Dave Lanphear"
+			"C B Cebulski",
+			"Giuseppe Camuncoli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4e7a13b8011a5.jpg",
 		"universe": "Earth-616",
@@ -4465,17 +4138,16 @@
 		"num": 2,
 		"date": "2009-01-14",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Colossus",
+			"Beast",
+			"Cyclops",
+			"Emma Frost",
+			"Nightcrawler"
 		],
 		"creators": [
-			"Giuseppe Camuncoli",
-			"C. B. Cebulski",
-			"Jesse Delperdang",
-			"David Finch",
-			"Craig Yeung",
-			"STEVE FIRCHOW",
-			"Marte Gracia",
-			"Dave Lanphear"
+			"C B Cebulski",
+			"Giuseppe Camuncoli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb5be214958b.jpg",
 		"universe": "Earth-616",
@@ -4491,17 +4163,16 @@
 		"num": 3,
 		"date": "2009-02-11",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Colossus",
+			"Beast",
+			"Cyclops",
+			"Emma Frost",
+			"Nightcrawler"
 		],
 		"creators": [
-			"Giuseppe Camuncoli",
-			"David Finch",
-			"C. B. Cebulski",
-			"Jesse Delperdang",
-			"Danny K. Miki",
-			"STEVE FIRCHOW",
-			"Marte Gracia",
-			"Dave Lanphear"
+			"C B Cebulski",
+			"Giuseppe Camuncoli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4bb5b5c6200af.jpg",
 		"universe": "Earth-616",
@@ -4517,15 +4188,16 @@
 		"num": 4,
 		"date": "2009-03-25",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Colossus",
+			"Beast",
+			"Cyclops",
+			"Emma Frost",
+			"Nightcrawler"
 		],
 		"creators": [
-			"Giuseppe Camuncoli",
-			"C. B. Cebulski",
-			"Jesse Delperdang",
-			"David Finch",
-			"Marte Gracia",
-			"Dave Lanphear"
+			"C B Cebulski",
+			"Giuseppe Camuncoli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4e7a202adf924.jpg",
 		"universe": "Earth-616",
@@ -4541,16 +4213,14 @@
 		"num": 1,
 		"date": "2009-02-04",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Cable",
+			"Hope Summers"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Mark Farmer",
-			"Matt Milla",
-			"Ariel Olivetti",
-			"Cory Petit",
-			"Larry Stroman",
-			"Duane Swierczynski"
+			"Duane Swierczynski",
+			"Larry Stroman"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bb5d236e8d0b.jpg",
 		"universe": "Earth-616",
@@ -4567,16 +4237,14 @@
 		"num": 2,
 		"date": "2009-03-25",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Cable",
+			"Hope Summers"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Mark Farmer",
-			"Matt Milla",
-			"Ariel Olivetti",
-			"Cory Petit",
-			"Larry Stroman",
-			"Duane Swierczynski"
+			"Duane Swierczynski",
+			"Larry Stroman"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bb597bab2431.jpg",
 		"universe": "Earth-616",
@@ -4593,17 +4261,14 @@
 		"num": 3,
 		"date": "2009-04-22",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Bishop",
+			"Cable",
+			"Hope Summers"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Mark Farmer",
-			"Robert Stull",
-			"Thomas Mason",
-			"Ariel Olivetti",
-			"Larry Stroman",
-			"Duane Swierczynski"
+			"Duane Swierczynski",
+			"Larry Stroman"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb574e71ef2d.jpg",
 		"universe": "Earth-616",
@@ -4620,10 +4285,20 @@
 		"num": 1,
 		"date": "2009-04-29",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"X-Force",
+			"Cable",
+			"Hope Summers",
+			"Bishop",
+			"Wolfsbane",
+			"Wolverine",
+			"X-23",
+			"Angel"
 		],
 		"creators": [
-			""
+			"Craig Kyle",
+			"Chris Yost",
+			"Mike Choi"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/52c5d057533be.jpg",
 		"universe": "Earth-616",
@@ -4640,25 +4315,19 @@
 		"num": 13,
 		"date": "2009-04-01",
 		"characters": [
-			"Archangel",
-			"Bishop",
 			"Cable",
-			"Deadpool",
-			"Domino",
-			"Elixir",
+			"X-Men",
 			"Hope Summers",
-			"Stryfe",
-			"Vanisher (Telford Porter)",
-			"Warpath",
+			"Bishop",
+			"X-Force",
+			"Wolfsbane",
 			"Wolverine",
-			"X-23"
+			"X-23",
+			"Angel"
 		],
 		"creators": [
-			"Axel Alonso",
-			"Kaare Andrews",
-			"Joe Caramagna",
-			"Ariel Olivetti",
-			"Duane Swierczynski"
+			"Duane Swierczynski",
+			"Ariel Olivetti"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4ea19c8c0760d.jpg",
 		"universe": "Earth-616",
@@ -4676,13 +4345,19 @@
 		"date": "2009-04-22",
 		"characters": [
 			"X-Force",
-			"X-Men"
+			"X-Men",
+			"Cable",
+			"Hope Summers",
+			"Bishop",
+			"Wolfsbane",
+			"Wolverine",
+			"X-23",
+			"Angel"
 		],
 		"creators": [
-			"Clayton Crain",
-			"Chris Eliopoulos",
-			"Cory Petit",
-			"Chris Yost"
+			"Craig Kyle",
+			"Chris Yost",
+			"Clayton Crain"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/52c5d0511e73d.jpg",
 		"universe": "Earth-616",
@@ -4699,26 +4374,19 @@
 		"num": 14,
 		"date": "2009-05-06",
 		"characters": [
-			"Apocalypse",
-			"Archangel",
-			"Bishop",
 			"Cable",
-			"Deadpool",
-			"Domino",
-			"Elixir",
+			"X-Men",
 			"Hope Summers",
-			"Stryfe",
-			"Vanisher (Telford Porter)",
-			"Warpath",
+			"Bishop",
+			"X-Force",
+			"Wolfsbane",
 			"Wolverine",
-			"X-23"
+			"X-23",
+			"Angel"
 		],
 		"creators": [
-			"Axel Alonso",
-			"Kaare Andrews",
-			"Joe Caramagna",
-			"Ariel Olivetti",
-			"Duane Swierczynski"
+			"Duane Swierczynski",
+			"Ariel Olivetti"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4ea1b32b48e75.jpg",
 		"universe": "Earth-616",
@@ -4736,14 +4404,19 @@
 		"date": "2009-05-28",
 		"characters": [
 			"X-Force",
-			"X-Men"
+			"X-Men",
+			"Cable",
+			"Hope Summers",
+			"Bishop",
+			"Wolfsbane",
+			"Wolverine",
+			"X-23",
+			"Angel"
 		],
 		"creators": [
-			"Clayton Crain",
-			"Chris Eliopoulos",
-			"Justin Gabrie",
-			"Cory Petit",
-			"Chris Yost"
+			"Craig Kyle",
+			"Chris Yost",
+			"Clayton Crain"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/52c5d043c2501.jpg",
 		"universe": "Earth-616",
@@ -4760,25 +4433,19 @@
 		"num": 15,
 		"date": "2009-06-17",
 		"characters": [
-			"Apocalypse",
-			"Archangel",
-			"Bishop",
 			"Cable",
-			"Deadpool",
-			"Domino",
+			"X-Men",
 			"Hope Summers",
-			"Stryfe",
-			"Vanisher (Telford Porter)",
-			"Warpath",
+			"Bishop",
+			"X-Force",
+			"Wolfsbane",
 			"Wolverine",
-			"X-23"
+			"X-23",
+			"Angel"
 		],
 		"creators": [
-			"Axel Alonso",
-			"Kaare Andrews",
-			"Joe Caramagna",
-			"Ariel Olivetti",
-			"Duane Swierczynski"
+			"Duane Swierczynski",
+			"Ariel Olivetti"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4ea1ba4b5cb88.jpg",
 		"universe": "Earth-616",
@@ -4796,15 +4463,19 @@
 		"date": "2009-06-24",
 		"characters": [
 			"X-Force",
-			"X-Men"
+			"X-Men",
+			"Cable",
+			"Hope Summers",
+			"Bishop",
+			"Wolfsbane",
+			"Wolverine",
+			"X-23",
+			"Angel"
 		],
 		"creators": [
-			"Clayton Crain",
-			"Chris Eliopoulos",
-			"Ariel Olivetti",
-			"Cory Petit",
-			"Duane Swierczynski",
-			"Chris Yost"
+			"Craig Kyle",
+			"Chris Yost",
+			"Clayton Crain"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/52c5d03c38ad7.jpg",
 		"universe": "Earth-616",
@@ -4821,16 +4492,11 @@
 		"num": 66,
 		"date": "2008-06-18",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Old Man Logan"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Morry Hollowell",
-			"Steve McNiven",
 			"Mark Millar",
-			"Cory Petit",
-			"Dexter Vines"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/51ed6c4be6a12.jpg",
 		"universe": "Earth-616",
@@ -4847,17 +4513,11 @@
 		"num": 67,
 		"date": "2008-07-30",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Old Man Logan"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Morry Hollowell",
-			"Christina Strain",
-			"Steve McNiven",
 			"Mark Millar",
-			"Cory Petit",
-			"Dexter Vines"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4d24faea360de.jpg",
 		"universe": "Earth-616",
@@ -4874,18 +4534,11 @@
 		"num": 68,
 		"date": "2008-08-27",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Old Man Logan"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Morry Hollowell",
-			"Jason Keith",
-			"Justin Ponsor",
-			"Steve McNiven",
 			"Mark Millar",
-			"Cory Petit",
-			"Dexter Vines"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4d24e1390b618.jpg",
 		"universe": "Earth-616",
@@ -4902,16 +4555,11 @@
 		"num": 69,
 		"date": "2008-11-12",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Old Man Logan"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Morry Hollowell",
-			"Steve McNiven",
 			"Mark Millar",
-			"Cory Petit",
-			"Dexter Vines"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4d2506a5b60f7.jpg",
 		"universe": "Earth-616",
@@ -4928,11 +4576,11 @@
 		"num": 70,
 		"date": "2008-12-31",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Old Man Logan"
 		],
 		"creators": [
-			""
+			"Mark Millar",
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/4d2507c528543.jpg",
 		"universe": "Earth-616",
@@ -4949,17 +4597,11 @@
 		"num": 71,
 		"date": "2009-03-18",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Old Man Logan"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Morry Hollowell",
-			"Paul Mounts",
-			"Steve McNiven",
 			"Mark Millar",
-			"Cory Petit",
-			"Dexter Vines"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/4d24f62adffb7.jpg",
 		"universe": "Earth-616",
@@ -4976,19 +4618,11 @@
 		"num": 72,
 		"date": "2009-04-08",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Old Man Logan"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Nathan Fairbairn",
-			"Morry Hollowell",
-			"Paul Mounts",
-			"Jay Leisten",
-			"Dexter Vines",
-			"Steve McNiven",
 			"Mark Millar",
-			"Cory Petit"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/51ed6d810c45f.jpg",
 		"universe": "Earth-616",
@@ -5005,16 +4639,11 @@
 		"num": 1,
 		"date": "2009-09-23",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Old Man Logan"
 		],
 		"creators": [
-			"Morry Hollowell",
-			"Steve McNiven",
 			"Mark Millar",
-			"Cory Petit",
-			"Jeanine Schaefer",
-			"Dexter Vines"
+			"Steve McNiven"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/51964867c78fc.jpg",
 		"universe": "Earth-616",
@@ -5031,19 +4660,11 @@
 		"num": 73,
 		"date": "2009-05-13",
 		"characters": [
-			"Iron Man",
 			"Wolverine"
 		],
 		"creators": [
 			"Jason Aaron",
-			"Daniel Way",
-			"Tommy Lee Edwards",
-			"Justin Ponsor",
-			"Chris Eliopoulos",
-			"Mark Farmer",
-			"Adam Kubert",
-			"Cory Petit",
-			"John Workman"
+			"Adam Kubert"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51ed6d90d83c6.jpg",
 		"universe": "Earth-616",
@@ -5059,21 +4680,11 @@
 		"num": 74,
 		"date": "2009-06-10",
 		"characters": [
-			"Iron Man",
 			"Wolverine"
 		],
 		"creators": [
-			"Jason Aaron",
 			"Daniel Way",
-			"Edgar Delgado",
-			"Morry Hollowell",
-			"Paul Mounts",
-			"Tommy Lee Edwards",
-			"Chris Eliopoulos",
-			"Mark Farmer",
-			"Adam Kubert",
-			"Cory Petit",
-			"John Workman"
+			"Tommy Lee Edwards"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/51ed6d7c7d021.jpg",
 		"universe": "Earth-616",
@@ -5089,19 +4700,12 @@
 		"num": 31,
 		"date": "2008-12-24",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Daken"
 		],
 		"creators": [
-			"Mike Deodato",
-			"MICHEL Lacombe",
-			"Serge LaPointe",
-			"Chris Eliopoulos",
-			"Nathan Fairbairn",
-			"Val Staples",
-			"Yanick Paquette",
-			"Cory Petit",
-			"Daniel Way"
+			"Daniel Way",
+			"Yanick Paquette"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/51e0804f84210.jpg",
 		"universe": "Earth-616",
@@ -5117,18 +4721,12 @@
 		"num": 32,
 		"date": "2009-01-21",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			"Wolverine",
+			"Daken"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Nathan Fairbairn",
-			"Romain Gaschet",
-			"MICHEL Lacombe",
-			"Serge LaPointe",
-			"Yanick Paquette",
-			"Cory Petit",
-			"Daniel Way"
+			"Daniel Way",
+			"Yanick Paquette"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/40/51e08062bbac0.jpg",
 		"universe": "Earth-616",
@@ -5144,17 +4742,14 @@
 		"num": 219,
 		"date": "2008-12-17",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Charles Xavier",
+			"Rogue",
+			"Gambit"
 		],
 		"creators": [
-			"Philippe Briones",
-			"Mike McKone",
 			"Mike Carey",
-			"Chris Eliopoulos",
-			"Cory Petit",
-			"John Rauch",
-			"Brian Reber",
-			"Cam Smith"
+			"Phil Briones"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/51a4deae50c5c.jpg",
 		"universe": "Earth-616",
@@ -5170,16 +4765,14 @@
 		"num": 220,
 		"date": "2009-01-21",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Charles Xavier",
+			"Rogue",
+			"Gambit"
 		],
 		"creators": [
-			"Lee Bermejo",
-			"Scot Eaton",
-			"Joe Caramagna",
 			"Mike Carey",
-			"Andrew Hennessy",
-			"Morry Hollowell",
-			"Brian Reber"
+			"Scot Eaton"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/51a4dea6e7691.jpg",
 		"universe": "Earth-616",
@@ -5195,18 +4788,14 @@
 		"num": 221,
 		"date": "2009-02-18",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Charles Xavier",
+			"Rogue",
+			"Gambit"
 		],
 		"creators": [
-			"Lee Bermejo",
-			"Scot Eaton",
 			"Mike Carey",
-			"Chris Eliopoulos",
-			"Andrew Hennessy",
-			"Morry Hollowell",
-			"Brian Reber",
-			"Chris Sotomayor",
-			"Cory Petit"
+			"Scot Eaton"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/51a4dfe0ebe7e.jpg",
 		"universe": "Earth-616",
@@ -5222,17 +4811,14 @@
 		"num": 222,
 		"date": "2009-03-18",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Charles Xavier",
+			"Rogue",
+			"Gambit"
 		],
 		"creators": [
-			"Lee Bermejo",
-			"Scot Eaton",
 			"Mike Carey",
-			"Chris Eliopoulos",
-			"Andrew Hennessy",
-			"Morry Hollowell",
-			"Brian Reber",
-			"Cory Petit"
+			"Scot Eaton"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/51a4dfd665525.jpg",
 		"universe": "Earth-616",
@@ -5248,15 +4834,14 @@
 		"num": 223,
 		"date": "2009-04-15",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Charles Xavier",
+			"Rogue",
+			"Gambit"
 		],
 		"creators": [
-			"Lee Bermejo",
-			"Joe Caramagna",
 			"Mike Carey",
-			"Scot Eaton",
-			"Andrew Hennessy",
-			"Brian Reber"
+			"Scot Eaton"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/51a4dfc860f6d.jpg",
 		"universe": "Earth-616",
@@ -5272,18 +4857,14 @@
 		"num": 224,
 		"date": "2009-05-28",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Charles Xavier",
+			"Rogue",
+			"Gambit"
 		],
 		"creators": [
-			"Chris Allo",
-			"Lee Bermejo",
-			"Scot Eaton",
 			"Mike Carey",
-			"Chris Eliopoulos",
-			"Andrew Hennessy",
-			"Morry Hollowell",
-			"Brian Reber",
-			"Cory Petit"
+			"Scot Eaton"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51a4dfc2212c9.jpg",
 		"universe": "Earth-616",
@@ -5299,13 +4880,12 @@
 		"num": 225,
 		"date": "2009-06-17",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Charles Xavier"
 		],
 		"creators": [
-			"Daniel Acuna",
-			"Philippe Briones",
 			"Mike Carey",
-			"Nick Lowe"
+			"Phil Briones"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/51a4dfb97f2b9.jpg",
 		"universe": "Earth-616",
@@ -5321,14 +4901,21 @@
 		"num": 508,
 		"date": "2009-04-15",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Cyclops",
+			"Emma Frost",
+			"Storm",
+			"Beast",
+			"Angel",
+			"Wolverine",
+			"Colossus",
+			"Nightcrawler",
+			"Iceman",
+			"Psylocke"
 		],
 		"creators": [
-			"Joe Caramagna",
 			"Matt Fraction",
-			"Greg Land",
-			"Jay Leisten",
-			"Justin Ponsor"
+			"Greg Land"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/513f4d2a5dd2b.jpg",
 		"universe": "Earth-616",
@@ -5344,16 +4931,21 @@
 		"num": 509,
 		"date": "2009-04-29",
 		"characters": [
-			"Psylocke",
-			"X-Men"
+			"X-Men",
+			"Cyclops",
+			"Emma Frost",
+			"Storm",
+			"Beast",
+			"Angel",
+			"Wolverine",
+			"Colossus",
+			"Nightcrawler",
+			"Iceman",
+			"Psylocke"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Chris Eliopoulos",
 			"Matt Fraction",
-			"Greg Land",
-			"Jay Leisten",
-			"Justin Ponsor"
+			"Greg Land"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/513f4d1ad5f4f.jpg",
 		"universe": "Earth-616",
@@ -5369,15 +4961,21 @@
 		"num": 510,
 		"date": "2009-05-20",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Cyclops",
+			"Emma Frost",
+			"Storm",
+			"Beast",
+			"Angel",
+			"Wolverine",
+			"Colossus",
+			"Nightcrawler",
+			"Iceman",
+			"Psylocke"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Chris Eliopoulos",
 			"Matt Fraction",
-			"Greg Land",
-			"Jay Leisten",
-			"Justin Ponsor"
+			"Greg Land"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/513f4f0ac931d.jpg",
 		"universe": "Earth-616",
@@ -5393,17 +4991,21 @@
 		"num": 511,
 		"date": "2009-06-10",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Cyclops",
+			"Emma Frost",
+			"Storm",
+			"Beast",
+			"Angel",
+			"Wolverine",
+			"Colossus",
+			"Nightcrawler",
+			"Iceman",
+			"Psylocke"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Rachel Dodson",
-			"Jay Leisten",
-			"Terry Dodson",
-			"Greg Land",
-			"Chris Eliopoulos",
 			"Matt Fraction",
-			"Justin Ponsor"
+			"Greg Land"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/513f4ef733118.jpg",
 		"universe": "Earth-616",
@@ -5419,16 +5021,12 @@
 		"num": 512,
 		"date": "2009-06-24",
 		"characters": [
-			"X-Men"
+			"X-Men",
+			"Beast"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Todd Klein",
 			"Matt Fraction",
-			"Yanick Paquette",
-			"Justin Ponsor",
-			"Karl Story"
+			"Yanick Paquette"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/513f4eec495dc.jpg",
 		"universe": "Earth-616",
@@ -5438,23 +5036,17 @@
 	},
 	{
 		"id": "21796",
-		"collection": "X-Factor  Layla Miller",
+		"collection": "X-Factor Layla Miller",
 		"title": "Best Intentions",
 		"vol": 1,
 		"num": 1,
 		"date": "2008-08-20",
 		"characters": [
-			"X-Men"
+			"Layla Miller"
 		],
 		"creators": [
-			"Boo Cook",
-			"Chris Sotomayor",
 			"Peter David",
-			"Chris Eliopoulos",
-			"Andrew Hennessy",
-			"Craig Yeung",
-			"Valentine De Landro",
-			"Cory Petit"
+			"Valentine De Landro"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4c3618df29907.jpg",
 		"universe": "Earth-616",
@@ -5470,15 +5062,15 @@
 		"num": 35,
 		"date": "2008-09-17",
 		"characters": [
-			"X-Men"
+			"X-Factor",
+			"Madrox",
+			"Siryn",
+			"Strong Guy",
+			"Rictor",
+			"Monet"
 		],
 		"creators": [
-			"Boo Cook",
-			"Jeromy Cox",
 			"Peter David",
-			"Chris Eliopoulos",
-			"Cory Petit",
-			"Jonathan Sibal",
 			"Larry Stroman"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bb71895723ff.jpg",
@@ -5495,15 +5087,15 @@
 		"num": 36,
 		"date": "2008-10-22",
 		"characters": [
-			"X-Men"
+			"X-Factor",
+			"Madrox",
+			"Siryn",
+			"Strong Guy",
+			"Rictor",
+			"Monet"
 		],
 		"creators": [
-			"Boo Cook",
-			"Jeromy Cox",
 			"Peter David",
-			"Chris Eliopoulos",
-			"Cory Petit",
-			"Jonathan Sibal",
 			"Larry Stroman"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bb6d2532afa6.jpg",
@@ -5520,16 +5112,16 @@
 		"num": 37,
 		"date": "2008-11-19",
 		"characters": [
-			"X-Men"
+			"X-Factor",
+			"Madrox",
+			"Siryn",
+			"Strong Guy",
+			"Rictor",
+			"Monet"
 		],
 		"creators": [
-			"Boo Cook",
-			"Jeromy Cox",
 			"Peter David",
-			"Chris Eliopoulos",
-			"Valentine De Landro",
-			"Cory Petit",
-			"Craig Yeung"
+			"Valentine De Landro"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bb6814b3f305.jpg",
 		"universe": "Earth-616",
@@ -5545,19 +5137,16 @@
 		"num": 38,
 		"date": "2008-12-17",
 		"characters": [
-			"X-Men"
+			"X-Factor",
+			"Madrox",
+			"Siryn",
+			"Strong Guy",
+			"Rictor",
+			"Monet"
 		],
 		"creators": [
-			"Jeromy Cox",
-			"Rob Schwager",
 			"Peter David",
-			"Nelson DeCastro",
-			"Mike Mayhew",
-			"Larry Stroman",
-			"Chris Eliopoulos",
-			"Andy Troy",
-			"Cory Petit",
-			"Jonathan Sibal"
+			"Larry Stroman"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bb64c759bb35.jpg",
 		"universe": "Earth-616",
@@ -5576,11 +5165,8 @@
 			"Runaways"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Dave Meikis",
 			"Terry Moore",
-			"Humberto Ramos",
-			"Christina Strain"
+			"Humberto Ramos"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/5797bbb1b9e1f.jpg",
 		"universe": "Earth-616",
@@ -5600,12 +5186,8 @@
 			"Runaways"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Dave Meikis",
 			"Terry Moore",
-			"Humberto Ramos",
-			"Christina Strain"
+			"Humberto Ramos"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5797c67bc72a1.jpg",
 		"universe": "Earth-616",
@@ -5625,12 +5207,8 @@
 			"Runaways"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Dave Meikis",
 			"Terry Moore",
-			"Humberto Ramos",
-			"Christina Strain"
+			"Humberto Ramos"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/5797cde8374ba.jpg",
 		"universe": "Earth-616",
@@ -5650,12 +5228,8 @@
 			"Runaways"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"Dave Meikis",
 			"Terry Moore",
-			"Cory Petit",
-			"Humberto Ramos",
-			"Christina Strain"
+			"Humberto Ramos"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/a0/5797ce4fe2f95.jpg",
 		"universe": "Earth-616",
@@ -5675,12 +5249,8 @@
 			"Runaways"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Dave Meikis",
 			"Terry Moore",
-			"Humberto Ramos",
-			"Christina Strain"
+			"Humberto Ramos"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5798b49a5027a.jpg",
 		"universe": "Earth-616",
@@ -5700,12 +5270,8 @@
 			"Runaways"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Dave Meikis",
 			"Terry Moore",
-			"Humberto Ramos",
-			"Christina Strain"
+			"Humberto Ramos"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5798bd632e624.jpg",
 		"universe": "Earth-616",
@@ -5725,12 +5291,8 @@
 			"Runaways"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Takeshi Miyazawa",
 			"Terry Moore",
-			"Humberto Ramos",
-			"Christina Strain"
+			"Takeshi Miyazawa"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/80/5798c9f83551b.jpg",
 		"universe": "Earth-616",
@@ -5750,13 +5312,8 @@
 			"Runaways"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Norman Lee",
-			"Takeshi Miyazawa",
-			"Craig Yeung",
 			"Terry Moore",
-			"Humberto Ramos",
-			"Christina Strain"
+			"Takeshi Miyazawa"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5798cae6c0425.jpg",
 		"universe": "Earth-616",
@@ -5776,13 +5333,8 @@
 			"Runaways"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Chris Eliopoulos",
-			"Takeshi Miyazawa",
-			"Roland Paris",
 			"Terry Moore",
-			"Humberto Ramos",
-			"Christina Strain"
+			"Takeshi Miyazawa"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/5798caf5c3a00.jpg",
 		"universe": "Earth-616",
@@ -5797,12 +5349,15 @@
 		"title": "Rock Zombies",
 		"vol": 3,
 		"num": 10,
+		"date": "2009-05-28",
 		"characters": [
-			""
+			"Runaways"
 		],
 		"creators": [
-			""
+			"Christ Yost",
+			"Sara Pichelli"
 		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/4/10/5798c64c51f25/detail.jpg",
 		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "008",
@@ -5820,11 +5375,8 @@
 			"Runaways"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"David Lafuente Garcia",
 			"Kathryn Immonen",
-			"Sara Pichelli",
-			"Christina Strain"
+			"Sara Pichelli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/5798c76b07096.jpg",
 		"universe": "Earth-616",
@@ -5844,12 +5396,8 @@
 			"Runaways"
 		],
 		"creators": [
-			"Chris Eliopoulos",
-			"David Lafuente Garcia",
-			"Sara Pichelli",
 			"Kathryn Immonen",
-			"Joe Sabino",
-			"Christina Strain"
+			"Sara Pichelli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/c0/5798cf7acc788.jpg",
 		"universe": "Earth-616",
@@ -5869,12 +5417,8 @@
 			"Runaways"
 		],
 		"creators": [
-			"Joe Caramagna",
-			"Chris Eliopoulos",
 			"Kathryn Immonen",
-			"David Lafuente",
-			"Sara Pichelli",
-			"Christina Strain"
+			"Sara Pichelli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5798d183b3ac6.jpg",
 		"universe": "Earth-616",
@@ -5894,11 +5438,8 @@
 			"Runaways"
 		],
 		"creators": [
-			"Joe Caramagna",
 			"Kathryn Immonen",
-			"David Lafuente",
-			"Sara Pichelli",
-			"Christina Strain"
+			"Sara Pichelli"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/5798fddf3db1a.jpg",
 		"universe": "Earth-616",
@@ -5916,16 +5457,11 @@
 		"date": "2009-03-04",
 		"characters": [
 			"Daredevil",
-			"Kingpin",
-			"Lady Bullseye"
+			"Kingpin"
 		],
 		"creators": [
-			"David Aja",
-			"Marko Djurdjevic",
-			"Jose Villarrubia",
 			"Ed Brubaker",
-			"Chris Eliopoulos",
-			"Stefano Gaudiano"
+			"David Aja"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/572d11b7b0138.jpg",
 		"universe": "Earth-616",
@@ -5942,14 +5478,11 @@
 		"num": 117,
 		"date": "2009-03-25",
 		"characters": [
-			"Daredevil"
+			"Daredevil",
+			"Kingpin"
 		],
 		"creators": [
 			"Ed Brubaker",
-			"Marko Djurdjevic",
-			"Matt Hollingsworth",
-			"Chris Eliopoulos",
-			"Stefano Gaudiano",
 			"Michael Lark"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/572d11cb989b1.jpg",
@@ -5968,18 +5501,10 @@
 		"date": "2009-04-22",
 		"characters": [
 			"Daredevil",
-			"Foggy Nelson",
-			"Kingpin",
-			"Lady Bullseye",
-			"Owl"
+			"Kingpin"
 		],
 		"creators": [
 			"Ed Brubaker",
-			"Marko Djurdjevic",
-			"Matt Hollingsworth",
-			"Chris Eliopoulos",
-			"Stefano Gaudiano",
-			"John Lucas",
 			"Michael Lark"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/572d123880155.jpg",
@@ -5997,20 +5522,11 @@
 		"num": 119,
 		"date": "2009-06-24",
 		"characters": [
-			"Black Tarantula",
-			"Dakota North",
 			"Daredevil",
-			"Kingpin",
-			"Lady Bullseye",
-			"Owl",
-			"White Tiger (Angela Del Toro)"
+			"Kingpin"
 		],
 		"creators": [
 			"Ed Brubaker",
-			"Marko Djurdjevic",
-			"Matt Hollingsworth",
-			"Chris Eliopoulos",
-			"Stefano Gaudiano",
 			"Michael Lark"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/572d121454dd6.jpg",
@@ -6028,33 +5544,12 @@
 		"num": 500,
 		"date": "2009-08-19",
 		"characters": [
-			"Black Tarantula",
-			"Bullseye",
 			"Daredevil",
-			"Foggy Nelson",
-			"Kingpin",
-			"Lady Bullseye",
-			"White Tiger (Angela Del Toro)"
+			"Kingpin"
 		],
 		"creators": [
-			"David Aja",
-			"Stefano Gaudiano",
-			"Klaus Janson",
-			"John Romita JR.",
 			"Ed Brubaker",
-			"Ann Nocenti",
-			"June Chung",
-			"Marko Djurdjevic",
-			"Matt Hollingsworth",
-			"Alex Maleev",
-			"Justin Ponsor",
-			"Geoff Darrow",
-			"Chris Eliopoulos",
-			"Jon Ennis",
-			"David Mack",
-			"Michael Lark",
-			"Chris Samnee",
-			"Patrick Zircher"
+			"Michael Lark"
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/574ef7ee35439.jpg",
 		"universe": "Earth-616",
