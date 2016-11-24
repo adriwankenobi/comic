@@ -150,11 +150,11 @@ func JsonGenerator(path, out string) error {
 						return err
 					}
 					co := Comic{
-						Pic:     pic,
-						Title:   title,
-						Date:    date,
-						SortID:  sID,
-						PhaseID: p.ID,
+						Pic:        pic,
+						Title:      title,
+						Date:       date,
+						SortID:     sID,
+						PhaseID:    p.ID,
 						Characters: []string{c.Characters[0]},
 					}
 					iPhases.List = append(iPhases.List, co)

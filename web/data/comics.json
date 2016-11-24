@@ -65860,5 +65860,1229 @@
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "164"
+	},
+	{
+		"id": "28078",
+		"collection": "Siege The Cabal",
+		"title": "Siege",
+		"vol": 1,
+		"num": 1,
+		"date": "2009-12-03",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Norman Osborn",
+			"Hood",
+			"Doctor Doom",
+			"Loki",
+			"Avengers",
+			"Sentry"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Michael Lark"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/517aed561bcd5.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "001"
+	},
+	{
+		"id": "29929",
+		"collection": "Origins of the Siege",
+		"title": "Siege",
+		"vol": 1,
+		"num": 1,
+		"date": "2009-12-30",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Norman Osborn",
+			"Loki"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Lucio Parrillo"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/50/4bacab6802016.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "001"
+	},
+	{
+		"id": "25887",
+		"collection": "Siege Storming Asgard",
+		"title": "Siege",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-01-27",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Loki",
+			"Avengers",
+			"Hood",
+			"Doctor Doom",
+			"Namor",
+			"Emma Frost",
+			"Thor"
+		],
+		"creators": [
+			"John Thomas"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bac1572e96b8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "001"
+	},
+	{
+		"id": "30468",
+		"collection": "Siege",
+		"title": "Siege",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-01-06",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers",
+			"Thor",
+			"Iron Man",
+			"Steve Rogers",
+			"Maria Hill",
+			"Loki",
+			"Norman Osborn",
+			"Ares",
+			"Sentry",
+			"Mac Gargan",
+			"Bullseye",
+			"Daken",
+			"Spider-Woman",
+			"Carol Danvers",
+			"Mockingbird",
+			"Hawkeye",
+			"Luke Cage",
+			"Bucky Barnes",
+			"Spider-Man",
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake",
+			"Phobos",
+			"Young Avengers",
+			"Kate Bishop",
+			"Cassie Lang",
+			"Patriot",
+			"Wiccan",
+			"Vision",
+			"Hulkling",
+			"Hood"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Olivier Coipel"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/517ea9533fdfb.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "001"
+	},
+	{
+		"id": "27549",
+		"collection": "Avengers The Initiative",
+		"title": "Seize the Day",
+		"vol": 1,
+		"num": 32,
+		"date": "2010-01-27",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers"
+		],
+		"creators": [
+			"Christos Gage",
+			"Mahmud Asrar"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4e95daaf4146b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "002"
+	},
+	{
+		"id": "29594",
+		"collection": "Dark Avengers",
+		"title": "Siege Dark Avengers",
+		"vol": 1,
+		"num": 13,
+		"date": "2010-01-20",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers",
+			"Norman Osborn",
+			"Sentry"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Mike Deodato Jr"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/52c5c387a0455.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "003"
+	},
+	{
+		"id": "24925",
+		"collection": "Dark Wolverine",
+		"title": "Godlike",
+		"vol": 1,
+		"num": 82,
+		"date": "2010-01-20",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Daken"
+		],
+		"creators": [
+			"Daniel Way",
+			"Giuseppe Camuncoli"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/52c5cc98a2332.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "004"
+	},
+	{
+		"id": "29016",
+		"collection": "New Avengers",
+		"title": "Siege New Avengers",
+		"vol": 1,
+		"num": 61,
+		"date": "2010-01-27",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Mandrill",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Steve Rogers",
+			"The Hood"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Stuart Immonen"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/5773e4eca07ca.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "005"
+	},
+	{
+		"id": "30192",
+		"collection": "Siege Embedded",
+		"title": "Siege Embedded",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-01-06",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Ben Urich"
+		],
+		"creators": [
+			"Brian Reed",
+			"Chris Samnee"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bae61567301f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "006"
+	},
+	{
+		"id": "30469",
+		"collection": "Siege",
+		"title": "Siege",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-02-03",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers",
+			"Thor",
+			"Iron Man",
+			"Steve Rogers",
+			"Maria Hill",
+			"Loki",
+			"Norman Osborn",
+			"Ares",
+			"Sentry",
+			"Mac Gargan",
+			"Bullseye",
+			"Daken",
+			"Spider-Woman",
+			"Carol Danvers",
+			"Mockingbird",
+			"Hawkeye",
+			"Luke Cage",
+			"Bucky Barnes",
+			"Spider-Man",
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake",
+			"Phobos",
+			"Young Avengers",
+			"Kate Bishop",
+			"Cassie Lang",
+			"Patriot",
+			"Wiccan",
+			"Vision",
+			"Hulkling",
+			"Hood"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Olivier Coipel"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/517aede8d3af6.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Ares dies"
+		],
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "007"
+	},
+	{
+		"id": "29816",
+		"collection": "Avengers The Initiative",
+		"title": "The Hammer Falls",
+		"vol": 1,
+		"num": 33,
+		"date": "2010-02-24",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers"
+		],
+		"creators": [
+			"Christos Gage",
+			"Jorge Molina"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4e95e011889e5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "008"
+	},
+	{
+		"id": "29595",
+		"collection": "Dark Avengers",
+		"title": "Siege Dark Avengers",
+		"vol": 1,
+		"num": 14,
+		"date": "2010-02-17",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers",
+			"Norman Osborn",
+			"Sentry",
+			"Bullseye",
+			"Mac Gargan",
+			"Daken"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Mike Deodato Jr"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/52c5c3460cac6.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "009"
+	},
+	{
+		"id": "24926",
+		"collection": "Dark Wolverine",
+		"title": "Godlike",
+		"vol": 1,
+		"num": 83,
+		"date": "2010-02-24",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Daken"
+		],
+		"creators": [
+			"Daniel Way",
+			"Giuseppe Camuncoli"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/52c5cc88c6f02.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "010"
+	},
+	{
+		"id": "29017",
+		"collection": "New Avengers",
+		"title": "Siege New Avengers",
+		"vol": 1,
+		"num": 62,
+		"date": "2010-02-24",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers",
+			"Spider-Man",
+			"Spider-Woman",
+			"Bucky Barnes",
+			"Luke Cage",
+			"Hawkeye",
+			"Carol Danvers",
+			"Mockingbird",
+			"Steve Rogers",
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake",
+			"Phobos",
+			"Jessica Jones"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Stuart Immonen"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/5773e352f0f99.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "011"
+	},
+	{
+		"id": "30193",
+		"collection": "Siege Embedded",
+		"title": "Siege Embedded",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-02-03",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Ben Urich"
+		],
+		"creators": [
+			"Brian Reed",
+			"Chris Samnee"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/517aef038ef93.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "012"
+	},
+	{
+		"id": "26694",
+		"collection": "Thor",
+		"title": "Siege Ragnarok",
+		"vol": 1,
+		"num": 607,
+		"date": "2010-02-24",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Thor"
+		],
+		"creators": [
+			"Kieron Gillen",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/56f2c769b23e4.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "013"
+	},
+	{
+		"id": "29834",
+		"collection": "Thunderbolts",
+		"title": "Siege Thunderbolts",
+		"vol": 1,
+		"num": 141,
+		"date": "2010-02-24",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Thunderbolts",
+			"Eric O'Grady"
+		],
+		"creators": [
+			"Jeff Parker",
+			"Miguel Sepulveda"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/517ea6ac5b774.jpg",
+		"universe": "Earth-616",
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "014"
+	},
+	{
+		"id": "30470",
+		"collection": "Siege",
+		"title": "Siege",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-03-17",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers",
+			"Thor",
+			"Iron Man",
+			"Steve Rogers",
+			"Maria Hill",
+			"Loki",
+			"Norman Osborn",
+			"Ares",
+			"Sentry",
+			"Mac Gargan",
+			"Bullseye",
+			"Daken",
+			"Spider-Woman",
+			"Carol Danvers",
+			"Mockingbird",
+			"Hawkeye",
+			"Luke Cage",
+			"Bucky Barnes",
+			"Spider-Man",
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake",
+			"Phobos",
+			"Young Avengers",
+			"Kate Bishop",
+			"Cassie Lang",
+			"Patriot",
+			"Wiccan",
+			"Vision",
+			"Hulkling",
+			"Hood"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Olivier Coipel"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/517ea96b73710.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Asgard is destroyed"
+		],
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "015"
+	},
+	{
+		"id": "29817",
+		"collection": "Avengers The Initiative",
+		"title": "The Hammer Falls",
+		"vol": 1,
+		"num": 34,
+		"date": "2010-03-24",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers"
+		],
+		"creators": [
+			"Christos Gage",
+			"Jorge Molina"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/c0/4e95e67859f1e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "016"
+	},
+	{
+		"id": "29596",
+		"collection": "Dark Avengers",
+		"title": "Siege Dark Avengers",
+		"vol": 1,
+		"num": 15,
+		"date": "2010-03-17",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers",
+			"Norman Osborn",
+			"Sentry",
+			"Bullseye",
+			"Mac Gargan",
+			"Daken"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Mike Deodato Jr"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/52c5c33ae567f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "017"
+	},
+	{
+		"id": "30384",
+		"collection": "Dark Wolverine",
+		"title": "Godlike",
+		"vol": 1,
+		"num": 84,
+		"date": "2010-03-31",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Daken"
+		],
+		"creators": [
+			"Daniel Way",
+			"Giuseppe Camuncoli"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/52c5cc7542466.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "018"
+	},
+	{
+		"id": "32923",
+		"collection": "Siege Captain America One-Shot",
+		"title": "Siege Battlefield",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-04-14",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Steve Rogers",
+			"Bucky Barnes"
+		],
+		"creators": [
+			"Christos Gage",
+			"Federico Dallocchio"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/517af1546b7d3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "019"
+	},
+	{
+		"id": "32935",
+		"collection": "Siege Spider-Man One-Shot",
+		"title": "Siege Battlefield",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-04-21",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Spider-Man",
+			"Carol Danvers"
+		],
+		"creators": [
+			"Brian Reed",
+			"Marco Santucci"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/517aeff668f7c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "019"
+	},
+	{
+		"id": "32626",
+		"collection": "Siege Loki One-Shot",
+		"title": "Siege Battlefield",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-04-14",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Loki"
+		],
+		"creators": [
+			"Kieron Gillen",
+			"Jamie McKelvie"
+		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/c/20/517af069cce2a/detail.jpg",
+		"universe": "Earth-616",
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "019"
+	},
+	{
+		"id": "32938",
+		"collection": "Siege Young Avengers One-Shot",
+		"title": "Siege Battlefield",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-04-14",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Young Avengers",
+			"Kate Bishop",
+			"Hulkling",
+			"Wiccan",
+			"Patriot"
+		],
+		"creators": [
+			"Sean McKeever",
+			"Mahmud Asrar"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/517aef8a30c73.jpg",
+		"universe": "Earth-616",
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "019"
+	},
+	{
+		"id": "32930",
+		"collection": "Siege Secret Warriors One-Shot",
+		"title": "Siege Battlefield",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-04-28",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake"
+		],
+		"creators": [
+			"Jonathan Hickman",
+			"Alessandro Vitti"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/517e8034bd15a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "019"
+	},
+	{
+		"id": "29289",
+		"collection": "Mighty Avengers",
+		"title": "Salvation",
+		"vol": 1,
+		"num": 35,
+		"date": "2010-03-24",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers",
+			"Hank Pym",
+			"Cassie Lang",
+			"Vision",
+			"Amadeus Cho",
+			"Quicksilver"
+		],
+		"creators": [
+			"Dan Slott",
+			"Khoi Pham"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/4f7c98968a421.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "020"
+	},
+	{
+		"id": "29018",
+		"collection": "New Avengers",
+		"title": "Siege New Avengers",
+		"vol": 1,
+		"num": 63,
+		"date": "2010-03-24",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers",
+			"Spider-Man",
+			"Spider-Woman",
+			"Bucky Barnes",
+			"Luke Cage",
+			"Hawkeye",
+			"Carol Danvers",
+			"Mockingbird",
+			"Steve Rogers",
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake",
+			"Phobos",
+			"Jessica Jones"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Mike McKone"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/5773e4164c917.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "021"
+	},
+	{
+		"id": "30484",
+		"collection": "New Mutants",
+		"title": "Hel's Valkyrie",
+		"vol": 3,
+		"num": 11,
+		"date": "2010-03-31",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"X-Men"
+		],
+		"creators": [
+			"Kieron Gillen",
+			"Niko Henrichon"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/5155cbc8e381b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "022"
+	},
+	{
+		"id": "30194",
+		"collection": "Siege Embedded",
+		"title": "Siege Embedded",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-03-17",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Ben Urich"
+		],
+		"creators": [
+			"Brian Reed",
+			"Chris Samnee"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bacb278b4460.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "023"
+	},
+	{
+		"id": "30570",
+		"collection": "Thor",
+		"title": "Siege Ragnarok",
+		"vol": 1,
+		"num": 608,
+		"date": "2010-03-24",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Thor"
+		],
+		"creators": [
+			"Kieron Gillen",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/56f2c73a7eb70.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "024"
+	},
+	{
+		"id": "29835",
+		"collection": "Thunderbolts",
+		"title": "Siege Thunderbolts",
+		"vol": 1,
+		"num": 142,
+		"date": "2010-03-24",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Thunderbolts",
+			"Eric O'Grady"
+		],
+		"creators": [
+			"Jeff Parker",
+			"Wellinton Alves"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/517ea6997853f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "025"
+	},
+	{
+		"id": "30471",
+		"collection": "Siege",
+		"title": "Siege",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-05-12",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers",
+			"Thor",
+			"Iron Man",
+			"Steve Rogers",
+			"Maria Hill",
+			"Loki",
+			"Norman Osborn",
+			"Ares",
+			"Sentry",
+			"Mac Gargan",
+			"Bullseye",
+			"Daken",
+			"Spider-Woman",
+			"Carol Danvers",
+			"Mockingbird",
+			"Hawkeye",
+			"Luke Cage",
+			"Bucky Barnes",
+			"Spider-Man",
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake",
+			"Phobos",
+			"Young Avengers",
+			"Kate Bishop",
+			"Cassie Lang",
+			"Patriot",
+			"Wiccan",
+			"Vision",
+			"Hulkling",
+			"Hood"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Olivier Coipel"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/517aee0b2667b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Sentry dies",
+			"Loki dies"
+		],
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "026"
+	},
+	{
+		"id": "29931",
+		"collection": "Avengers The Initiative",
+		"title": "The Hammer Falls",
+		"vol": 1,
+		"num": 35,
+		"date": "2010-05-12",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers"
+		],
+		"creators": [
+			"Christos Gage",
+			"Jorge Molina"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/4e95e85964001.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"The Initiative gets dissasembled"
+		],
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "027"
+	},
+	{
+		"id": "29933",
+		"collection": "Dark Avengers",
+		"title": "Siege Dark Avengers",
+		"vol": 1,
+		"num": 16,
+		"date": "2010-05-12",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers",
+			"Norman Osborn",
+			"Sentry",
+			"Bullseye",
+			"Mac Gargan",
+			"Daken"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Mike Deodato Jr"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/52c5c336a94ca.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "028"
+	},
+	{
+		"id": "35053",
+		"collection": "Sentry Fallen Sun",
+		"title": "Siege Dark Avengers",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-05-12",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Sentry"
+		],
+		"creators": [
+			"Paul Jenkins",
+			"Tom Raney"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5818e75146ee0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "028"
+	},
+	{
+		"id": "29939",
+		"collection": "Mighty Avengers",
+		"title": "Salvation",
+		"vol": 1,
+		"num": 36,
+		"date": "2010-04-28",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers",
+			"Hank Pym",
+			"Cassie Lang",
+			"Vision",
+			"Amadeus Cho",
+			"Quicksilver"
+		],
+		"creators": [
+			"Dan Slott",
+			"Khoi Pham"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4f7c98fe10d2f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Sentry memorial"
+		],
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "029"
+	},
+	{
+		"id": "29944",
+		"collection": "New Avengers",
+		"title": "Siege New Avengers",
+		"vol": 1,
+		"num": 64,
+		"date": "2010-04-28",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers",
+			"Spider-Man",
+			"Spider-Woman",
+			"Bucky Barnes",
+			"Luke Cage",
+			"Hawkeye",
+			"Carol Danvers",
+			"Mockingbird",
+			"Steve Rogers",
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake",
+			"Phobos",
+			"Jessica Jones"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Mike McKone"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/5773e19684c7e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "030"
+	},
+	{
+		"id": "30195",
+		"collection": "Siege Embedded",
+		"title": "Siege Embedded",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-05-12",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Ben Urich"
+		],
+		"creators": [
+			"Brian Reed",
+			"Chris Samnee"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bac5e0d40b9f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "031"
+	},
+	{
+		"id": "30571",
+		"collection": "Thor",
+		"title": "Siege Ragnarok",
+		"vol": 1,
+		"num": 609,
+		"date": "2010-04-28",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Thor"
+		],
+		"creators": [
+			"Kieron Gillen",
+			"Billy Tan"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/517e8200a4360.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "032"
+	},
+	{
+		"id": "30572",
+		"collection": "Thor",
+		"title": "Siege Ragnarok",
+		"vol": 1,
+		"num": 610,
+		"date": "2010-05-26",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Thor"
+		],
+		"creators": [
+			"Kieron Gillen",
+			"Doug Braithwaite"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/517e8213d45a0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "032"
+	},
+	{
+		"id": "29862",
+		"collection": "Thunderbolts",
+		"title": "Siege Thunderbolts",
+		"vol": 1,
+		"num": 143,
+		"date": "2010-04-28",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Thunderbolts",
+			"Eric O'Grady",
+			"Luke Cage"
+		],
+		"creators": [
+			"Jeff Parker",
+			"Miguel Sepulveda"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/517ea6936ee59.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Luke Cage joins the Thunderbolts"
+		],
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "033"
+	},
+	{
+		"id": "31473",
+		"collection": "New Avengers Finale",
+		"title": "Finale",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-05-12",
+		"event": "Siege",
+		"eventid": "014",
+		"characters": [
+			"Avengers",
+			"Spider-Man",
+			"Spider-Woman",
+			"Bucky Barnes",
+			"Luke Cage",
+			"Hawkeye",
+			"Carol Danvers",
+			"Mockingbird",
+			"Steve Rogers",
+			"Secret Warriors",
+			"Nick Fury",
+			"Quake",
+			"Phobos",
+			"Jessica Jones",
+			"Wolverine",
+			"Maria Hill",
+			"Hood"
+		],
+		"creators": [
+			"Brian Michael Bendis",
+			"Stuart Immonen"
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4be42ca2328a7.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "010",
+		"phasename": "Siege",
+		"sortid": "034"
 	}
 ]

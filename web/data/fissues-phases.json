@@ -7839,5 +7839,353 @@
 				"sortid": "164"
 			}
 		]
+	},
+	{
+		"namable": {
+			"id": "010",
+			"name": "Siege"
+		},
+		"list": [
+			{
+				"title": "Siege",
+				"date": "2009-12-03",
+				"characters": [
+					"Norman Osborn"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/517aed561bcd5.jpg",
+				"phaseid": "010",
+				"sortid": "001"
+			},
+			{
+				"title": "Seize the Day",
+				"date": "2010-01-27",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4e95daaf4146b.jpg",
+				"phaseid": "010",
+				"sortid": "002"
+			},
+			{
+				"title": "Siege Dark Avengers",
+				"date": "2010-01-20",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/52c5c387a0455.jpg",
+				"phaseid": "010",
+				"sortid": "003"
+			},
+			{
+				"title": "Godlike",
+				"date": "2010-01-20",
+				"characters": [
+					"Daken"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/52c5cc98a2332.jpg",
+				"phaseid": "010",
+				"sortid": "004"
+			},
+			{
+				"title": "Siege New Avengers",
+				"date": "2010-01-27",
+				"characters": [
+					"Mandrill"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/5773e4eca07ca.jpg",
+				"phaseid": "010",
+				"sortid": "005"
+			},
+			{
+				"title": "Siege Embedded",
+				"date": "2010-01-06",
+				"characters": [
+					"Ben Urich"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bae61567301f.jpg",
+				"phaseid": "010",
+				"sortid": "006"
+			},
+			{
+				"title": "Siege",
+				"date": "2010-02-03",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/517aede8d3af6.jpg",
+				"phaseid": "010",
+				"sortid": "007"
+			},
+			{
+				"title": "The Hammer Falls",
+				"date": "2010-02-24",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4e95e011889e5.jpg",
+				"phaseid": "010",
+				"sortid": "008"
+			},
+			{
+				"title": "Siege Dark Avengers",
+				"date": "2010-02-17",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/52c5c3460cac6.jpg",
+				"phaseid": "010",
+				"sortid": "009"
+			},
+			{
+				"title": "Godlike",
+				"date": "2010-02-24",
+				"characters": [
+					"Daken"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/52c5cc88c6f02.jpg",
+				"phaseid": "010",
+				"sortid": "010"
+			},
+			{
+				"title": "Siege New Avengers",
+				"date": "2010-02-24",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/5773e352f0f99.jpg",
+				"phaseid": "010",
+				"sortid": "011"
+			},
+			{
+				"title": "Siege Embedded",
+				"date": "2010-02-03",
+				"characters": [
+					"Ben Urich"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/517aef038ef93.jpg",
+				"phaseid": "010",
+				"sortid": "012"
+			},
+			{
+				"title": "Siege Ragnarok",
+				"date": "2010-02-24",
+				"characters": [
+					"Thor"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/56f2c769b23e4.jpg",
+				"phaseid": "010",
+				"sortid": "013"
+			},
+			{
+				"title": "Siege Thunderbolts",
+				"date": "2010-02-24",
+				"characters": [
+					"Thunderbolts"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/517ea6ac5b774.jpg",
+				"phaseid": "010",
+				"sortid": "014"
+			},
+			{
+				"title": "Siege",
+				"date": "2010-03-17",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/517ea96b73710.jpg",
+				"phaseid": "010",
+				"sortid": "015"
+			},
+			{
+				"title": "The Hammer Falls",
+				"date": "2010-03-24",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/c0/4e95e67859f1e.jpg",
+				"phaseid": "010",
+				"sortid": "016"
+			},
+			{
+				"title": "Siege Dark Avengers",
+				"date": "2010-03-17",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/52c5c33ae567f.jpg",
+				"phaseid": "010",
+				"sortid": "017"
+			},
+			{
+				"title": "Godlike",
+				"date": "2010-03-31",
+				"characters": [
+					"Daken"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/52c5cc7542466.jpg",
+				"phaseid": "010",
+				"sortid": "018"
+			},
+			{
+				"title": "Siege Battlefield",
+				"date": "2010-04-14",
+				"characters": [
+					"Steve Rogers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/517af1546b7d3.jpg",
+				"phaseid": "010",
+				"sortid": "019"
+			},
+			{
+				"title": "Salvation",
+				"date": "2010-03-24",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/4f7c98968a421.jpg",
+				"phaseid": "010",
+				"sortid": "020"
+			},
+			{
+				"title": "Siege New Avengers",
+				"date": "2010-03-24",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/5773e4164c917.jpg",
+				"phaseid": "010",
+				"sortid": "021"
+			},
+			{
+				"title": "Hel's Valkyrie",
+				"date": "2010-03-31",
+				"characters": [
+					"X-Men"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/5155cbc8e381b.jpg",
+				"phaseid": "010",
+				"sortid": "022"
+			},
+			{
+				"title": "Siege Embedded",
+				"date": "2010-03-17",
+				"characters": [
+					"Ben Urich"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bacb278b4460.jpg",
+				"phaseid": "010",
+				"sortid": "023"
+			},
+			{
+				"title": "Siege Ragnarok",
+				"date": "2010-03-24",
+				"characters": [
+					"Thor"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/56f2c73a7eb70.jpg",
+				"phaseid": "010",
+				"sortid": "024"
+			},
+			{
+				"title": "Siege Thunderbolts",
+				"date": "2010-03-24",
+				"characters": [
+					"Thunderbolts"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/517ea6997853f.jpg",
+				"phaseid": "010",
+				"sortid": "025"
+			},
+			{
+				"title": "Siege",
+				"date": "2010-05-12",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/517aee0b2667b.jpg",
+				"phaseid": "010",
+				"sortid": "026"
+			},
+			{
+				"title": "The Hammer Falls",
+				"date": "2010-05-12",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/4e95e85964001.jpg",
+				"phaseid": "010",
+				"sortid": "027"
+			},
+			{
+				"title": "Siege Dark Avengers",
+				"date": "2010-05-12",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/52c5c336a94ca.jpg",
+				"phaseid": "010",
+				"sortid": "028"
+			},
+			{
+				"title": "Salvation",
+				"date": "2010-04-28",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4f7c98fe10d2f.jpg",
+				"phaseid": "010",
+				"sortid": "029"
+			},
+			{
+				"title": "Siege New Avengers",
+				"date": "2010-04-28",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/5773e19684c7e.jpg",
+				"phaseid": "010",
+				"sortid": "030"
+			},
+			{
+				"title": "Siege Embedded",
+				"date": "2010-05-12",
+				"characters": [
+					"Ben Urich"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bac5e0d40b9f.jpg",
+				"phaseid": "010",
+				"sortid": "031"
+			},
+			{
+				"title": "Siege Ragnarok",
+				"date": "2010-04-28",
+				"characters": [
+					"Thor"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/517e8200a4360.jpg",
+				"phaseid": "010",
+				"sortid": "032"
+			},
+			{
+				"title": "Siege Thunderbolts",
+				"date": "2010-04-28",
+				"characters": [
+					"Thunderbolts"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/517ea6936ee59.jpg",
+				"phaseid": "010",
+				"sortid": "033"
+			},
+			{
+				"title": "Finale",
+				"date": "2010-05-12",
+				"characters": [
+					"Avengers"
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4be42ca2328a7.jpg",
+				"phaseid": "010",
+				"sortid": "034"
+			}
+		]
 	}
 ]
