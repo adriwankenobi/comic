@@ -36,23 +36,23 @@ var Datastore = DatastoreType{}
 
 // Comics
 type Comic struct {
-	ID         string   `json:"id,omitempty"`         // From Marvel API
-	Collection string   `json:"collection,omitempty"` // From XLSX
-	Title      string   `json:"title,omitempty"`      // From XLSX
-	Vol        int      `json:"vol,omitempty"`        // From XLSX
-	Num        int      `json:"num,omitempty"`        // From XLSX
-	Date       string   `json:"date,omitempty"`       // From Marvel API
-	Event      string   `json:"event,omitempty"`      // From XLSX
-	EventID    string   `json:"eventid,omitempty"`    // From XLSX
-	Characters []string `json:"characters,omitempty"` // From Marvel API
-	Creators   []string `json:"creators,omitempty"`   // From Marvel API
-	Pic        string   `json:"pic,omitempty"`        // From Marvel API
-	Universe   string   `json:"universe,omitempty"`   // From XLSX
-	Essential  bool     `json:"essential,omitempty"`  // From XLSX
-	Comments   []string `json:"comments,omitempty"`   // From XLSX
-	PhaseID    string   `json:"phaseid,omitempty"`    // From XLSX: Generated based on sheet position
-	PhaseName  string   `json:"phasename,omitempty"`  // From XLSX: Generated based on sheet name
-	SortID     string   `json:"sortid,omitempty"`     // From XLSX: Generated based on row position
+	ID         string      `json:"id,omitempty"`         // From Marvel API
+	Collection string      `json:"collection,omitempty"` // From XLSX
+	Title      string      `json:"title,omitempty"`      // From XLSX
+	Vol        int         `json:"vol,omitempty"`        // From XLSX
+	Num        int         `json:"num,omitempty"`        // From XLSX
+	Date       string      `json:"date,omitempty"`       // From Marvel API
+	Event      string      `json:"event,omitempty"`      // From XLSX
+	EventID    string      `json:"eventid,omitempty"`    // From XLSX
+	Characters NamableList `json:"characters,omitempty"` // From Marvel API
+	Creators   []string    `json:"creators,omitempty"`   // From Marvel API
+	Pic        string      `json:"pic,omitempty"`        // From Marvel API
+	Universe   string      `json:"universe,omitempty"`   // From XLSX
+	Essential  bool        `json:"essential,omitempty"`  // From XLSX
+	Comments   []string    `json:"comments,omitempty"`   // From XLSX
+	PhaseID    string      `json:"phaseid,omitempty"`    // From XLSX: Generated based on sheet position
+	PhaseName  string      `json:"phasename,omitempty"`  // From XLSX: Generated based on sheet name
+	SortID     string      `json:"sortid,omitempty"`     // From XLSX: Generated based on row position
 }
 type ComicList []Comic
 
@@ -94,6 +94,12 @@ func (n *NamableList) ToJson() ([]byte, error) {
 func (n *NamableList) IsEmpty() bool {
 	return len(*n) <= 0
 }
+
+type ByName NamableList
+
+func (a ByName) Len() int           { return len(a) }
+func (a ByName) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
+func (a ByName) Less(i, j int) bool { return a[i].Name < a[j].Name }
 
 // First issues
 type Fissues struct {
@@ -149,7 +155,11 @@ func NewComic(in interface{}) (Comic, error) {
 			c.EventID = e.(string)
 			break
 		case "characters":
-			c.Characters = NewStringList(e)
+			namables, err := NewNamableList(e)
+			if err != nil {
+				return c, err
+			}
+			c.Characters = *namables
 			break
 		case "creators":
 			c.Creators = NewStringList(e)

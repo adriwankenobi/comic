@@ -24,6 +24,11 @@ func getIssuesPage(menu service.Menu, issues *service.ComicList) (string, error)
 		if e.Essential {
 			essential = "YES"
 		}
+		characters := []string{}
+		for _, ch := range e.Characters {
+			char := fmt.Sprintf(c["a-link"], "characters", ch.ID, ch.Name)
+			characters = append(characters, char)
+		}
 		displayEvent := "block"
 		if e.Event == "" {
 			displayEvent = "none"
@@ -50,7 +55,7 @@ func getIssuesPage(menu service.Menu, issues *service.ComicList) (string, error)
 			e.EventID,
 			e.Event,
 			essential,
-			strings.Join(e.Characters, ", "),
+			strings.Join(characters, ", "),
 			strings.Join(e.Creators, ", "),
 			displayComments,
 			commentList,
@@ -63,12 +68,16 @@ func getIssuesPage(menu service.Menu, issues *service.ComicList) (string, error)
 }
 
 // Fissues
-func getPhasesFissuesPage(menu service.Menu, fissues *service.Fissues) (string, error) {
+func getCharactersFissuesPage(menu service.Menu, fissues *service.Fissues) (string, error) {
 	return getFissuesPage(menu, fissues, 1)
 }
 
-func getEventsFissuesPage(menu service.Menu, fissues *service.Fissues) (string, error) {
+func getPhasesFissuesPage(menu service.Menu, fissues *service.Fissues) (string, error) {
 	return getFissuesPage(menu, fissues, 2)
+}
+
+func getEventsFissuesPage(menu service.Menu, fissues *service.Fissues) (string, error) {
+	return getFissuesPage(menu, fissues, 3)
 }
 
 func getFissuesPage(menu service.Menu, fissues *service.Fissues, activeTab int) (string, error) {
@@ -80,7 +89,7 @@ func getFissuesPage(menu service.Menu, fissues *service.Fissues, activeTab int) 
 	phaseID := fissues.Namable.ID
 	issuesContent := ""
 	for _, i := range issues {
-		conIssue := fmt.Sprintf(c["content-fissue"], i.PhaseID, i.SortID, i.Pic, i.Title, i.Date[:4], i.Characters[0], phaseID, i.SortID, i.Title)
+		conIssue := fmt.Sprintf(c["content-fissue"], i.PhaseID, i.SortID, i.Pic, i.Title, i.Date[:4], i.Characters[0].ID, i.Characters[0].Name, phaseID, i.SortID, i.Title)
 		issuesContent = fmt.Sprintf("%s%s", issuesContent, conIssue)
 	}
 	content := fmt.Sprintf(c["content"], fissues.Namable.Name, issuesContent)
@@ -89,7 +98,7 @@ func getFissuesPage(menu service.Menu, fissues *service.Fissues, activeTab int) 
 
 // About
 func getAboutPage(menu service.Menu) string {
-	return getTemplate(c["about"], menu, 3)
+	return getTemplate(c["about"], menu, 4)
 }
 
 // Not found
@@ -112,12 +121,12 @@ func getMenuList(namables service.NamableList, n int, link string, showID bool) 
 			r--
 		}
 		for j := start; j < end; j++ {
-			link := fmt.Sprintf("/%s/%s", link, namables[j].ID)
 			title := namables[j].Name
 			if showID {
 				title = fmt.Sprintf("%v - %s", j+1, title)
 			}
-			li := fmt.Sprintf(c["list-link"], link, title)
+			alink := fmt.Sprintf(c["a-link"], link, namables[j].ID, title)
+			li := fmt.Sprintf(c["list"], alink)
 			list = fmt.Sprintf("%s%s", list, li)
 		}
 		result[i] = list
@@ -129,21 +138,31 @@ func getMenuList(namables service.NamableList, n int, link string, showID bool) 
 func getTemplate(content string, menu service.Menu, activeTab int) string {
 	phasesMenu := getMenuList(*menu.Phases, 3, "phases", true)
 	eventsMenu := getMenuList(*menu.Events, 3, "events", false)
-	active := [4]string{"", "", "", ""}
-	if activeTab >= 0 && activeTab <= 3 {
+	charactersMenu := getMenuList(*menu.Characters, 8, "characters", false)
+	active := [5]string{"", "", "", "", ""}
+	if activeTab >= 0 && activeTab <= 4 {
 		active[activeTab] = "active"
 	}
 	return fmt.Sprintf(c["template"],
 		active[0],
 		active[1],
+		charactersMenu[0],
+		charactersMenu[1],
+		charactersMenu[2],
+		charactersMenu[3],
+		charactersMenu[4],
+		charactersMenu[5],
+		charactersMenu[6],
+		charactersMenu[7],
+		active[2],
 		phasesMenu[0],
 		phasesMenu[1],
 		phasesMenu[2],
-		active[2],
+		active[3],
 		eventsMenu[0],
 		eventsMenu[1],
 		eventsMenu[2],
-		active[3],
+		active[4],
 		content,
 	)
 }

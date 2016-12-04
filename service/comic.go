@@ -21,6 +21,9 @@ func JsonGenerator(path, out string) error {
 	// New events list
 	events := NamableList{}
 
+	// New characters list
+	chars := NamableList{}
+
 	// New issues phase list
 	fissuesPhases := FissuesList{}
 
@@ -33,6 +36,10 @@ func JsonGenerator(path, out string) error {
 	eventsMap := map[string]Namable{}
 	eventsComics := map[string]*ComicList{}
 	eventID := 0
+
+	charsMap := map[string]Namable{}
+	charsComics := map[string]*ComicList{}
+	charID := 0
 
 	// Loop through file sheets
 	for sheet_i, sheet := range xls.Sheets {
@@ -132,7 +139,25 @@ func JsonGenerator(path, out string) error {
 					}
 					c.EventID = e.ID
 				}
-				c.Characters = strings.Split(characters, ", ")
+				charactersArray := strings.Split(characters, ", ")
+				charsList := NamableList{}
+				for _, character := range charactersArray {
+					ch, exists := charsMap[character]
+					if !exists {
+						charID++
+						cID, err := getCode(charID)
+						if err != nil {
+							return err
+						}
+						ch = Namable{ID: cID, Name: character}
+						charsMap[character] = ch
+						charsMap[cID] = ch
+						charsComics[cID] = &ComicList{}
+						chars = append(chars, ch)
+					}
+					charsList = append(charsList, ch)
+				}
+				c.Characters = charsList
 				c.Creators = strings.Split(creators, ", ")
 				c.Pic = pic
 				c.Universe = universe
@@ -155,12 +180,15 @@ func JsonGenerator(path, out string) error {
 						Date:       date,
 						SortID:     sID,
 						PhaseID:    p.ID,
-						Characters: []string{c.Characters[0]},
+						Characters: NamableList{c.Characters[0]},
 					}
 					iPhases.List = append(iPhases.List, co)
 					if event != "" {
 						co.Event = event
 						*(eventsComics[c.EventID]) = append(*(eventsComics[c.EventID]), co)
+					}
+					for _, ch := range c.Characters {
+						*(charsComics[ch.ID]) = append(*(charsComics[ch.ID]), co)
 					}
 				}
 				c.SortID, err = getCode(sortID)
@@ -179,6 +207,7 @@ func JsonGenerator(path, out string) error {
 	Datastore["phases"] = &phases
 	Datastore["fissues-phases"] = &fissuesPhases
 	Datastore["events"] = &events
+	Datastore["characters"] = &chars
 
 	fissuesEvents := FissuesList{}
 	for key, value := range eventsComics {
@@ -191,6 +220,18 @@ func JsonGenerator(path, out string) error {
 		fissuesEvents = append(fissuesEvents, iEvents)
 	}
 	Datastore["fissues-events"] = &fissuesEvents
+
+	fissuesChars := FissuesList{}
+	for key, value := range charsComics {
+		iChars := Fissues{}
+		iChars.List = ComicList{}
+		for _, c := range *value {
+			iChars.List = append(iChars.List, c)
+		}
+		iChars.Namable = charsMap[key]
+		fissuesChars = append(fissuesChars, iChars)
+	}
+	Datastore["fissues-characters"] = &fissuesChars
 	return nil
 }
 

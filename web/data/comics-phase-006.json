@@ -9,8 +9,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man",
-			"Iron Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"J Michael Straczynski",
@@ -33,8 +39,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man",
-			"Iron Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"J Michael Straczynski",
@@ -57,8 +69,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man",
-			"Iron Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"J Michael Straczynski",
@@ -81,13 +99,34 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man",
-			"Doctor Strange",
-			"Charles Xavier",
-			"Reed Richards",
-			"Black Bolt",
-			"Namor",
-			"Black Panther"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "002",
+				"name": "Black Bolt"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "094",
+				"name": "Black Panther"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -113,12 +152,30 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing",
-			"Doctor Doom"
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			}
 		],
 		"creators": [
 			"J Michael Straczynski",
@@ -141,12 +198,30 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing",
-			"Doctor Doom"
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			}
 		],
 		"creators": [
 			"J Michael Straczynski",
@@ -169,40 +244,142 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Iron Man",
-			"Avengers",
-			"New Warriors",
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing",
-			"X-Men",
-			"Cyclops",
-			"Wolverine",
-			"Luke Cage",
-			"Spider-Woman",
-			"Spider-Man",
-			"Carol Danvers",
-			"She-Hulk",
-			"Doctor Strange",
-			"Young Avengers",
-			"Hank Pym",
-			"Sam Wilson",
-			"Wasp",
-			"Cable",
-			"Maria Hill",
-			"Black Panther",
-			"Thunderbolts",
-			"Hercules",
-			"Storm",
-			"Cloack",
-			"Dagger",
-			"Wonder Man",
-			"Black Widow",
-			"Storm",
-			"Punisher"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "126",
+				"name": "New Warriors"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "079",
+				"name": "Young Avengers"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "063",
+				"name": "Wasp"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "121",
+				"name": "Hercules"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "007",
+				"name": "Cloak"
+			},
+			{
+				"id": "008",
+				"name": "Dagger"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
 		],
 		"creators": [
 			"Mark Millar",
@@ -225,7 +402,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"She-Hulk"
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			}
 		],
 		"creators": [
 			"Dan Slott",
@@ -247,8 +427,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Wolverine",
-			"Namor"
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			}
 		],
 		"creators": [
 			"Marc Guggenheim",
@@ -271,15 +457,42 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Factor",
-			"Madrox",
-			"Siryn",
-			"Strong Guy",
-			"Wolfsbane",
-			"Layla Miller",
-			"Rictor",
-			"Monet",
-			"Quicksilver"
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "116",
+				"name": "Siryn"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "077",
+				"name": "Wolfsbane"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			}
 		],
 		"creators": [
 			"Peter David",
@@ -301,10 +514,22 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Avengers",
-			"Steve Rogers",
-			"Sam Wilson",
-			"Maria Hill"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -327,9 +552,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Ben Urich",
-			"Norman Osborn",
-			"Speedball"
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "097",
+				"name": "Speedball"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -353,8 +587,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man",
-			"Iron Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"J Michael Straczynski",
@@ -377,40 +617,142 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Iron Man",
-			"Avengers",
-			"New Warriors",
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing",
-			"X-Men",
-			"Cyclops",
-			"Wolverine",
-			"Luke Cage",
-			"Spider-Woman",
-			"Spider-Man",
-			"Carol Danvers",
-			"She-Hulk",
-			"Doctor Strange",
-			"Young Avengers",
-			"Hank Pym",
-			"Sam Wilson",
-			"Wasp",
-			"Cable",
-			"Maria Hill",
-			"Black Panther",
-			"Thunderbolts",
-			"Hercules",
-			"Storm",
-			"Cloack",
-			"Dagger",
-			"Wonder Man",
-			"Black Widow",
-			"Storm",
-			"Punisher"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "126",
+				"name": "New Warriors"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "079",
+				"name": "Young Avengers"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "063",
+				"name": "Wasp"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "121",
+				"name": "Hercules"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "007",
+				"name": "Cloak"
+			},
+			{
+				"id": "008",
+				"name": "Dagger"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
 		],
 		"creators": [
 			"Mark Millar",
@@ -436,8 +778,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man",
-			"Iron Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"J Michael Straczynski",
@@ -460,9 +808,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Ben Urich",
-			"Norman Osborn",
-			"Speedball"
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "097",
+				"name": "Speedball"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -486,7 +843,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"She-Hulk"
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			}
 		],
 		"creators": [
 			"Dan Slott",
@@ -508,8 +868,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Thunderbolts",
-			"Songbird"
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -531,9 +897,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Avengers",
-			"Luke Cage",
-			"Jessica Jones"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -556,8 +931,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man",
-			"Black Cat"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "054",
+				"name": "Black Cat"
+			}
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
@@ -579,15 +960,42 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Factor",
-			"Madrox",
-			"Siryn",
-			"Strong Guy",
-			"Wolfsbane",
-			"Layla Miller",
-			"Rictor",
-			"Monet",
-			"Quicksilver"
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "116",
+				"name": "Siryn"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "077",
+				"name": "Wolfsbane"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			}
 		],
 		"creators": [
 			"Peter David",
@@ -609,7 +1017,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Peter David",
@@ -631,7 +1042,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Peter David",
@@ -653,7 +1067,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Peter David",
@@ -675,9 +1092,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Ben Urich",
-			"Norman Osborn",
-			"Speedball"
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "097",
+				"name": "Speedball"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -701,10 +1127,22 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Misty Knight",
-			"Shang-Chi",
-			"Black Cat",
-			"Colleen Wing"
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "010",
+				"name": "Shang-Chi"
+			},
+			{
+				"id": "054",
+				"name": "Black Cat"
+			},
+			{
+				"id": "134",
+				"name": "Colleen Wing"
+			}
 		],
 		"creators": [
 			"Justin Gray",
@@ -727,14 +1165,38 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Runaways",
-			"Young Avengers",
-			"Hulkling",
-			"Patriot",
-			"Wiccan",
-			"Kate Bishop",
-			"Cassie Lang",
-			"Vision"
+			{
+				"id": "045",
+				"name": "Runaways"
+			},
+			{
+				"id": "079",
+				"name": "Young Avengers"
+			},
+			{
+				"id": "080",
+				"name": "Hulkling"
+			},
+			{
+				"id": "081",
+				"name": "Patriot"
+			},
+			{
+				"id": "082",
+				"name": "Wiccan"
+			},
+			{
+				"id": "083",
+				"name": "Kate Bishop"
+			},
+			{
+				"id": "084",
+				"name": "Cassie Lang"
+			},
+			{
+				"id": "062",
+				"name": "Vision"
+			}
 		],
 		"creators": [
 			"Zeb Wells",
@@ -757,14 +1219,38 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Runaways",
-			"Young Avengers",
-			"Hulkling",
-			"Patriot",
-			"Wiccan",
-			"Kate Bishop",
-			"Cassie Lang",
-			"Vision"
+			{
+				"id": "045",
+				"name": "Runaways"
+			},
+			{
+				"id": "079",
+				"name": "Young Avengers"
+			},
+			{
+				"id": "080",
+				"name": "Hulkling"
+			},
+			{
+				"id": "081",
+				"name": "Patriot"
+			},
+			{
+				"id": "082",
+				"name": "Wiccan"
+			},
+			{
+				"id": "083",
+				"name": "Kate Bishop"
+			},
+			{
+				"id": "084",
+				"name": "Cassie Lang"
+			},
+			{
+				"id": "062",
+				"name": "Vision"
+			}
 		],
 		"creators": [
 			"Zeb Wells",
@@ -787,14 +1273,38 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Runaways",
-			"Young Avengers",
-			"Hulkling",
-			"Patriot",
-			"Wiccan",
-			"Kate Bishop",
-			"Cassie Lang",
-			"Vision"
+			{
+				"id": "045",
+				"name": "Runaways"
+			},
+			{
+				"id": "079",
+				"name": "Young Avengers"
+			},
+			{
+				"id": "080",
+				"name": "Hulkling"
+			},
+			{
+				"id": "081",
+				"name": "Patriot"
+			},
+			{
+				"id": "082",
+				"name": "Wiccan"
+			},
+			{
+				"id": "083",
+				"name": "Kate Bishop"
+			},
+			{
+				"id": "084",
+				"name": "Cassie Lang"
+			},
+			{
+				"id": "062",
+				"name": "Vision"
+			}
 		],
 		"creators": [
 			"Zeb Wells",
@@ -817,14 +1327,38 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Runaways",
-			"Young Avengers",
-			"Hulkling",
-			"Patriot",
-			"Wiccan",
-			"Kate Bishop",
-			"Cassie Lang",
-			"Vision"
+			{
+				"id": "045",
+				"name": "Runaways"
+			},
+			{
+				"id": "079",
+				"name": "Young Avengers"
+			},
+			{
+				"id": "080",
+				"name": "Hulkling"
+			},
+			{
+				"id": "081",
+				"name": "Patriot"
+			},
+			{
+				"id": "082",
+				"name": "Wiccan"
+			},
+			{
+				"id": "083",
+				"name": "Kate Bishop"
+			},
+			{
+				"id": "084",
+				"name": "Cassie Lang"
+			},
+			{
+				"id": "062",
+				"name": "Vision"
+			}
 		],
 		"creators": [
 			"Zeb Wells",
@@ -847,8 +1381,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Thunderbolts",
-			"Songbird"
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -870,8 +1410,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Thunderbolts",
-			"Songbird"
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -893,8 +1439,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Cable",
-			"Deadpool"
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -916,11 +1468,26 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing"
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
 		],
 		"creators": [
 			"J Michael Straczynski",
@@ -943,8 +1510,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men",
-			"X-23"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			}
 		],
 		"creators": [
 			"Craig Kyle",
@@ -967,8 +1540,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men",
-			"X-23"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			}
 		],
 		"creators": [
 			"Craig Kyle",
@@ -991,8 +1570,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men",
-			"X-23"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			}
 		],
 		"creators": [
 			"Craig Kyle",
@@ -1015,8 +1600,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men",
-			"X-23"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			}
 		],
 		"creators": [
 			"Craig Kyle",
@@ -1039,8 +1630,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men",
-			"X-23"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			}
 		],
 		"creators": [
 			"Craig Kyle",
@@ -1063,10 +1660,22 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Black Panther",
-			"Storm",
-			"X-Men",
-			"Avengers"
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			}
 		],
 		"creators": [
 			"Reginald Hudlin",
@@ -1091,9 +1700,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Ben Urich",
-			"Norman Osborn",
-			"Speedball"
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "097",
+				"name": "Speedball"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -1117,9 +1735,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Black Panther",
-			"Storm",
-			"Doctor Doom"
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			}
 		],
 		"creators": [
 			"Reginald Hudlin",
@@ -1141,7 +1768,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"Charles Knauf",
@@ -1165,9 +1795,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Black Panther",
-			"Storm",
-			"Inhumans"
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "001",
+				"name": "Inhumans"
+			}
 		],
 		"creators": [
 			"Reginald Hudlin",
@@ -1189,9 +1828,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Ben Urich",
-			"Norman Osborn",
-			"Speedball"
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "097",
+				"name": "Speedball"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -1215,8 +1863,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man",
-			"Black Cat"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "054",
+				"name": "Black Cat"
+			}
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
@@ -1238,8 +1892,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man",
-			"Black Cat"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "054",
+				"name": "Black Cat"
+			}
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
@@ -1261,8 +1921,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man",
-			"Black Cat"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "054",
+				"name": "Black Cat"
+			}
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
@@ -1284,40 +1950,142 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Iron Man",
-			"Avengers",
-			"New Warriors",
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing",
-			"X-Men",
-			"Cyclops",
-			"Wolverine",
-			"Luke Cage",
-			"Spider-Woman",
-			"Spider-Man",
-			"Carol Danvers",
-			"She-Hulk",
-			"Doctor Strange",
-			"Young Avengers",
-			"Hank Pym",
-			"Sam Wilson",
-			"Wasp",
-			"Cable",
-			"Maria Hill",
-			"Black Panther",
-			"Thunderbolts",
-			"Hercules",
-			"Storm",
-			"Cloack",
-			"Dagger",
-			"Wonder Man",
-			"Black Widow",
-			"Storm",
-			"Punisher"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "126",
+				"name": "New Warriors"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "079",
+				"name": "Young Avengers"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "063",
+				"name": "Wasp"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "121",
+				"name": "Hercules"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "007",
+				"name": "Cloak"
+			},
+			{
+				"id": "008",
+				"name": "Dagger"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
 		],
 		"creators": [
 			"Mark Millar",
@@ -1340,40 +2108,142 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Iron Man",
-			"Avengers",
-			"New Warriors",
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing",
-			"X-Men",
-			"Cyclops",
-			"Wolverine",
-			"Luke Cage",
-			"Spider-Woman",
-			"Spider-Man",
-			"Carol Danvers",
-			"She-Hulk",
-			"Doctor Strange",
-			"Young Avengers",
-			"Hank Pym",
-			"Sam Wilson",
-			"Wasp",
-			"Cable",
-			"Maria Hill",
-			"Black Panther",
-			"Thunderbolts",
-			"Hercules",
-			"Storm",
-			"Cloack",
-			"Dagger",
-			"Wonder Man",
-			"Black Widow",
-			"Storm",
-			"Punisher"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "126",
+				"name": "New Warriors"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "079",
+				"name": "Young Avengers"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "063",
+				"name": "Wasp"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "121",
+				"name": "Hercules"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "007",
+				"name": "Cloak"
+			},
+			{
+				"id": "008",
+				"name": "Dagger"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
 		],
 		"creators": [
 			"Mark Millar",
@@ -1396,9 +2266,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Ben Urich",
-			"Norman Osborn",
-			"Speedball"
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "097",
+				"name": "Speedball"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -1422,8 +2301,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Cable",
-			"Deadpool"
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -1445,8 +2330,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Cable",
-			"Deadpool"
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -1468,8 +2359,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Wolverine",
-			"Namor"
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			}
 		],
 		"creators": [
 			"Marc Guggenheim",
@@ -1492,8 +2389,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Wolverine",
-			"Namor"
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			}
 		],
 		"creators": [
 			"Marc Guggenheim",
@@ -1516,8 +2419,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Wolverine",
-			"Namor"
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			}
 		],
 		"creators": [
 			"Marc Guggenheim",
@@ -1540,8 +2449,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Sharon Carter"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			}
 		],
 		"creators": [
 			"Ed Brubaker",
@@ -1564,8 +2479,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Bucky Barnes"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			}
 		],
 		"creators": [
 			"Ed Brubaker",
@@ -1588,9 +2509,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Ben Urich",
-			"Norman Osborn",
-			"Speedball"
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "097",
+				"name": "Speedball"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -1614,8 +2544,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man",
-			"Iron Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"J Michael Straczynski",
@@ -1638,11 +2574,26 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing"
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
 		],
 		"creators": [
 			"J Michael Straczynski",
@@ -1665,9 +2616,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Black Panther",
-			"Storm",
-			"Namor"
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			}
 		],
 		"creators": [
 			"Reginald Hudlin",
@@ -1689,8 +2649,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Black Panther",
-			"Storm"
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
 		],
 		"creators": [
 			"Reginald Hudlin",
@@ -1712,14 +2678,38 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men",
-			"Cyclops",
-			"Emma Frost",
-			"Beast",
-			"Iceman",
-			"Angel",
-			"Kitty Pride",
-			"Bishop"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "104",
+				"name": "Iceman"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "052",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
 		],
 		"creators": [
 			"David Hine",
@@ -1741,14 +2731,38 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men",
-			"Cyclops",
-			"Emma Frost",
-			"Beast",
-			"Iceman",
-			"Angel",
-			"Kitty Pride",
-			"Bishop"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "104",
+				"name": "Iceman"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "052",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
 		],
 		"creators": [
 			"David Hine",
@@ -1770,14 +2784,38 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men",
-			"Cyclops",
-			"Emma Frost",
-			"Beast",
-			"Iceman",
-			"Angel",
-			"Kitty Pride",
-			"Bishop"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "104",
+				"name": "Iceman"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "052",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
 		],
 		"creators": [
 			"David Hine",
@@ -1799,14 +2837,38 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"X-Men",
-			"Cyclops",
-			"Emma Frost",
-			"Beast",
-			"Iceman",
-			"Angel",
-			"Kitty Pride",
-			"Bishop"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "104",
+				"name": "Iceman"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "052",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
 		],
 		"creators": [
 			"David Hine",
@@ -1828,10 +2890,22 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Misty Knight",
-			"Shang-Chi",
-			"Black Cat",
-			"Colleen Wing"
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "010",
+				"name": "Shang-Chi"
+			},
+			{
+				"id": "054",
+				"name": "Black Cat"
+			},
+			{
+				"id": "134",
+				"name": "Colleen Wing"
+			}
 		],
 		"creators": [
 			"Justin Gray",
@@ -1854,10 +2928,22 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Misty Knight",
-			"Shang-Chi",
-			"Black Cat",
-			"Colleen Wing"
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "010",
+				"name": "Shang-Chi"
+			},
+			{
+				"id": "054",
+				"name": "Black Cat"
+			},
+			{
+				"id": "134",
+				"name": "Colleen Wing"
+			}
 		],
 		"creators": [
 			"Justin Gray",
@@ -1880,9 +2966,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Carol Danvers",
-			"Wonder Man",
-			"Anya Corazon"
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "085",
+				"name": "Anya Corazon"
+			}
 		],
 		"creators": [
 			"Brian Reed",
@@ -1904,9 +2999,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Carol Danvers",
-			"Wonder Man",
-			"Anya Corazon"
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "085",
+				"name": "Anya Corazon"
+			}
 		],
 		"creators": [
 			"Brian Reed",
@@ -1928,9 +3032,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Carol Danvers",
-			"Wonder Man",
-			"Anya Corazon"
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "085",
+				"name": "Anya Corazon"
+			}
 		],
 		"creators": [
 			"Brian Reed",
@@ -1952,9 +3065,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Avengers",
-			"Spider-Woman",
-			"Nick Fury"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -1977,8 +3099,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Avengers",
-			"Sentry"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -2001,8 +3129,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Mar-Vell",
-			"Sentry"
+			{
+				"id": "135",
+				"name": "Mar-Vell"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -2024,8 +3158,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Iron Man"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"Christos Cage",
@@ -2048,8 +3188,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Wolverine",
-			"Namor"
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			}
 		],
 		"creators": [
 			"Marc Guggenheim",
@@ -2072,8 +3218,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Wolverine",
-			"Namor"
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			}
 		],
 		"creators": [
 			"Marc Guggenheim",
@@ -2096,8 +3248,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Black Panther",
-			"Storm"
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
 		],
 		"creators": [
 			"Reginald Hudlin",
@@ -2119,8 +3277,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Sharon Carter"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			}
 		],
 		"creators": [
 			"Ed Brubaker",
@@ -2143,9 +3307,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Ben Urich",
-			"Norman Osborn",
-			"Speedball"
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "097",
+				"name": "Speedball"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -2169,8 +3342,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man",
-			"Wolverine"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
 		],
 		"creators": [
 			"Carlos Alberto cruz Cuevas",
@@ -2196,11 +3375,26 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing"
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
 		],
 		"creators": [
 			"J Michael Straczynski",
@@ -2223,8 +3417,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man",
-			"Iron Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"J Michael Straczynski",
@@ -2247,40 +3447,142 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Iron Man",
-			"Avengers",
-			"New Warriors",
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing",
-			"X-Men",
-			"Cyclops",
-			"Wolverine",
-			"Luke Cage",
-			"Spider-Woman",
-			"Spider-Man",
-			"Carol Danvers",
-			"She-Hulk",
-			"Doctor Strange",
-			"Young Avengers",
-			"Hank Pym",
-			"Sam Wilson",
-			"Wasp",
-			"Cable",
-			"Maria Hill",
-			"Black Panther",
-			"Thunderbolts",
-			"Hercules",
-			"Storm",
-			"Cloack",
-			"Dagger",
-			"Wonder Man",
-			"Black Widow",
-			"Storm",
-			"Punisher"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "126",
+				"name": "New Warriors"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "079",
+				"name": "Young Avengers"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "063",
+				"name": "Wasp"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "121",
+				"name": "Hercules"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "007",
+				"name": "Cloak"
+			},
+			{
+				"id": "008",
+				"name": "Dagger"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
 		],
 		"creators": [
 			"Mark Millar",
@@ -2303,7 +3605,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Punisher"
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
 		],
 		"creators": [
 			"Matt Fraction",
@@ -2325,11 +3630,26 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing"
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
 		],
 		"creators": [
 			"J Michael Straczynski",
@@ -2352,8 +3672,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man",
-			"Kingpin"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "136",
+				"name": "Kingpin"
+			}
 		],
 		"creators": [
 			"Staz Johnson",
@@ -2378,9 +3704,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Ben Urich",
-			"Norman Osborn",
-			"Speedball"
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "097",
+				"name": "Speedball"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -2404,8 +3739,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man",
-			"Iron Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"J Michael Straczynski",
@@ -2428,7 +3769,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Moon Knight"
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			}
 		],
 		"creators": [
 			"Charlie Huston",
@@ -2450,7 +3794,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Moon Knight"
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			}
 		],
 		"creators": [
 			"Charlie Huston",
@@ -2472,7 +3819,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Moon Knight"
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			}
 		],
 		"creators": [
 			"Charlie Huston",
@@ -2494,7 +3844,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Moon Knight"
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			}
 		],
 		"creators": [
 			"Charlie Huston",
@@ -2516,11 +3869,26 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing"
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
 		],
 		"creators": [
 			"Dwayne McDuffie",
@@ -2543,7 +3911,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"Charles Knauf",
@@ -2570,7 +3941,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Peter David",
@@ -2592,7 +3966,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Peter David",
@@ -2614,7 +3991,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Peter David",
@@ -2636,7 +4016,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
@@ -2658,7 +4041,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
@@ -2680,8 +4066,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man",
-			"Black Cat"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "054",
+				"name": "Black Cat"
+			}
 		],
 		"creators": [
 			"Roberto Aguirre-Sacasa",
@@ -2703,8 +4095,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Bucky Barnes",
-			"Nick Fury"
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			}
 		],
 		"creators": [
 			"Ed Brubaker",
@@ -2727,8 +4125,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man",
-			"Iron Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"J Michael Straczynski",
@@ -2751,8 +4155,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Black Panther",
-			"Storm"
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
 		],
 		"creators": [
 			"Reginald Hudlin",
@@ -2774,7 +4184,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Punisher"
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
 		],
 		"creators": [
 			"Matt Fraction",
@@ -2796,40 +4209,142 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Iron Man",
-			"Avengers",
-			"New Warriors",
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing",
-			"X-Men",
-			"Cyclops",
-			"Wolverine",
-			"Luke Cage",
-			"Spider-Woman",
-			"Spider-Man",
-			"Carol Danvers",
-			"She-Hulk",
-			"Doctor Strange",
-			"Young Avengers",
-			"Hank Pym",
-			"Sam Wilson",
-			"Wasp",
-			"Cable",
-			"Maria Hill",
-			"Black Panther",
-			"Thunderbolts",
-			"Hercules",
-			"Storm",
-			"Cloack",
-			"Dagger",
-			"Wonder Man",
-			"Black Widow",
-			"Storm",
-			"Punisher"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "126",
+				"name": "New Warriors"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "079",
+				"name": "Young Avengers"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "063",
+				"name": "Wasp"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "121",
+				"name": "Hercules"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "007",
+				"name": "Cloak"
+			},
+			{
+				"id": "008",
+				"name": "Dagger"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
 		],
 		"creators": [
 			"Mark Millar",
@@ -2852,7 +4367,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Punisher"
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
 		],
 		"creators": [
 			"Matt Fraction",
@@ -2874,8 +4392,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man",
-			"Maria Hill"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -2898,9 +4422,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Ben Urich",
-			"Norman Osborn",
-			"Speedball"
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "097",
+				"name": "Speedball"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -2924,40 +4457,142 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Iron Man",
-			"Avengers",
-			"New Warriors",
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing",
-			"X-Men",
-			"Cyclops",
-			"Wolverine",
-			"Luke Cage",
-			"Spider-Woman",
-			"Spider-Man",
-			"Carol Danvers",
-			"She-Hulk",
-			"Doctor Strange",
-			"Young Avengers",
-			"Hank Pym",
-			"Sam Wilson",
-			"Wasp",
-			"Cable",
-			"Maria Hill",
-			"Black Panther",
-			"Thunderbolts",
-			"Hercules",
-			"Storm",
-			"Cloack",
-			"Dagger",
-			"Wonder Man",
-			"Black Widow",
-			"Storm",
-			"Punisher"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "126",
+				"name": "New Warriors"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "079",
+				"name": "Young Avengers"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "063",
+				"name": "Wasp"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "121",
+				"name": "Hercules"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "007",
+				"name": "Cloak"
+			},
+			{
+				"id": "008",
+				"name": "Dagger"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
 		],
 		"creators": [
 			"Mark Millar",
@@ -2980,8 +4615,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Black Panther",
-			"Storm"
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
 		],
 		"creators": [
 			"Reginald Hudlin",
@@ -3003,8 +4644,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Spider-Man",
-			"Iron Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"J Michael Straczynski",
@@ -3027,11 +4674,26 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing"
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
 		],
 		"creators": [
 			"Dwayne McDuffie",
@@ -3057,9 +4719,18 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Ben Urich",
-			"Norman Osborn",
-			"Speedball"
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "097",
+				"name": "Speedball"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -3083,7 +4754,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Punisher"
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
 		],
 		"creators": [
 			"Matt Fraction",
@@ -3105,8 +4779,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Thunderbolts",
-			"Songbird"
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -3128,8 +4808,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Thunderbolts",
-			"Songbird"
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -3151,8 +4837,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Thunderbolts",
-			"Songbird"
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -3174,8 +4866,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Thunderbolts",
-			"Songbird"
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -3197,10 +4895,22 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Sharon Carter",
-			"Sam Wilson",
-			"Bucky Barnes"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			}
 		],
 		"creators": [
 			"Ed Brubaker",
@@ -3226,13 +4936,34 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Iron Man",
-			"Wolverine",
-			"Avengers",
-			"Spider-Man",
-			"Bucky Barnes",
-			"Maria Hill"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			}
 		],
 		"creators": [
 			"Jeph Loeb",
@@ -3255,13 +4986,34 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Iron Man",
-			"Wolverine",
-			"Avengers",
-			"Spider-Man",
-			"Bucky Barnes",
-			"Maria Hill"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			}
 		],
 		"creators": [
 			"Jeph Loeb",
@@ -3284,13 +5036,34 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Iron Man",
-			"Wolverine",
-			"Avengers",
-			"Spider-Man",
-			"Bucky Barnes",
-			"Maria Hill"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			}
 		],
 		"creators": [
 			"Jeph Loeb",
@@ -3313,13 +5086,34 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Iron Man",
-			"Wolverine",
-			"Avengers",
-			"Spider-Man",
-			"Bucky Barnes",
-			"Maria Hill"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			}
 		],
 		"creators": [
 			"David Finch",
@@ -3343,13 +5137,34 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Steve Rogers",
-			"Iron Man",
-			"Wolverine",
-			"Avengers",
-			"Spider-Man",
-			"Bucky Barnes",
-			"Maria Hill"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			}
 		],
 		"creators": [
 			"John Cassaday",
@@ -3372,10 +5187,22 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man",
-			"Alpha Flight",
-			"Thunderbolts",
-			"Avengers"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "137",
+				"name": "Alpha Flight"
+			},
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -3402,8 +5229,14 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
-			"Iron Man",
-			"Steve Rogers"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",

@@ -9,12 +9,30 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Norman Osborn",
-			"Hood",
-			"Doctor Doom",
-			"Loki",
-			"Avengers",
-			"Sentry"
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "156",
+				"name": "Hood"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			},
+			{
+				"id": "016",
+				"name": "Loki"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -37,8 +55,14 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Norman Osborn",
-			"Loki"
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "016",
+				"name": "Loki"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -61,13 +85,34 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Loki",
-			"Avengers",
-			"Hood",
-			"Doctor Doom",
-			"Namor",
-			"Emma Frost",
-			"Thor"
+			{
+				"id": "016",
+				"name": "Loki"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "156",
+				"name": "Hood"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			}
 		],
 		"creators": [
 			"John Thomas"
@@ -89,37 +134,130 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers",
-			"Thor",
-			"Iron Man",
-			"Steve Rogers",
-			"Maria Hill",
-			"Loki",
-			"Norman Osborn",
-			"Ares",
-			"Sentry",
-			"Mac Gargan",
-			"Bullseye",
-			"Daken",
-			"Spider-Woman",
-			"Carol Danvers",
-			"Mockingbird",
-			"Hawkeye",
-			"Luke Cage",
-			"Bucky Barnes",
-			"Spider-Man",
-			"Secret Warriors",
-			"Nick Fury",
-			"Quake",
-			"Phobos",
-			"Young Avengers",
-			"Kate Bishop",
-			"Cassie Lang",
-			"Patriot",
-			"Wiccan",
-			"Vision",
-			"Hulkling",
-			"Hood"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "016",
+				"name": "Loki"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "120",
+				"name": "Ares"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			},
+			{
+				"id": "138",
+				"name": "Mac Gargan"
+			},
+			{
+				"id": "088",
+				"name": "Bullseye"
+			},
+			{
+				"id": "125",
+				"name": "Daken"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "154",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "155",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "091",
+				"name": "Quake"
+			},
+			{
+				"id": "122",
+				"name": "Phobos"
+			},
+			{
+				"id": "079",
+				"name": "Young Avengers"
+			},
+			{
+				"id": "083",
+				"name": "Kate Bishop"
+			},
+			{
+				"id": "084",
+				"name": "Cassie Lang"
+			},
+			{
+				"id": "081",
+				"name": "Patriot"
+			},
+			{
+				"id": "082",
+				"name": "Wiccan"
+			},
+			{
+				"id": "062",
+				"name": "Vision"
+			},
+			{
+				"id": "080",
+				"name": "Hulkling"
+			},
+			{
+				"id": "156",
+				"name": "Hood"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -142,7 +280,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers"
+			{
+				"id": "059",
+				"name": "Avengers"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -164,9 +305,18 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers",
-			"Norman Osborn",
-			"Sentry"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -189,7 +339,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Daken"
+			{
+				"id": "125",
+				"name": "Daken"
+			}
 		],
 		"creators": [
 			"Daniel Way",
@@ -212,11 +365,62 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Mandrill",
-			"Spider-Man",
-			"Spider-Woman (Jessica Drew)",
-			"Steve Rogers",
-			"The Hood"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "154",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "155",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "091",
+				"name": "Quake"
+			},
+			{
+				"id": "122",
+				"name": "Phobos"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -239,7 +443,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Ben Urich"
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			}
 		],
 		"creators": [
 			"Brian Reed",
@@ -262,37 +469,130 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers",
-			"Thor",
-			"Iron Man",
-			"Steve Rogers",
-			"Maria Hill",
-			"Loki",
-			"Norman Osborn",
-			"Ares",
-			"Sentry",
-			"Mac Gargan",
-			"Bullseye",
-			"Daken",
-			"Spider-Woman",
-			"Carol Danvers",
-			"Mockingbird",
-			"Hawkeye",
-			"Luke Cage",
-			"Bucky Barnes",
-			"Spider-Man",
-			"Secret Warriors",
-			"Nick Fury",
-			"Quake",
-			"Phobos",
-			"Young Avengers",
-			"Kate Bishop",
-			"Cassie Lang",
-			"Patriot",
-			"Wiccan",
-			"Vision",
-			"Hulkling",
-			"Hood"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "016",
+				"name": "Loki"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "120",
+				"name": "Ares"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			},
+			{
+				"id": "138",
+				"name": "Mac Gargan"
+			},
+			{
+				"id": "088",
+				"name": "Bullseye"
+			},
+			{
+				"id": "125",
+				"name": "Daken"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "154",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "155",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "091",
+				"name": "Quake"
+			},
+			{
+				"id": "122",
+				"name": "Phobos"
+			},
+			{
+				"id": "079",
+				"name": "Young Avengers"
+			},
+			{
+				"id": "083",
+				"name": "Kate Bishop"
+			},
+			{
+				"id": "084",
+				"name": "Cassie Lang"
+			},
+			{
+				"id": "081",
+				"name": "Patriot"
+			},
+			{
+				"id": "082",
+				"name": "Wiccan"
+			},
+			{
+				"id": "062",
+				"name": "Vision"
+			},
+			{
+				"id": "080",
+				"name": "Hulkling"
+			},
+			{
+				"id": "156",
+				"name": "Hood"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -318,7 +618,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers"
+			{
+				"id": "059",
+				"name": "Avengers"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -340,12 +643,30 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers",
-			"Norman Osborn",
-			"Sentry",
-			"Bullseye",
-			"Mac Gargan",
-			"Daken"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			},
+			{
+				"id": "088",
+				"name": "Bullseye"
+			},
+			{
+				"id": "138",
+				"name": "Mac Gargan"
+			},
+			{
+				"id": "125",
+				"name": "Daken"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -368,7 +689,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Daken"
+			{
+				"id": "125",
+				"name": "Daken"
+			}
 		],
 		"creators": [
 			"Daniel Way",
@@ -391,20 +715,62 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers",
-			"Spider-Man",
-			"Spider-Woman",
-			"Bucky Barnes",
-			"Luke Cage",
-			"Hawkeye",
-			"Carol Danvers",
-			"Mockingbird",
-			"Steve Rogers",
-			"Secret Warriors",
-			"Nick Fury",
-			"Quake",
-			"Phobos",
-			"Jessica Jones"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "154",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "155",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "091",
+				"name": "Quake"
+			},
+			{
+				"id": "122",
+				"name": "Phobos"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -427,7 +793,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Ben Urich"
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			}
 		],
 		"creators": [
 			"Brian Reed",
@@ -450,7 +819,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Thor"
+			{
+				"id": "014",
+				"name": "Thor"
+			}
 		],
 		"creators": [
 			"Kieron Gillen",
@@ -473,8 +845,14 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Thunderbolts",
-			"Eric O'Grady"
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "139",
+				"name": "Eric O'Grady"
+			}
 		],
 		"creators": [
 			"Jeff Parker",
@@ -496,37 +874,130 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers",
-			"Thor",
-			"Iron Man",
-			"Steve Rogers",
-			"Maria Hill",
-			"Loki",
-			"Norman Osborn",
-			"Ares",
-			"Sentry",
-			"Mac Gargan",
-			"Bullseye",
-			"Daken",
-			"Spider-Woman",
-			"Carol Danvers",
-			"Mockingbird",
-			"Hawkeye",
-			"Luke Cage",
-			"Bucky Barnes",
-			"Spider-Man",
-			"Secret Warriors",
-			"Nick Fury",
-			"Quake",
-			"Phobos",
-			"Young Avengers",
-			"Kate Bishop",
-			"Cassie Lang",
-			"Patriot",
-			"Wiccan",
-			"Vision",
-			"Hulkling",
-			"Hood"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "016",
+				"name": "Loki"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "120",
+				"name": "Ares"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			},
+			{
+				"id": "138",
+				"name": "Mac Gargan"
+			},
+			{
+				"id": "088",
+				"name": "Bullseye"
+			},
+			{
+				"id": "125",
+				"name": "Daken"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "154",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "155",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "091",
+				"name": "Quake"
+			},
+			{
+				"id": "122",
+				"name": "Phobos"
+			},
+			{
+				"id": "079",
+				"name": "Young Avengers"
+			},
+			{
+				"id": "083",
+				"name": "Kate Bishop"
+			},
+			{
+				"id": "084",
+				"name": "Cassie Lang"
+			},
+			{
+				"id": "081",
+				"name": "Patriot"
+			},
+			{
+				"id": "082",
+				"name": "Wiccan"
+			},
+			{
+				"id": "062",
+				"name": "Vision"
+			},
+			{
+				"id": "080",
+				"name": "Hulkling"
+			},
+			{
+				"id": "156",
+				"name": "Hood"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -552,7 +1023,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers"
+			{
+				"id": "059",
+				"name": "Avengers"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -574,12 +1048,30 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers",
-			"Norman Osborn",
-			"Sentry",
-			"Bullseye",
-			"Mac Gargan",
-			"Daken"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			},
+			{
+				"id": "088",
+				"name": "Bullseye"
+			},
+			{
+				"id": "138",
+				"name": "Mac Gargan"
+			},
+			{
+				"id": "125",
+				"name": "Daken"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -602,7 +1094,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Daken"
+			{
+				"id": "125",
+				"name": "Daken"
+			}
 		],
 		"creators": [
 			"Daniel Way",
@@ -625,8 +1120,14 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Steve Rogers",
-			"Bucky Barnes"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -648,8 +1149,14 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Spider-Man",
-			"Carol Danvers"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			}
 		],
 		"creators": [
 			"Brian Reed",
@@ -671,7 +1178,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Loki"
+			{
+				"id": "016",
+				"name": "Loki"
+			}
 		],
 		"creators": [
 			"Kieron Gillen",
@@ -693,11 +1203,26 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Young Avengers",
-			"Kate Bishop",
-			"Hulkling",
-			"Wiccan",
-			"Patriot"
+			{
+				"id": "079",
+				"name": "Young Avengers"
+			},
+			{
+				"id": "083",
+				"name": "Kate Bishop"
+			},
+			{
+				"id": "080",
+				"name": "Hulkling"
+			},
+			{
+				"id": "082",
+				"name": "Wiccan"
+			},
+			{
+				"id": "081",
+				"name": "Patriot"
+			}
 		],
 		"creators": [
 			"Sean McKeever",
@@ -719,9 +1244,18 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Secret Warriors",
-			"Nick Fury",
-			"Quake"
+			{
+				"id": "155",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "091",
+				"name": "Quake"
+			}
 		],
 		"creators": [
 			"Jonathan Hickman",
@@ -743,12 +1277,30 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers",
-			"Hank Pym",
-			"Cassie Lang",
-			"Vision",
-			"Amadeus Cho",
-			"Quicksilver"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			},
+			{
+				"id": "084",
+				"name": "Cassie Lang"
+			},
+			{
+				"id": "062",
+				"name": "Vision"
+			},
+			{
+				"id": "103",
+				"name": "Amadeus Cho"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			}
 		],
 		"creators": [
 			"Dan Slott",
@@ -771,20 +1323,62 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers",
-			"Spider-Man",
-			"Spider-Woman",
-			"Bucky Barnes",
-			"Luke Cage",
-			"Hawkeye",
-			"Carol Danvers",
-			"Mockingbird",
-			"Steve Rogers",
-			"Secret Warriors",
-			"Nick Fury",
-			"Quake",
-			"Phobos",
-			"Jessica Jones"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "154",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "155",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "091",
+				"name": "Quake"
+			},
+			{
+				"id": "122",
+				"name": "Phobos"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -807,7 +1401,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"X-Men"
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
 		],
 		"creators": [
 			"Kieron Gillen",
@@ -829,7 +1426,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Ben Urich"
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			}
 		],
 		"creators": [
 			"Brian Reed",
@@ -852,7 +1452,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Thor"
+			{
+				"id": "014",
+				"name": "Thor"
+			}
 		],
 		"creators": [
 			"Kieron Gillen",
@@ -875,8 +1478,14 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Thunderbolts",
-			"Eric O'Grady"
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "139",
+				"name": "Eric O'Grady"
+			}
 		],
 		"creators": [
 			"Jeff Parker",
@@ -898,37 +1507,130 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers",
-			"Thor",
-			"Iron Man",
-			"Steve Rogers",
-			"Maria Hill",
-			"Loki",
-			"Norman Osborn",
-			"Ares",
-			"Sentry",
-			"Mac Gargan",
-			"Bullseye",
-			"Daken",
-			"Spider-Woman",
-			"Carol Danvers",
-			"Mockingbird",
-			"Hawkeye",
-			"Luke Cage",
-			"Bucky Barnes",
-			"Spider-Man",
-			"Secret Warriors",
-			"Nick Fury",
-			"Quake",
-			"Phobos",
-			"Young Avengers",
-			"Kate Bishop",
-			"Cassie Lang",
-			"Patriot",
-			"Wiccan",
-			"Vision",
-			"Hulkling",
-			"Hood"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "016",
+				"name": "Loki"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "120",
+				"name": "Ares"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			},
+			{
+				"id": "138",
+				"name": "Mac Gargan"
+			},
+			{
+				"id": "088",
+				"name": "Bullseye"
+			},
+			{
+				"id": "125",
+				"name": "Daken"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "154",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "155",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "091",
+				"name": "Quake"
+			},
+			{
+				"id": "122",
+				"name": "Phobos"
+			},
+			{
+				"id": "079",
+				"name": "Young Avengers"
+			},
+			{
+				"id": "083",
+				"name": "Kate Bishop"
+			},
+			{
+				"id": "084",
+				"name": "Cassie Lang"
+			},
+			{
+				"id": "081",
+				"name": "Patriot"
+			},
+			{
+				"id": "082",
+				"name": "Wiccan"
+			},
+			{
+				"id": "062",
+				"name": "Vision"
+			},
+			{
+				"id": "080",
+				"name": "Hulkling"
+			},
+			{
+				"id": "156",
+				"name": "Hood"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -955,7 +1657,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers"
+			{
+				"id": "059",
+				"name": "Avengers"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -980,12 +1685,30 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers",
-			"Norman Osborn",
-			"Sentry",
-			"Bullseye",
-			"Mac Gargan",
-			"Daken"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "041",
+				"name": "Norman Osborn"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			},
+			{
+				"id": "088",
+				"name": "Bullseye"
+			},
+			{
+				"id": "138",
+				"name": "Mac Gargan"
+			},
+			{
+				"id": "125",
+				"name": "Daken"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -1008,7 +1731,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Sentry"
+			{
+				"id": "013",
+				"name": "Sentry"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -1031,12 +1757,30 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers",
-			"Hank Pym",
-			"Cassie Lang",
-			"Vision",
-			"Amadeus Cho",
-			"Quicksilver"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			},
+			{
+				"id": "084",
+				"name": "Cassie Lang"
+			},
+			{
+				"id": "062",
+				"name": "Vision"
+			},
+			{
+				"id": "103",
+				"name": "Amadeus Cho"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			}
 		],
 		"creators": [
 			"Dan Slott",
@@ -1062,20 +1806,62 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers",
-			"Spider-Man",
-			"Spider-Woman",
-			"Bucky Barnes",
-			"Luke Cage",
-			"Hawkeye",
-			"Carol Danvers",
-			"Mockingbird",
-			"Steve Rogers",
-			"Secret Warriors",
-			"Nick Fury",
-			"Quake",
-			"Phobos",
-			"Jessica Jones"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "154",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "155",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "091",
+				"name": "Quake"
+			},
+			{
+				"id": "122",
+				"name": "Phobos"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -1098,7 +1884,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Ben Urich"
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			}
 		],
 		"creators": [
 			"Brian Reed",
@@ -1121,7 +1910,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Thor"
+			{
+				"id": "014",
+				"name": "Thor"
+			}
 		],
 		"creators": [
 			"Kieron Gillen",
@@ -1144,7 +1936,10 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Thor"
+			{
+				"id": "014",
+				"name": "Thor"
+			}
 		],
 		"creators": [
 			"Kieron Gillen",
@@ -1167,9 +1962,18 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Thunderbolts",
-			"Eric O'Grady",
-			"Luke Cage"
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "139",
+				"name": "Eric O'Grady"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			}
 		],
 		"creators": [
 			"Jeff Parker",
@@ -1194,23 +1998,74 @@
 		"event": "Siege",
 		"eventid": "014",
 		"characters": [
-			"Avengers",
-			"Spider-Man",
-			"Spider-Woman",
-			"Bucky Barnes",
-			"Luke Cage",
-			"Hawkeye",
-			"Carol Danvers",
-			"Mockingbird",
-			"Steve Rogers",
-			"Secret Warriors",
-			"Nick Fury",
-			"Quake",
-			"Phobos",
-			"Jessica Jones",
-			"Wolverine",
-			"Maria Hill",
-			"Hood"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "154",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "155",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "091",
+				"name": "Quake"
+			},
+			{
+				"id": "122",
+				"name": "Phobos"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "156",
+				"name": "Hood"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",

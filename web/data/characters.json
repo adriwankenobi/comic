@@ -1,0 +1,650 @@
+[
+	{
+		"id": "001",
+		"name": "Inhumans"
+	},
+	{
+		"id": "002",
+		"name": "Black Bolt"
+	},
+	{
+		"id": "003",
+		"name": "Daredevil"
+	},
+	{
+		"id": "004",
+		"name": "Echo"
+	},
+	{
+		"id": "005",
+		"name": "Marvel Knights"
+	},
+	{
+		"id": "006",
+		"name": "Black Widow"
+	},
+	{
+		"id": "007",
+		"name": "Cloak"
+	},
+	{
+		"id": "008",
+		"name": "Dagger"
+	},
+	{
+		"id": "009",
+		"name": "Punisher"
+	},
+	{
+		"id": "010",
+		"name": "Shang-Chi"
+	},
+	{
+		"id": "011",
+		"name": "Moon Knight"
+	},
+	{
+		"id": "012",
+		"name": "Luke Cage"
+	},
+	{
+		"id": "013",
+		"name": "Sentry"
+	},
+	{
+		"id": "014",
+		"name": "Thor"
+	},
+	{
+		"id": "015",
+		"name": "Odin"
+	},
+	{
+		"id": "016",
+		"name": "Loki"
+	},
+	{
+		"id": "017",
+		"name": "Sif"
+	},
+	{
+		"id": "018",
+		"name": "Cosmic"
+	},
+	{
+		"id": "019",
+		"name": "Thanos"
+	},
+	{
+		"id": "020",
+		"name": "Adam Warlock"
+	},
+	{
+		"id": "021",
+		"name": "Gamora"
+	},
+	{
+		"id": "022",
+		"name": "Genis-Vell"
+	},
+	{
+		"id": "023",
+		"name": "Spider-Man"
+	},
+	{
+		"id": "024",
+		"name": "Doctor Strange"
+	},
+	{
+		"id": "025",
+		"name": "Moondragon"
+	},
+	{
+		"id": "026",
+		"name": "Ben Urich"
+	},
+	{
+		"id": "027",
+		"name": "Jessica Jones"
+	},
+	{
+		"id": "028",
+		"name": "X-Men"
+	},
+	{
+		"id": "029",
+		"name": "Beast"
+	},
+	{
+		"id": "030",
+		"name": "Cyclops"
+	},
+	{
+		"id": "031",
+		"name": "Emma Frost"
+	},
+	{
+		"id": "032",
+		"name": "Jean Grey"
+	},
+	{
+		"id": "033",
+		"name": "Wolverine"
+	},
+	{
+		"id": "034",
+		"name": "Charles Xavier"
+	},
+	{
+		"id": "035",
+		"name": "Fantastic Four"
+	},
+	{
+		"id": "036",
+		"name": "Reed Richards"
+	},
+	{
+		"id": "037",
+		"name": "Sue Storm"
+	},
+	{
+		"id": "038",
+		"name": "Human Torch"
+	},
+	{
+		"id": "039",
+		"name": "Thing"
+	},
+	{
+		"id": "040",
+		"name": "Doctor Doom"
+	},
+	{
+		"id": "041",
+		"name": "Norman Osborn"
+	},
+	{
+		"id": "042",
+		"name": "Morlun"
+	},
+	{
+		"id": "043",
+		"name": "Eddie Brock"
+	},
+	{
+		"id": "044",
+		"name": "Otto Octavius"
+	},
+	{
+		"id": "045",
+		"name": "Runaways"
+	},
+	{
+		"id": "046",
+		"name": "She-Hulk"
+	},
+	{
+		"id": "047",
+		"name": "Rogue"
+	},
+	{
+		"id": "048",
+		"name": "Gambit"
+	},
+	{
+		"id": "049",
+		"name": "Mystique"
+	},
+	{
+		"id": "050",
+		"name": "Hulk"
+	},
+	{
+		"id": "051",
+		"name": "Namor"
+	},
+	{
+		"id": "052",
+		"name": "Kitty Pryde"
+	},
+	{
+		"id": "053",
+		"name": "Colossus"
+	},
+	{
+		"id": "054",
+		"name": "Black Cat"
+	},
+	{
+		"id": "055",
+		"name": "Iron Man"
+	},
+	{
+		"id": "056",
+		"name": "Steve Rogers"
+	},
+	{
+		"id": "057",
+		"name": "Sam Wilson"
+	},
+	{
+		"id": "058",
+		"name": "Scarlet Witch"
+	},
+	{
+		"id": "059",
+		"name": "Avengers"
+	},
+	{
+		"id": "060",
+		"name": "Scott Lang"
+	},
+	{
+		"id": "061",
+		"name": "Hawkeye"
+	},
+	{
+		"id": "062",
+		"name": "Vision"
+	},
+	{
+		"id": "063",
+		"name": "Wasp"
+	},
+	{
+		"id": "064",
+		"name": "Hank Pym"
+	},
+	{
+		"id": "065",
+		"name": "Carol Danvers"
+	},
+	{
+		"id": "066",
+		"name": "Wonder Man"
+	},
+	{
+		"id": "067",
+		"name": "Sharon Carter"
+	},
+	{
+		"id": "068",
+		"name": "Galactus"
+	},
+	{
+		"id": "069",
+		"name": "Bishop"
+	},
+	{
+		"id": "070",
+		"name": "Rachel Grey"
+	},
+	{
+		"id": "071",
+		"name": "Nightcrawler"
+	},
+	{
+		"id": "072",
+		"name": "Storm"
+	},
+	{
+		"id": "073",
+		"name": "X-23"
+	},
+	{
+		"id": "074",
+		"name": "X-Factor"
+	},
+	{
+		"id": "075",
+		"name": "Madrox"
+	},
+	{
+		"id": "076",
+		"name": "Strong Guy"
+	},
+	{
+		"id": "077",
+		"name": "Wolfsbane"
+	},
+	{
+		"id": "078",
+		"name": "Star-Lord"
+	},
+	{
+		"id": "079",
+		"name": "Young Avengers"
+	},
+	{
+		"id": "080",
+		"name": "Hulkling"
+	},
+	{
+		"id": "081",
+		"name": "Patriot"
+	},
+	{
+		"id": "082",
+		"name": "Wiccan"
+	},
+	{
+		"id": "083",
+		"name": "Kate Bishop"
+	},
+	{
+		"id": "084",
+		"name": "Cassie Lang"
+	},
+	{
+		"id": "085",
+		"name": "Anya Corazon"
+	},
+	{
+		"id": "086",
+		"name": "Cable"
+	},
+	{
+		"id": "087",
+		"name": "Deadpool"
+	},
+	{
+		"id": "088",
+		"name": "Bullseye"
+	},
+	{
+		"id": "089",
+		"name": "Bucky Barnes"
+	},
+	{
+		"id": "090",
+		"name": "Nick Fury"
+	},
+	{
+		"id": "091",
+		"name": "Quake"
+	},
+	{
+		"id": "092",
+		"name": "Maria Hill"
+	},
+	{
+		"id": "093",
+		"name": "Spider-Woman"
+	},
+	{
+		"id": "094",
+		"name": "Black Panther"
+	},
+	{
+		"id": "095",
+		"name": "Great Lakes Avengers"
+	},
+	{
+		"id": "096",
+		"name": "Squirrel Girl"
+	},
+	{
+		"id": "097",
+		"name": "Speedball"
+	},
+	{
+		"id": "098",
+		"name": "Psylocke"
+	},
+	{
+		"id": "099",
+		"name": "Angel"
+	},
+	{
+		"id": "100",
+		"name": "Beta Ray Bill"
+	},
+	{
+		"id": "101",
+		"name": "Elektra"
+	},
+	{
+		"id": "102",
+		"name": "Carmilla Black"
+	},
+	{
+		"id": "103",
+		"name": "Amadeus Cho"
+	},
+	{
+		"id": "104",
+		"name": "Iceman"
+	},
+	{
+		"id": "105",
+		"name": "Polaris"
+	},
+	{
+		"id": "106",
+		"name": "Havok"
+	},
+	{
+		"id": "107",
+		"name": "Thunderbolts"
+	},
+	{
+		"id": "108",
+		"name": "Songbird"
+	},
+	{
+		"id": "109",
+		"name": "Magneto"
+	},
+	{
+		"id": "110",
+		"name": "Quicksilver"
+	},
+	{
+		"id": "111",
+		"name": "Layla Miller"
+	},
+	{
+		"id": "112",
+		"name": "Iron Fist"
+	},
+	{
+		"id": "113",
+		"name": "Misty Knight"
+	},
+	{
+		"id": "114",
+		"name": "Masters of Evil"
+	},
+	{
+		"id": "115",
+		"name": "War Machine"
+	},
+	{
+		"id": "116",
+		"name": "Siryn"
+	},
+	{
+		"id": "117",
+		"name": "Rictor"
+	},
+	{
+		"id": "118",
+		"name": "Monet"
+	},
+	{
+		"id": "119",
+		"name": "Vulcan"
+	},
+	{
+		"id": "120",
+		"name": "Ares"
+	},
+	{
+		"id": "121",
+		"name": "Hercules"
+	},
+	{
+		"id": "122",
+		"name": "Phobos"
+	},
+	{
+		"id": "123",
+		"name": "Drax"
+	},
+	{
+		"id": "124",
+		"name": "Toxin"
+	},
+	{
+		"id": "125",
+		"name": "Daken"
+	},
+	{
+		"id": "126",
+		"name": "New Warriors"
+	},
+	{
+		"id": "127",
+		"name": "Nova"
+	},
+	{
+		"id": "128",
+		"name": "Apocalypse"
+	},
+	{
+		"id": "129",
+		"name": "Ronan"
+	},
+	{
+		"id": "130",
+		"name": "Silver Surfer"
+	},
+	{
+		"id": "131",
+		"name": "Super-Skrull"
+	},
+	{
+		"id": "132",
+		"name": "Quasar"
+	},
+	{
+		"id": "133",
+		"name": "Phyla-Vell"
+	},
+	{
+		"id": "134",
+		"name": "Colleen Wing"
+	},
+	{
+		"id": "135",
+		"name": "Mar-Vell"
+	},
+	{
+		"id": "136",
+		"name": "Kingpin"
+	},
+	{
+		"id": "137",
+		"name": "Alpha Flight"
+	},
+	{
+		"id": "138",
+		"name": "Mac Gargan"
+	},
+	{
+		"id": "139",
+		"name": "Eric O'Grady"
+	},
+	{
+		"id": "140",
+		"name": "Agents of Atlas"
+	},
+	{
+		"id": "141",
+		"name": "Spider-Girl"
+	},
+	{
+		"id": "142",
+		"name": "Gamma Corps"
+	},
+	{
+		"id": "143",
+		"name": "Damage Control"
+	},
+	{
+		"id": "144",
+		"name": "Red Hulk"
+	},
+	{
+		"id": "145",
+		"name": "X-Force"
+	},
+	{
+		"id": "146",
+		"name": "Hope Summers"
+	},
+	{
+		"id": "147",
+		"name": "Rocket Racoon"
+	},
+	{
+		"id": "148",
+		"name": "Guardians of the Galaxy"
+	},
+	{
+		"id": "149",
+		"name": "Groot"
+	},
+	{
+		"id": "150",
+		"name": "Cosmo"
+	},
+	{
+		"id": "151",
+		"name": "Skaar"
+	},
+	{
+		"id": "152",
+		"name": "Invaders"
+	},
+	{
+		"id": "153",
+		"name": "Marvel Boy"
+	},
+	{
+		"id": "154",
+		"name": "Mockingbird"
+	},
+	{
+		"id": "155",
+		"name": "Secret Warriors"
+	},
+	{
+		"id": "156",
+		"name": "Hood"
+	},
+	{
+		"id": "157",
+		"name": "Captain Britain"
+	},
+	{
+		"id": "158",
+		"name": "Darkhawk"
+	},
+	{
+		"id": "159",
+		"name": "Old Man Logan"
+	},
+	{
+		"id": "160",
+		"name": "Skrull Kill Krew"
+	},
+	{
+		"id": "161",
+		"name": ""
+	},
+	{
+		"id": "162",
+		"name": "Lyra"
+	}
+]

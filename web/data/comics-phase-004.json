@@ -9,26 +9,86 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"X-Men",
-			"Avengers",
-			"Magneto",
-			"Quicksilver",
-			"Scarlet Witch",
-			"Wolverine",
-			"Carol Danvers",
-			"Cyclops",
-			"Emma Frost",
-			"Spider-Man",
-			"Beast",
-			"Kitty Pride",
-			"Colossus",
-			"Steve Rogers",
-			"Iron Man",
-			"Luke Cage",
-			"Sentry",
-			"Spider-Woman",
-			"Hawkeye",
-			"Layla Miller"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "052",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -54,26 +114,86 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"X-Men",
-			"Avengers",
-			"Magneto",
-			"Quicksilver",
-			"Scarlet Witch",
-			"Wolverine",
-			"Carol Danvers",
-			"Cyclops",
-			"Emma Frost",
-			"Spider-Man",
-			"Beast",
-			"Kitty Pride",
-			"Colossus",
-			"Steve Rogers",
-			"Iron Man",
-			"Luke Cage",
-			"Sentry",
-			"Spider-Woman",
-			"Hawkeye",
-			"Layla Miller"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "052",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -96,26 +216,86 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"X-Men",
-			"Avengers",
-			"Magneto",
-			"Quicksilver",
-			"Scarlet Witch",
-			"Wolverine",
-			"Carol Danvers",
-			"Cyclops",
-			"Emma Frost",
-			"Spider-Man",
-			"Beast",
-			"Kitty Pride",
-			"Colossus",
-			"Steve Rogers",
-			"Iron Man",
-			"Luke Cage",
-			"Sentry",
-			"Spider-Woman",
-			"Hawkeye",
-			"Layla Miller"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "052",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -138,26 +318,86 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"X-Men",
-			"Avengers",
-			"Magneto",
-			"Quicksilver",
-			"Scarlet Witch",
-			"Wolverine",
-			"Carol Danvers",
-			"Cyclops",
-			"Emma Frost",
-			"Spider-Man",
-			"Beast",
-			"Kitty Pride",
-			"Colossus",
-			"Steve Rogers",
-			"Iron Man",
-			"Luke Cage",
-			"Sentry",
-			"Spider-Woman",
-			"Hawkeye",
-			"Layla Miller"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "052",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -180,26 +420,86 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"X-Men",
-			"Avengers",
-			"Magneto",
-			"Quicksilver",
-			"Scarlet Witch",
-			"Wolverine",
-			"Carol Danvers",
-			"Cyclops",
-			"Emma Frost",
-			"Spider-Man",
-			"Beast",
-			"Kitty Pride",
-			"Colossus",
-			"Steve Rogers",
-			"Iron Man",
-			"Luke Cage",
-			"Sentry",
-			"Spider-Woman",
-			"Hawkeye",
-			"Layla Miller"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "052",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -222,26 +522,86 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"X-Men",
-			"Avengers",
-			"Magneto",
-			"Quicksilver",
-			"Scarlet Witch",
-			"Wolverine",
-			"Carol Danvers",
-			"Cyclops",
-			"Emma Frost",
-			"Spider-Man",
-			"Beast",
-			"Kitty Pride",
-			"Colossus",
-			"Steve Rogers",
-			"Iron Man",
-			"Luke Cage",
-			"Sentry",
-			"Spider-Woman",
-			"Hawkeye",
-			"Layla Miller"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "052",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -264,26 +624,86 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"X-Men",
-			"Avengers",
-			"Magneto",
-			"Quicksilver",
-			"Scarlet Witch",
-			"Wolverine",
-			"Carol Danvers",
-			"Cyclops",
-			"Emma Frost",
-			"Spider-Man",
-			"Beast",
-			"Kitty Pride",
-			"Colossus",
-			"Steve Rogers",
-			"Iron Man",
-			"Luke Cage",
-			"Sentry",
-			"Spider-Woman",
-			"Hawkeye",
-			"Layla Miller"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "052",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -306,26 +726,86 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"X-Men",
-			"Avengers",
-			"Magneto",
-			"Quicksilver",
-			"Scarlet Witch",
-			"Wolverine",
-			"Carol Danvers",
-			"Cyclops",
-			"Emma Frost",
-			"Spider-Man",
-			"Beast",
-			"Kitty Pride",
-			"Colossus",
-			"Steve Rogers",
-			"Iron Man",
-			"Luke Cage",
-			"Sentry",
-			"Spider-Woman",
-			"Hawkeye",
-			"Layla Miller"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "052",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "013",
+				"name": "Sentry"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -348,7 +828,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Fantastic Four"
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			}
 		],
 		"creators": [
 			"John Layman",
@@ -370,7 +853,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Fantastic Four"
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			}
 		],
 		"creators": [
 			"John Layman",
@@ -392,7 +878,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Fantastic Four"
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			}
 		],
 		"creators": [
 			"John Layman",
@@ -414,7 +903,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Mark Waid",
@@ -436,7 +928,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Mark Waid",
@@ -458,7 +953,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Mark Waid",
@@ -480,7 +978,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Mark Waid",
@@ -502,7 +1003,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Mark Waid",
@@ -524,7 +1028,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Iron Man"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"Greg Pak",
@@ -546,7 +1053,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Iron Man"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"Greg Pak",
@@ -568,7 +1078,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Iron Man"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"Greg Pak",
@@ -590,7 +1103,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Hulk"
+			{
+				"id": "050",
+				"name": "Hulk"
+			}
 		],
 		"creators": [
 			"Peter David",
@@ -612,7 +1128,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Hulk"
+			{
+				"id": "050",
+				"name": "Hulk"
+			}
 		],
 		"creators": [
 			"Peter David",
@@ -634,7 +1153,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Hulk"
+			{
+				"id": "050",
+				"name": "Hulk"
+			}
 		],
 		"creators": [
 			"Peter David",
@@ -656,7 +1178,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Hulk"
+			{
+				"id": "050",
+				"name": "Hulk"
+			}
 		],
 		"creators": [
 			"Peter David",
@@ -678,7 +1203,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Hulk"
+			{
+				"id": "050",
+				"name": "Hulk"
+			}
 		],
 		"creators": [
 			"Peter David",
@@ -700,7 +1228,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Bishop"
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
 		],
 		"creators": [
 			"David Hine",
@@ -722,7 +1253,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Bishop"
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
 		],
 		"creators": [
 			"David Hine",
@@ -744,7 +1278,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Bishop"
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
 		],
 		"creators": [
 			"David Hine",
@@ -766,7 +1303,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Bishop"
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
 		],
 		"creators": [
 			"David Hine",
@@ -788,7 +1328,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Bishop"
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
 		],
 		"creators": [
 			"David Hine",
@@ -810,8 +1353,14 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Ben Urich",
-			"Hawkeye"
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -834,7 +1383,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Black Panther"
+			{
+				"id": "094",
+				"name": "Black Panther"
+			}
 		],
 		"creators": [
 			"Reginald Hudlin",
@@ -856,7 +1408,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Steve Rogers"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			}
 		],
 		"creators": [
 			"Ed Brubaker",
@@ -878,7 +1433,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Wolverine"
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
 		],
 		"creators": [
 			"Daniel Way",
@@ -900,7 +1458,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Wolverine"
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
 		],
 		"creators": [
 			"Daniel Way",
@@ -922,7 +1483,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"Wolverine"
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
 		],
 		"creators": [
 			"Daniel Way",
@@ -944,9 +1508,18 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"X-Men",
-			"Rachel Grey",
-			"Psylocke"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "070",
+				"name": "Rachel Grey"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			}
 		],
 		"creators": [
 			"Chris Claremont",
@@ -968,9 +1541,18 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"X-Men",
-			"Rachel Grey",
-			"Psylocke"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "070",
+				"name": "Rachel Grey"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			}
 		],
 		"creators": [
 			"Chris Claremont",
@@ -992,9 +1574,18 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"X-Men",
-			"Rachel Grey",
-			"Psylocke"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "070",
+				"name": "Rachel Grey"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			}
 		],
 		"creators": [
 			"Chris Claremont",
@@ -1016,9 +1607,18 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"X-Men",
-			"Rachel Grey",
-			"Psylocke"
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "070",
+				"name": "Rachel Grey"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			}
 		],
 		"creators": [
 			"Chris Claremont",
@@ -1040,7 +1640,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"X-Men"
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
 		],
 		"creators": [
 			"Christina Weir",
@@ -1062,7 +1665,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"X-Men"
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
 		],
 		"creators": [
 			"Christina Weir",
@@ -1084,7 +1690,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"X-Men"
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
 		],
 		"creators": [
 			"Christina Weir",
@@ -1106,7 +1715,10 @@
 		"event": "House of M",
 		"eventid": "003",
 		"characters": [
-			"X-Men"
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
 		],
 		"creators": [
 			"Christina Weir",
@@ -1126,7 +1738,10 @@
 		"num": 1,
 		"date": "2006-02-15",
 		"characters": [
-			"Carol Danvers"
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			}
 		],
 		"creators": [
 			"Brian Reed",
@@ -1149,14 +1764,34 @@
 		"num": 1,
 		"date": "2007-11-14",
 		"characters": [
-			"Hawkeye",
-			"Iron Fist",
-			"Luke Cage",
-			"Misty Knight",
-			"Tigra",
-			"Moon Knight",
-			"Black Cat",
-			"Cloak"
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "054",
+				"name": "Black Cat"
+			},
+			{
+				"id": "007",
+				"name": "Cloak"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -1179,14 +1814,34 @@
 		"num": 2,
 		"date": "2007-12-05",
 		"characters": [
-			"Hawkeye",
-			"Iron Fist",
-			"Luke Cage",
-			"Misty Knight",
-			"Tigra",
-			"Moon Knight",
-			"Black Cat",
-			"Cloak"
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "054",
+				"name": "Black Cat"
+			},
+			{
+				"id": "007",
+				"name": "Cloak"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -1206,14 +1861,34 @@
 		"num": 3,
 		"date": "2007-12-28",
 		"characters": [
-			"Hawkeye",
-			"Iron Fist",
-			"Luke Cage",
-			"Misty Knight",
-			"Tigra",
-			"Moon Knight",
-			"Black Cat",
-			"Cloak"
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "054",
+				"name": "Black Cat"
+			},
+			{
+				"id": "007",
+				"name": "Cloak"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -1233,14 +1908,34 @@
 		"num": 4,
 		"date": "2008-01-30",
 		"characters": [
-			"Hawkeye",
-			"Iron Fist",
-			"Luke Cage",
-			"Misty Knight",
-			"Tigra",
-			"Moon Knight",
-			"Black Cat",
-			"Cloak"
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "054",
+				"name": "Black Cat"
+			},
+			{
+				"id": "007",
+				"name": "Cloak"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -1260,14 +1955,34 @@
 		"num": 5,
 		"date": "2008-02-27",
 		"characters": [
-			"Hawkeye",
-			"Iron Fist",
-			"Luke Cage",
-			"Misty Knight",
-			"Tigra",
-			"Moon Knight",
-			"Black Cat",
-			"Cloak"
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "054",
+				"name": "Black Cat"
+			},
+			{
+				"id": "007",
+				"name": "Cloak"
+			}
 		],
 		"creators": [
 			""
@@ -1286,7 +2001,10 @@
 		"num": 1,
 		"date": "2009-08-05",
 		"characters": [
-			"Masters of Evil"
+			{
+				"id": "114",
+				"name": "Masters of Evil"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -1310,7 +2028,10 @@
 		"num": 2,
 		"date": "2009-09-02",
 		"characters": [
-			"Masters of Evil"
+			{
+				"id": "114",
+				"name": "Masters of Evil"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -1333,7 +2054,10 @@
 		"num": 3,
 		"date": "2009-10-07",
 		"characters": [
-			"Masters of Evil"
+			{
+				"id": "114",
+				"name": "Masters of Evil"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -1356,7 +2080,10 @@
 		"num": 4,
 		"date": "2009-11-04",
 		"characters": [
-			"Masters of Evil"
+			{
+				"id": "114",
+				"name": "Masters of Evil"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -1379,9 +2106,18 @@
 		"num": 1,
 		"date": "2008-09-10",
 		"characters": [
-			"Magneto",
-			"Quicksilver",
-			"Scarlet Witch"
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -1404,9 +2140,18 @@
 		"num": 2,
 		"date": "2008-10-01",
 		"characters": [
-			"Magneto",
-			"Quicksilver",
-			"Scarlet Witch"
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -1426,9 +2171,18 @@
 		"num": 3,
 		"date": "2008-11-05",
 		"characters": [
-			"Magneto",
-			"Quicksilver",
-			"Scarlet Witch"
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -1448,9 +2202,18 @@
 		"num": 4,
 		"date": "2008-12-10",
 		"characters": [
-			"Magneto",
-			"Quicksilver",
-			"Scarlet Witch"
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -1470,9 +2233,18 @@
 		"num": 5,
 		"date": "2009-01-01",
 		"characters": [
-			"Magneto",
-			"Quicksilver",
-			"Scarlet Witch"
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			}
 		],
 		"creators": [
 			"Christos Gage",
@@ -1492,8 +2264,14 @@
 		"num": 13,
 		"date": "2005-03-16",
 		"characters": [
-			"Cable",
-			"Deadpool"
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -1516,8 +2294,14 @@
 		"num": 14,
 		"date": "2005-04-20",
 		"characters": [
-			"Cable",
-			"Deadpool"
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -1537,8 +2321,14 @@
 		"num": 15,
 		"date": "2005-05-18",
 		"characters": [
-			"Cable",
-			"Deadpool"
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -1558,8 +2348,14 @@
 		"num": 16,
 		"date": "2005-06-15",
 		"characters": [
-			"Cable",
-			"Deadpool"
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -1579,8 +2375,14 @@
 		"num": 17,
 		"date": "2005-07-20",
 		"characters": [
-			"Cable",
-			"Deadpool"
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -1600,8 +2402,14 @@
 		"num": 18,
 		"date": "2005-08-17",
 		"characters": [
-			"Cable",
-			"Deadpool"
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -1621,9 +2429,18 @@
 		"num": 7,
 		"date": "2005-04-13",
 		"characters": [
-			"Thunderbolts",
-			"Songbird",
-			"Genis-Vell"
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			},
+			{
+				"id": "022",
+				"name": "Genis-Vell"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -1646,9 +2463,18 @@
 		"num": 8,
 		"date": "2005-05-18",
 		"characters": [
-			"Thunderbolts",
-			"Songbird",
-			"Genis-Vell"
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			},
+			{
+				"id": "022",
+				"name": "Genis-Vell"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -1668,9 +2494,18 @@
 		"num": 9,
 		"date": "2005-06-08",
 		"characters": [
-			"Thunderbolts",
-			"Songbird",
-			"Genis-Vell"
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			},
+			{
+				"id": "022",
+				"name": "Genis-Vell"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -1690,9 +2525,18 @@
 		"num": 10,
 		"date": "2005-07-13",
 		"characters": [
-			"Thunderbolts",
-			"Songbird",
-			"Genis-Vell"
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			},
+			{
+				"id": "022",
+				"name": "Genis-Vell"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -1712,9 +2556,18 @@
 		"num": 11,
 		"date": "2005-08-10",
 		"characters": [
-			"Thunderbolts",
-			"Songbird",
-			"Genis-Vell"
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			},
+			{
+				"id": "022",
+				"name": "Genis-Vell"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",
@@ -1734,9 +2587,18 @@
 		"num": 12,
 		"date": "2005-09-14",
 		"characters": [
-			"Thunderbolts",
-			"Songbird",
-			"Genis-Vell"
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			},
+			{
+				"id": "022",
+				"name": "Genis-Vell"
+			}
 		],
 		"creators": [
 			"Fabian Nicieza",

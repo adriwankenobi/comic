@@ -30,7 +30,7 @@ func init() {
 		return
 	}
 
-	menu, err := service.GetMenu(j["phases"], j["events"])
+	menu, err := service.GetMenu(j["phases"], j["events"], j["characters"])
 	if err != nil {
 		return
 	}
@@ -89,6 +89,16 @@ func init() {
 	router.GET("/api/events/:id", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
 		return service.FindNamableByID(j["events"], p.ByName("id"))
 	}))
+	
+	// Get all characters
+	router.GET("/api/characters", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
+		return service.ListNamables(j["characters"])
+	}))
+
+	// Get this character
+	router.GET("/api/characters/:id", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
+		return service.FindNamableByID(j["characters"], p.ByName("id"))
+	}))
 
 	// WEB
 
@@ -122,6 +132,15 @@ func init() {
 			return "", err
 		}
 		return getEventsFissuesPage(menu, issues)
+	}))
+	
+	// Issues -> Get all first issues from this character
+	router.GET("/characters/:id", webHandle(func(p httprouter.Params) (string, error) {
+		issues, err := service.FindFirstIssuesByID(j["fissues-characters"], p.ByName("id"))
+		if err != nil {
+			return "", err
+		}
+		return getCharactersFissuesPage(menu, issues)
 	}))
 
 	// About

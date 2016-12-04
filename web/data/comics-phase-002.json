@@ -9,8 +9,14 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Thor",
-			"Loki"
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "016",
+				"name": "Loki"
+			}
 		],
 		"creators": [
 			"Mike Avon Oeming",
@@ -33,8 +39,14 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Thor",
-			"Loki"
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "016",
+				"name": "Loki"
+			}
 		],
 		"creators": [
 			"Mike Avon Oeming",
@@ -57,8 +69,14 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Thor",
-			"Loki"
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "016",
+				"name": "Loki"
+			}
 		],
 		"creators": [
 			"Mike Avon Oeming",
@@ -81,8 +99,14 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Thor",
-			"Loki"
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "016",
+				"name": "Loki"
+			}
 		],
 		"creators": [
 			"Mike Avon Oeming",
@@ -105,8 +129,14 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Thor",
-			"Loki"
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "016",
+				"name": "Loki"
+			}
 		],
 		"creators": [
 			"Mike Avon Oeming",
@@ -129,8 +159,14 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Thor",
-			"Loki"
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "016",
+				"name": "Loki"
+			}
 		],
 		"creators": [
 			"Mike Avon Oeming",
@@ -156,7 +192,10 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Iron Man"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"John Jackson Miller",
@@ -178,7 +217,10 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Iron Man"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"John Jackson Miller",
@@ -200,7 +242,10 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -222,7 +267,10 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -244,7 +292,10 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -266,7 +317,10 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -288,7 +342,10 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -310,7 +367,10 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Spider-Man"
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
 		],
 		"creators": [
 			"Paul Jenkins",
@@ -332,9 +392,18 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Steve Rogers",
-			"Sam Wilson",
-			"Scarlet Witch"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			}
 		],
 		"creators": [
 			"Christopher Priest",
@@ -356,9 +425,18 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Steve Rogers",
-			"Sam Wilson",
-			"Scarlet Witch"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			}
 		],
 		"creators": [
 			"Christopher Priest",
@@ -380,9 +458,18 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Steve Rogers",
-			"Sam Wilson",
-			"Scarlet Witch"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			}
 		],
 		"creators": [
 			"Christopher Priest",
@@ -404,19 +491,58 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Avengers",
-			"Scott Lang",
-			"Steve Rogers",
-			"Sam Wilson",
-			"Hawkeye",
-			"Scarlet Witch",
-			"She-Hulk",
-			"Vision",
-			"Wasp",
-			"Hank Pym",
-			"Iron Man",
-			"Carol Danvers",
-			"Wonder Man"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "060",
+				"name": "Scott Lang"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "062",
+				"name": "Vision"
+			},
+			{
+				"id": "063",
+				"name": "Wasp"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -442,19 +568,58 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Avengers",
-			"Scott Lang",
-			"Steve Rogers",
-			"Sam Wilson",
-			"Hawkeye",
-			"Scarlet Witch",
-			"She-Hulk",
-			"Vision",
-			"Wasp",
-			"Hank Pym",
-			"Iron Man",
-			"Carol Danvers",
-			"Wonder Man"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "060",
+				"name": "Scott Lang"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "062",
+				"name": "Vision"
+			},
+			{
+				"id": "063",
+				"name": "Wasp"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -477,19 +642,58 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Avengers",
-			"Scott Lang",
-			"Steve Rogers",
-			"Sam Wilson",
-			"Hawkeye",
-			"Scarlet Witch",
-			"She-Hulk",
-			"Vision",
-			"Wasp",
-			"Hank Pym",
-			"Iron Man",
-			"Carol Danvers",
-			"Wonder Man"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "060",
+				"name": "Scott Lang"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "062",
+				"name": "Vision"
+			},
+			{
+				"id": "063",
+				"name": "Wasp"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -512,19 +716,58 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Avengers",
-			"Scott Lang",
-			"Steve Rogers",
-			"Sam Wilson",
-			"Hawkeye",
-			"Scarlet Witch",
-			"She-Hulk",
-			"Vision",
-			"Wasp",
-			"Hank Pym",
-			"Iron Man",
-			"Carol Danvers",
-			"Wonder Man"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "060",
+				"name": "Scott Lang"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "062",
+				"name": "Vision"
+			},
+			{
+				"id": "063",
+				"name": "Wasp"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -547,19 +790,58 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Avengers",
-			"Scott Lang",
-			"Steve Rogers",
-			"Sam Wilson",
-			"Hawkeye",
-			"Scarlet Witch",
-			"She-Hulk",
-			"Vision",
-			"Wasp",
-			"Hank Pym",
-			"Iron Man",
-			"Carol Danvers",
-			"Wonder Man"
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "060",
+				"name": "Scott Lang"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "057",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "058",
+				"name": "Scarlet Witch"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "062",
+				"name": "Vision"
+			},
+			{
+				"id": "063",
+				"name": "Wasp"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			},
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			}
 		],
 		"creators": [
 			"Brian Michael Bendis",
@@ -585,8 +867,14 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Captain America",
-			"Sharon Carter"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			}
 		],
 		"creators": [
 			"Robert Kirkman",
@@ -608,8 +896,14 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Captain America",
-			"Sharon Carter"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			}
 		],
 		"creators": [
 			"Robert Kirkman",
@@ -631,8 +925,14 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Captain America",
-			"Sharon Carter"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			}
 		],
 		"creators": [
 			"Robert Kirkman",
@@ -654,8 +954,14 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Captain America",
-			"Sharon Carter"
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			}
 		],
 		"creators": [
 			"Robert Kirkman",
@@ -677,7 +983,10 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Iron Man"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"Mark Ricketts",
@@ -699,7 +1008,10 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Iron Man"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"Mark Ricketts",
@@ -721,7 +1033,10 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Iron Man"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"Mark Ricketts",
@@ -743,7 +1058,10 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Iron Man"
+			{
+				"id": "055",
+				"name": "Iron Man"
+			}
 		],
 		"creators": [
 			"Mark Ricketts",
@@ -765,11 +1083,26 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing"
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
 		],
 		"creators": [
 			"Mark Waid",
@@ -791,11 +1124,26 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing"
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
 		],
 		"creators": [
 			"Mark Waid",
@@ -817,12 +1165,30 @@
 		"event": "Avengers Dissasembled",
 		"eventid": "001",
 		"characters": [
-			"Fantastic Four",
-			"Reed Richards",
-			"Sue Storm",
-			"Human Torch",
-			"Thing",
-			"Galactus"
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "068",
+				"name": "Galactus"
+			}
 		],
 		"creators": [
 			"Mark Waid",

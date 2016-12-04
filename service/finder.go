@@ -2,16 +2,18 @@ package service
 
 import (
 	"github.com/elgs/jsonql"
+	"sort"
 )
 
 // Menu
 type Menu struct {
 	Phases *NamableList
 	Events *NamableList
+	Characters *NamableList
 }
 
 // Get menu
-func GetMenu(phases *jsonql.JSONQL, events *jsonql.JSONQL) (Menu, error) {
+func GetMenu(phases *jsonql.JSONQL, events *jsonql.JSONQL, characters *jsonql.JSONQL) (Menu, error) {
 	m := Menu{}
 	phaseList, err := ListNamables(phases)
 	if err != nil {
@@ -23,6 +25,12 @@ func GetMenu(phases *jsonql.JSONQL, events *jsonql.JSONQL) (Menu, error) {
 		return m, err
 	}
 	m.Events = eventList
+	charsList, err := ListNamables(characters)
+	if err != nil {
+		return m, err
+	}
+	sort.Sort(ByName(*charsList))
+	m.Characters = charsList
 	return m, nil
 }
 
