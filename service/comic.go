@@ -181,6 +181,13 @@ func JsonGenerator(path, out string) error {
 						SortID:     sID,
 						PhaseID:    p.ID,
 						Characters: NamableList{c.Characters[0]},
+						ComicList: []Comic{
+							Comic{
+								Collection: c.Collection,
+								Vol:        c.Vol,
+								Num:        c.Num,
+							},
+						},
 					}
 					iPhases.List = append(iPhases.List, co)
 					if event != "" {
@@ -189,6 +196,75 @@ func JsonGenerator(path, out string) error {
 					}
 					for _, ch := range c.Characters {
 						*(charsComics[ch.ID]) = append(*(charsComics[ch.ID]), co)
+					}
+				} else {
+					co := Comic{
+						Collection: c.Collection,
+						Vol:        c.Vol,
+						Num:        c.Num,
+					}
+					last := iPhases.List[len(iPhases.List)-1]
+					last.ComicList = append(last.ComicList, co)
+					iPhases.List[len(iPhases.List)-1] = last
+					if event != "" {
+						eventC := *(eventsComics[c.EventID])
+						last := eventC[len(eventC)-1]
+						last.ComicList = append(last.ComicList, co)
+						eventC[len(eventC)-1] = last
+					}
+					for _, ch := range c.Characters {
+						charC := *(charsComics[ch.ID])
+						if len(charC) <= 0 {
+							sID, err := getCode(sortID)
+							if err != nil {
+								return err
+							}
+							tmp := Comic{
+								Pic:        pic,
+								Title:      title,
+								Date:       date,
+								SortID:     sID,
+								PhaseID:    p.ID,
+								Characters: NamableList{c.Characters[0]},
+								ComicList: []Comic{
+									Comic{
+										Collection: c.Collection,
+										Vol:        c.Vol,
+										Num:        c.Num,
+									},
+								},
+							}
+							charC = append(charC, tmp)
+							charsComics[ch.ID] = &charC
+						} else {
+							last := charC[len(charC)-1]
+							if last.Title != title {
+								sID, err := getCode(sortID)
+								if err != nil {
+									return err
+								}
+								tmp := Comic{
+									Pic:        pic,
+									Title:      title,
+									Date:       date,
+									SortID:     sID,
+									PhaseID:    p.ID,
+									Characters: NamableList{c.Characters[0]},
+									ComicList: []Comic{
+										Comic{
+											Collection: c.Collection,
+											Vol:        c.Vol,
+											Num:        c.Num,
+										},
+									},
+								}
+								charC = append(charC, tmp)
+								charsComics[ch.ID] = &charC
+							} else {
+								last.ComicList = append(last.ComicList, co)
+								charC[len(charC)-1] = last
+							}
+						}
 					}
 				}
 				c.SortID, err = getCode(sortID)

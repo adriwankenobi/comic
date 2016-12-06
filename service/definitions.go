@@ -53,6 +53,7 @@ type Comic struct {
 	PhaseID    string      `json:"phaseid,omitempty"`    // From XLSX: Generated based on sheet position
 	PhaseName  string      `json:"phasename,omitempty"`  // From XLSX: Generated based on sheet name
 	SortID     string      `json:"sortid,omitempty"`     // From XLSX: Generated based on row position
+	ComicList  ComicList   `json:"comiclist,omitempty"`  // Null: Used only in Fissues
 }
 type ComicList []Comic
 
@@ -184,6 +185,13 @@ func NewComic(in interface{}) (Comic, error) {
 			break
 		case "sortid":
 			c.SortID = e.(string)
+			break
+		case "comiclist":
+			list, err := NewComicList(e)
+			if err != nil {
+				return c, err
+			}
+			c.ComicList = *list
 			break
 		default:
 			return c, fmt.Errorf("Unknown field: %v", i)

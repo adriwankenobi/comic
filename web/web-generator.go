@@ -3,6 +3,7 @@ package web
 import (
 	"fmt"
 	"github.com/adriwankenobi/comic/service"
+	"sort"
 	"strings"
 )
 
@@ -89,7 +90,48 @@ func getFissuesPage(menu service.Menu, fissues *service.Fissues, activeTab int) 
 	phaseID := fissues.Namable.ID
 	issuesContent := ""
 	for _, i := range issues {
-		conIssue := fmt.Sprintf(c["content-fissue"], i.PhaseID, i.SortID, i.Pic, i.Title, i.Date[:4], i.Characters[0].ID, i.Characters[0].Name, phaseID, i.SortID, i.Title)
+		comicList := ""
+		l := []string{}
+		m := map[string][]int{}
+		for _, e := range i.ComicList {
+			name := fmt.Sprintf("%s vol. %v", e.Collection, e.Vol)
+			_, exists := m[name]
+			if !exists {
+				l = append(l, name)
+				m[name] = []int{}
+			}
+			found := false
+			for _, n := range m[name] {
+				if e.Num == n {
+					found = true
+					break
+				}
+			}
+			if !found {
+				m[name] = append(m[name], e.Num)
+			}
+		}
+		for _, k := range l {
+			v := m[k]
+			sort.Ints(v)
+			name := fmt.Sprintf("%s #%v", k, v[0])
+			if len(v) > 1 {
+				for i := 1; i < len(v); i++ {
+					if v[i] != v[i-1]+1 {
+						name = fmt.Sprintf("%s - #%v", name, v[i-1])
+						h6 := fmt.Sprintf(c["h6"], name)
+						comicList = fmt.Sprintf("%s%s", comicList, h6)
+						name = fmt.Sprintf("%s #%v", k, v[i])
+					}
+				}
+				name = fmt.Sprintf("%s - #%v", name, v[len(v)-1])
+			}
+			h6 := fmt.Sprintf(c["h6"], name)
+			comicList = fmt.Sprintf("%s%s", comicList, h6)
+		}
+
+		conIssue := fmt.Sprintf(c["content-fissue"], i.PhaseID, i.SortID, i.Pic, i.Title, i.Date[:4],
+			i.Characters[0].ID, i.Characters[0].Name, phaseID, i.SortID, i.Title, comicList)
 		issuesContent = fmt.Sprintf("%s%s", issuesContent, conIssue)
 	}
 	content := fmt.Sprintf(c["content"], fissues.Namable.Name, issuesContent)
