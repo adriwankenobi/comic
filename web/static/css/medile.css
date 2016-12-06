@@ -228,16 +228,6 @@ ul.w3l-ratings li i ,.w3l-ratings a i{
     color: #ff8d1b;
 }
 /*---browse-grid-----*/
-.w3l-movie-gride-agile-big {
-      text-align: center;
-    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.35);
-    margin-right: 0%;
-    margin-bottom:3%;
-    position: relative;
-    padding-left: 0;
-    height: 425px;
-}
-
 .w3l-movie-gride-agile {
       text-align: center;
     box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.35);
