@@ -70,6 +70,9 @@ handlers:
 - url: /characters.*
   script: _go_app
   
+- url: /creators.*
+  script: _go_app
+  
 - url: /phases.*
   script: _go_app
   

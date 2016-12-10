@@ -35,8 +35,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Jim Cheung"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "105",
+				"name": "Jim Cheung"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/570e6223be57c.jpg",
 		"universe": "Earth-616",
@@ -84,8 +90,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Jim Cheung"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "105",
+				"name": "Jim Cheung"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/570e66a49ca66.jpg",
 		"universe": "Earth-616",
@@ -130,8 +142,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Jim Cheung"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "105",
+				"name": "Jim Cheung"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/570e66638cb8d.jpg",
 		"universe": "Earth-616",
@@ -176,8 +194,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Jim Cheung"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "105",
+				"name": "Jim Cheung"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/570e66cbea8a3.jpg",
 		"universe": "Earth-616",
@@ -222,8 +246,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Jim Cheung"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "105",
+				"name": "Jim Cheung"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/570e6712c9775.jpg",
 		"universe": "Earth-616",
@@ -276,8 +306,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Michael Gaydos"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "021",
+				"name": "Michael Gaydos"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/c0/4f7efa69e8864.jpg",
 		"universe": "Earth-616",
@@ -314,8 +350,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"David Mack"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "005",
+				"name": "David Mack"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/4f7ef9ecf3f6d.jpg",
 		"universe": "Earth-616",
@@ -340,8 +382,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Lee Weeks"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "134",
+				"name": "Lee Weeks"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/57e55371da372.jpg",
 		"universe": "Earth-616",
@@ -365,8 +413,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Lee Weeks"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "134",
+				"name": "Lee Weeks"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/57e5686f8b127.jpg",
 		"universe": "Earth-616",
@@ -390,8 +444,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Lee Weeks"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "134",
+				"name": "Lee Weeks"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/a0/57e568ae94f8d.jpg",
 		"universe": "Earth-616",
@@ -415,8 +475,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Lee Weeks"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "134",
+				"name": "Lee Weeks"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/57e55de4eb6a9.jpg",
 		"universe": "Earth-616",
@@ -440,8 +506,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Lee Weeks"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "134",
+				"name": "Lee Weeks"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/57e568c1cb119.jpg",
 		"universe": "Earth-616",
@@ -465,8 +537,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Adriana Melo"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "033",
+				"name": "Adriana Melo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5152058ae4fe6.jpg",
 		"universe": "Earth-616",
@@ -490,8 +568,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Adriana Melo"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "033",
+				"name": "Adriana Melo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/51520599e90b6.jpg",
 		"universe": "Earth-616",
@@ -519,8 +603,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Andre Coelho"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "302",
+				"name": "Andre Coelho"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/515205a815e09.jpg",
 		"universe": "Earth-616",
@@ -548,8 +638,14 @@
 			}
 		],
 		"creators": [
-			"Greg Pak",
-			"Rafa Sandoval"
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "251",
+				"name": "Rafa Sandoval"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/5152046570580.jpg",
 		"universe": "Earth-616",
@@ -577,8 +673,14 @@
 			}
 		],
 		"creators": [
-			"John Rhett Thomas",
-			"Leinil Yu"
+			{
+				"id": "303",
+				"name": "John Rhett Thomas"
+			},
+			{
+				"id": "025",
+				"name": "Leinil Yu"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4bb7ca409a1f5.jpg",
 		"universe": "Earth-616",
@@ -771,8 +873,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Leinil Yu"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "025",
+				"name": "Leinil Yu"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5151efbb93d76.jpg",
 		"universe": "Earth-616",
@@ -821,8 +929,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Alex Maleev"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "020",
+				"name": "Alex Maleev"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4d24eb19eb913.jpg",
 		"universe": "Earth-616",
@@ -847,8 +961,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Jim Cheung"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "105",
+				"name": "Jim Cheung"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/4f7ef9839290a.jpg",
 		"universe": "Earth-616",
@@ -1041,8 +1161,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Leinil Yu"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "025",
+				"name": "Leinil Yu"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/5151efc9dd24e.jpg",
 		"universe": "Earth-616",
@@ -1083,8 +1209,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Alex Maleev"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "020",
+				"name": "Alex Maleev"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4d250a9cc2fe6.jpg",
 		"universe": "Earth-616",
@@ -1112,8 +1244,14 @@
 			}
 		],
 		"creators": [
-			"Paul Cornell",
-			"Leonard Kirk"
+			{
+				"id": "225",
+				"name": "Paul Cornell"
+			},
+			{
+				"id": "133",
+				"name": "Leonard Kirk"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4d25162da13e4.jpg",
 		"universe": "Earth-616",
@@ -1153,8 +1291,14 @@
 			}
 		],
 		"creators": [
-			"Roberto Aguirre-Sacasa",
-			"Barry Kitson"
+			{
+				"id": "069",
+				"name": "Roberto Aguirre-Sacasa"
+			},
+			{
+				"id": "286",
+				"name": "Barry Kitson"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c3660da6602b.jpg",
 		"universe": "Earth-616",
@@ -1182,8 +1326,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Khoi Pham"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "241",
+				"name": "Khoi Pham"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4d251a5d20343.jpg",
 		"universe": "Earth-616",
@@ -1212,8 +1362,14 @@
 			}
 		],
 		"creators": [
-			"Greg Pak",
-			"Rafa Sandoval"
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "251",
+				"name": "Rafa Sandoval"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/60/51520473d5944.jpg",
 		"universe": "Earth-616",
@@ -1241,8 +1397,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Billy Tan"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "124",
+				"name": "Billy Tan"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/4f7ef8e6509d0.jpg",
 		"universe": "Earth-616",
@@ -1435,8 +1597,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Leinil Yu"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "025",
+				"name": "Leinil Yu"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/5151efd6b1a12.jpg",
 		"universe": "Earth-616",
@@ -1461,8 +1629,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Lee Weeks"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "134",
+				"name": "Lee Weeks"
+			}
 		],
 		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/4/30/5151f75f969a5/detail.jpg",
 		"universe": "Earth-616",
@@ -1487,8 +1661,14 @@
 			}
 		],
 		"creators": [
-			"Paul Cornell",
-			"Leonard Kirk"
+			{
+				"id": "225",
+				"name": "Paul Cornell"
+			},
+			{
+				"id": "133",
+				"name": "Leonard Kirk"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/51520265956ae.jpg",
 		"universe": "Earth-616",
@@ -1528,8 +1708,14 @@
 			}
 		],
 		"creators": [
-			"Roberto Aguirre-Sacasa",
-			"Barry Kitson"
+			{
+				"id": "069",
+				"name": "Roberto Aguirre-Sacasa"
+			},
+			{
+				"id": "286",
+				"name": "Barry Kitson"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/4bb7c6bdb982c.jpg",
 		"universe": "Earth-616",
@@ -1557,8 +1743,14 @@
 			}
 		],
 		"creators": [
-			"Greg Pak",
-			"Rafa Sandoval"
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "251",
+				"name": "Rafa Sandoval"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/b0/5152048086586.jpg",
 		"universe": "Earth-616",
@@ -1606,8 +1798,14 @@
 			}
 		],
 		"creators": [
-			"Chris Yost",
-			"Takeshi Miyazawa"
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "056",
+				"name": "Takeshi Miyazawa"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5151f6dd708aa.jpg",
 		"universe": "Earth-616",
@@ -1644,8 +1842,14 @@
 			}
 		],
 		"creators": [
-			"Dan Slott",
-			"Stefano Caselli"
+			{
+				"id": "057",
+				"name": "Dan Slott"
+			},
+			{
+				"id": "203",
+				"name": "Stefano Caselli"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/4e9492b596bde.jpg",
 		"universe": "Earth-616",
@@ -1681,8 +1885,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"John Romita Jr"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "046",
+				"name": "John Romita Jr"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4d24fbde85c51.jpg",
 		"universe": "Earth-616",
@@ -1707,8 +1917,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Adriana Melo"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "033",
+				"name": "Adriana Melo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/515205b278dab.jpg",
 		"universe": "Earth-616",
@@ -1736,8 +1952,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Jim Cheung"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "105",
+				"name": "Jim Cheung"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4f7ef88b64a03.jpg",
 		"universe": "Earth-616",
@@ -1762,8 +1984,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Marco Castiello"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "304",
+				"name": "Marco Castiello"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5151f571134de.jpg",
 		"universe": "Earth-616",
@@ -1787,8 +2015,14 @@
 			}
 		],
 		"creators": [
-			"Paul Cornell",
-			"Leonard Kirk"
+			{
+				"id": "225",
+				"name": "Paul Cornell"
+			},
+			{
+				"id": "133",
+				"name": "Leonard Kirk"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/51520257b8d6c.jpg",
 		"universe": "Earth-616",
@@ -1980,8 +2214,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Leinil Yu"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "025",
+				"name": "Leinil Yu"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5151efe58715c.jpg",
 		"universe": "Earth-616",
@@ -2010,8 +2250,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Khoi Pham"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "241",
+				"name": "Khoi Pham"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4d24fc7a0105e.jpg",
 		"universe": "Earth-616",
@@ -2060,8 +2306,14 @@
 			}
 		],
 		"creators": [
-			"Peter David",
-			"Larry Stroman"
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "291",
+				"name": "Larry Stroman"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/51521a819ebf0.jpg",
 		"universe": "Earth-616",
@@ -2089,8 +2341,14 @@
 			}
 		],
 		"creators": [
-			"Greg Pak",
-			"Rafa Sandoval"
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "251",
+				"name": "Rafa Sandoval"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5152048e9e7dc.jpg",
 		"universe": "Earth-616",
@@ -2114,8 +2372,14 @@
 			}
 		],
 		"creators": [
-			"Kevin Grevioux",
-			"Koi Turnbull"
+			{
+				"id": "226",
+				"name": "Kevin Grevioux"
+			},
+			{
+				"id": "209",
+				"name": "Koi Turnbull"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/515219b65e8bc.jpg",
 		"universe": "Earth-616",
@@ -2151,8 +2415,14 @@
 			}
 		],
 		"creators": [
-			"Dan Slott",
-			"Stefano Caselli"
+			{
+				"id": "057",
+				"name": "Dan Slott"
+			},
+			{
+				"id": "203",
+				"name": "Stefano Caselli"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/b0/4e949584d8f3e.jpg",
 		"universe": "Earth-616",
@@ -2200,8 +2470,14 @@
 			}
 		],
 		"creators": [
-			"Peter David",
-			"Vincenzo Cucca"
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "305",
+				"name": "Vincenzo Cucca"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/51521b21b50f5.jpg",
 		"universe": "Earth-616",
@@ -2229,8 +2505,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Billy Tan"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "124",
+				"name": "Billy Tan"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/04/5773ecec9be9e.jpg",
 		"universe": "Earth-616",
@@ -2275,8 +2557,14 @@
 			}
 		],
 		"creators": [
-			"Christos Gage",
-			"Fernando Blanco"
+			{
+				"id": "146",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "306",
+				"name": "Fernando Blanco"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/5744cc26a4dbb.jpg",
 		"universe": "Earth-616",
@@ -2317,8 +2605,14 @@
 			}
 		],
 		"creators": [
-			"Roberto Aguirre-Sacasa",
-			"Barry Kitson"
+			{
+				"id": "069",
+				"name": "Roberto Aguirre-Sacasa"
+			},
+			{
+				"id": "286",
+				"name": "Barry Kitson"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/53ea3d3e48080.jpg",
 		"universe": "Earth-616",
@@ -2342,8 +2636,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Adriana Melo"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "033",
+				"name": "Adriana Melo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/515205bfd04c2.jpg",
 		"universe": "Earth-616",
@@ -2371,8 +2671,14 @@
 			}
 		],
 		"creators": [
-			"Jason Aaron",
-			"Jefte Palo"
+			{
+				"id": "239",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "307",
+				"name": "Jefte Palo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/03/57470d91215c3.jpg",
 		"universe": "Earth-616",
@@ -2396,8 +2702,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Marco Castiello"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "304",
+				"name": "Marco Castiello"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/5151f55ceb162.jpg",
 		"universe": "Earth-616",
@@ -2461,8 +2773,14 @@
 			}
 		],
 		"creators": [
-			"Mike Carey",
-			"Cary Nord"
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "308",
+				"name": "Cary Nord"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/515200548e1cc.jpg",
 		"universe": "Earth-616",
@@ -2498,8 +2816,14 @@
 			}
 		],
 		"creators": [
-			"Joe Pokaski",
-			"Tom Raney"
+			{
+				"id": "309",
+				"name": "Joe Pokaski"
+			},
+			{
+				"id": "131",
+				"name": "Tom Raney"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/5151f453b05f9.jpg",
 		"universe": "Earth-616",
@@ -2528,8 +2852,14 @@
 			}
 		],
 		"creators": [
-			"Matt Fraction",
-			"Doug Braithwaite"
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "310",
+				"name": "Doug Braithwaite"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/5151f83970113.jpg",
 		"universe": "Earth-616",
@@ -2577,8 +2907,14 @@
 			}
 		],
 		"creators": [
-			"Chris Yost",
-			"Takeshi Miyazawa"
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "056",
+				"name": "Takeshi Miyazawa"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/5151f6ec6faec.jpg",
 		"universe": "Earth-616",
@@ -2603,8 +2939,14 @@
 			}
 		],
 		"creators": [
-			"Paul Cornell",
-			"Leonard Kirk"
+			{
+				"id": "225",
+				"name": "Paul Cornell"
+			},
+			{
+				"id": "133",
+				"name": "Leonard Kirk"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/515202441ec03.jpg",
 		"universe": "Earth-616",
@@ -2796,8 +3138,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Leinil Yu"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "025",
+				"name": "Leinil Yu"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/5151f0b267794.jpg",
 		"universe": "Earth-616",
@@ -2858,9 +3206,18 @@
 			}
 		],
 		"creators": [
-			"Dan Abnett",
-			"Andy Lanning",
-			"Paul Pelletier"
+			{
+				"id": "178",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "179",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "059",
+				"name": "Paul Pelletier"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/517ad36440e01.jpg",
 		"universe": "Earth-616",
@@ -2909,8 +3266,14 @@
 			}
 		],
 		"creators": [
-			"Peter David",
-			"Larry Stroman"
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "291",
+				"name": "Larry Stroman"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/51521aa22f7e4.jpg",
 		"universe": "Earth-616",
@@ -2938,8 +3301,14 @@
 			}
 		],
 		"creators": [
-			"Greg Pak",
-			"Rafa Sandoval"
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "251",
+				"name": "Rafa Sandoval"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/5152049a94911.jpg",
 		"universe": "Earth-616",
@@ -2963,8 +3332,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Marco Santucci"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "311",
+				"name": "Marco Santucci"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/5151f35265d5b.jpg",
 		"universe": "Earth-616",
@@ -2989,8 +3364,14 @@
 			}
 		],
 		"creators": [
-			"Kevin Grevioux",
-			"Koi Turnbull"
+			{
+				"id": "226",
+				"name": "Kevin Grevioux"
+			},
+			{
+				"id": "209",
+				"name": "Koi Turnbull"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/515219dea032c.jpg",
 		"universe": "Earth-616",
@@ -3022,9 +3403,18 @@
 			}
 		],
 		"creators": [
-			"Dan Abnett",
-			"Andy Lanning",
-			"Wellington Alves"
+			{
+				"id": "178",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "179",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "295",
+				"name": "Wellington Alves"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/578fae0b41d85.jpg",
 		"universe": "Earth-616",
@@ -3061,8 +3451,14 @@
 			}
 		],
 		"creators": [
-			"Dan Slott",
-			"Stefano Caselli"
+			{
+				"id": "057",
+				"name": "Dan Slott"
+			},
+			{
+				"id": "203",
+				"name": "Stefano Caselli"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4e949a86d0b27.jpg",
 		"universe": "Earth-616",
@@ -3090,8 +3486,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Khoi Pham"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "241",
+				"name": "Khoi Pham"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4d25194ee9cd4.jpg",
 		"universe": "Earth-616",
@@ -3120,8 +3522,14 @@
 			}
 		],
 		"creators": [
-			"Peter David",
-			"Vincenzo Cucca"
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "305",
+				"name": "Vincenzo Cucca"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/51521b5d0c5bd.jpg",
 		"universe": "Earth-616",
@@ -3149,8 +3557,14 @@
 			}
 		],
 		"creators": [
-			"Jason Aaron",
-			"Jefte Palo"
+			{
+				"id": "239",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "307",
+				"name": "Jefte Palo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/57470e8c047e2.jpg",
 		"universe": "Earth-616",
@@ -3174,8 +3588,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Billy Tan"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "124",
+				"name": "Billy Tan"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/5773ecde71cde.jpg",
 		"universe": "Earth-616",
@@ -3220,8 +3640,14 @@
 			}
 		],
 		"creators": [
-			"Christos Gage",
-			"Fernando Blanco"
+			{
+				"id": "146",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "306",
+				"name": "Fernando Blanco"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/5744cdabbb4ef.jpg",
 		"universe": "Earth-616",
@@ -3246,8 +3672,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Marco Castiello"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "304",
+				"name": "Marco Castiello"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5151f549af5fb.jpg",
 		"universe": "Earth-616",
@@ -3275,8 +3707,14 @@
 			}
 		],
 		"creators": [
-			"Daniel Way",
-			"Paco Medina"
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "042",
+				"name": "Paco Medina"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5152037405711.jpg",
 		"universe": "Earth-616",
@@ -3340,8 +3778,14 @@
 			}
 		],
 		"creators": [
-			"Mike Carey",
-			"Cary Nord"
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "308",
+				"name": "Cary Nord"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/515200637ccff.jpg",
 		"universe": "Earth-616",
@@ -3377,8 +3821,14 @@
 			}
 		],
 		"creators": [
-			"Joe Pokaski",
-			"Tom Raney"
+			{
+				"id": "309",
+				"name": "Joe Pokaski"
+			},
+			{
+				"id": "131",
+				"name": "Tom Raney"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5151f43f66d7a.jpg",
 		"universe": "Earth-616",
@@ -3427,8 +3877,14 @@
 			}
 		],
 		"creators": [
-			"Chris Yost",
-			"Takeshi Miyazawa"
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "056",
+				"name": "Takeshi Miyazawa"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5151f6f2ec269.jpg",
 		"universe": "Earth-616",
@@ -3621,8 +4077,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Leinil Yu"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "025",
+				"name": "Leinil Yu"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/5151f0be10549.jpg",
 		"universe": "Earth-616",
@@ -3647,8 +4109,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Adriana Melo"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "033",
+				"name": "Adriana Melo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/515205d3c4c38.jpg",
 		"universe": "Earth-616",
@@ -3676,8 +4144,14 @@
 			}
 		],
 		"creators": [
-			"Matt Fraction",
-			"Doug Braithwaite"
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "310",
+				"name": "Doug Braithwaite"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5151f860692da.jpg",
 		"universe": "Earth-616",
@@ -3737,9 +4211,18 @@
 			}
 		],
 		"creators": [
-			"Dan Abnett",
-			"Andy Lanning",
-			"Paul Pelletier"
+			{
+				"id": "178",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "179",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "059",
+				"name": "Paul Pelletier"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/517ad355c9b05.jpg",
 		"universe": "Earth-616",
@@ -3772,8 +4255,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Stefano Caselli"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "203",
+				"name": "Stefano Caselli"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4d24e82b555c9.jpg",
 		"universe": "Earth-616",
@@ -3798,8 +4287,14 @@
 			}
 		],
 		"creators": [
-			"Christos Gage",
-			"Sean Chen"
+			{
+				"id": "146",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "214",
+				"name": "Sean Chen"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/5153022d8ccc9.jpg",
 		"universe": "Earth-616",
@@ -3827,8 +4322,14 @@
 			}
 		],
 		"creators": [
-			"Daniel Way",
-			"Paco Medina"
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "042",
+				"name": "Paco Medina"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/5732265c65605.jpg",
 		"universe": "Earth-616",
@@ -3852,8 +4353,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Marco Santucci"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "311",
+				"name": "Marco Santucci"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/5151f36116f33.jpg",
 		"universe": "Earth-616",
@@ -3890,9 +4397,18 @@
 			}
 		],
 		"creators": [
-			"Dan Abnett",
-			"Andy Lanning",
-			"Wellington Alves"
+			{
+				"id": "178",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "179",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "295",
+				"name": "Wellington Alves"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5151f2824baed.jpg",
 		"universe": "Earth-616",
@@ -3917,8 +4433,14 @@
 			}
 		],
 		"creators": [
-			"Dan Slott",
-			"Harvey Tolibao"
+			{
+				"id": "057",
+				"name": "Dan Slott"
+			},
+			{
+				"id": "223",
+				"name": "Harvey Tolibao"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4e949db2a50c2.jpg",
 		"universe": "Earth-616",
@@ -3946,8 +4468,14 @@
 			}
 		],
 		"creators": [
-			"Peter David",
-			"Vincenzo Cucca"
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "305",
+				"name": "Vincenzo Cucca"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/51521b488b63b.jpg",
 		"universe": "Earth-616",
@@ -3975,8 +4503,14 @@
 			}
 		],
 		"creators": [
-			"Jason Aaron",
-			"Jefte Palo"
+			{
+				"id": "239",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "307",
+				"name": "Jefte Palo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/57470f17923c2.jpg",
 		"universe": "Earth-616",
@@ -4000,8 +4534,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Jim Cheung"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "105",
+				"name": "Jim Cheung"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5773ecd05663b.jpg",
 		"universe": "Earth-616",
@@ -4042,8 +4582,14 @@
 			}
 		],
 		"creators": [
-			"Christos Gage",
-			"Fernando Blanco"
+			{
+				"id": "146",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "306",
+				"name": "Fernando Blanco"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5744cdf09c0a3.jpg",
 		"universe": "Earth-616",
@@ -4068,8 +4614,14 @@
 			}
 		],
 		"creators": [
-			"Matt Fraction",
-			"Howard Chaykin"
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "197",
+				"name": "Howard Chaykin"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bb6d20e51ebe.jpg",
 		"universe": "Earth-616",
@@ -4097,8 +4649,14 @@
 			}
 		],
 		"creators": [
-			"Daniel Way",
-			"Paco Medina"
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "042",
+				"name": "Paco Medina"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/51520360c51c5.jpg",
 		"universe": "Earth-616",
@@ -4134,8 +4692,14 @@
 			}
 		],
 		"creators": [
-			"Joe Pokaski",
-			"Tom Raney"
+			{
+				"id": "309",
+				"name": "Joe Pokaski"
+			},
+			{
+				"id": "131",
+				"name": "Tom Raney"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5151f436b45c6.jpg",
 		"universe": "Earth-616",
@@ -4160,8 +4724,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Marco Castiello"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "304",
+				"name": "Marco Castiello"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5151f53528b6b.jpg",
 		"universe": "Earth-616",
@@ -4221,9 +4791,18 @@
 			}
 		],
 		"creators": [
-			"Dan Abnett",
-			"Andy Lanning",
-			"Paul Pelletier"
+			{
+				"id": "178",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "179",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "059",
+				"name": "Paul Pelletier"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/517ad475ab6f8.jpg",
 		"universe": "Earth-616",
@@ -4256,8 +4835,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Khoi Pham"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "241",
+				"name": "Khoi Pham"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4d251a069f575.jpg",
 		"universe": "Earth-616",
@@ -4282,8 +4867,14 @@
 			}
 		],
 		"creators": [
-			"Christos Gage",
-			"Sean Chen"
+			{
+				"id": "146",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "214",
+				"name": "Sean Chen"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/d0/51530221aeba0.jpg",
 		"universe": "Earth-616",
@@ -4307,8 +4898,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Marco Santucci"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "311",
+				"name": "Marco Santucci"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5151f36c5291a.jpg",
 		"universe": "Earth-616",
@@ -4501,8 +5098,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Leinil Yu"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "025",
+				"name": "Leinil Yu"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/5151f0c98bbe7.jpg",
 		"universe": "Earth-616",
@@ -4534,8 +5137,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Billy Tan"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "124",
+				"name": "Billy Tan"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5773ecc19ce46.jpg",
 		"universe": "Earth-616",
@@ -4576,8 +5185,14 @@
 			}
 		],
 		"creators": [
-			"Christos Gage",
-			"Fernando Blanco"
+			{
+				"id": "146",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "306",
+				"name": "Fernando Blanco"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/5744cdda486d9.jpg",
 		"universe": "Earth-616",
@@ -4642,8 +5257,14 @@
 			}
 		],
 		"creators": [
-			"Mike Carey",
-			"Miguel Sepulveda"
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "312",
+				"name": "Miguel Sepulveda"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/5152006e6818b.jpg",
 		"universe": "Earth-616",
@@ -4671,8 +5292,14 @@
 			}
 		],
 		"creators": [
-			"Matt Fraction",
-			"Doug Braithwaite"
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "310",
+				"name": "Doug Braithwaite"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5151f86ec5981.jpg",
 		"universe": "Earth-616",
@@ -4708,9 +5335,18 @@
 			}
 		],
 		"creators": [
-			"Dan Abnett",
-			"Andy Lanning",
-			"Wellington Alves"
+			{
+				"id": "178",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "179",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "295",
+				"name": "Wellington Alves"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/5151f28fe9acd.jpg",
 		"universe": "Earth-616",
@@ -4735,8 +5371,14 @@
 			}
 		],
 		"creators": [
-			"Dan Slott",
-			"Steve Kurth"
+			{
+				"id": "057",
+				"name": "Dan Slott"
+			},
+			{
+				"id": "313",
+				"name": "Steve Kurth"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4e94a0790135d.jpg",
 		"universe": "Earth-616",
@@ -4760,8 +5402,14 @@
 			}
 		],
 		"creators": [
-			"Matt Fraction",
-			"Howard Chaykin"
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "197",
+				"name": "Howard Chaykin"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/5152fde500f73.jpg",
 		"universe": "Earth-616",
@@ -4785,8 +5433,14 @@
 			}
 		],
 		"creators": [
-			"Christos Gage",
-			"Sean Chen"
+			{
+				"id": "146",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "214",
+				"name": "Sean Chen"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/515302170faf9.jpg",
 		"universe": "Earth-616",
@@ -4850,8 +5504,14 @@
 			}
 		],
 		"creators": [
-			"Mike Carey",
-			"Cary Nord"
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "308",
+				"name": "Cary Nord"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/5152007d88b41.jpg",
 		"universe": "Earth-616",
@@ -4887,8 +5547,14 @@
 			}
 		],
 		"creators": [
-			"Joe Pokaski",
-			"Tom Raney"
+			{
+				"id": "309",
+				"name": "Joe Pokaski"
+			},
+			{
+				"id": "131",
+				"name": "Tom Raney"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5151f42855c0c.jpg",
 		"universe": "Earth-616",
@@ -5084,8 +5750,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Leinil Yu"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "025",
+				"name": "Leinil Yu"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/5151f0d51369a.jpg",
 		"universe": "Earth-616",
@@ -5114,8 +5786,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Marco Castiello"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "304",
+				"name": "Marco Castiello"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/5151f526b4d7b.jpg",
 		"universe": "Earth-616",
@@ -5147,8 +5825,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Billy Tan"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "124",
+				"name": "Billy Tan"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/5773ea5dde94d.jpg",
 		"universe": "Earth-616",
@@ -5193,8 +5877,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Alex Maleev"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "020",
+				"name": "Alex Maleev"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/5151f61b6f895.jpg",
 		"universe": "Earth-616",
@@ -5219,8 +5909,14 @@
 			}
 		],
 		"creators": [
-			"Dan Slott",
-			"Harvey Tolibao"
+			{
+				"id": "057",
+				"name": "Dan Slott"
+			},
+			{
+				"id": "223",
+				"name": "Harvey Tolibao"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4e94a888dd6b6.jpg",
 		"universe": "Earth-616",
@@ -5280,8 +5976,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"Lee Weeks"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "134",
+				"name": "Lee Weeks"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4d24f2ecc818d.jpg",
 		"universe": "Earth-616",
@@ -5306,8 +6008,14 @@
 			}
 		],
 		"creators": [
-			"Kieron Gillen",
-			"Daniel Brereton"
+			{
+				"id": "314",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "273",
+				"name": "Daniel Brereton"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb4e63e638e4.jpg",
 		"universe": "Earth-616",
@@ -5343,9 +6051,18 @@
 			}
 		],
 		"creators": [
-			"Dan Abnett",
-			"Andy Lanning",
-			"Paul Pelletier"
+			{
+				"id": "178",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "179",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "059",
+				"name": "Paul Pelletier"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5151f7bdd7316.jpg",
 		"universe": "Earth-616",
@@ -5367,8 +6084,14 @@
 			}
 		],
 		"creators": [
-			"Daniel Way",
-			"Carlo Barberi"
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "315",
+				"name": "Carlo Barberi"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/51520351e77ff.jpg",
 		"universe": "Earth-616",
@@ -5390,8 +6113,14 @@
 			}
 		],
 		"creators": [
-			"Daniel Way",
-			"Carlo Barberi"
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "315",
+				"name": "Carlo Barberi"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/51520342e44cd.jpg",
 		"universe": "Earth-616",
@@ -5413,8 +6142,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Marcos Marz"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "316",
+				"name": "Marcos Marz"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/576952e063c8f.jpg",
 		"universe": "Earth-616",
@@ -5436,8 +6171,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Paulo Siqueira"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "287",
+				"name": "Paulo Siqueira"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/576953e30c261.jpg",
 		"universe": "Earth-616",
@@ -5459,8 +6200,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Adriana Melo"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "033",
+				"name": "Adriana Melo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/576955893664f.jpg",
 		"universe": "Earth-616",
@@ -5482,8 +6229,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Paulo Siqueira"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "287",
+				"name": "Paulo Siqueira"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/90/57695749c088a.jpg",
 		"universe": "Earth-616",
@@ -5505,8 +6258,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Mark Robinson"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "317",
+				"name": "Mark Robinson"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/60/4bb3eff49985f.jpg",
 		"universe": "Earth-616",
@@ -5528,8 +6287,14 @@
 			}
 		],
 		"creators": [
-			"Brian Reed",
-			"Giuseppe Camuncoli"
+			{
+				"id": "144",
+				"name": "Brian Reed"
+			},
+			{
+				"id": "189",
+				"name": "Giuseppe Camuncoli"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bb680d45af4e.jpg",
 		"universe": "Earth-616",
@@ -5551,8 +6316,14 @@
 			}
 		],
 		"creators": [
-			"Mike Benson",
-			"Jefte Palo"
+			{
+				"id": "236",
+				"name": "Mike Benson"
+			},
+			{
+				"id": "307",
+				"name": "Jefte Palo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bb606346dc06.jpg",
 		"universe": "Earth-616",
@@ -5574,8 +6345,14 @@
 			}
 		],
 		"creators": [
-			"Mike Benson",
-			"Jefte Palo"
+			{
+				"id": "236",
+				"name": "Mike Benson"
+			},
+			{
+				"id": "307",
+				"name": "Jefte Palo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/4bae46fdcbb29.jpg",
 		"universe": "Earth-616",
@@ -5597,8 +6374,14 @@
 			}
 		],
 		"creators": [
-			"Mike Benson",
-			"Jefte Palo"
+			{
+				"id": "236",
+				"name": "Mike Benson"
+			},
+			{
+				"id": "307",
+				"name": "Jefte Palo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/b0/4bb599e5748e9.jpg",
 		"universe": "Earth-616",
@@ -5620,8 +6403,14 @@
 			}
 		],
 		"creators": [
-			"Mike Benson",
-			"Jefte Palo"
+			{
+				"id": "236",
+				"name": "Mike Benson"
+			},
+			{
+				"id": "307",
+				"name": "Jefte Palo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/4bb57956189f0.jpg",
 		"universe": "Earth-616",
@@ -5643,8 +6432,14 @@
 			}
 		],
 		"creators": [
-			"Mike Benson",
-			"Jefte Palo"
+			{
+				"id": "236",
+				"name": "Mike Benson"
+			},
+			{
+				"id": "307",
+				"name": "Jefte Palo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bb52e8d61a8b.jpg",
 		"universe": "Earth-616",
@@ -5666,7 +6461,10 @@
 			}
 		],
 		"creators": [
-			"Duane Swierczynski"
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/51894b2a3f214.jpg",
 		"universe": "Earth-616",
@@ -5692,8 +6490,14 @@
 			}
 		],
 		"creators": [
-			"Greg Pak",
-			"Clayton Henry"
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "135",
+				"name": "Clayton Henry"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb718f15b4e8.jpg",
 		"universe": "Earth-616",
@@ -5719,8 +6523,14 @@
 			}
 		],
 		"creators": [
-			"Greg Pak",
-			"Clayton Henry"
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "135",
+				"name": "Clayton Henry"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bb6d2d51b228.jpg",
 		"universe": "Earth-616",
@@ -5746,8 +6556,14 @@
 			}
 		],
 		"creators": [
-			"Greg Pak",
-			"Clayton Henry"
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "135",
+				"name": "Clayton Henry"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/4bb6819d9e94e.jpg",
 		"universe": "Earth-616",
@@ -5773,8 +6589,14 @@
 			}
 		],
 		"creators": [
-			"Greg Pak",
-			"Clayton Henry"
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "135",
+				"name": "Clayton Henry"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/40/4bb64cde2a0b0.jpg",
 		"universe": "Earth-616",
@@ -5800,8 +6622,14 @@
 			}
 		],
 		"creators": [
-			"Greg Pak",
-			"Salvador Espin"
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "252",
+				"name": "Salvador Espin"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bb6067381cb2.jpg",
 		"universe": "Earth-616",
@@ -5827,8 +6655,14 @@
 			}
 		],
 		"creators": [
-			"Greg Pak",
-			"Rodney Buchemi"
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "318",
+				"name": "Rodney Buchemi"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4bb5d5281ac3a.jpg",
 		"universe": "Earth-616",
@@ -5850,8 +6684,14 @@
 			}
 		],
 		"creators": [
-			"Marc Guggenheim",
-			"Mike McKone"
+			{
+				"id": "196",
+				"name": "Marc Guggenheim"
+			},
+			{
+				"id": "160",
+				"name": "Mike McKone"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bb6cf41806d7.jpg",
 		"universe": "Earth-616",
@@ -5874,8 +6714,14 @@
 			}
 		],
 		"creators": [
-			"Marc Guggenheim",
-			"Barry Kitson"
+			{
+				"id": "196",
+				"name": "Marc Guggenheim"
+			},
+			{
+				"id": "286",
+				"name": "Barry Kitson"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/579119d2b4ab7.jpg",
 		"universe": "Earth-616",
@@ -5898,8 +6744,14 @@
 			}
 		],
 		"creators": [
-			"Joe Kelly",
-			"Chris Bachalo"
+			{
+				"id": "319",
+				"name": "Joe Kelly"
+			},
+			{
+				"id": "035",
+				"name": "Chris Bachalo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4bb6012279a77.jpg",
 		"universe": "Earth-616",
@@ -5925,8 +6777,14 @@
 			}
 		],
 		"creators": [
-			"Joe Kelly",
-			"Chris Bachalo"
+			{
+				"id": "319",
+				"name": "Joe Kelly"
+			},
+			{
+				"id": "035",
+				"name": "Chris Bachalo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/56d4a32e1ee74.jpg",
 		"universe": "Earth-616",
@@ -5949,8 +6807,14 @@
 			}
 		],
 		"creators": [
-			"Joe Kelly",
-			"Chris Bachalo"
+			{
+				"id": "319",
+				"name": "Joe Kelly"
+			},
+			{
+				"id": "035",
+				"name": "Chris Bachalo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/57911aa7b5b02.jpg",
 		"universe": "Earth-616",
@@ -5973,8 +6837,14 @@
 			}
 		],
 		"creators": [
-			"Zeb Wells",
-			"Paolo Rivera"
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "320",
+				"name": "Paolo Rivera"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/578e5954c4760.jpg",
 		"universe": "Earth-616",
@@ -5997,8 +6867,14 @@
 			}
 		],
 		"creators": [
-			"John Arcudi",
-			"Ramon Bachs"
+			{
+				"id": "321",
+				"name": "John Arcudi"
+			},
+			{
+				"id": "150",
+				"name": "Ramon Bachs"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/56d7160ad4723.jpg",
 		"universe": "Earth-616",
@@ -6024,8 +6900,14 @@
 			}
 		],
 		"creators": [
-			"Paul Benjamin",
-			"Val Semeiks"
+			{
+				"id": "322",
+				"name": "Paul Benjamin"
+			},
+			{
+				"id": "258",
+				"name": "Val Semeiks"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/56d7160ad4723.jpg",
 		"universe": "Earth-616",
@@ -6051,8 +6933,14 @@
 			}
 		],
 		"creators": [
-			"Mark Waid",
-			"Marcos Martin"
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "163",
+				"name": "Marcos Martin"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/578e7384d7355.jpg",
 		"universe": "Earth-616",
@@ -6075,8 +6963,14 @@
 			}
 		],
 		"creators": [
-			"Mark Waid",
-			"Marcos Martin"
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "163",
+				"name": "Marcos Martin"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/4e8f164f58e77.jpg",
 		"universe": "Earth-616",
@@ -6099,8 +6993,14 @@
 			}
 		],
 		"creators": [
-			"Roger Stern",
-			"Lee Weeks"
+			{
+				"id": "043",
+				"name": "Roger Stern"
+			},
+			{
+				"id": "134",
+				"name": "Lee Weeks"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/578e7454e2935.jpg",
 		"universe": "Earth-616",
@@ -6123,8 +7023,14 @@
 			}
 		],
 		"creators": [
-			"Dan Slott",
-			"Mike McKone"
+			{
+				"id": "057",
+				"name": "Dan Slott"
+			},
+			{
+				"id": "160",
+				"name": "Mike McKone"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/4e8f123487d5f.jpg",
 		"universe": "Earth-616",
@@ -6147,8 +7053,14 @@
 			}
 		],
 		"creators": [
-			"Dan Slott",
-			"Mike McKone"
+			{
+				"id": "057",
+				"name": "Dan Slott"
+			},
+			{
+				"id": "160",
+				"name": "Mike McKone"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/4e8f0f7814c69.jpg",
 		"universe": "Earth-616",
@@ -6171,8 +7083,14 @@
 			}
 		],
 		"creators": [
-			"Mark Waid",
-			"Barry Kitson"
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "286",
+				"name": "Barry Kitson"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/4e8f0cc36cdfd.jpg",
 		"universe": "Earth-616",
@@ -6199,8 +7117,14 @@
 			}
 		],
 		"creators": [
-			"Jeph Loeb",
-			"Ed McGuinness"
+			{
+				"id": "008",
+				"name": "Jeph Loeb"
+			},
+			{
+				"id": "216",
+				"name": "Ed McGuinness"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5109ae12b7c7c.jpg",
 		"universe": "Earth-616",
@@ -6226,8 +7150,14 @@
 			}
 		],
 		"creators": [
-			"Jeph Loeb",
-			"Ed McGuinness"
+			{
+				"id": "008",
+				"name": "Jeph Loeb"
+			},
+			{
+				"id": "216",
+				"name": "Ed McGuinness"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/5109b014b8409.jpg",
 		"universe": "Earth-616",
@@ -6253,8 +7183,14 @@
 			}
 		],
 		"creators": [
-			"Jeph Loeb",
-			"Ed McGuinness"
+			{
+				"id": "008",
+				"name": "Jeph Loeb"
+			},
+			{
+				"id": "216",
+				"name": "Ed McGuinness"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4d24fe71cffa8.jpg",
 		"universe": "Earth-616",
@@ -6276,8 +7212,14 @@
 			}
 		],
 		"creators": [
-			"Jeph Loeb",
-			"Ed McGuinness"
+			{
+				"id": "008",
+				"name": "Jeph Loeb"
+			},
+			{
+				"id": "216",
+				"name": "Ed McGuinness"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4f634e633fc47.jpg",
 		"universe": "Earth-616",
@@ -6310,8 +7252,14 @@
 			}
 		],
 		"creators": [
-			"Chris Yost",
-			"Diogenes Neves"
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "323",
+				"name": "Diogenes Neves"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb6ccf199291.jpg",
 		"universe": "Earth-616",
@@ -6341,8 +7289,14 @@
 			}
 		],
 		"creators": [
-			"Chris Yost",
-			"Diogenes Neves"
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "323",
+				"name": "Diogenes Neves"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4bb67e80c8ef3.jpg",
 		"universe": "Earth-616",
@@ -6372,8 +7326,14 @@
 			}
 		],
 		"creators": [
-			"Chris Yost",
-			"Diogenes Neves"
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "323",
+				"name": "Diogenes Neves"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bb64a5406be5.jpg",
 		"universe": "Earth-616",
@@ -6403,8 +7363,14 @@
 			}
 		],
 		"creators": [
-			"Chris Yost",
-			"Diogenes Neves"
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "323",
+				"name": "Diogenes Neves"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bb60447aaeae.jpg",
 		"universe": "Earth-616",
@@ -6446,8 +7412,14 @@
 			}
 		],
 		"creators": [
-			"C B Cebulski",
-			"Giuseppe Camuncoli"
+			{
+				"id": "231",
+				"name": "C B Cebulski"
+			},
+			{
+				"id": "189",
+				"name": "Giuseppe Camuncoli"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4e7a13b8011a5.jpg",
 		"universe": "Earth-616",
@@ -6489,8 +7461,14 @@
 			}
 		],
 		"creators": [
-			"C B Cebulski",
-			"Giuseppe Camuncoli"
+			{
+				"id": "231",
+				"name": "C B Cebulski"
+			},
+			{
+				"id": "189",
+				"name": "Giuseppe Camuncoli"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb5be214958b.jpg",
 		"universe": "Earth-616",
@@ -6532,8 +7510,14 @@
 			}
 		],
 		"creators": [
-			"C B Cebulski",
-			"Giuseppe Camuncoli"
+			{
+				"id": "231",
+				"name": "C B Cebulski"
+			},
+			{
+				"id": "189",
+				"name": "Giuseppe Camuncoli"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4bb5b5c6200af.jpg",
 		"universe": "Earth-616",
@@ -6575,8 +7559,14 @@
 			}
 		],
 		"creators": [
-			"C B Cebulski",
-			"Giuseppe Camuncoli"
+			{
+				"id": "231",
+				"name": "C B Cebulski"
+			},
+			{
+				"id": "189",
+				"name": "Giuseppe Camuncoli"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4e7a202adf924.jpg",
 		"universe": "Earth-616",
@@ -6610,8 +7600,14 @@
 			}
 		],
 		"creators": [
-			"Duane Swierczynski",
-			"Larry Stroman"
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "291",
+				"name": "Larry Stroman"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bb5d236e8d0b.jpg",
 		"universe": "Earth-616",
@@ -6646,8 +7642,14 @@
 			}
 		],
 		"creators": [
-			"Duane Swierczynski",
-			"Larry Stroman"
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "291",
+				"name": "Larry Stroman"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bb597bab2431.jpg",
 		"universe": "Earth-616",
@@ -6682,8 +7684,14 @@
 			}
 		],
 		"creators": [
-			"Duane Swierczynski",
-			"Larry Stroman"
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "291",
+				"name": "Larry Stroman"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb574e71ef2d.jpg",
 		"universe": "Earth-616",
@@ -6738,9 +7746,18 @@
 			}
 		],
 		"creators": [
-			"Craig Kyle",
-			"Chris Yost",
-			"Mike Choi"
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "242",
+				"name": "Mike Choi"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/52c5d057533be.jpg",
 		"universe": "Earth-616",
@@ -6795,8 +7812,14 @@
 			}
 		],
 		"creators": [
-			"Duane Swierczynski",
-			"Ariel Olivetti"
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "176",
+				"name": "Ariel Olivetti"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4ea19c8c0760d.jpg",
 		"universe": "Earth-616",
@@ -6851,9 +7874,18 @@
 			}
 		],
 		"creators": [
-			"Craig Kyle",
-			"Chris Yost",
-			"Clayton Crain"
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "173",
+				"name": "Clayton Crain"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/52c5d0511e73d.jpg",
 		"universe": "Earth-616",
@@ -6908,8 +7940,14 @@
 			}
 		],
 		"creators": [
-			"Duane Swierczynski",
-			"Ariel Olivetti"
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "176",
+				"name": "Ariel Olivetti"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4ea1b32b48e75.jpg",
 		"universe": "Earth-616",
@@ -6964,9 +8002,18 @@
 			}
 		],
 		"creators": [
-			"Craig Kyle",
-			"Chris Yost",
-			"Clayton Crain"
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "173",
+				"name": "Clayton Crain"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/52c5d043c2501.jpg",
 		"universe": "Earth-616",
@@ -7021,8 +8068,14 @@
 			}
 		],
 		"creators": [
-			"Duane Swierczynski",
-			"Ariel Olivetti"
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "176",
+				"name": "Ariel Olivetti"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4ea1ba4b5cb88.jpg",
 		"universe": "Earth-616",
@@ -7077,9 +8130,18 @@
 			}
 		],
 		"creators": [
-			"Craig Kyle",
-			"Chris Yost",
-			"Clayton Crain"
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "173",
+				"name": "Clayton Crain"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/52c5d03c38ad7.jpg",
 		"universe": "Earth-616",
@@ -7102,8 +8164,14 @@
 			}
 		],
 		"creators": [
-			"Mark Millar",
-			"Steve McNiven"
+			{
+				"id": "076",
+				"name": "Mark Millar"
+			},
+			{
+				"id": "070",
+				"name": "Steve McNiven"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/51ed6c4be6a12.jpg",
 		"universe": "Earth-616",
@@ -7126,8 +8194,14 @@
 			}
 		],
 		"creators": [
-			"Mark Millar",
-			"Steve McNiven"
+			{
+				"id": "076",
+				"name": "Mark Millar"
+			},
+			{
+				"id": "070",
+				"name": "Steve McNiven"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4d24faea360de.jpg",
 		"universe": "Earth-616",
@@ -7150,8 +8224,14 @@
 			}
 		],
 		"creators": [
-			"Mark Millar",
-			"Steve McNiven"
+			{
+				"id": "076",
+				"name": "Mark Millar"
+			},
+			{
+				"id": "070",
+				"name": "Steve McNiven"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4d24e1390b618.jpg",
 		"universe": "Earth-616",
@@ -7174,8 +8254,14 @@
 			}
 		],
 		"creators": [
-			"Mark Millar",
-			"Steve McNiven"
+			{
+				"id": "076",
+				"name": "Mark Millar"
+			},
+			{
+				"id": "070",
+				"name": "Steve McNiven"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4d2506a5b60f7.jpg",
 		"universe": "Earth-616",
@@ -7198,8 +8284,14 @@
 			}
 		],
 		"creators": [
-			"Mark Millar",
-			"Steve McNiven"
+			{
+				"id": "076",
+				"name": "Mark Millar"
+			},
+			{
+				"id": "070",
+				"name": "Steve McNiven"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/4d2507c528543.jpg",
 		"universe": "Earth-616",
@@ -7222,8 +8314,14 @@
 			}
 		],
 		"creators": [
-			"Mark Millar",
-			"Steve McNiven"
+			{
+				"id": "076",
+				"name": "Mark Millar"
+			},
+			{
+				"id": "070",
+				"name": "Steve McNiven"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/4d24f62adffb7.jpg",
 		"universe": "Earth-616",
@@ -7246,8 +8344,14 @@
 			}
 		],
 		"creators": [
-			"Mark Millar",
-			"Steve McNiven"
+			{
+				"id": "076",
+				"name": "Mark Millar"
+			},
+			{
+				"id": "070",
+				"name": "Steve McNiven"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/51ed6d810c45f.jpg",
 		"universe": "Earth-616",
@@ -7270,8 +8374,14 @@
 			}
 		],
 		"creators": [
-			"Mark Millar",
-			"Steve McNiven"
+			{
+				"id": "076",
+				"name": "Mark Millar"
+			},
+			{
+				"id": "070",
+				"name": "Steve McNiven"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/51964867c78fc.jpg",
 		"universe": "Earth-616",
@@ -7294,8 +8404,14 @@
 			}
 		],
 		"creators": [
-			"Jason Aaron",
-			"Adam Kubert"
+			{
+				"id": "239",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "140",
+				"name": "Adam Kubert"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51ed6d90d83c6.jpg",
 		"universe": "Earth-616",
@@ -7317,8 +8433,14 @@
 			}
 		],
 		"creators": [
-			"Daniel Way",
-			"Tommy Lee Edwards"
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "324",
+				"name": "Tommy Lee Edwards"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/51ed6d7c7d021.jpg",
 		"universe": "Earth-616",
@@ -7344,8 +8466,14 @@
 			}
 		],
 		"creators": [
-			"Daniel Way",
-			"Yanick Paquette"
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "206",
+				"name": "Yanick Paquette"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/51e0804f84210.jpg",
 		"universe": "Earth-616",
@@ -7371,8 +8499,14 @@
 			}
 		],
 		"creators": [
-			"Daniel Way",
-			"Yanick Paquette"
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "206",
+				"name": "Yanick Paquette"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/40/51e08062bbac0.jpg",
 		"universe": "Earth-616",
@@ -7406,8 +8540,14 @@
 			}
 		],
 		"creators": [
-			"Mike Carey",
-			"Phil Briones"
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "260",
+				"name": "Phil Briones"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/51a4deae50c5c.jpg",
 		"universe": "Earth-616",
@@ -7441,8 +8581,14 @@
 			}
 		],
 		"creators": [
-			"Mike Carey",
-			"Scot Eaton"
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/51a4dea6e7691.jpg",
 		"universe": "Earth-616",
@@ -7476,8 +8622,14 @@
 			}
 		],
 		"creators": [
-			"Mike Carey",
-			"Scot Eaton"
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/51a4dfe0ebe7e.jpg",
 		"universe": "Earth-616",
@@ -7511,8 +8663,14 @@
 			}
 		],
 		"creators": [
-			"Mike Carey",
-			"Scot Eaton"
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/51a4dfd665525.jpg",
 		"universe": "Earth-616",
@@ -7546,8 +8704,14 @@
 			}
 		],
 		"creators": [
-			"Mike Carey",
-			"Scot Eaton"
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/51a4dfc860f6d.jpg",
 		"universe": "Earth-616",
@@ -7581,8 +8745,14 @@
 			}
 		],
 		"creators": [
-			"Mike Carey",
-			"Scot Eaton"
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51a4dfc2212c9.jpg",
 		"universe": "Earth-616",
@@ -7608,8 +8778,14 @@
 			}
 		],
 		"creators": [
-			"Mike Carey",
-			"Phil Briones"
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "260",
+				"name": "Phil Briones"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/51a4dfb97f2b9.jpg",
 		"universe": "Earth-616",
@@ -7671,8 +8847,14 @@
 			}
 		],
 		"creators": [
-			"Matt Fraction",
-			"Greg Land"
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "121",
+				"name": "Greg Land"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/513f4d2a5dd2b.jpg",
 		"universe": "Earth-616",
@@ -7734,8 +8916,14 @@
 			}
 		],
 		"creators": [
-			"Matt Fraction",
-			"Greg Land"
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "121",
+				"name": "Greg Land"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/513f4d1ad5f4f.jpg",
 		"universe": "Earth-616",
@@ -7797,8 +8985,14 @@
 			}
 		],
 		"creators": [
-			"Matt Fraction",
-			"Greg Land"
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "121",
+				"name": "Greg Land"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/513f4f0ac931d.jpg",
 		"universe": "Earth-616",
@@ -7860,8 +9054,14 @@
 			}
 		],
 		"creators": [
-			"Matt Fraction",
-			"Greg Land"
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "121",
+				"name": "Greg Land"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/513f4ef733118.jpg",
 		"universe": "Earth-616",
@@ -7887,8 +9087,14 @@
 			}
 		],
 		"creators": [
-			"Matt Fraction",
-			"Yanick Paquette"
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "206",
+				"name": "Yanick Paquette"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/513f4eec495dc.jpg",
 		"universe": "Earth-616",
@@ -7910,8 +9116,14 @@
 			}
 		],
 		"creators": [
-			"Peter David",
-			"Valentine De Landro"
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4c3618df29907.jpg",
 		"universe": "Earth-616",
@@ -7953,8 +9165,14 @@
 			}
 		],
 		"creators": [
-			"Peter David",
-			"Larry Stroman"
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "291",
+				"name": "Larry Stroman"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bb71895723ff.jpg",
 		"universe": "Earth-616",
@@ -7996,8 +9214,14 @@
 			}
 		],
 		"creators": [
-			"Peter David",
-			"Larry Stroman"
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "291",
+				"name": "Larry Stroman"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bb6d2532afa6.jpg",
 		"universe": "Earth-616",
@@ -8039,8 +9263,14 @@
 			}
 		],
 		"creators": [
-			"Peter David",
-			"Valentine De Landro"
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bb6814b3f305.jpg",
 		"universe": "Earth-616",
@@ -8082,8 +9312,14 @@
 			}
 		],
 		"creators": [
-			"Peter David",
-			"Larry Stroman"
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "291",
+				"name": "Larry Stroman"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bb64c759bb35.jpg",
 		"universe": "Earth-616",
@@ -8105,8 +9341,14 @@
 			}
 		],
 		"creators": [
-			"Terry Moore",
-			"Humberto Ramos"
+			{
+				"id": "325",
+				"name": "Terry Moore"
+			},
+			{
+				"id": "050",
+				"name": "Humberto Ramos"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/5797bbb1b9e1f.jpg",
 		"universe": "Earth-616",
@@ -8129,8 +9371,14 @@
 			}
 		],
 		"creators": [
-			"Terry Moore",
-			"Humberto Ramos"
+			{
+				"id": "325",
+				"name": "Terry Moore"
+			},
+			{
+				"id": "050",
+				"name": "Humberto Ramos"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5797c67bc72a1.jpg",
 		"universe": "Earth-616",
@@ -8153,8 +9401,14 @@
 			}
 		],
 		"creators": [
-			"Terry Moore",
-			"Humberto Ramos"
+			{
+				"id": "325",
+				"name": "Terry Moore"
+			},
+			{
+				"id": "050",
+				"name": "Humberto Ramos"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/5797cde8374ba.jpg",
 		"universe": "Earth-616",
@@ -8177,8 +9431,14 @@
 			}
 		],
 		"creators": [
-			"Terry Moore",
-			"Humberto Ramos"
+			{
+				"id": "325",
+				"name": "Terry Moore"
+			},
+			{
+				"id": "050",
+				"name": "Humberto Ramos"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/a0/5797ce4fe2f95.jpg",
 		"universe": "Earth-616",
@@ -8201,8 +9461,14 @@
 			}
 		],
 		"creators": [
-			"Terry Moore",
-			"Humberto Ramos"
+			{
+				"id": "325",
+				"name": "Terry Moore"
+			},
+			{
+				"id": "050",
+				"name": "Humberto Ramos"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5798b49a5027a.jpg",
 		"universe": "Earth-616",
@@ -8225,8 +9491,14 @@
 			}
 		],
 		"creators": [
-			"Terry Moore",
-			"Humberto Ramos"
+			{
+				"id": "325",
+				"name": "Terry Moore"
+			},
+			{
+				"id": "050",
+				"name": "Humberto Ramos"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5798bd632e624.jpg",
 		"universe": "Earth-616",
@@ -8249,8 +9521,14 @@
 			}
 		],
 		"creators": [
-			"Terry Moore",
-			"Takeshi Miyazawa"
+			{
+				"id": "325",
+				"name": "Terry Moore"
+			},
+			{
+				"id": "056",
+				"name": "Takeshi Miyazawa"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/80/5798c9f83551b.jpg",
 		"universe": "Earth-616",
@@ -8273,8 +9551,14 @@
 			}
 		],
 		"creators": [
-			"Terry Moore",
-			"Takeshi Miyazawa"
+			{
+				"id": "325",
+				"name": "Terry Moore"
+			},
+			{
+				"id": "056",
+				"name": "Takeshi Miyazawa"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5798cae6c0425.jpg",
 		"universe": "Earth-616",
@@ -8297,8 +9581,14 @@
 			}
 		],
 		"creators": [
-			"Terry Moore",
-			"Takeshi Miyazawa"
+			{
+				"id": "325",
+				"name": "Terry Moore"
+			},
+			{
+				"id": "056",
+				"name": "Takeshi Miyazawa"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/5798caf5c3a00.jpg",
 		"universe": "Earth-616",
@@ -8321,8 +9611,14 @@
 			}
 		],
 		"creators": [
-			"Christ Yost",
-			"Sara Pichelli"
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "326",
+				"name": "Sara Pichelli"
+			}
 		],
 		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/4/10/5798c64c51f25/detail.jpg",
 		"universe": "Earth-616",
@@ -8345,8 +9641,14 @@
 			}
 		],
 		"creators": [
-			"Kathryn Immonen",
-			"Sara Pichelli"
+			{
+				"id": "327",
+				"name": "Kathryn Immonen"
+			},
+			{
+				"id": "326",
+				"name": "Sara Pichelli"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/5798c76b07096.jpg",
 		"universe": "Earth-616",
@@ -8369,8 +9671,14 @@
 			}
 		],
 		"creators": [
-			"Kathryn Immonen",
-			"Sara Pichelli"
+			{
+				"id": "327",
+				"name": "Kathryn Immonen"
+			},
+			{
+				"id": "326",
+				"name": "Sara Pichelli"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/c0/5798cf7acc788.jpg",
 		"universe": "Earth-616",
@@ -8393,8 +9701,14 @@
 			}
 		],
 		"creators": [
-			"Kathryn Immonen",
-			"Sara Pichelli"
+			{
+				"id": "327",
+				"name": "Kathryn Immonen"
+			},
+			{
+				"id": "326",
+				"name": "Sara Pichelli"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5798d183b3ac6.jpg",
 		"universe": "Earth-616",
@@ -8417,8 +9731,14 @@
 			}
 		],
 		"creators": [
-			"Kathryn Immonen",
-			"Sara Pichelli"
+			{
+				"id": "327",
+				"name": "Kathryn Immonen"
+			},
+			{
+				"id": "326",
+				"name": "Sara Pichelli"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/5798fddf3db1a.jpg",
 		"universe": "Earth-616",
@@ -8445,8 +9765,14 @@
 			}
 		],
 		"creators": [
-			"Ed Brubaker",
-			"David Aja"
+			{
+				"id": "113",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "219",
+				"name": "David Aja"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/572d11b7b0138.jpg",
 		"universe": "Earth-616",
@@ -8473,8 +9799,14 @@
 			}
 		],
 		"creators": [
-			"Ed Brubaker",
-			"Michael Lark"
+			{
+				"id": "113",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "117",
+				"name": "Michael Lark"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/572d11cb989b1.jpg",
 		"universe": "Earth-616",
@@ -8501,8 +9833,14 @@
 			}
 		],
 		"creators": [
-			"Ed Brubaker",
-			"Michael Lark"
+			{
+				"id": "113",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "117",
+				"name": "Michael Lark"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/572d123880155.jpg",
 		"universe": "Earth-616",
@@ -8529,8 +9867,14 @@
 			}
 		],
 		"creators": [
-			"Ed Brubaker",
-			"Michael Lark"
+			{
+				"id": "113",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "117",
+				"name": "Michael Lark"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/572d121454dd6.jpg",
 		"universe": "Earth-616",
@@ -8557,8 +9901,14 @@
 			}
 		],
 		"creators": [
-			"Ed Brubaker",
-			"Michael Lark"
+			{
+				"id": "113",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "117",
+				"name": "Michael Lark"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/574ef7ee35439.jpg",
 		"universe": "Earth-616",

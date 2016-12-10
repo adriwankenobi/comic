@@ -30,6 +30,11 @@ func getIssuesPage(menu service.Menu, issues *service.ComicList) (string, error)
 			char := fmt.Sprintf(c["a-link"], "characters", ch.ID, ch.Name)
 			characters = append(characters, char)
 		}
+		creators := []string{}
+		for _, cr := range e.Creators {
+			creat := fmt.Sprintf(c["a-link"], "creators", cr.ID, cr.Name)
+			creators = append(creators, creat)
+		}
 		displayEvent := "block"
 		if e.Event == "" {
 			displayEvent = "none"
@@ -57,7 +62,7 @@ func getIssuesPage(menu service.Menu, issues *service.ComicList) (string, error)
 			e.Event,
 			essential,
 			strings.Join(characters, ", "),
-			strings.Join(e.Creators, ", "),
+			strings.Join(creators, ", "),
 			displayComments,
 			commentList,
 		)
@@ -79,6 +84,10 @@ func getPhasesFissuesPage(menu service.Menu, fissues *service.Fissues) (string, 
 
 func getEventsFissuesPage(menu service.Menu, fissues *service.Fissues) (string, error) {
 	return getFissuesPage(menu, fissues, 3)
+}
+
+func getCreatorsFissuesPage(menu service.Menu, fissues *service.Fissues) (string, error) {
+	return getFissuesPage(menu, fissues, 4)
 }
 
 func getFissuesPage(menu service.Menu, fissues *service.Fissues, activeTab int) (string, error) {
@@ -138,9 +147,33 @@ func getFissuesPage(menu service.Menu, fissues *service.Fissues, activeTab int) 
 	return getTemplate(content, menu, activeTab), nil
 }
 
+// Creators
+func getCreatorsPage(menu service.Menu, creators *service.NamableList) string {
+	sort.Sort(service.ByName(*creators))
+	columns := ""
+	n := 8
+	for i := 0; i < n; i++ {
+		k := len(*creators) / n
+		first := i * k
+		last := first + k - 1
+		list := ""
+		for j := first; j <= last; j++ {
+			e := (*creators)[j]
+			a := fmt.Sprintf(c["a-link"], "creators", e.ID, e.Name)
+			li := fmt.Sprintf(c["list"], a)
+			list = fmt.Sprintf("%s%s", list, li)
+		}
+		ul := fmt.Sprintf(c["ul"], list)
+		column := fmt.Sprintf(c["div-left"], ul)
+		columns = fmt.Sprintf("%s%s", columns, column)
+	}
+	content := fmt.Sprintf(c["content"], "Creators", columns)
+	return getTemplate(content, menu, 4)
+}
+
 // About
 func getAboutPage(menu service.Menu) string {
-	return getTemplate(c["about"], menu, 4)
+	return getTemplate(c["about"], menu, 5)
 }
 
 // Not found
@@ -181,8 +214,8 @@ func getTemplate(content string, menu service.Menu, activeTab int) string {
 	phasesMenu := getMenuList(*menu.Phases, 3, "phases", true)
 	eventsMenu := getMenuList(*menu.Events, 3, "events", false)
 	charactersMenu := getMenuList(*menu.Characters, 8, "characters", false)
-	active := [5]string{"", "", "", "", ""}
-	if activeTab >= 0 && activeTab <= 4 {
+	active := [6]string{"", "", "", "", "", ""}
+	if activeTab >= 0 && activeTab <= 5 {
 		active[activeTab] = "active"
 	}
 	return fmt.Sprintf(c["template"],
@@ -205,6 +238,7 @@ func getTemplate(content string, menu service.Menu, activeTab int) string {
 		eventsMenu[1],
 		eventsMenu[2],
 		active[4],
+		active[5],
 		content,
 	)
 }

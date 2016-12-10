@@ -45,7 +45,7 @@ type Comic struct {
 	Event      string      `json:"event,omitempty"`      // From XLSX
 	EventID    string      `json:"eventid,omitempty"`    // From XLSX
 	Characters NamableList `json:"characters,omitempty"` // From Marvel API
-	Creators   []string    `json:"creators,omitempty"`   // From Marvel API
+	Creators   NamableList `json:"creators,omitempty"`   // From Marvel API
 	Pic        string      `json:"pic,omitempty"`        // From Marvel API
 	Universe   string      `json:"universe,omitempty"`   // From XLSX
 	Essential  bool        `json:"essential,omitempty"`  // From XLSX
@@ -163,7 +163,11 @@ func NewComic(in interface{}) (Comic, error) {
 			c.Characters = *namables
 			break
 		case "creators":
-			c.Creators = NewStringList(e)
+			namables, err := NewNamableList(e)
+			if err != nil {
+				return c, err
+			}
+			c.Creators = *namables
 			break
 		case "pic":
 			c.Pic = e.(string)

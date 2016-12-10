@@ -19,8 +19,14 @@
 			}
 		],
 		"creators": [
-			"Mike Avon Oeming",
-			"Andrea Di Vito"
+			{
+				"id": "080",
+				"name": "Mike Oeming"
+			},
+			{
+				"id": "081",
+				"name": "Andrea Di Vito"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/56f2ca6c61f94.jpg",
 		"universe": "Earth-616",
@@ -49,8 +55,14 @@
 			}
 		],
 		"creators": [
-			"Mike Avon Oeming",
-			"Andrea Di Vito"
+			{
+				"id": "080",
+				"name": "Mike Oeming"
+			},
+			{
+				"id": "081",
+				"name": "Andrea Di Vito"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/56f2ca605a8c4.jpg",
 		"universe": "Earth-616",
@@ -79,8 +91,14 @@
 			}
 		],
 		"creators": [
-			"Mike Avon Oeming",
-			"Andrea Di Vito"
+			{
+				"id": "080",
+				"name": "Mike Oeming"
+			},
+			{
+				"id": "081",
+				"name": "Andrea Di Vito"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/56f2ca5509afe.jpg",
 		"universe": "Earth-616",
@@ -109,8 +127,14 @@
 			}
 		],
 		"creators": [
-			"Mike Avon Oeming",
-			"Andrea Di Vito"
+			{
+				"id": "080",
+				"name": "Mike Oeming"
+			},
+			{
+				"id": "081",
+				"name": "Andrea Di Vito"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/56f2ca0343ea5.jpg",
 		"universe": "Earth-616",
@@ -139,8 +163,14 @@
 			}
 		],
 		"creators": [
-			"Mike Avon Oeming",
-			"Andrea Di Vito"
+			{
+				"id": "080",
+				"name": "Mike Oeming"
+			},
+			{
+				"id": "081",
+				"name": "Andrea Di Vito"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/56f2c9a06235f.jpg",
 		"universe": "Earth-616",
@@ -169,8 +199,14 @@
 			}
 		],
 		"creators": [
-			"Mike Avon Oeming",
-			"Andrea Di Vito"
+			{
+				"id": "080",
+				"name": "Mike Oeming"
+			},
+			{
+				"id": "081",
+				"name": "Andrea Di Vito"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/56f2c9d73ebbc.jpg",
 		"universe": "Earth-616",
@@ -198,8 +234,14 @@
 			}
 		],
 		"creators": [
-			"John Jackson Miller",
-			"Jorge Lucas"
+			{
+				"id": "082",
+				"name": "John Jackson Miller"
+			},
+			{
+				"id": "065",
+				"name": "Jorge Lucas"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4d2526fe375bf.jpg",
 		"universe": "Earth-616",
@@ -223,8 +265,14 @@
 			}
 		],
 		"creators": [
-			"John Jackson Miller",
-			"Jorge Lucas"
+			{
+				"id": "082",
+				"name": "John Jackson Miller"
+			},
+			{
+				"id": "065",
+				"name": "Jorge Lucas"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4d250fc6c15f0.jpg",
 		"universe": "Earth-616",
@@ -248,8 +296,14 @@
 			}
 		],
 		"creators": [
-			"Paul Jenkins",
-			"Michael Ryan"
+			{
+				"id": "001",
+				"name": "Paul Jenkins"
+			},
+			{
+				"id": "066",
+				"name": "Michael Ryan"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/57e55d6474b3c.jpg",
 		"universe": "Earth-616",
@@ -273,8 +327,14 @@
 			}
 		],
 		"creators": [
-			"Paul Jenkins",
-			"Michael Ryan"
+			{
+				"id": "001",
+				"name": "Paul Jenkins"
+			},
+			{
+				"id": "066",
+				"name": "Michael Ryan"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/57e55d7ab5cce.jpg",
 		"universe": "Earth-616",
@@ -298,8 +358,14 @@
 			}
 		],
 		"creators": [
-			"Paul Jenkins",
-			"Humberto Ramos"
+			{
+				"id": "001",
+				"name": "Paul Jenkins"
+			},
+			{
+				"id": "050",
+				"name": "Humberto Ramos"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/57e55d9e8c28d.jpg",
 		"universe": "Earth-616",
@@ -323,8 +389,14 @@
 			}
 		],
 		"creators": [
-			"Paul Jenkins",
-			"Humberto Ramos"
+			{
+				"id": "001",
+				"name": "Paul Jenkins"
+			},
+			{
+				"id": "050",
+				"name": "Humberto Ramos"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/a0/57e567b377577.jpg",
 		"universe": "Earth-616",
@@ -348,8 +420,14 @@
 			}
 		],
 		"creators": [
-			"Paul Jenkins",
-			"Humberto Ramos"
+			{
+				"id": "001",
+				"name": "Paul Jenkins"
+			},
+			{
+				"id": "050",
+				"name": "Humberto Ramos"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/57e55d8c436d6.jpg",
 		"universe": "Earth-616",
@@ -373,8 +451,14 @@
 			}
 		],
 		"creators": [
-			"Paul Jenkins",
-			"Humberto Ramos"
+			{
+				"id": "001",
+				"name": "Paul Jenkins"
+			},
+			{
+				"id": "050",
+				"name": "Humberto Ramos"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/57e567e20c6cc.jpg",
 		"universe": "Earth-616",
@@ -406,8 +490,14 @@
 			}
 		],
 		"creators": [
-			"Christopher Priest",
-			"Joe Bennett"
+			{
+				"id": "083",
+				"name": "Christopher Priest"
+			},
+			{
+				"id": "084",
+				"name": "Joe Bennett"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/51d2f06d04209.jpg",
 		"universe": "Earth-616",
@@ -439,8 +529,14 @@
 			}
 		],
 		"creators": [
-			"Christopher Priest",
-			"Joe Bennett"
+			{
+				"id": "083",
+				"name": "Christopher Priest"
+			},
+			{
+				"id": "084",
+				"name": "Joe Bennett"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/51d2f063a7fe1.jpg",
 		"universe": "Earth-616",
@@ -472,8 +568,14 @@
 			}
 		],
 		"creators": [
-			"Christopher Priest",
-			"Joe Bennett"
+			{
+				"id": "083",
+				"name": "Christopher Priest"
+			},
+			{
+				"id": "084",
+				"name": "Joe Bennett"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/51e0587f7f723.jpg",
 		"universe": "Earth-616",
@@ -545,8 +647,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"David Finch"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "085",
+				"name": "David Finch"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4f5a50d019d82.jpg",
 		"universe": "Earth-616",
@@ -622,8 +730,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"David Finch"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "085",
+				"name": "David Finch"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4f5a50236ebb2.jpg",
 		"universe": "Earth-616",
@@ -696,8 +810,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"David Finch"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "085",
+				"name": "David Finch"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f58d176985bc.jpg",
 		"universe": "Earth-616",
@@ -770,8 +890,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"David Finch"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "085",
+				"name": "David Finch"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4f5a4f71e8dd5.jpg",
 		"universe": "Earth-616",
@@ -844,8 +970,14 @@
 			}
 		],
 		"creators": [
-			"Brian Michael Bendis",
-			"David Finch"
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "085",
+				"name": "David Finch"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/51e045c27a7b0.jpg",
 		"universe": "Earth-616",
@@ -877,8 +1009,14 @@
 			}
 		],
 		"creators": [
-			"Robert Kirkman",
-			"Scot Eaton"
+			{
+				"id": "086",
+				"name": "Robert Kirkman"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/4e8b2947716c8.jpg",
 		"universe": "Earth-616",
@@ -906,8 +1044,14 @@
 			}
 		],
 		"creators": [
-			"Robert Kirkman",
-			"Scot Eaton"
+			{
+				"id": "086",
+				"name": "Robert Kirkman"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4e8b2b833d073.jpg",
 		"universe": "Earth-616",
@@ -935,8 +1079,14 @@
 			}
 		],
 		"creators": [
-			"Robert Kirkman",
-			"Scot Eaton"
+			{
+				"id": "086",
+				"name": "Robert Kirkman"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4e8b4d83564dd.jpg",
 		"universe": "Earth-616",
@@ -964,8 +1114,14 @@
 			}
 		],
 		"creators": [
-			"Robert Kirkman",
-			"Scot Eaton"
+			{
+				"id": "086",
+				"name": "Robert Kirkman"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/4e8b5fbcbdfcf.jpg",
 		"universe": "Earth-616",
@@ -989,8 +1145,14 @@
 			}
 		],
 		"creators": [
-			"Mark Ricketts",
-			"Tony Harris"
+			{
+				"id": "088",
+				"name": "Mark Ricketts"
+			},
+			{
+				"id": "089",
+				"name": "Tony Harris"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4d24e94fd08df.jpg",
 		"universe": "Earth-616",
@@ -1014,8 +1176,14 @@
 			}
 		],
 		"creators": [
-			"Mark Ricketts",
-			"Tony Harris"
+			{
+				"id": "088",
+				"name": "Mark Ricketts"
+			},
+			{
+				"id": "089",
+				"name": "Tony Harris"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4d251531383aa.jpg",
 		"universe": "Earth-616",
@@ -1039,8 +1207,14 @@
 			}
 		],
 		"creators": [
-			"Mark Ricketts",
-			"Tony Harris"
+			{
+				"id": "088",
+				"name": "Mark Ricketts"
+			},
+			{
+				"id": "089",
+				"name": "Tony Harris"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4d24fcb8df124.jpg",
 		"universe": "Earth-616",
@@ -1064,8 +1238,14 @@
 			}
 		],
 		"creators": [
-			"Mark Ricketts",
-			"Scott Kolins"
+			{
+				"id": "088",
+				"name": "Mark Ricketts"
+			},
+			{
+				"id": "090",
+				"name": "Scott Kolins"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4d2511fc3b7f0.jpg",
 		"universe": "Earth-616",
@@ -1105,8 +1285,14 @@
 			}
 		],
 		"creators": [
-			"Mark Waid",
-			"Mike Wieringo"
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "038",
+				"name": "Mike Wieringo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/57e9748092fdc.jpg",
 		"universe": "Earth-616",
@@ -1146,8 +1332,14 @@
 			}
 		],
 		"creators": [
-			"Mark Waid",
-			"Mike Wieringo"
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "038",
+				"name": "Mike Wieringo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/57e972daf2e76.jpg",
 		"universe": "Earth-616",
@@ -1191,8 +1383,14 @@
 			}
 		],
 		"creators": [
-			"Mark Waid",
-			"Mike Wieringo"
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "038",
+				"name": "Mike Wieringo"
+			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/57e9754707eaf.jpg",
 		"universe": "Earth-616",

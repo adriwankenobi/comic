@@ -99,6 +99,16 @@ func init() {
 	router.GET("/api/characters/:id", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
 		return service.FindNamableByID(j["characters"], p.ByName("id"))
 	}))
+	
+	// Get all creators
+	router.GET("/api/creators", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
+		return service.ListNamables(j["creators"])
+	}))
+
+	// Get this creator
+	router.GET("/api/creators/:id", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
+		return service.FindNamableByID(j["creators"], p.ByName("id"))
+	}))
 
 	// WEB
 
@@ -141,6 +151,24 @@ func init() {
 			return "", err
 		}
 		return getCharactersFissuesPage(menu, issues)
+	}))
+	
+	// Creators -> Get all creators
+	router.GET("/creators", webHandle(func(p httprouter.Params) (string, error) {
+		creators, err := service.ListNamables(j["creators"])
+		if err != nil {
+			return "", err
+		}
+		return getCreatorsPage(menu, creators), nil
+	}))
+	
+	// Issues -> Get all first issues from this creator
+	router.GET("/creators/:id", webHandle(func(p httprouter.Params) (string, error) {
+		issues, err := service.FindFirstIssuesByID(j["fissues-creators"], p.ByName("id"))
+		if err != nil {
+			return "", err
+		}
+		return getCreatorsFissuesPage(menu, issues)
 	}))
 
 	// About

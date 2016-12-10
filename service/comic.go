@@ -24,6 +24,9 @@ func JsonGenerator(path, out string) error {
 	// New characters list
 	chars := NamableList{}
 
+	// New creators list
+	creats := NamableList{}
+
 	// New issues phase list
 	fissuesPhases := FissuesList{}
 
@@ -40,6 +43,10 @@ func JsonGenerator(path, out string) error {
 	charsMap := map[string]Namable{}
 	charsComics := map[string]*ComicList{}
 	charID := 0
+
+	creatsMap := map[string]Namable{}
+	creatsComics := map[string]*ComicList{}
+	creatID := 0
 
 	// Loop through file sheets
 	for sheet_i, sheet := range xls.Sheets {
@@ -158,7 +165,25 @@ func JsonGenerator(path, out string) error {
 					charsList = append(charsList, ch)
 				}
 				c.Characters = charsList
-				c.Creators = strings.Split(creators, ", ")
+				creatorsArray := strings.Split(creators, ", ")
+				creatsList := NamableList{}
+				for _, creator := range creatorsArray {
+					cr, exists := creatsMap[creator]
+					if !exists {
+						creatID++
+						cID, err := getCode(creatID)
+						if err != nil {
+							return err
+						}
+						cr = Namable{ID: cID, Name: creator}
+						creatsMap[creator] = cr
+						creatsMap[cID] = cr
+						creatsComics[cID] = &ComicList{}
+						creats = append(creats, cr)
+					}
+					creatsList = append(creatsList, cr)
+				}
+				c.Creators = creatsList
 				c.Pic = pic
 				c.Universe = universe
 				c.Essential = essential == "YES"
@@ -196,6 +221,9 @@ func JsonGenerator(path, out string) error {
 					}
 					for _, ch := range c.Characters {
 						*(charsComics[ch.ID]) = append(*(charsComics[ch.ID]), co)
+					}
+					for _, cr := range c.Creators {
+						*(creatsComics[cr.ID]) = append(*(creatsComics[cr.ID]), co)
 					}
 				} else {
 					co := Comic{
@@ -266,6 +294,60 @@ func JsonGenerator(path, out string) error {
 							}
 						}
 					}
+					for _, cr := range c.Creators {
+						creatC := *(creatsComics[cr.ID])
+						if len(creatC) <= 0 {
+							sID, err := getCode(sortID)
+							if err != nil {
+								return err
+							}
+							tmp := Comic{
+								Pic:        pic,
+								Title:      title,
+								Date:       date,
+								SortID:     sID,
+								PhaseID:    p.ID,
+								Characters: NamableList{c.Characters[0]},
+								ComicList: []Comic{
+									Comic{
+										Collection: c.Collection,
+										Vol:        c.Vol,
+										Num:        c.Num,
+									},
+								},
+							}
+							creatC = append(creatC, tmp)
+							creatsComics[cr.ID] = &creatC
+						} else {
+							last := creatC[len(creatC)-1]
+							if last.Title != title {
+								sID, err := getCode(sortID)
+								if err != nil {
+									return err
+								}
+								tmp := Comic{
+									Pic:        pic,
+									Title:      title,
+									Date:       date,
+									SortID:     sID,
+									PhaseID:    p.ID,
+									Characters: NamableList{c.Characters[0]},
+									ComicList: []Comic{
+										Comic{
+											Collection: c.Collection,
+											Vol:        c.Vol,
+											Num:        c.Num,
+										},
+									},
+								}
+								creatC = append(creatC, tmp)
+								creatsComics[cr.ID] = &creatC
+							} else {
+								last.ComicList = append(last.ComicList, co)
+								creatC[len(creatC)-1] = last
+							}
+						}
+					}
 				}
 				c.SortID, err = getCode(sortID)
 				if err != nil {
@@ -284,6 +366,7 @@ func JsonGenerator(path, out string) error {
 	Datastore["fissues-phases"] = &fissuesPhases
 	Datastore["events"] = &events
 	Datastore["characters"] = &chars
+	Datastore["creators"] = &creats
 
 	fissuesEvents := FissuesList{}
 	for key, value := range eventsComics {
@@ -308,6 +391,18 @@ func JsonGenerator(path, out string) error {
 		fissuesChars = append(fissuesChars, iChars)
 	}
 	Datastore["fissues-characters"] = &fissuesChars
+
+	fissuesCreators := FissuesList{}
+	for key, value := range creatsComics {
+		iCreats := Fissues{}
+		iCreats.List = ComicList{}
+		for _, c := range *value {
+			iCreats.List = append(iCreats.List, c)
+		}
+		iCreats.Namable = creatsMap[key]
+		fissuesCreators = append(fissuesCreators, iCreats)
+	}
+	Datastore["fissues-creators"] = &fissuesCreators
 	return nil
 }
 

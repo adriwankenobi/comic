@@ -1,0 +1,1642 @@
+[
+	{
+		"id": "001",
+		"name": "Paul Jenkins"
+	},
+	{
+		"id": "002",
+		"name": "Jae Lee"
+	},
+	{
+		"id": "003",
+		"name": "Kevin Smith"
+	},
+	{
+		"id": "004",
+		"name": "Joe Quesada"
+	},
+	{
+		"id": "005",
+		"name": "David Mack"
+	},
+	{
+		"id": "006",
+		"name": "Chuck Dixon"
+	},
+	{
+		"id": "007",
+		"name": "Eduardo Barreto"
+	},
+	{
+		"id": "008",
+		"name": "Jeph Loeb"
+	},
+	{
+		"id": "009",
+		"name": "Tim Sale"
+	},
+	{
+		"id": "010",
+		"name": "Dan Jurgens"
+	},
+	{
+		"id": "011",
+		"name": "Walter Taborda"
+	},
+	{
+		"id": "012",
+		"name": "Jim Starlin"
+	},
+	{
+		"id": "013",
+		"name": "Stuart Immonen"
+	},
+	{
+		"id": "014",
+		"name": "Akira Yoshida"
+	},
+	{
+		"id": "015",
+		"name": "Greg Tocchini"
+	},
+	{
+		"id": "016",
+		"name": "Brian Michael Bendis"
+	},
+	{
+		"id": "017",
+		"name": "Bob Gale"
+	},
+	{
+		"id": "018",
+		"name": "Phil Winslade"
+	},
+	{
+		"id": "019",
+		"name": "David Ross"
+	},
+	{
+		"id": "020",
+		"name": "Alex Maleev"
+	},
+	{
+		"id": "021",
+		"name": "Michael Gaydos"
+	},
+	{
+		"id": "022",
+		"name": "Grant Morrison"
+	},
+	{
+		"id": "023",
+		"name": "Frank Quitely"
+	},
+	{
+		"id": "024",
+		"name": "Ethan Van Sciver"
+	},
+	{
+		"id": "025",
+		"name": "Leinil Yu"
+	},
+	{
+		"id": "026",
+		"name": "Igor Kordey"
+	},
+	{
+		"id": "027",
+		"name": "John Paul Leon"
+	},
+	{
+		"id": "028",
+		"name": "Phil Jimenez"
+	},
+	{
+		"id": "029",
+		"name": "Andy Kubert"
+	},
+	{
+		"id": "030",
+		"name": "Karl Bollers"
+	},
+	{
+		"id": "031",
+		"name": "Randy Green"
+	},
+	{
+		"id": "032",
+		"name": "Carlo Pagualyan"
+	},
+	{
+		"id": "033",
+		"name": "Adriana Melo"
+	},
+	{
+		"id": "034",
+		"name": "Keron Grant"
+	},
+	{
+		"id": "035",
+		"name": "Chris Bachalo"
+	},
+	{
+		"id": "036",
+		"name": "Marc Silvestri"
+	},
+	{
+		"id": "037",
+		"name": "Mark Waid"
+	},
+	{
+		"id": "038",
+		"name": "Mike Wieringo"
+	},
+	{
+		"id": "039",
+		"name": "Mark Buckingham"
+	},
+	{
+		"id": "040",
+		"name": "Casey Jones"
+	},
+	{
+		"id": "041",
+		"name": "Howard Porter"
+	},
+	{
+		"id": "042",
+		"name": "Paco Medina"
+	},
+	{
+		"id": "043",
+		"name": "Roger Stern"
+	},
+	{
+		"id": "044",
+		"name": "Ron Frenz"
+	},
+	{
+		"id": "045",
+		"name": "Howard Mackie"
+	},
+	{
+		"id": "046",
+		"name": "John Romita Jr"
+	},
+	{
+		"id": "047",
+		"name": "Peter Milligan"
+	},
+	{
+		"id": "048",
+		"name": "Duncan Fegredo"
+	},
+	{
+		"id": "049",
+		"name": "J Michael Straczynski"
+	},
+	{
+		"id": "050",
+		"name": "Humberto Ramos"
+	},
+	{
+		"id": "051",
+		"name": "Brett Matthews"
+	},
+	{
+		"id": "052",
+		"name": "Vatche Mavlian"
+	},
+	{
+		"id": "053",
+		"name": "Brian K Vaughan"
+	},
+	{
+		"id": "054",
+		"name": "Staz Johnson"
+	},
+	{
+		"id": "055",
+		"name": "Adrian Alphona"
+	},
+	{
+		"id": "056",
+		"name": "Takeshi Miyazawa"
+	},
+	{
+		"id": "057",
+		"name": "Dan Slott"
+	},
+	{
+		"id": "058",
+		"name": "Juan Bobillo"
+	},
+	{
+		"id": "059",
+		"name": "Paul Pelletier"
+	},
+	{
+		"id": "060",
+		"name": "Mark Bagley"
+	},
+	{
+		"id": "061",
+		"name": "Matt Cherniss"
+	},
+	{
+		"id": "062",
+		"name": "Peter Johnson"
+	},
+	{
+		"id": "063",
+		"name": "Rob Rodi"
+	},
+	{
+		"id": "064",
+		"name": "Cliff Richards"
+	},
+	{
+		"id": "065",
+		"name": "Jorge Lucas"
+	},
+	{
+		"id": "066",
+		"name": "Michael Ryan"
+	},
+	{
+		"id": "067",
+		"name": "Manuel Garcia"
+	},
+	{
+		"id": "068",
+		"name": "Sean McKeever"
+	},
+	{
+		"id": "069",
+		"name": "Roberto Aguirre-Sacasa"
+	},
+	{
+		"id": "070",
+		"name": "Steve McNiven"
+	},
+	{
+		"id": "071",
+		"name": "Jim Muniz"
+	},
+	{
+		"id": "072",
+		"name": "Valentine De Landro"
+	},
+	{
+		"id": "073",
+		"name": "Mizuki Sakakibara"
+	},
+	{
+		"id": "074",
+		"name": "Joss Whedon"
+	},
+	{
+		"id": "075",
+		"name": "John Cassaday"
+	},
+	{
+		"id": "076",
+		"name": "Mark Millar"
+	},
+	{
+		"id": "077",
+		"name": "Terry Dodson"
+	},
+	{
+		"id": "078",
+		"name": "Frank Cho"
+	},
+	{
+		"id": "079",
+		"name": "Mike Deodato Jr"
+	},
+	{
+		"id": "080",
+		"name": "Mike Oeming"
+	},
+	{
+		"id": "081",
+		"name": "Andrea Di Vito"
+	},
+	{
+		"id": "082",
+		"name": "John Jackson Miller"
+	},
+	{
+		"id": "083",
+		"name": "Christopher Priest"
+	},
+	{
+		"id": "084",
+		"name": "Joe Bennett"
+	},
+	{
+		"id": "085",
+		"name": "David Finch"
+	},
+	{
+		"id": "086",
+		"name": "Robert Kirkman"
+	},
+	{
+		"id": "087",
+		"name": "Scot Eaton"
+	},
+	{
+		"id": "088",
+		"name": "Mark Ricketts"
+	},
+	{
+		"id": "089",
+		"name": "Tony Harris"
+	},
+	{
+		"id": "090",
+		"name": "Scott Kolins"
+	},
+	{
+		"id": "091",
+		"name": "Chris Claremont"
+	},
+	{
+		"id": "092",
+		"name": "Alan Davis"
+	},
+	{
+		"id": "093",
+		"name": "Olivier Coipel"
+	},
+	{
+		"id": "094",
+		"name": "Andy Park"
+	},
+	{
+		"id": "095",
+		"name": "David Hine"
+	},
+	{
+		"id": "096",
+		"name": "David Yardin"
+	},
+	{
+		"id": "097",
+		"name": "Lan Medina"
+	},
+	{
+		"id": "098",
+		"name": "Mike Perkins"
+	},
+	{
+		"id": "099",
+		"name": "Peter David"
+	},
+	{
+		"id": "100",
+		"name": "Pablo Raimondi"
+	},
+	{
+		"id": "101",
+		"name": "Christina Weir"
+	},
+	{
+		"id": "102",
+		"name": "Keith Giffen"
+	},
+	{
+		"id": "103",
+		"name": "Ron Lim"
+	},
+	{
+		"id": "104",
+		"name": "Allan Heinberg"
+	},
+	{
+		"id": "105",
+		"name": "Jim Cheung"
+	},
+	{
+		"id": "106",
+		"name": "Fiona Avery"
+	},
+	{
+		"id": "107",
+		"name": "Mark Brooks"
+	},
+	{
+		"id": "108",
+		"name": "Fabian Nicieza"
+	},
+	{
+		"id": "109",
+		"name": "Rob Liefeld"
+	},
+	{
+		"id": "110",
+		"name": "Patrick Zircher"
+	},
+	{
+		"id": "111",
+		"name": "Daniel Way"
+	},
+	{
+		"id": "112",
+		"name": "Steve Dillon"
+	},
+	{
+		"id": "113",
+		"name": "Ed Brubaker"
+	},
+	{
+		"id": "114",
+		"name": "Steve Epting"
+	},
+	{
+		"id": "115",
+		"name": "Gabriele Dell'Otto"
+	},
+	{
+		"id": "116",
+		"name": "Brent Anderson"
+	},
+	{
+		"id": "117",
+		"name": "Michael Lark"
+	},
+	{
+		"id": "118",
+		"name": "Tony Bedard"
+	},
+	{
+		"id": "119",
+		"name": "Reginald Hudlin"
+	},
+	{
+		"id": "120",
+		"name": "Greg Pak"
+	},
+	{
+		"id": "121",
+		"name": "Greg Land"
+	},
+	{
+		"id": "122",
+		"name": "Craig Kyle"
+	},
+	{
+		"id": "123",
+		"name": "Chris Yost"
+	},
+	{
+		"id": "124",
+		"name": "Billy Tan"
+	},
+	{
+		"id": "125",
+		"name": "Karl Kesel"
+	},
+	{
+		"id": "126",
+		"name": "Tom Grummett"
+	},
+	{
+		"id": "127",
+		"name": "Darick Robertson"
+	},
+	{
+		"id": "128",
+		"name": "Karl Moline"
+	},
+	{
+		"id": "129",
+		"name": "Derec Donovan"
+	},
+	{
+		"id": "130",
+		"name": "Kaare Andrews"
+	},
+	{
+		"id": "131",
+		"name": "Tom Raney"
+	},
+	{
+		"id": "132",
+		"name": "Fred Van Lente"
+	},
+	{
+		"id": "133",
+		"name": "Leonard Kirk"
+	},
+	{
+		"id": "134",
+		"name": "Lee Weeks"
+	},
+	{
+		"id": "135",
+		"name": "Clayton Henry"
+	},
+	{
+		"id": "136",
+		"name": "Georges Jeanty"
+	},
+	{
+		"id": "137",
+		"name": "Salvador Larroca"
+	},
+	{
+		"id": "138",
+		"name": "John Layman"
+	},
+	{
+		"id": "139",
+		"name": "Pat Lee"
+	},
+	{
+		"id": "140",
+		"name": "Adam Kubert"
+	},
+	{
+		"id": "141",
+		"name": "Trevor Hairsine"
+	},
+	{
+		"id": "142",
+		"name": "Javier Saltares"
+	},
+	{
+		"id": "143",
+		"name": "Aaron Lopresti"
+	},
+	{
+		"id": "144",
+		"name": "Brian Reed"
+	},
+	{
+		"id": "145",
+		"name": "Roberto De La Torre"
+	},
+	{
+		"id": "146",
+		"name": "Christos Gage"
+	},
+	{
+		"id": "147",
+		"name": "Hugh Sterbakov"
+	},
+	{
+		"id": "148",
+		"name": "Sean Scoffield"
+	},
+	{
+		"id": "149",
+		"name": "Roy Allan Martinez"
+	},
+	{
+		"id": "150",
+		"name": "Ramon Bachs"
+	},
+	{
+		"id": "151",
+		"name": "Ryan Sook"
+	},
+	{
+		"id": "152",
+		"name": "Dennis Calero"
+	},
+	{
+		"id": "153",
+		"name": "Mike Carey"
+	},
+	{
+		"id": "154",
+		"name": "Rick Mays"
+	},
+	{
+		"id": "155",
+		"name": "Travel Foreman"
+	},
+	{
+		"id": "156",
+		"name": "Roger Cruz"
+	},
+	{
+		"id": "157",
+		"name": "Warren Ellis"
+	},
+	{
+		"id": "158",
+		"name": "Adi Granov"
+	},
+	{
+		"id": "159",
+		"name": "Mitch Breitweiser"
+	},
+	{
+		"id": "160",
+		"name": "Mike McKone"
+	},
+	{
+		"id": "161",
+		"name": "Will Conrad"
+	},
+	{
+		"id": "162",
+		"name": "Michael Choi"
+	},
+	{
+		"id": "163",
+		"name": "Marcos Martin"
+	},
+	{
+		"id": "164",
+		"name": "Keu Cha"
+	},
+	{
+		"id": "165",
+		"name": "Juan Santa Cruz"
+	},
+	{
+		"id": "166",
+		"name": "Clay Mann"
+	},
+	{
+		"id": "167",
+		"name": "Jonathan Luna"
+	},
+	{
+		"id": "168",
+		"name": "Reilly Brown"
+	},
+	{
+		"id": "169",
+		"name": "Zeb Wells"
+	},
+	{
+		"id": "170",
+		"name": "Skottie Young"
+	},
+	{
+		"id": "171",
+		"name": "Jeff Parker"
+	},
+	{
+		"id": "172",
+		"name": "Angel Medina"
+	},
+	{
+		"id": "173",
+		"name": "Clayton Crain"
+	},
+	{
+		"id": "174",
+		"name": "Charles Knauf"
+	},
+	{
+		"id": "175",
+		"name": "Daniel Knauf"
+	},
+	{
+		"id": "176",
+		"name": "Ariel Olivetti"
+	},
+	{
+		"id": "177",
+		"name": "Charlie Huston"
+	},
+	{
+		"id": "178",
+		"name": "Dan Abnett"
+	},
+	{
+		"id": "179",
+		"name": "Andy Lanning"
+	},
+	{
+		"id": "180",
+		"name": "Kev Walker"
+	},
+	{
+		"id": "181",
+		"name": "Javier Grillo-Marxuach"
+	},
+	{
+		"id": "182",
+		"name": "Greg Titus"
+	},
+	{
+		"id": "183",
+		"name": "Renato Arlem"
+	},
+	{
+		"id": "184",
+		"name": "Simon Furman"
+	},
+	{
+		"id": "185",
+		"name": "Jorge Pereira Lucas"
+	},
+	{
+		"id": "186",
+		"name": "Dave McCaig"
+	},
+	{
+		"id": "187",
+		"name": "Cory Petit"
+	},
+	{
+		"id": "188",
+		"name": "Joe Caramagna"
+	},
+	{
+		"id": "189",
+		"name": "Giuseppe Camuncoli"
+	},
+	{
+		"id": "190",
+		"name": "Tania Del Rio"
+	},
+	{
+		"id": "191",
+		"name": "Jonboy Meyers"
+	},
+	{
+		"id": "192",
+		"name": "Kieron Dwyer"
+	},
+	{
+		"id": "193",
+		"name": "Ron Garney"
+	},
+	{
+		"id": "194",
+		"name": "Tyler Kirkham"
+	},
+	{
+		"id": "195",
+		"name": "Paul Smith"
+	},
+	{
+		"id": "196",
+		"name": "Marc Guggenheim"
+	},
+	{
+		"id": "197",
+		"name": "Howard Chaykin"
+	},
+	{
+		"id": "198",
+		"name": "Steve Lieber"
+	},
+	{
+		"id": "199",
+		"name": "Todd Nauck"
+	},
+	{
+		"id": "200",
+		"name": "Justin Gray"
+	},
+	{
+		"id": "201",
+		"name": "Jimmy Palmiotti"
+	},
+	{
+		"id": "202",
+		"name": "Billy Tucci"
+	},
+	{
+		"id": "203",
+		"name": "Stefano Caselli"
+	},
+	{
+		"id": "204",
+		"name": "Duncan Rouleau"
+	},
+	{
+		"id": "205",
+		"name": "Mike Norton"
+	},
+	{
+		"id": "206",
+		"name": "Yanick Paquette"
+	},
+	{
+		"id": "207",
+		"name": "Pasqual Ferry"
+	},
+	{
+		"id": "208",
+		"name": "Jeremy Haun"
+	},
+	{
+		"id": "209",
+		"name": "Koi Turnbull"
+	},
+	{
+		"id": "210",
+		"name": "Matt Fraction"
+	},
+	{
+		"id": "211",
+		"name": "Frank Tieri"
+	},
+	{
+		"id": "212",
+		"name": "Mico Suayan"
+	},
+	{
+		"id": "213",
+		"name": "Dwayne McDuffie"
+	},
+	{
+		"id": "214",
+		"name": "Sean Chen"
+	},
+	{
+		"id": "215",
+		"name": "Marcus To"
+	},
+	{
+		"id": "216",
+		"name": "Ed McGuinness"
+	},
+	{
+		"id": "217",
+		"name": "Danny K. Miki"
+	},
+	{
+		"id": "218",
+		"name": "Rick Burchett"
+	},
+	{
+		"id": "219",
+		"name": "David Aja"
+	},
+	{
+		"id": "220",
+		"name": "Gary Frank"
+	},
+	{
+		"id": "221",
+		"name": "Marko Djurdjevic"
+	},
+	{
+		"id": "222",
+		"name": "Philippe Briones"
+	},
+	{
+		"id": "223",
+		"name": "Harvey Tolibao"
+	},
+	{
+		"id": "224",
+		"name": "Alina Urusov"
+	},
+	{
+		"id": "225",
+		"name": "Paul Cornell"
+	},
+	{
+		"id": "226",
+		"name": "Kevin Grevioux"
+	},
+	{
+		"id": "227",
+		"name": "Butch Guice"
+	},
+	{
+		"id": "228",
+		"name": "Leandro Fernandez"
+	},
+	{
+		"id": "229",
+		"name": "Phil Hester"
+	},
+	{
+		"id": "230",
+		"name": "Cory Walker"
+	},
+	{
+		"id": "231",
+		"name": "C B Cebulski"
+	},
+	{
+		"id": "232",
+		"name": "Andrew Currie"
+	},
+	{
+		"id": "233",
+		"name": "Scottie Young"
+	},
+	{
+		"id": "234",
+		"name": "Tom DeFalco"
+	},
+	{
+		"id": "235",
+		"name": "Tomm Coker"
+	},
+	{
+		"id": "236",
+		"name": "Mike Benson"
+	},
+	{
+		"id": "237",
+		"name": "Mark Texeira"
+	},
+	{
+		"id": "238",
+		"name": "Simone Bianchi"
+	},
+	{
+		"id": "239",
+		"name": "Jason Aaron"
+	},
+	{
+		"id": "240",
+		"name": "Howard Chayin"
+	},
+	{
+		"id": "241",
+		"name": "Khoi Pham"
+	},
+	{
+		"id": "242",
+		"name": "Mike Choi"
+	},
+	{
+		"id": "243",
+		"name": "Francis Portela"
+	},
+	{
+		"id": "244",
+		"name": "Alvaro Rio"
+	},
+	{
+		"id": "245",
+		"name": "Tom Beland"
+	},
+	{
+		"id": "246",
+		"name": "Juan Doe"
+	},
+	{
+		"id": "247",
+		"name": "Frazer Irving"
+	},
+	{
+		"id": "248",
+		"name": "Jackson Guice"
+	},
+	{
+		"id": "249",
+		"name": "Carlos Ferreira"
+	},
+	{
+		"id": "250",
+		"name": "Alvin Lee"
+	},
+	{
+		"id": "251",
+		"name": "Rafa Sandoval"
+	},
+	{
+		"id": "252",
+		"name": "Salvador Espin"
+	},
+	{
+		"id": "253",
+		"name": "Arthur Adams"
+	},
+	{
+		"id": "254",
+		"name": "Stuart Moore"
+	},
+	{
+		"id": "255",
+		"name": "Steve Uy"
+	},
+	{
+		"id": "256",
+		"name": "Scott Wegener"
+	},
+	{
+		"id": "257",
+		"name": "Shawn Moll"
+	},
+	{
+		"id": "258",
+		"name": "Val Semeiks"
+	},
+	{
+		"id": "259",
+		"name": "Stephen Segovia"
+	},
+	{
+		"id": "260",
+		"name": "Phil Briones"
+	},
+	{
+		"id": "261",
+		"name": "James Asmus"
+	},
+	{
+		"id": "262",
+		"name": "Jorge Molina"
+	},
+	{
+		"id": "263",
+		"name": "Duane Swierczynski"
+	},
+	{
+		"id": "264",
+		"name": "Ken Lashley"
+	},
+	{
+		"id": "265",
+		"name": "Paul Azaceta"
+	},
+	{
+		"id": "266",
+		"name": "Chris Samnee"
+	},
+	{
+		"id": "267",
+		"name": "Russ Heath"
+	},
+	{
+		"id": "268",
+		"name": "Nick Dragotta"
+	},
+	{
+		"id": "269",
+		"name": "Kano"
+	},
+	{
+		"id": "270",
+		"name": "Khari Evans"
+	},
+	{
+		"id": "271",
+		"name": "Timothy Green"
+	},
+	{
+		"id": "272",
+		"name": "Cullen Bunn"
+	},
+	{
+		"id": "273",
+		"name": "Daniel Brereton"
+	},
+	{
+		"id": "274",
+		"name": "Rick Spears"
+	},
+	{
+		"id": "275",
+		"name": "David Lapham"
+	},
+	{
+		"id": "276",
+		"name": "Arturo Lozzi"
+	},
+	{
+		"id": "277",
+		"name": "Terrell Bobbett"
+	},
+	{
+		"id": "278",
+		"name": "Paul Tobin"
+	},
+	{
+		"id": "279",
+		"name": "Pierre Alary"
+	},
+	{
+		"id": "280",
+		"name": "Patrick Olliffe"
+	},
+	{
+		"id": "281",
+		"name": "Chris Eliopoulos"
+	},
+	{
+		"id": "282",
+		"name": "Todd Dezago"
+	},
+	{
+		"id": "283",
+		"name": "Ray Height"
+	},
+	{
+		"id": "284",
+		"name": "Derec Aucoin"
+	},
+	{
+		"id": "285",
+		"name": "Dave Wilkins"
+	},
+	{
+		"id": "286",
+		"name": "Barry Kitson"
+	},
+	{
+		"id": "287",
+		"name": "Paulo Siqueira"
+	},
+	{
+		"id": "288",
+		"name": "J M DeMatteis"
+	},
+	{
+		"id": "289",
+		"name": "Alex Cai"
+	},
+	{
+		"id": "290",
+		"name": "Keith Champagne"
+	},
+	{
+		"id": "291",
+		"name": "Larry Stroman"
+	},
+	{
+		"id": "292",
+		"name": "Bryan Hitch"
+	},
+	{
+		"id": "293",
+		"name": "Mike Lilly"
+	},
+	{
+		"id": "294",
+		"name": "Kyle Hotz"
+	},
+	{
+		"id": "295",
+		"name": "Wellington Alves"
+	},
+	{
+		"id": "296",
+		"name": "Mahmud Asrar"
+	},
+	{
+		"id": "297",
+		"name": "Jheremy Raapack"
+	},
+	{
+		"id": "298",
+		"name": "Paco Diaz"
+	},
+	{
+		"id": "299",
+		"name": "Jim Krueger"
+	},
+	{
+		"id": "300",
+		"name": "Alex Ross"
+	},
+	{
+		"id": "301",
+		"name": "Steve Sadowski"
+	},
+	{
+		"id": "302",
+		"name": "Andre Coelho"
+	},
+	{
+		"id": "303",
+		"name": "John Rhett Thomas"
+	},
+	{
+		"id": "304",
+		"name": "Marco Castiello"
+	},
+	{
+		"id": "305",
+		"name": "Vincenzo Cucca"
+	},
+	{
+		"id": "306",
+		"name": "Fernando Blanco"
+	},
+	{
+		"id": "307",
+		"name": "Jefte Palo"
+	},
+	{
+		"id": "308",
+		"name": "Cary Nord"
+	},
+	{
+		"id": "309",
+		"name": "Joe Pokaski"
+	},
+	{
+		"id": "310",
+		"name": "Doug Braithwaite"
+	},
+	{
+		"id": "311",
+		"name": "Marco Santucci"
+	},
+	{
+		"id": "312",
+		"name": "Miguel Sepulveda"
+	},
+	{
+		"id": "313",
+		"name": "Steve Kurth"
+	},
+	{
+		"id": "314",
+		"name": "Kieron Gillen"
+	},
+	{
+		"id": "315",
+		"name": "Carlo Barberi"
+	},
+	{
+		"id": "316",
+		"name": "Marcos Marz"
+	},
+	{
+		"id": "317",
+		"name": "Mark Robinson"
+	},
+	{
+		"id": "318",
+		"name": "Rodney Buchemi"
+	},
+	{
+		"id": "319",
+		"name": "Joe Kelly"
+	},
+	{
+		"id": "320",
+		"name": "Paolo Rivera"
+	},
+	{
+		"id": "321",
+		"name": "John Arcudi"
+	},
+	{
+		"id": "322",
+		"name": "Paul Benjamin"
+	},
+	{
+		"id": "323",
+		"name": "Diogenes Neves"
+	},
+	{
+		"id": "324",
+		"name": "Tommy Lee Edwards"
+	},
+	{
+		"id": "325",
+		"name": "Terry Moore"
+	},
+	{
+		"id": "326",
+		"name": "Sara Pichelli"
+	},
+	{
+		"id": "327",
+		"name": "Kathryn Immonen"
+	},
+	{
+		"id": "328",
+		"name": "Andy Diggle"
+	},
+	{
+		"id": "329",
+		"name": "Luke Ross"
+	},
+	{
+		"id": "330",
+		"name": "Abigail Denson"
+	},
+	{
+		"id": "331",
+		"name": "Colleen Coover"
+	},
+	{
+		"id": "332",
+		"name": "Fabrizio Fiorentino"
+	},
+	{
+		"id": "333",
+		"name": "Dale Eaglesham"
+	},
+	{
+		"id": "334",
+		"name": "Marc Sumerak"
+	},
+	{
+		"id": "335",
+		"name": "Tony Lee"
+	},
+	{
+		"id": "336",
+		"name": "Tim Levins"
+	},
+	{
+		"id": "337",
+		"name": "Adam Dekraker"
+	},
+	{
+		"id": "338",
+		"name": "Bill Hader"
+	},
+	{
+		"id": "339",
+		"name": "Seth Meyers"
+	},
+	{
+		"id": "340",
+		"name": "Kevin Maguire"
+	},
+	{
+		"id": "341",
+		"name": "Bong Dazo"
+	},
+	{
+		"id": "342",
+		"name": "Jonathan Hickman"
+	},
+	{
+		"id": "343",
+		"name": "Rebekah Isaacs"
+	},
+	{
+		"id": "344",
+		"name": "Sana Takeda"
+	},
+	{
+		"id": "345",
+		"name": "Sergio Ariño"
+	},
+	{
+		"id": "346",
+		"name": "Adam Felber"
+	},
+	{
+		"id": "347",
+		"name": "Jim McCann"
+	},
+	{
+		"id": "348",
+		"name": "David Lopez"
+	},
+	{
+		"id": "349",
+		"name": "Gianluca Gugliotta"
+	},
+	{
+		"id": "350",
+		"name": "Rick Remender"
+	},
+	{
+		"id": "351",
+		"name": "Jerome Opena"
+	},
+	{
+		"id": "352",
+		"name": "Tan Eng Huat"
+	},
+	{
+		"id": "353",
+		"name": "Jason Pearson"
+	},
+	{
+		"id": "354",
+		"name": "Joe Casey"
+	},
+	{
+		"id": "355",
+		"name": "Nathan Fox"
+	},
+	{
+		"id": "356",
+		"name": "Peter Vale"
+	},
+	{
+		"id": "357",
+		"name": "June Chung"
+	},
+	{
+		"id": "358",
+		"name": "Javier Rodriguez"
+	},
+	{
+		"id": "359",
+		"name": "Alvaro Lopez"
+	},
+	{
+		"id": "360",
+		"name": "Jose Angel Cano Lopez"
+	},
+	{
+		"id": "361",
+		"name": "Nate Piekos"
+	},
+	{
+		"id": "362",
+		"name": "Geraldo Borges"
+	},
+	{
+		"id": "363",
+		"name": "Brad Walker"
+	},
+	{
+		"id": "364",
+		"name": "Wes Craig"
+	},
+	{
+		"id": "365",
+		"name": "Dustin Weaver"
+	},
+	{
+		"id": "366",
+		"name": "Graham Nolan"
+	},
+	{
+		"id": "367",
+		"name": "Jay Faerber"
+	},
+	{
+		"id": "368",
+		"name": "Kevin Sharpe"
+	},
+	{
+		"id": "369",
+		"name": "Frank D'Armata"
+	},
+	{
+		"id": "370",
+		"name": "Nathan Fairbairn"
+	},
+	{
+		"id": "371",
+		"name": "Alex Garner"
+	},
+	{
+		"id": "372",
+		"name": "Serge LaPointe"
+	},
+	{
+		"id": "373",
+		"name": "Steven Sanders"
+	},
+	{
+		"id": "374",
+		"name": "Gregg Hurwitz"
+	},
+	{
+		"id": "375",
+		"name": "Leonardo Manco"
+	},
+	{
+		"id": "376",
+		"name": "Dietrich Smith"
+	},
+	{
+		"id": "377",
+		"name": "Mike Mayhew"
+	},
+	{
+		"id": "378",
+		"name": "Kalman Andrasofszky"
+	},
+	{
+		"id": "379",
+		"name": "Stan Lee"
+	},
+	{
+		"id": "380",
+		"name": "Al Avison"
+	},
+	{
+		"id": "381",
+		"name": "Marco Checchetto"
+	},
+	{
+		"id": "382",
+		"name": "Javier Pulido"
+	},
+	{
+		"id": "383",
+		"name": "Chad Hardin"
+	},
+	{
+		"id": "384",
+		"name": "Tom Peyer"
+	},
+	{
+		"id": "385",
+		"name": "Stephanie Buscema"
+	},
+	{
+		"id": "386",
+		"name": "Andres Guinaldo"
+	},
+	{
+		"id": "387",
+		"name": "Mateus Satolouco"
+	},
+	{
+		"id": "388",
+		"name": "Allan Jefferson"
+	},
+	{
+		"id": "389",
+		"name": "Bing Cansino"
+	},
+	{
+		"id": "390",
+		"name": "Dan Panosian"
+	},
+	{
+		"id": "391",
+		"name": "Ben Oliver"
+	},
+	{
+		"id": "392",
+		"name": "Ian Churchill"
+	},
+	{
+		"id": "393",
+		"name": "Whilce Portacio"
+	},
+	{
+		"id": "394",
+		"name": "Neil Edwards"
+	},
+	{
+		"id": "395",
+		"name": "Esad Ribic"
+	},
+	{
+		"id": "396",
+		"name": "Alessandro Vitti"
+	},
+	{
+		"id": "397",
+		"name": "Pop Mahn"
+	},
+	{
+		"id": "398",
+		"name": "Gabriel Hardman"
+	},
+	{
+		"id": "399",
+		"name": "Zach Howard"
+	},
+	{
+		"id": "400",
+		"name": "Francis Tsai"
+	},
+	{
+		"id": "401",
+		"name": "Carlos Rodriguez"
+	},
+	{
+		"id": "402",
+		"name": "Ryan Stegman"
+	},
+	{
+		"id": "403",
+		"name": "Scott Reed"
+	},
+	{
+		"id": "404",
+		"name": "Harrison Wilcox"
+	},
+	{
+		"id": "405",
+		"name": "Jacopo Camagni"
+	},
+	{
+		"id": "406",
+		"name": "Lucio Parrillo"
+	},
+	{
+		"id": "407",
+		"name": "John Thomas"
+	},
+	{
+		"id": "408",
+		"name": "Federico Dallocchio"
+	},
+	{
+		"id": "409",
+		"name": "Jamie McKelvie"
+	},
+	{
+		"id": "410",
+		"name": "Niko Henrichon"
+	}
+]
