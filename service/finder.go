@@ -7,9 +7,11 @@ import (
 
 // Menu
 type Menu struct {
-	Phases *NamableList
-	Events *NamableList
-	Characters *NamableList
+	URI          string
+	IsEssentials bool
+	Phases       *NamableList
+	Events       *NamableList
+	Characters   *NamableList
 }
 
 // Get menu

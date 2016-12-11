@@ -11,7 +11,7 @@ import (
 )
 
 type jsonHandler func(p httprouter.Params) (service.JsonAble, error)
-type webHandler func(p httprouter.Params) (string, error)
+type webHandler func(r *http.Request, p httprouter.Params) (string, error)
 
 type webContent map[string]string
 type jsonContent map[string]*jsonql.JSONQL
@@ -89,7 +89,7 @@ func init() {
 	router.GET("/api/events/:id", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
 		return service.FindNamableByID(j["events"], p.ByName("id"))
 	}))
-	
+
 	// Get all characters
 	router.GET("/api/characters", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
 		return service.ListNamables(j["characters"])
@@ -99,7 +99,7 @@ func init() {
 	router.GET("/api/characters/:id", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
 		return service.FindNamableByID(j["characters"], p.ByName("id"))
 	}))
-	
+
 	// Get all creators
 	router.GET("/api/creators", jsonHandle(func(p httprouter.Params) (service.JsonAble, error) {
 		return service.ListNamables(j["creators"])
@@ -113,66 +113,74 @@ func init() {
 	// WEB
 
 	// Index -> Get all first issues from all phases
-	router.GET("/", webHandle(func(p httprouter.Params) (string, error) {
+	router.GET("/", webHandle(func(r *http.Request, p httprouter.Params) (string, error) {
+		updateMenu(&menu, r)
 		return getIndexPage(menu)
 	}))
 
 	// Issues -> Get all first issues from this phases
-	router.GET("/phases/:id", webHandle(func(p httprouter.Params) (string, error) {
+	router.GET("/phases/:id", webHandle(func(r *http.Request, p httprouter.Params) (string, error) {
 		issues, err := service.FindFirstIssuesByID(j["fissues-phases"], p.ByName("id"))
 		if err != nil {
 			return "", err
 		}
+		updateMenu(&menu, r)
 		return getPhasesFissuesPage(menu, issues)
 	}))
 
 	// Issues -> Get all issues from this comic from this phase
-	router.GET("/phases/:id/issues/:sortid", webHandle(func(p httprouter.Params) (string, error) {
+	router.GET("/phases/:id/issues/:sortid", webHandle(func(r *http.Request, p httprouter.Params) (string, error) {
 		issues, err := service.ListComicsBySortID(j[fmt.Sprintf("comics-phase-%s", p.ByName("id"))], p.ByName("sortid"))
 		if err != nil {
 			return "", err
 		}
+		updateMenu(&menu, r)
 		return getIssuesPage(menu, issues)
 	}))
 
 	// Issues -> Get all first issues from this event
-	router.GET("/events/:id", webHandle(func(p httprouter.Params) (string, error) {
+	router.GET("/events/:id", webHandle(func(r *http.Request, p httprouter.Params) (string, error) {
 		issues, err := service.FindFirstIssuesByID(j["fissues-events"], p.ByName("id"))
 		if err != nil {
 			return "", err
 		}
+		updateMenu(&menu, r)
 		return getEventsFissuesPage(menu, issues)
 	}))
-	
+
 	// Issues -> Get all first issues from this character
-	router.GET("/characters/:id", webHandle(func(p httprouter.Params) (string, error) {
+	router.GET("/characters/:id", webHandle(func(r *http.Request, p httprouter.Params) (string, error) {
 		issues, err := service.FindFirstIssuesByID(j["fissues-characters"], p.ByName("id"))
 		if err != nil {
 			return "", err
 		}
+		updateMenu(&menu, r)
 		return getCharactersFissuesPage(menu, issues)
 	}))
-	
+
 	// Creators -> Get all creators
-	router.GET("/creators", webHandle(func(p httprouter.Params) (string, error) {
+	router.GET("/creators", webHandle(func(r *http.Request, p httprouter.Params) (string, error) {
 		creators, err := service.ListNamables(j["creators"])
 		if err != nil {
 			return "", err
 		}
+		updateMenu(&menu, r)
 		return getCreatorsPage(menu, creators), nil
 	}))
-	
+
 	// Issues -> Get all first issues from this creator
-	router.GET("/creators/:id", webHandle(func(p httprouter.Params) (string, error) {
+	router.GET("/creators/:id", webHandle(func(r *http.Request, p httprouter.Params) (string, error) {
 		issues, err := service.FindFirstIssuesByID(j["fissues-creators"], p.ByName("id"))
 		if err != nil {
 			return "", err
 		}
+		updateMenu(&menu, r)
 		return getCreatorsFissuesPage(menu, issues)
 	}))
 
 	// About
-	router.GET("/about", webHandle(func(p httprouter.Params) (string, error) {
+	router.GET("/about", webHandle(func(r *http.Request, p httprouter.Params) (string, error) {
+		updateMenu(&menu, r)
 		return getAboutPage(menu), nil
 	}))
 
@@ -236,7 +244,7 @@ func jsonHandle(handle jsonHandler) httprouter.Handle {
 
 func webHandle(handle webHandler) httprouter.Handle {
 	return func(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
-		result, err := handle(p)
+		result, err := handle(r, p)
 		writeResponse(w, result, err)
 	}
 }
@@ -275,4 +283,10 @@ func writeResponse(w http.ResponseWriter, s string, err error) {
 func writeError(w http.ResponseWriter, err error) {
 	w.Header().Set("Error", err.Error())
 	w.WriteHeader(http.StatusInternalServerError)
+}
+
+// Util
+func updateMenu(menu *service.Menu, r *http.Request) {
+	menu.URI = r.URL.Path
+	menu.IsEssentials = r.FormValue("essentials") == "true"
 }

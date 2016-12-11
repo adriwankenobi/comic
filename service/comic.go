@@ -206,6 +206,7 @@ func JsonGenerator(path, out string) error {
 						SortID:     sID,
 						PhaseID:    p.ID,
 						Characters: NamableList{c.Characters[0]},
+						Essential: c.Essential,
 						ComicList: []Comic{
 							Comic{
 								Collection: c.Collection,
@@ -254,6 +255,7 @@ func JsonGenerator(path, out string) error {
 								SortID:     sID,
 								PhaseID:    p.ID,
 								Characters: NamableList{c.Characters[0]},
+								Essential: c.Essential,
 								ComicList: []Comic{
 									Comic{
 										Collection: c.Collection,
@@ -278,6 +280,7 @@ func JsonGenerator(path, out string) error {
 									SortID:     sID,
 									PhaseID:    p.ID,
 									Characters: NamableList{c.Characters[0]},
+									Essential: c.Essential,
 									ComicList: []Comic{
 										Comic{
 											Collection: c.Collection,
@@ -308,6 +311,7 @@ func JsonGenerator(path, out string) error {
 								SortID:     sID,
 								PhaseID:    p.ID,
 								Characters: NamableList{c.Characters[0]},
+								Essential: c.Essential,
 								ComicList: []Comic{
 									Comic{
 										Collection: c.Collection,
@@ -332,6 +336,7 @@ func JsonGenerator(path, out string) error {
 									SortID:     sID,
 									PhaseID:    p.ID,
 									Characters: NamableList{c.Characters[0]},
+									Essential: c.Essential,
 									ComicList: []Comic{
 										Comic{
 											Collection: c.Collection,

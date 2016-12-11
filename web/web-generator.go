@@ -27,12 +27,20 @@ func getIssuesPage(menu service.Menu, issues *service.ComicList) (string, error)
 		}
 		characters := []string{}
 		for _, ch := range e.Characters {
-			char := fmt.Sprintf(c["a-link"], "characters", ch.ID, ch.Name)
+			link := fmt.Sprintf("/characters/%s", ch.ID)
+			if menu.IsEssentials {
+				link = fmt.Sprintf("%s?essentials=true", link)
+			}
+			char := fmt.Sprintf(c["a-link"], link, ch.Name)
 			characters = append(characters, char)
 		}
 		creators := []string{}
 		for _, cr := range e.Creators {
-			creat := fmt.Sprintf(c["a-link"], "creators", cr.ID, cr.Name)
+			link := fmt.Sprintf("/creators/%s", cr.ID)
+			if menu.IsEssentials {
+				link = fmt.Sprintf("%s?essentials=true", link)
+			}
+			creat := fmt.Sprintf(c["a-link"], link, cr.Name)
 			creators = append(creators, creat)
 		}
 		displayEvent := "block"
@@ -49,16 +57,31 @@ func getIssuesPage(menu service.Menu, issues *service.ComicList) (string, error)
 			commentList = fmt.Sprintf("%s%s", commentList, comment)
 		}
 
-		con := fmt.Sprintf(c["content-issue"], name, e.PhaseID, e.SortID, e.Pic, name,
+		link := fmt.Sprintf("/phases/%s/issues/%s", e.PhaseID, e.SortID)
+		if menu.IsEssentials {
+			link = fmt.Sprintf("%s?essentials=true", link)
+		}
+	
+		phaseLink := fmt.Sprintf("/phases/%s", e.PhaseID)
+		if menu.IsEssentials {
+			phaseLink = fmt.Sprintf("%s?essentials=true", phaseLink)
+		}
+		
+		eventLink := fmt.Sprintf("/events/%s", e.EventID)
+		if menu.IsEssentials {
+			eventLink = fmt.Sprintf("%s?essentials=true", eventLink)
+		}
+		
+		con := fmt.Sprintf(c["content-issue"], name, link, e.Pic, name,
 			e.Collection,
 			e.Vol,
 			e.Num,
 			e.Date,
 			e.Universe,
-			e.PhaseID,
+			phaseLink,
 			e.PhaseName,
 			displayEvent,
-			e.EventID,
+			eventLink,
 			e.Event,
 			essential,
 			strings.Join(characters, ", "),
@@ -69,7 +92,11 @@ func getIssuesPage(menu service.Menu, issues *service.ComicList) (string, error)
 		issuesContent = fmt.Sprintf("%s%s", issuesContent, con)
 	}
 	issuesContent = fmt.Sprintf("%s%s", issuesContent, c["clear-fix"])
-	content := fmt.Sprintf(c["content-issues"], (*issues)[0].PhaseID, (*issues)[0].SortID, (*issues)[0].Title, issuesContent)
+	link := fmt.Sprintf("/phases/%s/issues/%s", (*issues)[0].PhaseID, (*issues)[0].SortID)
+	if menu.IsEssentials {
+		link = fmt.Sprintf("%s?essentials=true", link)
+	}
+	content := fmt.Sprintf(c["content-issues"], link, (*issues)[0].Title, issuesContent)
 	return getTemplate(content, menu, -1), nil
 }
 
@@ -96,7 +123,7 @@ func getFissuesPage(menu service.Menu, fissues *service.Fissues, activeTab int) 
 	}
 
 	issues := (*fissues).List
-	phaseID := fissues.Namable.ID
+	//phaseID := fissues.Namable.ID
 	issuesContent := ""
 	for _, i := range issues {
 		comicList := ""
@@ -139,9 +166,22 @@ func getFissuesPage(menu service.Menu, fissues *service.Fissues, activeTab int) 
 			comicList = fmt.Sprintf("%s%s", comicList, h6)
 		}
 
-		conIssue := fmt.Sprintf(c["content-fissue"], i.PhaseID, i.SortID, i.Pic, i.Title, i.Date[:4],
-			i.Characters[0].ID, i.Characters[0].Name, phaseID, i.SortID, i.Title, comicList)
-		issuesContent = fmt.Sprintf("%s%s", issuesContent, conIssue)
+		link := fmt.Sprintf("/phases/%s/issues/%s", i.PhaseID, i.SortID)
+		if menu.IsEssentials {
+			link = fmt.Sprintf("%s?essentials=true", link)
+		}
+
+		protagonistLink := fmt.Sprintf("/characters/%s", i.Characters[0].ID)
+		if menu.IsEssentials {
+			protagonistLink = fmt.Sprintf("%s?essentials=true", protagonistLink)
+		}
+
+		conIssue := fmt.Sprintf(c["content-fissue"], link, i.Pic, i.Title, i.Date[:4],
+			protagonistLink, i.Characters[0].Name, link, i.Title, comicList)
+		
+		if !menu.IsEssentials || i.Essential {
+			issuesContent = fmt.Sprintf("%s%s", issuesContent, conIssue)
+		}
 	}
 	content := fmt.Sprintf(c["content"], fissues.Namable.Name, issuesContent)
 	return getTemplate(content, menu, activeTab), nil
@@ -159,7 +199,11 @@ func getCreatorsPage(menu service.Menu, creators *service.NamableList) string {
 		list := ""
 		for j := first; j <= last; j++ {
 			e := (*creators)[j]
-			a := fmt.Sprintf(c["a-link"], "creators", e.ID, e.Name)
+			link := fmt.Sprintf("/creators/%s", e.ID)
+			if menu.IsEssentials {
+				link = fmt.Sprintf("%s?essentials=true", link)
+			}
+			a := fmt.Sprintf(c["a-link"], link, e.Name)
 			li := fmt.Sprintf(c["list"], a)
 			list = fmt.Sprintf("%s%s", list, li)
 		}
@@ -173,7 +217,7 @@ func getCreatorsPage(menu service.Menu, creators *service.NamableList) string {
 
 // About
 func getAboutPage(menu service.Menu) string {
-	return getTemplate(c["about"], menu, 5)
+	return getTemplate(c["about"], menu, 6)
 }
 
 // Not found
@@ -183,7 +227,7 @@ func getNotFoundPage(menu service.Menu) string {
 
 // Utils
 // Menu
-func getMenuList(namables service.NamableList, n int, link string, showID bool) []string {
+func getMenuList(namables service.NamableList, isEssentials bool, n int, link string, showID bool) []string {
 	result := make([]string, n)
 	m := len(namables) / n
 	r := len(namables) % n
@@ -200,7 +244,11 @@ func getMenuList(namables service.NamableList, n int, link string, showID bool) 
 			if showID {
 				title = fmt.Sprintf("%v - %s", j+1, title)
 			}
-			alink := fmt.Sprintf(c["a-link"], link, namables[j].ID, title)
+			fullLink := fmt.Sprintf("/%s/%s", link, namables[j].ID)
+			if isEssentials {
+				fullLink = fmt.Sprintf("%s?essentials=true", fullLink)
+			}
+			alink := fmt.Sprintf(c["a-link"], fullLink, title)
 			li := fmt.Sprintf(c["list"], alink)
 			list = fmt.Sprintf("%s%s", list, li)
 		}
@@ -211,15 +259,33 @@ func getMenuList(namables service.NamableList, n int, link string, showID bool) 
 }
 
 func getTemplate(content string, menu service.Menu, activeTab int) string {
-	phasesMenu := getMenuList(*menu.Phases, 3, "phases", true)
-	eventsMenu := getMenuList(*menu.Events, 3, "events", false)
-	charactersMenu := getMenuList(*menu.Characters, 8, "characters", false)
-	active := [6]string{"", "", "", "", "", ""}
-	if activeTab >= 0 && activeTab <= 5 {
+	phasesMenu := getMenuList(*menu.Phases, menu.IsEssentials, 3, "phases", true)
+	eventsMenu := getMenuList(*menu.Events, menu.IsEssentials, 3, "events", false)
+	charactersMenu := getMenuList(*menu.Characters, menu.IsEssentials, 8, "characters", false)
+	tabs := 7
+	active := []string{}
+	for i := 0; i < tabs; i++ {
+		active = append(active, "")
+	}
+	if activeTab >= 0 && activeTab < tabs {
 		active[activeTab] = "active"
 	}
+	main := "/"
+	creators := "/creators"
+	essentials := menu.URI
+	about := "/about"
+	if !menu.IsEssentials {
+		essentials = fmt.Sprintf("%s?essentials=true", essentials)
+	} else {
+		main = fmt.Sprintf("%s?essentials=true", main)
+		creators = fmt.Sprintf("%s?essentials=true", creators)
+		active[5] = "active"
+		about = fmt.Sprintf("%s?essentials=true", about)
+	}
 	return fmt.Sprintf(c["template"],
+		main,
 		active[0],
+		main,
 		active[1],
 		charactersMenu[0],
 		charactersMenu[1],
@@ -238,7 +304,11 @@ func getTemplate(content string, menu service.Menu, activeTab int) string {
 		eventsMenu[1],
 		eventsMenu[2],
 		active[4],
+		creators,
 		active[5],
+		essentials,
+		active[6],
+		about,
 		content,
 	)
 }
