@@ -17560,6 +17560,37 @@
 				]
 			},
 			{
+				"title": "Holidays",
+				"date": "2009-01-28",
+				"characters": [
+					{
+						"id": "035",
+						"name": "Fantastic Four"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/57e973a44da9e.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "164",
+				"comiclist": [
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 563
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 564
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 565
+					}
+				]
+			},
+			{
 				"title": "The Initiative",
 				"date": "2007-06-01",
 				"characters": [
@@ -17571,7 +17602,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/566a0018c857d.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "164",
+				"sortid": "165",
 				"comiclist": [
 					{
 						"collection": "Nova",
@@ -17602,7 +17633,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/513a75867ca5d.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "165",
+				"sortid": "166",
 				"comiclist": [
 					{
 						"collection": "Annihilation Conquest Prologue",
@@ -17623,7 +17654,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/51df02ba8e64e.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "166",
+				"sortid": "167",
 				"comiclist": [
 					{
 						"collection": "Annihilation Conquest Quasar",
@@ -17699,7 +17730,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/578e841c9535a.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "167",
+				"sortid": "168",
 				"comiclist": [
 					{
 						"collection": "Nova",
@@ -17765,7 +17796,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4e8381b35e231.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "168",
+				"sortid": "169",
 				"comiclist": [
 					{
 						"collection": "Annihilation Conquest",
@@ -17811,7 +17842,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/517ad3738f6a1.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "169",
+				"sortid": "170",
 				"comiclist": [
 					{
 						"collection": "Guardians of the Galaxy",
@@ -17842,7 +17873,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5151f2075ae76.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "170",
+				"sortid": "171",
 				"comiclist": [
 					{
 						"collection": "Nova",
@@ -17873,7 +17904,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5176b0fc854c1.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "171",
+				"sortid": "172",
 				"comiclist": [
 					{
 						"collection": "Invincible Iron Man",
@@ -17923,7 +17954,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bb7c826b5dc7.jpg",
 				"phaseid": "007",
-				"sortid": "172",
+				"sortid": "173",
 				"comiclist": [
 					{
 						"collection": "Skaar Son of Hulk",
@@ -17979,7 +18010,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc3978adfd4a.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "173",
+				"sortid": "174",
 				"comiclist": [
 					{
 						"collection": "X-Men Emperor Vulcan",
@@ -18019,7 +18050,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4f71b93bc1f6c.jpg",
 				"phaseid": "007",
-				"sortid": "174",
+				"sortid": "175",
 				"comiclist": [
 					{
 						"collection": "Avengers / Invaders",
@@ -18064,7 +18095,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/4f84716fb7fbe.jpg",
 				"phaseid": "007",
-				"sortid": "175",
+				"sortid": "176",
 				"comiclist": [
 					{
 						"collection": "Avengers / Invaders",
@@ -25890,6 +25921,480 @@
 						"num": 24
 					}
 				]
+			},
+			{
+				"title": "Last Legs",
+				"date": "2009-07-22",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "https://i.annihil.us/u/prod/marvel/i/mg/1/03/58052424f30f3/detail.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "165",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 600
+					}
+				]
+			},
+			{
+				"title": "Red Headed Stranger",
+				"date": "2009-08-05",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5806263ecd015.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "166",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 601
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 602
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 603
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 604
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 605
+					}
+				]
+			},
+			{
+				"title": "Long Term Arrangement",
+				"date": "2009-09-23",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/58062c667891a.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "167",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 606
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 607
+					},
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 1
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 608
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 609
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 610
+					}
+				]
+			},
+			{
+				"title": "The Gauntlet",
+				"date": "2009-10-21",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/58063016378cb.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "168",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 611
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 612
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 613
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 614
+					},
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "The Gauntlet II",
+				"date": "2009-12-16",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5807bb41cf02d.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "169",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 615
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 616
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 617
+					},
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "The Gauntlet III",
+				"date": "2010-01-20",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5808c5aed97c1.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "170",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 618
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 619
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 620
+					},
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "The Gauntlet IV",
+				"date": "2010-02-17",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5808d44a19ac8.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "171",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 621
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 622
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 623
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 624
+					},
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "The Gauntlet V",
+				"date": "2010-03-17",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/5808dabe510d9.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "172",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 625
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 626
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 627
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 628
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 629
+					}
+				]
+			},
+			{
+				"title": "The Private Life of Peter Parker",
+				"date": "2010-03-24",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/56a93af146d19.jpg",
+				"phaseid": "009",
+				"sortid": "173",
+				"comiclist": [
+					{
+						"collection": "Peter Parker",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Peter Parker",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Peter Parker",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Peter Parker",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Peter Parker",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "The Many Loves of The Amazing Spider-Man",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "The Master of Doom",
+				"date": "2009-05-20",
+				"characters": [
+					{
+						"id": "035",
+						"name": "Fantastic Four"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/57e97647a6842.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "174",
+				"comiclist": [
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 566
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 567
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 568
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 569
+					}
+				]
+			},
+			{
+				"title": "Time and a Half",
+				"date": "2009-01-21",
+				"characters": [
+					{
+						"id": "074",
+						"name": "X-Factor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bb3e76399e2c.jpg",
+				"phaseid": "009",
+				"sortid": "175",
+				"comiclist": [
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 39
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 40
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 41
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 42
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 43
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 44
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 45
+					}
+				]
+			},
+			{
+				"title": "Overtime",
+				"date": "2009-07-15",
+				"characters": [
+					{
+						"id": "074",
+						"name": "X-Factor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4bacac9dea217.jpg",
+				"phaseid": "009",
+				"sortid": "176",
+				"comiclist": [
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 46
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 47
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 48
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 49
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 50
+					}
+				]
 			}
 		]
 	},
@@ -26646,6 +27151,248 @@
 						"collection": "New Avengers Finale",
 						"vol": 1,
 						"num": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"namable": {
+			"id": "011",
+			"name": "Heroic Age"
+		},
+		"list": [
+			{
+				"title": "Shed",
+				"date": "2010-05-05",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/5808e1a20feb7.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "001",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 630
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 631
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 632
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 633
+					},
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Grim Hunt",
+				"date": "2010-04-14",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bac3d0953e04.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "002",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man Origin of the Hunter",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Amazing Spider-Man Grint Hunt Kraven Saga",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 634
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 635
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 636
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 637
+					},
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 7
+					}
+				]
+			},
+			{
+				"title": "Extremists",
+				"date": "2010-05-12",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/55cccf7ad21b9.jpg",
+				"phaseid": "011",
+				"sortid": "003",
+				"comiclist": [
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 8
+					},
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 9
+					},
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 10
+					},
+					{
+						"collection": "Amazing Spider-Man Annual",
+						"vol": 1,
+						"num": 37
+					}
+				]
+			},
+			{
+				"title": "One Moment in Time",
+				"date": "2010-07-21",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5808ff8aa4340.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "004",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 638
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 639
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 640
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 641
+					}
+				]
+			},
+			{
+				"title": "Origin of the Species",
+				"date": "2010-09-09",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5813a73e57de8.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "005",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 642
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 643
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 644
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 645
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 646
+					}
+				]
+			},
+			{
+				"title": "Brand New Day Conclusion",
+				"date": "2010-08-18",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/55cccef6b2d66.jpg",
+				"phaseid": "011",
+				"sortid": "006",
+				"comiclist": [
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 11
+					},
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 12
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 647
 					}
 				]
 			}

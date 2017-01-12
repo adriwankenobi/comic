@@ -38,5 +38,9 @@
 	{
 		"id": "010",
 		"name": "Siege"
+	},
+	{
+		"id": "011",
+		"name": "Heroic Age"
 	}
 ]

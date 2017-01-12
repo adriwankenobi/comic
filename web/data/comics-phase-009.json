@@ -18256,5 +18256,2105 @@
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "164"
+	},
+	{
+		"id": "24407",
+		"collection": "Amazing Spider-Man",
+		"title": "Last Legs",
+		"vol": 1,
+		"num": 600,
+		"date": "2009-07-22",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "044",
+				"name": "Otto Octavius"
+			}
+		],
+		"creators": [
+			{
+				"id": "057",
+				"name": "Dan Slott"
+			},
+			{
+				"id": "046",
+				"name": "John Romita Jr"
+			}
+		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/1/03/58052424f30f3/detail.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "165"
+	},
+	{
+		"id": "24408",
+		"collection": "Amazing Spider-Man",
+		"title": "Red Headed Stranger",
+		"vol": 1,
+		"num": 601,
+		"date": "2009-08-05",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "406",
+				"name": "Mario Alberti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5806263ecd015.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "166"
+	},
+	{
+		"id": "24409",
+		"collection": "Amazing Spider-Man",
+		"title": "Red Headed Stranger",
+		"vol": 1,
+		"num": 602,
+		"date": "2009-08-12",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "286",
+				"name": "Barry Kitson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/f0/58062762e6339.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "166"
+	},
+	{
+		"id": "24410",
+		"collection": "Amazing Spider-Man",
+		"title": "Red Headed Stranger",
+		"vol": 1,
+		"num": 603,
+		"date": "2009-08-19",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "407",
+				"name": "Robert Atkins"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/5806287b7f9dd.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "166"
+	},
+	{
+		"id": "24411",
+		"collection": "Amazing Spider-Man",
+		"title": "Red Headed Stranger",
+		"vol": 1,
+		"num": 604,
+		"date": "2009-09-10",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "286",
+				"name": "Barry Kitson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/580629930b137.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "166"
+	},
+	{
+		"id": "24412",
+		"collection": "Amazing Spider-Man",
+		"title": "Red Headed Stranger",
+		"vol": 1,
+		"num": 605,
+		"date": "2009-09-16",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "382",
+				"name": "Javier Pulido"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/58062ac935ef9.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "166"
+	},
+	{
+		"id": "24413",
+		"collection": "Amazing Spider-Man",
+		"title": "Long Term Arrangement",
+		"vol": 1,
+		"num": 606,
+		"date": "2009-09-23",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "054",
+				"name": "Black Cat"
+			}
+		],
+		"creators": [
+			{
+				"id": "319",
+				"name": "Joe Kelly"
+			},
+			{
+				"id": "160",
+				"name": "Mike McKone"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/58062c667891a.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "167"
+	},
+	{
+		"id": "24414",
+		"collection": "Amazing Spider-Man",
+		"title": "Long Term Arrangement",
+		"vol": 1,
+		"num": 607,
+		"date": "2009-09-30",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "054",
+				"name": "Black Cat"
+			}
+		],
+		"creators": [
+			{
+				"id": "319",
+				"name": "Joe Kelly"
+			},
+			{
+				"id": "160",
+				"name": "Mike McKone"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/58062d875c4cf.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "167"
+	},
+	{
+		"id": "28450",
+		"collection": "Web of Spider-Man",
+		"title": "Long Term Arrangement",
+		"vol": 2,
+		"num": 1,
+		"date": "2009-10-14",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "163",
+				"name": "Ben Reilly"
+			},
+			{
+				"id": "164",
+				"name": "Kaine"
+			}
+		],
+		"creators": [
+			{
+				"id": "288",
+				"name": "J M DeMatteis"
+			},
+			{
+				"id": "258",
+				"name": "Val Semeiks"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/55cccfc2da64f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "167"
+	},
+	{
+		"id": "24415",
+		"collection": "Amazing Spider-Man",
+		"title": "Long Term Arrangement",
+		"vol": 1,
+		"num": 608,
+		"date": "2009-10-07",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "163",
+				"name": "Ben Reilly"
+			},
+			{
+				"id": "164",
+				"name": "Kaine"
+			}
+		],
+		"creators": [
+			{
+				"id": "196",
+				"name": "Marc Guggenheim"
+			},
+			{
+				"id": "381",
+				"name": "Marco Checchetto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/58062ee200676.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "167"
+	},
+	{
+		"id": "24416",
+		"collection": "Amazing Spider-Man",
+		"title": "Long Term Arrangement",
+		"vol": 1,
+		"num": 609,
+		"date": "2009-10-21",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "163",
+				"name": "Ben Reilly"
+			},
+			{
+				"id": "164",
+				"name": "Kaine"
+			}
+		],
+		"creators": [
+			{
+				"id": "196",
+				"name": "Marc Guggenheim"
+			},
+			{
+				"id": "381",
+				"name": "Marco Checchetto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/58063016378cb.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "167"
+	},
+	{
+		"id": "24417",
+		"collection": "Amazing Spider-Man",
+		"title": "Long Term Arrangement",
+		"vol": 1,
+		"num": 610,
+		"date": "2009-11-04",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "163",
+				"name": "Ben Reilly"
+			},
+			{
+				"id": "164",
+				"name": "Kaine"
+			}
+		],
+		"creators": [
+			{
+				"id": "196",
+				"name": "Marc Guggenheim"
+			},
+			{
+				"id": "381",
+				"name": "Marco Checchetto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5806314277fcf.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "167"
+	},
+	{
+		"id": "24416",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet",
+		"vol": 1,
+		"num": 611,
+		"date": "2009-10-21",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "319",
+				"name": "Joe Kelly"
+			},
+			{
+				"id": "408",
+				"name": "Eric Canete"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/58063016378cb.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "168"
+	},
+	{
+		"id": "24418",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet",
+		"vol": 1,
+		"num": 612,
+		"date": "2009-11-11",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "265",
+				"name": "Paul Azaceta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/58078e371993e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "168"
+	},
+	{
+		"id": "24419",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet",
+		"vol": 1,
+		"num": 613,
+		"date": "2009-11-18",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "265",
+				"name": "Paul Azaceta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4e8a0bdd8d3ed.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "168"
+	},
+	{
+		"id": "24421",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet",
+		"vol": 1,
+		"num": 614,
+		"date": "2009-12-09",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "265",
+				"name": "Paul Azaceta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/50/5807b02bd2ca0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "168"
+	},
+	{
+		"id": "28451",
+		"collection": "Web of Spider-Man",
+		"title": "The Gauntlet",
+		"vol": 2,
+		"num": 2,
+		"date": "2009-11-25",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "286",
+				"name": "Barry Kitson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/55ccd3765dddd.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "168"
+	},
+	{
+		"id": "24422",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet II",
+		"vol": 1,
+		"num": 615,
+		"date": "2009-12-16",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "382",
+				"name": "Javier Pulido"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5807bb41cf02d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "169"
+	},
+	{
+		"id": "24423",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet II",
+		"vol": 1,
+		"num": 616,
+		"date": "2009-12-23",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "382",
+				"name": "Javier Pulido"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5807c3b3c6e92.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "169"
+	},
+	{
+		"id": "24424",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet II",
+		"vol": 1,
+		"num": 617,
+		"date": "2010-01-13",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "319",
+				"name": "Joe Kelly"
+			},
+			{
+				"id": "409",
+				"name": "Max Fiumara"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/5807d04903ebb.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "169"
+	},
+	{
+		"id": "28452",
+		"collection": "Web of Spider-Man",
+		"title": "The Gauntlet II",
+		"vol": 2,
+		"num": 3,
+		"date": "2009-12-09",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "268",
+				"name": "Nick Dragotta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/55cccfcf67388.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "169"
+	},
+	{
+		"id": "24425",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet III",
+		"vol": 1,
+		"num": 618,
+		"date": "2010-01-20",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "057",
+				"name": "Dan Slott"
+			},
+			{
+				"id": "163",
+				"name": "Marcos Martin"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5808c5aed97c1.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "170"
+	},
+	{
+		"id": "28224",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet III",
+		"vol": 1,
+		"num": 619,
+		"date": "2010-01-27",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "057",
+				"name": "Dan Slott"
+			},
+			{
+				"id": "163",
+				"name": "Marcos Martin"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/5808cfa2e3a82.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "170"
+	},
+	{
+		"id": "28225",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet III",
+		"vol": 1,
+		"num": 620,
+		"date": "2010-02-10",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "057",
+				"name": "Dan Slott"
+			},
+			{
+				"id": "163",
+				"name": "Marcos Martin"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5808da540c2c1.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "170"
+	},
+	{
+		"id": "28453",
+		"collection": "Web of Spider-Man",
+		"title": "The Gauntlet III",
+		"vol": 2,
+		"num": 4,
+		"date": "2010-01-20",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "286",
+				"name": "Barry Kitson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/55cccfa420c3e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "170"
+	},
+	{
+		"id": "28226",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet IV",
+		"vol": 1,
+		"num": 621,
+		"date": "2010-02-17",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "057",
+				"name": "Dan Slott"
+			},
+			{
+				"id": "117",
+				"name": "Michael Lark"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5808d44a19ac8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "171"
+	},
+	{
+		"id": "28227",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet IV",
+		"vol": 1,
+		"num": 622,
+		"date": "2010-02-24",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "410",
+				"name": "Joe Quinones"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/5808d7103abc8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "171"
+	},
+	{
+		"id": "30298",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet IV",
+		"vol": 1,
+		"num": 623,
+		"date": "2010-03-03",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "265",
+				"name": "Paul Azaceta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/5808d834bd9e9.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "171"
+	},
+	{
+		"id": "30299",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet IV",
+		"vol": 1,
+		"num": 624,
+		"date": "2010-03-10",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "265",
+				"name": "Paul Azaceta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/5808d98abd8ac.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "171"
+	},
+	{
+		"id": "30640",
+		"collection": "Web of Spider-Man",
+		"title": "The Gauntlet IV",
+		"vol": 2,
+		"num": 5,
+		"date": "2010-02-17",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "243",
+				"name": "Francis Portela"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/55cccf943c621.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "171"
+	},
+	{
+		"id": "30300",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet V",
+		"vol": 1,
+		"num": 625,
+		"date": "2010-03-17",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "319",
+				"name": "Joe Kelly"
+			},
+			{
+				"id": "409",
+				"name": "Max Fiumara"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/5808dabe510d9.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "172"
+	},
+	{
+		"id": "30301",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet V",
+		"vol": 1,
+		"num": 626,
+		"date": "2010-03-24",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "021",
+				"name": "Michael Gaydos"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/5808dcb299376.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "172"
+	},
+	{
+		"id": "30302",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet V",
+		"vol": 1,
+		"num": 627,
+		"date": "2010-03-31",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "043",
+				"name": "Roger Stern"
+			},
+			{
+				"id": "134",
+				"name": "Lee Weeks"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5808de55e800d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "172"
+	},
+	{
+		"id": "30303",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet V",
+		"vol": 1,
+		"num": 628,
+		"date": "2010-04-21",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "043",
+				"name": "Roger Stern"
+			},
+			{
+				"id": "134",
+				"name": "Lee Weeks"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/5808df8112467.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "172"
+	},
+	{
+		"id": "30304",
+		"collection": "Amazing Spider-Man",
+		"title": "The Gauntlet V",
+		"vol": 1,
+		"num": 629,
+		"date": "2010-04-28",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "043",
+				"name": "Roger Stern"
+			},
+			{
+				"id": "134",
+				"name": "Lee Weeks"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5808e0995d1e4.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "172"
+	},
+	{
+		"id": "28718",
+		"collection": "Peter Parker",
+		"title": "The Private Life of Peter Parker",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-03-24",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "017",
+				"name": "Bob Gale"
+			},
+			{
+				"id": "280",
+				"name": "Patrick Olliffe"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/56a93af146d19.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "173"
+	},
+	{
+		"id": "28719",
+		"collection": "Peter Parker",
+		"title": "The Private Life of Peter Parker",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-04-28",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "017",
+				"name": "Bob Gale"
+			},
+			{
+				"id": "280",
+				"name": "Patrick Olliffe"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/56a93b604fbc6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "173"
+	},
+	{
+		"id": "28720",
+		"collection": "Peter Parker",
+		"title": "The Private Life of Peter Parker",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-05-26",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "017",
+				"name": "Bob Gale"
+			},
+			{
+				"id": "280",
+				"name": "Patrick Olliffe"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/56a93b3ef0dc0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "173"
+	},
+	{
+		"id": "28721",
+		"collection": "Peter Parker",
+		"title": "The Private Life of Peter Parker",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-06-23",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "017",
+				"name": "Bob Gale"
+			},
+			{
+				"id": "280",
+				"name": "Patrick Olliffe"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/56a93b17346b5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "173"
+	},
+	{
+		"id": "28722",
+		"collection": "Peter Parker",
+		"title": "The Private Life of Peter Parker",
+		"vol": 1,
+		"num": 5,
+		"date": "2010-07-28",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "384",
+				"name": "Tom Peyer"
+			},
+			{
+				"id": "199",
+				"name": "Todd Nauck"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/56a93bd55aff9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "173"
+	},
+	{
+		"id": "26784",
+		"collection": "The Many Loves of The Amazing Spider-Man",
+		"title": "The Private Life of Peter Parker",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-05-05",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "066",
+				"name": "Michael Ryan"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4baa72eb761bf.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "173"
+	},
+	{
+		"id": "23923",
+		"collection": "Fantastic Four",
+		"title": "The Master of Doom",
+		"vol": 1,
+		"num": 566,
+		"date": "2009-05-20",
+		"characters": [
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			}
+		],
+		"creators": [
+			{
+				"id": "076",
+				"name": "Mark Millar"
+			},
+			{
+				"id": "292",
+				"name": "Bryan Hitch"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/57e97647a6842.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "174"
+	},
+	{
+		"id": "24132",
+		"collection": "Fantastic Four",
+		"title": "The Master of Doom",
+		"vol": 1,
+		"num": 567,
+		"date": "2009-06-10",
+		"characters": [
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			}
+		],
+		"creators": [
+			{
+				"id": "076",
+				"name": "Mark Millar"
+			},
+			{
+				"id": "292",
+				"name": "Bryan Hitch"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/57e9761af3075.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "174"
+	},
+	{
+		"id": "25180",
+		"collection": "Fantastic Four",
+		"title": "The Master of Doom",
+		"vol": 1,
+		"num": 568,
+		"date": "2009-07-01",
+		"characters": [
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			}
+		],
+		"creators": [
+			{
+				"id": "076",
+				"name": "Mark Millar"
+			},
+			{
+				"id": "292",
+				"name": "Bryan Hitch"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/04/57e975fbaea9b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "174"
+	},
+	{
+		"id": "25181",
+		"collection": "Fantastic Four",
+		"title": "The Master of Doom",
+		"vol": 1,
+		"num": 569,
+		"date": "2009-07-29",
+		"characters": [
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			}
+		],
+		"creators": [
+			{
+				"id": "076",
+				"name": "Mark Millar"
+			},
+			{
+				"id": "292",
+				"name": "Bryan Hitch"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/563cec80ca630.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "174"
+	},
+	{
+		"id": "23100",
+		"collection": "X-Factor",
+		"title": "Time and a Half",
+		"vol": 3,
+		"num": 39,
+		"date": "2009-01-21",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "116",
+				"name": "Siryn"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bb3e76399e2c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "175"
+	},
+	{
+		"id": "23597",
+		"collection": "X-Factor",
+		"title": "Time and a Half",
+		"vol": 3,
+		"num": 40,
+		"date": "2009-02-18",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "116",
+				"name": "Siryn"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/4badaa909bfc8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "175"
+	},
+	{
+		"id": "23758",
+		"collection": "X-Factor",
+		"title": "Time and a Half",
+		"vol": 3,
+		"num": 41,
+		"date": "2009-03-18",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "116",
+				"name": "Siryn"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4c7ce0b1708e0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "175"
+	},
+	{
+		"id": "23956",
+		"collection": "X-Factor",
+		"title": "Time and a Half",
+		"vol": 3,
+		"num": 42,
+		"date": "2009-04-15",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "116",
+				"name": "Siryn"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bb5790681afb.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "175"
+	},
+	{
+		"id": "24156",
+		"collection": "X-Factor",
+		"title": "Time and a Half",
+		"vol": 3,
+		"num": 43,
+		"date": "2009-05-13",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "116",
+				"name": "Siryn"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bb52e77e7d2f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "175"
+	},
+	{
+		"id": "27240",
+		"collection": "X-Factor",
+		"title": "Time and a Half",
+		"vol": 3,
+		"num": 44,
+		"date": "2009-06-10",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "116",
+				"name": "Siryn"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/20/4bb4f7afbc5eb.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "175"
+	},
+	{
+		"id": "27241",
+		"collection": "X-Factor",
+		"title": "Time and a Half",
+		"vol": 3,
+		"num": 45,
+		"date": "2009-06-24",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "116",
+				"name": "Siryn"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/4bb459cbeed90.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "175"
+	},
+	{
+		"id": "27242",
+		"collection": "X-Factor",
+		"title": "Overtime",
+		"vol": 3,
+		"num": 46,
+		"date": "2009-07-15",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "116",
+				"name": "Siryn"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "311",
+				"name": "Marco Santucci"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4bacac9dea217.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "176"
+	},
+	{
+		"id": "27243",
+		"collection": "X-Factor",
+		"title": "Overtime",
+		"vol": 3,
+		"num": 47,
+		"date": "2009-08-19",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "116",
+				"name": "Siryn"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb4916cf15b5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "176"
+	},
+	{
+		"id": "27244",
+		"collection": "X-Factor",
+		"title": "Overtime",
+		"vol": 3,
+		"num": 48,
+		"date": "2009-09-16",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "116",
+				"name": "Siryn"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bb468db2a93c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "176"
+	},
+	{
+		"id": "27245",
+		"collection": "X-Factor",
+		"title": "Overtime",
+		"vol": 3,
+		"num": 49,
+		"date": "2009-09-30",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "116",
+				"name": "Siryn"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/00/4bb3eafa097cd.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "176"
+	},
+	{
+		"id": "27246",
+		"collection": "X-Factor",
+		"title": "Overtime",
+		"vol": 3,
+		"num": 50,
+		"date": "2009-10-28",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "116",
+				"name": "Siryn"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb432b5dfe8d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "176"
 	}
 ]
