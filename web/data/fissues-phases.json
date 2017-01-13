@@ -20458,6 +20458,146 @@
 				]
 			},
 			{
+				"title": "Ending",
+				"date": "2008-12-31",
+				"characters": [
+					{
+						"id": "009",
+						"name": "Punisher"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5835e35ed7d32.jpg",
+				"phaseid": "008",
+				"sortid": "109",
+				"comiclist": [
+					{
+						"collection": "Punisher War Journal",
+						"vol": 2,
+						"num": 26
+					},
+					{
+						"collection": "Punisher War Journal Annual",
+						"vol": 2,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Blood and Iron",
+				"date": "2008-09-24",
+				"characters": [
+					{
+						"id": "126",
+						"name": "New Warriors"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bb7184603bf7.jpg",
+				"phaseid": "008",
+				"sortid": "110",
+				"comiclist": [
+					{
+						"collection": "New Warriors",
+						"vol": 4,
+						"num": 16
+					},
+					{
+						"collection": "New Warriors",
+						"vol": 4,
+						"num": 17
+					},
+					{
+						"collection": "New Warriors",
+						"vol": 4,
+						"num": 18
+					},
+					{
+						"collection": "New Warriors",
+						"vol": 4,
+						"num": 19
+					},
+					{
+						"collection": "New Warriors",
+						"vol": 4,
+						"num": 20
+					}
+				]
+			},
+			{
+				"title": "Lady Liberators",
+				"date": "2008-10-22",
+				"characters": [
+					{
+						"id": "046",
+						"name": "She-Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/57630ab6bf1ac.jpg",
+				"phaseid": "008",
+				"sortid": "111",
+				"comiclist": [
+					{
+						"collection": "She-Hulk",
+						"vol": 2,
+						"num": 34
+					},
+					{
+						"collection": "She-Hulk",
+						"vol": 2,
+						"num": 35
+					},
+					{
+						"collection": "She-Hulk",
+						"vol": 2,
+						"num": 36
+					}
+				]
+			},
+			{
+				"title": "Heroic Proportions",
+				"date": "2009-01-28",
+				"characters": [
+					{
+						"id": "046",
+						"name": "She-Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/40/57644651e6657.jpg",
+				"phaseid": "008",
+				"sortid": "112",
+				"comiclist": [
+					{
+						"collection": "She-Hulk",
+						"vol": 2,
+						"num": 37
+					},
+					{
+						"collection": "She-Hulk",
+						"vol": 2,
+						"num": 38
+					}
+				]
+			},
+			{
+				"title": "Cosmic Collision",
+				"date": "2008-12-03",
+				"characters": [
+					{
+						"id": "046",
+						"name": "She-Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4babed37ebd96.jpg",
+				"phaseid": "008",
+				"sortid": "113",
+				"comiclist": [
+					{
+						"collection": "She-Hulk Cosmic Collision",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
 				"title": "Love and War",
 				"date": "2008-09-17",
 				"characters": [
@@ -20468,7 +20608,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb718f15b4e8.jpg",
 				"phaseid": "008",
-				"sortid": "109",
+				"sortid": "114",
 				"comiclist": [
 					{
 						"collection": "Incredible Hercules",
@@ -20514,7 +20654,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bb6cf41806d7.jpg",
 				"essential": true,
 				"phaseid": "008",
-				"sortid": "110",
+				"sortid": "115",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man Annual",
@@ -20535,7 +20675,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/579119d2b4ab7.jpg",
 				"essential": true,
 				"phaseid": "008",
-				"sortid": "111",
+				"sortid": "116",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -20586,7 +20726,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/578e7384d7355.jpg",
 				"essential": true,
 				"phaseid": "008",
-				"sortid": "112",
+				"sortid": "117",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -20631,7 +20771,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5109ae12b7c7c.jpg",
 				"phaseid": "008",
-				"sortid": "113",
+				"sortid": "118",
 				"comiclist": [
 					{
 						"collection": "Hulk",
@@ -20661,7 +20801,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4f634e633fc47.jpg",
 				"phaseid": "008",
-				"sortid": "114",
+				"sortid": "119",
 				"comiclist": [
 					{
 						"collection": "Incredible Hulk",
@@ -20681,7 +20821,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb6ccf199291.jpg",
 				"phaseid": "008",
-				"sortid": "115",
+				"sortid": "120",
 				"comiclist": [
 					{
 						"collection": "X-Men Worlds Apart",
@@ -20716,7 +20856,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4e7a13b8011a5.jpg",
 				"phaseid": "008",
-				"sortid": "116",
+				"sortid": "121",
 				"comiclist": [
 					{
 						"collection": "X-Men Infernus",
@@ -20752,7 +20892,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bb5d236e8d0b.jpg",
 				"essential": true,
 				"phaseid": "008",
-				"sortid": "117",
+				"sortid": "122",
 				"comiclist": [
 					{
 						"collection": "The Times and Life of Lucas Bishop",
@@ -20818,7 +20958,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/51ed6c4be6a12.jpg",
 				"essential": true,
 				"phaseid": "008",
-				"sortid": "118",
+				"sortid": "123",
 				"comiclist": [
 					{
 						"collection": "Wolverine",
@@ -20873,7 +21013,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51ed6d90d83c6.jpg",
 				"phaseid": "008",
-				"sortid": "119",
+				"sortid": "124",
 				"comiclist": [
 					{
 						"collection": "Wolverine",
@@ -20898,7 +21038,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/51e0804f84210.jpg",
 				"phaseid": "008",
-				"sortid": "120",
+				"sortid": "125",
 				"comiclist": [
 					{
 						"collection": "Wolverine Origins",
@@ -20923,7 +21063,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/51a4deae50c5c.jpg",
 				"phaseid": "008",
-				"sortid": "121",
+				"sortid": "126",
 				"comiclist": [
 					{
 						"collection": "X-Men Legacy",
@@ -20973,7 +21113,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/513f4d2a5dd2b.jpg",
 				"phaseid": "008",
-				"sortid": "122",
+				"sortid": "127",
 				"comiclist": [
 					{
 						"collection": "Uncanny X-Men",
@@ -21013,7 +21153,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4c3618df29907.jpg",
 				"phaseid": "008",
-				"sortid": "123",
+				"sortid": "128",
 				"comiclist": [
 					{
 						"collection": "X-Factor Layla Miller",
@@ -21054,7 +21194,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/5797bbb1b9e1f.jpg",
 				"essential": true,
 				"phaseid": "008",
-				"sortid": "124",
+				"sortid": "129",
 				"comiclist": [
 					{
 						"collection": "Runaways",
@@ -21100,7 +21240,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/80/5798c9f83551b.jpg",
 				"essential": true,
 				"phaseid": "008",
-				"sortid": "125",
+				"sortid": "130",
 				"comiclist": [
 					{
 						"collection": "Runaways",
@@ -21136,7 +21276,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/5798c76b07096.jpg",
 				"essential": true,
 				"phaseid": "008",
-				"sortid": "126",
+				"sortid": "131",
 				"comiclist": [
 					{
 						"collection": "Runaways",
@@ -21172,7 +21312,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/572d11b7b0138.jpg",
 				"essential": true,
 				"phaseid": "008",
-				"sortid": "127",
+				"sortid": "132",
 				"comiclist": [
 					{
 						"collection": "Daredevil",

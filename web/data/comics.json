@@ -91787,6 +91787,389 @@
 		"sortid": "108"
 	},
 	{
+		"id": "22900",
+		"collection": "Punisher War Journal",
+		"title": "Ending",
+		"vol": 2,
+		"num": 26,
+		"date": "2008-12-31",
+		"characters": [
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
+		],
+		"creators": [
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "318",
+				"name": "Andy McDonald"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5835e35ed7d32.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "109"
+	},
+	{
+		"id": "22511",
+		"collection": "Punisher War Journal Annual",
+		"title": "Ending",
+		"vol": 2,
+		"num": 1,
+		"date": "2008-11-05",
+		"characters": [
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
+		],
+		"creators": [
+			{
+				"id": "319",
+				"name": "Simon Spurrier"
+			},
+			{
+				"id": "320",
+				"name": "Werther Dell'Edera"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/583c5b2deb19f.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "109"
+	},
+	{
+		"id": "21978",
+		"collection": "New Warriors",
+		"title": "Blood and Iron",
+		"vol": 4,
+		"num": 16,
+		"date": "2008-09-24",
+		"characters": [
+			{
+				"id": "126",
+				"name": "New Warriors"
+			}
+		],
+		"creators": [
+			{
+				"id": "226",
+				"name": "Kevin Grevioux"
+			},
+			{
+				"id": "168",
+				"name": "Reilly Brown"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bb7184603bf7.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "110"
+	},
+	{
+		"id": "22303",
+		"collection": "New Warriors",
+		"title": "Blood and Iron",
+		"vol": 4,
+		"num": 17,
+		"date": "2008-10-22",
+		"characters": [
+			{
+				"id": "126",
+				"name": "New Warriors"
+			}
+		],
+		"creators": [
+			{
+				"id": "226",
+				"name": "Kevin Grevioux"
+			},
+			{
+				"id": "168",
+				"name": "Reilly Brown"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4bb6d07fd4f8d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "110"
+	},
+	{
+		"id": "22508",
+		"collection": "New Warriors",
+		"title": "Blood and Iron",
+		"vol": 4,
+		"num": 18,
+		"date": "2008-11-26",
+		"characters": [
+			{
+				"id": "126",
+				"name": "New Warriors"
+			}
+		],
+		"creators": [
+			{
+				"id": "226",
+				"name": "Kevin Grevioux"
+			},
+			{
+				"id": "168",
+				"name": "Reilly Brown"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/4bb68103a31e1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "110"
+	},
+	{
+		"id": "22914",
+		"collection": "New Warriors",
+		"title": "Blood and Iron",
+		"vol": 4,
+		"num": 19,
+		"date": "2008-12-24",
+		"characters": [
+			{
+				"id": "126",
+				"name": "New Warriors"
+			}
+		],
+		"creators": [
+			{
+				"id": "226",
+				"name": "Kevin Grevioux"
+			},
+			{
+				"id": "168",
+				"name": "Reilly Brown"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb64c33b5c7d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "110"
+	},
+	{
+		"id": "23114",
+		"collection": "New Warriors",
+		"title": "Blood and Iron",
+		"vol": 4,
+		"num": 20,
+		"date": "2009-02-11",
+		"characters": [
+			{
+				"id": "126",
+				"name": "New Warriors"
+			}
+		],
+		"creators": [
+			{
+				"id": "226",
+				"name": "Kevin Grevioux"
+			},
+			{
+				"id": "168",
+				"name": "Reilly Brown"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4bb605fa95529.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "110"
+	},
+	{
+		"id": "22276",
+		"collection": "She-Hulk",
+		"title": "Lady Liberators",
+		"vol": 2,
+		"num": 34,
+		"date": "2008-10-22",
+		"characters": [
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "305",
+				"name": "Vincenzo Cucca"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/57630ab6bf1ac.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "111"
+	},
+	{
+		"id": "22486",
+		"collection": "She-Hulk",
+		"title": "Lady Liberators",
+		"vol": 2,
+		"num": 35,
+		"date": "2008-11-26",
+		"characters": [
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "321",
+				"name": "Pasquale Qualano"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/57644721c519f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "111"
+	},
+	{
+		"id": "22885",
+		"collection": "She-Hulk",
+		"title": "Lady Liberators",
+		"vol": 2,
+		"num": 36,
+		"date": "2008-12-24",
+		"characters": [
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "321",
+				"name": "Pasquale Qualano"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5764466abd0f6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "111"
+	},
+	{
+		"id": "23095",
+		"collection": "She-Hulk",
+		"title": "Heroic Proportions",
+		"vol": 2,
+		"num": 37,
+		"date": "2009-01-28",
+		"characters": [
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "322",
+				"name": "Steve Scott"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/40/57644651e6657.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "112"
+	},
+	{
+		"id": "23588",
+		"collection": "She-Hulk",
+		"title": "Heroic Proportions",
+		"vol": 2,
+		"num": 38,
+		"date": "2009-02-25",
+		"characters": [
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "322",
+				"name": "Steve Scott"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/5764474a6b378.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "112"
+	},
+	{
+		"id": "22944",
+		"collection": "She-Hulk Cosmic Collision",
+		"title": "Cosmic Collision",
+		"vol": 1,
+		"num": 1,
+		"date": "2008-12-03",
+		"characters": [
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "296",
+				"name": "Mahmud Asrar"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4babed37ebd96.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "113"
+	},
+	{
 		"id": "21935",
 		"collection": "Incredible Hercules",
 		"title": "Love and War",
@@ -91817,7 +92200,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "109"
+		"sortid": "114"
 	},
 	{
 		"id": "22264",
@@ -91850,7 +92233,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "109"
+		"sortid": "114"
 	},
 	{
 		"id": "22470",
@@ -91883,7 +92266,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "109"
+		"sortid": "114"
 	},
 	{
 		"id": "22867",
@@ -91916,7 +92299,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "109"
+		"sortid": "114"
 	},
 	{
 		"id": "23079",
@@ -91949,7 +92332,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "109"
+		"sortid": "114"
 	},
 	{
 		"id": "23570",
@@ -91974,7 +92357,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "318",
+				"id": "323",
 				"name": "Rodney Buchemi"
 			}
 		],
@@ -91982,7 +92365,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "109"
+		"sortid": "114"
 	},
 	{
 		"id": "22344",
@@ -92012,7 +92395,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "110"
+		"sortid": "115"
 	},
 	{
 		"id": "22262",
@@ -92042,7 +92425,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "111"
+		"sortid": "116"
 	},
 	{
 		"id": "23069",
@@ -92059,7 +92442,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -92075,7 +92458,7 @@
 		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "111"
+		"sortid": "116"
 	},
 	{
 		"id": "22263",
@@ -92092,7 +92475,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -92105,7 +92488,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "111"
+		"sortid": "116"
 	},
 	{
 		"id": "22466",
@@ -92122,7 +92505,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -92135,7 +92518,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "111"
+		"sortid": "116"
 	},
 	{
 		"id": "22468",
@@ -92156,7 +92539,7 @@
 				"name": "Zeb Wells"
 			},
 			{
-				"id": "320",
+				"id": "325",
 				"name": "Paolo Rivera"
 			}
 		],
@@ -92165,7 +92548,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "111"
+		"sortid": "116"
 	},
 	{
 		"id": "22372",
@@ -92182,7 +92565,7 @@
 		],
 		"creators": [
 			{
-				"id": "321",
+				"id": "326",
 				"name": "John Arcudi"
 			},
 			{
@@ -92198,7 +92581,7 @@
 		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "111"
+		"sortid": "116"
 	},
 	{
 		"id": "22372",
@@ -92215,7 +92598,7 @@
 		],
 		"creators": [
 			{
-				"id": "322",
+				"id": "327",
 				"name": "Paul Benjamin"
 			},
 			{
@@ -92231,7 +92614,7 @@
 		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "111"
+		"sortid": "116"
 	},
 	{
 		"id": "22469",
@@ -92261,7 +92644,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "112"
+		"sortid": "117"
 	},
 	{
 		"id": "22862",
@@ -92291,7 +92674,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "112"
+		"sortid": "117"
 	},
 	{
 		"id": "22863",
@@ -92321,7 +92704,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "112"
+		"sortid": "117"
 	},
 	{
 		"id": "22865",
@@ -92351,7 +92734,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "112"
+		"sortid": "117"
 	},
 	{
 		"id": "23076",
@@ -92381,7 +92764,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "112"
+		"sortid": "117"
 	},
 	{
 		"id": "23077",
@@ -92411,7 +92794,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "112"
+		"sortid": "117"
 	},
 	{
 		"id": "23601",
@@ -92444,7 +92827,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "113"
+		"sortid": "118"
 	},
 	{
 		"id": "23961",
@@ -92477,7 +92860,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "113"
+		"sortid": "118"
 	},
 	{
 		"id": "24160",
@@ -92510,7 +92893,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "113"
+		"sortid": "118"
 	},
 	{
 		"id": "27569",
@@ -92542,7 +92925,7 @@
 		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "114"
+		"sortid": "119"
 	},
 	{
 		"id": "22386",
@@ -92571,7 +92954,7 @@
 				"name": "Chris Yost"
 			},
 			{
-				"id": "323",
+				"id": "328",
 				"name": "Diogenes Neves"
 			}
 		],
@@ -92579,7 +92962,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "115"
+		"sortid": "120"
 	},
 	{
 		"id": "22579",
@@ -92608,7 +92991,7 @@
 				"name": "Chris Yost"
 			},
 			{
-				"id": "323",
+				"id": "328",
 				"name": "Diogenes Neves"
 			}
 		],
@@ -92616,7 +92999,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "115"
+		"sortid": "120"
 	},
 	{
 		"id": "22995",
@@ -92645,7 +93028,7 @@
 				"name": "Chris Yost"
 			},
 			{
-				"id": "323",
+				"id": "328",
 				"name": "Diogenes Neves"
 			}
 		],
@@ -92653,7 +93036,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "115"
+		"sortid": "120"
 	},
 	{
 		"id": "23170",
@@ -92682,7 +93065,7 @@
 				"name": "Chris Yost"
 			},
 			{
-				"id": "323",
+				"id": "328",
 				"name": "Diogenes Neves"
 			}
 		],
@@ -92690,7 +93073,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "115"
+		"sortid": "120"
 	},
 	{
 		"id": "23002",
@@ -92739,7 +93122,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "116"
+		"sortid": "121"
 	},
 	{
 		"id": "23174",
@@ -92788,7 +93171,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "116"
+		"sortid": "121"
 	},
 	{
 		"id": "23653",
@@ -92837,7 +93220,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "116"
+		"sortid": "121"
 	},
 	{
 		"id": "23819",
@@ -92886,7 +93269,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "116"
+		"sortid": "121"
 	},
 	{
 		"id": "23667",
@@ -92928,7 +93311,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "23848",
@@ -92970,7 +93353,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "24054",
@@ -93012,7 +93395,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "27620",
@@ -93078,7 +93461,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "23971",
@@ -93140,7 +93523,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "23969",
@@ -93206,7 +93589,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "24171",
@@ -93268,7 +93651,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "24170",
@@ -93334,7 +93717,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "24631",
@@ -93396,7 +93779,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "27253",
@@ -93462,7 +93845,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "21330",
@@ -93492,7 +93875,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "118"
+		"sortid": "123"
 	},
 	{
 		"id": "21508",
@@ -93522,7 +93905,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "118"
+		"sortid": "123"
 	},
 	{
 		"id": "21710",
@@ -93552,7 +93935,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "118"
+		"sortid": "123"
 	},
 	{
 		"id": "22475",
@@ -93582,7 +93965,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "118"
+		"sortid": "123"
 	},
 	{
 		"id": "22876",
@@ -93612,7 +93995,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "118"
+		"sortid": "123"
 	},
 	{
 		"id": "23744",
@@ -93642,7 +94025,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "118"
+		"sortid": "123"
 	},
 	{
 		"id": "23934",
@@ -93672,7 +94055,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "118"
+		"sortid": "123"
 	},
 	{
 		"id": "27129",
@@ -93702,7 +94085,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "118"
+		"sortid": "123"
 	},
 	{
 		"id": "24141",
@@ -93731,7 +94114,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "119"
+		"sortid": "124"
 	},
 	{
 		"id": "24142",
@@ -93752,7 +94135,7 @@
 				"name": "Daniel Way"
 			},
 			{
-				"id": "324",
+				"id": "329",
 				"name": "Tommy Lee Edwards"
 			}
 		],
@@ -93760,7 +94143,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "119"
+		"sortid": "124"
 	},
 	{
 		"id": "22896",
@@ -93793,7 +94176,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "120"
+		"sortid": "125"
 	},
 	{
 		"id": "23103",
@@ -93826,7 +94209,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "120"
+		"sortid": "125"
 	},
 	{
 		"id": "22857",
@@ -93867,7 +94250,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "121"
+		"sortid": "126"
 	},
 	{
 		"id": "23073",
@@ -93908,7 +94291,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "121"
+		"sortid": "126"
 	},
 	{
 		"id": "23563",
@@ -93949,7 +94332,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "121"
+		"sortid": "126"
 	},
 	{
 		"id": "23734",
@@ -93990,7 +94373,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "121"
+		"sortid": "126"
 	},
 	{
 		"id": "23917",
@@ -94031,7 +94414,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "121"
+		"sortid": "126"
 	},
 	{
 		"id": "24129",
@@ -94072,7 +94455,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "121"
+		"sortid": "126"
 	},
 	{
 		"id": "27342",
@@ -94105,7 +94488,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "121"
+		"sortid": "126"
 	},
 	{
 		"id": "23920",
@@ -94174,7 +94557,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "122"
+		"sortid": "127"
 	},
 	{
 		"id": "23921",
@@ -94243,7 +94626,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "122"
+		"sortid": "127"
 	},
 	{
 		"id": "24131",
@@ -94312,7 +94695,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "122"
+		"sortid": "127"
 	},
 	{
 		"id": "26964",
@@ -94381,7 +94764,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "122"
+		"sortid": "127"
 	},
 	{
 		"id": "26965",
@@ -94414,7 +94797,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "122"
+		"sortid": "127"
 	},
 	{
 		"id": "21796",
@@ -94443,7 +94826,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "123"
+		"sortid": "128"
 	},
 	{
 		"id": "21958",
@@ -94492,7 +94875,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "123"
+		"sortid": "128"
 	},
 	{
 		"id": "22281",
@@ -94541,7 +94924,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "123"
+		"sortid": "128"
 	},
 	{
 		"id": "22491",
@@ -94590,7 +94973,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "123"
+		"sortid": "128"
 	},
 	{
 		"id": "22890",
@@ -94639,7 +95022,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "123"
+		"sortid": "128"
 	},
 	{
 		"id": "21760",
@@ -94656,7 +95039,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -94669,7 +95052,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "124"
+		"sortid": "129"
 	},
 	{
 		"id": "21998",
@@ -94686,7 +95069,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -94699,7 +95082,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "124"
+		"sortid": "129"
 	},
 	{
 		"id": "22327",
@@ -94716,7 +95099,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -94729,7 +95112,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "124"
+		"sortid": "129"
 	},
 	{
 		"id": "22523",
@@ -94746,7 +95129,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -94759,7 +95142,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "124"
+		"sortid": "129"
 	},
 	{
 		"id": "22934",
@@ -94776,7 +95159,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -94789,7 +95172,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "124"
+		"sortid": "129"
 	},
 	{
 		"id": "23130",
@@ -94806,7 +95189,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -94819,7 +95202,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "124"
+		"sortid": "129"
 	},
 	{
 		"id": "23622",
@@ -94836,7 +95219,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -94849,7 +95232,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "125"
+		"sortid": "130"
 	},
 	{
 		"id": "23777",
@@ -94866,7 +95249,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -94879,7 +95262,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "125"
+		"sortid": "130"
 	},
 	{
 		"id": "23973",
@@ -94896,7 +95279,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -94909,7 +95292,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "125"
+		"sortid": "130"
 	},
 	{
 		"id": "24173",
@@ -94930,7 +95313,7 @@
 				"name": "Chris Yost"
 			},
 			{
-				"id": "326",
+				"id": "331",
 				"name": "Sara Pichelli"
 			}
 		],
@@ -94939,7 +95322,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "125"
+		"sortid": "130"
 	},
 	{
 		"id": "27898",
@@ -94956,11 +95339,11 @@
 		],
 		"creators": [
 			{
-				"id": "327",
+				"id": "332",
 				"name": "Kathryn Immonen"
 			},
 			{
-				"id": "326",
+				"id": "331",
 				"name": "Sara Pichelli"
 			}
 		],
@@ -94969,7 +95352,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "126"
+		"sortid": "131"
 	},
 	{
 		"id": "27899",
@@ -94986,11 +95369,11 @@
 		],
 		"creators": [
 			{
-				"id": "327",
+				"id": "332",
 				"name": "Kathryn Immonen"
 			},
 			{
-				"id": "326",
+				"id": "331",
 				"name": "Sara Pichelli"
 			}
 		],
@@ -94999,7 +95382,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "126"
+		"sortid": "131"
 	},
 	{
 		"id": "27900",
@@ -95016,11 +95399,11 @@
 		],
 		"creators": [
 			{
-				"id": "327",
+				"id": "332",
 				"name": "Kathryn Immonen"
 			},
 			{
-				"id": "326",
+				"id": "331",
 				"name": "Sara Pichelli"
 			}
 		],
@@ -95029,7 +95412,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "126"
+		"sortid": "131"
 	},
 	{
 		"id": "27901",
@@ -95046,11 +95429,11 @@
 		],
 		"creators": [
 			{
-				"id": "327",
+				"id": "332",
 				"name": "Kathryn Immonen"
 			},
 			{
-				"id": "326",
+				"id": "331",
 				"name": "Sara Pichelli"
 			}
 		],
@@ -95059,7 +95442,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "126"
+		"sortid": "131"
 	},
 	{
 		"id": "23566",
@@ -95093,7 +95476,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "127"
+		"sortid": "132"
 	},
 	{
 		"id": "23737",
@@ -95127,7 +95510,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "127"
+		"sortid": "132"
 	},
 	{
 		"id": "23924",
@@ -95161,7 +95544,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "127"
+		"sortid": "132"
 	},
 	{
 		"id": "24756",
@@ -95195,7 +95578,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "127"
+		"sortid": "132"
 	},
 	{
 		"id": "24757",
@@ -95232,7 +95615,7 @@
 		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "127"
+		"sortid": "132"
 	},
 	{
 		"id": "22880",
@@ -95349,7 +95732,7 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
@@ -95395,7 +95778,7 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
@@ -95737,7 +96120,7 @@
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "329",
+				"id": "334",
 				"name": "Luke Ross"
 			}
 		],
@@ -95771,7 +96154,7 @@
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "329",
+				"id": "334",
 				"name": "Luke Ross"
 			}
 		],
@@ -95805,7 +96188,7 @@
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "329",
+				"id": "334",
 				"name": "Luke Ross"
 			}
 		],
@@ -95982,7 +96365,7 @@
 				"name": "Zeb Wells"
 			},
 			{
-				"id": "320",
+				"id": "325",
 				"name": "Paolo Rivera"
 			}
 		],
@@ -96044,11 +96427,11 @@
 		],
 		"creators": [
 			{
-				"id": "330",
+				"id": "335",
 				"name": "Abigail Denson"
 			},
 			{
-				"id": "331",
+				"id": "336",
 				"name": "Colleen Coover"
 			}
 		],
@@ -96296,7 +96679,7 @@
 				"name": "Marc Guggenheim"
 			},
 			{
-				"id": "332",
+				"id": "337",
 				"name": "Fabrizio Fiorentino"
 			}
 		],
@@ -96325,11 +96708,11 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
-				"id": "333",
+				"id": "338",
 				"name": "Dale Eaglesham"
 			}
 		],
@@ -96387,11 +96770,11 @@
 		],
 		"creators": [
 			{
-				"id": "330",
+				"id": "335",
 				"name": "Abigail Denson"
 			},
 			{
-				"id": "331",
+				"id": "336",
 				"name": "Colleen Coover"
 			}
 		],
@@ -96509,7 +96892,7 @@
 		],
 		"creators": [
 			{
-				"id": "334",
+				"id": "339",
 				"name": "Marc Sumerak"
 			},
 			{
@@ -96542,7 +96925,7 @@
 		],
 		"creators": [
 			{
-				"id": "335",
+				"id": "340",
 				"name": "Tony Lee"
 			},
 			{
@@ -96579,7 +96962,7 @@
 				"name": "Brian Reed"
 			},
 			{
-				"id": "336",
+				"id": "341",
 				"name": "Tim Levins"
 			}
 		],
@@ -96608,11 +96991,11 @@
 		],
 		"creators": [
 			{
-				"id": "330",
+				"id": "335",
 				"name": "Abigail Denson"
 			},
 			{
-				"id": "337",
+				"id": "342",
 				"name": "Adam Dekraker"
 			}
 		],
@@ -96766,15 +97149,15 @@
 		],
 		"creators": [
 			{
-				"id": "338",
+				"id": "343",
 				"name": "Bill Hader"
 			},
 			{
-				"id": "339",
+				"id": "344",
 				"name": "Seth Meyers"
 			},
 			{
-				"id": "340",
+				"id": "345",
 				"name": "Kevin Maguire"
 			}
 		],
@@ -97092,7 +97475,7 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
@@ -97138,7 +97521,7 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
@@ -97333,11 +97716,11 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
-				"id": "341",
+				"id": "346",
 				"name": "Bong Dazo"
 			}
 		],
@@ -97425,11 +97808,11 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
-				"id": "341",
+				"id": "346",
 				"name": "Bong Dazo"
 			}
 		],
@@ -97816,7 +98199,7 @@
 		],
 		"creators": [
 			{
-				"id": "342",
+				"id": "347",
 				"name": "Jonathan Hickman"
 			},
 			{
@@ -97862,7 +98245,7 @@
 		],
 		"creators": [
 			{
-				"id": "342",
+				"id": "347",
 				"name": "Jonathan Hickman"
 			},
 			{
@@ -97908,7 +98291,7 @@
 		],
 		"creators": [
 			{
-				"id": "342",
+				"id": "347",
 				"name": "Jonathan Hickman"
 			},
 			{
@@ -97954,7 +98337,7 @@
 		],
 		"creators": [
 			{
-				"id": "342",
+				"id": "347",
 				"name": "Jonathan Hickman"
 			},
 			{
@@ -98000,7 +98383,7 @@
 		],
 		"creators": [
 			{
-				"id": "342",
+				"id": "347",
 				"name": "Jonathan Hickman"
 			},
 			{
@@ -98208,7 +98591,7 @@
 				"name": "Brian Reed"
 			},
 			{
-				"id": "343",
+				"id": "348",
 				"name": "Rebekah Isaacs"
 			}
 		],
@@ -98237,7 +98620,7 @@
 				"name": "Brian Reed"
 			},
 			{
-				"id": "344",
+				"id": "349",
 				"name": "Sana Takeda"
 			}
 		],
@@ -98266,7 +98649,7 @@
 				"name": "Brian Reed"
 			},
 			{
-				"id": "344",
+				"id": "349",
 				"name": "Sana Takeda"
 			}
 		],
@@ -98295,7 +98678,7 @@
 				"name": "Brian Reed"
 			},
 			{
-				"id": "345",
+				"id": "350",
 				"name": "Sergio Ariño"
 			}
 		],
@@ -98324,7 +98707,7 @@
 				"name": "Brian Reed"
 			},
 			{
-				"id": "344",
+				"id": "349",
 				"name": "Sana Takeda"
 			}
 		],
@@ -98353,7 +98736,7 @@
 				"name": "Brian Reed"
 			},
 			{
-				"id": "345",
+				"id": "350",
 				"name": "Sergio Ariño"
 			}
 		],
@@ -98382,7 +98765,7 @@
 				"name": "Brian Reed"
 			},
 			{
-				"id": "344",
+				"id": "349",
 				"name": "Sana Takeda"
 			}
 		],
@@ -98440,7 +98823,7 @@
 				"name": "Brian Reed"
 			},
 			{
-				"id": "344",
+				"id": "349",
 				"name": "Sana Takeda"
 			}
 		],
@@ -98852,7 +99235,7 @@
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "329",
+				"id": "334",
 				"name": "Luke Ross"
 			}
 		],
@@ -98882,7 +99265,7 @@
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "329",
+				"id": "334",
 				"name": "Luke Ross"
 			}
 		],
@@ -98908,7 +99291,7 @@
 		],
 		"creators": [
 			{
-				"id": "346",
+				"id": "351",
 				"name": "Adam Felber"
 			},
 			{
@@ -98937,7 +99320,7 @@
 		],
 		"creators": [
 			{
-				"id": "346",
+				"id": "351",
 				"name": "Adam Felber"
 			},
 			{
@@ -98966,7 +99349,7 @@
 		],
 		"creators": [
 			{
-				"id": "346",
+				"id": "351",
 				"name": "Adam Felber"
 			},
 			{
@@ -98995,7 +99378,7 @@
 		],
 		"creators": [
 			{
-				"id": "346",
+				"id": "351",
 				"name": "Adam Felber"
 			},
 			{
@@ -99024,7 +99407,7 @@
 		],
 		"creators": [
 			{
-				"id": "346",
+				"id": "351",
 				"name": "Adam Felber"
 			},
 			{
@@ -99057,11 +99440,11 @@
 		],
 		"creators": [
 			{
-				"id": "347",
+				"id": "352",
 				"name": "Jim McCann"
 			},
 			{
-				"id": "348",
+				"id": "353",
 				"name": "David Lopez"
 			}
 		],
@@ -99093,11 +99476,11 @@
 		],
 		"creators": [
 			{
-				"id": "347",
+				"id": "352",
 				"name": "Jim McCann"
 			},
 			{
-				"id": "348",
+				"id": "353",
 				"name": "David Lopez"
 			}
 		],
@@ -99126,11 +99509,11 @@
 		],
 		"creators": [
 			{
-				"id": "347",
+				"id": "352",
 				"name": "Jim McCann"
 			},
 			{
-				"id": "348",
+				"id": "353",
 				"name": "David Lopez"
 			}
 		],
@@ -99159,11 +99542,11 @@
 		],
 		"creators": [
 			{
-				"id": "347",
+				"id": "352",
 				"name": "Jim McCann"
 			},
 			{
-				"id": "348",
+				"id": "353",
 				"name": "David Lopez"
 			}
 		],
@@ -100043,7 +100426,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "349",
+				"id": "354",
 				"name": "Gianluca Gugliotta"
 			}
 		],
@@ -100072,7 +100455,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "349",
+				"id": "354",
 				"name": "Gianluca Gugliotta"
 			}
 		],
@@ -100101,7 +100484,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "349",
+				"id": "354",
 				"name": "Gianluca Gugliotta"
 			}
 		],
@@ -100126,11 +100509,11 @@
 		],
 		"creators": [
 			{
-				"id": "350",
+				"id": "355",
 				"name": "Rick Remender"
 			},
 			{
-				"id": "351",
+				"id": "356",
 				"name": "Jerome Opena"
 			}
 		],
@@ -100155,11 +100538,11 @@
 		],
 		"creators": [
 			{
-				"id": "350",
+				"id": "355",
 				"name": "Rick Remender"
 			},
 			{
-				"id": "351",
+				"id": "356",
 				"name": "Jerome Opena"
 			}
 		],
@@ -100184,11 +100567,11 @@
 		],
 		"creators": [
 			{
-				"id": "350",
+				"id": "355",
 				"name": "Rick Remender"
 			},
 			{
-				"id": "351",
+				"id": "356",
 				"name": "Jerome Opena"
 			}
 		],
@@ -100213,11 +100596,11 @@
 		],
 		"creators": [
 			{
-				"id": "350",
+				"id": "355",
 				"name": "Rick Remender"
 			},
 			{
-				"id": "351",
+				"id": "356",
 				"name": "Jerome Opena"
 			}
 		],
@@ -100242,11 +100625,11 @@
 		],
 		"creators": [
 			{
-				"id": "350",
+				"id": "355",
 				"name": "Rick Remender"
 			},
 			{
-				"id": "351",
+				"id": "356",
 				"name": "Jerome Opena"
 			}
 		],
@@ -100271,11 +100654,11 @@
 		],
 		"creators": [
 			{
-				"id": "350",
+				"id": "355",
 				"name": "Rick Remender"
 			},
 			{
-				"id": "352",
+				"id": "357",
 				"name": "Tan Eng Huat"
 			}
 		],
@@ -100300,11 +100683,11 @@
 		],
 		"creators": [
 			{
-				"id": "350",
+				"id": "355",
 				"name": "Rick Remender"
 			},
 			{
-				"id": "352",
+				"id": "357",
 				"name": "Tan Eng Huat"
 			}
 		],
@@ -100329,11 +100712,11 @@
 		],
 		"creators": [
 			{
-				"id": "350",
+				"id": "355",
 				"name": "Rick Remender"
 			},
 			{
-				"id": "352",
+				"id": "357",
 				"name": "Tan Eng Huat"
 			}
 		],
@@ -100358,11 +100741,11 @@
 		],
 		"creators": [
 			{
-				"id": "350",
+				"id": "355",
 				"name": "Rick Remender"
 			},
 			{
-				"id": "352",
+				"id": "357",
 				"name": "Tan Eng Huat"
 			}
 		],
@@ -100387,11 +100770,11 @@
 		],
 		"creators": [
 			{
-				"id": "350",
+				"id": "355",
 				"name": "Rick Remender"
 			},
 			{
-				"id": "352",
+				"id": "357",
 				"name": "Tan Eng Huat"
 			}
 		],
@@ -100416,11 +100799,11 @@
 		],
 		"creators": [
 			{
-				"id": "350",
+				"id": "355",
 				"name": "Rick Remender"
 			},
 			{
-				"id": "353",
+				"id": "358",
 				"name": "Jason Pearson"
 			}
 		],
@@ -100445,11 +100828,11 @@
 		],
 		"creators": [
 			{
-				"id": "354",
+				"id": "359",
 				"name": "Joe Casey"
 			},
 			{
-				"id": "355",
+				"id": "360",
 				"name": "Nathan Fox"
 			}
 		],
@@ -100474,11 +100857,11 @@
 		],
 		"creators": [
 			{
-				"id": "354",
+				"id": "359",
 				"name": "Joe Casey"
 			},
 			{
-				"id": "355",
+				"id": "360",
 				"name": "Nathan Fox"
 			}
 		],
@@ -100503,11 +100886,11 @@
 		],
 		"creators": [
 			{
-				"id": "354",
+				"id": "359",
 				"name": "Joe Casey"
 			},
 			{
-				"id": "355",
+				"id": "360",
 				"name": "Nathan Fox"
 			}
 		],
@@ -100540,7 +100923,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "356",
+				"id": "361",
 				"name": "Peter Vale"
 			}
 		],
@@ -100575,7 +100958,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "356",
+				"id": "361",
 				"name": "Peter Vale"
 			}
 		],
@@ -100607,7 +100990,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "356",
+				"id": "361",
 				"name": "Peter Vale"
 			}
 		],
@@ -100639,7 +101022,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "356",
+				"id": "361",
 				"name": "Peter Vale"
 			}
 		],
@@ -100709,11 +101092,11 @@
 		],
 		"creators": [
 			{
-				"id": "357",
+				"id": "362",
 				"name": "June Chung"
 			},
 			{
-				"id": "358",
+				"id": "363",
 				"name": "Javier Rodriguez"
 			},
 			{
@@ -100721,7 +101104,7 @@
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "359",
+				"id": "364",
 				"name": "Alvaro Lopez"
 			},
 			{
@@ -100729,11 +101112,11 @@
 				"name": "Patrick Zircher"
 			},
 			{
-				"id": "360",
+				"id": "365",
 				"name": "Jose Angel Cano Lopez"
 			},
 			{
-				"id": "361",
+				"id": "366",
 				"name": "Nate Piekos"
 			}
 		],
@@ -100770,11 +101153,11 @@
 				"name": "Kano"
 			},
 			{
-				"id": "357",
+				"id": "362",
 				"name": "June Chung"
 			},
 			{
-				"id": "358",
+				"id": "363",
 				"name": "Javier Rodriguez"
 			},
 			{
@@ -100782,7 +101165,7 @@
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "359",
+				"id": "364",
 				"name": "Alvaro Lopez"
 			},
 			{
@@ -100790,7 +101173,7 @@
 				"name": "Patrick Zircher"
 			},
 			{
-				"id": "361",
+				"id": "366",
 				"name": "Nate Piekos"
 			}
 		],
@@ -100993,7 +101376,7 @@
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "362",
+				"id": "367",
 				"name": "Geraldo Borges"
 			}
 		],
@@ -101137,7 +101520,7 @@
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "363",
+				"id": "368",
 				"name": "Brad Walker"
 			}
 		],
@@ -101209,7 +101592,7 @@
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "363",
+				"id": "368",
 				"name": "Brad Walker"
 			}
 		],
@@ -101281,7 +101664,7 @@
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "363",
+				"id": "368",
 				"name": "Brad Walker"
 			}
 		],
@@ -101337,7 +101720,7 @@
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "364",
+				"id": "369",
 				"name": "Wes Craig"
 			}
 		],
@@ -101393,7 +101776,7 @@
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "364",
+				"id": "369",
 				"name": "Wes Craig"
 			}
 		],
@@ -101445,7 +101828,7 @@
 				"name": "Chris Yost"
 			},
 			{
-				"id": "365",
+				"id": "370",
 				"name": "Dustin Weaver"
 			}
 		],
@@ -101497,7 +101880,7 @@
 				"name": "Chris Yost"
 			},
 			{
-				"id": "365",
+				"id": "370",
 				"name": "Dustin Weaver"
 			}
 		],
@@ -101549,7 +101932,7 @@
 				"name": "Chris Yost"
 			},
 			{
-				"id": "365",
+				"id": "370",
 				"name": "Dustin Weaver"
 			}
 		],
@@ -101601,7 +101984,7 @@
 				"name": "Chris Yost"
 			},
 			{
-				"id": "365",
+				"id": "370",
 				"name": "Dustin Weaver"
 			}
 		],
@@ -101960,7 +102343,7 @@
 				"name": "Christos Gage"
 			},
 			{
-				"id": "366",
+				"id": "371",
 				"name": "Graham Nolan"
 			}
 		],
@@ -102048,7 +102431,7 @@
 		],
 		"creators": [
 			{
-				"id": "367",
+				"id": "372",
 				"name": "Jay Faerber"
 			},
 			{
@@ -102192,7 +102575,7 @@
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "363",
+				"id": "368",
 				"name": "Brad Walker"
 			}
 		],
@@ -102236,7 +102619,7 @@
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "368",
+				"id": "373",
 				"name": "Kevin Sharpe"
 			}
 		],
@@ -102456,7 +102839,7 @@
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "363",
+				"id": "368",
 				"name": "Brad Walker"
 			}
 		],
@@ -102716,7 +103099,7 @@
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "363",
+				"id": "368",
 				"name": "Brad Walker"
 			}
 		],
@@ -102920,7 +103303,7 @@
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "363",
+				"id": "368",
 				"name": "Brad Walker"
 			}
 		],
@@ -103088,7 +103471,7 @@
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "363",
+				"id": "368",
 				"name": "Brad Walker"
 			}
 		],
@@ -103220,7 +103603,7 @@
 				"name": "Joe Caramagna"
 			},
 			{
-				"id": "364",
+				"id": "369",
 				"name": "Wes Craig"
 			},
 			{
@@ -103228,11 +103611,11 @@
 				"name": "Pasqual Ferry"
 			},
 			{
-				"id": "369",
+				"id": "374",
 				"name": "Frank D'Armata"
 			},
 			{
-				"id": "370",
+				"id": "375",
 				"name": "Nathan Fairbairn"
 			}
 		],
@@ -103312,19 +103695,19 @@
 				"name": "Joe Caramagna"
 			},
 			{
-				"id": "364",
+				"id": "369",
 				"name": "Wes Craig"
 			},
 			{
-				"id": "371",
+				"id": "376",
 				"name": "Alex Garner"
 			},
 			{
-				"id": "370",
+				"id": "375",
 				"name": "Nathan Fairbairn"
 			},
 			{
-				"id": "372",
+				"id": "377",
 				"name": "Serge LaPointe"
 			}
 		],
@@ -103368,7 +103751,7 @@
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "368",
+				"id": "373",
 				"name": "Kevin Sharpe"
 			}
 		],
@@ -103412,7 +103795,7 @@
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "368",
+				"id": "373",
 				"name": "Kevin Sharpe"
 			}
 		],
@@ -103490,7 +103873,7 @@
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "373",
+				"id": "378",
 				"name": "Steven Sanders"
 			}
 		],
@@ -103523,7 +103906,7 @@
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "373",
+				"id": "378",
 				"name": "Steven Sanders"
 			}
 		],
@@ -103556,7 +103939,7 @@
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "373",
+				"id": "378",
 				"name": "Steven Sanders"
 			}
 		],
@@ -103589,7 +103972,7 @@
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "373",
+				"id": "378",
 				"name": "Steven Sanders"
 			}
 		],
@@ -103622,7 +104005,7 @@
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "373",
+				"id": "378",
 				"name": "Steven Sanders"
 			}
 		],
@@ -103647,11 +104030,11 @@
 		],
 		"creators": [
 			{
-				"id": "374",
+				"id": "379",
 				"name": "Gregg Hurwitz"
 			},
 			{
-				"id": "351",
+				"id": "356",
 				"name": "Jerome Opena"
 			}
 		],
@@ -103676,11 +104059,11 @@
 		],
 		"creators": [
 			{
-				"id": "374",
+				"id": "379",
 				"name": "Gregg Hurwitz"
 			},
 			{
-				"id": "351",
+				"id": "356",
 				"name": "Jerome Opena"
 			}
 		],
@@ -103705,11 +104088,11 @@
 		],
 		"creators": [
 			{
-				"id": "374",
+				"id": "379",
 				"name": "Gregg Hurwitz"
 			},
 			{
-				"id": "351",
+				"id": "356",
 				"name": "Jerome Opena"
 			}
 		],
@@ -103734,11 +104117,11 @@
 		],
 		"creators": [
 			{
-				"id": "374",
+				"id": "379",
 				"name": "Gregg Hurwitz"
 			},
 			{
-				"id": "351",
+				"id": "356",
 				"name": "Jerome Opena"
 			}
 		],
@@ -103763,11 +104146,11 @@
 		],
 		"creators": [
 			{
-				"id": "374",
+				"id": "379",
 				"name": "Gregg Hurwitz"
 			},
 			{
-				"id": "351",
+				"id": "356",
 				"name": "Jerome Opena"
 			}
 		],
@@ -103792,11 +104175,11 @@
 		],
 		"creators": [
 			{
-				"id": "374",
+				"id": "379",
 				"name": "Gregg Hurwitz"
 			},
 			{
-				"id": "351",
+				"id": "356",
 				"name": "Jerome Opena"
 			}
 		],
@@ -103825,7 +104208,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "375",
+				"id": "380",
 				"name": "Leonardo Manco"
 			}
 		],
@@ -103854,7 +104237,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "375",
+				"id": "380",
 				"name": "Leonardo Manco"
 			}
 		],
@@ -103883,7 +104266,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "375",
+				"id": "380",
 				"name": "Leonardo Manco"
 			}
 		],
@@ -103912,7 +104295,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "375",
+				"id": "380",
 				"name": "Leonardo Manco"
 			}
 		],
@@ -103941,7 +104324,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "375",
+				"id": "380",
 				"name": "Leonardo Manco"
 			}
 		],
@@ -104175,7 +104558,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "376",
+				"id": "381",
 				"name": "Dietrich Smith"
 			}
 		],
@@ -104208,7 +104591,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "376",
+				"id": "381",
 				"name": "Dietrich Smith"
 			}
 		],
@@ -104241,7 +104624,7 @@
 				"name": "Karl Kesel"
 			},
 			{
-				"id": "377",
+				"id": "382",
 				"name": "Mike Mayhew"
 			}
 		],
@@ -104315,7 +104698,7 @@
 		],
 		"creators": [
 			{
-				"id": "342",
+				"id": "347",
 				"name": "Jonathan Hickman"
 			},
 			{
@@ -105544,7 +105927,7 @@
 				"name": "Roger Stern"
 			},
 			{
-				"id": "378",
+				"id": "383",
 				"name": "Kalman Andrasofszky"
 			}
 		],
@@ -105597,15 +105980,15 @@
 				"name": "Mark Waid"
 			},
 			{
-				"id": "333",
+				"id": "338",
 				"name": "Dale Eaglesham"
 			},
 			{
-				"id": "379",
+				"id": "384",
 				"name": "Stan Lee"
 			},
 			{
-				"id": "380",
+				"id": "385",
 				"name": "Al Avison"
 			}
 		],
@@ -105675,7 +106058,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -105713,7 +106096,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -105751,11 +106134,11 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
-				"id": "381",
+				"id": "386",
 				"name": "Marco Checchetto"
 			}
 		],
@@ -105792,7 +106175,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -105830,7 +106213,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -105923,11 +106306,11 @@
 		],
 		"creators": [
 			{
-				"id": "334",
+				"id": "339",
 				"name": "Marc Sumerak"
 			},
 			{
-				"id": "382",
+				"id": "387",
 				"name": "Javier Pulido"
 			}
 		],
@@ -105956,11 +106339,11 @@
 		],
 		"creators": [
 			{
-				"id": "354",
+				"id": "359",
 				"name": "Joe Casey"
 			},
 			{
-				"id": "383",
+				"id": "388",
 				"name": "Chad Hardin"
 			}
 		],
@@ -105989,11 +106372,11 @@
 		],
 		"creators": [
 			{
-				"id": "384",
+				"id": "389",
 				"name": "Tom Peyer"
 			},
 			{
-				"id": "385",
+				"id": "390",
 				"name": "Stephanie Buscema"
 			}
 		],
@@ -106141,7 +106524,7 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
@@ -106174,7 +106557,7 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
@@ -106207,7 +106590,7 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
@@ -106240,7 +106623,7 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
@@ -106273,11 +106656,11 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
-				"id": "386",
+				"id": "391",
 				"name": "Andres Guinaldo"
 			}
 		],
@@ -106306,7 +106689,7 @@
 				"name": "Frank Tieri"
 			},
 			{
-				"id": "387",
+				"id": "392",
 				"name": "Mateus Satolouco"
 			}
 		],
@@ -106335,7 +106718,7 @@
 				"name": "Frank Tieri"
 			},
 			{
-				"id": "387",
+				"id": "392",
 				"name": "Mateus Satolouco"
 			}
 		],
@@ -106364,7 +106747,7 @@
 				"name": "Frank Tieri"
 			},
 			{
-				"id": "387",
+				"id": "392",
 				"name": "Mateus Satolouco"
 			}
 		],
@@ -106594,7 +106977,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "388",
+				"id": "393",
 				"name": "Allan Jefferson"
 			}
 		],
@@ -106652,7 +107035,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "375",
+				"id": "380",
 				"name": "Leonardo Manco"
 			}
 		],
@@ -106681,7 +107064,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "388",
+				"id": "393",
 				"name": "Allan Jefferson"
 			}
 		],
@@ -106710,7 +107093,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "388",
+				"id": "393",
 				"name": "Allan Jefferson"
 			}
 		],
@@ -107928,7 +108311,7 @@
 				"name": "Mike Carey"
 			},
 			{
-				"id": "365",
+				"id": "370",
 				"name": "Dustin Weaver"
 			}
 		],
@@ -107970,7 +108353,7 @@
 				"name": "Mike Carey"
 			},
 			{
-				"id": "365",
+				"id": "370",
 				"name": "Dustin Weaver"
 			}
 		],
@@ -108252,7 +108635,7 @@
 				"name": "Matt Fraction"
 			},
 			{
-				"id": "329",
+				"id": "334",
 				"name": "Luke Ross"
 			}
 		],
@@ -108444,7 +108827,7 @@
 				"name": "Matt Fraction"
 			},
 			{
-				"id": "329",
+				"id": "334",
 				"name": "Luke Ross"
 			}
 		],
@@ -108572,7 +108955,7 @@
 				"name": "Chris Yost"
 			},
 			{
-				"id": "389",
+				"id": "394",
 				"name": "Bing Cansino"
 			}
 		],
@@ -109047,7 +109430,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "390",
+				"id": "395",
 				"name": "Dan Panosian"
 			}
 		],
@@ -109215,7 +109598,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "391",
+				"id": "396",
 				"name": "Ben Oliver"
 			}
 		],
@@ -109310,7 +109693,7 @@
 				"name": "Jeph Loeb"
 			},
 			{
-				"id": "392",
+				"id": "397",
 				"name": "Ian Churchill"
 			}
 		],
@@ -109339,7 +109722,7 @@
 				"name": "Jeph Loeb"
 			},
 			{
-				"id": "392",
+				"id": "397",
 				"name": "Ian Churchill"
 			}
 		],
@@ -109368,7 +109751,7 @@
 				"name": "Jeph Loeb"
 			},
 			{
-				"id": "392",
+				"id": "397",
 				"name": "Ian Churchill"
 			}
 		],
@@ -109397,7 +109780,7 @@
 				"name": "Jeph Loeb"
 			},
 			{
-				"id": "392",
+				"id": "397",
 				"name": "Ian Churchill"
 			}
 		],
@@ -109426,7 +109809,7 @@
 				"name": "Jeph Loeb"
 			},
 			{
-				"id": "393",
+				"id": "398",
 				"name": "Whilce Portacio"
 			}
 		],
@@ -110329,7 +110712,7 @@
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "377",
+				"id": "382",
 				"name": "Mike Mayhew"
 			}
 		],
@@ -110387,7 +110770,7 @@
 				"name": "Dan Slott"
 			},
 			{
-				"id": "394",
+				"id": "399",
 				"name": "Neil Edwards"
 			}
 		],
@@ -110425,7 +110808,7 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
@@ -110496,7 +110879,7 @@
 				"name": "Jason Aaron"
 			},
 			{
-				"id": "395",
+				"id": "400",
 				"name": "Esad Ribic"
 			}
 		],
@@ -110611,7 +110994,7 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
@@ -110676,7 +111059,7 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
@@ -110741,7 +111124,7 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
@@ -110806,11 +111189,11 @@
 		],
 		"creators": [
 			{
-				"id": "342",
+				"id": "347",
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "396",
+				"id": "401",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -110872,7 +111255,7 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
@@ -110937,11 +111320,11 @@
 		],
 		"creators": [
 			{
-				"id": "342",
+				"id": "347",
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "396",
+				"id": "401",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -111003,11 +111386,11 @@
 		],
 		"creators": [
 			{
-				"id": "328",
+				"id": "333",
 				"name": "Andy Diggle"
 			},
 			{
-				"id": "397",
+				"id": "402",
 				"name": "Pop Mahn"
 			}
 		],
@@ -111068,11 +111451,11 @@
 		],
 		"creators": [
 			{
-				"id": "342",
+				"id": "347",
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "396",
+				"id": "401",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -111193,7 +111576,7 @@
 		],
 		"creators": [
 			{
-				"id": "342",
+				"id": "347",
 				"name": "Jonathan Hickman"
 			},
 			{
@@ -111251,11 +111634,11 @@
 		],
 		"creators": [
 			{
-				"id": "342",
+				"id": "347",
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "396",
+				"id": "401",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -111457,7 +111840,7 @@
 		],
 		"creators": [
 			{
-				"id": "350",
+				"id": "355",
 				"name": "Rick Remender"
 			},
 			{
@@ -111494,7 +111877,7 @@
 		],
 		"creators": [
 			{
-				"id": "350",
+				"id": "355",
 				"name": "Rick Remender"
 			},
 			{
@@ -112433,7 +112816,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "398",
+				"id": "403",
 				"name": "Gabriel Hardman"
 			}
 		],
@@ -112462,7 +112845,7 @@
 				"name": "Roger Stern"
 			},
 			{
-				"id": "399",
+				"id": "404",
 				"name": "Zach Howard"
 			}
 		],
@@ -112491,7 +112874,7 @@
 				"name": "Marc Guggenheim"
 			},
 			{
-				"id": "400",
+				"id": "405",
 				"name": "Francis Tsai"
 			}
 		],
@@ -112630,7 +113013,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "401",
+				"id": "406",
 				"name": "Carlos Rodriguez"
 			}
 		],
@@ -112778,7 +113161,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "401",
+				"id": "406",
 				"name": "Carlos Rodriguez"
 			}
 		],
@@ -112848,7 +113231,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "401",
+				"id": "406",
 				"name": "Carlos Rodriguez"
 			}
 		],
@@ -113027,7 +113410,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "401",
+				"id": "406",
 				"name": "Carlos Rodriguez"
 			}
 		],
@@ -113054,7 +113437,7 @@
 		],
 		"creators": [
 			{
-				"id": "402",
+				"id": "407",
 				"name": "Ryan Stegman"
 			},
 			{
@@ -113062,7 +113445,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "403",
+				"id": "408",
 				"name": "Scott Reed"
 			},
 			{
@@ -113070,7 +113453,7 @@
 				"name": "Paul Tobin"
 			},
 			{
-				"id": "404",
+				"id": "409",
 				"name": "Harrison Wilcox"
 			}
 		],
@@ -113307,7 +113690,7 @@
 				"name": "Paul Tobin"
 			},
 			{
-				"id": "405",
+				"id": "410",
 				"name": "Jacopo Camagni"
 			}
 		],
@@ -113342,7 +113725,7 @@
 				"name": "Paul Tobin"
 			},
 			{
-				"id": "405",
+				"id": "410",
 				"name": "Jacopo Camagni"
 			}
 		],
@@ -113545,7 +113928,7 @@
 				"name": "Mark Waid"
 			},
 			{
-				"id": "406",
+				"id": "411",
 				"name": "Mario Alberti"
 			}
 		],
@@ -113605,7 +113988,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "407",
+				"id": "412",
 				"name": "Robert Atkins"
 			}
 		],
@@ -113665,7 +114048,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "382",
+				"id": "387",
 				"name": "Javier Pulido"
 			}
 		],
@@ -113695,7 +114078,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -113729,7 +114112,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -113809,7 +114192,7 @@
 				"name": "Marc Guggenheim"
 			},
 			{
-				"id": "381",
+				"id": "386",
 				"name": "Marco Checchetto"
 			}
 		],
@@ -113847,7 +114230,7 @@
 				"name": "Marc Guggenheim"
 			},
 			{
-				"id": "381",
+				"id": "386",
 				"name": "Marco Checchetto"
 			}
 		],
@@ -113885,7 +114268,7 @@
 				"name": "Marc Guggenheim"
 			},
 			{
-				"id": "381",
+				"id": "386",
 				"name": "Marco Checchetto"
 			}
 		],
@@ -113911,11 +114294,11 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
-				"id": "408",
+				"id": "413",
 				"name": "Eric Canete"
 			}
 		],
@@ -114065,7 +114448,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "382",
+				"id": "387",
 				"name": "Javier Pulido"
 			}
 		],
@@ -114095,7 +114478,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "382",
+				"id": "387",
 				"name": "Javier Pulido"
 			}
 		],
@@ -114121,11 +114504,11 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
-				"id": "409",
+				"id": "414",
 				"name": "Max Fiumara"
 			}
 		],
@@ -114335,7 +114718,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "410",
+				"id": "415",
 				"name": "Joe Quinones"
 			}
 		],
@@ -114451,11 +114834,11 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
-				"id": "409",
+				"id": "414",
 				"name": "Max Fiumara"
 			}
 		],
@@ -114717,7 +115100,7 @@
 		],
 		"creators": [
 			{
-				"id": "384",
+				"id": "389",
 				"name": "Tom Peyer"
 			},
 			{
@@ -115669,7 +116052,7 @@
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "411",
+				"id": "416",
 				"name": "Lucio Parrillo"
 			}
 		],
@@ -115721,7 +116104,7 @@
 		],
 		"creators": [
 			{
-				"id": "412",
+				"id": "417",
 				"name": "John Thomas"
 			}
 		],
@@ -116851,7 +117234,7 @@
 				"name": "Christos Gage"
 			},
 			{
-				"id": "413",
+				"id": "418",
 				"name": "Federico Dallocchio"
 			}
 		],
@@ -116917,7 +117300,7 @@
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "414",
+				"id": "419",
 				"name": "Jamie McKelvie"
 			}
 		],
@@ -116999,11 +117382,11 @@
 		],
 		"creators": [
 			{
-				"id": "342",
+				"id": "347",
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "396",
+				"id": "401",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -117170,7 +117553,7 @@
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "415",
+				"id": "420",
 				"name": "Niko Henrichon"
 			}
 		],
@@ -118107,7 +118490,7 @@
 				"name": "Marc Guggenheim"
 			},
 			{
-				"id": "377",
+				"id": "382",
 				"name": "Mike Mayhew"
 			}
 		],
@@ -118145,7 +118528,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -118187,7 +118570,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -118229,7 +118612,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -118271,7 +118654,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -118313,7 +118696,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -118389,7 +118772,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "358",
+				"id": "363",
 				"name": "Javier Rodriguez"
 			}
 		],
@@ -118418,7 +118801,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "358",
+				"id": "363",
 				"name": "Javier Rodriguez"
 			}
 		],
@@ -118505,7 +118888,7 @@
 				"name": "Joe Quesada"
 			},
 			{
-				"id": "320",
+				"id": "325",
 				"name": "Paolo Rivera"
 			}
 		],
@@ -118538,7 +118921,7 @@
 				"name": "Joe Quesada"
 			},
 			{
-				"id": "320",
+				"id": "325",
 				"name": "Paolo Rivera"
 			}
 		],
@@ -118568,7 +118951,7 @@
 				"name": "Joe Quesada"
 			},
 			{
-				"id": "320",
+				"id": "325",
 				"name": "Paolo Rivera"
 			}
 		],
@@ -118598,7 +118981,7 @@
 				"name": "Joe Quesada"
 			},
 			{
-				"id": "320",
+				"id": "325",
 				"name": "Paolo Rivera"
 			}
 		],
@@ -118798,7 +119181,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "416",
+				"id": "421",
 				"name": "Pepe Larraz"
 			}
 		],
@@ -118827,7 +119210,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "416",
+				"id": "421",
 				"name": "Pepe Larraz"
 			}
 		],
@@ -118856,7 +119239,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "409",
+				"id": "414",
 				"name": "Max Fiumara"
 			}
 		],

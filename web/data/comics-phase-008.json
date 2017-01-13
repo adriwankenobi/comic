@@ -6473,6 +6473,389 @@
 		"sortid": "108"
 	},
 	{
+		"id": "22900",
+		"collection": "Punisher War Journal",
+		"title": "Ending",
+		"vol": 2,
+		"num": 26,
+		"date": "2008-12-31",
+		"characters": [
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
+		],
+		"creators": [
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "318",
+				"name": "Andy McDonald"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5835e35ed7d32.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "109"
+	},
+	{
+		"id": "22511",
+		"collection": "Punisher War Journal Annual",
+		"title": "Ending",
+		"vol": 2,
+		"num": 1,
+		"date": "2008-11-05",
+		"characters": [
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
+		],
+		"creators": [
+			{
+				"id": "319",
+				"name": "Simon Spurrier"
+			},
+			{
+				"id": "320",
+				"name": "Werther Dell'Edera"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/583c5b2deb19f.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "109"
+	},
+	{
+		"id": "21978",
+		"collection": "New Warriors",
+		"title": "Blood and Iron",
+		"vol": 4,
+		"num": 16,
+		"date": "2008-09-24",
+		"characters": [
+			{
+				"id": "126",
+				"name": "New Warriors"
+			}
+		],
+		"creators": [
+			{
+				"id": "226",
+				"name": "Kevin Grevioux"
+			},
+			{
+				"id": "168",
+				"name": "Reilly Brown"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bb7184603bf7.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "110"
+	},
+	{
+		"id": "22303",
+		"collection": "New Warriors",
+		"title": "Blood and Iron",
+		"vol": 4,
+		"num": 17,
+		"date": "2008-10-22",
+		"characters": [
+			{
+				"id": "126",
+				"name": "New Warriors"
+			}
+		],
+		"creators": [
+			{
+				"id": "226",
+				"name": "Kevin Grevioux"
+			},
+			{
+				"id": "168",
+				"name": "Reilly Brown"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4bb6d07fd4f8d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "110"
+	},
+	{
+		"id": "22508",
+		"collection": "New Warriors",
+		"title": "Blood and Iron",
+		"vol": 4,
+		"num": 18,
+		"date": "2008-11-26",
+		"characters": [
+			{
+				"id": "126",
+				"name": "New Warriors"
+			}
+		],
+		"creators": [
+			{
+				"id": "226",
+				"name": "Kevin Grevioux"
+			},
+			{
+				"id": "168",
+				"name": "Reilly Brown"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/4bb68103a31e1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "110"
+	},
+	{
+		"id": "22914",
+		"collection": "New Warriors",
+		"title": "Blood and Iron",
+		"vol": 4,
+		"num": 19,
+		"date": "2008-12-24",
+		"characters": [
+			{
+				"id": "126",
+				"name": "New Warriors"
+			}
+		],
+		"creators": [
+			{
+				"id": "226",
+				"name": "Kevin Grevioux"
+			},
+			{
+				"id": "168",
+				"name": "Reilly Brown"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb64c33b5c7d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "110"
+	},
+	{
+		"id": "23114",
+		"collection": "New Warriors",
+		"title": "Blood and Iron",
+		"vol": 4,
+		"num": 20,
+		"date": "2009-02-11",
+		"characters": [
+			{
+				"id": "126",
+				"name": "New Warriors"
+			}
+		],
+		"creators": [
+			{
+				"id": "226",
+				"name": "Kevin Grevioux"
+			},
+			{
+				"id": "168",
+				"name": "Reilly Brown"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4bb605fa95529.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "110"
+	},
+	{
+		"id": "22276",
+		"collection": "She-Hulk",
+		"title": "Lady Liberators",
+		"vol": 2,
+		"num": 34,
+		"date": "2008-10-22",
+		"characters": [
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "305",
+				"name": "Vincenzo Cucca"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/57630ab6bf1ac.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "111"
+	},
+	{
+		"id": "22486",
+		"collection": "She-Hulk",
+		"title": "Lady Liberators",
+		"vol": 2,
+		"num": 35,
+		"date": "2008-11-26",
+		"characters": [
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "321",
+				"name": "Pasquale Qualano"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/57644721c519f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "111"
+	},
+	{
+		"id": "22885",
+		"collection": "She-Hulk",
+		"title": "Lady Liberators",
+		"vol": 2,
+		"num": 36,
+		"date": "2008-12-24",
+		"characters": [
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "321",
+				"name": "Pasquale Qualano"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5764466abd0f6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "111"
+	},
+	{
+		"id": "23095",
+		"collection": "She-Hulk",
+		"title": "Heroic Proportions",
+		"vol": 2,
+		"num": 37,
+		"date": "2009-01-28",
+		"characters": [
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "322",
+				"name": "Steve Scott"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/40/57644651e6657.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "112"
+	},
+	{
+		"id": "23588",
+		"collection": "She-Hulk",
+		"title": "Heroic Proportions",
+		"vol": 2,
+		"num": 38,
+		"date": "2009-02-25",
+		"characters": [
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "322",
+				"name": "Steve Scott"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/5764474a6b378.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "112"
+	},
+	{
+		"id": "22944",
+		"collection": "She-Hulk Cosmic Collision",
+		"title": "Cosmic Collision",
+		"vol": 1,
+		"num": 1,
+		"date": "2008-12-03",
+		"characters": [
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "296",
+				"name": "Mahmud Asrar"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4babed37ebd96.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "113"
+	},
+	{
 		"id": "21935",
 		"collection": "Incredible Hercules",
 		"title": "Love and War",
@@ -6503,7 +6886,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "109"
+		"sortid": "114"
 	},
 	{
 		"id": "22264",
@@ -6536,7 +6919,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "109"
+		"sortid": "114"
 	},
 	{
 		"id": "22470",
@@ -6569,7 +6952,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "109"
+		"sortid": "114"
 	},
 	{
 		"id": "22867",
@@ -6602,7 +6985,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "109"
+		"sortid": "114"
 	},
 	{
 		"id": "23079",
@@ -6635,7 +7018,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "109"
+		"sortid": "114"
 	},
 	{
 		"id": "23570",
@@ -6660,7 +7043,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "318",
+				"id": "323",
 				"name": "Rodney Buchemi"
 			}
 		],
@@ -6668,7 +7051,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "109"
+		"sortid": "114"
 	},
 	{
 		"id": "22344",
@@ -6698,7 +7081,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "110"
+		"sortid": "115"
 	},
 	{
 		"id": "22262",
@@ -6728,7 +7111,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "111"
+		"sortid": "116"
 	},
 	{
 		"id": "23069",
@@ -6745,7 +7128,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -6761,7 +7144,7 @@
 		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "111"
+		"sortid": "116"
 	},
 	{
 		"id": "22263",
@@ -6778,7 +7161,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -6791,7 +7174,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "111"
+		"sortid": "116"
 	},
 	{
 		"id": "22466",
@@ -6808,7 +7191,7 @@
 		],
 		"creators": [
 			{
-				"id": "319",
+				"id": "324",
 				"name": "Joe Kelly"
 			},
 			{
@@ -6821,7 +7204,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "111"
+		"sortid": "116"
 	},
 	{
 		"id": "22468",
@@ -6842,7 +7225,7 @@
 				"name": "Zeb Wells"
 			},
 			{
-				"id": "320",
+				"id": "325",
 				"name": "Paolo Rivera"
 			}
 		],
@@ -6851,7 +7234,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "111"
+		"sortid": "116"
 	},
 	{
 		"id": "22372",
@@ -6868,7 +7251,7 @@
 		],
 		"creators": [
 			{
-				"id": "321",
+				"id": "326",
 				"name": "John Arcudi"
 			},
 			{
@@ -6884,7 +7267,7 @@
 		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "111"
+		"sortid": "116"
 	},
 	{
 		"id": "22372",
@@ -6901,7 +7284,7 @@
 		],
 		"creators": [
 			{
-				"id": "322",
+				"id": "327",
 				"name": "Paul Benjamin"
 			},
 			{
@@ -6917,7 +7300,7 @@
 		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "111"
+		"sortid": "116"
 	},
 	{
 		"id": "22469",
@@ -6947,7 +7330,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "112"
+		"sortid": "117"
 	},
 	{
 		"id": "22862",
@@ -6977,7 +7360,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "112"
+		"sortid": "117"
 	},
 	{
 		"id": "22863",
@@ -7007,7 +7390,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "112"
+		"sortid": "117"
 	},
 	{
 		"id": "22865",
@@ -7037,7 +7420,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "112"
+		"sortid": "117"
 	},
 	{
 		"id": "23076",
@@ -7067,7 +7450,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "112"
+		"sortid": "117"
 	},
 	{
 		"id": "23077",
@@ -7097,7 +7480,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "112"
+		"sortid": "117"
 	},
 	{
 		"id": "23601",
@@ -7130,7 +7513,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "113"
+		"sortid": "118"
 	},
 	{
 		"id": "23961",
@@ -7163,7 +7546,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "113"
+		"sortid": "118"
 	},
 	{
 		"id": "24160",
@@ -7196,7 +7579,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "113"
+		"sortid": "118"
 	},
 	{
 		"id": "27569",
@@ -7228,7 +7611,7 @@
 		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "114"
+		"sortid": "119"
 	},
 	{
 		"id": "22386",
@@ -7257,7 +7640,7 @@
 				"name": "Chris Yost"
 			},
 			{
-				"id": "323",
+				"id": "328",
 				"name": "Diogenes Neves"
 			}
 		],
@@ -7265,7 +7648,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "115"
+		"sortid": "120"
 	},
 	{
 		"id": "22579",
@@ -7294,7 +7677,7 @@
 				"name": "Chris Yost"
 			},
 			{
-				"id": "323",
+				"id": "328",
 				"name": "Diogenes Neves"
 			}
 		],
@@ -7302,7 +7685,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "115"
+		"sortid": "120"
 	},
 	{
 		"id": "22995",
@@ -7331,7 +7714,7 @@
 				"name": "Chris Yost"
 			},
 			{
-				"id": "323",
+				"id": "328",
 				"name": "Diogenes Neves"
 			}
 		],
@@ -7339,7 +7722,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "115"
+		"sortid": "120"
 	},
 	{
 		"id": "23170",
@@ -7368,7 +7751,7 @@
 				"name": "Chris Yost"
 			},
 			{
-				"id": "323",
+				"id": "328",
 				"name": "Diogenes Neves"
 			}
 		],
@@ -7376,7 +7759,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "115"
+		"sortid": "120"
 	},
 	{
 		"id": "23002",
@@ -7425,7 +7808,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "116"
+		"sortid": "121"
 	},
 	{
 		"id": "23174",
@@ -7474,7 +7857,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "116"
+		"sortid": "121"
 	},
 	{
 		"id": "23653",
@@ -7523,7 +7906,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "116"
+		"sortid": "121"
 	},
 	{
 		"id": "23819",
@@ -7572,7 +7955,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "116"
+		"sortid": "121"
 	},
 	{
 		"id": "23667",
@@ -7614,7 +7997,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "23848",
@@ -7656,7 +8039,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "24054",
@@ -7698,7 +8081,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "27620",
@@ -7764,7 +8147,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "23971",
@@ -7826,7 +8209,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "23969",
@@ -7892,7 +8275,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "24171",
@@ -7954,7 +8337,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "24170",
@@ -8020,7 +8403,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "24631",
@@ -8082,7 +8465,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "27253",
@@ -8148,7 +8531,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "117"
+		"sortid": "122"
 	},
 	{
 		"id": "21330",
@@ -8178,7 +8561,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "118"
+		"sortid": "123"
 	},
 	{
 		"id": "21508",
@@ -8208,7 +8591,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "118"
+		"sortid": "123"
 	},
 	{
 		"id": "21710",
@@ -8238,7 +8621,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "118"
+		"sortid": "123"
 	},
 	{
 		"id": "22475",
@@ -8268,7 +8651,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "118"
+		"sortid": "123"
 	},
 	{
 		"id": "22876",
@@ -8298,7 +8681,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "118"
+		"sortid": "123"
 	},
 	{
 		"id": "23744",
@@ -8328,7 +8711,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "118"
+		"sortid": "123"
 	},
 	{
 		"id": "23934",
@@ -8358,7 +8741,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "118"
+		"sortid": "123"
 	},
 	{
 		"id": "27129",
@@ -8388,7 +8771,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "118"
+		"sortid": "123"
 	},
 	{
 		"id": "24141",
@@ -8417,7 +8800,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "119"
+		"sortid": "124"
 	},
 	{
 		"id": "24142",
@@ -8438,7 +8821,7 @@
 				"name": "Daniel Way"
 			},
 			{
-				"id": "324",
+				"id": "329",
 				"name": "Tommy Lee Edwards"
 			}
 		],
@@ -8446,7 +8829,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "119"
+		"sortid": "124"
 	},
 	{
 		"id": "22896",
@@ -8479,7 +8862,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "120"
+		"sortid": "125"
 	},
 	{
 		"id": "23103",
@@ -8512,7 +8895,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "120"
+		"sortid": "125"
 	},
 	{
 		"id": "22857",
@@ -8553,7 +8936,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "121"
+		"sortid": "126"
 	},
 	{
 		"id": "23073",
@@ -8594,7 +8977,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "121"
+		"sortid": "126"
 	},
 	{
 		"id": "23563",
@@ -8635,7 +9018,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "121"
+		"sortid": "126"
 	},
 	{
 		"id": "23734",
@@ -8676,7 +9059,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "121"
+		"sortid": "126"
 	},
 	{
 		"id": "23917",
@@ -8717,7 +9100,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "121"
+		"sortid": "126"
 	},
 	{
 		"id": "24129",
@@ -8758,7 +9141,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "121"
+		"sortid": "126"
 	},
 	{
 		"id": "27342",
@@ -8791,7 +9174,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "121"
+		"sortid": "126"
 	},
 	{
 		"id": "23920",
@@ -8860,7 +9243,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "122"
+		"sortid": "127"
 	},
 	{
 		"id": "23921",
@@ -8929,7 +9312,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "122"
+		"sortid": "127"
 	},
 	{
 		"id": "24131",
@@ -8998,7 +9381,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "122"
+		"sortid": "127"
 	},
 	{
 		"id": "26964",
@@ -9067,7 +9450,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "122"
+		"sortid": "127"
 	},
 	{
 		"id": "26965",
@@ -9100,7 +9483,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "122"
+		"sortid": "127"
 	},
 	{
 		"id": "21796",
@@ -9129,7 +9512,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "123"
+		"sortid": "128"
 	},
 	{
 		"id": "21958",
@@ -9178,7 +9561,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "123"
+		"sortid": "128"
 	},
 	{
 		"id": "22281",
@@ -9227,7 +9610,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "123"
+		"sortid": "128"
 	},
 	{
 		"id": "22491",
@@ -9276,7 +9659,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "123"
+		"sortid": "128"
 	},
 	{
 		"id": "22890",
@@ -9325,7 +9708,7 @@
 		"universe": "Earth-616",
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "123"
+		"sortid": "128"
 	},
 	{
 		"id": "21760",
@@ -9342,7 +9725,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -9355,7 +9738,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "124"
+		"sortid": "129"
 	},
 	{
 		"id": "21998",
@@ -9372,7 +9755,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -9385,7 +9768,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "124"
+		"sortid": "129"
 	},
 	{
 		"id": "22327",
@@ -9402,7 +9785,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -9415,7 +9798,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "124"
+		"sortid": "129"
 	},
 	{
 		"id": "22523",
@@ -9432,7 +9815,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -9445,7 +9828,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "124"
+		"sortid": "129"
 	},
 	{
 		"id": "22934",
@@ -9462,7 +9845,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -9475,7 +9858,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "124"
+		"sortid": "129"
 	},
 	{
 		"id": "23130",
@@ -9492,7 +9875,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -9505,7 +9888,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "124"
+		"sortid": "129"
 	},
 	{
 		"id": "23622",
@@ -9522,7 +9905,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -9535,7 +9918,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "125"
+		"sortid": "130"
 	},
 	{
 		"id": "23777",
@@ -9552,7 +9935,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -9565,7 +9948,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "125"
+		"sortid": "130"
 	},
 	{
 		"id": "23973",
@@ -9582,7 +9965,7 @@
 		],
 		"creators": [
 			{
-				"id": "325",
+				"id": "330",
 				"name": "Terry Moore"
 			},
 			{
@@ -9595,7 +9978,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "125"
+		"sortid": "130"
 	},
 	{
 		"id": "24173",
@@ -9616,7 +9999,7 @@
 				"name": "Chris Yost"
 			},
 			{
-				"id": "326",
+				"id": "331",
 				"name": "Sara Pichelli"
 			}
 		],
@@ -9625,7 +10008,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "125"
+		"sortid": "130"
 	},
 	{
 		"id": "27898",
@@ -9642,11 +10025,11 @@
 		],
 		"creators": [
 			{
-				"id": "327",
+				"id": "332",
 				"name": "Kathryn Immonen"
 			},
 			{
-				"id": "326",
+				"id": "331",
 				"name": "Sara Pichelli"
 			}
 		],
@@ -9655,7 +10038,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "126"
+		"sortid": "131"
 	},
 	{
 		"id": "27899",
@@ -9672,11 +10055,11 @@
 		],
 		"creators": [
 			{
-				"id": "327",
+				"id": "332",
 				"name": "Kathryn Immonen"
 			},
 			{
-				"id": "326",
+				"id": "331",
 				"name": "Sara Pichelli"
 			}
 		],
@@ -9685,7 +10068,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "126"
+		"sortid": "131"
 	},
 	{
 		"id": "27900",
@@ -9702,11 +10085,11 @@
 		],
 		"creators": [
 			{
-				"id": "327",
+				"id": "332",
 				"name": "Kathryn Immonen"
 			},
 			{
-				"id": "326",
+				"id": "331",
 				"name": "Sara Pichelli"
 			}
 		],
@@ -9715,7 +10098,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "126"
+		"sortid": "131"
 	},
 	{
 		"id": "27901",
@@ -9732,11 +10115,11 @@
 		],
 		"creators": [
 			{
-				"id": "327",
+				"id": "332",
 				"name": "Kathryn Immonen"
 			},
 			{
-				"id": "326",
+				"id": "331",
 				"name": "Sara Pichelli"
 			}
 		],
@@ -9745,7 +10128,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "126"
+		"sortid": "131"
 	},
 	{
 		"id": "23566",
@@ -9779,7 +10162,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "127"
+		"sortid": "132"
 	},
 	{
 		"id": "23737",
@@ -9813,7 +10196,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "127"
+		"sortid": "132"
 	},
 	{
 		"id": "23924",
@@ -9847,7 +10230,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "127"
+		"sortid": "132"
 	},
 	{
 		"id": "24756",
@@ -9881,7 +10264,7 @@
 		"essential": true,
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "127"
+		"sortid": "132"
 	},
 	{
 		"id": "24757",
@@ -9918,6 +10301,6 @@
 		],
 		"phaseid": "008",
 		"phasename": "Secret Invasion",
-		"sortid": "127"
+		"sortid": "132"
 	}
 ]
