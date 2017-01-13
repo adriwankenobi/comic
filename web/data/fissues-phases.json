@@ -25063,6 +25063,116 @@
 				]
 			},
 			{
+				"title": "Prince of Power",
+				"date": "2009-05-28",
+				"characters": [
+					{
+						"id": "121",
+						"name": "Hercules"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bb52f7da4984.jpg",
+				"phaseid": "009",
+				"sortid": "124",
+				"comiclist": [
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 129
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 130
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 131
+					}
+				]
+			},
+			{
+				"title": "The Mighty Thorcules",
+				"date": "2009-08-12",
+				"characters": [
+					{
+						"id": "121",
+						"name": "Hercules"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4bb492331aa5b.jpg",
+				"phaseid": "009",
+				"sortid": "125",
+				"comiclist": [
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 132
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 133
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 134
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 135
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 136
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 137
+					}
+				]
+			},
+			{
+				"title": "Assault on New Olympus",
+				"date": "2009-11-25",
+				"characters": [
+					{
+						"id": "121",
+						"name": "Hercules"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb4009f7ce7e.jpg",
+				"phaseid": "009",
+				"sortid": "126",
+				"comiclist": [
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 138
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 139
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 140
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 141
+					}
+				]
+			},
+			{
 				"title": "The List Daredevil",
 				"date": "2009-09-16",
 				"characters": [
@@ -25074,7 +25184,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bb3d3cd4b4a6.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "124",
+				"sortid": "127",
 				"comiclist": [
 					{
 						"collection": "Dark Reign The List Daredevil",
@@ -25094,7 +25204,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/4bb3cd33119bb.jpg",
 				"phaseid": "009",
-				"sortid": "125",
+				"sortid": "128",
 				"comiclist": [
 					{
 						"collection": "Dark Wolverine",
@@ -25114,7 +25224,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4f761984d7bad.jpg",
 				"phaseid": "009",
-				"sortid": "126",
+				"sortid": "129",
 				"comiclist": [
 					{
 						"collection": "Dark Reign The List Wolverine",
@@ -25135,7 +25245,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/52c5cb495d37b.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "127",
+				"sortid": "130",
 				"comiclist": [
 					{
 						"collection": "Dark Avengers Annual",
@@ -25155,7 +25265,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5744d001edb18.jpg",
 				"phaseid": "009",
-				"sortid": "128",
+				"sortid": "131",
 				"comiclist": [
 					{
 						"collection": "Thunderbolts",
@@ -25186,7 +25296,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/4f677b3c5548c.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "129",
+				"sortid": "132",
 				"comiclist": [
 					{
 						"collection": "Secret Warriors",
@@ -25206,7 +25316,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/5744ce9895db7.jpg",
 				"phaseid": "009",
-				"sortid": "130",
+				"sortid": "133",
 				"comiclist": [
 					{
 						"collection": "Thunderbolts",
@@ -25227,7 +25337,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/4f677cf58d50c.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "131",
+				"sortid": "134",
 				"comiclist": [
 					{
 						"collection": "Secret Warriors",
@@ -25247,7 +25357,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/5744cee2d0a87.jpg",
 				"phaseid": "009",
-				"sortid": "132",
+				"sortid": "135",
 				"comiclist": [
 					{
 						"collection": "Thunderbolts",
@@ -25268,7 +25378,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f677e77a5a48.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "133",
+				"sortid": "136",
 				"comiclist": [
 					{
 						"collection": "Secret Warriors",
@@ -25288,7 +25398,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4bb435c4240c3.jpg",
 				"phaseid": "009",
-				"sortid": "134",
+				"sortid": "137",
 				"comiclist": [
 					{
 						"collection": "Dark Avengers Ares",
@@ -25319,7 +25429,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/f0/4bb3dcdd1cffd.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "135",
+				"sortid": "138",
 				"comiclist": [
 					{
 						"collection": "Dark Reign The List Secret Warriors",
@@ -25340,7 +25450,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/4f67809f03e81.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "136",
+				"sortid": "139",
 				"comiclist": [
 					{
 						"collection": "Secret Warriors",
@@ -25361,7 +25471,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4f7b0b5169b80.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "137",
+				"sortid": "140",
 				"comiclist": [
 					{
 						"collection": "Invincible Iron Man",
@@ -25396,7 +25506,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5744d10b9a1e1.jpg",
 				"phaseid": "009",
-				"sortid": "138",
+				"sortid": "141",
 				"comiclist": [
 					{
 						"collection": "Thunderbolts",
@@ -25416,7 +25526,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bb3d1f8b5d0f.jpg",
 				"phaseid": "009",
-				"sortid": "139",
+				"sortid": "142",
 				"comiclist": [
 					{
 						"collection": "Dark Reign The List Punisher",
@@ -25437,7 +25547,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bb409baa8b6b.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "140",
+				"sortid": "143",
 				"comiclist": [
 					{
 						"collection": "Dark Reign The List Spider-Man",
@@ -25458,7 +25568,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4f7b0f65c9e15.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "141",
+				"sortid": "144",
 				"comiclist": [
 					{
 						"collection": "Invincible Iron Man",
@@ -25484,7 +25594,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/514ca04f8dedc.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "142",
+				"sortid": "145",
 				"comiclist": [
 					{
 						"collection": "Dark Avengers",
@@ -25520,7 +25630,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/4e95d72bcf5c8.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "143",
+				"sortid": "146",
 				"comiclist": [
 					{
 						"collection": "Avengers The Initiative",
@@ -25540,7 +25650,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/517ea6c59726f.jpg",
 				"phaseid": "009",
-				"sortid": "144",
+				"sortid": "147",
 				"comiclist": [
 					{
 						"collection": "Thunderbolts",
@@ -25571,7 +25681,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/4f7c7a30cfef3.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "145",
+				"sortid": "148",
 				"comiclist": [
 					{
 						"collection": "Invincible Iron Man",
@@ -25612,7 +25722,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/50b4fd935fd9b.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "146",
+				"sortid": "149",
 				"comiclist": [
 					{
 						"collection": "Thor Giant Size Finale",
@@ -25633,7 +25743,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/56f2c6e1dc505.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "147",
+				"sortid": "150",
 				"comiclist": [
 					{
 						"collection": "Thor",
@@ -25663,7 +25773,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bb6ccb0539b5.jpg",
 				"phaseid": "009",
-				"sortid": "148",
+				"sortid": "151",
 				"comiclist": [
 					{
 						"collection": "Monster Size Hulk",
@@ -25693,7 +25803,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/52c5ce05901fb.jpg",
 				"phaseid": "009",
-				"sortid": "149",
+				"sortid": "152",
 				"comiclist": [
 					{
 						"collection": "Fall of the Hulks Alpha",
@@ -25718,7 +25828,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4f634ab8bc32b.jpg",
 				"phaseid": "009",
-				"sortid": "150",
+				"sortid": "153",
 				"comiclist": [
 					{
 						"collection": "Hulk",
@@ -25738,7 +25848,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/52c5ce705cd4f.jpg",
 				"phaseid": "009",
-				"sortid": "151",
+				"sortid": "154",
 				"comiclist": [
 					{
 						"collection": "Fall of the Hulks Red Hulk",
@@ -25758,7 +25868,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/52c5cdf707041.jpg",
 				"phaseid": "009",
-				"sortid": "152",
+				"sortid": "155",
 				"comiclist": [
 					{
 						"collection": "Incredible Hulk",
@@ -25788,7 +25898,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4f5a576d32dbc.jpg",
 				"phaseid": "009",
-				"sortid": "153",
+				"sortid": "156",
 				"comiclist": [
 					{
 						"collection": "Fall of the Hulks Red Hulk",
@@ -25808,7 +25918,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4f6385a241d9e.jpg",
 				"phaseid": "009",
-				"sortid": "154",
+				"sortid": "157",
 				"comiclist": [
 					{
 						"collection": "Fall of the Hulks Savage She-Hulks",
@@ -25828,7 +25938,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4f5a57f31ad93.jpg",
 				"phaseid": "009",
-				"sortid": "155",
+				"sortid": "158",
 				"comiclist": [
 					{
 						"collection": "Fall of the Hulks Red Hulk",
@@ -25848,7 +25958,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4f634bb057b74.jpg",
 				"phaseid": "009",
-				"sortid": "156",
+				"sortid": "159",
 				"comiclist": [
 					{
 						"collection": "Hulk",
@@ -25873,7 +25983,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4f58d4abd06f6.jpg",
 				"phaseid": "009",
-				"sortid": "157",
+				"sortid": "160",
 				"comiclist": [
 					{
 						"collection": "Fall of the Hulks Savage She-Hulks",
@@ -25898,7 +26008,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4f58c35d27648.jpg",
 				"phaseid": "009",
-				"sortid": "158",
+				"sortid": "161",
 				"comiclist": [
 					{
 						"collection": "Fall of the Hulks Red Hulk",
@@ -25918,7 +26028,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4f58d401da1d2.jpg",
 				"phaseid": "009",
-				"sortid": "159",
+				"sortid": "162",
 				"comiclist": [
 					{
 						"collection": "World War Hulks",
@@ -25938,7 +26048,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/55b6825f4e04b.jpg",
 				"phaseid": "009",
-				"sortid": "160",
+				"sortid": "163",
 				"comiclist": [
 					{
 						"collection": "World War Hulks Hulked Out Heroes",
@@ -25963,7 +26073,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4f58c476480f1.jpg",
 				"phaseid": "009",
-				"sortid": "161",
+				"sortid": "164",
 				"comiclist": [
 					{
 						"collection": "Hulk",
@@ -25988,7 +26098,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4f58d5c7e06b8.jpg",
 				"phaseid": "009",
-				"sortid": "162",
+				"sortid": "165",
 				"comiclist": [
 					{
 						"collection": "World War Huks Spider-Man \u0026 Thor",
@@ -26013,7 +26123,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4bc5dd6a8dee0.jpg",
 				"phaseid": "009",
-				"sortid": "163",
+				"sortid": "166",
 				"comiclist": [
 					{
 						"collection": "World War Huks Wolverine \u0026 Captain America",
@@ -26038,7 +26148,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/4f58c573689c1.jpg",
 				"phaseid": "009",
-				"sortid": "164",
+				"sortid": "167",
 				"comiclist": [
 					{
 						"collection": "Hulk",
@@ -26074,7 +26184,7 @@
 				"pic": "https://i.annihil.us/u/prod/marvel/i/mg/1/03/58052424f30f3/detail.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "165",
+				"sortid": "168",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -26095,7 +26205,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5806263ecd015.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "166",
+				"sortid": "169",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -26136,7 +26246,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/58062c667891a.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "167",
+				"sortid": "170",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -26182,7 +26292,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/58063016378cb.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "168",
+				"sortid": "171",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -26223,7 +26333,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5807bb41cf02d.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "169",
+				"sortid": "172",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -26259,7 +26369,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5808c5aed97c1.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "170",
+				"sortid": "173",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -26295,7 +26405,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5808d44a19ac8.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "171",
+				"sortid": "174",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -26336,7 +26446,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/5808dabe510d9.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "172",
+				"sortid": "175",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -26376,7 +26486,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/56a93af146d19.jpg",
 				"phaseid": "009",
-				"sortid": "173",
+				"sortid": "176",
 				"comiclist": [
 					{
 						"collection": "Peter Parker",
@@ -26422,7 +26532,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/57e97647a6842.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "174",
+				"sortid": "177",
 				"comiclist": [
 					{
 						"collection": "Fantastic Four",
@@ -26457,7 +26567,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bb3e76399e2c.jpg",
 				"phaseid": "009",
-				"sortid": "175",
+				"sortid": "178",
 				"comiclist": [
 					{
 						"collection": "X-Factor",
@@ -26507,7 +26617,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4bacac9dea217.jpg",
 				"phaseid": "009",
-				"sortid": "176",
+				"sortid": "179",
 				"comiclist": [
 					{
 						"collection": "X-Factor",
