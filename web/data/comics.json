@@ -84409,6 +84409,10 @@
 			{
 				"id": "151",
 				"name": "Skaar"
+			},
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
 			}
 		],
 		"creators": [
@@ -84441,6 +84445,10 @@
 			{
 				"id": "151",
 				"name": "Skaar"
+			},
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
 			}
 		],
 		"creators": [
@@ -84470,6 +84478,10 @@
 			{
 				"id": "151",
 				"name": "Skaar"
+			},
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
 			}
 		],
 		"creators": [
@@ -84499,6 +84511,10 @@
 			{
 				"id": "151",
 				"name": "Skaar"
+			},
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
 			}
 		],
 		"creators": [
@@ -84528,6 +84544,10 @@
 			{
 				"id": "151",
 				"name": "Skaar"
+			},
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
 			}
 		],
 		"creators": [
@@ -84557,6 +84577,10 @@
 			{
 				"id": "151",
 				"name": "Skaar"
+			},
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
 			}
 		],
 		"creators": [
@@ -84586,6 +84610,10 @@
 			{
 				"id": "151",
 				"name": "Skaar"
+			},
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
 			}
 		],
 		"creators": [
@@ -84618,6 +84646,10 @@
 			{
 				"id": "151",
 				"name": "Skaar"
+			},
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
 			}
 		],
 		"creators": [
@@ -84882,7 +84914,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "152",
+				"id": "153",
 				"name": "Invaders"
 			}
 		],
@@ -84919,7 +84951,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "152",
+				"id": "153",
 				"name": "Invaders"
 			}
 		],
@@ -84956,7 +84988,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "152",
+				"id": "153",
 				"name": "Invaders"
 			}
 		],
@@ -84993,7 +85025,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "152",
+				"id": "153",
 				"name": "Invaders"
 			}
 		],
@@ -85030,7 +85062,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "152",
+				"id": "153",
 				"name": "Invaders"
 			}
 		],
@@ -85067,7 +85099,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "152",
+				"id": "153",
 				"name": "Invaders"
 			}
 		],
@@ -85104,7 +85136,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "152",
+				"id": "153",
 				"name": "Invaders"
 			}
 		],
@@ -85141,7 +85173,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "152",
+				"id": "153",
 				"name": "Invaders"
 			}
 		],
@@ -85178,7 +85210,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "152",
+				"id": "153",
 				"name": "Invaders"
 			}
 		],
@@ -85215,7 +85247,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "152",
+				"id": "153",
 				"name": "Invaders"
 			}
 		],
@@ -85252,7 +85284,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "152",
+				"id": "153",
 				"name": "Invaders"
 			}
 		],
@@ -85289,7 +85321,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "152",
+				"id": "153",
 				"name": "Invaders"
 			}
 		],
@@ -86094,7 +86126,7 @@
 				"name": "Maria Hill"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -86110,7 +86142,7 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -86142,7 +86174,7 @@
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -86170,7 +86202,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			},
 			{
@@ -86218,7 +86250,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -86382,7 +86414,7 @@
 				"name": "Maria Hill"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -86398,7 +86430,7 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -86430,7 +86462,7 @@
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -86458,7 +86490,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			},
 			{
@@ -86506,7 +86538,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -86553,7 +86585,7 @@
 		"eventid": "011",
 		"characters": [
 			{
-				"id": "157",
+				"id": "158",
 				"name": "Captain Britain"
 			}
 		],
@@ -86818,7 +86850,7 @@
 				"name": "Maria Hill"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -86834,7 +86866,7 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -86866,7 +86898,7 @@
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -86894,7 +86926,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			},
 			{
@@ -86970,7 +87002,7 @@
 		"eventid": "011",
 		"characters": [
 			{
-				"id": "157",
+				"id": "158",
 				"name": "Captain Britain"
 			}
 		],
@@ -87324,7 +87356,7 @@
 		"eventid": "011",
 		"characters": [
 			{
-				"id": "157",
+				"id": "158",
 				"name": "Captain Britain"
 			}
 		],
@@ -87435,7 +87467,7 @@
 				"name": "Maria Hill"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -87451,7 +87483,7 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -87483,7 +87515,7 @@
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -87511,7 +87543,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			},
 			{
@@ -88248,7 +88280,7 @@
 		"eventid": "011",
 		"characters": [
 			{
-				"id": "157",
+				"id": "158",
 				"name": "Captain Britain"
 			}
 		],
@@ -88359,7 +88391,7 @@
 				"name": "Maria Hill"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -88375,7 +88407,7 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -88407,7 +88439,7 @@
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -88435,7 +88467,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			},
 			{
@@ -89298,7 +89330,7 @@
 				"name": "Maria Hill"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -89314,7 +89346,7 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -89346,7 +89378,7 @@
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -89374,7 +89406,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			},
 			{
@@ -89702,7 +89734,7 @@
 				"name": "Nova"
 			},
 			{
-				"id": "158",
+				"id": "159",
 				"name": "Darkhawk"
 			},
 			{
@@ -90144,7 +90176,7 @@
 				"name": "Mar-Vell"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			}
 		],
@@ -90319,7 +90351,7 @@
 				"name": "Maria Hill"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -90335,7 +90367,7 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -90367,7 +90399,7 @@
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -90395,7 +90427,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			},
 			{
@@ -90446,7 +90478,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			}
 		],
@@ -90640,7 +90672,7 @@
 				"name": "Nova"
 			},
 			{
-				"id": "158",
+				"id": "159",
 				"name": "Darkhawk"
 			},
 			{
@@ -90971,7 +91003,7 @@
 				"name": "Maria Hill"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -90987,7 +91019,7 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -91019,7 +91051,7 @@
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -91047,7 +91079,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			},
 			{
@@ -91186,7 +91218,7 @@
 				"name": "Loki"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			}
 		],
@@ -91277,7 +91309,7 @@
 				"name": "Hawkeye"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -93856,7 +93888,7 @@
 		"date": "2008-06-18",
 		"characters": [
 			{
-				"id": "159",
+				"id": "160",
 				"name": "Old Man Logan"
 			}
 		],
@@ -93886,7 +93918,7 @@
 		"date": "2008-07-30",
 		"characters": [
 			{
-				"id": "159",
+				"id": "160",
 				"name": "Old Man Logan"
 			}
 		],
@@ -93916,7 +93948,7 @@
 		"date": "2008-08-27",
 		"characters": [
 			{
-				"id": "159",
+				"id": "160",
 				"name": "Old Man Logan"
 			}
 		],
@@ -93946,7 +93978,7 @@
 		"date": "2008-11-12",
 		"characters": [
 			{
-				"id": "159",
+				"id": "160",
 				"name": "Old Man Logan"
 			}
 		],
@@ -93976,7 +94008,7 @@
 		"date": "2008-12-31",
 		"characters": [
 			{
-				"id": "159",
+				"id": "160",
 				"name": "Old Man Logan"
 			}
 		],
@@ -94006,7 +94038,7 @@
 		"date": "2009-03-18",
 		"characters": [
 			{
-				"id": "159",
+				"id": "160",
 				"name": "Old Man Logan"
 			}
 		],
@@ -94036,7 +94068,7 @@
 		"date": "2009-04-08",
 		"characters": [
 			{
-				"id": "159",
+				"id": "160",
 				"name": "Old Man Logan"
 			}
 		],
@@ -94066,7 +94098,7 @@
 		"date": "2009-09-23",
 		"characters": [
 			{
-				"id": "159",
+				"id": "160",
 				"name": "Old Man Logan"
 			}
 		],
@@ -95618,6 +95650,354 @@
 		"sortid": "132"
 	},
 	{
+		"id": "22017",
+		"collection": "Captain Britain and MI: 13",
+		"title": "Hell Comes to Birmingham ",
+		"vol": 1,
+		"num": 5,
+		"date": "2008-09-17",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "225",
+				"name": "Paul Cornell"
+			},
+			{
+				"id": "280",
+				"name": "Patrick Olliffe"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4bb716ff6e4dd.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "133"
+	},
+	{
+		"id": "22347",
+		"collection": "Captain Britain and MI: 13",
+		"title": "Hell Comes to Birmingham ",
+		"vol": 1,
+		"num": 6,
+		"date": "2008-10-15",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "225",
+				"name": "Paul Cornell"
+			},
+			{
+				"id": "133",
+				"name": "Leonard Kirk"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bb6406c11d7f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "133"
+	},
+	{
+		"id": "22540",
+		"collection": "Captain Britain and MI: 13",
+		"title": "Hell Comes to Birmingham ",
+		"vol": 1,
+		"num": 7,
+		"date": "2008-11-12",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "225",
+				"name": "Paul Cornell"
+			},
+			{
+				"id": "133",
+				"name": "Leonard Kirk"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bb63f5faad31.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "133"
+	},
+	{
+		"id": "22951",
+		"collection": "Captain Britain and MI: 13",
+		"title": "Hell Comes to Birmingham ",
+		"vol": 1,
+		"num": 8,
+		"date": "2008-12-10",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "225",
+				"name": "Paul Cornell"
+			},
+			{
+				"id": "133",
+				"name": "Leonard Kirk"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/4bb5fbdc403ca.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "133"
+	},
+	{
+		"id": "23145",
+		"collection": "Captain Britain and MI: 13",
+		"title": "Hell Comes to Birmingham ",
+		"vol": 1,
+		"num": 9,
+		"date": "2009-01-14",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "225",
+				"name": "Paul Cornell"
+			},
+			{
+				"id": "133",
+				"name": "Leonard Kirk"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/50/4bb604aec611a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "133"
+	},
+	{
+		"id": "23633",
+		"collection": "Captain Britain and MI: 13",
+		"title": "Vampire State",
+		"vol": 1,
+		"num": 10,
+		"date": "2009-02-11",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "225",
+				"name": "Paul Cornell"
+			},
+			{
+				"id": "133",
+				"name": "Leonard Kirk"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bb5d3735ada8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "134"
+	},
+	{
+		"id": "23789",
+		"collection": "Captain Britain and MI: 13",
+		"title": "Vampire State",
+		"vol": 1,
+		"num": 11,
+		"date": "2009-03-11",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "225",
+				"name": "Paul Cornell"
+			},
+			{
+				"id": "133",
+				"name": "Leonard Kirk"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4bb599507e95c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "134"
+	},
+	{
+		"id": "23983",
+		"collection": "Captain Britain and MI: 13",
+		"title": "Vampire State",
+		"vol": 1,
+		"num": 12,
+		"date": "2009-04-08",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "225",
+				"name": "Paul Cornell"
+			},
+			{
+				"id": "133",
+				"name": "Leonard Kirk"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bb5783923f91.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "134"
+	},
+	{
+		"id": "24185",
+		"collection": "Captain Britain and MI: 13",
+		"title": "Vampire State",
+		"vol": 1,
+		"num": 13,
+		"date": "2009-05-13",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "225",
+				"name": "Paul Cornell"
+			},
+			{
+				"id": "133",
+				"name": "Leonard Kirk"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/4bb52e0027888.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "134"
+	},
+	{
+		"id": "24715",
+		"collection": "Captain Britain and MI: 13",
+		"title": "Vampire State",
+		"vol": 1,
+		"num": 14,
+		"date": "2009-06-17",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "225",
+				"name": "Paul Cornell"
+			},
+			{
+				"id": "133",
+				"name": "Leonard Kirk"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb4f7d3a5397.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "134"
+	},
+	{
+		"id": "24716",
+		"collection": "Captain Britain and MI: 13",
+		"title": "Vampire State",
+		"vol": 1,
+		"num": 15,
+		"date": "2009-07-22",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "225",
+				"name": "Paul Cornell"
+			},
+			{
+				"id": "133",
+				"name": "Leonard Kirk"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4bb4311466a0a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "134"
+	},
+	{
+		"id": "24717",
+		"collection": "Captain Britain and MI: 13 Annual",
+		"title": "Vampire State",
+		"vol": 1,
+		"num": 1,
+		"date": "2009-06-03",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "225",
+				"name": "Paul Cornell"
+			},
+			{
+				"id": "133",
+				"name": "Leonard Kirk"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb4f98313bee.jpg",
+		"universe": "Earth-616",
+		"phaseid": "008",
+		"phasename": "Secret Invasion",
+		"sortid": "134"
+	},
+	{
 		"id": "22880",
 		"collection": "New Avengers",
 		"title": "Power",
@@ -95650,7 +96030,7 @@
 				"name": "Iron Fist"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -95987,7 +96367,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -96049,7 +96429,7 @@
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -97840,7 +98220,7 @@
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -97902,7 +98282,7 @@
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -97964,7 +98344,7 @@
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -99285,7 +99665,7 @@
 		"date": "2009-04-22",
 		"characters": [
 			{
-				"id": "160",
+				"id": "161",
 				"name": "Skrull Kill Krew"
 			}
 		],
@@ -99314,7 +99694,7 @@
 		"date": "2009-05-20",
 		"characters": [
 			{
-				"id": "160",
+				"id": "161",
 				"name": "Skrull Kill Krew"
 			}
 		],
@@ -99343,7 +99723,7 @@
 		"date": "2009-07-08",
 		"characters": [
 			{
-				"id": "160",
+				"id": "161",
 				"name": "Skrull Kill Krew"
 			}
 		],
@@ -99372,7 +99752,7 @@
 		"date": "2009-08-26",
 		"characters": [
 			{
-				"id": "160",
+				"id": "161",
 				"name": "Skrull Kill Krew"
 			}
 		],
@@ -99401,7 +99781,7 @@
 		"date": "2009-10-21",
 		"characters": [
 			{
-				"id": "160",
+				"id": "161",
 				"name": "Skrull Kill Krew"
 			}
 		],
@@ -99434,7 +99814,7 @@
 				"name": "Hawkeye"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			}
 		],
@@ -99470,7 +99850,7 @@
 				"name": "Hawkeye"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			}
 		],
@@ -99503,7 +99883,7 @@
 				"name": "Hawkeye"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			}
 		],
@@ -99536,7 +99916,7 @@
 				"name": "Hawkeye"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			}
 		],
@@ -99565,7 +99945,7 @@
 		"date": "2009-02-04",
 		"characters": [
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -99607,7 +99987,7 @@
 		"date": "2009-03-04",
 		"characters": [
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -99649,7 +100029,7 @@
 		"date": "2009-04-01",
 		"characters": [
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -99691,7 +100071,7 @@
 		"date": "2009-05-13",
 		"characters": [
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -99733,7 +100113,7 @@
 		"date": "2009-06-24",
 		"characters": [
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -99775,7 +100155,7 @@
 		"date": "2009-07-29",
 		"characters": [
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -100271,7 +100651,7 @@
 		"date": "2009-05-28",
 		"characters": [
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			}
 		],
@@ -100300,7 +100680,7 @@
 		"date": "2009-06-24",
 		"characters": [
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			}
 		],
@@ -100329,7 +100709,7 @@
 		"date": "2009-07-29",
 		"characters": [
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			}
 		],
@@ -100358,7 +100738,7 @@
 		"date": "2009-08-19",
 		"characters": [
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			}
 		],
@@ -100387,7 +100767,7 @@
 		"date": "2009-09-30",
 		"characters": [
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			}
 		],
@@ -100822,7 +101202,7 @@
 		"date": "2009-06-24",
 		"characters": [
 			{
-				"id": "161",
+				"id": "162",
 				"name": ""
 			}
 		],
@@ -100851,7 +101231,7 @@
 		"date": "2009-08-05",
 		"characters": [
 			{
-				"id": "161",
+				"id": "162",
 				"name": ""
 			}
 		],
@@ -100880,7 +101260,7 @@
 		"date": "2009-10-07",
 		"characters": [
 			{
-				"id": "161",
+				"id": "162",
 				"name": ""
 			}
 		],
@@ -100909,7 +101289,7 @@
 		"date": "2009-05-20",
 		"characters": [
 			{
-				"id": "162",
+				"id": "163",
 				"name": "Lyra"
 			},
 			{
@@ -100944,7 +101324,7 @@
 		"date": "2009-06-20",
 		"characters": [
 			{
-				"id": "162",
+				"id": "163",
 				"name": "Lyra"
 			},
 			{
@@ -100976,7 +101356,7 @@
 		"date": "2009-07-20",
 		"characters": [
 			{
-				"id": "162",
+				"id": "163",
 				"name": "Lyra"
 			},
 			{
@@ -101008,7 +101388,7 @@
 		"date": "2009-08-20",
 		"characters": [
 			{
-				"id": "162",
+				"id": "163",
 				"name": "Lyra"
 			},
 			{
@@ -101202,7 +101582,7 @@
 				"name": "Nova"
 			},
 			{
-				"id": "158",
+				"id": "159",
 				"name": "Darkhawk"
 			}
 		],
@@ -102010,7 +102390,7 @@
 				"name": "Cosmic"
 			},
 			{
-				"id": "158",
+				"id": "159",
 				"name": "Darkhawk"
 			}
 		],
@@ -102090,7 +102470,7 @@
 				"name": "Cosmic"
 			},
 			{
-				"id": "158",
+				"id": "159",
 				"name": "Darkhawk"
 			}
 		],
@@ -102461,7 +102841,7 @@
 				"name": "Cosmic"
 			},
 			{
-				"id": "158",
+				"id": "159",
 				"name": "Darkhawk"
 			}
 		],
@@ -102725,7 +103105,7 @@
 				"name": "Cosmic"
 			},
 			{
-				"id": "158",
+				"id": "159",
 				"name": "Darkhawk"
 			}
 		],
@@ -102985,7 +103365,7 @@
 				"name": "Cosmic"
 			},
 			{
-				"id": "158",
+				"id": "159",
 				"name": "Darkhawk"
 			}
 		],
@@ -103245,7 +103625,7 @@
 				"name": "Cosmic"
 			},
 			{
-				"id": "158",
+				"id": "159",
 				"name": "Darkhawk"
 			}
 		],
@@ -103737,7 +104117,7 @@
 				"name": "Nova"
 			},
 			{
-				"id": "158",
+				"id": "159",
 				"name": "Darkhawk"
 			}
 		],
@@ -103781,7 +104161,7 @@
 				"name": "Nova"
 			},
 			{
-				"id": "158",
+				"id": "159",
 				"name": "Darkhawk"
 			}
 		],
@@ -103825,7 +104205,7 @@
 				"name": "Nova"
 			},
 			{
-				"id": "158",
+				"id": "159",
 				"name": "Darkhawk"
 			}
 		],
@@ -104692,7 +105072,7 @@
 				"name": "Emma Frost"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			}
 		],
@@ -104936,7 +105316,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -105010,7 +105390,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -105084,7 +105464,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -105158,7 +105538,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -105232,7 +105612,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -105604,7 +105984,7 @@
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -105662,7 +106042,7 @@
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -107616,7 +107996,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -107690,7 +108070,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -107760,7 +108140,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -107830,7 +108210,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -107900,7 +108280,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -108381,7 +108761,7 @@
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -108573,7 +108953,7 @@
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -108765,7 +109145,7 @@
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -108855,7 +109235,7 @@
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -109236,6 +109616,10 @@
 			{
 				"id": "151",
 				"name": "Skaar"
+			},
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
 			}
 		],
 		"creators": [
@@ -109265,6 +109649,10 @@
 			{
 				"id": "151",
 				"name": "Skaar"
+			},
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
 			}
 		],
 		"creators": [
@@ -109294,6 +109682,10 @@
 			{
 				"id": "151",
 				"name": "Skaar"
+			},
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
 			}
 		],
 		"creators": [
@@ -109323,6 +109715,10 @@
 			{
 				"id": "151",
 				"name": "Skaar"
+			},
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
 			}
 		],
 		"creators": [
@@ -109675,6 +110071,151 @@
 		"sortid": "115"
 	},
 	{
+		"id": "26316",
+		"collection": "Son of Hulk",
+		"title": "Son of Hulk",
+		"vol": 1,
+		"num": 13,
+		"date": "2009-07-29",
+		"characters": [
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
+			}
+		],
+		"creators": [
+			{
+				"id": "001",
+				"name": "Paul Jenkins"
+			},
+			{
+				"id": "391",
+				"name": "Andres Guinaldo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4bb42194a7454.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "116"
+	},
+	{
+		"id": "26317",
+		"collection": "Son of Hulk",
+		"title": "Son of Hulk",
+		"vol": 1,
+		"num": 14,
+		"date": "2009-08-26",
+		"characters": [
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
+			}
+		],
+		"creators": [
+			{
+				"id": "001",
+				"name": "Paul Jenkins"
+			},
+			{
+				"id": "391",
+				"name": "Andres Guinaldo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bb48fc90efb1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "116"
+	},
+	{
+		"id": "26318",
+		"collection": "Son of Hulk",
+		"title": "Son of Hulk",
+		"vol": 1,
+		"num": 15,
+		"date": "2009-09-30",
+		"characters": [
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
+			}
+		],
+		"creators": [
+			{
+				"id": "001",
+				"name": "Paul Jenkins"
+			},
+			{
+				"id": "391",
+				"name": "Andres Guinaldo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/4bb3e475589d9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "116"
+	},
+	{
+		"id": "26319",
+		"collection": "Son of Hulk",
+		"title": "Son of Hulk",
+		"vol": 1,
+		"num": 16,
+		"date": "2009-10-28",
+		"characters": [
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
+			}
+		],
+		"creators": [
+			{
+				"id": "001",
+				"name": "Paul Jenkins"
+			},
+			{
+				"id": "391",
+				"name": "Andres Guinaldo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/4bb432fc082ab.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "116"
+	},
+	{
+		"id": "26320",
+		"collection": "Son of Hulk",
+		"title": "Son of Hulk",
+		"vol": 1,
+		"num": 17,
+		"date": "2009-11-25",
+		"characters": [
+			{
+				"id": "152",
+				"name": "Hiro-Kala"
+			}
+		],
+		"creators": [
+			{
+				"id": "001",
+				"name": "Paul Jenkins"
+			},
+			{
+				"id": "391",
+				"name": "Andres Guinaldo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bb3ffde53416.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "116"
+	},
+	{
 		"id": "25366",
 		"collection": "Hulk",
 		"title": "Code Red",
@@ -109701,7 +110242,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "116"
+		"sortid": "117"
 	},
 	{
 		"id": "25367",
@@ -109730,7 +110271,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "116"
+		"sortid": "117"
 	},
 	{
 		"id": "25368",
@@ -109759,7 +110300,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "116"
+		"sortid": "117"
 	},
 	{
 		"id": "25369",
@@ -109788,7 +110329,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "116"
+		"sortid": "117"
 	},
 	{
 		"id": "25370",
@@ -109817,7 +110358,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "116"
+		"sortid": "117"
 	},
 	{
 		"id": "27545",
@@ -109846,7 +110387,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "117"
+		"sortid": "118"
 	},
 	{
 		"id": "27546",
@@ -109875,7 +110416,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "117"
+		"sortid": "118"
 	},
 	{
 		"id": "27547",
@@ -109904,7 +110445,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "117"
+		"sortid": "118"
 	},
 	{
 		"id": "26038",
@@ -109935,7 +110476,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -109982,7 +110523,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "118"
+		"sortid": "119"
 	},
 	{
 		"id": "26039",
@@ -110013,7 +110554,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -110060,7 +110601,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "118"
+		"sortid": "119"
 	},
 	{
 		"id": "26195",
@@ -110138,7 +110679,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "119"
+		"sortid": "120"
 	},
 	{
 		"id": "26196",
@@ -110216,7 +110757,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "119"
+		"sortid": "120"
 	},
 	{
 		"id": "26197",
@@ -110294,7 +110835,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "119"
+		"sortid": "120"
 	},
 	{
 		"id": "26198",
@@ -110372,7 +110913,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "119"
+		"sortid": "120"
 	},
 	{
 		"id": "26199",
@@ -110450,7 +110991,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "119"
+		"sortid": "120"
 	},
 	{
 		"id": "30718",
@@ -110531,7 +111072,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "119"
+		"sortid": "120"
 	},
 	{
 		"id": "29717",
@@ -110573,7 +111114,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "120"
+		"sortid": "121"
 	},
 	{
 		"id": "27420",
@@ -110600,7 +111141,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -110651,7 +111192,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "121"
+		"sortid": "122"
 	},
 	{
 		"id": "26024",
@@ -110682,7 +111223,7 @@
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -110721,7 +111262,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "122"
+		"sortid": "123"
 	},
 	{
 		"id": "29288",
@@ -110779,7 +111320,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "123"
+		"sortid": "124"
 	},
 	{
 		"id": "24137",
@@ -110812,7 +111353,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "124"
+		"sortid": "125"
 	},
 	{
 		"id": "25429",
@@ -110845,7 +111386,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "124"
+		"sortid": "125"
 	},
 	{
 		"id": "25430",
@@ -110878,7 +111419,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "124"
+		"sortid": "125"
 	},
 	{
 		"id": "25431",
@@ -110911,7 +111452,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "25433",
@@ -110944,7 +111485,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "25434",
@@ -110977,7 +111518,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "25435",
@@ -111010,7 +111551,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "25436",
@@ -111043,7 +111584,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "25437",
@@ -111076,7 +111617,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "25438",
@@ -111109,7 +111650,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "126"
+		"sortid": "127"
 	},
 	{
 		"id": "25439",
@@ -111142,7 +111683,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "126"
+		"sortid": "127"
 	},
 	{
 		"id": "25440",
@@ -111175,7 +111716,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "126"
+		"sortid": "127"
 	},
 	{
 		"id": "28315",
@@ -111211,7 +111752,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "126"
+		"sortid": "127"
 	},
 	{
 		"id": "27418",
@@ -111253,7 +111794,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "127"
+		"sortid": "128"
 	},
 	{
 		"id": "24924",
@@ -111282,7 +111823,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "128"
+		"sortid": "129"
 	},
 	{
 		"id": "27423",
@@ -111297,7 +111838,7 @@
 				"name": "Wolverine"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -111319,7 +111860,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "129"
+		"sortid": "130"
 	},
 	{
 		"id": "24809",
@@ -111334,7 +111875,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -111373,7 +111914,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "130"
+		"sortid": "131"
 	},
 	{
 		"id": "24147",
@@ -111416,7 +111957,7 @@
 				"name": "Phobos"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -111438,7 +111979,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "131"
+		"sortid": "132"
 	},
 	{
 		"id": "26755",
@@ -111481,7 +112022,7 @@
 				"name": "Phobos"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -111503,7 +112044,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "131"
+		"sortid": "132"
 	},
 	{
 		"id": "26756",
@@ -111546,7 +112087,7 @@
 				"name": "Phobos"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -111568,7 +112109,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "131"
+		"sortid": "132"
 	},
 	{
 		"id": "26289",
@@ -111579,7 +112120,7 @@
 		"date": "2009-08-26",
 		"characters": [
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -111634,7 +112175,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "132"
+		"sortid": "133"
 	},
 	{
 		"id": "26757",
@@ -111677,7 +112218,7 @@
 				"name": "Phobos"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -111699,7 +112240,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "133"
+		"sortid": "134"
 	},
 	{
 		"id": "26290",
@@ -111710,7 +112251,7 @@
 		"date": "2009-09-30",
 		"characters": [
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -111765,7 +112306,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "134"
+		"sortid": "135"
 	},
 	{
 		"id": "26758",
@@ -111808,7 +112349,7 @@
 				"name": "Phobos"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -111830,7 +112371,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "135"
+		"sortid": "136"
 	},
 	{
 		"id": "26291",
@@ -111841,7 +112382,7 @@
 		"date": "2009-10-28",
 		"characters": [
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -111896,7 +112437,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "136"
+		"sortid": "137"
 	},
 	{
 		"id": "28054",
@@ -111925,7 +112466,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "137"
+		"sortid": "138"
 	},
 	{
 		"id": "28055",
@@ -111954,7 +112495,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "137"
+		"sortid": "138"
 	},
 	{
 		"id": "28056",
@@ -111983,7 +112524,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "137"
+		"sortid": "138"
 	},
 	{
 		"id": "27422",
@@ -111994,7 +112535,7 @@
 		"date": "2009-10-07",
 		"characters": [
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -112021,7 +112562,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "138"
+		"sortid": "139"
 	},
 	{
 		"id": "26283",
@@ -112032,7 +112573,7 @@
 		"date": "2009-11-25",
 		"characters": [
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -112079,7 +112620,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "139"
+		"sortid": "140"
 	},
 	{
 		"id": "25533",
@@ -112117,7 +112658,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "140"
+		"sortid": "141"
 	},
 	{
 		"id": "25534",
@@ -112155,7 +112696,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "140"
+		"sortid": "141"
 	},
 	{
 		"id": "25535",
@@ -112197,7 +112738,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "140"
+		"sortid": "141"
 	},
 	{
 		"id": "25536",
@@ -112239,7 +112780,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "140"
+		"sortid": "141"
 	},
 	{
 		"id": "26759",
@@ -112284,7 +112825,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "141"
+		"sortid": "142"
 	},
 	{
 		"id": "27421",
@@ -112324,7 +112865,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "142"
+		"sortid": "143"
 	},
 	{
 		"id": "27417",
@@ -112358,7 +112899,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "143"
+		"sortid": "144"
 	},
 	{
 		"id": "25537",
@@ -112400,7 +112941,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "144"
+		"sortid": "145"
 	},
 	{
 		"id": "25538",
@@ -112442,7 +112983,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "144"
+		"sortid": "145"
 	},
 	{
 		"id": "24814",
@@ -112461,7 +113002,7 @@
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -112500,7 +113041,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "145"
+		"sortid": "146"
 	},
 	{
 		"id": "24806",
@@ -112519,7 +113060,7 @@
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -112558,7 +113099,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "145"
+		"sortid": "146"
 	},
 	{
 		"id": "24807",
@@ -112577,7 +113118,7 @@
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -112616,7 +113157,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "145"
+		"sortid": "146"
 	},
 	{
 		"id": "24808",
@@ -112635,7 +113176,7 @@
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "153",
+				"id": "154",
 				"name": "Marvel Boy"
 			},
 			{
@@ -112674,7 +113215,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "145"
+		"sortid": "146"
 	},
 	{
 		"id": "27548",
@@ -112704,7 +113245,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "146"
+		"sortid": "147"
 	},
 	{
 		"id": "26760",
@@ -112741,7 +113282,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "147"
+		"sortid": "148"
 	},
 	{
 		"id": "26761",
@@ -112778,7 +113319,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "147"
+		"sortid": "148"
 	},
 	{
 		"id": "26762",
@@ -112815,7 +113356,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "147"
+		"sortid": "148"
 	},
 	{
 		"id": "25540",
@@ -112865,7 +113406,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "148"
+		"sortid": "149"
 	},
 	{
 		"id": "28333",
@@ -112915,7 +113456,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "148"
+		"sortid": "149"
 	},
 	{
 		"id": "28334",
@@ -112965,7 +113506,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "148"
+		"sortid": "149"
 	},
 	{
 		"id": "28335",
@@ -113015,7 +113556,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "148"
+		"sortid": "149"
 	},
 	{
 		"id": "30442",
@@ -113068,7 +113609,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "148"
+		"sortid": "149"
 	},
 	{
 		"id": "37957",
@@ -113110,7 +113651,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "149"
+		"sortid": "150"
 	},
 	{
 		"id": "26691",
@@ -113148,7 +113689,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "150"
+		"sortid": "151"
 	},
 	{
 		"id": "26692",
@@ -113186,7 +113727,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "150"
+		"sortid": "151"
 	},
 	{
 		"id": "26693",
@@ -113227,7 +113768,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "150"
+		"sortid": "151"
 	},
 	{
 		"id": "22390",
@@ -113256,7 +113797,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "151"
+		"sortid": "152"
 	},
 	{
 		"id": "21281",
@@ -113285,7 +113826,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "151"
+		"sortid": "152"
 	},
 	{
 		"id": "21213",
@@ -113314,7 +113855,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "151"
+		"sortid": "152"
 	},
 	{
 		"id": "29293",
@@ -113348,7 +113889,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "152"
+		"sortid": "153"
 	},
 	{
 		"id": "28859",
@@ -113383,7 +113924,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "152"
+		"sortid": "153"
 	},
 	{
 		"id": "25371",
@@ -113418,7 +113959,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "153"
+		"sortid": "154"
 	},
 	{
 		"id": "29889",
@@ -113453,7 +113994,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "154"
+		"sortid": "155"
 	},
 	{
 		"id": "27651",
@@ -113492,7 +114033,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "155"
+		"sortid": "156"
 	},
 	{
 		"id": "25372",
@@ -113527,7 +114068,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "155"
+		"sortid": "156"
 	},
 	{
 		"id": "27652",
@@ -113566,7 +114107,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "155"
+		"sortid": "156"
 	},
 	{
 		"id": "31500",
@@ -113601,7 +114142,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "156"
+		"sortid": "157"
 	},
 	{
 		"id": "29807",
@@ -113618,7 +114159,7 @@
 				"name": "She-Hulk"
 			},
 			{
-				"id": "162",
+				"id": "163",
 				"name": "Lyra"
 			}
 		],
@@ -113636,7 +114177,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "157"
+		"sortid": "158"
 	},
 	{
 		"id": "29891",
@@ -113671,7 +114212,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "158"
+		"sortid": "159"
 	},
 	{
 		"id": "30416",
@@ -113706,7 +114247,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "159"
+		"sortid": "160"
 	},
 	{
 		"id": "27653",
@@ -113745,7 +114286,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "159"
+		"sortid": "160"
 	},
 	{
 		"id": "29808",
@@ -113762,7 +114303,7 @@
 				"name": "She-Hulk"
 			},
 			{
-				"id": "162",
+				"id": "163",
 				"name": "Lyra"
 			}
 		],
@@ -113780,7 +114321,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "160"
+		"sortid": "161"
 	},
 	{
 		"id": "29809",
@@ -113797,7 +114338,7 @@
 				"name": "She-Hulk"
 			},
 			{
-				"id": "162",
+				"id": "163",
 				"name": "Lyra"
 			}
 		],
@@ -113815,7 +114356,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "160"
+		"sortid": "161"
 	},
 	{
 		"id": "29892",
@@ -113850,7 +114391,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "161"
+		"sortid": "162"
 	},
 	{
 		"id": "32531",
@@ -113893,7 +114434,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "162"
+		"sortid": "163"
 	},
 	{
 		"id": "32762",
@@ -113924,7 +114465,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "163"
+		"sortid": "164"
 	},
 	{
 		"id": "32763",
@@ -113955,7 +114496,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "163"
+		"sortid": "164"
 	},
 	{
 		"id": "30417",
@@ -113990,7 +114531,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "164"
+		"sortid": "165"
 	},
 	{
 		"id": "31074",
@@ -114025,7 +114566,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "164"
+		"sortid": "165"
 	},
 	{
 		"id": "33580",
@@ -114060,7 +114601,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "165"
+		"sortid": "166"
 	},
 	{
 		"id": "33581",
@@ -114095,7 +114636,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "165"
+		"sortid": "166"
 	},
 	{
 		"id": "33582",
@@ -114130,7 +114671,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "166"
+		"sortid": "167"
 	},
 	{
 		"id": "33583",
@@ -114165,7 +114706,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "166"
+		"sortid": "167"
 	},
 	{
 		"id": "30418",
@@ -114200,7 +114741,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "167"
+		"sortid": "168"
 	},
 	{
 		"id": "31076",
@@ -114235,7 +114776,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "167"
+		"sortid": "168"
 	},
 	{
 		"id": "31077",
@@ -114270,7 +114811,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "167"
+		"sortid": "168"
 	},
 	{
 		"id": "30419",
@@ -114305,7 +114846,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "167"
+		"sortid": "168"
 	},
 	{
 		"id": "24407",
@@ -114339,7 +114880,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "168"
+		"sortid": "169"
 	},
 	{
 		"id": "24408",
@@ -114369,7 +114910,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "169"
+		"sortid": "170"
 	},
 	{
 		"id": "24409",
@@ -114399,7 +114940,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "169"
+		"sortid": "170"
 	},
 	{
 		"id": "24410",
@@ -114429,7 +114970,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "169"
+		"sortid": "170"
 	},
 	{
 		"id": "24411",
@@ -114459,7 +115000,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "169"
+		"sortid": "170"
 	},
 	{
 		"id": "24412",
@@ -114489,7 +115030,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "169"
+		"sortid": "170"
 	},
 	{
 		"id": "24413",
@@ -114523,7 +115064,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "170"
+		"sortid": "171"
 	},
 	{
 		"id": "24414",
@@ -114557,7 +115098,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "170"
+		"sortid": "171"
 	},
 	{
 		"id": "28450",
@@ -114572,11 +115113,11 @@
 				"name": "Spider-Man"
 			},
 			{
-				"id": "163",
+				"id": "164",
 				"name": "Ben Reilly"
 			},
 			{
-				"id": "164",
+				"id": "165",
 				"name": "Kaine"
 			}
 		],
@@ -114595,7 +115136,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "170"
+		"sortid": "171"
 	},
 	{
 		"id": "24415",
@@ -114610,11 +115151,11 @@
 				"name": "Spider-Man"
 			},
 			{
-				"id": "163",
+				"id": "164",
 				"name": "Ben Reilly"
 			},
 			{
-				"id": "164",
+				"id": "165",
 				"name": "Kaine"
 			}
 		],
@@ -114633,7 +115174,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "170"
+		"sortid": "171"
 	},
 	{
 		"id": "24416",
@@ -114648,11 +115189,11 @@
 				"name": "Spider-Man"
 			},
 			{
-				"id": "163",
+				"id": "164",
 				"name": "Ben Reilly"
 			},
 			{
-				"id": "164",
+				"id": "165",
 				"name": "Kaine"
 			}
 		],
@@ -114671,7 +115212,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "170"
+		"sortid": "171"
 	},
 	{
 		"id": "24417",
@@ -114686,11 +115227,11 @@
 				"name": "Spider-Man"
 			},
 			{
-				"id": "163",
+				"id": "164",
 				"name": "Ben Reilly"
 			},
 			{
-				"id": "164",
+				"id": "165",
 				"name": "Kaine"
 			}
 		],
@@ -114709,7 +115250,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "170"
+		"sortid": "171"
 	},
 	{
 		"id": "24416",
@@ -114739,7 +115280,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "171"
+		"sortid": "172"
 	},
 	{
 		"id": "24418",
@@ -114769,7 +115310,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "171"
+		"sortid": "172"
 	},
 	{
 		"id": "24419",
@@ -114799,7 +115340,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "171"
+		"sortid": "172"
 	},
 	{
 		"id": "24421",
@@ -114829,7 +115370,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "171"
+		"sortid": "172"
 	},
 	{
 		"id": "28451",
@@ -114859,7 +115400,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "171"
+		"sortid": "172"
 	},
 	{
 		"id": "24422",
@@ -114889,7 +115430,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "172"
+		"sortid": "173"
 	},
 	{
 		"id": "24423",
@@ -114919,7 +115460,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "172"
+		"sortid": "173"
 	},
 	{
 		"id": "24424",
@@ -114949,7 +115490,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "172"
+		"sortid": "173"
 	},
 	{
 		"id": "28452",
@@ -114979,7 +115520,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "172"
+		"sortid": "173"
 	},
 	{
 		"id": "24425",
@@ -115009,7 +115550,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "173"
+		"sortid": "174"
 	},
 	{
 		"id": "28224",
@@ -115039,7 +115580,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "173"
+		"sortid": "174"
 	},
 	{
 		"id": "28225",
@@ -115069,7 +115610,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "173"
+		"sortid": "174"
 	},
 	{
 		"id": "28453",
@@ -115099,7 +115640,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "173"
+		"sortid": "174"
 	},
 	{
 		"id": "28226",
@@ -115129,7 +115670,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "174"
+		"sortid": "175"
 	},
 	{
 		"id": "28227",
@@ -115159,7 +115700,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "174"
+		"sortid": "175"
 	},
 	{
 		"id": "30298",
@@ -115189,7 +115730,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "174"
+		"sortid": "175"
 	},
 	{
 		"id": "30299",
@@ -115219,7 +115760,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "174"
+		"sortid": "175"
 	},
 	{
 		"id": "30640",
@@ -115249,7 +115790,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "174"
+		"sortid": "175"
 	},
 	{
 		"id": "30300",
@@ -115279,7 +115820,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "175"
+		"sortid": "176"
 	},
 	{
 		"id": "30301",
@@ -115309,7 +115850,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "175"
+		"sortid": "176"
 	},
 	{
 		"id": "30302",
@@ -115339,7 +115880,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "175"
+		"sortid": "176"
 	},
 	{
 		"id": "30303",
@@ -115369,7 +115910,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "175"
+		"sortid": "176"
 	},
 	{
 		"id": "30304",
@@ -115399,7 +115940,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "175"
+		"sortid": "176"
 	},
 	{
 		"id": "28718",
@@ -115428,7 +115969,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "176"
+		"sortid": "177"
 	},
 	{
 		"id": "28719",
@@ -115457,7 +115998,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "176"
+		"sortid": "177"
 	},
 	{
 		"id": "28720",
@@ -115486,7 +116027,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "176"
+		"sortid": "177"
 	},
 	{
 		"id": "28721",
@@ -115515,7 +116056,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "176"
+		"sortid": "177"
 	},
 	{
 		"id": "28722",
@@ -115544,7 +116085,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "176"
+		"sortid": "177"
 	},
 	{
 		"id": "26784",
@@ -115573,7 +116114,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "176"
+		"sortid": "177"
 	},
 	{
 		"id": "23923",
@@ -115623,7 +116164,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "177"
+		"sortid": "178"
 	},
 	{
 		"id": "24132",
@@ -115673,7 +116214,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "177"
+		"sortid": "178"
 	},
 	{
 		"id": "25180",
@@ -115723,7 +116264,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "177"
+		"sortid": "178"
 	},
 	{
 		"id": "25181",
@@ -115773,7 +116314,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "177"
+		"sortid": "178"
 	},
 	{
 		"id": "23100",
@@ -115822,7 +116363,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "178"
+		"sortid": "179"
 	},
 	{
 		"id": "23597",
@@ -115875,7 +116416,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "178"
+		"sortid": "179"
 	},
 	{
 		"id": "23758",
@@ -115928,7 +116469,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "178"
+		"sortid": "179"
 	},
 	{
 		"id": "23956",
@@ -115981,7 +116522,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "178"
+		"sortid": "179"
 	},
 	{
 		"id": "24156",
@@ -116034,7 +116575,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "178"
+		"sortid": "179"
 	},
 	{
 		"id": "27240",
@@ -116087,7 +116628,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "178"
+		"sortid": "179"
 	},
 	{
 		"id": "27241",
@@ -116140,7 +116681,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "178"
+		"sortid": "179"
 	},
 	{
 		"id": "27242",
@@ -116193,7 +116734,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "180"
 	},
 	{
 		"id": "27243",
@@ -116246,7 +116787,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "180"
 	},
 	{
 		"id": "27244",
@@ -116299,7 +116840,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "180"
 	},
 	{
 		"id": "27245",
@@ -116352,7 +116893,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "180"
 	},
 	{
 		"id": "27246",
@@ -116405,7 +116946,297 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "180"
+	},
+	{
+		"id": "24947",
+		"collection": "Deadpool",
+		"title": "X Marks the Spot",
+		"vol": 2,
+		"num": 13,
+		"date": "2009-08-12",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "416",
+				"name": "Shawn Crystal"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/51a4f6fb38a0d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "181"
+	},
+	{
+		"id": "24948",
+		"collection": "Deadpool",
+		"title": "X Marks the Spot",
+		"vol": 2,
+		"num": 14,
+		"date": "2009-08-26",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "416",
+				"name": "Shawn Crystal"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/51a4f6e70d8ba.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "181"
+	},
+	{
+		"id": "24949",
+		"collection": "Deadpool",
+		"title": "X Marks the Spot",
+		"vol": 2,
+		"num": 15,
+		"date": "2009-09-02",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "042",
+				"name": "Paco Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/51a4f6e086ead.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "181"
+	},
+	{
+		"id": "24950",
+		"collection": "Deadpool",
+		"title": "X Marks the Spot",
+		"vol": 2,
+		"num": 16,
+		"date": "2009-10-07",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "042",
+				"name": "Paco Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/51a4fb8cf1c6b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "181"
+	},
+	{
+		"id": "24951",
+		"collection": "Deadpool",
+		"title": "X Marks the Spot",
+		"vol": 2,
+		"num": 17,
+		"date": "2009-11-11",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "042",
+				"name": "Paco Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/51a4fb7da0882.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "181"
+	},
+	{
+		"id": "24952",
+		"collection": "Deadpool",
+		"title": "X Marks the Spot",
+		"vol": 2,
+		"num": 18,
+		"date": "2009-12-09",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "042",
+				"name": "Paco Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/d0/51a4fb7ecbccb.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "181"
+	},
+	{
+		"id": "29049",
+		"collection": "Deadpool",
+		"title": "Monkey Business",
+		"vol": 2,
+		"num": 19,
+		"date": "2010-02-17",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "315",
+				"name": "Carlo Barberi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/51a4fb6fac0e5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "182"
+	},
+	{
+		"id": "29050",
+		"collection": "Deadpool",
+		"title": "Monkey Business",
+		"vol": 2,
+		"num": 20,
+		"date": "2010-02-24",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "315",
+				"name": "Carlo Barberi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/51a4fb699f03a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "182"
+	},
+	{
+		"id": "29051",
+		"collection": "Deadpool",
+		"title": "Monkey Business",
+		"vol": 2,
+		"num": 21,
+		"date": "2010-03-24",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "315",
+				"name": "Carlo Barberi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/51a4fc83bc5b9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "182"
+	},
+	{
+		"id": "32543",
+		"collection": "Deadpool",
+		"title": "Monkey Business",
+		"vol": 2,
+		"num": 22,
+		"date": "2010-04-28",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "357",
+				"name": "Tan Eng Huat"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/51a4fc7e8aea0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "182"
 	},
 	{
 		"id": "28078",
@@ -116422,7 +117253,7 @@
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			},
 			{
@@ -116484,7 +117315,7 @@
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "416",
+				"id": "417",
 				"name": "Lucio Parrillo"
 			}
 		],
@@ -116514,7 +117345,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			},
 			{
@@ -116536,7 +117367,7 @@
 		],
 		"creators": [
 			{
-				"id": "417",
+				"id": "418",
 				"name": "John Thomas"
 			}
 		],
@@ -116614,7 +117445,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -116634,7 +117465,7 @@
 				"name": "Spider-Man"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -116678,7 +117509,7 @@
 				"name": "Hulkling"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			}
 		],
@@ -116841,7 +117672,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -116849,7 +117680,7 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -116985,7 +117816,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -117005,7 +117836,7 @@
 				"name": "Spider-Man"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -117049,7 +117880,7 @@
 				"name": "Hulkling"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			}
 		],
@@ -117227,7 +118058,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -117235,7 +118066,7 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -117438,7 +118269,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -117458,7 +118289,7 @@
 				"name": "Spider-Man"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -117502,7 +118333,7 @@
 				"name": "Hulkling"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			}
 		],
@@ -117666,7 +118497,7 @@
 				"name": "Christos Gage"
 			},
 			{
-				"id": "418",
+				"id": "419",
 				"name": "Federico Dallocchio"
 			}
 		],
@@ -117732,7 +118563,7 @@
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "419",
+				"id": "420",
 				"name": "Jamie McKelvie"
 			}
 		],
@@ -117800,7 +118631,7 @@
 		"eventid": "014",
 		"characters": [
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -117919,7 +118750,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -117927,7 +118758,7 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -117985,7 +118816,7 @@
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "420",
+				"id": "421",
 				"name": "Niko Henrichon"
 			}
 		],
@@ -118161,7 +118992,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -118181,7 +119012,7 @@
 				"name": "Spider-Man"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -118225,7 +119056,7 @@
 				"name": "Hulkling"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			}
 		],
@@ -118462,7 +119293,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -118470,7 +119301,7 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -118684,7 +119515,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "154",
+				"id": "155",
 				"name": "Mockingbird"
 			},
 			{
@@ -118692,7 +119523,7 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "155",
+				"id": "156",
 				"name": "Secret Warriors"
 			},
 			{
@@ -118720,7 +119551,7 @@
 				"name": "Maria Hill"
 			},
 			{
-				"id": "156",
+				"id": "157",
 				"name": "Hood"
 			}
 		],
@@ -118908,11 +119739,11 @@
 				"name": "Anya Corazon"
 			},
 			{
-				"id": "163",
+				"id": "164",
 				"name": "Ben Reilly"
 			},
 			{
-				"id": "164",
+				"id": "165",
 				"name": "Kaine"
 			}
 		],
@@ -118950,11 +119781,11 @@
 				"name": "Anya Corazon"
 			},
 			{
-				"id": "163",
+				"id": "164",
 				"name": "Ben Reilly"
 			},
 			{
-				"id": "164",
+				"id": "165",
 				"name": "Kaine"
 			}
 		],
@@ -118992,11 +119823,11 @@
 				"name": "Anya Corazon"
 			},
 			{
-				"id": "163",
+				"id": "164",
 				"name": "Ben Reilly"
 			},
 			{
-				"id": "164",
+				"id": "165",
 				"name": "Kaine"
 			}
 		],
@@ -119034,11 +119865,11 @@
 				"name": "Anya Corazon"
 			},
 			{
-				"id": "163",
+				"id": "164",
 				"name": "Ben Reilly"
 			},
 			{
-				"id": "164",
+				"id": "165",
 				"name": "Kaine"
 			}
 		],
@@ -119076,11 +119907,11 @@
 				"name": "Anya Corazon"
 			},
 			{
-				"id": "163",
+				"id": "164",
 				"name": "Ben Reilly"
 			},
 			{
-				"id": "164",
+				"id": "165",
 				"name": "Kaine"
 			}
 		],
@@ -119118,11 +119949,11 @@
 				"name": "Anya Corazon"
 			},
 			{
-				"id": "163",
+				"id": "164",
 				"name": "Ben Reilly"
 			},
 			{
-				"id": "164",
+				"id": "165",
 				"name": "Kaine"
 			}
 		],
@@ -119160,11 +119991,11 @@
 				"name": "Anya Corazon"
 			},
 			{
-				"id": "163",
+				"id": "164",
 				"name": "Ben Reilly"
 			},
 			{
-				"id": "164",
+				"id": "165",
 				"name": "Kaine"
 			}
 		],
@@ -119613,7 +120444,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "421",
+				"id": "422",
 				"name": "Pepe Larraz"
 			}
 		],
@@ -119642,7 +120473,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "421",
+				"id": "422",
 				"name": "Pepe Larraz"
 			}
 		],

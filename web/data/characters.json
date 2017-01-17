@@ -605,54 +605,58 @@
 	},
 	{
 		"id": "152",
-		"name": "Invaders"
+		"name": "Hiro-Kala"
 	},
 	{
 		"id": "153",
-		"name": "Marvel Boy"
+		"name": "Invaders"
 	},
 	{
 		"id": "154",
-		"name": "Mockingbird"
+		"name": "Marvel Boy"
 	},
 	{
 		"id": "155",
-		"name": "Secret Warriors"
+		"name": "Mockingbird"
 	},
 	{
 		"id": "156",
-		"name": "Hood"
+		"name": "Secret Warriors"
 	},
 	{
 		"id": "157",
-		"name": "Captain Britain"
+		"name": "Hood"
 	},
 	{
 		"id": "158",
-		"name": "Darkhawk"
+		"name": "Captain Britain"
 	},
 	{
 		"id": "159",
-		"name": "Old Man Logan"
+		"name": "Darkhawk"
 	},
 	{
 		"id": "160",
-		"name": "Skrull Kill Krew"
+		"name": "Old Man Logan"
 	},
 	{
 		"id": "161",
-		"name": ""
+		"name": "Skrull Kill Krew"
 	},
 	{
 		"id": "162",
-		"name": "Lyra"
+		"name": ""
 	},
 	{
 		"id": "163",
-		"name": "Ben Reilly"
+		"name": "Lyra"
 	},
 	{
 		"id": "164",
+		"name": "Ben Reilly"
+	},
+	{
+		"id": "165",
 		"name": "Kaine"
 	}
 ]
