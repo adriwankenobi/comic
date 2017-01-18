@@ -1,6 +1,1844 @@
 [
 	{
 		"namable": {
+			"id": "002",
+			"name": "Secret War"
+		},
+		"list": [
+			{
+				"title": "Secret War",
+				"date": "2004-02-04",
+				"event": "Secret War",
+				"characters": [
+					{
+						"id": "090",
+						"name": "Nick Fury"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc6aedcd6792.jpg",
+				"essential": true,
+				"phaseid": "003",
+				"sortid": "019",
+				"comiclist": [
+					{
+						"collection": "Secret war",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Secret war",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Secret war",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Secret war",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Secret war",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Secret War The Pulse",
+				"date": "2004-11-10",
+				"event": "Secret War",
+				"characters": [
+					{
+						"id": "027",
+						"name": "Jessica Jones"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/56538fd257915.jpg",
+				"essential": true,
+				"phaseid": "003",
+				"sortid": "020",
+				"comiclist": [
+					{
+						"collection": "The Pulse",
+						"vol": 1,
+						"num": 6
+					},
+					{
+						"collection": "The Pulse",
+						"vol": 1,
+						"num": 7
+					},
+					{
+						"collection": "The Pulse",
+						"vol": 1,
+						"num": 8
+					},
+					{
+						"collection": "The Pulse",
+						"vol": 1,
+						"num": 9
+					}
+				]
+			}
+		]
+	},
+	{
+		"namable": {
+			"id": "009",
+			"name": "Messiah Complex"
+		},
+		"list": [
+			{
+				"title": "Messiah Complex",
+				"date": "2007-10-31",
+				"event": "Messiah Complex",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/513a8972c747e.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "114",
+				"comiclist": [
+					{
+						"collection": "X-Men Messiah Complex One Shot",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 492
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 25
+					},
+					{
+						"collection": "New X-Men",
+						"vol": 2,
+						"num": 44
+					},
+					{
+						"collection": "X-Men",
+						"vol": 2,
+						"num": 205
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 493
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 26
+					},
+					{
+						"collection": "New X-Men",
+						"vol": 2,
+						"num": 45
+					},
+					{
+						"collection": "X-Men",
+						"vol": 2,
+						"num": 206
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 494
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 27
+					},
+					{
+						"collection": "New X-Men",
+						"vol": 2,
+						"num": 46
+					},
+					{
+						"collection": "X-Men",
+						"vol": 2,
+						"num": 207
+					}
+				]
+			}
+		]
+	},
+	{
+		"namable": {
+			"id": "003",
+			"name": "House of M"
+		},
+		"list": [
+			{
+				"title": "House of M",
+				"date": "2005-06-01",
+				"event": "House of M",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51cc4da1a7058.jpg",
+				"essential": true,
+				"phaseid": "004",
+				"sortid": "001",
+				"comiclist": [
+					{
+						"collection": "House of M",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "House of M",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "House of M",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "House of M",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "House of M",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "House of M",
+						"vol": 1,
+						"num": 6
+					},
+					{
+						"collection": "House of M",
+						"vol": 1,
+						"num": 7
+					},
+					{
+						"collection": "House of M",
+						"vol": 1,
+						"num": 8
+					}
+				]
+			},
+			{
+				"title": "Fantastic Four House of M",
+				"date": "2005-06-01",
+				"event": "House of M",
+				"characters": [
+					{
+						"id": "035",
+						"name": "Fantastic Four"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/535190892db5e.jpg",
+				"phaseid": "004",
+				"sortid": "002",
+				"comiclist": [
+					{
+						"collection": "Fantastic Four House of M",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Fantastic Four House of M",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Fantastic Four House of M",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Spider-Man House of M",
+				"date": "2005-06-22",
+				"event": "House of M",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bb86d0cf217b.jpg",
+				"phaseid": "004",
+				"sortid": "003",
+				"comiclist": [
+					{
+						"collection": "Spider-Man House of M",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Spider-Man House of M",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Spider-Man House of M",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Spider-Man House of M",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Spider-Man House of M",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Iron-Man House of M",
+				"date": "2005-07-06",
+				"event": "House of M",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Iron Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bc62ce032575.jpg",
+				"phaseid": "004",
+				"sortid": "004",
+				"comiclist": [
+					{
+						"collection": "Iron Man House of M",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Iron Man House of M",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Iron Man House of M",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "House of M Incredible Hulk",
+				"date": "2005-07-06",
+				"event": "House of M",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc62c46bdb85.jpg",
+				"phaseid": "004",
+				"sortid": "005",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 83
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 84
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 85
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 86
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 87
+					}
+				]
+			},
+			{
+				"title": "Mutopia X",
+				"date": "2005-07-13",
+				"event": "House of M",
+				"characters": [
+					{
+						"id": "069",
+						"name": "Bishop"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bc62d059e115.jpg",
+				"phaseid": "004",
+				"sortid": "006",
+				"comiclist": [
+					{
+						"collection": "Mutopia X",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Mutopia X",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Mutopia X",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Mutopia X",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Mutopia X",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "House of M The Pulse",
+				"date": "2005-07-27",
+				"event": "House of M",
+				"characters": [
+					{
+						"id": "026",
+						"name": "Ben Urich"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5653544c5e3bf.jpg",
+				"essential": true,
+				"phaseid": "004",
+				"sortid": "007",
+				"comiclist": [
+					{
+						"collection": "The Pulse",
+						"vol": 1,
+						"num": 10
+					}
+				]
+			},
+			{
+				"title": "House of M Black Panther",
+				"date": "2005-08-24",
+				"event": "House of M",
+				"characters": [
+					{
+						"id": "094",
+						"name": "Black Panther"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5745bcc5d2777.jpg",
+				"phaseid": "004",
+				"sortid": "008",
+				"comiclist": [
+					{
+						"collection": "Black Panther",
+						"vol": 4,
+						"num": 7
+					}
+				]
+			},
+			{
+				"title": "House of M Captain America",
+				"date": "2005-10-01",
+				"event": "House of M",
+				"characters": [
+					{
+						"id": "056",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "https://i.annihil.us/u/prod/marvel/i/mg/c/10/4d24fef511cb5/detail.jpg",
+				"phaseid": "004",
+				"sortid": "009",
+				"comiclist": [
+					{
+						"collection": "Captain America",
+						"vol": 5,
+						"num": 10
+					}
+				]
+			},
+			{
+				"title": "House of M Wolverine",
+				"date": "2005-09-28",
+				"event": "House of M",
+				"characters": [
+					{
+						"id": "033",
+						"name": "Wolverine"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4d24f6a19cd02.jpg",
+				"phaseid": "004",
+				"sortid": "010",
+				"comiclist": [
+					{
+						"collection": "Wolverine",
+						"vol": 3,
+						"num": 33
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 3,
+						"num": 34
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 3,
+						"num": 35
+					}
+				]
+			},
+			{
+				"title": "House of M Uncanny X-Men",
+				"date": "2005-07-06",
+				"event": "House of M",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc6305a2b7c6.jpg",
+				"phaseid": "004",
+				"sortid": "011",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 462
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 463
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 464
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 465
+					}
+				]
+			},
+			{
+				"title": "House of M New X-Men",
+				"date": "2005-07-27",
+				"event": "House of M",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/5702aba9be7c9.jpg",
+				"phaseid": "004",
+				"sortid": "012",
+				"comiclist": [
+					{
+						"collection": "New X-Men",
+						"vol": 2,
+						"num": 16
+					},
+					{
+						"collection": "New X-Men",
+						"vol": 2,
+						"num": 17
+					},
+					{
+						"collection": "New X-Men",
+						"vol": 2,
+						"num": 18
+					},
+					{
+						"collection": "New X-Men",
+						"vol": 2,
+						"num": 19
+					}
+				]
+			}
+		]
+	},
+	{
+		"namable": {
+			"id": "004",
+			"name": "Decimation"
+		},
+		"list": [
+			{
+				"title": "The Day After",
+				"date": "2005-11-09",
+				"event": "Decimation",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4bc6175373f29.jpg",
+				"essential": true,
+				"phaseid": "005",
+				"sortid": "001",
+				"comiclist": [
+					{
+						"collection": "Decimation House of M - The Day After",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Tin Can Heroes",
+				"date": "2006-01-18",
+				"event": "Decimation",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc607a8c9207.jpg",
+				"phaseid": "005",
+				"sortid": "002",
+				"comiclist": [
+					{
+						"collection": "Sentinel Squad One",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Sentinel Squad One",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Sentinel Squad One",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Sentinel Squad One",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Sentinel Squad One",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "House Arrest",
+				"date": "2005-11-09",
+				"event": "Decimation",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc612b84e389.jpg",
+				"phaseid": "005",
+				"sortid": "003",
+				"comiclist": [
+					{
+						"collection": "X-Men",
+						"vol": 2,
+						"num": 177
+					},
+					{
+						"collection": "X-Men",
+						"vol": 2,
+						"num": 178
+					},
+					{
+						"collection": "X-Men",
+						"vol": 2,
+						"num": 179
+					}
+				]
+			},
+			{
+				"title": "Childhood's End",
+				"date": "2005-11-09",
+				"event": "Decimation",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5702ae23cbb93.jpg",
+				"phaseid": "005",
+				"sortid": "004",
+				"comiclist": [
+					{
+						"collection": "New X-Men",
+						"vol": 2,
+						"num": 20
+					},
+					{
+						"collection": "New X-Men",
+						"vol": 2,
+						"num": 21
+					},
+					{
+						"collection": "New X-Men",
+						"vol": 2,
+						"num": 22
+					},
+					{
+						"collection": "New X-Men",
+						"vol": 2,
+						"num": 23
+					}
+				]
+			},
+			{
+				"title": "Blind love",
+				"date": "2006-02-08",
+				"event": "Decimation",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/568414810a6fc.jpg",
+				"phaseid": "005",
+				"sortid": "005",
+				"comiclist": [
+					{
+						"collection": "X-Men Unlimited",
+						"vol": 2,
+						"num": 13
+					}
+				]
+			},
+			{
+				"title": "Son of M",
+				"date": "2005-12-14",
+				"event": "Decimation",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc60cf09a1ff.jpg",
+				"essential": true,
+				"phaseid": "005",
+				"sortid": "006",
+				"comiclist": [
+					{
+						"collection": "Son of M",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Son of M",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Son of M",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Son of M",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Son of M",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Son of M",
+						"vol": 1,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "The 198",
+				"date": "2006-01-11",
+				"event": "Decimation",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/56f5af6850606.jpg",
+				"phaseid": "005",
+				"sortid": "007",
+				"comiclist": [
+					{
+						"collection": "X-Men - The 198",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "X-Men - The 198",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "X-Men - The 198",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "X-Men - The 198",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "X-Men - The 198",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Generation M",
+				"date": "2006-01-10",
+				"event": "Decimation",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bb862b2a3046.jpg",
+				"phaseid": "005",
+				"sortid": "008",
+				"comiclist": [
+					{
+						"collection": "Generation M",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Generation M",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Generation M",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Generation M",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Generation M",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "The Longest Night",
+				"date": "2005-12-14",
+				"event": "Decimation",
+				"characters": [
+					{
+						"id": "074",
+						"name": "X-Factor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4bc616260515b.jpg",
+				"phaseid": "005",
+				"sortid": "009",
+				"comiclist": [
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 1
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 2
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 3
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 4
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 5
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Deadly Genesis",
+				"date": "2005-11-16",
+				"event": "Decimation",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/570293252a4f3.jpg",
+				"essential": true,
+				"phaseid": "005",
+				"sortid": "010",
+				"comiclist": [
+					{
+						"collection": "X-Men - Deadly Genesis",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "X-Men - Deadly Genesis",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "X-Men - Deadly Genesis",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "X-Men - Deadly Genesis",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "X-Men - Deadly Genesis",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "X-Men - Deadly Genesis",
+						"vol": 1,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Endangered Spicies",
+				"date": "2007-06-20",
+				"event": "Decimation",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/56f953a644953.jpg",
+				"essential": true,
+				"phaseid": "005",
+				"sortid": "011",
+				"comiclist": [
+					{
+						"collection": "X-Men - Endangered Species",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "X-Men",
+						"vol": 2,
+						"num": 200
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 488
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 21
+					},
+					{
+						"collection": "New X-Men",
+						"vol": 2,
+						"num": 40
+					},
+					{
+						"collection": "X-Men",
+						"vol": 2,
+						"num": 201
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 489
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 22
+					},
+					{
+						"collection": "New X-Men",
+						"vol": 2,
+						"num": 41
+					},
+					{
+						"collection": "X-Men",
+						"vol": 2,
+						"num": 202
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 490
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 23
+					},
+					{
+						"collection": "New X-Men",
+						"vol": 2,
+						"num": 42
+					},
+					{
+						"collection": "X-Men",
+						"vol": 2,
+						"num": 203
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 491
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 3,
+						"num": 24
+					},
+					{
+						"collection": "X-Men",
+						"vol": 2,
+						"num": 204
+					},
+					{
+						"collection": "X-Men",
+						"vol": 2,
+						"num": 204
+					}
+				]
+			}
+		]
+	},
+	{
+		"namable": {
+			"id": "007",
+			"name": "Planet Hulk"
+		},
+		"list": [
+			{
+				"title": "Planet Hulk Exile",
+				"date": "2006-02-08",
+				"event": "Planet Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4f6a2316f20a4.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "008",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 92
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 93
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 94
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 95
+					}
+				]
+			},
+			{
+				"title": "Planet Hulk Anarchy",
+				"date": "2006-06-21",
+				"event": "Planet Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/55b2458c0ebc7.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "009",
+				"comiclist": [
+					{
+						"collection": "Giant Size Hulk",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 96
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 97
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 98
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 99
+					}
+				]
+			},
+			{
+				"title": "Planet Hulk Allegiance",
+				"date": "2006-11-01",
+				"event": "Planet Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4d24f491cecd7.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "010",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 100
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 101
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 102
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 103
+					}
+				]
+			},
+			{
+				"title": "Planet Hulk Armageddon",
+				"date": "2007-03-07",
+				"event": "Planet Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4d24ebd7d087e.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "011",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 104
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 105
+					}
+				]
+			}
+		]
+	},
+	{
+		"namable": {
+			"id": "013",
+			"name": "Fall of the Hulks - World War Hulks"
+		},
+		"list": [
+			{
+				"title": "Fall of the Hulks Prelude",
+				"date": "2009-12-03",
+				"event": "Fall of the Hulks - World War Hulks",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/52c5ce05901fb.jpg",
+				"phaseid": "009",
+				"sortid": "157",
+				"comiclist": [
+					{
+						"collection": "Fall of the Hulks Alpha",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Fall of the Hulks Gamma",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Fall of the Hulks",
+				"date": "2010-01-20",
+				"event": "Fall of the Hulks - World War Hulks",
+				"characters": [
+					{
+						"id": "144",
+						"name": "Red Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4f634ab8bc32b.jpg",
+				"phaseid": "009",
+				"sortid": "158",
+				"comiclist": [
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 19
+					}
+				]
+			},
+			{
+				"title": "Red Hulk",
+				"date": "2010-01-27",
+				"event": "Fall of the Hulks - World War Hulks",
+				"characters": [
+					{
+						"id": "144",
+						"name": "Red Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/52c5ce705cd4f.jpg",
+				"phaseid": "009",
+				"sortid": "159",
+				"comiclist": [
+					{
+						"collection": "Fall of the Hulks Red Hulk",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Fall of the Hulks",
+				"date": "2010-01-20",
+				"event": "Fall of the Hulks - World War Hulks",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/52c5cdf707041.jpg",
+				"phaseid": "009",
+				"sortid": "160",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulk",
+						"vol": 1,
+						"num": 606
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 20
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 1,
+						"num": 607
+					}
+				]
+			},
+			{
+				"title": "Red Hulk",
+				"date": "2010-02-24",
+				"event": "Fall of the Hulks - World War Hulks",
+				"characters": [
+					{
+						"id": "144",
+						"name": "Red Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4f5a576d32dbc.jpg",
+				"phaseid": "009",
+				"sortid": "161",
+				"comiclist": [
+					{
+						"collection": "Fall of the Hulks Red Hulk",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Savage She-Hulks",
+				"date": "2010-03-03",
+				"event": "Fall of the Hulks - World War Hulks",
+				"characters": [
+					{
+						"id": "046",
+						"name": "She-Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4f6385a241d9e.jpg",
+				"phaseid": "009",
+				"sortid": "162",
+				"comiclist": [
+					{
+						"collection": "Fall of the Hulks Savage She-Hulks",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Red Hulk",
+				"date": "2010-03-24",
+				"event": "Fall of the Hulks - World War Hulks",
+				"characters": [
+					{
+						"id": "144",
+						"name": "Red Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4f5a57f31ad93.jpg",
+				"phaseid": "009",
+				"sortid": "163",
+				"comiclist": [
+					{
+						"collection": "Fall of the Hulks Red Hulk",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Fall of the Hulks",
+				"date": "2010-03-17",
+				"event": "Fall of the Hulks - World War Hulks",
+				"characters": [
+					{
+						"id": "144",
+						"name": "Red Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4f634bb057b74.jpg",
+				"phaseid": "009",
+				"sortid": "164",
+				"comiclist": [
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 21
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 1,
+						"num": 608
+					}
+				]
+			},
+			{
+				"title": "Savage She-Hulks",
+				"date": "2010-04-21",
+				"event": "Fall of the Hulks - World War Hulks",
+				"characters": [
+					{
+						"id": "046",
+						"name": "She-Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4f58d4abd06f6.jpg",
+				"phaseid": "009",
+				"sortid": "165",
+				"comiclist": [
+					{
+						"collection": "Fall of the Hulks Savage She-Hulks",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Fall of the Hulks Savage She-Hulks",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Red Hulk",
+				"date": "2010-04-28",
+				"event": "Fall of the Hulks - World War Hulks",
+				"characters": [
+					{
+						"id": "144",
+						"name": "Red Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4f58c35d27648.jpg",
+				"phaseid": "009",
+				"sortid": "166",
+				"comiclist": [
+					{
+						"collection": "Fall of the Hulks Red Hulk",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "World War Hulks",
+				"date": "2010-04-07",
+				"event": "Fall of the Hulks - World War Hulks",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4f58d401da1d2.jpg",
+				"phaseid": "009",
+				"sortid": "167",
+				"comiclist": [
+					{
+						"collection": "World War Hulks",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Huled Out Heroes",
+				"date": "2010-04-14",
+				"event": "Fall of the Hulks - World War Hulks",
+				"characters": [
+					{
+						"id": "087",
+						"name": "Deadpool"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/55b6825f4e04b.jpg",
+				"phaseid": "009",
+				"sortid": "168",
+				"comiclist": [
+					{
+						"collection": "World War Hulks Hulked Out Heroes",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "World War Hulks Hulked Out Heroes",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "World War Hulks",
+				"date": "2010-05-12",
+				"event": "Fall of the Hulks - World War Hulks",
+				"characters": [
+					{
+						"id": "144",
+						"name": "Red Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4f58c476480f1.jpg",
+				"phaseid": "009",
+				"sortid": "169",
+				"comiclist": [
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 22
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 1,
+						"num": 609
+					}
+				]
+			},
+			{
+				"title": "WWH Spider-Man \u0026 Thor",
+				"date": "2010-07-14",
+				"event": "Fall of the Hulks - World War Hulks",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4f58d5c7e06b8.jpg",
+				"phaseid": "009",
+				"sortid": "170",
+				"comiclist": [
+					{
+						"collection": "World War Huks Spider-Man \u0026 Thor",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "World War Huks Spider-Man \u0026 Thor",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "WWH Wolverine \u0026 Captain America",
+				"date": "2010-07-14",
+				"event": "Fall of the Hulks - World War Hulks",
+				"characters": [
+					{
+						"id": "089",
+						"name": "Bucky Barnes"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4bc5dd6a8dee0.jpg",
+				"phaseid": "009",
+				"sortid": "171",
+				"comiclist": [
+					{
+						"collection": "World War Huks Wolverine \u0026 Captain America",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "World War Huks Wolverine \u0026 Captain America",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "World War Hulks",
+				"date": "2010-06-23",
+				"event": "Fall of the Hulks - World War Hulks",
+				"characters": [
+					{
+						"id": "144",
+						"name": "Red Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/4f58c573689c1.jpg",
+				"phaseid": "009",
+				"sortid": "172",
+				"comiclist": [
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 23
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 1,
+						"num": 610
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 1,
+						"num": 611
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 24
+					}
+				]
+			}
+		]
+	},
+	{
+		"namable": {
+			"id": "005",
+			"name": "Annihilation"
+		},
+		"list": [
+			{
+				"title": "Annihilation I",
+				"date": "2006-03-15",
+				"event": "Annihilation",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/57865227ac607.jpg",
+				"essential": true,
+				"phaseid": "005",
+				"sortid": "059",
+				"comiclist": [
+					{
+						"collection": "Annihilation Prologue",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Annihilation Nova",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Annihilation Nova",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Annihilation Nova",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Annihilation Nova",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Annihilation II",
+				"date": "2006-04-12",
+				"event": "Annihilation",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/578791d73a15a.jpg",
+				"essential": true,
+				"phaseid": "005",
+				"sortid": "060",
+				"comiclist": [
+					{
+						"collection": "Annihilation Super Skrull",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Annihilation Super Skrull",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Annihilation Super Skrull",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Annihilation Super Skrull",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Annihilation Silver Surfer",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Annihilation Silver Surfer",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Annihilation Silver Surfer",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Annihilation Silver Surfer",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Annihilation Ronan",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Annihilation Ronan",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Annihilation Ronan",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Annihilation Ronan",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Annihilation III",
+				"date": "2006-08-09",
+				"event": "Annihilation",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/51b61283075b2.jpg",
+				"essential": true,
+				"phaseid": "005",
+				"sortid": "061",
+				"comiclist": [
+					{
+						"collection": "Annihilation",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Annihilation",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Annihilation",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Annihilation",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Annihilation",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Annihilation",
+						"vol": 1,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Annihilation IV",
+				"date": "2007-02-28",
+				"event": "Annihilation",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/51e407787996b.jpg",
+				"essential": true,
+				"phaseid": "005",
+				"sortid": "062",
+				"comiclist": [
+					{
+						"collection": "Annihilation Herald of Galactus",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Annihilation Herald of Galactus",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			}
+		]
+	},
+	{
+		"namable": {
 			"id": "006",
 			"name": "Civil War"
 		},
@@ -2062,150 +3900,2212 @@
 	},
 	{
 		"namable": {
-			"id": "007",
-			"name": "Planet Hulk"
+			"id": "014",
+			"name": "Siege"
 		},
 		"list": [
 			{
-				"title": "Planet Hulk Exile",
-				"date": "2006-02-08",
-				"event": "Planet Hulk",
+				"title": "Siege",
+				"date": "2009-12-03",
+				"event": "Siege",
 				"characters": [
 					{
-						"id": "050",
-						"name": "Hulk"
+						"id": "041",
+						"name": "Norman Osborn"
 					}
 				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4f6a2316f20a4.jpg",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/517aed561bcd5.jpg",
 				"essential": true,
-				"phaseid": "007",
-				"sortid": "008",
+				"phaseid": "010",
+				"sortid": "001",
 				"comiclist": [
 					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 92
-					},
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 93
-					},
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 94
-					},
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 95
-					}
-				]
-			},
-			{
-				"title": "Planet Hulk Anarchy",
-				"date": "2006-06-21",
-				"event": "Planet Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/55b2458c0ebc7.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "009",
-				"comiclist": [
-					{
-						"collection": "Giant Size Hulk",
+						"collection": "Siege The Cabal",
 						"vol": 1,
 						"num": 1
 					},
 					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 96
+						"collection": "Origins of the Siege",
+						"vol": 1,
+						"num": 1
 					},
 					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 97
+						"collection": "Siege Storming Asgard",
+						"vol": 1,
+						"num": 1
 					},
 					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 98
-					},
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 99
+						"collection": "Siege",
+						"vol": 1,
+						"num": 1
 					}
 				]
 			},
 			{
-				"title": "Planet Hulk Allegiance",
-				"date": "2006-11-01",
-				"event": "Planet Hulk",
+				"title": "Seize the Day",
+				"date": "2010-01-27",
+				"event": "Siege",
 				"characters": [
 					{
-						"id": "050",
-						"name": "Hulk"
+						"id": "059",
+						"name": "Avengers"
 					}
 				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4d24f491cecd7.jpg",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4e95daaf4146b.jpg",
+				"phaseid": "010",
+				"sortid": "002",
+				"comiclist": [
+					{
+						"collection": "Avengers The Initiative",
+						"vol": 1,
+						"num": 32
+					}
+				]
+			},
+			{
+				"title": "Siege Dark Avengers",
+				"date": "2010-01-20",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/52c5c387a0455.jpg",
 				"essential": true,
-				"phaseid": "007",
+				"phaseid": "010",
+				"sortid": "003",
+				"comiclist": [
+					{
+						"collection": "Dark Avengers",
+						"vol": 1,
+						"num": 13
+					}
+				]
+			},
+			{
+				"title": "Godlike",
+				"date": "2010-01-20",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "125",
+						"name": "Daken"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/52c5cc98a2332.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "004",
+				"comiclist": [
+					{
+						"collection": "Dark Wolverine",
+						"vol": 1,
+						"num": 82
+					}
+				]
+			},
+			{
+				"title": "Siege New Avengers",
+				"date": "2010-01-27",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/5773e4eca07ca.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "005",
+				"comiclist": [
+					{
+						"collection": "New Avengers",
+						"vol": 1,
+						"num": 61
+					}
+				]
+			},
+			{
+				"title": "Siege Embedded",
+				"date": "2010-01-06",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "026",
+						"name": "Ben Urich"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bae61567301f.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "006",
+				"comiclist": [
+					{
+						"collection": "Siege Embedded",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Siege",
+				"date": "2010-02-03",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/517aede8d3af6.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "007",
+				"comiclist": [
+					{
+						"collection": "Siege",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "The Hammer Falls",
+				"date": "2010-02-24",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4e95e011889e5.jpg",
+				"phaseid": "010",
+				"sortid": "008",
+				"comiclist": [
+					{
+						"collection": "Avengers The Initiative",
+						"vol": 1,
+						"num": 33
+					}
+				]
+			},
+			{
+				"title": "Siege Dark Avengers",
+				"date": "2010-02-17",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/52c5c3460cac6.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "009",
+				"comiclist": [
+					{
+						"collection": "Dark Avengers",
+						"vol": 1,
+						"num": 14
+					}
+				]
+			},
+			{
+				"title": "Godlike",
+				"date": "2010-02-24",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "125",
+						"name": "Daken"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/52c5cc88c6f02.jpg",
+				"essential": true,
+				"phaseid": "010",
 				"sortid": "010",
 				"comiclist": [
 					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 100
-					},
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 101
-					},
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 102
-					},
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 103
+						"collection": "Dark Wolverine",
+						"vol": 1,
+						"num": 83
 					}
 				]
 			},
 			{
-				"title": "Planet Hulk Armageddon",
-				"date": "2007-03-07",
-				"event": "Planet Hulk",
+				"title": "Siege New Avengers",
+				"date": "2010-02-24",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/5773e352f0f99.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "011",
+				"comiclist": [
+					{
+						"collection": "New Avengers",
+						"vol": 1,
+						"num": 62
+					}
+				]
+			},
+			{
+				"title": "Siege Embedded",
+				"date": "2010-02-03",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "026",
+						"name": "Ben Urich"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/517aef038ef93.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "012",
+				"comiclist": [
+					{
+						"collection": "Siege Embedded",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Siege Ragnarok",
+				"date": "2010-02-24",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "014",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/56f2c769b23e4.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "013",
+				"comiclist": [
+					{
+						"collection": "Thor",
+						"vol": 1,
+						"num": 607
+					}
+				]
+			},
+			{
+				"title": "Siege Thunderbolts",
+				"date": "2010-02-24",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "107",
+						"name": "Thunderbolts"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/517ea6ac5b774.jpg",
+				"phaseid": "010",
+				"sortid": "014",
+				"comiclist": [
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 141
+					}
+				]
+			},
+			{
+				"title": "Siege",
+				"date": "2010-03-17",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/517ea96b73710.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "015",
+				"comiclist": [
+					{
+						"collection": "Siege",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "The Hammer Falls",
+				"date": "2010-03-24",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/c0/4e95e67859f1e.jpg",
+				"phaseid": "010",
+				"sortid": "016",
+				"comiclist": [
+					{
+						"collection": "Avengers The Initiative",
+						"vol": 1,
+						"num": 34
+					}
+				]
+			},
+			{
+				"title": "Siege Dark Avengers",
+				"date": "2010-03-17",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/52c5c33ae567f.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "017",
+				"comiclist": [
+					{
+						"collection": "Dark Avengers",
+						"vol": 1,
+						"num": 15
+					}
+				]
+			},
+			{
+				"title": "Godlike",
+				"date": "2010-03-31",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "125",
+						"name": "Daken"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/52c5cc7542466.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "018",
+				"comiclist": [
+					{
+						"collection": "Dark Wolverine",
+						"vol": 1,
+						"num": 84
+					}
+				]
+			},
+			{
+				"title": "Siege Battlefield",
+				"date": "2010-04-14",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "056",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/517af1546b7d3.jpg",
+				"phaseid": "010",
+				"sortid": "019",
+				"comiclist": [
+					{
+						"collection": "Siege Captain America",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Siege Spider-Man",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Siege Loki",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Siege Young Avengers",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Siege Secret Warriors",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Salvation",
+				"date": "2010-03-24",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/4f7c98968a421.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "020",
+				"comiclist": [
+					{
+						"collection": "Mighty Avengers",
+						"vol": 1,
+						"num": 35
+					}
+				]
+			},
+			{
+				"title": "Siege New Avengers",
+				"date": "2010-03-24",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/5773e4164c917.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "021",
+				"comiclist": [
+					{
+						"collection": "New Avengers",
+						"vol": 1,
+						"num": 63
+					}
+				]
+			},
+			{
+				"title": "Hel's Valkyrie",
+				"date": "2010-03-31",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/5155cbc8e381b.jpg",
+				"phaseid": "010",
+				"sortid": "022",
+				"comiclist": [
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 11
+					}
+				]
+			},
+			{
+				"title": "Siege Embedded",
+				"date": "2010-03-17",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "026",
+						"name": "Ben Urich"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bacb278b4460.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "023",
+				"comiclist": [
+					{
+						"collection": "Siege Embedded",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Siege Ragnarok",
+				"date": "2010-03-24",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "014",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/56f2c73a7eb70.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "024",
+				"comiclist": [
+					{
+						"collection": "Thor",
+						"vol": 1,
+						"num": 608
+					}
+				]
+			},
+			{
+				"title": "Siege Thunderbolts",
+				"date": "2010-03-24",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "107",
+						"name": "Thunderbolts"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/517ea6997853f.jpg",
+				"phaseid": "010",
+				"sortid": "025",
+				"comiclist": [
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 142
+					}
+				]
+			},
+			{
+				"title": "Siege",
+				"date": "2010-05-12",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/517aee0b2667b.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "026",
+				"comiclist": [
+					{
+						"collection": "Siege",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "The Hammer Falls",
+				"date": "2010-05-12",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/4e95e85964001.jpg",
+				"phaseid": "010",
+				"sortid": "027",
+				"comiclist": [
+					{
+						"collection": "Avengers The Initiative",
+						"vol": 1,
+						"num": 35
+					}
+				]
+			},
+			{
+				"title": "Siege Dark Avengers",
+				"date": "2010-05-12",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/52c5c336a94ca.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "028",
+				"comiclist": [
+					{
+						"collection": "Dark Avengers",
+						"vol": 1,
+						"num": 16
+					},
+					{
+						"collection": "Sentry Fallen Sun",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Salvation",
+				"date": "2010-04-28",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4f7c98fe10d2f.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "029",
+				"comiclist": [
+					{
+						"collection": "Mighty Avengers",
+						"vol": 1,
+						"num": 36
+					}
+				]
+			},
+			{
+				"title": "Siege New Avengers",
+				"date": "2010-04-28",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/5773e19684c7e.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "030",
+				"comiclist": [
+					{
+						"collection": "New Avengers",
+						"vol": 1,
+						"num": 64
+					}
+				]
+			},
+			{
+				"title": "Siege Embedded",
+				"date": "2010-05-12",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "026",
+						"name": "Ben Urich"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bac5e0d40b9f.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "031",
+				"comiclist": [
+					{
+						"collection": "Siege Embedded",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Siege Ragnarok",
+				"date": "2010-04-28",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "014",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/517e8200a4360.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "032",
+				"comiclist": [
+					{
+						"collection": "Thor",
+						"vol": 1,
+						"num": 609
+					},
+					{
+						"collection": "Thor",
+						"vol": 1,
+						"num": 610
+					}
+				]
+			},
+			{
+				"title": "Siege Thunderbolts",
+				"date": "2010-04-28",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "107",
+						"name": "Thunderbolts"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/517ea6936ee59.jpg",
+				"phaseid": "010",
+				"sortid": "033",
+				"comiclist": [
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 143
+					}
+				]
+			},
+			{
+				"title": "Finale",
+				"date": "2010-05-12",
+				"event": "Siege",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4be42ca2328a7.jpg",
+				"essential": true,
+				"phaseid": "010",
+				"sortid": "034",
+				"comiclist": [
+					{
+						"collection": "New Avengers Finale",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"namable": {
+			"id": "001",
+			"name": "Avengers Dissasembled"
+		},
+		"list": [
+			{
+				"title": "Ragnarok",
+				"date": "2004-06-02",
+				"event": "Avengers Dissasembled",
+				"characters": [
+					{
+						"id": "014",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/56f2ca6c61f94.jpg",
+				"essential": true,
+				"phaseid": "002",
+				"sortid": "001",
+				"comiclist": [
+					{
+						"collection": "Thor",
+						"vol": 2,
+						"num": 80
+					},
+					{
+						"collection": "Thor",
+						"vol": 2,
+						"num": 81
+					},
+					{
+						"collection": "Thor",
+						"vol": 2,
+						"num": 82
+					},
+					{
+						"collection": "Thor",
+						"vol": 2,
+						"num": 83
+					},
+					{
+						"collection": "Thor",
+						"vol": 2,
+						"num": 84
+					},
+					{
+						"collection": "Thor",
+						"vol": 2,
+						"num": 85
+					}
+				]
+			},
+			{
+				"title": "Turf War",
+				"date": "2004-06-09",
+				"event": "Avengers Dissasembled",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Iron Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4d2526fe375bf.jpg",
+				"phaseid": "002",
+				"sortid": "002",
+				"comiclist": [
+					{
+						"collection": "Iron Man",
+						"vol": 3,
+						"num": 84
+					},
+					{
+						"collection": "Iron Man",
+						"vol": 3,
+						"num": 85
+					}
+				]
+			},
+			{
+				"title": "Under My Skin",
+				"date": "2004-06-09",
+				"event": "Avengers Dissasembled",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/57e55d6474b3c.jpg",
+				"phaseid": "002",
+				"sortid": "003",
+				"comiclist": [
+					{
+						"collection": "Spectacular Spider-Man",
+						"vol": 2,
+						"num": 15
+					},
+					{
+						"collection": "Spectacular Spider-Man",
+						"vol": 2,
+						"num": 16
+					}
+				]
+			},
+			{
+				"title": "Changes",
+				"date": "2004-07-14",
+				"event": "Avengers Dissasembled",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/57e55d9e8c28d.jpg",
+				"phaseid": "002",
+				"sortid": "004",
+				"comiclist": [
+					{
+						"collection": "Spectacular Spider-Man",
+						"vol": 2,
+						"num": 17
+					},
+					{
+						"collection": "Spectacular Spider-Man",
+						"vol": 2,
+						"num": 18
+					},
+					{
+						"collection": "Spectacular Spider-Man",
+						"vol": 2,
+						"num": 19
+					},
+					{
+						"collection": "Spectacular Spider-Man",
+						"vol": 2,
+						"num": 20
+					}
+				]
+			},
+			{
+				"title": "Dissasembled",
+				"date": "2004-07-07",
+				"event": "Avengers Dissasembled",
+				"characters": [
+					{
+						"id": "056",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/51d2f06d04209.jpg",
+				"phaseid": "002",
+				"sortid": "005",
+				"comiclist": [
+					{
+						"collection": "Captain America \u0026 The Falcon",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Captain America \u0026 The Falcon",
+						"vol": 1,
+						"num": 6
+					},
+					{
+						"collection": "Captain America \u0026 The Falcon",
+						"vol": 1,
+						"num": 7
+					}
+				]
+			},
+			{
+				"title": "Avengers Dissasembled",
+				"date": "2004-09-15",
+				"event": "Avengers Dissasembled",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4f5a50d019d82.jpg",
+				"essential": true,
+				"phaseid": "002",
+				"sortid": "006",
+				"comiclist": [
+					{
+						"collection": "Avengers",
+						"vol": 1,
+						"num": 500
+					},
+					{
+						"collection": "Avengers",
+						"vol": 1,
+						"num": 501
+					},
+					{
+						"collection": "Avengers",
+						"vol": 1,
+						"num": 502
+					},
+					{
+						"collection": "Avengers",
+						"vol": 1,
+						"num": 503
+					}
+				]
+			},
+			{
+				"title": "Avengers Dissasembled Finale",
+				"date": "2004-11-10",
+				"event": "Avengers Dissasembled",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/51e045c27a7b0.jpg",
+				"essential": true,
+				"phaseid": "002",
+				"sortid": "007",
+				"comiclist": [
+					{
+						"collection": "Avengers Finale",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Super-Patriot",
+				"date": "2000-05-10",
+				"event": "Avengers Dissasembled",
+				"characters": [
+					{
+						"id": "056",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/4e8b2947716c8.jpg",
+				"phaseid": "002",
+				"sortid": "008",
+				"comiclist": [
+					{
+						"collection": "Captain America",
+						"vol": 4,
+						"num": 29
+					},
+					{
+						"collection": "Captain America",
+						"vol": 4,
+						"num": 30
+					},
+					{
+						"collection": "Captain America",
+						"vol": 4,
+						"num": 31
+					},
+					{
+						"collection": "Captain America",
+						"vol": 4,
+						"num": 32
+					}
+				]
+			},
+			{
+				"title": "The Singularity",
+				"date": "2004-07-14",
+				"event": "Avengers Dissasembled",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Iron Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4d24e94fd08df.jpg",
+				"phaseid": "002",
+				"sortid": "009",
+				"comiclist": [
+					{
+						"collection": "Iron Man",
+						"vol": 3,
+						"num": 86
+					},
+					{
+						"collection": "Iron Man",
+						"vol": 3,
+						"num": 87
+					},
+					{
+						"collection": "Iron Man",
+						"vol": 3,
+						"num": 88
+					},
+					{
+						"collection": "Iron Man",
+						"vol": 3,
+						"num": 89
+					}
+				]
+			},
+			{
+				"title": "Fourtitude",
+				"date": "2004-08-18",
+				"event": "Avengers Dissasembled",
+				"characters": [
+					{
+						"id": "035",
+						"name": "Fantastic Four"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/57e9748092fdc.jpg",
+				"phaseid": "002",
+				"sortid": "010",
+				"comiclist": [
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 517
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 518
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 519
+					}
+				]
+			}
+		]
+	},
+	{
+		"namable": {
+			"id": "008",
+			"name": "World War Hulk"
+		},
+		"list": [
+			{
+				"title": "Warbound",
+				"date": "2007-05-02",
+				"event": "World War Hulk",
 				"characters": [
 					{
 						"id": "050",
 						"name": "Hulk"
 					}
 				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4d24ebd7d087e.jpg",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/516320485c126.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "011",
+				"sortid": "071",
 				"comiclist": [
 					{
 						"collection": "Incredible Hulk",
 						"vol": 2,
-						"num": 104
-					},
+						"num": 106
+					}
+				]
+			},
+			{
+				"title": "Worldbreaker",
+				"date": "2007-05-09",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/00/4f6a200da01bd.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "072",
+				"comiclist": [
+					{
+						"collection": "World War Hulk Prologue",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "World War Hulk",
+				"date": "2007-06-13",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/4f674b7218168.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "073",
+				"comiclist": [
+					{
+						"collection": "World War Hulk",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "World War Hulk Iron Man",
+				"date": "2007-06-20",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Iron Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4f6a213acf4e6.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "074",
+				"comiclist": [
+					{
+						"collection": "Iron Man",
+						"vol": 4,
+						"num": 19
+					}
+				]
+			},
+			{
+				"title": "Warbound",
+				"date": "2007-06-20",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4f6782b54a1d4.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "075",
+				"comiclist": [
 					{
 						"collection": "Incredible Hulk",
 						"vol": 2,
-						"num": 105
+						"num": 107
+					}
+				]
+			},
+			{
+				"title": "Embedded",
+				"date": "2007-06-27",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "026",
+						"name": "Ben Urich"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/4f675a190625d.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "076",
+				"comiclist": [
+					{
+						"collection": "World War Hulk Front Line",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "World War Hulk X-Men",
+				"date": "2007-06-27",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/a0/4f677855a7980.jpg",
+				"phaseid": "007",
+				"sortid": "077",
+				"comiclist": [
+					{
+						"collection": "World War Hulk X-Men",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "World War Hulk Ant-Man",
+				"date": "2007-07-05",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "139",
+						"name": "Eric O'Grady"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4f6a1df116019.jpg",
+				"phaseid": "007",
+				"sortid": "078",
+				"comiclist": [
+					{
+						"collection": "Irredeemable Ant-Man",
+						"vol": 1,
+						"num": 10
+					}
+				]
+			},
+			{
+				"title": "Gamma Corps",
+				"date": "2007-07-18",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "142",
+						"name": "Gamma Corps"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4f6770378a40e.jpg",
+				"phaseid": "007",
+				"sortid": "079",
+				"comiclist": [
+					{
+						"collection": "World War Hulk Gamma Corps",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "World War Hulk",
+				"date": "2007-07-18",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f674bf82d748.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "080",
+				"comiclist": [
+					{
+						"collection": "World War Hulk",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Embedded",
+				"date": "2007-07-18",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "026",
+						"name": "Ben Urich"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4f675bafd5b49.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "081",
+				"comiclist": [
+					{
+						"collection": "World War Hulk Front Line",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Green Zone",
+				"date": "2007-07-18",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4e8f5b14eab36.jpg",
+				"phaseid": "007",
+				"sortid": "082",
+				"comiclist": [
+					{
+						"collection": "Avengers The Initiative",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "World War Hulk X-Men",
+				"date": "2007-07-25",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f6778e73c61e.jpg",
+				"phaseid": "007",
+				"sortid": "083",
+				"comiclist": [
+					{
+						"collection": "World War Hulk X-Men",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "World War Hulk Heroes for Hire",
+				"date": "2007-06-20",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "113",
+						"name": "Misty Knight"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/51631bd7b7cee.jpg",
+				"phaseid": "007",
+				"sortid": "084",
+				"comiclist": [
+					{
+						"collection": "Heroes for Hire",
+						"vol": 2,
+						"num": 11
+					},
+					{
+						"collection": "Heroes for Hire",
+						"vol": 2,
+						"num": 12
+					}
+				]
+			},
+			{
+				"title": "World War Hulk Iron Man",
+				"date": "2007-07-25",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Iron Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4d2504af3c929.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "085",
+				"comiclist": [
+					{
+						"collection": "Iron Man",
+						"vol": 4,
+						"num": 20
+					}
+				]
+			},
+			{
+				"title": "Warbound",
+				"date": "2007-07-25",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/51632057add32.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "086",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 108
+					}
+				]
+			},
+			{
+				"title": "World War Hulk",
+				"date": "2007-08-01",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f674e1b5b09e.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "087",
+				"comiclist": [
+					{
+						"collection": "World War Hulk",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Embedded",
+				"date": "2007-08-08",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "026",
+						"name": "Ben Urich"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4f675c3c59272.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "088",
+				"comiclist": [
+					{
+						"collection": "World War Hulk Front Line",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Warbound",
+				"date": "2007-08-08",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4f67834d223b4.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "089",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 109
+					}
+				]
+			},
+			{
+				"title": "Gamma Corps",
+				"date": "2007-08-22",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "142",
+						"name": "Gamma Corps"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4f677086b3f2b.jpg",
+				"phaseid": "007",
+				"sortid": "090",
+				"comiclist": [
+					{
+						"collection": "World War Hulk Gamma Corps",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "World War Hulk X-Men",
+				"date": "2007-08-29",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/4f677947ce43f.jpg",
+				"phaseid": "007",
+				"sortid": "091",
+				"comiclist": [
+					{
+						"collection": "World War Hulk X-Men",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Green Zone",
+				"date": "2007-08-29",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4e8f5d2a5a839.jpg",
+				"phaseid": "007",
+				"sortid": "092",
+				"comiclist": [
+					{
+						"collection": "Avengers The Initiative",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Warbound",
+				"date": "2007-09-06",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/5163205c77f6a.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "093",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 110
+					}
+				]
+			},
+			{
+				"title": "World War Hulk Heroes for Hire",
+				"date": "2007-09-12",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "113",
+						"name": "Misty Knight"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/51631be7d831b.jpg",
+				"phaseid": "007",
+				"sortid": "094",
+				"comiclist": [
+					{
+						"collection": "Heroes for Hire",
+						"vol": 2,
+						"num": 13
+					}
+				]
+			},
+			{
+				"title": "Gamma Corps",
+				"date": "2007-09-19",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "142",
+						"name": "Gamma Corps"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4f6770e636ae2.jpg",
+				"phaseid": "007",
+				"sortid": "095",
+				"comiclist": [
+					{
+						"collection": "World War Hulk Gamma Corps",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "World War Hulk",
+				"date": "2007-09-19",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/4f674f3028099.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "096",
+				"comiclist": [
+					{
+						"collection": "World War Hulk",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Embedded",
+				"date": "2007-09-19",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "026",
+						"name": "Ben Urich"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/4f67652e9732d.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "097",
+				"comiclist": [
+					{
+						"collection": "World War Hulk Front Line",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "World War Hulk Front Line",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "World War Frank",
+				"date": "2007-10-10",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "009",
+						"name": "Punisher"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4f677b01083c2.jpg",
+				"phaseid": "007",
+				"sortid": "098",
+				"comiclist": [
+					{
+						"collection": "Punisher War Journal",
+						"vol": 2,
+						"num": 12
+					}
+				]
+			},
+			{
+				"title": "World War Hulk Heroes for Hire",
+				"date": "2007-10-10",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "113",
+						"name": "Misty Knight"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/51631bf2909e3.jpg",
+				"phaseid": "007",
+				"sortid": "099",
+				"comiclist": [
+					{
+						"collection": "Heroes for Hire",
+						"vol": 2,
+						"num": 14
+					},
+					{
+						"collection": "Heroes for Hire",
+						"vol": 2,
+						"num": 15
+					}
+				]
+			},
+			{
+				"title": "Gamma Corps",
+				"date": "2007-11-07",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "142",
+						"name": "Gamma Corps"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/4f6771460528a.jpg",
+				"phaseid": "007",
+				"sortid": "100",
+				"comiclist": [
+					{
+						"collection": "World War Hulk Gamma Corps",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Warbound",
+				"date": "2007-11-21",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f6751c9d77a5.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "101",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulk",
+						"vol": 2,
+						"num": 111
+					}
+				]
+			},
+			{
+				"title": "World War Hulk",
+				"date": "2007-11-14",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/4f674f957277b.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "102",
+				"comiclist": [
+					{
+						"collection": "World War Hulk",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Embedded",
+				"date": "2007-11-29",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "026",
+						"name": "Ben Urich"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/4f6766166ef4a.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "103",
+				"comiclist": [
+					{
+						"collection": "World War Hulk Front Line",
+						"vol": 1,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "After Smash",
+				"date": "2007-12-05",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/4f6756d455960.jpg",
+				"phaseid": "007",
+				"sortid": "104",
+				"comiclist": [
+					{
+						"collection": "World War Hulk Aftersmash",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Damage Control",
+				"date": "2008-01-23",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "143",
+						"name": "Damage Control"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/51631e8d52dbb.jpg",
+				"phaseid": "007",
+				"sortid": "105",
+				"comiclist": [
+					{
+						"collection": "World War Hulk Damage Control",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "World War Hulk Damage Control",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "World War Hulk Damage Control",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Against the World",
+				"date": "2007-12-19",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "121",
+						"name": "Hercules"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4d2505f525e11.jpg",
+				"phaseid": "007",
+				"sortid": "106",
+				"comiclist": [
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 112
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 113
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 114
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 115
+					}
+				]
+			},
+			{
+				"title": "Warbound",
+				"date": "2007-12-19",
+				"event": "World War Hulk",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/576af06fdf86d.jpg",
+				"phaseid": "007",
+				"sortid": "107",
+				"comiclist": [
+					{
+						"collection": "World War Hulk Warbound",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "World War Hulk Warbound",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "World War Hulk Warbound",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "World War Hulk Warbound",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "World War Hulk Warbound",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			}
+		]
+	},
+	{
+		"namable": {
+			"id": "010",
+			"name": "Annihilation Conquest"
+		},
+		"list": [
+			{
+				"title": "Annihilation Conquest I",
+				"date": "2007-06-20",
+				"event": "Annihilation Conquest",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/513a75867ca5d.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "166",
+				"comiclist": [
+					{
+						"collection": "Annihilation Conquest Prologue",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Annihilation Conquest II",
+				"date": "2007-07-18",
+				"event": "Annihilation Conquest",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/51df02ba8e64e.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "167",
+				"comiclist": [
+					{
+						"collection": "Annihilation Conquest Quasar",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Annihilation Conquest Quasar",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Annihilation Conquest Quasar",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Annihilation Conquest Quasar",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Annihilation Conquest Star Lord",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Annihilation Conquest Star Lord",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Annihilation Conquest Star Lord",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Annihilation Conquest Star Lord",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Annihilation Conquest Wraith",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Annihilation Conquest Wraith",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Annihilation Conquest Wraith",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Annihilation Conquest Wraith",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Annihilation Conquest III",
+				"date": "2007-08-11",
+				"event": "Annihilation Conquest",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/578e841c9535a.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "168",
+				"comiclist": [
+					{
+						"collection": "Nova",
+						"vol": 4,
+						"num": 4
+					},
+					{
+						"collection": "Nova",
+						"vol": 4,
+						"num": 5
+					},
+					{
+						"collection": "Nova",
+						"vol": 4,
+						"num": 6
+					},
+					{
+						"collection": "Nova",
+						"vol": 4,
+						"num": 7
+					},
+					{
+						"collection": "Nova",
+						"vol": 4,
+						"num": 8
+					},
+					{
+						"collection": "Nova",
+						"vol": 4,
+						"num": 9
+					},
+					{
+						"collection": "Nova",
+						"vol": 4,
+						"num": 10
+					},
+					{
+						"collection": "Nova Annual",
+						"vol": 4,
+						"num": 1
+					},
+					{
+						"collection": "Nova",
+						"vol": 4,
+						"num": 11
+					},
+					{
+						"collection": "Nova",
+						"vol": 4,
+						"num": 12
+					}
+				]
+			},
+			{
+				"title": "Annihilation Conquest IV",
+				"date": "2007-11-07",
+				"event": "Annihilation Conquest",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4e8381b35e231.jpg",
+				"essential": true,
+				"phaseid": "007",
+				"sortid": "169",
+				"comiclist": [
+					{
+						"collection": "Annihilation Conquest",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Annihilation Conquest",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Annihilation Conquest",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Annihilation Conquest",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Annihilation Conquest",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Annihilation Conquest",
+						"vol": 1,
+						"num": 6
 					}
 				]
 			}
@@ -5294,3906 +9194,6 @@
 						"collection": "Nova",
 						"vol": 4,
 						"num": 31
-					}
-				]
-			}
-		]
-	},
-	{
-		"namable": {
-			"id": "013",
-			"name": "Fall of the Hulks - World War Hulks"
-		},
-		"list": [
-			{
-				"title": "Fall of the Hulks Prelude",
-				"date": "2009-12-03",
-				"event": "Fall of the Hulks - World War Hulks",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/52c5ce05901fb.jpg",
-				"phaseid": "009",
-				"sortid": "153",
-				"comiclist": [
-					{
-						"collection": "Fall of the Hulks Alpha",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Fall of the Hulks Gamma",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "Fall of the Hulks",
-				"date": "2010-01-20",
-				"event": "Fall of the Hulks - World War Hulks",
-				"characters": [
-					{
-						"id": "144",
-						"name": "Red Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4f634ab8bc32b.jpg",
-				"phaseid": "009",
-				"sortid": "154",
-				"comiclist": [
-					{
-						"collection": "Hulk",
-						"vol": 2,
-						"num": 19
-					}
-				]
-			},
-			{
-				"title": "Red Hulk",
-				"date": "2010-01-27",
-				"event": "Fall of the Hulks - World War Hulks",
-				"characters": [
-					{
-						"id": "144",
-						"name": "Red Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/52c5ce705cd4f.jpg",
-				"phaseid": "009",
-				"sortid": "155",
-				"comiclist": [
-					{
-						"collection": "Fall of the Hulks Red Hulk",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "Fall of the Hulks",
-				"date": "2010-01-20",
-				"event": "Fall of the Hulks - World War Hulks",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/52c5cdf707041.jpg",
-				"phaseid": "009",
-				"sortid": "156",
-				"comiclist": [
-					{
-						"collection": "Incredible Hulk",
-						"vol": 1,
-						"num": 606
-					},
-					{
-						"collection": "Hulk",
-						"vol": 2,
-						"num": 20
-					},
-					{
-						"collection": "Incredible Hulk",
-						"vol": 1,
-						"num": 607
-					}
-				]
-			},
-			{
-				"title": "Red Hulk",
-				"date": "2010-02-24",
-				"event": "Fall of the Hulks - World War Hulks",
-				"characters": [
-					{
-						"id": "144",
-						"name": "Red Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4f5a576d32dbc.jpg",
-				"phaseid": "009",
-				"sortid": "157",
-				"comiclist": [
-					{
-						"collection": "Fall of the Hulks Red Hulk",
-						"vol": 1,
-						"num": 2
-					}
-				]
-			},
-			{
-				"title": "Savage She-Hulks",
-				"date": "2010-03-03",
-				"event": "Fall of the Hulks - World War Hulks",
-				"characters": [
-					{
-						"id": "046",
-						"name": "She-Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4f6385a241d9e.jpg",
-				"phaseid": "009",
-				"sortid": "158",
-				"comiclist": [
-					{
-						"collection": "Fall of the Hulks Savage She-Hulks",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "Red Hulk",
-				"date": "2010-03-24",
-				"event": "Fall of the Hulks - World War Hulks",
-				"characters": [
-					{
-						"id": "144",
-						"name": "Red Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4f5a57f31ad93.jpg",
-				"phaseid": "009",
-				"sortid": "159",
-				"comiclist": [
-					{
-						"collection": "Fall of the Hulks Red Hulk",
-						"vol": 1,
-						"num": 3
-					}
-				]
-			},
-			{
-				"title": "Fall of the Hulks",
-				"date": "2010-03-17",
-				"event": "Fall of the Hulks - World War Hulks",
-				"characters": [
-					{
-						"id": "144",
-						"name": "Red Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4f634bb057b74.jpg",
-				"phaseid": "009",
-				"sortid": "160",
-				"comiclist": [
-					{
-						"collection": "Hulk",
-						"vol": 2,
-						"num": 21
-					},
-					{
-						"collection": "Incredible Hulk",
-						"vol": 1,
-						"num": 608
-					}
-				]
-			},
-			{
-				"title": "Savage She-Hulks",
-				"date": "2010-04-21",
-				"event": "Fall of the Hulks - World War Hulks",
-				"characters": [
-					{
-						"id": "046",
-						"name": "She-Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4f58d4abd06f6.jpg",
-				"phaseid": "009",
-				"sortid": "161",
-				"comiclist": [
-					{
-						"collection": "Fall of the Hulks Savage She-Hulks",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Fall of the Hulks Savage She-Hulks",
-						"vol": 1,
-						"num": 3
-					}
-				]
-			},
-			{
-				"title": "Red Hulk",
-				"date": "2010-04-28",
-				"event": "Fall of the Hulks - World War Hulks",
-				"characters": [
-					{
-						"id": "144",
-						"name": "Red Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4f58c35d27648.jpg",
-				"phaseid": "009",
-				"sortid": "162",
-				"comiclist": [
-					{
-						"collection": "Fall of the Hulks Red Hulk",
-						"vol": 1,
-						"num": 4
-					}
-				]
-			},
-			{
-				"title": "World War Hulks",
-				"date": "2010-04-07",
-				"event": "Fall of the Hulks - World War Hulks",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4f58d401da1d2.jpg",
-				"phaseid": "009",
-				"sortid": "163",
-				"comiclist": [
-					{
-						"collection": "World War Hulks",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "Huled Out Heroes",
-				"date": "2010-04-14",
-				"event": "Fall of the Hulks - World War Hulks",
-				"characters": [
-					{
-						"id": "087",
-						"name": "Deadpool"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/55b6825f4e04b.jpg",
-				"phaseid": "009",
-				"sortid": "164",
-				"comiclist": [
-					{
-						"collection": "World War Hulks Hulked Out Heroes",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "World War Hulks Hulked Out Heroes",
-						"vol": 1,
-						"num": 2
-					}
-				]
-			},
-			{
-				"title": "World War Hulks",
-				"date": "2010-05-12",
-				"event": "Fall of the Hulks - World War Hulks",
-				"characters": [
-					{
-						"id": "144",
-						"name": "Red Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4f58c476480f1.jpg",
-				"phaseid": "009",
-				"sortid": "165",
-				"comiclist": [
-					{
-						"collection": "Hulk",
-						"vol": 2,
-						"num": 22
-					},
-					{
-						"collection": "Incredible Hulk",
-						"vol": 1,
-						"num": 609
-					}
-				]
-			},
-			{
-				"title": "WWH Spider-Man \u0026 Thor",
-				"date": "2010-07-14",
-				"event": "Fall of the Hulks - World War Hulks",
-				"characters": [
-					{
-						"id": "023",
-						"name": "Spider-Man"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4f58d5c7e06b8.jpg",
-				"phaseid": "009",
-				"sortid": "166",
-				"comiclist": [
-					{
-						"collection": "World War Huks Spider-Man \u0026 Thor",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "World War Huks Spider-Man \u0026 Thor",
-						"vol": 1,
-						"num": 2
-					}
-				]
-			},
-			{
-				"title": "WWH Wolverine \u0026 Captain America",
-				"date": "2010-07-14",
-				"event": "Fall of the Hulks - World War Hulks",
-				"characters": [
-					{
-						"id": "089",
-						"name": "Bucky Barnes"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4bc5dd6a8dee0.jpg",
-				"phaseid": "009",
-				"sortid": "167",
-				"comiclist": [
-					{
-						"collection": "World War Huks Wolverine \u0026 Captain America",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "World War Huks Wolverine \u0026 Captain America",
-						"vol": 1,
-						"num": 2
-					}
-				]
-			},
-			{
-				"title": "World War Hulks",
-				"date": "2010-06-23",
-				"event": "Fall of the Hulks - World War Hulks",
-				"characters": [
-					{
-						"id": "144",
-						"name": "Red Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/4f58c573689c1.jpg",
-				"phaseid": "009",
-				"sortid": "168",
-				"comiclist": [
-					{
-						"collection": "Hulk",
-						"vol": 2,
-						"num": 23
-					},
-					{
-						"collection": "Incredible Hulk",
-						"vol": 1,
-						"num": 610
-					},
-					{
-						"collection": "Incredible Hulk",
-						"vol": 1,
-						"num": 611
-					},
-					{
-						"collection": "Hulk",
-						"vol": 2,
-						"num": 24
-					}
-				]
-			}
-		]
-	},
-	{
-		"namable": {
-			"id": "014",
-			"name": "Siege"
-		},
-		"list": [
-			{
-				"title": "Siege",
-				"date": "2009-12-03",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "041",
-						"name": "Norman Osborn"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/517aed561bcd5.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "001",
-				"comiclist": [
-					{
-						"collection": "Siege The Cabal",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Origins of the Siege",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Siege Storming Asgard",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Siege",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "Seize the Day",
-				"date": "2010-01-27",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4e95daaf4146b.jpg",
-				"phaseid": "010",
-				"sortid": "002",
-				"comiclist": [
-					{
-						"collection": "Avengers The Initiative",
-						"vol": 1,
-						"num": 32
-					}
-				]
-			},
-			{
-				"title": "Siege Dark Avengers",
-				"date": "2010-01-20",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/52c5c387a0455.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "003",
-				"comiclist": [
-					{
-						"collection": "Dark Avengers",
-						"vol": 1,
-						"num": 13
-					}
-				]
-			},
-			{
-				"title": "Godlike",
-				"date": "2010-01-20",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "125",
-						"name": "Daken"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/52c5cc98a2332.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "004",
-				"comiclist": [
-					{
-						"collection": "Dark Wolverine",
-						"vol": 1,
-						"num": 82
-					}
-				]
-			},
-			{
-				"title": "Siege New Avengers",
-				"date": "2010-01-27",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/5773e4eca07ca.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "005",
-				"comiclist": [
-					{
-						"collection": "New Avengers",
-						"vol": 1,
-						"num": 61
-					}
-				]
-			},
-			{
-				"title": "Siege Embedded",
-				"date": "2010-01-06",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "026",
-						"name": "Ben Urich"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bae61567301f.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "006",
-				"comiclist": [
-					{
-						"collection": "Siege Embedded",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "Siege",
-				"date": "2010-02-03",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/517aede8d3af6.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "007",
-				"comiclist": [
-					{
-						"collection": "Siege",
-						"vol": 1,
-						"num": 2
-					}
-				]
-			},
-			{
-				"title": "The Hammer Falls",
-				"date": "2010-02-24",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4e95e011889e5.jpg",
-				"phaseid": "010",
-				"sortid": "008",
-				"comiclist": [
-					{
-						"collection": "Avengers The Initiative",
-						"vol": 1,
-						"num": 33
-					}
-				]
-			},
-			{
-				"title": "Siege Dark Avengers",
-				"date": "2010-02-17",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/52c5c3460cac6.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "009",
-				"comiclist": [
-					{
-						"collection": "Dark Avengers",
-						"vol": 1,
-						"num": 14
-					}
-				]
-			},
-			{
-				"title": "Godlike",
-				"date": "2010-02-24",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "125",
-						"name": "Daken"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/52c5cc88c6f02.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "010",
-				"comiclist": [
-					{
-						"collection": "Dark Wolverine",
-						"vol": 1,
-						"num": 83
-					}
-				]
-			},
-			{
-				"title": "Siege New Avengers",
-				"date": "2010-02-24",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/5773e352f0f99.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "011",
-				"comiclist": [
-					{
-						"collection": "New Avengers",
-						"vol": 1,
-						"num": 62
-					}
-				]
-			},
-			{
-				"title": "Siege Embedded",
-				"date": "2010-02-03",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "026",
-						"name": "Ben Urich"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/517aef038ef93.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "012",
-				"comiclist": [
-					{
-						"collection": "Siege Embedded",
-						"vol": 1,
-						"num": 2
-					}
-				]
-			},
-			{
-				"title": "Siege Ragnarok",
-				"date": "2010-02-24",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "014",
-						"name": "Thor"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/56f2c769b23e4.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "013",
-				"comiclist": [
-					{
-						"collection": "Thor",
-						"vol": 1,
-						"num": 607
-					}
-				]
-			},
-			{
-				"title": "Siege Thunderbolts",
-				"date": "2010-02-24",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "107",
-						"name": "Thunderbolts"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/517ea6ac5b774.jpg",
-				"phaseid": "010",
-				"sortid": "014",
-				"comiclist": [
-					{
-						"collection": "Thunderbolts",
-						"vol": 1,
-						"num": 141
-					}
-				]
-			},
-			{
-				"title": "Siege",
-				"date": "2010-03-17",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/517ea96b73710.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "015",
-				"comiclist": [
-					{
-						"collection": "Siege",
-						"vol": 1,
-						"num": 3
-					}
-				]
-			},
-			{
-				"title": "The Hammer Falls",
-				"date": "2010-03-24",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/c0/4e95e67859f1e.jpg",
-				"phaseid": "010",
-				"sortid": "016",
-				"comiclist": [
-					{
-						"collection": "Avengers The Initiative",
-						"vol": 1,
-						"num": 34
-					}
-				]
-			},
-			{
-				"title": "Siege Dark Avengers",
-				"date": "2010-03-17",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/52c5c33ae567f.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "017",
-				"comiclist": [
-					{
-						"collection": "Dark Avengers",
-						"vol": 1,
-						"num": 15
-					}
-				]
-			},
-			{
-				"title": "Godlike",
-				"date": "2010-03-31",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "125",
-						"name": "Daken"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/52c5cc7542466.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "018",
-				"comiclist": [
-					{
-						"collection": "Dark Wolverine",
-						"vol": 1,
-						"num": 84
-					}
-				]
-			},
-			{
-				"title": "Siege Battlefield",
-				"date": "2010-04-14",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "056",
-						"name": "Steve Rogers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/517af1546b7d3.jpg",
-				"phaseid": "010",
-				"sortid": "019",
-				"comiclist": [
-					{
-						"collection": "Siege Captain America",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Siege Spider-Man",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Siege Loki",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Siege Young Avengers",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Siege Secret Warriors",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "Salvation",
-				"date": "2010-03-24",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/4f7c98968a421.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "020",
-				"comiclist": [
-					{
-						"collection": "Mighty Avengers",
-						"vol": 1,
-						"num": 35
-					}
-				]
-			},
-			{
-				"title": "Siege New Avengers",
-				"date": "2010-03-24",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/5773e4164c917.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "021",
-				"comiclist": [
-					{
-						"collection": "New Avengers",
-						"vol": 1,
-						"num": 63
-					}
-				]
-			},
-			{
-				"title": "Hel's Valkyrie",
-				"date": "2010-03-31",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/5155cbc8e381b.jpg",
-				"phaseid": "010",
-				"sortid": "022",
-				"comiclist": [
-					{
-						"collection": "New Mutants",
-						"vol": 3,
-						"num": 11
-					}
-				]
-			},
-			{
-				"title": "Siege Embedded",
-				"date": "2010-03-17",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "026",
-						"name": "Ben Urich"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bacb278b4460.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "023",
-				"comiclist": [
-					{
-						"collection": "Siege Embedded",
-						"vol": 1,
-						"num": 3
-					}
-				]
-			},
-			{
-				"title": "Siege Ragnarok",
-				"date": "2010-03-24",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "014",
-						"name": "Thor"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/56f2c73a7eb70.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "024",
-				"comiclist": [
-					{
-						"collection": "Thor",
-						"vol": 1,
-						"num": 608
-					}
-				]
-			},
-			{
-				"title": "Siege Thunderbolts",
-				"date": "2010-03-24",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "107",
-						"name": "Thunderbolts"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/517ea6997853f.jpg",
-				"phaseid": "010",
-				"sortid": "025",
-				"comiclist": [
-					{
-						"collection": "Thunderbolts",
-						"vol": 1,
-						"num": 142
-					}
-				]
-			},
-			{
-				"title": "Siege",
-				"date": "2010-05-12",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/517aee0b2667b.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "026",
-				"comiclist": [
-					{
-						"collection": "Siege",
-						"vol": 1,
-						"num": 4
-					}
-				]
-			},
-			{
-				"title": "The Hammer Falls",
-				"date": "2010-05-12",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/4e95e85964001.jpg",
-				"phaseid": "010",
-				"sortid": "027",
-				"comiclist": [
-					{
-						"collection": "Avengers The Initiative",
-						"vol": 1,
-						"num": 35
-					}
-				]
-			},
-			{
-				"title": "Siege Dark Avengers",
-				"date": "2010-05-12",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/52c5c336a94ca.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "028",
-				"comiclist": [
-					{
-						"collection": "Dark Avengers",
-						"vol": 1,
-						"num": 16
-					},
-					{
-						"collection": "Sentry Fallen Sun",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "Salvation",
-				"date": "2010-04-28",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4f7c98fe10d2f.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "029",
-				"comiclist": [
-					{
-						"collection": "Mighty Avengers",
-						"vol": 1,
-						"num": 36
-					}
-				]
-			},
-			{
-				"title": "Siege New Avengers",
-				"date": "2010-04-28",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/5773e19684c7e.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "030",
-				"comiclist": [
-					{
-						"collection": "New Avengers",
-						"vol": 1,
-						"num": 64
-					}
-				]
-			},
-			{
-				"title": "Siege Embedded",
-				"date": "2010-05-12",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "026",
-						"name": "Ben Urich"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bac5e0d40b9f.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "031",
-				"comiclist": [
-					{
-						"collection": "Siege Embedded",
-						"vol": 1,
-						"num": 4
-					}
-				]
-			},
-			{
-				"title": "Siege Ragnarok",
-				"date": "2010-04-28",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "014",
-						"name": "Thor"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/517e8200a4360.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "032",
-				"comiclist": [
-					{
-						"collection": "Thor",
-						"vol": 1,
-						"num": 609
-					},
-					{
-						"collection": "Thor",
-						"vol": 1,
-						"num": 610
-					}
-				]
-			},
-			{
-				"title": "Siege Thunderbolts",
-				"date": "2010-04-28",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "107",
-						"name": "Thunderbolts"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/517ea6936ee59.jpg",
-				"phaseid": "010",
-				"sortid": "033",
-				"comiclist": [
-					{
-						"collection": "Thunderbolts",
-						"vol": 1,
-						"num": 143
-					}
-				]
-			},
-			{
-				"title": "Finale",
-				"date": "2010-05-12",
-				"event": "Siege",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4be42ca2328a7.jpg",
-				"essential": true,
-				"phaseid": "010",
-				"sortid": "034",
-				"comiclist": [
-					{
-						"collection": "New Avengers Finale",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			}
-		]
-	},
-	{
-		"namable": {
-			"id": "004",
-			"name": "Decimation"
-		},
-		"list": [
-			{
-				"title": "The Day After",
-				"date": "2005-11-09",
-				"event": "Decimation",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4bc6175373f29.jpg",
-				"essential": true,
-				"phaseid": "005",
-				"sortid": "001",
-				"comiclist": [
-					{
-						"collection": "Decimation House of M - The Day After",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "Tin Can Heroes",
-				"date": "2006-01-18",
-				"event": "Decimation",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc607a8c9207.jpg",
-				"phaseid": "005",
-				"sortid": "002",
-				"comiclist": [
-					{
-						"collection": "Sentinel Squad One",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Sentinel Squad One",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Sentinel Squad One",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Sentinel Squad One",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "Sentinel Squad One",
-						"vol": 1,
-						"num": 5
-					}
-				]
-			},
-			{
-				"title": "House Arrest",
-				"date": "2005-11-09",
-				"event": "Decimation",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc612b84e389.jpg",
-				"phaseid": "005",
-				"sortid": "003",
-				"comiclist": [
-					{
-						"collection": "X-Men",
-						"vol": 2,
-						"num": 177
-					},
-					{
-						"collection": "X-Men",
-						"vol": 2,
-						"num": 178
-					},
-					{
-						"collection": "X-Men",
-						"vol": 2,
-						"num": 179
-					}
-				]
-			},
-			{
-				"title": "Childhood's End",
-				"date": "2005-11-09",
-				"event": "Decimation",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5702ae23cbb93.jpg",
-				"phaseid": "005",
-				"sortid": "004",
-				"comiclist": [
-					{
-						"collection": "New X-Men",
-						"vol": 2,
-						"num": 20
-					},
-					{
-						"collection": "New X-Men",
-						"vol": 2,
-						"num": 21
-					},
-					{
-						"collection": "New X-Men",
-						"vol": 2,
-						"num": 22
-					},
-					{
-						"collection": "New X-Men",
-						"vol": 2,
-						"num": 23
-					}
-				]
-			},
-			{
-				"title": "Blind love",
-				"date": "2006-02-08",
-				"event": "Decimation",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/568414810a6fc.jpg",
-				"phaseid": "005",
-				"sortid": "005",
-				"comiclist": [
-					{
-						"collection": "X-Men Unlimited",
-						"vol": 2,
-						"num": 13
-					}
-				]
-			},
-			{
-				"title": "Son of M",
-				"date": "2005-12-14",
-				"event": "Decimation",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc60cf09a1ff.jpg",
-				"essential": true,
-				"phaseid": "005",
-				"sortid": "006",
-				"comiclist": [
-					{
-						"collection": "Son of M",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Son of M",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Son of M",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Son of M",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "Son of M",
-						"vol": 1,
-						"num": 5
-					},
-					{
-						"collection": "Son of M",
-						"vol": 1,
-						"num": 6
-					}
-				]
-			},
-			{
-				"title": "The 198",
-				"date": "2006-01-11",
-				"event": "Decimation",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/56f5af6850606.jpg",
-				"phaseid": "005",
-				"sortid": "007",
-				"comiclist": [
-					{
-						"collection": "X-Men - The 198",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "X-Men - The 198",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "X-Men - The 198",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "X-Men - The 198",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "X-Men - The 198",
-						"vol": 1,
-						"num": 5
-					}
-				]
-			},
-			{
-				"title": "Generation M",
-				"date": "2006-01-10",
-				"event": "Decimation",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bb862b2a3046.jpg",
-				"phaseid": "005",
-				"sortid": "008",
-				"comiclist": [
-					{
-						"collection": "Generation M",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Generation M",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Generation M",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Generation M",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "Generation M",
-						"vol": 1,
-						"num": 5
-					}
-				]
-			},
-			{
-				"title": "The Longest Night",
-				"date": "2005-12-14",
-				"event": "Decimation",
-				"characters": [
-					{
-						"id": "074",
-						"name": "X-Factor"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4bc616260515b.jpg",
-				"phaseid": "005",
-				"sortid": "009",
-				"comiclist": [
-					{
-						"collection": "X-Factor",
-						"vol": 3,
-						"num": 1
-					},
-					{
-						"collection": "X-Factor",
-						"vol": 3,
-						"num": 2
-					},
-					{
-						"collection": "X-Factor",
-						"vol": 3,
-						"num": 3
-					},
-					{
-						"collection": "X-Factor",
-						"vol": 3,
-						"num": 4
-					},
-					{
-						"collection": "X-Factor",
-						"vol": 3,
-						"num": 5
-					},
-					{
-						"collection": "X-Factor",
-						"vol": 3,
-						"num": 6
-					}
-				]
-			},
-			{
-				"title": "Deadly Genesis",
-				"date": "2005-11-16",
-				"event": "Decimation",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/570293252a4f3.jpg",
-				"essential": true,
-				"phaseid": "005",
-				"sortid": "010",
-				"comiclist": [
-					{
-						"collection": "X-Men - Deadly Genesis",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "X-Men - Deadly Genesis",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "X-Men - Deadly Genesis",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "X-Men - Deadly Genesis",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "X-Men - Deadly Genesis",
-						"vol": 1,
-						"num": 5
-					},
-					{
-						"collection": "X-Men - Deadly Genesis",
-						"vol": 1,
-						"num": 6
-					}
-				]
-			},
-			{
-				"title": "Endangered Spicies",
-				"date": "2007-06-20",
-				"event": "Decimation",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/56f953a644953.jpg",
-				"essential": true,
-				"phaseid": "005",
-				"sortid": "011",
-				"comiclist": [
-					{
-						"collection": "X-Men - Endangered Species",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "X-Men",
-						"vol": 2,
-						"num": 200
-					},
-					{
-						"collection": "Uncanny X-Men",
-						"vol": 1,
-						"num": 488
-					},
-					{
-						"collection": "X-Factor",
-						"vol": 3,
-						"num": 21
-					},
-					{
-						"collection": "New X-Men",
-						"vol": 2,
-						"num": 40
-					},
-					{
-						"collection": "X-Men",
-						"vol": 2,
-						"num": 201
-					},
-					{
-						"collection": "Uncanny X-Men",
-						"vol": 1,
-						"num": 489
-					},
-					{
-						"collection": "X-Factor",
-						"vol": 3,
-						"num": 22
-					},
-					{
-						"collection": "New X-Men",
-						"vol": 2,
-						"num": 41
-					},
-					{
-						"collection": "X-Men",
-						"vol": 2,
-						"num": 202
-					},
-					{
-						"collection": "Uncanny X-Men",
-						"vol": 1,
-						"num": 490
-					},
-					{
-						"collection": "X-Factor",
-						"vol": 3,
-						"num": 23
-					},
-					{
-						"collection": "New X-Men",
-						"vol": 2,
-						"num": 42
-					},
-					{
-						"collection": "X-Men",
-						"vol": 2,
-						"num": 203
-					},
-					{
-						"collection": "Uncanny X-Men",
-						"vol": 1,
-						"num": 491
-					},
-					{
-						"collection": "X-Factor",
-						"vol": 3,
-						"num": 24
-					},
-					{
-						"collection": "X-Men",
-						"vol": 2,
-						"num": 204
-					},
-					{
-						"collection": "X-Men",
-						"vol": 2,
-						"num": 204
-					}
-				]
-			}
-		]
-	},
-	{
-		"namable": {
-			"id": "005",
-			"name": "Annihilation"
-		},
-		"list": [
-			{
-				"title": "Annihilation I",
-				"date": "2006-03-15",
-				"event": "Annihilation",
-				"characters": [
-					{
-						"id": "018",
-						"name": "Cosmic"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/57865227ac607.jpg",
-				"essential": true,
-				"phaseid": "005",
-				"sortid": "059",
-				"comiclist": [
-					{
-						"collection": "Annihilation Prologue",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Annihilation Nova",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Annihilation Nova",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Annihilation Nova",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Annihilation Nova",
-						"vol": 1,
-						"num": 4
-					}
-				]
-			},
-			{
-				"title": "Annihilation II",
-				"date": "2006-04-12",
-				"event": "Annihilation",
-				"characters": [
-					{
-						"id": "018",
-						"name": "Cosmic"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/578791d73a15a.jpg",
-				"essential": true,
-				"phaseid": "005",
-				"sortid": "060",
-				"comiclist": [
-					{
-						"collection": "Annihilation Super Skrull",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Annihilation Super Skrull",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Annihilation Super Skrull",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Annihilation Super Skrull",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "Annihilation Silver Surfer",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Annihilation Silver Surfer",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Annihilation Silver Surfer",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Annihilation Silver Surfer",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "Annihilation Ronan",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Annihilation Ronan",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Annihilation Ronan",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Annihilation Ronan",
-						"vol": 1,
-						"num": 4
-					}
-				]
-			},
-			{
-				"title": "Annihilation III",
-				"date": "2006-08-09",
-				"event": "Annihilation",
-				"characters": [
-					{
-						"id": "018",
-						"name": "Cosmic"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/51b61283075b2.jpg",
-				"essential": true,
-				"phaseid": "005",
-				"sortid": "061",
-				"comiclist": [
-					{
-						"collection": "Annihilation",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Annihilation",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Annihilation",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Annihilation",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "Annihilation",
-						"vol": 1,
-						"num": 5
-					},
-					{
-						"collection": "Annihilation",
-						"vol": 1,
-						"num": 6
-					}
-				]
-			},
-			{
-				"title": "Annihilation IV",
-				"date": "2007-02-28",
-				"event": "Annihilation",
-				"characters": [
-					{
-						"id": "018",
-						"name": "Cosmic"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/51e407787996b.jpg",
-				"essential": true,
-				"phaseid": "005",
-				"sortid": "062",
-				"comiclist": [
-					{
-						"collection": "Annihilation Herald of Galactus",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Annihilation Herald of Galactus",
-						"vol": 1,
-						"num": 2
-					}
-				]
-			}
-		]
-	},
-	{
-		"namable": {
-			"id": "010",
-			"name": "Annihilation Conquest"
-		},
-		"list": [
-			{
-				"title": "Annihilation Conquest I",
-				"date": "2007-06-20",
-				"event": "Annihilation Conquest",
-				"characters": [
-					{
-						"id": "018",
-						"name": "Cosmic"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/513a75867ca5d.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "166",
-				"comiclist": [
-					{
-						"collection": "Annihilation Conquest Prologue",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "Annihilation Conquest II",
-				"date": "2007-07-18",
-				"event": "Annihilation Conquest",
-				"characters": [
-					{
-						"id": "018",
-						"name": "Cosmic"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/51df02ba8e64e.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "167",
-				"comiclist": [
-					{
-						"collection": "Annihilation Conquest Quasar",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Annihilation Conquest Quasar",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Annihilation Conquest Quasar",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Annihilation Conquest Quasar",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "Annihilation Conquest Star Lord",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Annihilation Conquest Star Lord",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Annihilation Conquest Star Lord",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Annihilation Conquest Star Lord",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "Annihilation Conquest Wraith",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Annihilation Conquest Wraith",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Annihilation Conquest Wraith",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Annihilation Conquest Wraith",
-						"vol": 1,
-						"num": 4
-					}
-				]
-			},
-			{
-				"title": "Annihilation Conquest III",
-				"date": "2007-08-11",
-				"event": "Annihilation Conquest",
-				"characters": [
-					{
-						"id": "018",
-						"name": "Cosmic"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/578e841c9535a.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "168",
-				"comiclist": [
-					{
-						"collection": "Nova",
-						"vol": 4,
-						"num": 4
-					},
-					{
-						"collection": "Nova",
-						"vol": 4,
-						"num": 5
-					},
-					{
-						"collection": "Nova",
-						"vol": 4,
-						"num": 6
-					},
-					{
-						"collection": "Nova",
-						"vol": 4,
-						"num": 7
-					},
-					{
-						"collection": "Nova",
-						"vol": 4,
-						"num": 8
-					},
-					{
-						"collection": "Nova",
-						"vol": 4,
-						"num": 9
-					},
-					{
-						"collection": "Nova",
-						"vol": 4,
-						"num": 10
-					},
-					{
-						"collection": "Nova Annual",
-						"vol": 4,
-						"num": 1
-					},
-					{
-						"collection": "Nova",
-						"vol": 4,
-						"num": 11
-					},
-					{
-						"collection": "Nova",
-						"vol": 4,
-						"num": 12
-					}
-				]
-			},
-			{
-				"title": "Annihilation Conquest IV",
-				"date": "2007-11-07",
-				"event": "Annihilation Conquest",
-				"characters": [
-					{
-						"id": "018",
-						"name": "Cosmic"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4e8381b35e231.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "169",
-				"comiclist": [
-					{
-						"collection": "Annihilation Conquest",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Annihilation Conquest",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Annihilation Conquest",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Annihilation Conquest",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "Annihilation Conquest",
-						"vol": 1,
-						"num": 5
-					},
-					{
-						"collection": "Annihilation Conquest",
-						"vol": 1,
-						"num": 6
-					}
-				]
-			}
-		]
-	},
-	{
-		"namable": {
-			"id": "002",
-			"name": "Secret War"
-		},
-		"list": [
-			{
-				"title": "Secret War",
-				"date": "2004-02-04",
-				"event": "Secret War",
-				"characters": [
-					{
-						"id": "090",
-						"name": "Nick Fury"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc6aedcd6792.jpg",
-				"essential": true,
-				"phaseid": "003",
-				"sortid": "019",
-				"comiclist": [
-					{
-						"collection": "Secret war",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Secret war",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Secret war",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Secret war",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "Secret war",
-						"vol": 1,
-						"num": 5
-					}
-				]
-			},
-			{
-				"title": "Secret War The Pulse",
-				"date": "2004-11-10",
-				"event": "Secret War",
-				"characters": [
-					{
-						"id": "027",
-						"name": "Jessica Jones"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/56538fd257915.jpg",
-				"essential": true,
-				"phaseid": "003",
-				"sortid": "020",
-				"comiclist": [
-					{
-						"collection": "The Pulse",
-						"vol": 1,
-						"num": 6
-					},
-					{
-						"collection": "The Pulse",
-						"vol": 1,
-						"num": 7
-					},
-					{
-						"collection": "The Pulse",
-						"vol": 1,
-						"num": 8
-					},
-					{
-						"collection": "The Pulse",
-						"vol": 1,
-						"num": 9
-					}
-				]
-			}
-		]
-	},
-	{
-		"namable": {
-			"id": "008",
-			"name": "World War Hulk"
-		},
-		"list": [
-			{
-				"title": "Warbound",
-				"date": "2007-05-02",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/516320485c126.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "071",
-				"comiclist": [
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 106
-					}
-				]
-			},
-			{
-				"title": "Worldbreaker",
-				"date": "2007-05-09",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/00/4f6a200da01bd.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "072",
-				"comiclist": [
-					{
-						"collection": "World War Hulk Prologue",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "World War Hulk",
-				"date": "2007-06-13",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/4f674b7218168.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "073",
-				"comiclist": [
-					{
-						"collection": "World War Hulk",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "World War Hulk Iron Man",
-				"date": "2007-06-20",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "055",
-						"name": "Iron Man"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4f6a213acf4e6.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "074",
-				"comiclist": [
-					{
-						"collection": "Iron Man",
-						"vol": 4,
-						"num": 19
-					}
-				]
-			},
-			{
-				"title": "Warbound",
-				"date": "2007-06-20",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4f6782b54a1d4.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "075",
-				"comiclist": [
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 107
-					}
-				]
-			},
-			{
-				"title": "Embedded",
-				"date": "2007-06-27",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "026",
-						"name": "Ben Urich"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/4f675a190625d.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "076",
-				"comiclist": [
-					{
-						"collection": "World War Hulk Front Line",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "World War Hulk X-Men",
-				"date": "2007-06-27",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/a0/4f677855a7980.jpg",
-				"phaseid": "007",
-				"sortid": "077",
-				"comiclist": [
-					{
-						"collection": "World War Hulk X-Men",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "World War Hulk Ant-Man",
-				"date": "2007-07-05",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "139",
-						"name": "Eric O'Grady"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4f6a1df116019.jpg",
-				"phaseid": "007",
-				"sortid": "078",
-				"comiclist": [
-					{
-						"collection": "Irredeemable Ant-Man",
-						"vol": 1,
-						"num": 10
-					}
-				]
-			},
-			{
-				"title": "Gamma Corps",
-				"date": "2007-07-18",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "142",
-						"name": "Gamma Corps"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4f6770378a40e.jpg",
-				"phaseid": "007",
-				"sortid": "079",
-				"comiclist": [
-					{
-						"collection": "World War Hulk Gamma Corps",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "World War Hulk",
-				"date": "2007-07-18",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f674bf82d748.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "080",
-				"comiclist": [
-					{
-						"collection": "World War Hulk",
-						"vol": 1,
-						"num": 2
-					}
-				]
-			},
-			{
-				"title": "Embedded",
-				"date": "2007-07-18",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "026",
-						"name": "Ben Urich"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4f675bafd5b49.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "081",
-				"comiclist": [
-					{
-						"collection": "World War Hulk Front Line",
-						"vol": 1,
-						"num": 2
-					}
-				]
-			},
-			{
-				"title": "Green Zone",
-				"date": "2007-07-18",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4e8f5b14eab36.jpg",
-				"phaseid": "007",
-				"sortid": "082",
-				"comiclist": [
-					{
-						"collection": "Avengers The Initiative",
-						"vol": 1,
-						"num": 4
-					}
-				]
-			},
-			{
-				"title": "World War Hulk X-Men",
-				"date": "2007-07-25",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f6778e73c61e.jpg",
-				"phaseid": "007",
-				"sortid": "083",
-				"comiclist": [
-					{
-						"collection": "World War Hulk X-Men",
-						"vol": 1,
-						"num": 2
-					}
-				]
-			},
-			{
-				"title": "World War Hulk Heroes for Hire",
-				"date": "2007-06-20",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "113",
-						"name": "Misty Knight"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/51631bd7b7cee.jpg",
-				"phaseid": "007",
-				"sortid": "084",
-				"comiclist": [
-					{
-						"collection": "Heroes for Hire",
-						"vol": 2,
-						"num": 11
-					},
-					{
-						"collection": "Heroes for Hire",
-						"vol": 2,
-						"num": 12
-					}
-				]
-			},
-			{
-				"title": "World War Hulk Iron Man",
-				"date": "2007-07-25",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "055",
-						"name": "Iron Man"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4d2504af3c929.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "085",
-				"comiclist": [
-					{
-						"collection": "Iron Man",
-						"vol": 4,
-						"num": 20
-					}
-				]
-			},
-			{
-				"title": "Warbound",
-				"date": "2007-07-25",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/51632057add32.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "086",
-				"comiclist": [
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 108
-					}
-				]
-			},
-			{
-				"title": "World War Hulk",
-				"date": "2007-08-01",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f674e1b5b09e.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "087",
-				"comiclist": [
-					{
-						"collection": "World War Hulk",
-						"vol": 1,
-						"num": 3
-					}
-				]
-			},
-			{
-				"title": "Embedded",
-				"date": "2007-08-08",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "026",
-						"name": "Ben Urich"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4f675c3c59272.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "088",
-				"comiclist": [
-					{
-						"collection": "World War Hulk Front Line",
-						"vol": 1,
-						"num": 3
-					}
-				]
-			},
-			{
-				"title": "Warbound",
-				"date": "2007-08-08",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4f67834d223b4.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "089",
-				"comiclist": [
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 109
-					}
-				]
-			},
-			{
-				"title": "Gamma Corps",
-				"date": "2007-08-22",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "142",
-						"name": "Gamma Corps"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4f677086b3f2b.jpg",
-				"phaseid": "007",
-				"sortid": "090",
-				"comiclist": [
-					{
-						"collection": "World War Hulk Gamma Corps",
-						"vol": 1,
-						"num": 2
-					}
-				]
-			},
-			{
-				"title": "World War Hulk X-Men",
-				"date": "2007-08-29",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/4f677947ce43f.jpg",
-				"phaseid": "007",
-				"sortid": "091",
-				"comiclist": [
-					{
-						"collection": "World War Hulk X-Men",
-						"vol": 1,
-						"num": 3
-					}
-				]
-			},
-			{
-				"title": "Green Zone",
-				"date": "2007-08-29",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4e8f5d2a5a839.jpg",
-				"phaseid": "007",
-				"sortid": "092",
-				"comiclist": [
-					{
-						"collection": "Avengers The Initiative",
-						"vol": 1,
-						"num": 5
-					}
-				]
-			},
-			{
-				"title": "Warbound",
-				"date": "2007-09-06",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/5163205c77f6a.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "093",
-				"comiclist": [
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 110
-					}
-				]
-			},
-			{
-				"title": "World War Hulk Heroes for Hire",
-				"date": "2007-09-12",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "113",
-						"name": "Misty Knight"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/51631be7d831b.jpg",
-				"phaseid": "007",
-				"sortid": "094",
-				"comiclist": [
-					{
-						"collection": "Heroes for Hire",
-						"vol": 2,
-						"num": 13
-					}
-				]
-			},
-			{
-				"title": "Gamma Corps",
-				"date": "2007-09-19",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "142",
-						"name": "Gamma Corps"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4f6770e636ae2.jpg",
-				"phaseid": "007",
-				"sortid": "095",
-				"comiclist": [
-					{
-						"collection": "World War Hulk Gamma Corps",
-						"vol": 1,
-						"num": 3
-					}
-				]
-			},
-			{
-				"title": "World War Hulk",
-				"date": "2007-09-19",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/4f674f3028099.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "096",
-				"comiclist": [
-					{
-						"collection": "World War Hulk",
-						"vol": 1,
-						"num": 4
-					}
-				]
-			},
-			{
-				"title": "Embedded",
-				"date": "2007-09-19",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "026",
-						"name": "Ben Urich"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/4f67652e9732d.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "097",
-				"comiclist": [
-					{
-						"collection": "World War Hulk Front Line",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "World War Hulk Front Line",
-						"vol": 1,
-						"num": 5
-					}
-				]
-			},
-			{
-				"title": "World War Frank",
-				"date": "2007-10-10",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "009",
-						"name": "Punisher"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4f677b01083c2.jpg",
-				"phaseid": "007",
-				"sortid": "098",
-				"comiclist": [
-					{
-						"collection": "Punisher War Journal",
-						"vol": 2,
-						"num": 12
-					}
-				]
-			},
-			{
-				"title": "World War Hulk Heroes for Hire",
-				"date": "2007-10-10",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "113",
-						"name": "Misty Knight"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/51631bf2909e3.jpg",
-				"phaseid": "007",
-				"sortid": "099",
-				"comiclist": [
-					{
-						"collection": "Heroes for Hire",
-						"vol": 2,
-						"num": 14
-					},
-					{
-						"collection": "Heroes for Hire",
-						"vol": 2,
-						"num": 15
-					}
-				]
-			},
-			{
-				"title": "Gamma Corps",
-				"date": "2007-11-07",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "142",
-						"name": "Gamma Corps"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/4f6771460528a.jpg",
-				"phaseid": "007",
-				"sortid": "100",
-				"comiclist": [
-					{
-						"collection": "World War Hulk Gamma Corps",
-						"vol": 1,
-						"num": 4
-					}
-				]
-			},
-			{
-				"title": "Warbound",
-				"date": "2007-11-21",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f6751c9d77a5.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "101",
-				"comiclist": [
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 111
-					}
-				]
-			},
-			{
-				"title": "World War Hulk",
-				"date": "2007-11-14",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/4f674f957277b.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "102",
-				"comiclist": [
-					{
-						"collection": "World War Hulk",
-						"vol": 1,
-						"num": 5
-					}
-				]
-			},
-			{
-				"title": "Embedded",
-				"date": "2007-11-29",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "026",
-						"name": "Ben Urich"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/4f6766166ef4a.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "103",
-				"comiclist": [
-					{
-						"collection": "World War Hulk Front Line",
-						"vol": 1,
-						"num": 6
-					}
-				]
-			},
-			{
-				"title": "After Smash",
-				"date": "2007-12-05",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/4f6756d455960.jpg",
-				"phaseid": "007",
-				"sortid": "104",
-				"comiclist": [
-					{
-						"collection": "World War Hulk Aftersmash",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "Damage Control",
-				"date": "2008-01-23",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "143",
-						"name": "Damage Control"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/51631e8d52dbb.jpg",
-				"phaseid": "007",
-				"sortid": "105",
-				"comiclist": [
-					{
-						"collection": "World War Hulk Damage Control",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "World War Hulk Damage Control",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "World War Hulk Damage Control",
-						"vol": 1,
-						"num": 3
-					}
-				]
-			},
-			{
-				"title": "Against the World",
-				"date": "2007-12-19",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "121",
-						"name": "Hercules"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4d2505f525e11.jpg",
-				"phaseid": "007",
-				"sortid": "106",
-				"comiclist": [
-					{
-						"collection": "Incredible Hercules",
-						"vol": 1,
-						"num": 112
-					},
-					{
-						"collection": "Incredible Hercules",
-						"vol": 1,
-						"num": 113
-					},
-					{
-						"collection": "Incredible Hercules",
-						"vol": 1,
-						"num": 114
-					},
-					{
-						"collection": "Incredible Hercules",
-						"vol": 1,
-						"num": 115
-					}
-				]
-			},
-			{
-				"title": "Warbound",
-				"date": "2007-12-19",
-				"event": "World War Hulk",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/576af06fdf86d.jpg",
-				"phaseid": "007",
-				"sortid": "107",
-				"comiclist": [
-					{
-						"collection": "World War Hulk Warbound",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "World War Hulk Warbound",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "World War Hulk Warbound",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "World War Hulk Warbound",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "World War Hulk Warbound",
-						"vol": 1,
-						"num": 5
-					}
-				]
-			}
-		]
-	},
-	{
-		"namable": {
-			"id": "009",
-			"name": "Messiah Complex"
-		},
-		"list": [
-			{
-				"title": "Messiah Complex",
-				"date": "2007-10-31",
-				"event": "Messiah Complex",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/513a8972c747e.jpg",
-				"essential": true,
-				"phaseid": "007",
-				"sortid": "114",
-				"comiclist": [
-					{
-						"collection": "X-Men Messiah Complex One Shot",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Uncanny X-Men",
-						"vol": 1,
-						"num": 492
-					},
-					{
-						"collection": "X-Factor",
-						"vol": 3,
-						"num": 25
-					},
-					{
-						"collection": "New X-Men",
-						"vol": 2,
-						"num": 44
-					},
-					{
-						"collection": "X-Men",
-						"vol": 2,
-						"num": 205
-					},
-					{
-						"collection": "Uncanny X-Men",
-						"vol": 1,
-						"num": 493
-					},
-					{
-						"collection": "X-Factor",
-						"vol": 3,
-						"num": 26
-					},
-					{
-						"collection": "New X-Men",
-						"vol": 2,
-						"num": 45
-					},
-					{
-						"collection": "X-Men",
-						"vol": 2,
-						"num": 206
-					},
-					{
-						"collection": "Uncanny X-Men",
-						"vol": 1,
-						"num": 494
-					},
-					{
-						"collection": "X-Factor",
-						"vol": 3,
-						"num": 27
-					},
-					{
-						"collection": "New X-Men",
-						"vol": 2,
-						"num": 46
-					},
-					{
-						"collection": "X-Men",
-						"vol": 2,
-						"num": 207
-					}
-				]
-			}
-		]
-	},
-	{
-		"namable": {
-			"id": "001",
-			"name": "Avengers Dissasembled"
-		},
-		"list": [
-			{
-				"title": "Ragnarok",
-				"date": "2004-06-02",
-				"event": "Avengers Dissasembled",
-				"characters": [
-					{
-						"id": "014",
-						"name": "Thor"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/56f2ca6c61f94.jpg",
-				"essential": true,
-				"phaseid": "002",
-				"sortid": "001",
-				"comiclist": [
-					{
-						"collection": "Thor",
-						"vol": 2,
-						"num": 80
-					},
-					{
-						"collection": "Thor",
-						"vol": 2,
-						"num": 81
-					},
-					{
-						"collection": "Thor",
-						"vol": 2,
-						"num": 82
-					},
-					{
-						"collection": "Thor",
-						"vol": 2,
-						"num": 83
-					},
-					{
-						"collection": "Thor",
-						"vol": 2,
-						"num": 84
-					},
-					{
-						"collection": "Thor",
-						"vol": 2,
-						"num": 85
-					}
-				]
-			},
-			{
-				"title": "Turf War",
-				"date": "2004-06-09",
-				"event": "Avengers Dissasembled",
-				"characters": [
-					{
-						"id": "055",
-						"name": "Iron Man"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4d2526fe375bf.jpg",
-				"phaseid": "002",
-				"sortid": "002",
-				"comiclist": [
-					{
-						"collection": "Iron Man",
-						"vol": 3,
-						"num": 84
-					},
-					{
-						"collection": "Iron Man",
-						"vol": 3,
-						"num": 85
-					}
-				]
-			},
-			{
-				"title": "Under My Skin",
-				"date": "2004-06-09",
-				"event": "Avengers Dissasembled",
-				"characters": [
-					{
-						"id": "023",
-						"name": "Spider-Man"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/57e55d6474b3c.jpg",
-				"phaseid": "002",
-				"sortid": "003",
-				"comiclist": [
-					{
-						"collection": "Spectacular Spider-Man",
-						"vol": 2,
-						"num": 15
-					},
-					{
-						"collection": "Spectacular Spider-Man",
-						"vol": 2,
-						"num": 16
-					}
-				]
-			},
-			{
-				"title": "Changes",
-				"date": "2004-07-14",
-				"event": "Avengers Dissasembled",
-				"characters": [
-					{
-						"id": "023",
-						"name": "Spider-Man"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/57e55d9e8c28d.jpg",
-				"phaseid": "002",
-				"sortid": "004",
-				"comiclist": [
-					{
-						"collection": "Spectacular Spider-Man",
-						"vol": 2,
-						"num": 17
-					},
-					{
-						"collection": "Spectacular Spider-Man",
-						"vol": 2,
-						"num": 18
-					},
-					{
-						"collection": "Spectacular Spider-Man",
-						"vol": 2,
-						"num": 19
-					},
-					{
-						"collection": "Spectacular Spider-Man",
-						"vol": 2,
-						"num": 20
-					}
-				]
-			},
-			{
-				"title": "Dissasembled",
-				"date": "2004-07-07",
-				"event": "Avengers Dissasembled",
-				"characters": [
-					{
-						"id": "056",
-						"name": "Steve Rogers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/51d2f06d04209.jpg",
-				"phaseid": "002",
-				"sortid": "005",
-				"comiclist": [
-					{
-						"collection": "Captain America \u0026 The Falcon",
-						"vol": 1,
-						"num": 5
-					},
-					{
-						"collection": "Captain America \u0026 The Falcon",
-						"vol": 1,
-						"num": 6
-					},
-					{
-						"collection": "Captain America \u0026 The Falcon",
-						"vol": 1,
-						"num": 7
-					}
-				]
-			},
-			{
-				"title": "Avengers Dissasembled",
-				"date": "2004-09-15",
-				"event": "Avengers Dissasembled",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4f5a50d019d82.jpg",
-				"essential": true,
-				"phaseid": "002",
-				"sortid": "006",
-				"comiclist": [
-					{
-						"collection": "Avengers",
-						"vol": 1,
-						"num": 500
-					},
-					{
-						"collection": "Avengers",
-						"vol": 1,
-						"num": 501
-					},
-					{
-						"collection": "Avengers",
-						"vol": 1,
-						"num": 502
-					},
-					{
-						"collection": "Avengers",
-						"vol": 1,
-						"num": 503
-					}
-				]
-			},
-			{
-				"title": "Avengers Dissasembled Finale",
-				"date": "2004-11-10",
-				"event": "Avengers Dissasembled",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/51e045c27a7b0.jpg",
-				"essential": true,
-				"phaseid": "002",
-				"sortid": "007",
-				"comiclist": [
-					{
-						"collection": "Avengers Finale",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "Super-Patriot",
-				"date": "2000-05-10",
-				"event": "Avengers Dissasembled",
-				"characters": [
-					{
-						"id": "056",
-						"name": "Steve Rogers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/4e8b2947716c8.jpg",
-				"phaseid": "002",
-				"sortid": "008",
-				"comiclist": [
-					{
-						"collection": "Captain America",
-						"vol": 4,
-						"num": 29
-					},
-					{
-						"collection": "Captain America",
-						"vol": 4,
-						"num": 30
-					},
-					{
-						"collection": "Captain America",
-						"vol": 4,
-						"num": 31
-					},
-					{
-						"collection": "Captain America",
-						"vol": 4,
-						"num": 32
-					}
-				]
-			},
-			{
-				"title": "The Singularity",
-				"date": "2004-07-14",
-				"event": "Avengers Dissasembled",
-				"characters": [
-					{
-						"id": "055",
-						"name": "Iron Man"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4d24e94fd08df.jpg",
-				"phaseid": "002",
-				"sortid": "009",
-				"comiclist": [
-					{
-						"collection": "Iron Man",
-						"vol": 3,
-						"num": 86
-					},
-					{
-						"collection": "Iron Man",
-						"vol": 3,
-						"num": 87
-					},
-					{
-						"collection": "Iron Man",
-						"vol": 3,
-						"num": 88
-					},
-					{
-						"collection": "Iron Man",
-						"vol": 3,
-						"num": 89
-					}
-				]
-			},
-			{
-				"title": "Fourtitude",
-				"date": "2004-08-18",
-				"event": "Avengers Dissasembled",
-				"characters": [
-					{
-						"id": "035",
-						"name": "Fantastic Four"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/57e9748092fdc.jpg",
-				"phaseid": "002",
-				"sortid": "010",
-				"comiclist": [
-					{
-						"collection": "Fantastic Four",
-						"vol": 1,
-						"num": 517
-					},
-					{
-						"collection": "Fantastic Four",
-						"vol": 1,
-						"num": 518
-					},
-					{
-						"collection": "Fantastic Four",
-						"vol": 1,
-						"num": 519
-					}
-				]
-			}
-		]
-	},
-	{
-		"namable": {
-			"id": "003",
-			"name": "House of M"
-		},
-		"list": [
-			{
-				"title": "House of M",
-				"date": "2005-06-01",
-				"event": "House of M",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51cc4da1a7058.jpg",
-				"essential": true,
-				"phaseid": "004",
-				"sortid": "001",
-				"comiclist": [
-					{
-						"collection": "House of M",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "House of M",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "House of M",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "House of M",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "House of M",
-						"vol": 1,
-						"num": 5
-					},
-					{
-						"collection": "House of M",
-						"vol": 1,
-						"num": 6
-					},
-					{
-						"collection": "House of M",
-						"vol": 1,
-						"num": 7
-					},
-					{
-						"collection": "House of M",
-						"vol": 1,
-						"num": 8
-					}
-				]
-			},
-			{
-				"title": "Fantastic Four House of M",
-				"date": "2005-06-01",
-				"event": "House of M",
-				"characters": [
-					{
-						"id": "035",
-						"name": "Fantastic Four"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/535190892db5e.jpg",
-				"phaseid": "004",
-				"sortid": "002",
-				"comiclist": [
-					{
-						"collection": "Fantastic Four House of M",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Fantastic Four House of M",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Fantastic Four House of M",
-						"vol": 1,
-						"num": 3
-					}
-				]
-			},
-			{
-				"title": "Spider-Man House of M",
-				"date": "2005-06-22",
-				"event": "House of M",
-				"characters": [
-					{
-						"id": "023",
-						"name": "Spider-Man"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bb86d0cf217b.jpg",
-				"phaseid": "004",
-				"sortid": "003",
-				"comiclist": [
-					{
-						"collection": "Spider-Man House of M",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Spider-Man House of M",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Spider-Man House of M",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Spider-Man House of M",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "Spider-Man House of M",
-						"vol": 1,
-						"num": 5
-					}
-				]
-			},
-			{
-				"title": "Iron-Man House of M",
-				"date": "2005-07-06",
-				"event": "House of M",
-				"characters": [
-					{
-						"id": "055",
-						"name": "Iron Man"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bc62ce032575.jpg",
-				"phaseid": "004",
-				"sortid": "004",
-				"comiclist": [
-					{
-						"collection": "Iron Man House of M",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Iron Man House of M",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Iron Man House of M",
-						"vol": 1,
-						"num": 3
-					}
-				]
-			},
-			{
-				"title": "House of M Incredible Hulk",
-				"date": "2005-07-06",
-				"event": "House of M",
-				"characters": [
-					{
-						"id": "050",
-						"name": "Hulk"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc62c46bdb85.jpg",
-				"phaseid": "004",
-				"sortid": "005",
-				"comiclist": [
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 83
-					},
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 84
-					},
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 85
-					},
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 86
-					},
-					{
-						"collection": "Incredible Hulk",
-						"vol": 2,
-						"num": 87
-					}
-				]
-			},
-			{
-				"title": "Mutopia X",
-				"date": "2005-07-13",
-				"event": "House of M",
-				"characters": [
-					{
-						"id": "069",
-						"name": "Bishop"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bc62d059e115.jpg",
-				"phaseid": "004",
-				"sortid": "006",
-				"comiclist": [
-					{
-						"collection": "Mutopia X",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Mutopia X",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Mutopia X",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Mutopia X",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "Mutopia X",
-						"vol": 1,
-						"num": 5
-					}
-				]
-			},
-			{
-				"title": "House of M The Pulse",
-				"date": "2005-07-27",
-				"event": "House of M",
-				"characters": [
-					{
-						"id": "026",
-						"name": "Ben Urich"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5653544c5e3bf.jpg",
-				"essential": true,
-				"phaseid": "004",
-				"sortid": "007",
-				"comiclist": [
-					{
-						"collection": "The Pulse",
-						"vol": 1,
-						"num": 10
-					}
-				]
-			},
-			{
-				"title": "House of M Black Panther",
-				"date": "2005-08-24",
-				"event": "House of M",
-				"characters": [
-					{
-						"id": "094",
-						"name": "Black Panther"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5745bcc5d2777.jpg",
-				"phaseid": "004",
-				"sortid": "008",
-				"comiclist": [
-					{
-						"collection": "Black Panther",
-						"vol": 4,
-						"num": 7
-					}
-				]
-			},
-			{
-				"title": "House of M Captain America",
-				"date": "2005-10-01",
-				"event": "House of M",
-				"characters": [
-					{
-						"id": "056",
-						"name": "Steve Rogers"
-					}
-				],
-				"pic": "https://i.annihil.us/u/prod/marvel/i/mg/c/10/4d24fef511cb5/detail.jpg",
-				"phaseid": "004",
-				"sortid": "009",
-				"comiclist": [
-					{
-						"collection": "Captain America",
-						"vol": 5,
-						"num": 10
-					}
-				]
-			},
-			{
-				"title": "House of M Wolverine",
-				"date": "2005-09-28",
-				"event": "House of M",
-				"characters": [
-					{
-						"id": "033",
-						"name": "Wolverine"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4d24f6a19cd02.jpg",
-				"phaseid": "004",
-				"sortid": "010",
-				"comiclist": [
-					{
-						"collection": "Wolverine",
-						"vol": 3,
-						"num": 33
-					},
-					{
-						"collection": "Wolverine",
-						"vol": 3,
-						"num": 34
-					},
-					{
-						"collection": "Wolverine",
-						"vol": 3,
-						"num": 35
-					}
-				]
-			},
-			{
-				"title": "House of M Uncanny X-Men",
-				"date": "2005-07-06",
-				"event": "House of M",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc6305a2b7c6.jpg",
-				"phaseid": "004",
-				"sortid": "011",
-				"comiclist": [
-					{
-						"collection": "Uncanny X-Men",
-						"vol": 1,
-						"num": 462
-					},
-					{
-						"collection": "Uncanny X-Men",
-						"vol": 1,
-						"num": 463
-					},
-					{
-						"collection": "Uncanny X-Men",
-						"vol": 1,
-						"num": 464
-					},
-					{
-						"collection": "Uncanny X-Men",
-						"vol": 1,
-						"num": 465
-					}
-				]
-			},
-			{
-				"title": "House of M New X-Men",
-				"date": "2005-07-27",
-				"event": "House of M",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/5702aba9be7c9.jpg",
-				"phaseid": "004",
-				"sortid": "012",
-				"comiclist": [
-					{
-						"collection": "New X-Men",
-						"vol": 2,
-						"num": 16
-					},
-					{
-						"collection": "New X-Men",
-						"vol": 2,
-						"num": 17
-					},
-					{
-						"collection": "New X-Men",
-						"vol": 2,
-						"num": 18
-					},
-					{
-						"collection": "New X-Men",
-						"vol": 2,
-						"num": 19
 					}
 				]
 			}

@@ -107969,6 +107969,752 @@
 		"sortid": "096"
 	},
 	{
+		"id": "27873",
+		"collection": "Deadpool Merc With a Mouth",
+		"title": "Head Trip",
+		"vol": 1,
+		"num": 1,
+		"date": "2009-07-01",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "394",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "346",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4bb45675c8cc9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "097"
+	},
+	{
+		"id": "27798",
+		"collection": "Deadpool Merc With a Mouth",
+		"title": "Head Trip",
+		"vol": 1,
+		"num": 2,
+		"date": "2009-08-05",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "394",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "346",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4bb4933874a62.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "097"
+	},
+	{
+		"id": "27799",
+		"collection": "Deadpool Merc With a Mouth",
+		"title": "Head Trip",
+		"vol": 1,
+		"num": 3,
+		"date": "2009-09-16",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "394",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "346",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bb469523ad5f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "097"
+	},
+	{
+		"id": "27800",
+		"collection": "Deadpool Merc With a Mouth",
+		"title": "Head Trip",
+		"vol": 1,
+		"num": 4,
+		"date": "2009-10-21",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "394",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "346",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bae54d9091f1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "097"
+	},
+	{
+		"id": "27801",
+		"collection": "Deadpool Merc With a Mouth",
+		"title": "Head Trip",
+		"vol": 1,
+		"num": 5,
+		"date": "2009-11-18",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "394",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "346",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4bb408350326b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "097"
+	},
+	{
+		"id": "27802",
+		"collection": "Deadpool Merc With a Mouth",
+		"title": "Head Trip",
+		"vol": 1,
+		"num": 6,
+		"date": "2009-12-16",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "394",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "346",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4bb3ccdbead5f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "097"
+	},
+	{
+		"id": "27803",
+		"collection": "Deadpool Merc With a Mouth",
+		"title": "Zombieville",
+		"vol": 1,
+		"num": 7,
+		"date": "2010-01-20",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "394",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "346",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/60/555ccee8bf688.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "098"
+	},
+	{
+		"id": "27804",
+		"collection": "Deadpool Merc With a Mouth",
+		"title": "Zombieville",
+		"vol": 1,
+		"num": 8,
+		"date": "2010-02-17",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "394",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "346",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4badc6b49f5ce.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "098"
+	},
+	{
+		"id": "30395",
+		"collection": "Deadpool Merc With a Mouth",
+		"title": "Zombieville",
+		"vol": 1,
+		"num": 9,
+		"date": "2010-03-17",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "394",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "346",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bacd7e302cd5.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "098"
+	},
+	{
+		"id": "32546",
+		"collection": "Deadpool Merc With a Mouth",
+		"title": "Zombieville",
+		"vol": 1,
+		"num": 10,
+		"date": "2010-04-21",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "394",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "346",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bac5927d0b68.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "098"
+	},
+	{
+		"id": "30391",
+		"collection": "Deadpool Merc With a Mouth",
+		"title": "Zombieville",
+		"vol": 1,
+		"num": 11,
+		"date": "2010-05-26",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "394",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "346",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4baa9e407cacc.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "098"
+	},
+	{
+		"id": "30392",
+		"collection": "Deadpool Merc With a Mouth",
+		"title": "Zombieville",
+		"vol": 1,
+		"num": 12,
+		"date": "2010-06-16",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "394",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "346",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4ba94a843836d.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "098"
+	},
+	{
+		"id": "32951",
+		"collection": "Deadpool Merc With a Mouth",
+		"title": "Zombieville",
+		"vol": 1,
+		"num": 13,
+		"date": "2010-07-21",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "394",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "346",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/4bc5e59fb737e.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "098"
+	},
+	{
+		"id": "24947",
+		"collection": "Deadpool",
+		"title": "X Marks the Spot",
+		"vol": 2,
+		"num": 13,
+		"date": "2009-08-12",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "395",
+				"name": "Shawn Crystal"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/51a4f6fb38a0d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "099"
+	},
+	{
+		"id": "24948",
+		"collection": "Deadpool",
+		"title": "X Marks the Spot",
+		"vol": 2,
+		"num": 14,
+		"date": "2009-08-26",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "395",
+				"name": "Shawn Crystal"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/51a4f6e70d8ba.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "099"
+	},
+	{
+		"id": "24949",
+		"collection": "Deadpool",
+		"title": "X Marks the Spot",
+		"vol": 2,
+		"num": 15,
+		"date": "2009-09-02",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "042",
+				"name": "Paco Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/51a4f6e086ead.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "099"
+	},
+	{
+		"id": "24950",
+		"collection": "Deadpool",
+		"title": "X Marks the Spot",
+		"vol": 2,
+		"num": 16,
+		"date": "2009-10-07",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "042",
+				"name": "Paco Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/51a4fb8cf1c6b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "099"
+	},
+	{
+		"id": "24951",
+		"collection": "Deadpool",
+		"title": "X Marks the Spot",
+		"vol": 2,
+		"num": 17,
+		"date": "2009-11-11",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "042",
+				"name": "Paco Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/51a4fb7da0882.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "099"
+	},
+	{
+		"id": "24952",
+		"collection": "Deadpool",
+		"title": "X Marks the Spot",
+		"vol": 2,
+		"num": 18,
+		"date": "2009-12-09",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "042",
+				"name": "Paco Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/d0/51a4fb7ecbccb.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "099"
+	},
+	{
+		"id": "29627",
+		"collection": "Deadpool Team-Up",
+		"title": "Good Buddies",
+		"vol": 1,
+		"num": 900,
+		"date": "2009-10-14",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "239",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "396",
+				"name": "Chris Staggs"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4bae998779dc1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "100"
+	},
+	{
+		"id": "28877",
+		"collection": "Deadpool Team-Up",
+		"title": "Good Buddies",
+		"vol": 1,
+		"num": 899,
+		"date": "2009-11-04",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "397",
+				"name": "Dalibor Talajic"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/563cfd1b0d00d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "100"
+	},
+	{
+		"id": "28876",
+		"collection": "Deadpool Team-Up",
+		"title": "Good Buddies",
+		"vol": 1,
+		"num": 898,
+		"date": "2009-12-03",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "236",
+				"name": "Mike Benson"
+			},
+			{
+				"id": "315",
+				"name": "Carlo Barberi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/563cfc8ab8f52.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "100"
+	},
+	{
+		"id": "28875",
+		"collection": "Deadpool Team-Up",
+		"title": "Good Buddies",
+		"vol": 1,
+		"num": 897,
+		"date": "2010-01-06",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "398",
+				"name": "Adam Glass"
+			},
+			{
+				"id": "396",
+				"name": "Chris Staggs"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/563cfd4c72c85.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "100"
+	},
+	{
+		"id": "28874",
+		"collection": "Deadpool Team-Up",
+		"title": "Good Buddies",
+		"vol": 1,
+		"num": 896,
+		"date": "2010-02-03",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "254",
+				"name": "Stuart Moore"
+			},
+			{
+				"id": "395",
+				"name": "Shawn Crystal"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/563cfe04bc1fd.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "100"
+	},
+	{
+		"id": "28873",
+		"collection": "Deadpool Team-Up",
+		"title": "Good Buddies",
+		"vol": 1,
+		"num": 895,
+		"date": "2010-03-03",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "399",
+				"name": "Christopher Long"
+			},
+			{
+				"id": "397",
+				"name": "Dalibor Talajic"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/563cfddcda5f6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "100"
+	},
+	{
 		"collection": "Free Comic Book Day Avengers",
 		"title": "Powerloss",
 		"vol": 1,
@@ -108039,7 +108785,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "097"
+		"sortid": "101"
 	},
 	{
 		"id": "26033",
@@ -108109,7 +108855,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "097"
+		"sortid": "101"
 	},
 	{
 		"id": "26035",
@@ -108179,7 +108925,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "097"
+		"sortid": "101"
 	},
 	{
 		"id": "26036",
@@ -108249,7 +108995,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "097"
+		"sortid": "101"
 	},
 	{
 		"id": "26037",
@@ -108319,7 +109065,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "097"
+		"sortid": "101"
 	},
 	{
 		"id": "25976",
@@ -108377,7 +109123,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "098"
+		"sortid": "102"
 	},
 	{
 		"id": "25977",
@@ -108435,7 +109181,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "098"
+		"sortid": "102"
 	},
 	{
 		"id": "41832",
@@ -108481,7 +109227,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "099"
+		"sortid": "103"
 	},
 	{
 		"id": "27641",
@@ -108542,7 +109288,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "100"
+		"sortid": "104"
 	},
 	{
 		"id": "27642",
@@ -108600,7 +109346,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "100"
+		"sortid": "104"
 	},
 	{
 		"id": "27643",
@@ -108658,7 +109404,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "100"
+		"sortid": "104"
 	},
 	{
 		"id": "27343",
@@ -108700,7 +109446,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "101"
+		"sortid": "105"
 	},
 	{
 		"id": "27344",
@@ -108742,7 +109488,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "101"
+		"sortid": "105"
 	},
 	{
 		"id": "27513",
@@ -108832,7 +109578,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "102"
+		"sortid": "106"
 	},
 	{
 		"id": "26966",
@@ -108934,7 +109680,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "103"
+		"sortid": "107"
 	},
 	{
 		"id": "24812",
@@ -109024,7 +109770,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "104"
+		"sortid": "108"
 	},
 	{
 		"id": "26967",
@@ -109126,7 +109872,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "105"
+		"sortid": "109"
 	},
 	{
 		"id": "24813",
@@ -109216,7 +109962,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "106"
+		"sortid": "110"
 	},
 	{
 		"id": "27512",
@@ -109306,7 +110052,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "107"
+		"sortid": "111"
 	},
 	{
 		"id": "27892",
@@ -109335,7 +110081,7 @@
 				"name": "Chris Yost"
 			},
 			{
-				"id": "394",
+				"id": "400",
 				"name": "Bing Cansino"
 			}
 		],
@@ -109344,7 +110090,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "108"
+		"sortid": "112"
 	},
 	{
 		"id": "27424",
@@ -109418,7 +110164,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "109"
+		"sortid": "113"
 	},
 	{
 		"id": "28687",
@@ -109455,7 +110201,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "110"
+		"sortid": "114"
 	},
 	{
 		"id": "28688",
@@ -109492,7 +110238,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "110"
+		"sortid": "114"
 	},
 	{
 		"id": "28689",
@@ -109529,7 +110275,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "110"
+		"sortid": "114"
 	},
 	{
 		"id": "28690",
@@ -109566,7 +110312,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "110"
+		"sortid": "114"
 	},
 	{
 		"id": "28691",
@@ -109603,7 +110349,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "110"
+		"sortid": "114"
 	},
 	{
 		"id": "23151",
@@ -109636,7 +110382,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "111"
+		"sortid": "115"
 	},
 	{
 		"id": "23609",
@@ -109669,7 +110415,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "111"
+		"sortid": "115"
 	},
 	{
 		"id": "23768",
@@ -109702,7 +110448,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "111"
+		"sortid": "115"
 	},
 	{
 		"id": "23769",
@@ -109735,7 +110481,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "111"
+		"sortid": "115"
 	},
 	{
 		"id": "24168",
@@ -109768,7 +110514,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "111"
+		"sortid": "115"
 	},
 	{
 		"id": "26314",
@@ -109801,7 +110547,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "111"
+		"sortid": "115"
 	},
 	{
 		"id": "24268",
@@ -109826,7 +110572,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "395",
+				"id": "401",
 				"name": "Dan Panosian"
 			}
 		],
@@ -109837,7 +110583,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "111"
+		"sortid": "115"
 	},
 	{
 		"id": "25365",
@@ -109866,7 +110612,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "112"
+		"sortid": "116"
 	},
 	{
 		"id": "27645",
@@ -109899,7 +110645,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "113"
+		"sortid": "117"
 	},
 	{
 		"id": "27646",
@@ -109932,7 +110678,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "113"
+		"sortid": "117"
 	},
 	{
 		"id": "27647",
@@ -109965,7 +110711,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "113"
+		"sortid": "117"
 	},
 	{
 		"id": "27419",
@@ -109994,7 +110740,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "396",
+				"id": "402",
 				"name": "Ben Oliver"
 			}
 		],
@@ -110002,7 +110748,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "114"
+		"sortid": "118"
 	},
 	{
 		"id": "27648",
@@ -110035,7 +110781,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "115"
+		"sortid": "119"
 	},
 	{
 		"id": "27650",
@@ -110068,7 +110814,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "115"
+		"sortid": "119"
 	},
 	{
 		"id": "26316",
@@ -110097,7 +110843,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "116"
+		"sortid": "120"
 	},
 	{
 		"id": "26317",
@@ -110126,7 +110872,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "116"
+		"sortid": "120"
 	},
 	{
 		"id": "26318",
@@ -110155,7 +110901,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "116"
+		"sortid": "120"
 	},
 	{
 		"id": "26319",
@@ -110184,7 +110930,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "116"
+		"sortid": "120"
 	},
 	{
 		"id": "26320",
@@ -110213,7 +110959,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "116"
+		"sortid": "120"
 	},
 	{
 		"id": "25366",
@@ -110234,7 +110980,7 @@
 				"name": "Jeph Loeb"
 			},
 			{
-				"id": "397",
+				"id": "403",
 				"name": "Ian Churchill"
 			}
 		],
@@ -110242,7 +110988,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "117"
+		"sortid": "121"
 	},
 	{
 		"id": "25367",
@@ -110263,7 +111009,7 @@
 				"name": "Jeph Loeb"
 			},
 			{
-				"id": "397",
+				"id": "403",
 				"name": "Ian Churchill"
 			}
 		],
@@ -110271,7 +111017,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "117"
+		"sortid": "121"
 	},
 	{
 		"id": "25368",
@@ -110292,7 +111038,7 @@
 				"name": "Jeph Loeb"
 			},
 			{
-				"id": "397",
+				"id": "403",
 				"name": "Ian Churchill"
 			}
 		],
@@ -110300,7 +111046,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "117"
+		"sortid": "121"
 	},
 	{
 		"id": "25369",
@@ -110321,7 +111067,7 @@
 				"name": "Jeph Loeb"
 			},
 			{
-				"id": "397",
+				"id": "403",
 				"name": "Ian Churchill"
 			}
 		],
@@ -110329,7 +111075,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "117"
+		"sortid": "121"
 	},
 	{
 		"id": "25370",
@@ -110350,7 +111096,7 @@
 				"name": "Jeph Loeb"
 			},
 			{
-				"id": "398",
+				"id": "404",
 				"name": "Whilce Portacio"
 			}
 		],
@@ -110358,7 +111104,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "117"
+		"sortid": "121"
 	},
 	{
 		"id": "27545",
@@ -110387,7 +111133,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "118"
+		"sortid": "122"
 	},
 	{
 		"id": "27546",
@@ -110416,7 +111162,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "118"
+		"sortid": "122"
 	},
 	{
 		"id": "27547",
@@ -110445,7 +111191,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "118"
+		"sortid": "122"
 	},
 	{
 		"id": "26038",
@@ -110523,7 +111269,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "119"
+		"sortid": "123"
 	},
 	{
 		"id": "26039",
@@ -110601,7 +111347,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "119"
+		"sortid": "123"
 	},
 	{
 		"id": "26195",
@@ -110679,7 +111425,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "120"
+		"sortid": "124"
 	},
 	{
 		"id": "26196",
@@ -110757,7 +111503,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "120"
+		"sortid": "124"
 	},
 	{
 		"id": "26197",
@@ -110835,7 +111581,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "120"
+		"sortid": "124"
 	},
 	{
 		"id": "26198",
@@ -110913,7 +111659,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "120"
+		"sortid": "124"
 	},
 	{
 		"id": "26199",
@@ -110991,7 +111737,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "120"
+		"sortid": "124"
 	},
 	{
 		"id": "30718",
@@ -111072,7 +111818,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "120"
+		"sortid": "124"
 	},
 	{
 		"id": "29717",
@@ -111114,7 +111860,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "121"
+		"sortid": "125"
 	},
 	{
 		"id": "27420",
@@ -111192,7 +111938,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "122"
+		"sortid": "126"
 	},
 	{
 		"id": "26024",
@@ -111262,7 +112008,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "123"
+		"sortid": "127"
 	},
 	{
 		"id": "29288",
@@ -111311,7 +112057,7 @@
 				"name": "Dan Slott"
 			},
 			{
-				"id": "399",
+				"id": "405",
 				"name": "Neil Edwards"
 			}
 		],
@@ -111320,7 +112066,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "124"
+		"sortid": "128"
 	},
 	{
 		"id": "24137",
@@ -111345,7 +112091,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "400",
+				"id": "406",
 				"name": "Ryan Stegman"
 			}
 		],
@@ -111353,7 +112099,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "125"
+		"sortid": "129"
 	},
 	{
 		"id": "25429",
@@ -111378,7 +112124,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "400",
+				"id": "406",
 				"name": "Ryan Stegman"
 			}
 		],
@@ -111386,7 +112132,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "125"
+		"sortid": "129"
 	},
 	{
 		"id": "25430",
@@ -111411,7 +112157,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "400",
+				"id": "406",
 				"name": "Ryan Stegman"
 			}
 		],
@@ -111419,7 +112165,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "125"
+		"sortid": "129"
 	},
 	{
 		"id": "25431",
@@ -111452,7 +112198,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "126"
+		"sortid": "130"
 	},
 	{
 		"id": "25433",
@@ -111485,7 +112231,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "126"
+		"sortid": "130"
 	},
 	{
 		"id": "25434",
@@ -111518,7 +112264,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "126"
+		"sortid": "130"
 	},
 	{
 		"id": "25435",
@@ -111551,7 +112297,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "126"
+		"sortid": "130"
 	},
 	{
 		"id": "25436",
@@ -111584,7 +112330,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "126"
+		"sortid": "130"
 	},
 	{
 		"id": "25437",
@@ -111617,7 +112363,40 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "126"
+		"sortid": "130"
+	},
+	{
+		"id": "29277",
+		"collection": "Assault on New Olympus",
+		"title": "Assault on New Olympus",
+		"vol": 1,
+		"num": 1,
+		"date": "2009-11-04",
+		"characters": [
+			{
+				"id": "121",
+				"name": "Hercules"
+			},
+			{
+				"id": "103",
+				"name": "Amadeus Cho"
+			}
+		],
+		"creators": [
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "323",
+				"name": "Rodney Buchemi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/56dddf0d976f0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "131"
 	},
 	{
 		"id": "25438",
@@ -111650,7 +112429,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "127"
+		"sortid": "131"
 	},
 	{
 		"id": "25439",
@@ -111683,7 +112462,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "127"
+		"sortid": "131"
 	},
 	{
 		"id": "25440",
@@ -111716,7 +112495,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "127"
+		"sortid": "131"
 	},
 	{
 		"id": "28315",
@@ -111752,7 +112531,73 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "127"
+		"sortid": "131"
+	},
+	{
+		"id": "30722",
+		"collection": "Hercules Fall of an Avenger",
+		"title": "Assault on New Olympus",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-03-17",
+		"characters": [
+			{
+				"id": "121",
+				"name": "Hercules"
+			},
+			{
+				"id": "103",
+				"name": "Amadeus Cho"
+			}
+		],
+		"creators": [
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "176",
+				"name": "Ariel Olivetti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bacd7d10519b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "131"
+	},
+	{
+		"id": "30723",
+		"collection": "Hercules Fall of an Avenger",
+		"title": "Assault on New Olympus",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-04-21",
+		"characters": [
+			{
+				"id": "121",
+				"name": "Hercules"
+			},
+			{
+				"id": "103",
+				"name": "Amadeus Cho"
+			}
+		],
+		"creators": [
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "176",
+				"name": "Ariel Olivetti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bac28205669a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "131"
 	},
 	{
 		"id": "27418",
@@ -111794,7 +112639,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "128"
+		"sortid": "132"
 	},
 	{
 		"id": "24924",
@@ -111823,7 +112668,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "129"
+		"sortid": "133"
 	},
 	{
 		"id": "27423",
@@ -111852,7 +112697,7 @@
 				"name": "Jason Aaron"
 			},
 			{
-				"id": "401",
+				"id": "407",
 				"name": "Esad Ribic"
 			}
 		],
@@ -111860,7 +112705,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "130"
+		"sortid": "134"
 	},
 	{
 		"id": "24809",
@@ -111914,7 +112759,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "131"
+		"sortid": "135"
 	},
 	{
 		"id": "24147",
@@ -111979,7 +112824,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "132"
+		"sortid": "136"
 	},
 	{
 		"id": "26755",
@@ -112044,7 +112889,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "132"
+		"sortid": "136"
 	},
 	{
 		"id": "26756",
@@ -112109,7 +112954,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "132"
+		"sortid": "136"
 	},
 	{
 		"id": "26289",
@@ -112166,7 +113011,7 @@
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "402",
+				"id": "408",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -112175,7 +113020,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "133"
+		"sortid": "137"
 	},
 	{
 		"id": "26757",
@@ -112240,7 +113085,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "134"
+		"sortid": "138"
 	},
 	{
 		"id": "26290",
@@ -112297,7 +113142,7 @@
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "402",
+				"id": "408",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -112306,7 +113151,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "135"
+		"sortid": "139"
 	},
 	{
 		"id": "26758",
@@ -112363,7 +113208,7 @@
 				"name": "Andy Diggle"
 			},
 			{
-				"id": "403",
+				"id": "409",
 				"name": "Pop Mahn"
 			}
 		],
@@ -112371,7 +113216,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "136"
+		"sortid": "140"
 	},
 	{
 		"id": "26291",
@@ -112428,7 +113273,7 @@
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "402",
+				"id": "408",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -112437,7 +113282,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "137"
+		"sortid": "141"
 	},
 	{
 		"id": "28054",
@@ -112466,7 +113311,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "138"
+		"sortid": "142"
 	},
 	{
 		"id": "28055",
@@ -112495,7 +113340,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "138"
+		"sortid": "142"
 	},
 	{
 		"id": "28056",
@@ -112524,7 +113369,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "138"
+		"sortid": "142"
 	},
 	{
 		"id": "27422",
@@ -112562,7 +113407,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "139"
+		"sortid": "143"
 	},
 	{
 		"id": "26283",
@@ -112611,7 +113456,7 @@
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "402",
+				"id": "408",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -112620,7 +113465,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "140"
+		"sortid": "144"
 	},
 	{
 		"id": "25533",
@@ -112658,7 +113503,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "141"
+		"sortid": "145"
 	},
 	{
 		"id": "25534",
@@ -112696,7 +113541,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "141"
+		"sortid": "145"
 	},
 	{
 		"id": "25535",
@@ -112738,7 +113583,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "141"
+		"sortid": "145"
 	},
 	{
 		"id": "25536",
@@ -112780,7 +113625,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "141"
+		"sortid": "145"
 	},
 	{
 		"id": "26759",
@@ -112825,7 +113670,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "142"
+		"sortid": "146"
 	},
 	{
 		"id": "27421",
@@ -112865,7 +113710,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "143"
+		"sortid": "147"
 	},
 	{
 		"id": "27417",
@@ -112899,7 +113744,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "144"
+		"sortid": "148"
 	},
 	{
 		"id": "25537",
@@ -112941,7 +113786,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "145"
+		"sortid": "149"
 	},
 	{
 		"id": "25538",
@@ -112983,7 +113828,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "145"
+		"sortid": "149"
 	},
 	{
 		"id": "24814",
@@ -113041,7 +113886,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "146"
+		"sortid": "150"
 	},
 	{
 		"id": "24806",
@@ -113099,7 +113944,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "146"
+		"sortid": "150"
 	},
 	{
 		"id": "24807",
@@ -113157,7 +114002,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "146"
+		"sortid": "150"
 	},
 	{
 		"id": "24808",
@@ -113215,7 +114060,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "146"
+		"sortid": "150"
 	},
 	{
 		"id": "27548",
@@ -113245,7 +114090,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "147"
+		"sortid": "151"
 	},
 	{
 		"id": "26760",
@@ -113282,7 +114127,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "148"
+		"sortid": "152"
 	},
 	{
 		"id": "26761",
@@ -113319,7 +114164,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "148"
+		"sortid": "152"
 	},
 	{
 		"id": "26762",
@@ -113356,7 +114201,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "148"
+		"sortid": "152"
 	},
 	{
 		"id": "25540",
@@ -113406,7 +114251,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "149"
+		"sortid": "153"
 	},
 	{
 		"id": "28333",
@@ -113456,7 +114301,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "149"
+		"sortid": "153"
 	},
 	{
 		"id": "28334",
@@ -113506,7 +114351,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "149"
+		"sortid": "153"
 	},
 	{
 		"id": "28335",
@@ -113556,7 +114401,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "149"
+		"sortid": "153"
 	},
 	{
 		"id": "30442",
@@ -113609,7 +114454,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "149"
+		"sortid": "153"
 	},
 	{
 		"id": "37957",
@@ -113651,7 +114496,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "150"
+		"sortid": "154"
 	},
 	{
 		"id": "26691",
@@ -113689,7 +114534,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "151"
+		"sortid": "155"
 	},
 	{
 		"id": "26692",
@@ -113727,7 +114572,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "151"
+		"sortid": "155"
 	},
 	{
 		"id": "26693",
@@ -113768,7 +114613,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "151"
+		"sortid": "155"
 	},
 	{
 		"id": "22390",
@@ -113789,7 +114634,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "404",
+				"id": "410",
 				"name": "Gabriel Hardman"
 			}
 		],
@@ -113797,7 +114642,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "152"
+		"sortid": "156"
 	},
 	{
 		"id": "21281",
@@ -113818,7 +114663,7 @@
 				"name": "Roger Stern"
 			},
 			{
-				"id": "405",
+				"id": "411",
 				"name": "Zach Howard"
 			}
 		],
@@ -113826,7 +114671,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "152"
+		"sortid": "156"
 	},
 	{
 		"id": "21213",
@@ -113847,7 +114692,7 @@
 				"name": "Marc Guggenheim"
 			},
 			{
-				"id": "406",
+				"id": "412",
 				"name": "Francis Tsai"
 			}
 		],
@@ -113855,7 +114700,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "152"
+		"sortid": "156"
 	},
 	{
 		"id": "29293",
@@ -113889,7 +114734,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "153"
+		"sortid": "157"
 	},
 	{
 		"id": "28859",
@@ -113924,7 +114769,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "153"
+		"sortid": "157"
 	},
 	{
 		"id": "25371",
@@ -113959,7 +114804,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "154"
+		"sortid": "158"
 	},
 	{
 		"id": "29889",
@@ -113986,7 +114831,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "407",
+				"id": "413",
 				"name": "Carlos Rodriguez"
 			}
 		],
@@ -113994,7 +114839,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "155"
+		"sortid": "159"
 	},
 	{
 		"id": "27651",
@@ -114033,7 +114878,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "156"
+		"sortid": "160"
 	},
 	{
 		"id": "25372",
@@ -114068,7 +114913,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "156"
+		"sortid": "160"
 	},
 	{
 		"id": "27652",
@@ -114107,7 +114952,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "156"
+		"sortid": "160"
 	},
 	{
 		"id": "31500",
@@ -114134,7 +114979,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "407",
+				"id": "413",
 				"name": "Carlos Rodriguez"
 			}
 		],
@@ -114142,7 +114987,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "157"
+		"sortid": "161"
 	},
 	{
 		"id": "29807",
@@ -114177,7 +115022,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "158"
+		"sortid": "162"
 	},
 	{
 		"id": "29891",
@@ -114204,7 +115049,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "407",
+				"id": "413",
 				"name": "Carlos Rodriguez"
 			}
 		],
@@ -114212,7 +115057,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "159"
+		"sortid": "163"
 	},
 	{
 		"id": "30416",
@@ -114247,7 +115092,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "160"
+		"sortid": "164"
 	},
 	{
 		"id": "27653",
@@ -114286,7 +115131,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "160"
+		"sortid": "164"
 	},
 	{
 		"id": "29808",
@@ -114321,7 +115166,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "161"
+		"sortid": "165"
 	},
 	{
 		"id": "29809",
@@ -114356,7 +115201,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "161"
+		"sortid": "165"
 	},
 	{
 		"id": "29892",
@@ -114383,7 +115228,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "407",
+				"id": "413",
 				"name": "Carlos Rodriguez"
 			}
 		],
@@ -114391,7 +115236,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "162"
+		"sortid": "166"
 	},
 	{
 		"id": "32531",
@@ -114410,7 +115255,7 @@
 		],
 		"creators": [
 			{
-				"id": "400",
+				"id": "406",
 				"name": "Ryan Stegman"
 			},
 			{
@@ -114418,7 +115263,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "408",
+				"id": "414",
 				"name": "Scott Reed"
 			},
 			{
@@ -114426,7 +115271,7 @@
 				"name": "Paul Tobin"
 			},
 			{
-				"id": "409",
+				"id": "415",
 				"name": "Harrison Wilcox"
 			}
 		],
@@ -114434,7 +115279,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "163"
+		"sortid": "167"
 	},
 	{
 		"id": "32762",
@@ -114465,7 +115310,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "164"
+		"sortid": "168"
 	},
 	{
 		"id": "32763",
@@ -114496,7 +115341,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "164"
+		"sortid": "168"
 	},
 	{
 		"id": "30417",
@@ -114531,7 +115376,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "165"
+		"sortid": "169"
 	},
 	{
 		"id": "31074",
@@ -114566,7 +115411,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "165"
+		"sortid": "169"
 	},
 	{
 		"id": "33580",
@@ -114601,7 +115446,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "166"
+		"sortid": "170"
 	},
 	{
 		"id": "33581",
@@ -114636,7 +115481,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "166"
+		"sortid": "170"
 	},
 	{
 		"id": "33582",
@@ -114663,7 +115508,7 @@
 				"name": "Paul Tobin"
 			},
 			{
-				"id": "410",
+				"id": "416",
 				"name": "Jacopo Camagni"
 			}
 		],
@@ -114671,7 +115516,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "167"
+		"sortid": "171"
 	},
 	{
 		"id": "33583",
@@ -114698,7 +115543,7 @@
 				"name": "Paul Tobin"
 			},
 			{
-				"id": "410",
+				"id": "416",
 				"name": "Jacopo Camagni"
 			}
 		],
@@ -114706,7 +115551,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "167"
+		"sortid": "171"
 	},
 	{
 		"id": "30418",
@@ -114741,7 +115586,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "168"
+		"sortid": "172"
 	},
 	{
 		"id": "31076",
@@ -114776,7 +115621,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "168"
+		"sortid": "172"
 	},
 	{
 		"id": "31077",
@@ -114811,7 +115656,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "168"
+		"sortid": "172"
 	},
 	{
 		"id": "30419",
@@ -114846,7 +115691,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "168"
+		"sortid": "172"
 	},
 	{
 		"id": "24407",
@@ -114880,7 +115725,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "169"
+		"sortid": "173"
 	},
 	{
 		"id": "24408",
@@ -114901,7 +115746,7 @@
 				"name": "Mark Waid"
 			},
 			{
-				"id": "411",
+				"id": "417",
 				"name": "Mario Alberti"
 			}
 		],
@@ -114910,7 +115755,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "170"
+		"sortid": "174"
 	},
 	{
 		"id": "24409",
@@ -114940,7 +115785,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "170"
+		"sortid": "174"
 	},
 	{
 		"id": "24410",
@@ -114961,7 +115806,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "412",
+				"id": "418",
 				"name": "Robert Atkins"
 			}
 		],
@@ -114970,7 +115815,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "170"
+		"sortid": "174"
 	},
 	{
 		"id": "24411",
@@ -115000,7 +115845,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "170"
+		"sortid": "174"
 	},
 	{
 		"id": "24412",
@@ -115030,7 +115875,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "170"
+		"sortid": "174"
 	},
 	{
 		"id": "24413",
@@ -115064,7 +115909,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "171"
+		"sortid": "175"
 	},
 	{
 		"id": "24414",
@@ -115098,7 +115943,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "171"
+		"sortid": "175"
 	},
 	{
 		"id": "28450",
@@ -115136,7 +115981,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "171"
+		"sortid": "175"
 	},
 	{
 		"id": "24415",
@@ -115174,7 +116019,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "171"
+		"sortid": "175"
 	},
 	{
 		"id": "24416",
@@ -115212,7 +116057,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "171"
+		"sortid": "175"
 	},
 	{
 		"id": "24417",
@@ -115250,7 +116095,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "171"
+		"sortid": "175"
 	},
 	{
 		"id": "24416",
@@ -115271,7 +116116,7 @@
 				"name": "Joe Kelly"
 			},
 			{
-				"id": "413",
+				"id": "419",
 				"name": "Eric Canete"
 			}
 		],
@@ -115280,7 +116125,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "172"
+		"sortid": "176"
 	},
 	{
 		"id": "24418",
@@ -115310,7 +116155,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "172"
+		"sortid": "176"
 	},
 	{
 		"id": "24419",
@@ -115340,7 +116185,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "172"
+		"sortid": "176"
 	},
 	{
 		"id": "24421",
@@ -115370,7 +116215,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "172"
+		"sortid": "176"
 	},
 	{
 		"id": "28451",
@@ -115400,7 +116245,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "172"
+		"sortid": "176"
 	},
 	{
 		"id": "24422",
@@ -115430,7 +116275,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "173"
+		"sortid": "177"
 	},
 	{
 		"id": "24423",
@@ -115460,7 +116305,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "173"
+		"sortid": "177"
 	},
 	{
 		"id": "24424",
@@ -115481,7 +116326,7 @@
 				"name": "Joe Kelly"
 			},
 			{
-				"id": "414",
+				"id": "420",
 				"name": "Max Fiumara"
 			}
 		],
@@ -115490,7 +116335,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "173"
+		"sortid": "177"
 	},
 	{
 		"id": "28452",
@@ -115520,7 +116365,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "173"
+		"sortid": "177"
 	},
 	{
 		"id": "24425",
@@ -115550,7 +116395,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "174"
+		"sortid": "178"
 	},
 	{
 		"id": "28224",
@@ -115580,7 +116425,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "174"
+		"sortid": "178"
 	},
 	{
 		"id": "28225",
@@ -115610,7 +116455,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "174"
+		"sortid": "178"
 	},
 	{
 		"id": "28453",
@@ -115640,7 +116485,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "174"
+		"sortid": "178"
 	},
 	{
 		"id": "28226",
@@ -115670,7 +116515,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "175"
+		"sortid": "179"
 	},
 	{
 		"id": "28227",
@@ -115691,7 +116536,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "415",
+				"id": "421",
 				"name": "Joe Quinones"
 			}
 		],
@@ -115700,7 +116545,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "175"
+		"sortid": "179"
 	},
 	{
 		"id": "30298",
@@ -115730,7 +116575,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "175"
+		"sortid": "179"
 	},
 	{
 		"id": "30299",
@@ -115760,7 +116605,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "175"
+		"sortid": "179"
 	},
 	{
 		"id": "30640",
@@ -115790,7 +116635,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "175"
+		"sortid": "179"
 	},
 	{
 		"id": "30300",
@@ -115811,7 +116656,7 @@
 				"name": "Joe Kelly"
 			},
 			{
-				"id": "414",
+				"id": "420",
 				"name": "Max Fiumara"
 			}
 		],
@@ -115820,7 +116665,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "176"
+		"sortid": "180"
 	},
 	{
 		"id": "30301",
@@ -115850,7 +116695,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "176"
+		"sortid": "180"
 	},
 	{
 		"id": "30302",
@@ -115880,7 +116725,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "176"
+		"sortid": "180"
 	},
 	{
 		"id": "30303",
@@ -115910,7 +116755,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "176"
+		"sortid": "180"
 	},
 	{
 		"id": "30304",
@@ -115940,7 +116785,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "176"
+		"sortid": "180"
 	},
 	{
 		"id": "28718",
@@ -115969,7 +116814,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "177"
+		"sortid": "181"
 	},
 	{
 		"id": "28719",
@@ -115998,7 +116843,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "177"
+		"sortid": "181"
 	},
 	{
 		"id": "28720",
@@ -116027,7 +116872,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "177"
+		"sortid": "181"
 	},
 	{
 		"id": "28721",
@@ -116056,7 +116901,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "177"
+		"sortid": "181"
 	},
 	{
 		"id": "28722",
@@ -116085,7 +116930,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "177"
+		"sortid": "181"
 	},
 	{
 		"id": "26784",
@@ -116114,7 +116959,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "177"
+		"sortid": "181"
 	},
 	{
 		"id": "23923",
@@ -116164,7 +117009,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "178"
+		"sortid": "182"
 	},
 	{
 		"id": "24132",
@@ -116214,7 +117059,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "178"
+		"sortid": "182"
 	},
 	{
 		"id": "25180",
@@ -116264,7 +117109,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "178"
+		"sortid": "182"
 	},
 	{
 		"id": "25181",
@@ -116314,7 +117159,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "178"
+		"sortid": "182"
 	},
 	{
 		"id": "23100",
@@ -116363,7 +117208,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "183"
 	},
 	{
 		"id": "23597",
@@ -116416,7 +117261,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "183"
 	},
 	{
 		"id": "23758",
@@ -116469,7 +117314,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "183"
 	},
 	{
 		"id": "23956",
@@ -116522,7 +117367,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "183"
 	},
 	{
 		"id": "24156",
@@ -116575,7 +117420,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "183"
 	},
 	{
 		"id": "27240",
@@ -116628,7 +117473,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "183"
 	},
 	{
 		"id": "27241",
@@ -116681,7 +117526,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "183"
 	},
 	{
 		"id": "27242",
@@ -116734,7 +117579,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "180"
+		"sortid": "184"
 	},
 	{
 		"id": "27243",
@@ -116787,7 +117632,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "180"
+		"sortid": "184"
 	},
 	{
 		"id": "27244",
@@ -116840,7 +117685,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "180"
+		"sortid": "184"
 	},
 	{
 		"id": "27245",
@@ -116893,7 +117738,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "180"
+		"sortid": "184"
 	},
 	{
 		"id": "27246",
@@ -116946,181 +117791,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "180"
-	},
-	{
-		"id": "24947",
-		"collection": "Deadpool",
-		"title": "X Marks the Spot",
-		"vol": 2,
-		"num": 13,
-		"date": "2009-08-12",
-		"characters": [
-			{
-				"id": "087",
-				"name": "Deadpool"
-			}
-		],
-		"creators": [
-			{
-				"id": "111",
-				"name": "Daniel Way"
-			},
-			{
-				"id": "416",
-				"name": "Shawn Crystal"
-			}
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/51a4f6fb38a0d.jpg",
-		"universe": "Earth-616",
-		"phaseid": "009",
-		"phasename": "Dark Reign",
-		"sortid": "181"
-	},
-	{
-		"id": "24948",
-		"collection": "Deadpool",
-		"title": "X Marks the Spot",
-		"vol": 2,
-		"num": 14,
-		"date": "2009-08-26",
-		"characters": [
-			{
-				"id": "087",
-				"name": "Deadpool"
-			}
-		],
-		"creators": [
-			{
-				"id": "111",
-				"name": "Daniel Way"
-			},
-			{
-				"id": "416",
-				"name": "Shawn Crystal"
-			}
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/51a4f6e70d8ba.jpg",
-		"universe": "Earth-616",
-		"phaseid": "009",
-		"phasename": "Dark Reign",
-		"sortid": "181"
-	},
-	{
-		"id": "24949",
-		"collection": "Deadpool",
-		"title": "X Marks the Spot",
-		"vol": 2,
-		"num": 15,
-		"date": "2009-09-02",
-		"characters": [
-			{
-				"id": "087",
-				"name": "Deadpool"
-			}
-		],
-		"creators": [
-			{
-				"id": "111",
-				"name": "Daniel Way"
-			},
-			{
-				"id": "042",
-				"name": "Paco Medina"
-			}
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/51a4f6e086ead.jpg",
-		"universe": "Earth-616",
-		"phaseid": "009",
-		"phasename": "Dark Reign",
-		"sortid": "181"
-	},
-	{
-		"id": "24950",
-		"collection": "Deadpool",
-		"title": "X Marks the Spot",
-		"vol": 2,
-		"num": 16,
-		"date": "2009-10-07",
-		"characters": [
-			{
-				"id": "087",
-				"name": "Deadpool"
-			}
-		],
-		"creators": [
-			{
-				"id": "111",
-				"name": "Daniel Way"
-			},
-			{
-				"id": "042",
-				"name": "Paco Medina"
-			}
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/51a4fb8cf1c6b.jpg",
-		"universe": "Earth-616",
-		"phaseid": "009",
-		"phasename": "Dark Reign",
-		"sortid": "181"
-	},
-	{
-		"id": "24951",
-		"collection": "Deadpool",
-		"title": "X Marks the Spot",
-		"vol": 2,
-		"num": 17,
-		"date": "2009-11-11",
-		"characters": [
-			{
-				"id": "087",
-				"name": "Deadpool"
-			}
-		],
-		"creators": [
-			{
-				"id": "111",
-				"name": "Daniel Way"
-			},
-			{
-				"id": "042",
-				"name": "Paco Medina"
-			}
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/51a4fb7da0882.jpg",
-		"universe": "Earth-616",
-		"phaseid": "009",
-		"phasename": "Dark Reign",
-		"sortid": "181"
-	},
-	{
-		"id": "24952",
-		"collection": "Deadpool",
-		"title": "X Marks the Spot",
-		"vol": 2,
-		"num": 18,
-		"date": "2009-12-09",
-		"characters": [
-			{
-				"id": "087",
-				"name": "Deadpool"
-			}
-		],
-		"creators": [
-			{
-				"id": "111",
-				"name": "Daniel Way"
-			},
-			{
-				"id": "042",
-				"name": "Paco Medina"
-			}
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/d0/51a4fb7ecbccb.jpg",
-		"universe": "Earth-616",
-		"phaseid": "009",
-		"phasename": "Dark Reign",
-		"sortid": "181"
+		"sortid": "184"
 	},
 	{
 		"id": "29049",
@@ -117149,7 +117820,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "182"
+		"sortid": "185"
 	},
 	{
 		"id": "29050",
@@ -117178,7 +117849,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "182"
+		"sortid": "185"
 	},
 	{
 		"id": "29051",
@@ -117207,7 +117878,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "182"
+		"sortid": "185"
 	},
 	{
 		"id": "32543",
@@ -117236,7 +117907,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "182"
+		"sortid": "185"
 	},
 	{
 		"id": "28078",
@@ -117315,7 +117986,7 @@
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "417",
+				"id": "422",
 				"name": "Lucio Parrillo"
 			}
 		],
@@ -117367,7 +118038,7 @@
 		],
 		"creators": [
 			{
-				"id": "418",
+				"id": "423",
 				"name": "John Thomas"
 			}
 		],
@@ -118497,7 +119168,7 @@
 				"name": "Christos Gage"
 			},
 			{
-				"id": "419",
+				"id": "424",
 				"name": "Federico Dallocchio"
 			}
 		],
@@ -118563,7 +119234,7 @@
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "420",
+				"id": "425",
 				"name": "Jamie McKelvie"
 			}
 		],
@@ -118649,7 +119320,7 @@
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "402",
+				"id": "408",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -118816,7 +119487,7 @@
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "421",
+				"id": "426",
 				"name": "Niko Henrichon"
 			}
 		],
@@ -120444,7 +121115,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "422",
+				"id": "427",
 				"name": "Pepe Larraz"
 			}
 		],
@@ -120473,7 +121144,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "422",
+				"id": "427",
 				"name": "Pepe Larraz"
 			}
 		],
@@ -120502,7 +121173,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "414",
+				"id": "420",
 				"name": "Max Fiumara"
 			}
 		],
