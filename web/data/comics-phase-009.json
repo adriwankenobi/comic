@@ -21910,5 +21910,257 @@
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "185"
+	},
+	{
+		"id": "26284",
+		"collection": "Secret Warriors",
+		"title": "Wake the Beast",
+		"vol": 1,
+		"num": 11,
+		"date": "2009-12-23",
+		"characters": [
+			{
+				"id": "156",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "091",
+				"name": "Quake"
+			},
+			{
+				"id": "122",
+				"name": "Phobos"
+			}
+		],
+		"creators": [
+			{
+				"id": "347",
+				"name": "Jonathan Hickman"
+			},
+			{
+				"id": "203",
+				"name": "Stefano Caselli"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/51f68aa198b78.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "186"
+	},
+	{
+		"id": "26285",
+		"collection": "Secret Warriors",
+		"title": "Wake the Beast",
+		"vol": 1,
+		"num": 12,
+		"date": "2010-01-27",
+		"characters": [
+			{
+				"id": "156",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "091",
+				"name": "Quake"
+			},
+			{
+				"id": "122",
+				"name": "Phobos"
+			}
+		],
+		"creators": [
+			{
+				"id": "347",
+				"name": "Jonathan Hickman"
+			},
+			{
+				"id": "203",
+				"name": "Stefano Caselli"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/4f678969265a9.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "186"
+	},
+	{
+		"id": "30174",
+		"collection": "Secret Warriors",
+		"title": "Wake the Beast",
+		"vol": 1,
+		"num": 13,
+		"date": "2010-02-24",
+		"characters": [
+			{
+				"id": "156",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "091",
+				"name": "Quake"
+			},
+			{
+				"id": "122",
+				"name": "Phobos"
+			}
+		],
+		"creators": [
+			{
+				"id": "347",
+				"name": "Jonathan Hickman"
+			},
+			{
+				"id": "203",
+				"name": "Stefano Caselli"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4f678d0a97751.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "186"
+	},
+	{
+		"id": "30175",
+		"collection": "Secret Warriors",
+		"title": "Wake the Beast",
+		"vol": 1,
+		"num": 14,
+		"date": "2010-03-24",
+		"characters": [
+			{
+				"id": "156",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "091",
+				"name": "Quake"
+			},
+			{
+				"id": "122",
+				"name": "Phobos"
+			}
+		],
+		"creators": [
+			{
+				"id": "347",
+				"name": "Jonathan Hickman"
+			},
+			{
+				"id": "203",
+				"name": "Stefano Caselli"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/04/4f678defa37bf.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "186"
+	},
+	{
+		"id": "32559",
+		"collection": "Secret Warriors",
+		"title": "Wake the Beast",
+		"vol": 1,
+		"num": 15,
+		"date": "2010-04-28",
+		"characters": [
+			{
+				"id": "156",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "091",
+				"name": "Quake"
+			},
+			{
+				"id": "122",
+				"name": "Phobos"
+			}
+		],
+		"creators": [
+			{
+				"id": "347",
+				"name": "Jonathan Hickman"
+			},
+			{
+				"id": "203",
+				"name": "Stefano Caselli"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/4f6792223f9d3.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "186"
+	},
+	{
+		"id": "30177",
+		"collection": "Secret Warriors",
+		"title": "Wake the Beast",
+		"vol": 1,
+		"num": 16,
+		"date": "2010-05-26",
+		"characters": [
+			{
+				"id": "156",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "091",
+				"name": "Quake"
+			},
+			{
+				"id": "122",
+				"name": "Phobos"
+			}
+		],
+		"creators": [
+			{
+				"id": "347",
+				"name": "Jonathan Hickman"
+			},
+			{
+				"id": "354",
+				"name": "Gianluca Gugliotta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4f6793c00247f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "186"
 	}
 ]

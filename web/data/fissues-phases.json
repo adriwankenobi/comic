@@ -27010,6 +27010,52 @@
 						"num": 22
 					}
 				]
+			},
+			{
+				"title": "Wake the Beast",
+				"date": "2009-12-23",
+				"characters": [
+					{
+						"id": "156",
+						"name": "Secret Warriors"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/51f68aa198b78.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "186",
+				"comiclist": [
+					{
+						"collection": "Secret Warriors",
+						"vol": 1,
+						"num": 11
+					},
+					{
+						"collection": "Secret Warriors",
+						"vol": 1,
+						"num": 12
+					},
+					{
+						"collection": "Secret Warriors",
+						"vol": 1,
+						"num": 13
+					},
+					{
+						"collection": "Secret Warriors",
+						"vol": 1,
+						"num": 14
+					},
+					{
+						"collection": "Secret Warriors",
+						"vol": 1,
+						"num": 15
+					},
+					{
+						"collection": "Secret Warriors",
+						"vol": 1,
+						"num": 16
+					}
+				]
 			}
 		]
 	},
