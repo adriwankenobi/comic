@@ -24524,6 +24524,359 @@
 				]
 			},
 			{
+				"title": "Powerloss",
+				"date": "2009-05-01",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://vignette1.wikia.nocookie.net/marveldatabase/images/3/35/Free_Comic_Book_Day_Vol_2009_Avengers.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "099",
+				"comiclist": [
+					{
+						"collection": "Free Comic Book Day Avengers",
+						"vol": 1,
+						"num": 2009
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 1,
+						"num": 55
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 1,
+						"num": 56
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 1,
+						"num": 57
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 1,
+						"num": 58
+					}
+				]
+			},
+			{
+				"title": "Might Dark",
+				"date": "2009-12-16",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4f7c9504222ba.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "100",
+				"comiclist": [
+					{
+						"collection": "Mighty Avengers",
+						"vol": 1,
+						"num": 32
+					},
+					{
+						"collection": "Mighty Avengers",
+						"vol": 1,
+						"num": 33
+					}
+				]
+			},
+			{
+				"title": "White Queen Dark Reign",
+				"date": "2009-01-21",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4e56ab6833476.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "101",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Men Annual",
+						"vol": 2,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Utopia",
+				"date": "2009-07-08",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/30/4bb4bdd2eecf7.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "102",
+				"comiclist": [
+					{
+						"collection": "Dark X-Men The Beginning",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Dark X-Men The Beginning",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Dark X-Men The Beginning",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Utopia II",
+				"date": "2009-07-08",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/51a4e0bcaa087.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "103",
+				"comiclist": [
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 226
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 227
+					}
+				]
+			},
+			{
+				"title": "Utopia III",
+				"date": "2009-06-24",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4badd16ddbfc2.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "104",
+				"comiclist": [
+					{
+						"collection": "Dark Avengers / Uncanny X-Men Utopia",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Utopia IV",
+				"date": "2009-07-01",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/513f4edac168e.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "105",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 513
+					}
+				]
+			},
+			{
+				"title": "Utopia V",
+				"date": "2009-07-15",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/514c9f5f097d9.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "106",
+				"comiclist": [
+					{
+						"collection": "Dark Avengers",
+						"vol": 1,
+						"num": 7
+					}
+				]
+			},
+			{
+				"title": "Utopia VI",
+				"date": "2009-08-12",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/513f4ecb75399.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "107",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 514
+					}
+				]
+			},
+			{
+				"title": "Utopia VII",
+				"date": "2009-08-26",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/00/514ca06314a11.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "108",
+				"comiclist": [
+					{
+						"collection": "Dark Avengers",
+						"vol": 1,
+						"num": 8
+					}
+				]
+			},
+			{
+				"title": "Utopia VIII",
+				"date": "2009-09-10",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bb3e3d7b125c.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "109",
+				"comiclist": [
+					{
+						"collection": "Dark Avengers / Uncanny X-Men Exodus",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Utopia IX",
+				"date": "2009-09-23",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb3c82d5fe45.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "110",
+				"comiclist": [
+					{
+						"collection": "Dark X-Men The Confession",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "The List X-Men",
+				"date": "2009-09-23",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4bb3c7b986fea.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "111",
+				"comiclist": [
+					{
+						"collection": "Dark Reign The List X-Men",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Journey to the Center of the Goblin",
+				"date": "2009-11-11",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bae63eec6974.jpg",
+				"phaseid": "009",
+				"sortid": "112",
+				"comiclist": [
+					{
+						"collection": "Dark X-Men",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Dark X-Men",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Dark X-Men",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Dark X-Men",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Dark X-Men",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
 				"title": "X Marks the Spot",
 				"date": "2009-08-12",
 				"characters": [
@@ -24534,7 +24887,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/51a4f6fb38a0d.jpg",
 				"phaseid": "009",
-				"sortid": "099",
+				"sortid": "113",
 				"comiclist": [
 					{
 						"collection": "Deadpool",
@@ -24579,7 +24932,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4bae998779dc1.jpg",
 				"phaseid": "009",
-				"sortid": "100",
+				"sortid": "114",
 				"comiclist": [
 					{
 						"collection": "Deadpool Team-Up",
@@ -24610,359 +24963,6 @@
 						"collection": "Deadpool Team-Up",
 						"vol": 1,
 						"num": 895
-					}
-				]
-			},
-			{
-				"title": "Powerloss",
-				"date": "2009-05-01",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://vignette1.wikia.nocookie.net/marveldatabase/images/3/35/Free_Comic_Book_Day_Vol_2009_Avengers.jpg",
-				"essential": true,
-				"phaseid": "009",
-				"sortid": "101",
-				"comiclist": [
-					{
-						"collection": "Free Comic Book Day Avengers",
-						"vol": 1,
-						"num": 2009
-					},
-					{
-						"collection": "New Avengers",
-						"vol": 1,
-						"num": 55
-					},
-					{
-						"collection": "New Avengers",
-						"vol": 1,
-						"num": 56
-					},
-					{
-						"collection": "New Avengers",
-						"vol": 1,
-						"num": 57
-					},
-					{
-						"collection": "New Avengers",
-						"vol": 1,
-						"num": 58
-					}
-				]
-			},
-			{
-				"title": "Might Dark",
-				"date": "2009-12-16",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4f7c9504222ba.jpg",
-				"essential": true,
-				"phaseid": "009",
-				"sortid": "102",
-				"comiclist": [
-					{
-						"collection": "Mighty Avengers",
-						"vol": 1,
-						"num": 32
-					},
-					{
-						"collection": "Mighty Avengers",
-						"vol": 1,
-						"num": 33
-					}
-				]
-			},
-			{
-				"title": "White Queen Dark Reign",
-				"date": "2009-01-21",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4e56ab6833476.jpg",
-				"essential": true,
-				"phaseid": "009",
-				"sortid": "103",
-				"comiclist": [
-					{
-						"collection": "Uncanny X-Men Annual",
-						"vol": 2,
-						"num": 2
-					}
-				]
-			},
-			{
-				"title": "Utopia",
-				"date": "2009-07-08",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/30/4bb4bdd2eecf7.jpg",
-				"essential": true,
-				"phaseid": "009",
-				"sortid": "104",
-				"comiclist": [
-					{
-						"collection": "Dark X-Men The Beginning",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Dark X-Men The Beginning",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Dark X-Men The Beginning",
-						"vol": 1,
-						"num": 3
-					}
-				]
-			},
-			{
-				"title": "Utopia II",
-				"date": "2009-07-08",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/51a4e0bcaa087.jpg",
-				"essential": true,
-				"phaseid": "009",
-				"sortid": "105",
-				"comiclist": [
-					{
-						"collection": "X-Men Legacy",
-						"vol": 1,
-						"num": 226
-					},
-					{
-						"collection": "X-Men Legacy",
-						"vol": 1,
-						"num": 227
-					}
-				]
-			},
-			{
-				"title": "Utopia III",
-				"date": "2009-06-24",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4badd16ddbfc2.jpg",
-				"essential": true,
-				"phaseid": "009",
-				"sortid": "106",
-				"comiclist": [
-					{
-						"collection": "Dark Avengers / Uncanny X-Men Utopia",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "Utopia IV",
-				"date": "2009-07-01",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/513f4edac168e.jpg",
-				"essential": true,
-				"phaseid": "009",
-				"sortid": "107",
-				"comiclist": [
-					{
-						"collection": "Uncanny X-Men",
-						"vol": 1,
-						"num": 513
-					}
-				]
-			},
-			{
-				"title": "Utopia V",
-				"date": "2009-07-15",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/514c9f5f097d9.jpg",
-				"essential": true,
-				"phaseid": "009",
-				"sortid": "108",
-				"comiclist": [
-					{
-						"collection": "Dark Avengers",
-						"vol": 1,
-						"num": 7
-					}
-				]
-			},
-			{
-				"title": "Utopia VI",
-				"date": "2009-08-12",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/513f4ecb75399.jpg",
-				"essential": true,
-				"phaseid": "009",
-				"sortid": "109",
-				"comiclist": [
-					{
-						"collection": "Uncanny X-Men",
-						"vol": 1,
-						"num": 514
-					}
-				]
-			},
-			{
-				"title": "Utopia VII",
-				"date": "2009-08-26",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/00/514ca06314a11.jpg",
-				"essential": true,
-				"phaseid": "009",
-				"sortid": "110",
-				"comiclist": [
-					{
-						"collection": "Dark Avengers",
-						"vol": 1,
-						"num": 8
-					}
-				]
-			},
-			{
-				"title": "Utopia VIII",
-				"date": "2009-09-10",
-				"characters": [
-					{
-						"id": "059",
-						"name": "Avengers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bb3e3d7b125c.jpg",
-				"essential": true,
-				"phaseid": "009",
-				"sortid": "111",
-				"comiclist": [
-					{
-						"collection": "Dark Avengers / Uncanny X-Men Exodus",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "Utopia IX",
-				"date": "2009-09-23",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb3c82d5fe45.jpg",
-				"essential": true,
-				"phaseid": "009",
-				"sortid": "112",
-				"comiclist": [
-					{
-						"collection": "Dark X-Men The Confession",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "The List X-Men",
-				"date": "2009-09-23",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4bb3c7b986fea.jpg",
-				"essential": true,
-				"phaseid": "009",
-				"sortid": "113",
-				"comiclist": [
-					{
-						"collection": "Dark Reign The List X-Men",
-						"vol": 1,
-						"num": 1
-					}
-				]
-			},
-			{
-				"title": "Journey to the Center of the Goblin",
-				"date": "2009-11-11",
-				"characters": [
-					{
-						"id": "028",
-						"name": "X-Men"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bae63eec6974.jpg",
-				"phaseid": "009",
-				"sortid": "114",
-				"comiclist": [
-					{
-						"collection": "Dark X-Men",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Dark X-Men",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Dark X-Men",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Dark X-Men",
-						"vol": 1,
-						"num": 4
-					},
-					{
-						"collection": "Dark X-Men",
-						"vol": 1,
-						"num": 5
 					}
 				]
 			},
@@ -27054,6 +27054,166 @@
 						"collection": "Secret Warriors",
 						"vol": 1,
 						"num": 16
+					}
+				]
+			},
+			{
+				"title": "Terror of the Jade Claw",
+				"date": "2009-08-05",
+				"characters": [
+					{
+						"id": "140",
+						"name": "Agents of Atlas"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/56533d9dd40e3.jpg",
+				"phaseid": "009",
+				"sortid": "187",
+				"comiclist": [
+					{
+						"collection": "Agents of Atlas",
+						"vol": 2,
+						"num": 9
+					},
+					{
+						"collection": "Agents of Atlas",
+						"vol": 2,
+						"num": 10
+					},
+					{
+						"collection": "Agents of Atlas",
+						"vol": 2,
+						"num": 11
+					}
+				]
+			},
+			{
+				"title": "Vs",
+				"date": "2009-10-07",
+				"characters": [
+					{
+						"id": "140",
+						"name": "Agents of Atlas"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4bb3df7c5cfa8.jpg",
+				"phaseid": "009",
+				"sortid": "188",
+				"comiclist": [
+					{
+						"collection": "X-Men vs Agents of Atlas",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "X-Men vs Agents of Atlas",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Avengers vs Agents of Atlas",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Avengers vs Agents of Atlas",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Avengers vs Agents of Atlas",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Avengers vs Agents of Atlas",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Marked by the Gods",
+				"date": "2009-11-04",
+				"characters": [
+					{
+						"id": "140",
+						"name": "Agents of Atlas"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/56dddf0d976f0.jpg",
+				"phaseid": "009",
+				"sortid": "189",
+				"comiclist": [
+					{
+						"collection": "Assault on New Olympus",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 138
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 139
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 140
+					},
+					{
+						"collection": "Incredible Hercules",
+						"vol": 1,
+						"num": 141
+					},
+					{
+						"collection": "Hercules Fall of an Avenger",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Hercules Fall of an Avenger",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Marvel Boy The Uranian",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Marvel Boy The Uranian",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Marvel Boy The Uranian",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Namora",
+						"vol": 2,
+						"num": 1
+					},
+					{
+						"collection": "Gorilla-Man",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Gorilla-Man",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Gorilla-Man",
+						"vol": 1,
+						"num": 3
 					}
 				]
 			}
