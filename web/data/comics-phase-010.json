@@ -76,7 +76,7 @@
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "424",
+				"id": "441",
 				"name": "Lucio Parrillo"
 			}
 		],
@@ -128,7 +128,7 @@
 		],
 		"creators": [
 			{
-				"id": "425",
+				"id": "442",
 				"name": "John Thomas"
 			}
 		],
@@ -1258,7 +1258,7 @@
 				"name": "Christos Gage"
 			},
 			{
-				"id": "426",
+				"id": "443",
 				"name": "Federico Dallocchio"
 			}
 		],
@@ -1324,7 +1324,7 @@
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "427",
+				"id": "444",
 				"name": "Jamie McKelvie"
 			}
 		],
@@ -1410,7 +1410,7 @@
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "408",
+				"id": "414",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -1567,6 +1567,10 @@
 		"eventid": "014",
 		"characters": [
 			{
+				"id": "167",
+				"name": "New Mutants"
+			},
+			{
 				"id": "028",
 				"name": "X-Men"
 			}
@@ -1577,7 +1581,7 @@
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "428",
+				"id": "445",
 				"name": "Niko Henrichon"
 			}
 		],

@@ -653,10 +653,30 @@
 	},
 	{
 		"id": "164",
-		"name": "Ben Reilly"
+		"name": "Omega Red"
 	},
 	{
 		"id": "165",
+		"name": "Ben Reilly"
+	},
+	{
+		"id": "166",
 		"name": "Kaine"
+	},
+	{
+		"id": "167",
+		"name": "New Mutants"
+	},
+	{
+		"id": "168",
+		"name": "Syrin"
+	},
+	{
+		"id": "169",
+		"name": "X-24"
+	},
+	{
+		"id": "170",
+		"name": "X-25"
 	}
 ]

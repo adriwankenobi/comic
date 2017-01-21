@@ -13821,6 +13821,148 @@
 		"sortid": "111"
 	},
 	{
+		"id": "27195",
+		"collection": "Wolverine Origins",
+		"title": "Romulus",
+		"vol": 1,
+		"num": 37,
+		"date": "2009-06-17",
+		"characters": [
+			{
+				"id": "055",
+				"name": "Iron Man"
+			},
+			{
+				"id": "164",
+				"name": "Omega Red"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "396",
+				"name": "Axel Alonso"
+			},
+			{
+				"id": "397",
+				"name": "John Barber"
+			},
+			{
+				"id": "398",
+				"name": "Jody Leheup"
+			},
+			{
+				"id": "004",
+				"name": "Joe Quesada"
+			},
+			{
+				"id": "310",
+				"name": "Doug Braithwaite"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			},
+			{
+				"id": "281",
+				"name": "Chris Eliopoulos"
+			},
+			{
+				"id": "399",
+				"name": "Andrew Hennessy"
+			},
+			{
+				"id": "187",
+				"name": "Cory Petit"
+			},
+			{
+				"id": "400",
+				"name": "Andy Troy"
+			},
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/584598b2bde7d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "112"
+	},
+	{
+		"id": "27196",
+		"collection": "Wolverine Origins",
+		"title": "Romulus",
+		"vol": 1,
+		"num": 38,
+		"characters": [
+			{
+				"id": "162",
+				"name": ""
+			}
+		],
+		"creators": [
+			{
+				"id": "401",
+				"name": ""
+			}
+		],
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "112"
+	},
+	{
+		"id": "27197",
+		"collection": "Wolverine Origins",
+		"title": "Romulus",
+		"vol": 1,
+		"num": 39,
+		"characters": [
+			{
+				"id": "162",
+				"name": ""
+			}
+		],
+		"creators": [
+			{
+				"id": "401",
+				"name": ""
+			}
+		],
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "112"
+	},
+	{
+		"id": "27198",
+		"collection": "Wolverine Origins",
+		"title": "Romulus",
+		"vol": 1,
+		"num": 40,
+		"characters": [
+			{
+				"id": "162",
+				"name": ""
+			}
+		],
+		"creators": [
+			{
+				"id": "401",
+				"name": ""
+			}
+		],
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "112"
+	},
+	{
 		"id": "28687",
 		"collection": "Dark X-Men",
 		"title": "Journey to the Center of the Goblin",
@@ -13855,7 +13997,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "112"
+		"sortid": "113"
 	},
 	{
 		"id": "28688",
@@ -13892,7 +14034,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "112"
+		"sortid": "113"
 	},
 	{
 		"id": "28689",
@@ -13929,7 +14071,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "112"
+		"sortid": "113"
 	},
 	{
 		"id": "28690",
@@ -13966,7 +14108,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "112"
+		"sortid": "113"
 	},
 	{
 		"id": "28691",
@@ -14003,7 +14145,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "112"
+		"sortid": "113"
 	},
 	{
 		"id": "24947",
@@ -14024,7 +14166,7 @@
 				"name": "Daniel Way"
 			},
 			{
-				"id": "396",
+				"id": "402",
 				"name": "Shawn Crystal"
 			}
 		],
@@ -14032,7 +14174,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "113"
+		"sortid": "114"
 	},
 	{
 		"id": "24948",
@@ -14053,7 +14195,7 @@
 				"name": "Daniel Way"
 			},
 			{
-				"id": "396",
+				"id": "402",
 				"name": "Shawn Crystal"
 			}
 		],
@@ -14061,7 +14203,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "113"
+		"sortid": "114"
 	},
 	{
 		"id": "24949",
@@ -14090,7 +14232,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "113"
+		"sortid": "114"
 	},
 	{
 		"id": "24950",
@@ -14119,7 +14261,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "113"
+		"sortid": "114"
 	},
 	{
 		"id": "24951",
@@ -14148,7 +14290,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "113"
+		"sortid": "114"
 	},
 	{
 		"id": "24952",
@@ -14177,7 +14319,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "113"
+		"sortid": "114"
 	},
 	{
 		"id": "29627",
@@ -14198,7 +14340,7 @@
 				"name": "Jason Aaron"
 			},
 			{
-				"id": "397",
+				"id": "403",
 				"name": "Chris Staggs"
 			}
 		],
@@ -14206,7 +14348,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "114"
+		"sortid": "115"
 	},
 	{
 		"id": "28877",
@@ -14227,7 +14369,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "398",
+				"id": "404",
 				"name": "Dalibor Talajic"
 			}
 		],
@@ -14235,7 +14377,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "114"
+		"sortid": "115"
 	},
 	{
 		"id": "28876",
@@ -14264,7 +14406,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "114"
+		"sortid": "115"
 	},
 	{
 		"id": "28875",
@@ -14281,11 +14423,11 @@
 		],
 		"creators": [
 			{
-				"id": "399",
+				"id": "405",
 				"name": "Adam Glass"
 			},
 			{
-				"id": "397",
+				"id": "403",
 				"name": "Chris Staggs"
 			}
 		],
@@ -14293,7 +14435,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "114"
+		"sortid": "115"
 	},
 	{
 		"id": "28874",
@@ -14314,7 +14456,7 @@
 				"name": "Stuart Moore"
 			},
 			{
-				"id": "396",
+				"id": "402",
 				"name": "Shawn Crystal"
 			}
 		],
@@ -14322,7 +14464,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "114"
+		"sortid": "115"
 	},
 	{
 		"id": "28873",
@@ -14339,11 +14481,11 @@
 		],
 		"creators": [
 			{
-				"id": "400",
+				"id": "406",
 				"name": "Christopher Long"
 			},
 			{
-				"id": "398",
+				"id": "404",
 				"name": "Dalibor Talajic"
 			}
 		],
@@ -14351,7 +14493,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "114"
+		"sortid": "115"
 	},
 	{
 		"id": "23151",
@@ -14384,7 +14526,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "115"
+		"sortid": "116"
 	},
 	{
 		"id": "23609",
@@ -14417,7 +14559,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "115"
+		"sortid": "116"
 	},
 	{
 		"id": "23768",
@@ -14450,7 +14592,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "115"
+		"sortid": "116"
 	},
 	{
 		"id": "23769",
@@ -14483,7 +14625,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "115"
+		"sortid": "116"
 	},
 	{
 		"id": "24168",
@@ -14516,7 +14658,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "115"
+		"sortid": "116"
 	},
 	{
 		"id": "26314",
@@ -14549,7 +14691,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "115"
+		"sortid": "116"
 	},
 	{
 		"id": "24268",
@@ -14574,7 +14716,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "401",
+				"id": "407",
 				"name": "Dan Panosian"
 			}
 		],
@@ -14585,7 +14727,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "115"
+		"sortid": "116"
 	},
 	{
 		"id": "25365",
@@ -14614,7 +14756,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "116"
+		"sortid": "117"
 	},
 	{
 		"id": "27645",
@@ -14647,7 +14789,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "117"
+		"sortid": "118"
 	},
 	{
 		"id": "27646",
@@ -14680,7 +14822,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "117"
+		"sortid": "118"
 	},
 	{
 		"id": "27647",
@@ -14713,7 +14855,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "117"
+		"sortid": "118"
 	},
 	{
 		"id": "27419",
@@ -14742,7 +14884,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "402",
+				"id": "408",
 				"name": "Ben Oliver"
 			}
 		],
@@ -14750,7 +14892,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "118"
+		"sortid": "119"
 	},
 	{
 		"id": "27648",
@@ -14783,7 +14925,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "119"
+		"sortid": "120"
 	},
 	{
 		"id": "27650",
@@ -14816,7 +14958,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "119"
+		"sortid": "120"
 	},
 	{
 		"id": "26316",
@@ -14845,7 +14987,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "120"
+		"sortid": "121"
 	},
 	{
 		"id": "26317",
@@ -14874,7 +15016,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "120"
+		"sortid": "121"
 	},
 	{
 		"id": "26318",
@@ -14903,7 +15045,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "120"
+		"sortid": "121"
 	},
 	{
 		"id": "26319",
@@ -14932,7 +15074,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "120"
+		"sortid": "121"
 	},
 	{
 		"id": "26320",
@@ -14961,7 +15103,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "120"
+		"sortid": "121"
 	},
 	{
 		"id": "25366",
@@ -14982,7 +15124,7 @@
 				"name": "Jeph Loeb"
 			},
 			{
-				"id": "403",
+				"id": "409",
 				"name": "Ian Churchill"
 			}
 		],
@@ -14990,7 +15132,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "121"
+		"sortid": "122"
 	},
 	{
 		"id": "25367",
@@ -15011,7 +15153,7 @@
 				"name": "Jeph Loeb"
 			},
 			{
-				"id": "403",
+				"id": "409",
 				"name": "Ian Churchill"
 			}
 		],
@@ -15019,7 +15161,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "121"
+		"sortid": "122"
 	},
 	{
 		"id": "25368",
@@ -15040,7 +15182,7 @@
 				"name": "Jeph Loeb"
 			},
 			{
-				"id": "403",
+				"id": "409",
 				"name": "Ian Churchill"
 			}
 		],
@@ -15048,7 +15190,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "121"
+		"sortid": "122"
 	},
 	{
 		"id": "25369",
@@ -15069,7 +15211,7 @@
 				"name": "Jeph Loeb"
 			},
 			{
-				"id": "403",
+				"id": "409",
 				"name": "Ian Churchill"
 			}
 		],
@@ -15077,7 +15219,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "121"
+		"sortid": "122"
 	},
 	{
 		"id": "25370",
@@ -15098,7 +15240,7 @@
 				"name": "Jeph Loeb"
 			},
 			{
-				"id": "404",
+				"id": "410",
 				"name": "Whilce Portacio"
 			}
 		],
@@ -15106,7 +15248,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "121"
+		"sortid": "122"
 	},
 	{
 		"id": "27545",
@@ -15135,7 +15277,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "122"
+		"sortid": "123"
 	},
 	{
 		"id": "27546",
@@ -15164,7 +15306,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "122"
+		"sortid": "123"
 	},
 	{
 		"id": "27547",
@@ -15193,7 +15335,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "122"
+		"sortid": "123"
 	},
 	{
 		"id": "26038",
@@ -15271,7 +15413,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "123"
+		"sortid": "124"
 	},
 	{
 		"id": "26039",
@@ -15349,7 +15491,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "123"
+		"sortid": "124"
 	},
 	{
 		"id": "26195",
@@ -15427,7 +15569,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "124"
+		"sortid": "125"
 	},
 	{
 		"id": "26196",
@@ -15505,7 +15647,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "124"
+		"sortid": "125"
 	},
 	{
 		"id": "26197",
@@ -15583,7 +15725,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "124"
+		"sortid": "125"
 	},
 	{
 		"id": "26198",
@@ -15661,7 +15803,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "124"
+		"sortid": "125"
 	},
 	{
 		"id": "26199",
@@ -15739,7 +15881,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "124"
+		"sortid": "125"
 	},
 	{
 		"id": "30718",
@@ -15820,7 +15962,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "124"
+		"sortid": "125"
 	},
 	{
 		"id": "29717",
@@ -15862,7 +16004,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "27420",
@@ -15940,7 +16082,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "126"
+		"sortid": "127"
 	},
 	{
 		"id": "26024",
@@ -16010,7 +16152,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "127"
+		"sortid": "128"
 	},
 	{
 		"id": "29288",
@@ -16059,7 +16201,7 @@
 				"name": "Dan Slott"
 			},
 			{
-				"id": "405",
+				"id": "411",
 				"name": "Neil Edwards"
 			}
 		],
@@ -16068,7 +16210,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "128"
+		"sortid": "129"
 	},
 	{
 		"id": "24137",
@@ -16093,7 +16235,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "406",
+				"id": "412",
 				"name": "Ryan Stegman"
 			}
 		],
@@ -16101,7 +16243,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "129"
+		"sortid": "130"
 	},
 	{
 		"id": "25429",
@@ -16126,7 +16268,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "406",
+				"id": "412",
 				"name": "Ryan Stegman"
 			}
 		],
@@ -16134,7 +16276,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "129"
+		"sortid": "130"
 	},
 	{
 		"id": "25430",
@@ -16159,7 +16301,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "406",
+				"id": "412",
 				"name": "Ryan Stegman"
 			}
 		],
@@ -16167,7 +16309,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "129"
+		"sortid": "130"
 	},
 	{
 		"id": "25431",
@@ -16200,7 +16342,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "130"
+		"sortid": "131"
 	},
 	{
 		"id": "25433",
@@ -16233,7 +16375,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "130"
+		"sortid": "131"
 	},
 	{
 		"id": "25434",
@@ -16266,7 +16408,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "130"
+		"sortid": "131"
 	},
 	{
 		"id": "25435",
@@ -16299,7 +16441,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "130"
+		"sortid": "131"
 	},
 	{
 		"id": "25436",
@@ -16332,7 +16474,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "130"
+		"sortid": "131"
 	},
 	{
 		"id": "25437",
@@ -16365,7 +16507,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "130"
+		"sortid": "131"
 	},
 	{
 		"id": "29277",
@@ -16398,7 +16540,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "131"
+		"sortid": "132"
 	},
 	{
 		"id": "25438",
@@ -16431,7 +16573,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "131"
+		"sortid": "132"
 	},
 	{
 		"id": "25439",
@@ -16464,7 +16606,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "131"
+		"sortid": "132"
 	},
 	{
 		"id": "25440",
@@ -16497,7 +16639,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "131"
+		"sortid": "132"
 	},
 	{
 		"id": "28315",
@@ -16533,7 +16675,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "131"
+		"sortid": "132"
 	},
 	{
 		"id": "30722",
@@ -16566,7 +16708,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "131"
+		"sortid": "132"
 	},
 	{
 		"id": "30723",
@@ -16599,7 +16741,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "131"
+		"sortid": "132"
 	},
 	{
 		"id": "27418",
@@ -16641,7 +16783,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "132"
+		"sortid": "133"
 	},
 	{
 		"id": "24924",
@@ -16670,7 +16812,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "133"
+		"sortid": "134"
 	},
 	{
 		"id": "27423",
@@ -16699,7 +16841,7 @@
 				"name": "Jason Aaron"
 			},
 			{
-				"id": "407",
+				"id": "413",
 				"name": "Esad Ribic"
 			}
 		],
@@ -16707,7 +16849,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "134"
+		"sortid": "135"
 	},
 	{
 		"id": "24809",
@@ -16761,7 +16903,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "135"
+		"sortid": "136"
 	},
 	{
 		"id": "24147",
@@ -16826,7 +16968,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "136"
+		"sortid": "137"
 	},
 	{
 		"id": "26755",
@@ -16891,7 +17033,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "136"
+		"sortid": "137"
 	},
 	{
 		"id": "26756",
@@ -16956,7 +17098,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "136"
+		"sortid": "137"
 	},
 	{
 		"id": "26289",
@@ -17013,7 +17155,7 @@
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "408",
+				"id": "414",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -17022,7 +17164,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "137"
+		"sortid": "138"
 	},
 	{
 		"id": "26757",
@@ -17087,7 +17229,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "138"
+		"sortid": "139"
 	},
 	{
 		"id": "26290",
@@ -17144,7 +17286,7 @@
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "408",
+				"id": "414",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -17153,7 +17295,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "139"
+		"sortid": "140"
 	},
 	{
 		"id": "26758",
@@ -17210,7 +17352,7 @@
 				"name": "Andy Diggle"
 			},
 			{
-				"id": "409",
+				"id": "415",
 				"name": "Pop Mahn"
 			}
 		],
@@ -17218,7 +17360,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "140"
+		"sortid": "141"
 	},
 	{
 		"id": "26291",
@@ -17275,7 +17417,7 @@
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "408",
+				"id": "414",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -17284,7 +17426,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "141"
+		"sortid": "142"
 	},
 	{
 		"id": "28054",
@@ -17313,7 +17455,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "142"
+		"sortid": "143"
 	},
 	{
 		"id": "28055",
@@ -17342,7 +17484,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "142"
+		"sortid": "143"
 	},
 	{
 		"id": "28056",
@@ -17371,7 +17513,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "142"
+		"sortid": "143"
 	},
 	{
 		"id": "27422",
@@ -17409,7 +17551,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "143"
+		"sortid": "144"
 	},
 	{
 		"id": "26283",
@@ -17458,7 +17600,7 @@
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "408",
+				"id": "414",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -17467,7 +17609,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "144"
+		"sortid": "145"
 	},
 	{
 		"id": "25533",
@@ -17505,7 +17647,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "145"
+		"sortid": "146"
 	},
 	{
 		"id": "25534",
@@ -17543,7 +17685,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "145"
+		"sortid": "146"
 	},
 	{
 		"id": "25535",
@@ -17585,7 +17727,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "145"
+		"sortid": "146"
 	},
 	{
 		"id": "25536",
@@ -17627,7 +17769,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "145"
+		"sortid": "146"
 	},
 	{
 		"id": "26759",
@@ -17672,7 +17814,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "146"
+		"sortid": "147"
 	},
 	{
 		"id": "27421",
@@ -17712,7 +17854,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "147"
+		"sortid": "148"
 	},
 	{
 		"id": "27417",
@@ -17746,7 +17888,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "148"
+		"sortid": "149"
 	},
 	{
 		"id": "25537",
@@ -17788,7 +17930,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "149"
+		"sortid": "150"
 	},
 	{
 		"id": "25538",
@@ -17830,7 +17972,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "149"
+		"sortid": "150"
 	},
 	{
 		"id": "24814",
@@ -17888,7 +18030,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "150"
+		"sortid": "151"
 	},
 	{
 		"id": "24806",
@@ -17946,7 +18088,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "150"
+		"sortid": "151"
 	},
 	{
 		"id": "24807",
@@ -18004,7 +18146,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "150"
+		"sortid": "151"
 	},
 	{
 		"id": "24808",
@@ -18062,7 +18204,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "150"
+		"sortid": "151"
 	},
 	{
 		"id": "27548",
@@ -18092,7 +18234,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "151"
+		"sortid": "152"
 	},
 	{
 		"id": "26760",
@@ -18129,7 +18271,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "152"
+		"sortid": "153"
 	},
 	{
 		"id": "26761",
@@ -18166,7 +18308,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "152"
+		"sortid": "153"
 	},
 	{
 		"id": "26762",
@@ -18203,7 +18345,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "152"
+		"sortid": "153"
 	},
 	{
 		"id": "25540",
@@ -18253,7 +18395,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "153"
+		"sortid": "154"
 	},
 	{
 		"id": "28333",
@@ -18303,7 +18445,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "153"
+		"sortid": "154"
 	},
 	{
 		"id": "28334",
@@ -18353,7 +18495,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "153"
+		"sortid": "154"
 	},
 	{
 		"id": "28335",
@@ -18403,7 +18545,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "153"
+		"sortid": "154"
 	},
 	{
 		"id": "30442",
@@ -18456,7 +18598,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "153"
+		"sortid": "154"
 	},
 	{
 		"id": "37957",
@@ -18498,7 +18640,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "154"
+		"sortid": "155"
 	},
 	{
 		"id": "26691",
@@ -18536,7 +18678,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "155"
+		"sortid": "156"
 	},
 	{
 		"id": "26692",
@@ -18574,7 +18716,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "155"
+		"sortid": "156"
 	},
 	{
 		"id": "26693",
@@ -18615,7 +18757,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "155"
+		"sortid": "156"
 	},
 	{
 		"id": "22390",
@@ -18636,7 +18778,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "410",
+				"id": "416",
 				"name": "Gabriel Hardman"
 			}
 		],
@@ -18644,7 +18786,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "156"
+		"sortid": "157"
 	},
 	{
 		"id": "21281",
@@ -18665,7 +18807,7 @@
 				"name": "Roger Stern"
 			},
 			{
-				"id": "411",
+				"id": "417",
 				"name": "Zach Howard"
 			}
 		],
@@ -18673,7 +18815,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "156"
+		"sortid": "157"
 	},
 	{
 		"id": "21213",
@@ -18694,7 +18836,7 @@
 				"name": "Marc Guggenheim"
 			},
 			{
-				"id": "412",
+				"id": "418",
 				"name": "Francis Tsai"
 			}
 		],
@@ -18702,7 +18844,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "156"
+		"sortid": "157"
 	},
 	{
 		"id": "29293",
@@ -18736,7 +18878,7 @@
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "157"
+		"sortid": "158"
 	},
 	{
 		"id": "28859",
@@ -18771,7 +18913,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "157"
+		"sortid": "158"
 	},
 	{
 		"id": "25371",
@@ -18806,7 +18948,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "158"
+		"sortid": "159"
 	},
 	{
 		"id": "29889",
@@ -18833,7 +18975,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "413",
+				"id": "419",
 				"name": "Carlos Rodriguez"
 			}
 		],
@@ -18841,7 +18983,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "159"
+		"sortid": "160"
 	},
 	{
 		"id": "27651",
@@ -18880,7 +19022,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "160"
+		"sortid": "161"
 	},
 	{
 		"id": "25372",
@@ -18915,7 +19057,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "160"
+		"sortid": "161"
 	},
 	{
 		"id": "27652",
@@ -18954,7 +19096,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "160"
+		"sortid": "161"
 	},
 	{
 		"id": "31500",
@@ -18981,7 +19123,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "413",
+				"id": "419",
 				"name": "Carlos Rodriguez"
 			}
 		],
@@ -18989,7 +19131,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "161"
+		"sortid": "162"
 	},
 	{
 		"id": "29807",
@@ -19024,7 +19166,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "162"
+		"sortid": "163"
 	},
 	{
 		"id": "29891",
@@ -19051,7 +19193,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "413",
+				"id": "419",
 				"name": "Carlos Rodriguez"
 			}
 		],
@@ -19059,7 +19201,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "163"
+		"sortid": "164"
 	},
 	{
 		"id": "30416",
@@ -19094,7 +19236,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "164"
+		"sortid": "165"
 	},
 	{
 		"id": "27653",
@@ -19133,7 +19275,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "164"
+		"sortid": "165"
 	},
 	{
 		"id": "29808",
@@ -19168,7 +19310,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "165"
+		"sortid": "166"
 	},
 	{
 		"id": "29809",
@@ -19203,7 +19345,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "165"
+		"sortid": "166"
 	},
 	{
 		"id": "29892",
@@ -19230,7 +19372,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "413",
+				"id": "419",
 				"name": "Carlos Rodriguez"
 			}
 		],
@@ -19238,7 +19380,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "166"
+		"sortid": "167"
 	},
 	{
 		"id": "32531",
@@ -19257,7 +19399,7 @@
 		],
 		"creators": [
 			{
-				"id": "406",
+				"id": "412",
 				"name": "Ryan Stegman"
 			},
 			{
@@ -19265,7 +19407,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "414",
+				"id": "420",
 				"name": "Scott Reed"
 			},
 			{
@@ -19273,7 +19415,7 @@
 				"name": "Paul Tobin"
 			},
 			{
-				"id": "415",
+				"id": "421",
 				"name": "Harrison Wilcox"
 			}
 		],
@@ -19281,7 +19423,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "167"
+		"sortid": "168"
 	},
 	{
 		"id": "32762",
@@ -19312,7 +19454,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "168"
+		"sortid": "169"
 	},
 	{
 		"id": "32763",
@@ -19343,7 +19485,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "168"
+		"sortid": "169"
 	},
 	{
 		"id": "30417",
@@ -19378,7 +19520,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "169"
+		"sortid": "170"
 	},
 	{
 		"id": "31074",
@@ -19413,7 +19555,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "169"
+		"sortid": "170"
 	},
 	{
 		"id": "33580",
@@ -19448,7 +19590,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "170"
+		"sortid": "171"
 	},
 	{
 		"id": "33581",
@@ -19483,7 +19625,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "170"
+		"sortid": "171"
 	},
 	{
 		"id": "33582",
@@ -19510,7 +19652,7 @@
 				"name": "Paul Tobin"
 			},
 			{
-				"id": "416",
+				"id": "422",
 				"name": "Jacopo Camagni"
 			}
 		],
@@ -19518,7 +19660,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "171"
+		"sortid": "172"
 	},
 	{
 		"id": "33583",
@@ -19545,7 +19687,7 @@
 				"name": "Paul Tobin"
 			},
 			{
-				"id": "416",
+				"id": "422",
 				"name": "Jacopo Camagni"
 			}
 		],
@@ -19553,7 +19695,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "171"
+		"sortid": "172"
 	},
 	{
 		"id": "30418",
@@ -19588,7 +19730,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "172"
+		"sortid": "173"
 	},
 	{
 		"id": "31076",
@@ -19623,7 +19765,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "172"
+		"sortid": "173"
 	},
 	{
 		"id": "31077",
@@ -19658,7 +19800,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "172"
+		"sortid": "173"
 	},
 	{
 		"id": "30419",
@@ -19693,7 +19835,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "172"
+		"sortid": "173"
 	},
 	{
 		"id": "24407",
@@ -19727,7 +19869,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "173"
+		"sortid": "174"
 	},
 	{
 		"id": "24408",
@@ -19748,7 +19890,7 @@
 				"name": "Mark Waid"
 			},
 			{
-				"id": "417",
+				"id": "423",
 				"name": "Mario Alberti"
 			}
 		],
@@ -19757,7 +19899,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "174"
+		"sortid": "175"
 	},
 	{
 		"id": "24409",
@@ -19787,7 +19929,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "174"
+		"sortid": "175"
 	},
 	{
 		"id": "24410",
@@ -19808,7 +19950,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "418",
+				"id": "424",
 				"name": "Robert Atkins"
 			}
 		],
@@ -19817,7 +19959,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "174"
+		"sortid": "175"
 	},
 	{
 		"id": "24411",
@@ -19847,7 +19989,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "174"
+		"sortid": "175"
 	},
 	{
 		"id": "24412",
@@ -19877,7 +20019,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "174"
+		"sortid": "175"
 	},
 	{
 		"id": "24413",
@@ -19911,7 +20053,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "175"
+		"sortid": "176"
 	},
 	{
 		"id": "24414",
@@ -19945,7 +20087,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "175"
+		"sortid": "176"
 	},
 	{
 		"id": "28450",
@@ -19960,11 +20102,11 @@
 				"name": "Spider-Man"
 			},
 			{
-				"id": "164",
+				"id": "165",
 				"name": "Ben Reilly"
 			},
 			{
-				"id": "165",
+				"id": "166",
 				"name": "Kaine"
 			}
 		],
@@ -19983,7 +20125,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "175"
+		"sortid": "176"
 	},
 	{
 		"id": "24415",
@@ -19998,11 +20140,11 @@
 				"name": "Spider-Man"
 			},
 			{
-				"id": "164",
+				"id": "165",
 				"name": "Ben Reilly"
 			},
 			{
-				"id": "165",
+				"id": "166",
 				"name": "Kaine"
 			}
 		],
@@ -20021,7 +20163,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "175"
+		"sortid": "176"
 	},
 	{
 		"id": "24416",
@@ -20036,11 +20178,11 @@
 				"name": "Spider-Man"
 			},
 			{
-				"id": "164",
+				"id": "165",
 				"name": "Ben Reilly"
 			},
 			{
-				"id": "165",
+				"id": "166",
 				"name": "Kaine"
 			}
 		],
@@ -20059,7 +20201,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "175"
+		"sortid": "176"
 	},
 	{
 		"id": "24417",
@@ -20074,11 +20216,11 @@
 				"name": "Spider-Man"
 			},
 			{
-				"id": "164",
+				"id": "165",
 				"name": "Ben Reilly"
 			},
 			{
-				"id": "165",
+				"id": "166",
 				"name": "Kaine"
 			}
 		],
@@ -20097,7 +20239,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "175"
+		"sortid": "176"
 	},
 	{
 		"id": "24416",
@@ -20118,7 +20260,7 @@
 				"name": "Joe Kelly"
 			},
 			{
-				"id": "419",
+				"id": "425",
 				"name": "Eric Canete"
 			}
 		],
@@ -20127,7 +20269,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "176"
+		"sortid": "177"
 	},
 	{
 		"id": "24418",
@@ -20157,7 +20299,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "176"
+		"sortid": "177"
 	},
 	{
 		"id": "24419",
@@ -20187,7 +20329,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "176"
+		"sortid": "177"
 	},
 	{
 		"id": "24421",
@@ -20217,7 +20359,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "176"
+		"sortid": "177"
 	},
 	{
 		"id": "28451",
@@ -20247,7 +20389,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "176"
+		"sortid": "177"
 	},
 	{
 		"id": "24422",
@@ -20277,7 +20419,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "177"
+		"sortid": "178"
 	},
 	{
 		"id": "24423",
@@ -20307,7 +20449,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "177"
+		"sortid": "178"
 	},
 	{
 		"id": "24424",
@@ -20328,7 +20470,7 @@
 				"name": "Joe Kelly"
 			},
 			{
-				"id": "420",
+				"id": "426",
 				"name": "Max Fiumara"
 			}
 		],
@@ -20337,7 +20479,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "177"
+		"sortid": "178"
 	},
 	{
 		"id": "28452",
@@ -20367,7 +20509,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "177"
+		"sortid": "178"
 	},
 	{
 		"id": "24425",
@@ -20397,7 +20539,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "178"
+		"sortid": "179"
 	},
 	{
 		"id": "28224",
@@ -20427,7 +20569,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "178"
+		"sortid": "179"
 	},
 	{
 		"id": "28225",
@@ -20457,7 +20599,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "178"
+		"sortid": "179"
 	},
 	{
 		"id": "28453",
@@ -20487,7 +20629,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "178"
+		"sortid": "179"
 	},
 	{
 		"id": "28226",
@@ -20517,7 +20659,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "180"
 	},
 	{
 		"id": "28227",
@@ -20538,7 +20680,7 @@
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "421",
+				"id": "427",
 				"name": "Joe Quinones"
 			}
 		],
@@ -20547,7 +20689,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "180"
 	},
 	{
 		"id": "30298",
@@ -20577,7 +20719,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "180"
 	},
 	{
 		"id": "30299",
@@ -20607,7 +20749,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "180"
 	},
 	{
 		"id": "30640",
@@ -20637,7 +20779,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "179"
+		"sortid": "180"
 	},
 	{
 		"id": "30300",
@@ -20658,7 +20800,7 @@
 				"name": "Joe Kelly"
 			},
 			{
-				"id": "420",
+				"id": "426",
 				"name": "Max Fiumara"
 			}
 		],
@@ -20667,7 +20809,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "180"
+		"sortid": "181"
 	},
 	{
 		"id": "30301",
@@ -20697,7 +20839,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "180"
+		"sortid": "181"
 	},
 	{
 		"id": "30302",
@@ -20727,7 +20869,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "180"
+		"sortid": "181"
 	},
 	{
 		"id": "30303",
@@ -20757,7 +20899,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "180"
+		"sortid": "181"
 	},
 	{
 		"id": "30304",
@@ -20787,7 +20929,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "180"
+		"sortid": "181"
 	},
 	{
 		"id": "28718",
@@ -20816,7 +20958,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "181"
+		"sortid": "182"
 	},
 	{
 		"id": "28719",
@@ -20845,7 +20987,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "181"
+		"sortid": "182"
 	},
 	{
 		"id": "28720",
@@ -20874,7 +21016,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "181"
+		"sortid": "182"
 	},
 	{
 		"id": "28721",
@@ -20903,7 +21045,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "181"
+		"sortid": "182"
 	},
 	{
 		"id": "28722",
@@ -20932,7 +21074,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "181"
+		"sortid": "182"
 	},
 	{
 		"id": "26784",
@@ -20961,7 +21103,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "181"
+		"sortid": "182"
 	},
 	{
 		"id": "23923",
@@ -21011,7 +21153,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "182"
+		"sortid": "183"
 	},
 	{
 		"id": "24132",
@@ -21061,7 +21203,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "182"
+		"sortid": "183"
 	},
 	{
 		"id": "25180",
@@ -21111,7 +21253,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "182"
+		"sortid": "183"
 	},
 	{
 		"id": "25181",
@@ -21161,7 +21303,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "182"
+		"sortid": "183"
 	},
 	{
 		"id": "23100",
@@ -21210,7 +21352,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "183"
+		"sortid": "184"
 	},
 	{
 		"id": "23597",
@@ -21263,7 +21405,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "183"
+		"sortid": "184"
 	},
 	{
 		"id": "23758",
@@ -21316,7 +21458,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "183"
+		"sortid": "184"
 	},
 	{
 		"id": "23956",
@@ -21369,7 +21511,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "183"
+		"sortid": "184"
 	},
 	{
 		"id": "24156",
@@ -21422,7 +21564,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "183"
+		"sortid": "184"
 	},
 	{
 		"id": "27240",
@@ -21475,7 +21617,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "183"
+		"sortid": "184"
 	},
 	{
 		"id": "27241",
@@ -21528,7 +21670,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "183"
+		"sortid": "184"
 	},
 	{
 		"id": "27242",
@@ -21581,7 +21723,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "184"
+		"sortid": "185"
 	},
 	{
 		"id": "27243",
@@ -21634,7 +21776,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "184"
+		"sortid": "185"
 	},
 	{
 		"id": "27244",
@@ -21687,7 +21829,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "184"
+		"sortid": "185"
 	},
 	{
 		"id": "27245",
@@ -21740,7 +21882,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "184"
+		"sortid": "185"
 	},
 	{
 		"id": "27246",
@@ -21793,7 +21935,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "184"
+		"sortid": "185"
 	},
 	{
 		"id": "29049",
@@ -21822,7 +21964,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "185"
+		"sortid": "186"
 	},
 	{
 		"id": "29050",
@@ -21851,7 +21993,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "185"
+		"sortid": "186"
 	},
 	{
 		"id": "29051",
@@ -21880,7 +22022,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "185"
+		"sortid": "186"
 	},
 	{
 		"id": "32543",
@@ -21909,7 +22051,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "185"
+		"sortid": "186"
 	},
 	{
 		"id": "26284",
@@ -21951,7 +22093,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "186"
+		"sortid": "187"
 	},
 	{
 		"id": "26285",
@@ -21993,7 +22135,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "186"
+		"sortid": "187"
 	},
 	{
 		"id": "30174",
@@ -22035,7 +22177,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "186"
+		"sortid": "187"
 	},
 	{
 		"id": "30175",
@@ -22077,7 +22219,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "186"
+		"sortid": "187"
 	},
 	{
 		"id": "32559",
@@ -22119,7 +22261,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "186"
+		"sortid": "187"
 	},
 	{
 		"id": "30177",
@@ -22161,7 +22303,7 @@
 		"essential": true,
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "186"
+		"sortid": "187"
 	},
 	{
 		"id": "24363",
@@ -22182,7 +22324,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "401",
+				"id": "407",
 				"name": "Dan Panosian"
 			}
 		],
@@ -22190,7 +22332,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "187"
+		"sortid": "188"
 	},
 	{
 		"id": "24354",
@@ -22211,7 +22353,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "410",
+				"id": "416",
 				"name": "Gabriel Hardman"
 			}
 		],
@@ -22219,7 +22361,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "187"
+		"sortid": "188"
 	},
 	{
 		"id": "24355",
@@ -22240,7 +22382,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "401",
+				"id": "407",
 				"name": "Dan Panosian"
 			}
 		],
@@ -22248,7 +22390,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "187"
+		"sortid": "188"
 	},
 	{
 		"id": "28973",
@@ -22277,7 +22419,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "188"
+		"sortid": "189"
 	},
 	{
 		"id": "28976",
@@ -22306,7 +22448,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "188"
+		"sortid": "189"
 	},
 	{
 		"id": "29620",
@@ -22327,7 +22469,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "410",
+				"id": "416",
 				"name": "Gabriel Hardman"
 			}
 		],
@@ -22335,7 +22477,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "188"
+		"sortid": "189"
 	},
 	{
 		"id": "30284",
@@ -22356,7 +22498,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "410",
+				"id": "416",
 				"name": "Gabriel Hardman"
 			}
 		],
@@ -22364,7 +22506,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "188"
+		"sortid": "189"
 	},
 	{
 		"id": "33560",
@@ -22385,7 +22527,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "410",
+				"id": "416",
 				"name": "Gabriel Hardman"
 			}
 		],
@@ -22393,7 +22535,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "188"
+		"sortid": "189"
 	},
 	{
 		"id": "30286",
@@ -22414,7 +22556,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "410",
+				"id": "416",
 				"name": "Gabriel Hardman"
 			}
 		],
@@ -22422,7 +22564,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "188"
+		"sortid": "189"
 	},
 	{
 		"id": "29277",
@@ -22443,7 +22585,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "410",
+				"id": "416",
 				"name": "Gabriel Hardman"
 			}
 		],
@@ -22451,7 +22593,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "189"
+		"sortid": "190"
 	},
 	{
 		"id": "25438",
@@ -22472,7 +22614,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "410",
+				"id": "416",
 				"name": "Gabriel Hardman"
 			}
 		],
@@ -22480,7 +22622,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "189"
+		"sortid": "190"
 	},
 	{
 		"id": "25439",
@@ -22501,7 +22643,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "410",
+				"id": "416",
 				"name": "Gabriel Hardman"
 			}
 		],
@@ -22509,7 +22651,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "189"
+		"sortid": "190"
 	},
 	{
 		"id": "25440",
@@ -22530,7 +22672,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "410",
+				"id": "416",
 				"name": "Gabriel Hardman"
 			}
 		],
@@ -22538,7 +22680,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "189"
+		"sortid": "190"
 	},
 	{
 		"id": "28315",
@@ -22559,7 +22701,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "410",
+				"id": "416",
 				"name": "Gabriel Hardman"
 			}
 		],
@@ -22567,7 +22709,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "189"
+		"sortid": "190"
 	},
 	{
 		"id": "30722",
@@ -22596,7 +22738,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "189"
+		"sortid": "190"
 	},
 	{
 		"id": "30723",
@@ -22625,7 +22767,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "189"
+		"sortid": "190"
 	},
 	{
 		"id": "29803",
@@ -22646,7 +22788,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "422",
+				"id": "428",
 				"name": "Felix Ruiz"
 			}
 		],
@@ -22654,7 +22796,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "189"
+		"sortid": "190"
 	},
 	{
 		"id": "31486",
@@ -22675,7 +22817,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "422",
+				"id": "428",
 				"name": "Felix Ruiz"
 			}
 		],
@@ -22683,7 +22825,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "189"
+		"sortid": "190"
 	},
 	{
 		"id": "29805",
@@ -22704,7 +22846,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "422",
+				"id": "428",
 				"name": "Felix Ruiz"
 			}
 		],
@@ -22712,7 +22854,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "189"
+		"sortid": "190"
 	},
 	{
 		"id": "32416",
@@ -22741,7 +22883,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "189"
+		"sortid": "190"
 	},
 	{
 		"id": "33640",
@@ -22762,7 +22904,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "423",
+				"id": "429",
 				"name": "Giancarlo Caracuzzo"
 			}
 		],
@@ -22770,7 +22912,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "189"
+		"sortid": "190"
 	},
 	{
 		"id": "33638",
@@ -22791,7 +22933,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "423",
+				"id": "429",
 				"name": "Giancarlo Caracuzzo"
 			}
 		],
@@ -22799,7 +22941,7 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "189"
+		"sortid": "190"
 	},
 	{
 		"id": "33639",
@@ -22820,7 +22962,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "423",
+				"id": "429",
 				"name": "Giancarlo Caracuzzo"
 			}
 		],
@@ -22828,6 +22970,3751 @@
 		"universe": "Earth-616",
 		"phaseid": "009",
 		"phasename": "Dark Reign",
-		"sortid": "189"
+		"sortid": "190"
+	},
+	{
+		"id": "24262",
+		"collection": "New Mutants",
+		"title": "Return of the Legion",
+		"vol": 3,
+		"num": 1,
+		"date": "2009-05-06",
+		"characters": [
+			{
+				"id": "167",
+				"name": "New Mutants"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "328",
+				"name": "Diogenes Neves"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/03/5155c94122e15.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "191"
+	},
+	{
+		"id": "26051",
+		"collection": "New Mutants",
+		"title": "Return of the Legion",
+		"vol": 3,
+		"num": 2,
+		"date": "2009-06-03",
+		"characters": [
+			{
+				"id": "167",
+				"name": "New Mutants"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "328",
+				"name": "Diogenes Neves"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5155c94fc72ff.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "191"
+	},
+	{
+		"id": "26052",
+		"collection": "New Mutants",
+		"title": "Return of the Legion",
+		"vol": 3,
+		"num": 3,
+		"date": "2009-07-15",
+		"characters": [
+			{
+				"id": "167",
+				"name": "New Mutants"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "328",
+				"name": "Diogenes Neves"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/5155c95999f1a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "191"
+	},
+	{
+		"id": "26053",
+		"collection": "New Mutants",
+		"title": "Return of the Legion",
+		"vol": 3,
+		"num": 4,
+		"date": "2009-08-26",
+		"characters": [
+			{
+				"id": "167",
+				"name": "New Mutants"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "328",
+				"name": "Diogenes Neves"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5155c96782e1a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "191"
+	},
+	{
+		"id": "26054",
+		"collection": "New Mutants",
+		"title": "Return of the Legion",
+		"vol": 3,
+		"num": 5,
+		"date": "2009-09-30",
+		"characters": [
+			{
+				"id": "167",
+				"name": "New Mutants"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "430",
+				"name": "Zachary Baldus"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5155c975ab87a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "191"
+	},
+	{
+		"id": "21598",
+		"collection": "X-Men Odd Men Out",
+		"title": "Return of the Legion",
+		"vol": 1,
+		"num": 1,
+		"date": "2008-07-30",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "032",
+				"name": "Jean Grey"
+			},
+			{
+				"id": "104",
+				"name": "Iceman"
+			},
+			{
+				"id": "105",
+				"name": "Polaris"
+			},
+			{
+				"id": "106",
+				"name": "Havok"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "048",
+				"name": "Gambit"
+			},
+			{
+				"id": "167",
+				"name": "New Mutants"
+			},
+			{
+				"id": "077",
+				"name": "Wolfsbane"
+			}
+		],
+		"creators": [
+			{
+				"id": "043",
+				"name": "Roger Stern"
+			},
+			{
+				"id": "431",
+				"name": "Dave Cockrum"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/4bb795894ec6b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "191"
+	},
+	{
+		"id": "27349",
+		"collection": "X-Men Legacy Annual",
+		"title": "Devil at the Crossroads ",
+		"vol": 1,
+		"num": 1,
+		"date": "2009-09-16",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "048",
+				"name": "Gambit"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			}
+		],
+		"creators": [
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "432",
+				"name": "Daniel Acuna"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4bb3e5735f167.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "192"
+	},
+	{
+		"id": "27345",
+		"collection": "X-Men Legacy",
+		"title": "Devil at the Crossroads ",
+		"vol": 1,
+		"num": 228,
+		"date": "2009-10-21",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "048",
+				"name": "Gambit"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			}
+		],
+		"creators": [
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "432",
+				"name": "Daniel Acuna"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/51a4e0b186805.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "192"
+	},
+	{
+		"id": "27346",
+		"collection": "X-Men Legacy",
+		"title": "Devil at the Crossroads ",
+		"vol": 1,
+		"num": 229,
+		"date": "2009-11-18",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "048",
+				"name": "Gambit"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			}
+		],
+		"creators": [
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "432",
+				"name": "Daniel Acuna"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/51a4e0a8a1e98.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "192"
+	},
+	{
+		"id": "27347",
+		"collection": "X-Men Legacy",
+		"title": "Devil at the Crossroads ",
+		"vol": 1,
+		"num": 230,
+		"date": "2009-12-16",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "048",
+				"name": "Gambit"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			}
+		],
+		"creators": [
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "432",
+				"name": "Daniel Acuna"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/51a4e0a2690ab.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "192"
+	},
+	{
+		"id": "26968",
+		"collection": "Uncanny X-Men",
+		"title": "Nation X",
+		"vol": 1,
+		"num": 515,
+		"date": "2009-09-23",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "104",
+				"name": "Iceman"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "121",
+				"name": "Greg Land"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/513f50775a06e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "193"
+	},
+	{
+		"id": "26969",
+		"collection": "Uncanny X-Men",
+		"title": "Nation X",
+		"vol": 1,
+		"num": 516,
+		"date": "2009-10-14",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "104",
+				"name": "Iceman"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "121",
+				"name": "Greg Land"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/513f5042c700e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "193"
+	},
+	{
+		"id": "26970",
+		"collection": "Uncanny X-Men",
+		"title": "Nation X",
+		"vol": 1,
+		"num": 517,
+		"date": "2009-11-25",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "104",
+				"name": "Iceman"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "121",
+				"name": "Greg Land"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/513f503599d85.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "193"
+	},
+	{
+		"id": "26971",
+		"collection": "Uncanny X-Men",
+		"title": "Nation X",
+		"vol": 1,
+		"num": 518,
+		"date": "2009-12-03",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "104",
+				"name": "Iceman"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "077",
+				"name": "Terry Dodson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/513f50c32462e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "193"
+	},
+	{
+		"id": "26972",
+		"collection": "Uncanny X-Men",
+		"title": "Nation X",
+		"vol": 1,
+		"num": 519,
+		"date": "2009-12-23",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "104",
+				"name": "Iceman"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "077",
+				"name": "Terry Dodson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/513f50268e882.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "193"
+	},
+	{
+		"id": "26973",
+		"collection": "Uncanny X-Men",
+		"title": "Nation X",
+		"vol": 1,
+		"num": 520,
+		"date": "2010-01-20",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "104",
+				"name": "Iceman"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "121",
+				"name": "Greg Land"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/513f5151894b4.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "193"
+	},
+	{
+		"id": "26974",
+		"collection": "Uncanny X-Men",
+		"title": "Nation X",
+		"vol": 1,
+		"num": 521,
+		"date": "2010-02-17",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "104",
+				"name": "Iceman"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "121",
+				"name": "Greg Land"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/03/513f533916b22.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "193"
+	},
+	{
+		"id": "30619",
+		"collection": "Uncanny X-Men",
+		"title": "Nation X",
+		"vol": 1,
+		"num": 522,
+		"date": "2010-03-24",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "104",
+				"name": "Iceman"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "410",
+				"name": "Whilce Portacio"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/513f532f8cf95.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "193"
+	},
+	{
+		"id": "29940",
+		"collection": "Nation X",
+		"title": "Nation X",
+		"vol": 1,
+		"num": 1,
+		"date": "2009-12-09",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "104",
+				"name": "Iceman"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			}
+		],
+		"creators": [
+			{
+				"id": "319",
+				"name": "Simon Spurrier"
+			},
+			{
+				"id": "133",
+				"name": "Leonard Kirk"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bb3bd77bf829.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "193"
+	},
+	{
+		"id": "29941",
+		"collection": "Nation X",
+		"title": "Nation X",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-01-13",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "048",
+				"name": "Gambit"
+			}
+		],
+		"creators": [
+			{
+				"id": "231",
+				"name": "C B Cebulski"
+			},
+			{
+				"id": "242",
+				"name": "Mike Choi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bae61765f3f4.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "193"
+	},
+	{
+		"id": "29942",
+		"collection": "Nation X",
+		"title": "Nation X",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-02-24",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "433",
+				"name": "Chuck Kim"
+			},
+			{
+				"id": "434",
+				"name": "Gabriel Hernandez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4ba96fe58ae50.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "193"
+	},
+	{
+		"id": "29943",
+		"collection": "Nation X",
+		"title": "Nation X",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-03-17",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "047",
+				"name": "Peter Milligan"
+			},
+			{
+				"id": "435",
+				"name": "Michael Allred"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/4bacb49cf0df2.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "193"
+	},
+	{
+		"id": "27199",
+		"collection": "Wolverine Origins",
+		"title": "7 The Hard Way",
+		"vol": 1,
+		"num": 41,
+		"date": "2009-10-21",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "310",
+				"name": "Doug Braithwaite"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/58471a92860d8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "194"
+	},
+	{
+		"id": "27200",
+		"collection": "Wolverine Origins",
+		"title": "7 The Hard Way",
+		"vol": 1,
+		"num": 42,
+		"date": "2009-11-18",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "310",
+				"name": "Doug Braithwaite"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/58471bc921d37.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "194"
+	},
+	{
+		"id": "27201",
+		"collection": "Wolverine Origins",
+		"title": "7 The Hard Way",
+		"vol": 1,
+		"num": 43,
+		"date": "2009-12-23",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "310",
+				"name": "Doug Braithwaite"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/58471cdcbeff3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "194"
+	},
+	{
+		"id": "29871",
+		"collection": "Wolverine Origins",
+		"title": "7 The Hard Way",
+		"vol": 1,
+		"num": 44,
+		"date": "2010-01-27",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "310",
+				"name": "Doug Braithwaite"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/58471e0f171c3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "194"
+	},
+	{
+		"id": "29872",
+		"collection": "Wolverine Origins",
+		"title": "7 The Hard Way",
+		"vol": 1,
+		"num": 45,
+		"date": "2010-03-17",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "310",
+				"name": "Doug Braithwaite"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/58471f0b0e495.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "194"
+	},
+	{
+		"id": "28117",
+		"collection": "X-Factor",
+		"title": "The Invisible Woman has Vanished",
+		"vol": 1,
+		"num": 200,
+		"date": "2009-12-16",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "168",
+				"name": "Syrin"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "395",
+				"name": "Bing Cansino"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4bb3ccc7bc8f5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "195"
+	},
+	{
+		"id": "28118",
+		"collection": "X-Factor",
+		"title": "The Invisible Woman has Vanished",
+		"vol": 1,
+		"num": 201,
+		"date": "2010-01-27",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "168",
+				"name": "Syrin"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "395",
+				"name": "Bing Cansino"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bac0e8e055e0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "195"
+	},
+	{
+		"id": "28392",
+		"collection": "X-Factor",
+		"title": "The Invisible Woman has Vanished",
+		"vol": 1,
+		"num": 202,
+		"date": "2010-02-24",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "168",
+				"name": "Syrin"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "395",
+				"name": "Bing Cansino"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4badc35903ffc.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "195"
+	},
+	{
+		"id": "30658",
+		"collection": "X-Factor",
+		"title": "The Invisible Woman has Vanished",
+		"vol": 1,
+		"num": 203,
+		"date": "2010-03-24",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bacd80656d3e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "195"
+	},
+	{
+		"id": "34701",
+		"collection": "Wolverine The Best There Is",
+		"title": "Contagion",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-12-02",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "436",
+				"name": "Charlie Hudson"
+			},
+			{
+				"id": "437",
+				"name": "Juan Jose Ryp"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4f68baf4ae3f3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "196"
+	},
+	{
+		"id": "34694",
+		"collection": "Wolverine The Best There Is",
+		"title": "Contagion",
+		"vol": 1,
+		"num": 2,
+		"date": "2011-01-05",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "436",
+				"name": "Charlie Hudson"
+			},
+			{
+				"id": "437",
+				"name": "Juan Jose Ryp"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4f68aeae1068a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "196"
+	},
+	{
+		"id": "34704",
+		"collection": "Wolverine The Best There Is",
+		"title": "Contagion",
+		"vol": 1,
+		"num": 3,
+		"date": "2011-02-02",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "436",
+				"name": "Charlie Hudson"
+			},
+			{
+				"id": "437",
+				"name": "Juan Jose Ryp"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/55c3d638141df.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "196"
+	},
+	{
+		"id": "34712",
+		"collection": "Wolverine The Best There Is",
+		"title": "Contagion",
+		"vol": 1,
+		"num": 4,
+		"date": "2011-03-02",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "436",
+				"name": "Charlie Hudson"
+			},
+			{
+				"id": "437",
+				"name": "Juan Jose Ryp"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/55c3d75681cf2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "196"
+	},
+	{
+		"id": "39021",
+		"collection": "Wolverine The Best There Is",
+		"title": "Contagion",
+		"vol": 1,
+		"num": 5,
+		"date": "2011-04-06",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "436",
+				"name": "Charlie Hudson"
+			},
+			{
+				"id": "437",
+				"name": "Juan Jose Ryp"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/55c3d85aacf6f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "196"
+	},
+	{
+		"id": "36241",
+		"collection": "Wolverine The Best There Is",
+		"title": "Contagion",
+		"vol": 1,
+		"num": 6,
+		"date": "2011-05-04",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "436",
+				"name": "Charlie Hudson"
+			},
+			{
+				"id": "437",
+				"name": "Juan Jose Ryp"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/55c3d97a36fe7.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "196"
+	},
+	{
+		"id": "34702",
+		"collection": "Wolverine The Best There Is",
+		"title": "Broken Quarantine",
+		"vol": 1,
+		"num": 7,
+		"date": "2011-06-29",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "436",
+				"name": "Charlie Hudson"
+			},
+			{
+				"id": "437",
+				"name": "Juan Jose Ryp"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/55c3da586dd6a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "197"
+	},
+	{
+		"id": "34711",
+		"collection": "Wolverine The Best There Is",
+		"title": "Broken Quarantine",
+		"vol": 1,
+		"num": 8,
+		"date": "2011-07-27",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "436",
+				"name": "Charlie Hudson"
+			},
+			{
+				"id": "437",
+				"name": "Juan Jose Ryp"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/55c3db3628d5f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "197"
+	},
+	{
+		"id": "36242",
+		"collection": "Wolverine The Best There Is",
+		"title": "Broken Quarantine",
+		"vol": 1,
+		"num": 9,
+		"date": "2011-08-24",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "436",
+				"name": "Charlie Hudson"
+			},
+			{
+				"id": "437",
+				"name": "Juan Jose Ryp"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/55c3dc05486f7.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "197"
+	},
+	{
+		"id": "34840",
+		"collection": "Wolverine The Best There Is",
+		"title": "Broken Quarantine",
+		"vol": 1,
+		"num": 10,
+		"date": "2011-09-28",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "436",
+				"name": "Charlie Hudson"
+			},
+			{
+				"id": "437",
+				"name": "Juan Jose Ryp"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4e808c7c43811.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "197"
+	},
+	{
+		"id": "30236",
+		"collection": "Wolverine The Best There Is",
+		"title": "Broken Quarantine",
+		"vol": 1,
+		"num": 11,
+		"date": "2011-11-16",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "436",
+				"name": "Charlie Hudson"
+			},
+			{
+				"id": "437",
+				"name": "Juan Jose Ryp"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/10/55c3dce0dfdf0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "197"
+	},
+	{
+		"id": "30237",
+		"collection": "Wolverine The Best There Is",
+		"title": "Broken Quarantine",
+		"vol": 1,
+		"num": 12,
+		"date": "2011-12-14",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "436",
+				"name": "Charlie Hudson"
+			},
+			{
+				"id": "437",
+				"name": "Juan Jose Ryp"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/55c3740b6e91c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "197"
+	},
+	{
+		"id": "28073",
+		"collection": "Psylocke",
+		"title": "Kill Matsu'o",
+		"vol": 1,
+		"num": 1,
+		"date": "2009-11-04",
+		"characters": [
+			{
+				"id": "098",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "223",
+				"name": "Harvey Tolibao"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/b0/577d34f19e959.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "198"
+	},
+	{
+		"id": "28074",
+		"collection": "Psylocke",
+		"title": "Kill Matsu'o",
+		"vol": 1,
+		"num": 2,
+		"date": "2009-12-03",
+		"characters": [
+			{
+				"id": "098",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "223",
+				"name": "Harvey Tolibao"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/577d36e755439.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "198"
+	},
+	{
+		"id": "28075",
+		"collection": "Psylocke",
+		"title": "Kill Matsu'o",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-01-13",
+		"characters": [
+			{
+				"id": "098",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "223",
+				"name": "Harvey Tolibao"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/577d380d1349b.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "198"
+	},
+	{
+		"id": "28076",
+		"collection": "Psylocke",
+		"title": "Kill Matsu'o",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-02-17",
+		"characters": [
+			{
+				"id": "098",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "223",
+				"name": "Harvey Tolibao"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/577d3997a2bb8.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "198"
+	},
+	{
+		"id": "27255",
+		"collection": "X-Force",
+		"title": "Not Forgotten",
+		"vol": 3,
+		"num": 17,
+		"date": "2009-07-22",
+		"characters": [
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "077",
+				"name": "Wolfsbane"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "242",
+				"name": "Mike Choi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/55ccc09d5ba8f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "199"
+	},
+	{
+		"id": "27256",
+		"collection": "X-Force",
+		"title": "Not Forgotten",
+		"vol": 3,
+		"num": 18,
+		"date": "2009-08-26",
+		"characters": [
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "242",
+				"name": "Mike Choi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/80/5768492e6fc37.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "199"
+	},
+	{
+		"id": "27257",
+		"collection": "X-Force",
+		"title": "Not Forgotten",
+		"vol": 3,
+		"num": 19,
+		"date": "2009-09-30",
+		"characters": [
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "242",
+				"name": "Mike Choi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/5768490ed1250.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "199"
+	},
+	{
+		"id": "27258",
+		"collection": "X-Force",
+		"title": "Not Forgotten",
+		"vol": 3,
+		"num": 20,
+		"date": "2009-10-28",
+		"characters": [
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "242",
+				"name": "Mike Choi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/576848ffb8418.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "199"
+	},
+	{
+		"id": "29945",
+		"collection": "X-Necrosha The Gathering",
+		"title": "X-Necrosha",
+		"vol": 1,
+		"num": 1,
+		"date": "2009-12-09",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "438",
+				"name": "Ibraim Roberson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5768037ad8ed4.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "200"
+	},
+	{
+		"id": "28103",
+		"collection": "X-Necrosha",
+		"title": "X-Necrosha",
+		"vol": 1,
+		"num": 1,
+		"date": "2009-10-28",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "077",
+				"name": "Wolfsbane"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "173",
+				"name": "Clayton Crain"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/57680fa66ae27.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "200"
+	},
+	{
+		"id": "26055",
+		"collection": "New Mutants",
+		"title": "X-Necrosha",
+		"vol": 3,
+		"num": 6,
+		"date": "2009-10-28",
+		"characters": [
+			{
+				"id": "167",
+				"name": "New Mutants"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "328",
+				"name": "Diogenes Neves"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/5155ca56cfa4f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "200"
+	},
+	{
+		"id": "27259",
+		"collection": "X-Force",
+		"title": "X-Necrosha",
+		"vol": 3,
+		"num": 21,
+		"date": "2009-11-11",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "077",
+				"name": "Wolfsbane"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "173",
+				"name": "Clayton Crain"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5768031f8e2a8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "200"
+	},
+	{
+		"id": "26056",
+		"collection": "New Mutants",
+		"title": "X-Necrosha",
+		"vol": 3,
+		"num": 7,
+		"date": "2009-11-25",
+		"characters": [
+			{
+				"id": "167",
+				"name": "New Mutants"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "328",
+				"name": "Diogenes Neves"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5155cacc5334d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "200"
+	},
+	{
+		"id": "27260",
+		"collection": "X-Force",
+		"title": "X-Necrosha",
+		"vol": 3,
+		"num": 22,
+		"date": "2009-12-16",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "077",
+				"name": "Wolfsbane"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "173",
+				"name": "Clayton Crain"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/5768039110700.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "200"
+	},
+	{
+		"id": "29818",
+		"collection": "X-Force Annual",
+		"title": "X-Necrosha",
+		"vol": 3,
+		"num": 1,
+		"date": "2009-12-03",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "077",
+				"name": "Wolfsbane"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "173",
+				"name": "Clayton Crain"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/a0/4bad9c6ab03ea.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "200"
+	},
+	{
+		"id": "26057",
+		"collection": "New Mutants",
+		"title": "X-Necrosha",
+		"vol": 3,
+		"num": 8,
+		"date": "2009-12-23",
+		"characters": [
+			{
+				"id": "167",
+				"name": "New Mutants"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "328",
+				"name": "Diogenes Neves"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/5155ca71d9bc4.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "200"
+	},
+	{
+		"id": "27348",
+		"collection": "X-Men Legacy",
+		"title": "X-Necrosha",
+		"vol": 1,
+		"num": 231,
+		"date": "2009-12-23",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			}
+		],
+		"creators": [
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "166",
+				"name": "Clay Mann"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/51a4e1b8f0e6d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "200"
+	},
+	{
+		"id": "27261",
+		"collection": "X-Force",
+		"title": "X-Necrosha",
+		"vol": 3,
+		"num": 23,
+		"date": "2010-01-27",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "077",
+				"name": "Wolfsbane"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "173",
+				"name": "Clayton Crain"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5768036419fcb.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "200"
+	},
+	{
+		"id": "28415",
+		"collection": "X-Men Legacy",
+		"title": "X-Necrosha",
+		"vol": 1,
+		"num": 232,
+		"date": "2010-01-27",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			}
+		],
+		"creators": [
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "166",
+				"name": "Clay Mann"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/51a4e1aa04284.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "200"
+	},
+	{
+		"id": "27262",
+		"collection": "X-Force",
+		"title": "X-Necrosha",
+		"vol": 3,
+		"num": 24,
+		"date": "2010-02-24",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "077",
+				"name": "Wolfsbane"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "173",
+				"name": "Clayton Crain"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/30/5768032575c96.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "200"
+	},
+	{
+		"id": "30700",
+		"collection": "X-Men Legacy",
+		"title": "X-Necrosha",
+		"vol": 1,
+		"num": 233,
+		"date": "2010-02-24",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			}
+		],
+		"creators": [
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "166",
+				"name": "Clay Mann"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/51a4e27c40a31.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "200"
+	},
+	{
+		"id": "30671",
+		"collection": "X-Force",
+		"title": "X-Necrosha",
+		"vol": 3,
+		"num": 25,
+		"date": "2010-03-31",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "077",
+				"name": "Wolfsbane"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "173",
+				"name": "Clayton Crain"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/57680353d6b2e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "200"
+	},
+	{
+		"id": "30701",
+		"collection": "X-Men Legacy",
+		"title": "X-Necrosha",
+		"vol": 1,
+		"num": 234,
+		"date": "2010-03-17",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			}
+		],
+		"creators": [
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "206",
+				"name": "Yanick Paquette"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/51a4e19cc7896.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "200"
+	},
+	{
+		"id": "24502",
+		"collection": "Astonishing X-Men",
+		"title": "eXogenetic",
+		"vol": 3,
+		"num": 31,
+		"date": "2009-10-07",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			}
+		],
+		"creators": [
+			{
+				"id": "157",
+				"name": "Warren Ellis"
+			},
+			{
+				"id": "028",
+				"name": "Phil Jimenez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/f0/56e9622368370.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "201"
+	},
+	{
+		"id": "24503",
+		"collection": "Astonishing X-Men",
+		"title": "eXogenetic",
+		"vol": 3,
+		"num": 32,
+		"date": "2009-11-04",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			}
+		],
+		"creators": [
+			{
+				"id": "157",
+				"name": "Warren Ellis"
+			},
+			{
+				"id": "028",
+				"name": "Phil Jimenez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4badf9fe63ea2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "201"
+	},
+	{
+		"id": "24504",
+		"collection": "Astonishing X-Men",
+		"title": "eXogenetic",
+		"vol": 3,
+		"num": 33,
+		"date": "2009-12-16",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			}
+		],
+		"creators": [
+			{
+				"id": "157",
+				"name": "Warren Ellis"
+			},
+			{
+				"id": "028",
+				"name": "Phil Jimenez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/56e6e1f415b9b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "201"
+	},
+	{
+		"id": "24505",
+		"collection": "Astonishing X-Men",
+		"title": "eXogenetic",
+		"vol": 3,
+		"num": 34,
+		"date": "2010-06-30",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			}
+		],
+		"creators": [
+			{
+				"id": "157",
+				"name": "Warren Ellis"
+			},
+			{
+				"id": "028",
+				"name": "Phil Jimenez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/56e6e2b4906fb.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "201"
+	},
+	{
+		"id": "30332",
+		"collection": "Astonishing X-Men",
+		"title": "eXogenetic",
+		"vol": 3,
+		"num": 35,
+		"date": "2010-08-25",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			}
+		],
+		"creators": [
+			{
+				"id": "157",
+				"name": "Warren Ellis"
+			},
+			{
+				"id": "028",
+				"name": "Phil Jimenez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/80/56e6e3c9929fc.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "201"
+	},
+	{
+		"id": "32864",
+		"collection": "Astonishing X-Men Xenogenesis",
+		"title": "eXogenetic",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-05-12",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			}
+		],
+		"creators": [
+			{
+				"id": "157",
+				"name": "Warren Ellis"
+			},
+			{
+				"id": "130",
+				"name": "Kaare Andrews"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/56e964d89036b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "201"
+	},
+	{
+		"id": "32867",
+		"collection": "Astonishing X-Men Xenogenesis",
+		"title": "eXogenetic",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-06-09",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			}
+		],
+		"creators": [
+			{
+				"id": "157",
+				"name": "Warren Ellis"
+			},
+			{
+				"id": "130",
+				"name": "Kaare Andrews"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/56e6ed32bc5ea.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "201"
+	},
+	{
+		"id": "32869",
+		"collection": "Astonishing X-Men Xenogenesis",
+		"title": "eXogenetic",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-09-22",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			}
+		],
+		"creators": [
+			{
+				"id": "157",
+				"name": "Warren Ellis"
+			},
+			{
+				"id": "130",
+				"name": "Kaare Andrews"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/80/56e6ed9fa9285.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "201"
+	},
+	{
+		"id": "32871",
+		"collection": "Astonishing X-Men Xenogenesis",
+		"title": "eXogenetic",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-12-29",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			}
+		],
+		"creators": [
+			{
+				"id": "157",
+				"name": "Warren Ellis"
+			},
+			{
+				"id": "130",
+				"name": "Kaare Andrews"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/56e6ee1a01e6a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "201"
+	},
+	{
+		"id": "32874",
+		"collection": "Astonishing X-Men Xenogenesis",
+		"title": "eXogenetic",
+		"vol": 1,
+		"num": 5,
+		"date": "2011-02-16",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			}
+		],
+		"creators": [
+			{
+				"id": "157",
+				"name": "Warren Ellis"
+			},
+			{
+				"id": "130",
+				"name": "Kaare Andrews"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/90/56e6ee9a4c896.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "201"
+	},
+	{
+		"id": "33736",
+		"collection": "X-Force Sex and Violence",
+		"title": "Sex and Violence",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-07-14",
+		"characters": [
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "115",
+				"name": "Gabriele Dell'Otto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4bc5df2daed85.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "202"
+	},
+	{
+		"id": "33740",
+		"collection": "X-Force Sex and Violence",
+		"title": "Sex and Violence",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-08-11",
+		"characters": [
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "169",
+				"name": "X-24"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "115",
+				"name": "Gabriele Dell'Otto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/4beacfb36c3d0.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "202"
+	},
+	{
+		"id": "33743",
+		"collection": "X-Force Sex and Violence",
+		"title": "Sex and Violence",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-09-09",
+		"characters": [
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "170",
+				"name": "X-25"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "115",
+				"name": "Gabriele Dell'Otto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/10/4c0fdbf8c1fd1.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "202"
+	},
+	{
+		"id": "26058",
+		"collection": "New Mutants",
+		"title": "Tinderbox",
+		"vol": 3,
+		"num": 9,
+		"date": "2010-01-06",
+		"characters": [
+			{
+				"id": "167",
+				"name": "New Mutants"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "439",
+				"name": "Paul Davidson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/5155ca827b042.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "203"
+	},
+	{
+		"id": "26048",
+		"collection": "New Mutants",
+		"title": "Tinderbox",
+		"vol": 3,
+		"num": 10,
+		"date": "2010-02-10",
+		"characters": [
+			{
+				"id": "167",
+				"name": "New Mutants"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "439",
+				"name": "Paul Davidson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/5155ca87addb5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "203"
+	},
+	{
+		"id": "18147",
+		"collection": "X-Men Unlimited",
+		"title": "Tinderbox",
+		"vol": 1,
+		"num": 43,
+		"date": "2003-05-01",
+		"characters": [
+			{
+				"id": "167",
+				"name": "New Mutants"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "091",
+				"name": "Chris Claremont"
+			},
+			{
+				"id": "440",
+				"name": "Bill Sienkiewicz"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4bb7b19e98496.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "203"
 	}
 ]
