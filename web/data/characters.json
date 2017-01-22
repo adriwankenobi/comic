@@ -637,23 +637,23 @@
 	},
 	{
 		"id": "160",
-		"name": "Old Man Logan"
+		"name": "New Mutants"
 	},
 	{
 		"id": "161",
-		"name": "Skrull Kill Krew"
+		"name": "Old Man Logan"
 	},
 	{
 		"id": "162",
-		"name": ""
+		"name": "Skrull Kill Krew"
 	},
 	{
 		"id": "163",
-		"name": "Lyra"
+		"name": ""
 	},
 	{
 		"id": "164",
-		"name": "Omega Red"
+		"name": "Lyra"
 	},
 	{
 		"id": "165",
@@ -665,18 +665,6 @@
 	},
 	{
 		"id": "167",
-		"name": "New Mutants"
-	},
-	{
-		"id": "168",
 		"name": "Syrin"
-	},
-	{
-		"id": "169",
-		"name": "X-24"
-	},
-	{
-		"id": "170",
-		"name": "X-25"
 	}
 ]

@@ -7770,6 +7770,10 @@
 		"date": "2008-12-03",
 		"characters": [
 			{
+				"id": "160",
+				"name": "New Mutants"
+			},
+			{
 				"id": "028",
 				"name": "X-Men"
 			},
@@ -7818,6 +7822,10 @@
 		"num": 2,
 		"date": "2009-01-14",
 		"characters": [
+			{
+				"id": "160",
+				"name": "New Mutants"
+			},
 			{
 				"id": "028",
 				"name": "X-Men"
@@ -7868,6 +7876,10 @@
 		"date": "2009-02-11",
 		"characters": [
 			{
+				"id": "160",
+				"name": "New Mutants"
+			},
+			{
 				"id": "028",
 				"name": "X-Men"
 			},
@@ -7916,6 +7928,10 @@
 		"num": 4,
 		"date": "2009-03-25",
 		"characters": [
+			{
+				"id": "160",
+				"name": "New Mutants"
+			},
 			{
 				"id": "028",
 				"name": "X-Men"
@@ -8542,7 +8558,7 @@
 		"date": "2008-06-18",
 		"characters": [
 			{
-				"id": "160",
+				"id": "161",
 				"name": "Old Man Logan"
 			}
 		],
@@ -8572,7 +8588,7 @@
 		"date": "2008-07-30",
 		"characters": [
 			{
-				"id": "160",
+				"id": "161",
 				"name": "Old Man Logan"
 			}
 		],
@@ -8602,7 +8618,7 @@
 		"date": "2008-08-27",
 		"characters": [
 			{
-				"id": "160",
+				"id": "161",
 				"name": "Old Man Logan"
 			}
 		],
@@ -8632,7 +8648,7 @@
 		"date": "2008-11-12",
 		"characters": [
 			{
-				"id": "160",
+				"id": "161",
 				"name": "Old Man Logan"
 			}
 		],
@@ -8662,7 +8678,7 @@
 		"date": "2008-12-31",
 		"characters": [
 			{
-				"id": "160",
+				"id": "161",
 				"name": "Old Man Logan"
 			}
 		],
@@ -8692,7 +8708,7 @@
 		"date": "2009-03-18",
 		"characters": [
 			{
-				"id": "160",
+				"id": "161",
 				"name": "Old Man Logan"
 			}
 		],
@@ -8722,7 +8738,7 @@
 		"date": "2009-04-08",
 		"characters": [
 			{
-				"id": "160",
+				"id": "161",
 				"name": "Old Man Logan"
 			}
 		],
@@ -8752,7 +8768,7 @@
 		"date": "2009-09-23",
 		"characters": [
 			{
-				"id": "160",
+				"id": "161",
 				"name": "Old Man Logan"
 			}
 		],
