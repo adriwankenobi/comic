@@ -7,14 +7,14 @@
 		"num": 1,
 		"date": "2009-12-03",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "041",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "157",
+				"id": "160",
 				"name": "Hood"
 			},
 			{
@@ -59,7 +59,7 @@
 		"num": 1,
 		"date": "2009-12-30",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "041",
@@ -76,7 +76,7 @@
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "435",
+				"id": "451",
 				"name": "Lucio Parrillo"
 			}
 		],
@@ -95,7 +95,7 @@
 		"num": 1,
 		"date": "2010-01-27",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "016",
@@ -106,7 +106,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "157",
+				"id": "160",
 				"name": "Hood"
 			},
 			{
@@ -128,7 +128,7 @@
 		],
 		"creators": [
 			{
-				"id": "436",
+				"id": "452",
 				"name": "John Thomas"
 			}
 		],
@@ -147,7 +147,7 @@
 		"num": 1,
 		"date": "2010-01-06",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -206,7 +206,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "155",
+				"id": "158",
 				"name": "Mockingbird"
 			},
 			{
@@ -226,7 +226,7 @@
 				"name": "Spider-Man"
 			},
 			{
-				"id": "156",
+				"id": "159",
 				"name": "Secret Warriors"
 			},
 			{
@@ -270,7 +270,7 @@
 				"name": "Hulkling"
 			},
 			{
-				"id": "157",
+				"id": "160",
 				"name": "Hood"
 			}
 		],
@@ -299,7 +299,7 @@
 		"num": 32,
 		"date": "2010-01-27",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -312,7 +312,7 @@
 				"name": "Christos Gage"
 			},
 			{
-				"id": "296",
+				"id": "300",
 				"name": "Mahmud Asrar"
 			}
 		],
@@ -330,7 +330,7 @@
 		"num": 13,
 		"date": "2010-01-20",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -370,7 +370,7 @@
 		"num": 82,
 		"date": "2010-01-20",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "125",
@@ -402,7 +402,7 @@
 		"num": 61,
 		"date": "2010-01-27",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -433,7 +433,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "155",
+				"id": "158",
 				"name": "Mockingbird"
 			},
 			{
@@ -441,7 +441,7 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "156",
+				"id": "159",
 				"name": "Secret Warriors"
 			},
 			{
@@ -486,7 +486,7 @@
 		"num": 1,
 		"date": "2010-01-06",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "026",
@@ -518,7 +518,7 @@
 		"num": 2,
 		"date": "2010-02-03",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -577,7 +577,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "155",
+				"id": "158",
 				"name": "Mockingbird"
 			},
 			{
@@ -597,7 +597,7 @@
 				"name": "Spider-Man"
 			},
 			{
-				"id": "156",
+				"id": "159",
 				"name": "Secret Warriors"
 			},
 			{
@@ -641,7 +641,7 @@
 				"name": "Hulkling"
 			},
 			{
-				"id": "157",
+				"id": "160",
 				"name": "Hood"
 			}
 		],
@@ -673,7 +673,7 @@
 		"num": 33,
 		"date": "2010-02-24",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -704,7 +704,7 @@
 		"num": 14,
 		"date": "2010-02-17",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -756,7 +756,7 @@
 		"num": 83,
 		"date": "2010-02-24",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "125",
@@ -788,7 +788,7 @@
 		"num": 62,
 		"date": "2010-02-24",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -819,7 +819,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "155",
+				"id": "158",
 				"name": "Mockingbird"
 			},
 			{
@@ -827,7 +827,7 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "156",
+				"id": "159",
 				"name": "Secret Warriors"
 			},
 			{
@@ -872,7 +872,7 @@
 		"num": 2,
 		"date": "2010-02-03",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "026",
@@ -904,7 +904,7 @@
 		"num": 607,
 		"date": "2010-02-24",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "014",
@@ -913,7 +913,7 @@
 		],
 		"creators": [
 			{
-				"id": "314",
+				"id": "317",
 				"name": "Kieron Gillen"
 			},
 			{
@@ -936,7 +936,7 @@
 		"num": 141,
 		"date": "2010-02-24",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "107",
@@ -953,7 +953,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "312",
+				"id": "316",
 				"name": "Miguel Sepulveda"
 			}
 		],
@@ -971,7 +971,7 @@
 		"num": 3,
 		"date": "2010-03-17",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -1030,7 +1030,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "155",
+				"id": "158",
 				"name": "Mockingbird"
 			},
 			{
@@ -1050,7 +1050,7 @@
 				"name": "Spider-Man"
 			},
 			{
-				"id": "156",
+				"id": "159",
 				"name": "Secret Warriors"
 			},
 			{
@@ -1094,7 +1094,7 @@
 				"name": "Hulkling"
 			},
 			{
-				"id": "157",
+				"id": "160",
 				"name": "Hood"
 			}
 		],
@@ -1126,7 +1126,7 @@
 		"num": 34,
 		"date": "2010-03-24",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -1157,7 +1157,7 @@
 		"num": 15,
 		"date": "2010-03-17",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -1209,7 +1209,7 @@
 		"num": 84,
 		"date": "2010-03-31",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "125",
@@ -1241,7 +1241,7 @@
 		"num": 1,
 		"date": "2010-04-14",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "056",
@@ -1258,7 +1258,7 @@
 				"name": "Christos Gage"
 			},
 			{
-				"id": "437",
+				"id": "453",
 				"name": "Federico Dallocchio"
 			}
 		],
@@ -1276,7 +1276,7 @@
 		"num": 1,
 		"date": "2010-04-21",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "023",
@@ -1293,7 +1293,7 @@
 				"name": "Brian Reed"
 			},
 			{
-				"id": "311",
+				"id": "315",
 				"name": "Marco Santucci"
 			}
 		],
@@ -1311,7 +1311,7 @@
 		"num": 1,
 		"date": "2010-04-14",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "016",
@@ -1320,11 +1320,11 @@
 		],
 		"creators": [
 			{
-				"id": "314",
+				"id": "317",
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "438",
+				"id": "454",
 				"name": "Jamie McKelvie"
 			}
 		],
@@ -1342,7 +1342,7 @@
 		"num": 1,
 		"date": "2010-04-14",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "079",
@@ -1371,7 +1371,7 @@
 				"name": "Sean McKeever"
 			},
 			{
-				"id": "296",
+				"id": "300",
 				"name": "Mahmud Asrar"
 			}
 		],
@@ -1389,10 +1389,10 @@
 		"num": 1,
 		"date": "2010-04-28",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
-				"id": "156",
+				"id": "159",
 				"name": "Secret Warriors"
 			},
 			{
@@ -1406,11 +1406,11 @@
 		],
 		"creators": [
 			{
-				"id": "347",
+				"id": "349",
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "410",
+				"id": "418",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -1428,7 +1428,7 @@
 		"num": 35,
 		"date": "2010-03-24",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -1480,7 +1480,7 @@
 		"num": 63,
 		"date": "2010-03-24",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -1511,7 +1511,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "155",
+				"id": "158",
 				"name": "Mockingbird"
 			},
 			{
@@ -1519,7 +1519,7 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "156",
+				"id": "159",
 				"name": "Secret Warriors"
 			},
 			{
@@ -1564,10 +1564,10 @@
 		"num": 11,
 		"date": "2010-03-31",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
-				"id": "160",
+				"id": "163",
 				"name": "New Mutants"
 			},
 			{
@@ -1577,11 +1577,11 @@
 		],
 		"creators": [
 			{
-				"id": "314",
+				"id": "317",
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "439",
+				"id": "455",
 				"name": "Niko Henrichon"
 			}
 		],
@@ -1599,7 +1599,7 @@
 		"num": 3,
 		"date": "2010-03-17",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "026",
@@ -1631,7 +1631,7 @@
 		"num": 608,
 		"date": "2010-03-24",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "014",
@@ -1640,7 +1640,7 @@
 		],
 		"creators": [
 			{
-				"id": "314",
+				"id": "317",
 				"name": "Kieron Gillen"
 			},
 			{
@@ -1663,7 +1663,7 @@
 		"num": 142,
 		"date": "2010-03-24",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "107",
@@ -1680,7 +1680,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "295",
+				"id": "299",
 				"name": "Wellington Alves"
 			}
 		],
@@ -1698,7 +1698,7 @@
 		"num": 4,
 		"date": "2010-05-12",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -1757,7 +1757,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "155",
+				"id": "158",
 				"name": "Mockingbird"
 			},
 			{
@@ -1777,7 +1777,7 @@
 				"name": "Spider-Man"
 			},
 			{
-				"id": "156",
+				"id": "159",
 				"name": "Secret Warriors"
 			},
 			{
@@ -1821,7 +1821,7 @@
 				"name": "Hulkling"
 			},
 			{
-				"id": "157",
+				"id": "160",
 				"name": "Hood"
 			}
 		],
@@ -1854,7 +1854,7 @@
 		"num": 35,
 		"date": "2010-05-12",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -1888,7 +1888,7 @@
 		"num": 16,
 		"date": "2010-05-12",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -1940,7 +1940,7 @@
 		"num": 1,
 		"date": "2010-05-12",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "013",
@@ -1972,7 +1972,7 @@
 		"num": 36,
 		"date": "2010-04-28",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -2027,7 +2027,7 @@
 		"num": 64,
 		"date": "2010-04-28",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -2058,7 +2058,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "155",
+				"id": "158",
 				"name": "Mockingbird"
 			},
 			{
@@ -2066,7 +2066,7 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "156",
+				"id": "159",
 				"name": "Secret Warriors"
 			},
 			{
@@ -2111,7 +2111,7 @@
 		"num": 4,
 		"date": "2010-05-12",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "026",
@@ -2143,7 +2143,7 @@
 		"num": 609,
 		"date": "2010-04-28",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "014",
@@ -2152,7 +2152,7 @@
 		],
 		"creators": [
 			{
-				"id": "314",
+				"id": "317",
 				"name": "Kieron Gillen"
 			},
 			{
@@ -2175,7 +2175,7 @@
 		"num": 610,
 		"date": "2010-05-26",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "014",
@@ -2184,11 +2184,11 @@
 		],
 		"creators": [
 			{
-				"id": "314",
+				"id": "317",
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "310",
+				"id": "314",
 				"name": "Doug Braithwaite"
 			}
 		],
@@ -2207,7 +2207,7 @@
 		"num": 143,
 		"date": "2010-04-28",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "107",
@@ -2228,7 +2228,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "312",
+				"id": "316",
 				"name": "Miguel Sepulveda"
 			}
 		],
@@ -2249,7 +2249,7 @@
 		"num": 1,
 		"date": "2010-05-12",
 		"event": "Siege",
-		"eventid": "014",
+		"eventid": "015",
 		"characters": [
 			{
 				"id": "059",
@@ -2280,7 +2280,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "155",
+				"id": "158",
 				"name": "Mockingbird"
 			},
 			{
@@ -2288,7 +2288,7 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "156",
+				"id": "159",
 				"name": "Secret Warriors"
 			},
 			{
@@ -2316,7 +2316,7 @@
 				"name": "Maria Hill"
 			},
 			{
-				"id": "157",
+				"id": "160",
 				"name": "Hood"
 			}
 		],

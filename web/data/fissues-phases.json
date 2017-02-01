@@ -9103,32 +9103,32 @@
 				"comiclist": [
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 1
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 2
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 3
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 4
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 5
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 6
 					}
 				]
@@ -10944,22 +10944,22 @@
 				"comiclist": [
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 7
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 8
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 9
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 10
 					}
 				]
@@ -11582,12 +11582,12 @@
 				"comiclist": [
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 11
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 12
 					}
 				]
@@ -13564,37 +13564,37 @@
 				"comiclist": [
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 13
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 14
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 15
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 16
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 17
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 18
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 19
 					}
 				]
@@ -13614,32 +13614,32 @@
 				"comiclist": [
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 20
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 21
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 22
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 23
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 24
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 25
 					}
 				]
@@ -17499,6 +17499,51 @@
 				]
 			},
 			{
+				"title": "Marvel 1985",
+				"date": "2008-05-29",
+				"characters": [
+					{
+						"id": "147",
+						"name": "Clyde Wyncham"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/4bb82a2cec3ab.jpg",
+				"phaseid": "007",
+				"sortid": "163",
+				"comiclist": [
+					{
+						"collection": "Marvel 1985",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Marvel 1985",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Marvel 1985",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Marvel 1985",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Marvel 1985",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Marvel 1985",
+						"vol": 1,
+						"num": 6
+					}
+				]
+			},
+			{
 				"title": "World's Greatest",
 				"date": "2008-02-13",
 				"characters": [
@@ -17510,7 +17555,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/57e977e7c0e45.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "163",
+				"sortid": "164",
 				"comiclist": [
 					{
 						"collection": "Fantastic Four",
@@ -17560,6 +17605,41 @@
 				]
 			},
 			{
+				"title": "Fantastic Force",
+				"date": "2009-04-22",
+				"characters": [
+					{
+						"id": "148",
+						"name": "Fantastic Force"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4bb574bf78b6f.jpg",
+				"phaseid": "007",
+				"sortid": "165",
+				"comiclist": [
+					{
+						"collection": "Fantastic Force",
+						"vol": 2,
+						"num": 1
+					},
+					{
+						"collection": "Fantastic Force",
+						"vol": 2,
+						"num": 2
+					},
+					{
+						"collection": "Fantastic Force",
+						"vol": 2,
+						"num": 3
+					},
+					{
+						"collection": "Fantastic Force",
+						"vol": 2,
+						"num": 4
+					}
+				]
+			},
+			{
 				"title": "Holidays",
 				"date": "2009-01-28",
 				"characters": [
@@ -17571,7 +17651,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/57e973a44da9e.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "164",
+				"sortid": "166",
 				"comiclist": [
 					{
 						"collection": "Fantastic Four",
@@ -17602,7 +17682,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/566a0018c857d.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "165",
+				"sortid": "167",
 				"comiclist": [
 					{
 						"collection": "Nova",
@@ -17633,7 +17713,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/513a75867ca5d.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "166",
+				"sortid": "168",
 				"comiclist": [
 					{
 						"collection": "Annihilation Conquest Prologue",
@@ -17654,7 +17734,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/51df02ba8e64e.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "167",
+				"sortid": "169",
 				"comiclist": [
 					{
 						"collection": "Annihilation Conquest Quasar",
@@ -17730,7 +17810,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/578e841c9535a.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "168",
+				"sortid": "170",
 				"comiclist": [
 					{
 						"collection": "Nova",
@@ -17796,7 +17876,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4e8381b35e231.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "169",
+				"sortid": "171",
 				"comiclist": [
 					{
 						"collection": "Annihilation Conquest",
@@ -17842,7 +17922,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/517ad3738f6a1.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "170",
+				"sortid": "172",
 				"comiclist": [
 					{
 						"collection": "Guardians of the Galaxy",
@@ -17873,7 +17953,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5151f2075ae76.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "171",
+				"sortid": "173",
 				"comiclist": [
 					{
 						"collection": "Nova",
@@ -17904,7 +17984,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5176b0fc854c1.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "172",
+				"sortid": "174",
 				"comiclist": [
 					{
 						"collection": "Invincible Iron Man",
@@ -17948,13 +18028,13 @@
 				"date": "2008-06-11",
 				"characters": [
 					{
-						"id": "151",
+						"id": "154",
 						"name": "Skaar"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bb7c826b5dc7.jpg",
 				"phaseid": "007",
-				"sortid": "173",
+				"sortid": "175",
 				"comiclist": [
 					{
 						"collection": "Skaar Son of Hulk",
@@ -18010,7 +18090,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc3978adfd4a.jpg",
 				"essential": true,
 				"phaseid": "007",
-				"sortid": "174",
+				"sortid": "176",
 				"comiclist": [
 					{
 						"collection": "X-Men Emperor Vulcan",
@@ -18050,7 +18130,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4f71b93bc1f6c.jpg",
 				"phaseid": "007",
-				"sortid": "175",
+				"sortid": "177",
 				"comiclist": [
 					{
 						"collection": "Avengers / Invaders",
@@ -18095,7 +18175,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/4f84716fb7fbe.jpg",
 				"phaseid": "007",
-				"sortid": "176",
+				"sortid": "178",
 				"comiclist": [
 					{
 						"collection": "Avengers / Invaders",
@@ -18425,7 +18505,7 @@
 				"date": "2008-05-14",
 				"characters": [
 					{
-						"id": "158",
+						"id": "161",
 						"name": "Captain Britain"
 					}
 				],
@@ -18569,7 +18649,7 @@
 				"date": "2008-06-11",
 				"characters": [
 					{
-						"id": "158",
+						"id": "161",
 						"name": "Captain Britain"
 					}
 				],
@@ -18752,7 +18832,7 @@
 				"date": "2008-07-09",
 				"characters": [
 					{
-						"id": "158",
+						"id": "161",
 						"name": "Captain Britain"
 					}
 				],
@@ -19118,7 +19198,7 @@
 				"date": "2008-08-13",
 				"characters": [
 					{
-						"id": "158",
+						"id": "161",
 						"name": "Captain Britain"
 					}
 				],
@@ -20427,32 +20507,32 @@
 				"comiclist": [
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 26
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 27
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 28
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 29
 					},
 					{
 						"collection": "Moon Knight",
-						"vol": 3,
+						"vol": 5,
 						"num": 30
 					},
 					{
 						"collection": "Moon Knight Annual",
-						"vol": 3,
+						"vol": 1,
 						"num": 1
 					}
 				]
@@ -20850,7 +20930,7 @@
 				"date": "2008-12-03",
 				"characters": [
 					{
-						"id": "160",
+						"id": "163",
 						"name": "New Mutants"
 					}
 				],
@@ -20951,7 +21031,7 @@
 				"date": "2008-06-18",
 				"characters": [
 					{
-						"id": "161",
+						"id": "149",
 						"name": "Old Man Logan"
 					}
 				],
@@ -21346,7 +21426,7 @@
 				"date": "2008-09-17",
 				"characters": [
 					{
-						"id": "158",
+						"id": "161",
 						"name": "Captain Britain"
 					}
 				],
@@ -21386,7 +21466,7 @@
 				"date": "2009-02-11",
 				"characters": [
 					{
-						"id": "158",
+						"id": "161",
 						"name": "Captain Britain"
 					}
 				],
@@ -22329,7 +22409,7 @@
 				"date": "2009-04-22",
 				"characters": [
 					{
-						"id": "162",
+						"id": "164",
 						"name": "Skrull Kill Krew"
 					}
 				],
@@ -22404,7 +22484,7 @@
 				"date": "2009-02-04",
 				"characters": [
 					{
-						"id": "156",
+						"id": "159",
 						"name": "Secret Warriors"
 					}
 				],
@@ -22550,7 +22630,7 @@
 				"date": "2009-05-28",
 				"characters": [
 					{
-						"id": "157",
+						"id": "160",
 						"name": "Hood"
 					}
 				],
@@ -22705,7 +22785,7 @@
 				"date": "2009-06-24",
 				"characters": [
 					{
-						"id": "163",
+						"id": "165",
 						"name": ""
 					}
 				],
@@ -22735,7 +22815,7 @@
 				"date": "2009-05-20",
 				"characters": [
 					{
-						"id": "164",
+						"id": "166",
 						"name": "Lyra"
 					}
 				],
@@ -23966,6 +24046,11 @@
 						"collection": "Captain America",
 						"vol": 1,
 						"num": 600
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 601
 					}
 				]
 			},
@@ -24528,7 +24613,7 @@
 				"date": "2009-05-06",
 				"characters": [
 					{
-						"id": "160",
+						"id": "163",
 						"name": "New Mutants"
 					}
 				],
@@ -25116,7 +25201,7 @@
 				"date": "2009-01-21",
 				"characters": [
 					{
-						"id": "151",
+						"id": "154",
 						"name": "Skaar"
 					}
 				],
@@ -25261,7 +25346,7 @@
 				"date": "2009-07-29",
 				"characters": [
 					{
-						"id": "152",
+						"id": "155",
 						"name": "Hiro-Kala"
 					}
 				],
@@ -25523,6 +25608,503 @@
 				]
 			},
 			{
+				"title": "Realm of Kings",
+				"date": "2009-11-18",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5771450ef044c.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "132",
+				"comiclist": [
+					{
+						"collection": "Realm of Kings",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Realm of Kings Imperial Guard",
+				"date": "2009-11-11",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/577fdd0cbfa32.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "133",
+				"comiclist": [
+					{
+						"collection": "Realm of Kings Imperial Guard",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Realm of Kings Inhumans",
+				"date": "2009-11-18",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/577145e52c26a.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "134",
+				"comiclist": [
+					{
+						"collection": "Realm of Kings Inhumans",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Fault Lines",
+				"date": "2009-11-25",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/517ad68878d23.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "135",
+				"comiclist": [
+					{
+						"collection": "Guardians of the Galaxy",
+						"vol": 2,
+						"num": 20
+					}
+				]
+			},
+			{
+				"title": "Riddle of the Sphinx",
+				"date": "2009-12-03",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5669fdd721c60.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "136",
+				"comiclist": [
+					{
+						"collection": "Nova",
+						"vol": 4,
+						"num": 32
+					}
+				]
+			},
+			{
+				"title": "Realm of Kings Imperial Guard",
+				"date": "2009-12-09",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/04/577fefb6abb89.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "137",
+				"comiclist": [
+					{
+						"collection": "Realm of Kings Imperial Guard",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Realm of Kings Inhumans",
+				"date": "2009-12-16",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/5771456df1256.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "138",
+				"comiclist": [
+					{
+						"collection": "Realm of Kings Inhumans",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Realm of Kings",
+				"date": "2009-12-23",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/517ad7e750faf.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "139",
+				"comiclist": [
+					{
+						"collection": "Guardians of the Galaxy",
+						"vol": 2,
+						"num": 21
+					}
+				]
+			},
+			{
+				"title": "Riddle of the Sphinx",
+				"date": "2010-01-20",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5669fca15d165.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "140",
+				"comiclist": [
+					{
+						"collection": "Nova",
+						"vol": 4,
+						"num": 33
+					}
+				]
+			},
+			{
+				"title": "Realm of Kings Imperial Guard",
+				"date": "2010-01-13",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/577ff16ff0ee1.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "141",
+				"comiclist": [
+					{
+						"collection": "Realm of Kings Imperial Guard",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Realm of Kings Inhumans",
+				"date": "2010-01-20",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/577ff6cff41aa.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "142",
+				"comiclist": [
+					{
+						"collection": "Realm of Kings Inhumans",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Happy Birthday",
+				"date": "2010-01-27",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/517ad7df48bd9.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "143",
+				"comiclist": [
+					{
+						"collection": "Guardians of the Galaxy",
+						"vol": 2,
+						"num": 22
+					}
+				]
+			},
+			{
+				"title": "Riddle of the Sphinx",
+				"date": "2010-02-03",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "https://i.annihil.us/u/prod/marvel/i/mg/a/40/5669fc626f5dc/detail.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "144",
+				"comiclist": [
+					{
+						"collection": "Nova",
+						"vol": 4,
+						"num": 34
+					}
+				]
+			},
+			{
+				"title": "Realm of Kings Imperial Guard",
+				"date": "2010-02-10",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/577ff23a6aa07.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "145",
+				"comiclist": [
+					{
+						"collection": "Realm of Kings Imperial Guard",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Realm of Kings Inhumans",
+				"date": "2010-02-24",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/e0/577ff76855eb8.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "146",
+				"comiclist": [
+					{
+						"collection": "Realm of Kings Inhumans",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Mad god Triumphant",
+				"date": "2010-02-17",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "https://i.annihil.us/u/prod/marvel/i/mg/a/20/517ad7d83fa99/detail.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "147",
+				"comiclist": [
+					{
+						"collection": "Guardians of the Galaxy",
+						"vol": 2,
+						"num": 23
+					}
+				]
+			},
+			{
+				"title": "Riddle of the Sphinx",
+				"date": "2010-03-17",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5790f94dc6b70.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "148",
+				"comiclist": [
+					{
+						"collection": "Nova",
+						"vol": 4,
+						"num": 35
+					}
+				]
+			},
+			{
+				"title": "Realm of Kings Imperial Guard",
+				"date": "2010-03-17",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/577ff2db8b948.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "149",
+				"comiclist": [
+					{
+						"collection": "Realm of Kings Imperial Guard",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Realm of Kings Inhumans",
+				"date": "2010-03-31",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/577ff87dcc650.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "150",
+				"comiclist": [
+					{
+						"collection": "Realm of Kings Inhumans",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "What Lies in the Cocoon",
+				"date": "2010-03-17",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/517ad7cb98978.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "151",
+				"comiclist": [
+					{
+						"collection": "Guardians of the Galaxy",
+						"vol": 2,
+						"num": 24
+					}
+				]
+			},
+			{
+				"title": "Realm of Kings Son of Hulk",
+				"date": "2010-02-03",
+				"characters": [
+					{
+						"id": "155",
+						"name": "Hiro-Kala"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/00/57714056f2785.jpg",
+				"phaseid": "009",
+				"sortid": "152",
+				"comiclist": [
+					{
+						"collection": "Realm of Kings Son of Hulk",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Realm of Kings Son of Hulk",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Realm of Kings Son of Hulk",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Realm of Kings Son of Hulk",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Thanos Lives",
+				"date": "2010-04-21",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/517ad7c491ddf.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "153",
+				"comiclist": [
+					{
+						"collection": "Guardians of the Galaxy",
+						"vol": 2,
+						"num": 25
+					}
+				]
+			},
+			{
+				"title": "Riddle of the Sphinx",
+				"date": "2010-04-21",
+				"characters": [
+					{
+						"id": "018",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/5788ed20bdc1e.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "154",
+				"comiclist": [
+					{
+						"collection": "Nova",
+						"vol": 4,
+						"num": 36
+					}
+				]
+			},
+			{
 				"title": "Prince of Power",
 				"date": "2009-05-28",
 				"characters": [
@@ -25533,7 +26115,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bb52f7da4984.jpg",
 				"phaseid": "009",
-				"sortid": "132",
+				"sortid": "155",
 				"comiclist": [
 					{
 						"collection": "Incredible Hercules",
@@ -25563,7 +26145,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4bb492331aa5b.jpg",
 				"phaseid": "009",
-				"sortid": "133",
+				"sortid": "156",
 				"comiclist": [
 					{
 						"collection": "Incredible Hercules",
@@ -25608,7 +26190,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/56dddf0d976f0.jpg",
 				"phaseid": "009",
-				"sortid": "134",
+				"sortid": "157",
 				"comiclist": [
 					{
 						"collection": "Assault on New Olympus",
@@ -25659,7 +26241,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bb3d3cd4b4a6.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "135",
+				"sortid": "158",
 				"comiclist": [
 					{
 						"collection": "Dark Reign The List Daredevil",
@@ -25679,7 +26261,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/4bb3cd33119bb.jpg",
 				"phaseid": "009",
-				"sortid": "136",
+				"sortid": "159",
 				"comiclist": [
 					{
 						"collection": "Dark Wolverine",
@@ -25699,7 +26281,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4f761984d7bad.jpg",
 				"phaseid": "009",
-				"sortid": "137",
+				"sortid": "160",
 				"comiclist": [
 					{
 						"collection": "Dark Reign The List Wolverine",
@@ -25720,7 +26302,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/52c5cb495d37b.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "138",
+				"sortid": "161",
 				"comiclist": [
 					{
 						"collection": "Dark Avengers Annual",
@@ -25740,7 +26322,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5744d001edb18.jpg",
 				"phaseid": "009",
-				"sortid": "139",
+				"sortid": "162",
 				"comiclist": [
 					{
 						"collection": "Thunderbolts",
@@ -25764,14 +26346,14 @@
 				"date": "2009-08-26",
 				"characters": [
 					{
-						"id": "156",
+						"id": "159",
 						"name": "Secret Warriors"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/4f677b3c5548c.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "140",
+				"sortid": "163",
 				"comiclist": [
 					{
 						"collection": "Secret Warriors",
@@ -25791,7 +26373,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/5744ce9895db7.jpg",
 				"phaseid": "009",
-				"sortid": "141",
+				"sortid": "164",
 				"comiclist": [
 					{
 						"collection": "Thunderbolts",
@@ -25805,14 +26387,14 @@
 				"date": "2009-09-30",
 				"characters": [
 					{
-						"id": "156",
+						"id": "159",
 						"name": "Secret Warriors"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/4f677cf58d50c.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "142",
+				"sortid": "165",
 				"comiclist": [
 					{
 						"collection": "Secret Warriors",
@@ -25832,7 +26414,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/5744cee2d0a87.jpg",
 				"phaseid": "009",
-				"sortid": "143",
+				"sortid": "166",
 				"comiclist": [
 					{
 						"collection": "Thunderbolts",
@@ -25846,14 +26428,14 @@
 				"date": "2009-10-28",
 				"characters": [
 					{
-						"id": "156",
+						"id": "159",
 						"name": "Secret Warriors"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4f677e77a5a48.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "144",
+				"sortid": "167",
 				"comiclist": [
 					{
 						"collection": "Secret Warriors",
@@ -25873,7 +26455,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4bb435c4240c3.jpg",
 				"phaseid": "009",
-				"sortid": "145",
+				"sortid": "168",
 				"comiclist": [
 					{
 						"collection": "Dark Avengers Ares",
@@ -25897,14 +26479,14 @@
 				"date": "2009-10-07",
 				"characters": [
 					{
-						"id": "156",
+						"id": "159",
 						"name": "Secret Warriors"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/f0/4bb3dcdd1cffd.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "146",
+				"sortid": "169",
 				"comiclist": [
 					{
 						"collection": "Dark Reign The List Secret Warriors",
@@ -25918,14 +26500,14 @@
 				"date": "2009-11-25",
 				"characters": [
 					{
-						"id": "156",
+						"id": "159",
 						"name": "Secret Warriors"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/4f67809f03e81.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "147",
+				"sortid": "170",
 				"comiclist": [
 					{
 						"collection": "Secret Warriors",
@@ -25946,7 +26528,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4f7b0b5169b80.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "148",
+				"sortid": "171",
 				"comiclist": [
 					{
 						"collection": "Invincible Iron Man",
@@ -25981,7 +26563,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5744d10b9a1e1.jpg",
 				"phaseid": "009",
-				"sortid": "149",
+				"sortid": "172",
 				"comiclist": [
 					{
 						"collection": "Thunderbolts",
@@ -26001,7 +26583,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bb3d1f8b5d0f.jpg",
 				"phaseid": "009",
-				"sortid": "150",
+				"sortid": "173",
 				"comiclist": [
 					{
 						"collection": "Dark Reign The List Punisher",
@@ -26022,7 +26604,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bb409baa8b6b.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "151",
+				"sortid": "174",
 				"comiclist": [
 					{
 						"collection": "Dark Reign The List Spider-Man",
@@ -26043,7 +26625,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4f7b0f65c9e15.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "152",
+				"sortid": "175",
 				"comiclist": [
 					{
 						"collection": "Invincible Iron Man",
@@ -26069,7 +26651,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/514ca04f8dedc.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "153",
+				"sortid": "176",
 				"comiclist": [
 					{
 						"collection": "Dark Avengers",
@@ -26105,7 +26687,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/4e95d72bcf5c8.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "154",
+				"sortid": "177",
 				"comiclist": [
 					{
 						"collection": "Avengers The Initiative",
@@ -26125,7 +26707,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/517ea6c59726f.jpg",
 				"phaseid": "009",
-				"sortid": "155",
+				"sortid": "178",
 				"comiclist": [
 					{
 						"collection": "Thunderbolts",
@@ -26156,7 +26738,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/4f7c7a30cfef3.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "156",
+				"sortid": "179",
 				"comiclist": [
 					{
 						"collection": "Invincible Iron Man",
@@ -26197,7 +26779,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/50b4fd935fd9b.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "157",
+				"sortid": "180",
 				"comiclist": [
 					{
 						"collection": "Thor Giant Size Finale",
@@ -26218,7 +26800,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/56f2c6e1dc505.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "158",
+				"sortid": "181",
 				"comiclist": [
 					{
 						"collection": "Thor",
@@ -26248,7 +26830,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bb6ccb0539b5.jpg",
 				"phaseid": "009",
-				"sortid": "159",
+				"sortid": "182",
 				"comiclist": [
 					{
 						"collection": "Monster Size Hulk",
@@ -26278,7 +26860,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/52c5ce05901fb.jpg",
 				"phaseid": "009",
-				"sortid": "160",
+				"sortid": "183",
 				"comiclist": [
 					{
 						"collection": "Fall of the Hulks Alpha",
@@ -26303,7 +26885,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4f634ab8bc32b.jpg",
 				"phaseid": "009",
-				"sortid": "161",
+				"sortid": "184",
 				"comiclist": [
 					{
 						"collection": "Hulk",
@@ -26323,7 +26905,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/52c5ce705cd4f.jpg",
 				"phaseid": "009",
-				"sortid": "162",
+				"sortid": "185",
 				"comiclist": [
 					{
 						"collection": "Fall of the Hulks Red Hulk",
@@ -26343,7 +26925,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/52c5cdf707041.jpg",
 				"phaseid": "009",
-				"sortid": "163",
+				"sortid": "186",
 				"comiclist": [
 					{
 						"collection": "Incredible Hulk",
@@ -26373,7 +26955,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4f5a576d32dbc.jpg",
 				"phaseid": "009",
-				"sortid": "164",
+				"sortid": "187",
 				"comiclist": [
 					{
 						"collection": "Fall of the Hulks Red Hulk",
@@ -26393,7 +26975,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4f6385a241d9e.jpg",
 				"phaseid": "009",
-				"sortid": "165",
+				"sortid": "188",
 				"comiclist": [
 					{
 						"collection": "Fall of the Hulks Savage She-Hulks",
@@ -26413,7 +26995,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4f5a57f31ad93.jpg",
 				"phaseid": "009",
-				"sortid": "166",
+				"sortid": "189",
 				"comiclist": [
 					{
 						"collection": "Fall of the Hulks Red Hulk",
@@ -26433,7 +27015,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4f634bb057b74.jpg",
 				"phaseid": "009",
-				"sortid": "167",
+				"sortid": "190",
 				"comiclist": [
 					{
 						"collection": "Hulk",
@@ -26458,7 +27040,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4f58d4abd06f6.jpg",
 				"phaseid": "009",
-				"sortid": "168",
+				"sortid": "191",
 				"comiclist": [
 					{
 						"collection": "Fall of the Hulks Savage She-Hulks",
@@ -26483,7 +27065,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4f58c35d27648.jpg",
 				"phaseid": "009",
-				"sortid": "169",
+				"sortid": "192",
 				"comiclist": [
 					{
 						"collection": "Fall of the Hulks Red Hulk",
@@ -26503,7 +27085,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4f58d401da1d2.jpg",
 				"phaseid": "009",
-				"sortid": "170",
+				"sortid": "193",
 				"comiclist": [
 					{
 						"collection": "World War Hulks",
@@ -26523,7 +27105,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/55b6825f4e04b.jpg",
 				"phaseid": "009",
-				"sortid": "171",
+				"sortid": "194",
 				"comiclist": [
 					{
 						"collection": "World War Hulks Hulked Out Heroes",
@@ -26548,7 +27130,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4f58c476480f1.jpg",
 				"phaseid": "009",
-				"sortid": "172",
+				"sortid": "195",
 				"comiclist": [
 					{
 						"collection": "Hulk",
@@ -26573,7 +27155,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4f58d5c7e06b8.jpg",
 				"phaseid": "009",
-				"sortid": "173",
+				"sortid": "196",
 				"comiclist": [
 					{
 						"collection": "World War Huks Spider-Man \u0026 Thor",
@@ -26598,7 +27180,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4bc5dd6a8dee0.jpg",
 				"phaseid": "009",
-				"sortid": "174",
+				"sortid": "197",
 				"comiclist": [
 					{
 						"collection": "World War Huks Wolverine \u0026 Captain America",
@@ -26623,7 +27205,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/4f58c573689c1.jpg",
 				"phaseid": "009",
-				"sortid": "175",
+				"sortid": "198",
 				"comiclist": [
 					{
 						"collection": "Hulk",
@@ -26659,7 +27241,7 @@
 				"pic": "https://i.annihil.us/u/prod/marvel/i/mg/1/03/58052424f30f3/detail.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "176",
+				"sortid": "199",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -26680,7 +27262,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5806263ecd015.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "177",
+				"sortid": "200",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -26721,7 +27303,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/58062c667891a.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "178",
+				"sortid": "201",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -26767,7 +27349,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/58063016378cb.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "179",
+				"sortid": "202",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -26808,7 +27390,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5807bb41cf02d.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "180",
+				"sortid": "203",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -26844,7 +27426,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5808c5aed97c1.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "181",
+				"sortid": "204",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -26880,7 +27462,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5808d44a19ac8.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "182",
+				"sortid": "205",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -26921,7 +27503,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/5808dabe510d9.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "183",
+				"sortid": "206",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -26961,7 +27543,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/56a93af146d19.jpg",
 				"phaseid": "009",
-				"sortid": "184",
+				"sortid": "207",
 				"comiclist": [
 					{
 						"collection": "Peter Parker",
@@ -27007,7 +27589,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/57e97647a6842.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "185",
+				"sortid": "208",
 				"comiclist": [
 					{
 						"collection": "Fantastic Four",
@@ -27042,7 +27624,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bb3e76399e2c.jpg",
 				"phaseid": "009",
-				"sortid": "186",
+				"sortid": "209",
 				"comiclist": [
 					{
 						"collection": "X-Factor",
@@ -27092,7 +27674,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4bacac9dea217.jpg",
 				"phaseid": "009",
-				"sortid": "187",
+				"sortid": "210",
 				"comiclist": [
 					{
 						"collection": "X-Factor",
@@ -27132,7 +27714,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/51a4fb6fac0e5.jpg",
 				"phaseid": "009",
-				"sortid": "188",
+				"sortid": "211",
 				"comiclist": [
 					{
 						"collection": "Deadpool",
@@ -27161,14 +27743,14 @@
 				"date": "2009-12-23",
 				"characters": [
 					{
-						"id": "156",
+						"id": "159",
 						"name": "Secret Warriors"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/51f68aa198b78.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "189",
+				"sortid": "212",
 				"comiclist": [
 					{
 						"collection": "Secret Warriors",
@@ -27213,7 +27795,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/56533d9dd40e3.jpg",
 				"phaseid": "009",
-				"sortid": "190",
+				"sortid": "213",
 				"comiclist": [
 					{
 						"collection": "Agents of Atlas",
@@ -27243,7 +27825,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4bb3df7c5cfa8.jpg",
 				"phaseid": "009",
-				"sortid": "191",
+				"sortid": "214",
 				"comiclist": [
 					{
 						"collection": "X-Men vs Agents of Atlas",
@@ -27288,7 +27870,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/56dddf0d976f0.jpg",
 				"phaseid": "009",
-				"sortid": "192",
+				"sortid": "215",
 				"comiclist": [
 					{
 						"collection": "Assault on New Olympus",
@@ -27373,7 +27955,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4bb3e5735f167.jpg",
 				"phaseid": "009",
-				"sortid": "193",
+				"sortid": "216",
 				"comiclist": [
 					{
 						"collection": "X-Men Legacy Annual",
@@ -27409,7 +27991,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/513f50775a06e.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "194",
+				"sortid": "217",
 				"comiclist": [
 					{
 						"collection": "Uncanny X-Men",
@@ -27484,7 +28066,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/58471a92860d8.jpg",
 				"phaseid": "009",
-				"sortid": "195",
+				"sortid": "218",
 				"comiclist": [
 					{
 						"collection": "Wolverine Origins",
@@ -27524,7 +28106,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4bb3ccc7bc8f5.jpg",
 				"phaseid": "009",
-				"sortid": "196",
+				"sortid": "219",
 				"comiclist": [
 					{
 						"collection": "X-Factor",
@@ -27564,7 +28146,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4f68baf4ae3f3.jpg",
 				"phaseid": "009",
-				"sortid": "197",
+				"sortid": "220",
 				"comiclist": [
 					{
 						"collection": "Wolverine The Best There Is",
@@ -27609,7 +28191,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/55c3da586dd6a.jpg",
 				"phaseid": "009",
-				"sortid": "198",
+				"sortid": "221",
 				"comiclist": [
 					{
 						"collection": "Wolverine The Best There Is",
@@ -27654,7 +28236,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/b0/577d34f19e959.jpg",
 				"phaseid": "009",
-				"sortid": "199",
+				"sortid": "222",
 				"comiclist": [
 					{
 						"collection": "Psylocke",
@@ -27689,7 +28271,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/55ccc09d5ba8f.jpg",
 				"phaseid": "009",
-				"sortid": "200",
+				"sortid": "223",
 				"comiclist": [
 					{
 						"collection": "X-Force",
@@ -27725,7 +28307,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5768037ad8ed4.jpg",
 				"essential": true,
 				"phaseid": "009",
-				"sortid": "201",
+				"sortid": "224",
 				"comiclist": [
 					{
 						"collection": "X-Necrosha The Gathering",
@@ -27815,7 +28397,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4bc5df2daed85.jpg",
 				"phaseid": "009",
-				"sortid": "202",
+				"sortid": "225",
 				"comiclist": [
 					{
 						"collection": "X-Force Sex and Violence",
@@ -27839,13 +28421,13 @@
 				"date": "2010-01-06",
 				"characters": [
 					{
-						"id": "160",
+						"id": "163",
 						"name": "New Mutants"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/5155ca827b042.jpg",
 				"phaseid": "009",
-				"sortid": "203",
+				"sortid": "226",
 				"comiclist": [
 					{
 						"collection": "New Mutants",
@@ -27861,6 +28443,288 @@
 						"collection": "X-Men Unlimited",
 						"vol": 1,
 						"num": 43
+					}
+				]
+			},
+			{
+				"title": "The Depths",
+				"date": "2008-09-03",
+				"characters": [
+					{
+						"id": "051",
+						"name": "Namor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/55c90e8802c0f.jpg",
+				"phaseid": "009",
+				"sortid": "227",
+				"comiclist": [
+					{
+						"collection": "Sub-Mariner The Depths",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Sub-Mariner The Depths",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Sub-Mariner The Depths",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Sub-Mariner The Depths",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Sub-Mariner The Depths",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Masters of Evil",
+				"date": "2009-01-21",
+				"characters": [
+					{
+						"id": "040",
+						"name": "Doctor Doom"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/56fd4f2e73631.jpg",
+				"phaseid": "009",
+				"sortid": "228",
+				"comiclist": [
+					{
+						"collection": "Doctor Doom and the Masters of Evil",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Doctor Doom and the Masters of Evil",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Doctor Doom and the Masters of Evil",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Doctor Doom and the Masters of Evil",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Solve Everything",
+				"date": "2009-08-26",
+				"characters": [
+					{
+						"id": "035",
+						"name": "Fantastic Four"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/51db29bc24a98.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "229",
+				"comiclist": [
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 570
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 571
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 572
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 573
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 574
+					}
+				]
+			},
+			{
+				"title": "Prime Elements",
+				"date": "2010-01-27",
+				"characters": [
+					{
+						"id": "035",
+						"name": "Fantastic Four"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/51db2ce101887.jpg",
+				"essential": true,
+				"phaseid": "009",
+				"sortid": "230",
+				"comiclist": [
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 575
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 576
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 577
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 578
+					}
+				]
+			},
+			{
+				"title": "Best You Can Be",
+				"date": "2009-11-25",
+				"characters": [
+					{
+						"id": "065",
+						"name": "Carol Danvers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/5769653156ef0.jpg",
+				"phaseid": "009",
+				"sortid": "231",
+				"comiclist": [
+					{
+						"collection": "Ms Marvel",
+						"vol": 2,
+						"num": 47
+					},
+					{
+						"collection": "Ms Marvel",
+						"vol": 2,
+						"num": 48
+					},
+					{
+						"collection": "Ms Marvel",
+						"vol": 2,
+						"num": 49
+					},
+					{
+						"collection": "Ms Marvel",
+						"vol": 2,
+						"num": 50
+					}
+				]
+			},
+			{
+				"title": "Franken-Castle",
+				"date": "2009-11-18",
+				"characters": [
+					{
+						"id": "009",
+						"name": "Punisher"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/582ca9aa93dfa.jpg",
+				"phaseid": "009",
+				"sortid": "232",
+				"comiclist": [
+					{
+						"collection": "Punisher",
+						"vol": 7,
+						"num": 11
+					},
+					{
+						"collection": "Punisher",
+						"vol": 7,
+						"num": 12
+					},
+					{
+						"collection": "Punisher",
+						"vol": 7,
+						"num": 13
+					},
+					{
+						"collection": "Punisher",
+						"vol": 7,
+						"num": 14
+					},
+					{
+						"collection": "Punisher",
+						"vol": 7,
+						"num": 15
+					},
+					{
+						"collection": "Punisher",
+						"vol": 7,
+						"num": 16
+					}
+				]
+			},
+			{
+				"title": "Special Relationship",
+				"date": "2010-04-14",
+				"characters": [
+					{
+						"id": "087",
+						"name": "Deadpool"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/563ce77249d55.jpg",
+				"phaseid": "009",
+				"sortid": "233",
+				"comiclist": [
+					{
+						"collection": "Deadpool Team-Up",
+						"vol": 1,
+						"num": 894
+					},
+					{
+						"collection": "Deadpool Team-Up",
+						"vol": 1,
+						"num": 893
+					},
+					{
+						"collection": "Deadpool Team-Up",
+						"vol": 1,
+						"num": 892
+					},
+					{
+						"collection": "Deadpool Team-Up",
+						"vol": 1,
+						"num": 891
+					},
+					{
+						"collection": "Deadpool Team-Up",
+						"vol": 1,
+						"num": 890
+					},
+					{
+						"collection": "Deadpool Team-Up",
+						"vol": 1,
+						"num": 889
+					},
+					{
+						"collection": "Deadpool Team-Up",
+						"vol": 1,
+						"num": 888
 					}
 				]
 			}
@@ -28348,7 +29212,7 @@
 				"date": "2010-03-31",
 				"characters": [
 					{
-						"id": "160",
+						"id": "163",
 						"name": "New Mutants"
 					}
 				],
@@ -28631,236 +29495,169 @@
 		},
 		"list": [
 			{
-				"title": "Shed",
-				"date": "2010-05-05",
+				"title": "Avengers Prime",
+				"date": "2010-06-03",
 				"characters": [
 					{
-						"id": "023",
-						"name": "Spider-Man"
+						"id": "056",
+						"name": "Steve Rogers"
 					}
 				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/5808e1a20feb7.jpg",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4f7b0740b2e99.jpg",
 				"essential": true,
 				"phaseid": "011",
 				"sortid": "001",
 				"comiclist": [
 					{
-						"collection": "Amazing Spider-Man",
+						"collection": "Avengers Prime",
 						"vol": 1,
-						"num": 630
+						"num": 1
 					},
 					{
-						"collection": "Amazing Spider-Man",
+						"collection": "Avengers Prime",
 						"vol": 1,
-						"num": 631
+						"num": 2
 					},
 					{
-						"collection": "Amazing Spider-Man",
+						"collection": "Avengers Prime",
 						"vol": 1,
-						"num": 632
+						"num": 3
 					},
 					{
-						"collection": "Amazing Spider-Man",
+						"collection": "Avengers Prime",
 						"vol": 1,
-						"num": 633
+						"num": 4
 					},
 					{
-						"collection": "Web of Spider-Man",
-						"vol": 2,
-						"num": 6
+						"collection": "Avengers Prime",
+						"vol": 1,
+						"num": 5
 					}
 				]
 			},
 			{
-				"title": "Grim Hunt",
-				"date": "2010-04-14",
+				"title": "Two Americas",
+				"date": "2010-01-20",
 				"characters": [
 					{
-						"id": "023",
-						"name": "Spider-Man"
+						"id": "089",
+						"name": "Bucky Barnes"
 					}
 				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bac3d0953e04.jpg",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/513f6e365d089.jpg",
 				"essential": true,
 				"phaseid": "011",
 				"sortid": "002",
 				"comiclist": [
 					{
-						"collection": "Amazing Spider-Man Origin of the Hunter",
+						"collection": "Captain America",
 						"vol": 1,
-						"num": 1
+						"num": 602
 					},
 					{
-						"collection": "Amazing Spider-Man Grint Hunt Kraven Saga",
+						"collection": "Captain America",
 						"vol": 1,
-						"num": 1
+						"num": 603
 					},
 					{
-						"collection": "Amazing Spider-Man",
+						"collection": "Captain America",
 						"vol": 1,
-						"num": 634
+						"num": 604
 					},
 					{
-						"collection": "Amazing Spider-Man",
+						"collection": "Captain America",
 						"vol": 1,
-						"num": 635
-					},
-					{
-						"collection": "Amazing Spider-Man",
-						"vol": 1,
-						"num": 636
-					},
-					{
-						"collection": "Amazing Spider-Man",
-						"vol": 1,
-						"num": 637
-					},
-					{
-						"collection": "Web of Spider-Man",
-						"vol": 2,
-						"num": 7
+						"num": 605
 					}
 				]
 			},
 			{
-				"title": "Extremists",
-				"date": "2010-05-12",
+				"title": "Super Soldier",
+				"date": "2010-07-08",
 				"characters": [
 					{
-						"id": "023",
-						"name": "Spider-Man"
+						"id": "056",
+						"name": "Steve Rogers"
 					}
 				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/55cccf7ad21b9.jpg",
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/5696b239823f6.jpg",
 				"phaseid": "011",
 				"sortid": "003",
 				"comiclist": [
 					{
-						"collection": "Web of Spider-Man",
-						"vol": 2,
-						"num": 8
-					},
-					{
-						"collection": "Web of Spider-Man",
-						"vol": 2,
-						"num": 9
-					},
-					{
-						"collection": "Web of Spider-Man",
-						"vol": 2,
-						"num": 10
-					},
-					{
-						"collection": "Amazing Spider-Man Annual",
+						"collection": "Steve Rogers Super Soldier",
 						"vol": 1,
-						"num": 37
+						"num": 1
+					},
+					{
+						"collection": "Steve Rogers Super Soldier",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Steve Rogers Super Soldier",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Steve Rogers Super Soldier",
+						"vol": 1,
+						"num": 4
 					}
 				]
 			},
 			{
-				"title": "One Moment in Time",
-				"date": "2010-07-21",
+				"title": "Marvels Project",
+				"date": "2009-08-12",
 				"characters": [
 					{
-						"id": "023",
-						"name": "Spider-Man"
+						"id": "156",
+						"name": "Invaders"
 					}
 				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5808ff8aa4340.jpg",
-				"essential": true,
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/57f3f009c0a58.jpg",
 				"phaseid": "011",
 				"sortid": "004",
 				"comiclist": [
 					{
-						"collection": "Amazing Spider-Man",
+						"collection": "Marvels Project",
 						"vol": 1,
-						"num": 638
+						"num": 1
 					},
 					{
-						"collection": "Amazing Spider-Man",
+						"collection": "Marvels Project",
 						"vol": 1,
-						"num": 639
+						"num": 2
 					},
 					{
-						"collection": "Amazing Spider-Man",
+						"collection": "Marvels Project",
 						"vol": 1,
-						"num": 640
+						"num": 3
 					},
 					{
-						"collection": "Amazing Spider-Man",
+						"collection": "Marvels Project",
 						"vol": 1,
-						"num": 641
-					}
-				]
-			},
-			{
-				"title": "Origin of the Species",
-				"date": "2010-09-09",
-				"characters": [
-					{
-						"id": "023",
-						"name": "Spider-Man"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5813a73e57de8.jpg",
-				"essential": true,
-				"phaseid": "011",
-				"sortid": "005",
-				"comiclist": [
-					{
-						"collection": "Amazing Spider-Man",
-						"vol": 1,
-						"num": 642
+						"num": 4
 					},
 					{
-						"collection": "Amazing Spider-Man",
+						"collection": "Marvels Project",
 						"vol": 1,
-						"num": 643
+						"num": 5
 					},
 					{
-						"collection": "Amazing Spider-Man",
+						"collection": "Marvels Project",
 						"vol": 1,
-						"num": 644
+						"num": 6
 					},
 					{
-						"collection": "Amazing Spider-Man",
+						"collection": "Marvels Project",
 						"vol": 1,
-						"num": 645
+						"num": 7
 					},
 					{
-						"collection": "Amazing Spider-Man",
+						"collection": "Marvels Project",
 						"vol": 1,
-						"num": 646
-					}
-				]
-			},
-			{
-				"title": "Brand New Day Conclusion",
-				"date": "2010-08-18",
-				"characters": [
-					{
-						"id": "023",
-						"name": "Spider-Man"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/55cccef6b2d66.jpg",
-				"phaseid": "011",
-				"sortid": "006",
-				"comiclist": [
-					{
-						"collection": "Web of Spider-Man",
-						"vol": 2,
-						"num": 11
-					},
-					{
-						"collection": "Web of Spider-Man",
-						"vol": 2,
-						"num": 12
-					},
-					{
-						"collection": "Amazing Spider-Man",
-						"vol": 1,
-						"num": 647
+						"num": 8
 					}
 				]
 			}
