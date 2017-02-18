@@ -8,6 +8,10 @@
 		"date": "2010-06-03",
 		"characters": [
 			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
 				"id": "056",
 				"name": "Steve Rogers"
 			},
@@ -45,6 +49,10 @@
 		"num": 2,
 		"date": "2010-08-04",
 		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
 			{
 				"id": "056",
 				"name": "Steve Rogers"
@@ -84,6 +92,10 @@
 		"date": "2010-09-29",
 		"characters": [
 			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
 				"id": "056",
 				"name": "Steve Rogers"
 			},
@@ -122,6 +134,10 @@
 		"date": "2010-11-10",
 		"characters": [
 			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
 				"id": "056",
 				"name": "Steve Rogers"
 			},
@@ -159,6 +175,10 @@
 		"num": 5,
 		"date": "2011-01-05",
 		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
 			{
 				"id": "056",
 				"name": "Steve Rogers"
@@ -326,125 +346,6 @@
 		"sortid": "002"
 	},
 	{
-		"id": "32789",
-		"collection": "Steve Rogers Super Soldier",
-		"title": "Super Soldier",
-		"vol": 1,
-		"num": 1,
-		"date": "2010-07-08",
-		"characters": [
-			{
-				"id": "056",
-				"name": "Steve Rogers"
-			}
-		],
-		"creators": [
-			{
-				"id": "113",
-				"name": "Ed Brubaker"
-			},
-			{
-				"id": "340",
-				"name": "Dale Eaglesham"
-			}
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/5696b239823f6.jpg",
-		"universe": "Earth-616",
-		"comments": [
-			"TODO: despues de secret avengers"
-		],
-		"phaseid": "011",
-		"phasename": "Heroic Age",
-		"sortid": "003"
-	},
-	{
-		"id": "32788",
-		"collection": "Steve Rogers Super Soldier",
-		"title": "Super Soldier",
-		"vol": 1,
-		"num": 2,
-		"date": "2010-08-11",
-		"characters": [
-			{
-				"id": "056",
-				"name": "Steve Rogers"
-			}
-		],
-		"creators": [
-			{
-				"id": "113",
-				"name": "Ed Brubaker"
-			},
-			{
-				"id": "340",
-				"name": "Dale Eaglesham"
-			}
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4beacc69e633a.jpg",
-		"universe": "Earth-616",
-		"phaseid": "011",
-		"phasename": "Heroic Age",
-		"sortid": "003"
-	},
-	{
-		"id": "32792",
-		"collection": "Steve Rogers Super Soldier",
-		"title": "Super Soldier",
-		"vol": 1,
-		"num": 3,
-		"date": "2010-09-15",
-		"characters": [
-			{
-				"id": "056",
-				"name": "Steve Rogers"
-			}
-		],
-		"creators": [
-			{
-				"id": "113",
-				"name": "Ed Brubaker"
-			},
-			{
-				"id": "340",
-				"name": "Dale Eaglesham"
-			}
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4c0fe9c365aa8.jpg",
-		"universe": "Earth-616",
-		"phaseid": "011",
-		"phasename": "Heroic Age",
-		"sortid": "003"
-	},
-	{
-		"id": "32793",
-		"collection": "Steve Rogers Super Soldier",
-		"title": "Super Soldier",
-		"vol": 1,
-		"num": 4,
-		"date": "2010-10-20",
-		"characters": [
-			{
-				"id": "056",
-				"name": "Steve Rogers"
-			}
-		],
-		"creators": [
-			{
-				"id": "113",
-				"name": "Ed Brubaker"
-			},
-			{
-				"id": "340",
-				"name": "Dale Eaglesham"
-			}
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4c4723b7ae2d3.jpg",
-		"universe": "Earth-616",
-		"phaseid": "011",
-		"phasename": "Heroic Age",
-		"sortid": "003"
-	},
-	{
 		"id": "26595",
 		"collection": "Marvels Project",
 		"title": "Marvels Project",
@@ -487,7 +388,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "004"
+		"sortid": "003"
 	},
 	{
 		"id": "26597",
@@ -532,7 +433,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "004"
+		"sortid": "003"
 	},
 	{
 		"id": "26598",
@@ -577,7 +478,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "004"
+		"sortid": "003"
 	},
 	{
 		"id": "26599",
@@ -622,7 +523,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "004"
+		"sortid": "003"
 	},
 	{
 		"id": "26600",
@@ -667,7 +568,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "004"
+		"sortid": "003"
 	},
 	{
 		"id": "26601",
@@ -712,7 +613,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "004"
+		"sortid": "003"
 	},
 	{
 		"id": "30554",
@@ -757,7 +658,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "004"
+		"sortid": "003"
 	},
 	{
 		"id": "30557",
@@ -802,6 +703,2869 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
+		"sortid": "003"
+	},
+	{
+		"id": "29195",
+		"collection": "Avengers",
+		"title": "Next Avengers",
+		"vol": 4,
+		"num": 1,
+		"date": "2010-05-19",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "171",
+				"name": "Ironman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "157",
+				"name": "Marvel Boy"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "046",
+				"name": "John Romita Jr"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/4f50ea99172f8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
 		"sortid": "004"
+	},
+	{
+		"id": "29205",
+		"collection": "Avengers",
+		"title": "Next Avengers",
+		"vol": 4,
+		"num": 2,
+		"date": "2010-06-23",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "171",
+				"name": "Ironman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "157",
+				"name": "Marvel Boy"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "046",
+				"name": "John Romita Jr"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4f50e959d8c02.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "004"
+	},
+	{
+		"id": "29206",
+		"collection": "Avengers",
+		"title": "Next Avengers",
+		"vol": 4,
+		"num": 3,
+		"date": "2010-07-21",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "171",
+				"name": "Ironman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "157",
+				"name": "Marvel Boy"
+			}
+		],
+		"creators": [
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "046",
+				"name": "John Romita Jr"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/80/4f50e84d67976.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "004"
+	},
+	{
+		"id": "29207",
+		"collection": "Avengers",
+		"title": "Next Avengers",
+		"vol": 4,
+		"num": 4,
+		"date": "2010-08-25",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "171",
+				"name": "Ironman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "157",
+				"name": "Marvel Boy"
+			}
+		],
+		"creators": [
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "046",
+				"name": "John Romita Jr"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4f50e766744db.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "004"
+	},
+	{
+		"id": "34139",
+		"collection": "Avengers",
+		"title": "Next Avengers",
+		"vol": 4,
+		"num": 5,
+		"date": "2010-09-22",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "171",
+				"name": "Ironman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "157",
+				"name": "Marvel Boy"
+			}
+		],
+		"creators": [
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "046",
+				"name": "John Romita Jr"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4f68d6e84f04b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "004"
+	},
+	{
+		"id": "29209",
+		"collection": "Avengers",
+		"title": "Next Avengers",
+		"vol": 4,
+		"num": 6,
+		"date": "2010-10-27",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "171",
+				"name": "Ironman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "157",
+				"name": "Marvel Boy"
+			}
+		],
+		"creators": [
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "046",
+				"name": "John Romita Jr"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4f50e4f2b5156.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "004"
+	},
+	{
+		"id": "30090",
+		"collection": "Age of Heroes",
+		"title": "Age of Heroes",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-05-19",
+		"characters": [
+			{
+				"id": "161",
+				"name": "Captain Britain"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "457",
+				"name": "Kurt Busiek"
+			},
+			{
+				"id": "221",
+				"name": "Marko Djurdjevic"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/56afac804fff2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "005"
+	},
+	{
+		"id": "33566",
+		"collection": "Age of Heroes",
+		"title": "Age of Heroes",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-06-16",
+		"characters": [
+			{
+				"id": "165",
+				"name": ""
+			}
+		],
+		"creators": [
+			{
+				"id": "068",
+				"name": "Sean McKeever"
+			},
+			{
+				"id": "458",
+				"name": "David Baldeon"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/56afaf31b0b7f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "005"
+	},
+	{
+		"id": "29863",
+		"collection": "Thunderbolts",
+		"title": "Cage",
+		"vol": 1,
+		"num": 144,
+		"date": "2010-05-26",
+		"characters": [
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			}
+		],
+		"creators": [
+			{
+				"id": "171",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "180",
+				"name": "Kev Walker"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5744d03ca5d23.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "006"
+	},
+	{
+		"id": "29864",
+		"collection": "Thunderbolts",
+		"title": "Cage",
+		"vol": 1,
+		"num": 145,
+		"date": "2010-06-23",
+		"characters": [
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			}
+		],
+		"creators": [
+			{
+				"id": "171",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "180",
+				"name": "Kev Walker"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5744d0cc5ec95.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "006"
+	},
+	{
+		"id": "29865",
+		"collection": "Thunderbolts",
+		"title": "Cage",
+		"vol": 1,
+		"num": 146,
+		"date": "2010-07-21",
+		"characters": [
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			}
+		],
+		"creators": [
+			{
+				"id": "171",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "180",
+				"name": "Kev Walker"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/5744d0e101175.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "006"
+	},
+	{
+		"id": "29866",
+		"collection": "Thunderbolts",
+		"title": "Cage",
+		"vol": 1,
+		"num": 147,
+		"date": "2010-08-18",
+		"characters": [
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			}
+		],
+		"creators": [
+			{
+				"id": "171",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "180",
+				"name": "Kev Walker"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5744d0a68de67.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "006"
+	},
+	{
+		"id": "29213",
+		"collection": "Avengers Academy",
+		"title": "Permanent Record",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-06-09",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "097",
+				"name": "Speedball"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			}
+		],
+		"creators": [
+			{
+				"id": "146",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "160",
+				"name": "Mike McKone"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/51cca5d47f0d8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "007"
+	},
+	{
+		"id": "29217",
+		"collection": "Avengers Academy",
+		"title": "Permanent Record",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-07-14",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "097",
+				"name": "Speedball"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			}
+		],
+		"creators": [
+			{
+				"id": "146",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "160",
+				"name": "Mike McKone"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/51cca5e37b62f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "007"
+	},
+	{
+		"id": "29218",
+		"collection": "Avengers Academy",
+		"title": "Permanent Record",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-08-18",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "097",
+				"name": "Speedball"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			}
+		],
+		"creators": [
+			{
+				"id": "146",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "160",
+				"name": "Mike McKone"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/51cca5e866d89.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "007"
+	},
+	{
+		"id": "29219",
+		"collection": "Avengers Academy",
+		"title": "Permanent Record",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-09-22",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "097",
+				"name": "Speedball"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			}
+		],
+		"creators": [
+			{
+				"id": "146",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "160",
+				"name": "Mike McKone"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4f7b2378beb14.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "007"
+	},
+	{
+		"id": "29220",
+		"collection": "Avengers Academy",
+		"title": "Permanent Record",
+		"vol": 1,
+		"num": 5,
+		"date": "2010-10-06",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "110",
+				"name": "Quicksilver"
+			},
+			{
+				"id": "097",
+				"name": "Speedball"
+			},
+			{
+				"id": "064",
+				"name": "Hank Pym"
+			}
+		],
+		"creators": [
+			{
+				"id": "146",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "262",
+				"name": "Jorge Molina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/51cca6003c3a8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "007"
+	},
+	{
+		"id": "32702",
+		"collection": "New Avengers",
+		"title": "Posession",
+		"vol": 2,
+		"num": 1,
+		"date": "2010-06-16",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "158",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
+		],
+		"creators": [
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "013",
+				"name": "Stuart Immonen"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/5773edbd9f4da.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "008"
+	},
+	{
+		"id": "32711",
+		"collection": "New Avengers",
+		"title": "Posession",
+		"vol": 2,
+		"num": 2,
+		"date": "2010-07-21",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "158",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
+		],
+		"creators": [
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "013",
+				"name": "Stuart Immonen"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5773f3fee4c4d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "008"
+	},
+	{
+		"id": "32712",
+		"collection": "New Avengers",
+		"title": "Posession",
+		"vol": 2,
+		"num": 3,
+		"date": "2010-08-18",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "158",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
+		],
+		"creators": [
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "013",
+				"name": "Stuart Immonen"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/5773fa414cc5c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "008"
+	},
+	{
+		"id": "32714",
+		"collection": "New Avengers",
+		"title": "Posession",
+		"vol": 2,
+		"num": 4,
+		"date": "2010-09-09",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "158",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
+		],
+		"creators": [
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "013",
+				"name": "Stuart Immonen"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/57740e62f020b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "008"
+	},
+	{
+		"id": "32717",
+		"collection": "New Avengers",
+		"title": "Posession",
+		"vol": 2,
+		"num": 5,
+		"date": "2010-10-13",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "158",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
+		],
+		"creators": [
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "013",
+				"name": "Stuart Immonen"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/57741606b2f70.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "008"
+	},
+	{
+		"id": "32719",
+		"collection": "New Avengers",
+		"title": "Posession",
+		"vol": 2,
+		"num": 6,
+		"date": "2010-11-10",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "158",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
+		],
+		"creators": [
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "013",
+				"name": "Stuart Immonen"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/5774223cdad14.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Brother Voodoo dies"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "008"
+	},
+	{
+		"id": "30305",
+		"collection": "Amazing Spider-Man",
+		"title": "Shed",
+		"vol": 1,
+		"num": 630,
+		"date": "2010-05-05",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "035",
+				"name": "Chris Bachalo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/5808e1a20feb7.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "009"
+	},
+	{
+		"id": "30306",
+		"collection": "Amazing Spider-Man",
+		"title": "Shed",
+		"vol": 1,
+		"num": 631,
+		"date": "2010-05-12",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "035",
+				"name": "Chris Bachalo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/c0/5808e32178066.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "009"
+	},
+	{
+		"id": "30307",
+		"collection": "Amazing Spider-Man",
+		"title": "Shed",
+		"vol": 1,
+		"num": 632,
+		"date": "2010-05-26",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "035",
+				"name": "Chris Bachalo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/5808e422cdeea.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "009"
+	},
+	{
+		"id": "30308",
+		"collection": "Amazing Spider-Man",
+		"title": "Shed",
+		"vol": 1,
+		"num": 633,
+		"date": "2010-06-02",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "035",
+				"name": "Chris Bachalo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5808e5b2e706f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "009"
+	},
+	{
+		"id": "30641",
+		"collection": "Web of Spider-Man",
+		"title": "Shed",
+		"vol": 2,
+		"num": 6,
+		"date": "2010-03-10",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "311",
+				"name": "Jefte Palo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/55cccf5ae32c9.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "009"
+	},
+	{
+		"id": "30772",
+		"collection": "Amazing Spider-Man Origin of the Hunter",
+		"title": "Grim Hunt",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-04-14",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "085",
+				"name": "Anya Corazon"
+			},
+			{
+				"id": "167",
+				"name": "Ben Reilly"
+			},
+			{
+				"id": "168",
+				"name": "Kaine"
+			}
+		],
+		"creators": [
+			{
+				"id": "196",
+				"name": "Marc Guggenheim"
+			},
+			{
+				"id": "384",
+				"name": "Mike Mayhew"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bac3d0953e04.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "010"
+	},
+	{
+		"id": "34430",
+		"collection": "Amazing Spider-Man Grint Hunt Kraven Saga",
+		"title": "Grim Hunt",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-04-14",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "085",
+				"name": "Anya Corazon"
+			},
+			{
+				"id": "167",
+				"name": "Ben Reilly"
+			},
+			{
+				"id": "168",
+				"name": "Kaine"
+			}
+		],
+		"creators": [
+			{
+				"id": "327",
+				"name": "Joe Kelly"
+			},
+			{
+				"id": "117",
+				"name": "Michael Lark"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "010"
+	},
+	{
+		"id": "30309",
+		"collection": "Amazing Spider-Man",
+		"title": "Grim Hunt",
+		"vol": 1,
+		"num": 634,
+		"date": "2010-06-16",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "085",
+				"name": "Anya Corazon"
+			},
+			{
+				"id": "167",
+				"name": "Ben Reilly"
+			},
+			{
+				"id": "168",
+				"name": "Kaine"
+			}
+		],
+		"creators": [
+			{
+				"id": "327",
+				"name": "Joe Kelly"
+			},
+			{
+				"id": "117",
+				"name": "Michael Lark"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/5808f9c09edf3.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "010"
+	},
+	{
+		"id": "30310",
+		"collection": "Amazing Spider-Man",
+		"title": "Grim Hunt",
+		"vol": 1,
+		"num": 635,
+		"date": "2010-06-23",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "085",
+				"name": "Anya Corazon"
+			},
+			{
+				"id": "167",
+				"name": "Ben Reilly"
+			},
+			{
+				"id": "168",
+				"name": "Kaine"
+			}
+		],
+		"creators": [
+			{
+				"id": "327",
+				"name": "Joe Kelly"
+			},
+			{
+				"id": "117",
+				"name": "Michael Lark"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/5808fb4680684.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "010"
+	},
+	{
+		"id": "30311",
+		"collection": "Amazing Spider-Man",
+		"title": "Grim Hunt",
+		"vol": 1,
+		"num": 636,
+		"date": "2010-07-08",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "085",
+				"name": "Anya Corazon"
+			},
+			{
+				"id": "167",
+				"name": "Ben Reilly"
+			},
+			{
+				"id": "168",
+				"name": "Kaine"
+			}
+		],
+		"creators": [
+			{
+				"id": "327",
+				"name": "Joe Kelly"
+			},
+			{
+				"id": "117",
+				"name": "Michael Lark"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5808fcd4b5e47.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "010"
+	},
+	{
+		"id": "30312",
+		"collection": "Amazing Spider-Man",
+		"title": "Grim Hunt",
+		"vol": 1,
+		"num": 637,
+		"date": "2010-07-14",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "085",
+				"name": "Anya Corazon"
+			},
+			{
+				"id": "167",
+				"name": "Ben Reilly"
+			},
+			{
+				"id": "168",
+				"name": "Kaine"
+			}
+		],
+		"creators": [
+			{
+				"id": "327",
+				"name": "Joe Kelly"
+			},
+			{
+				"id": "117",
+				"name": "Michael Lark"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/5808fe2f7709c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "010"
+	},
+	{
+		"id": "31666",
+		"collection": "Web of Spider-Man",
+		"title": "Grim Hunt",
+		"vol": 2,
+		"num": 7,
+		"date": "2010-04-14",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "085",
+				"name": "Anya Corazon"
+			},
+			{
+				"id": "167",
+				"name": "Ben Reilly"
+			},
+			{
+				"id": "168",
+				"name": "Kaine"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "222",
+				"name": "Philippe Briones"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/55ccced37d383.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "010"
+	},
+	{
+		"id": "31668",
+		"collection": "Web of Spider-Man",
+		"title": "Extremists",
+		"vol": 2,
+		"num": 8,
+		"date": "2010-05-12",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "365",
+				"name": "Javier Rodriguez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/55cccf7ad21b9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "011"
+	},
+	{
+		"id": "31670",
+		"collection": "Web of Spider-Man",
+		"title": "Extremists",
+		"vol": 2,
+		"num": 9,
+		"date": "2010-06-16",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "365",
+				"name": "Javier Rodriguez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/55cccf188d68e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "011"
+	},
+	{
+		"id": "31660",
+		"collection": "Web of Spider-Man",
+		"title": "Extremists",
+		"vol": 2,
+		"num": 10,
+		"date": "2010-07-14",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "268",
+				"name": "Nick Dragotta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/56324ff999acf.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "011"
+	},
+	{
+		"id": "30196",
+		"collection": "Amazing Spider-Man Annual",
+		"title": "Extremists",
+		"vol": 1,
+		"num": 37,
+		"date": "2010-05-26",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "125",
+				"name": "Karl Kesel"
+			},
+			{
+				"id": "287",
+				"name": "Paulo Siqueira"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/56d724791075e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "011"
+	},
+	{
+		"id": "30313",
+		"collection": "Amazing Spider-Man",
+		"title": "One Moment in Time",
+		"vol": 1,
+		"num": 638,
+		"date": "2010-07-21",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "004",
+				"name": "Joe Quesada"
+			},
+			{
+				"id": "328",
+				"name": "Paolo Rivera"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5808ff8aa4340.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"One More Day explanation"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "012"
+	},
+	{
+		"id": "30314",
+		"collection": "Amazing Spider-Man",
+		"title": "One Moment in Time",
+		"vol": 1,
+		"num": 639,
+		"date": "2010-07-28",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "004",
+				"name": "Joe Quesada"
+			},
+			{
+				"id": "328",
+				"name": "Paolo Rivera"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/580900cf761e2.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "012"
+	},
+	{
+		"id": "34118",
+		"collection": "Amazing Spider-Man",
+		"title": "One Moment in Time",
+		"vol": 1,
+		"num": 640,
+		"date": "2010-08-18",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "004",
+				"name": "Joe Quesada"
+			},
+			{
+				"id": "328",
+				"name": "Paolo Rivera"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/580901e9f214e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "012"
+	},
+	{
+		"id": "30316",
+		"collection": "Amazing Spider-Man",
+		"title": "One Moment in Time",
+		"vol": 1,
+		"num": 641,
+		"date": "2010-09-08",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "004",
+				"name": "Joe Quesada"
+			},
+			{
+				"id": "328",
+				"name": "Paolo Rivera"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/580fafe0bde8c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "012"
+	},
+	{
+		"id": "30317",
+		"collection": "Amazing Spider-Man",
+		"title": "Origin of the Species",
+		"vol": 1,
+		"num": 642,
+		"date": "2010-09-09",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "044",
+				"name": "Otto Octavius"
+			}
+		],
+		"creators": [
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "265",
+				"name": "Paul Azaceta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5813a73e57de8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "013"
+	},
+	{
+		"id": "30318",
+		"collection": "Amazing Spider-Man",
+		"title": "Origin of the Species",
+		"vol": 1,
+		"num": 643,
+		"date": "2010-09-15",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "044",
+				"name": "Otto Octavius"
+			}
+		],
+		"creators": [
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "265",
+				"name": "Paul Azaceta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/5813a8d9ac0a8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "013"
+	},
+	{
+		"id": "30319",
+		"collection": "Amazing Spider-Man",
+		"title": "Origin of the Species",
+		"vol": 1,
+		"num": 644,
+		"date": "2010-09-29",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "044",
+				"name": "Otto Octavius"
+			}
+		],
+		"creators": [
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "265",
+				"name": "Paul Azaceta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5813abe7ae949.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "013"
+	},
+	{
+		"id": "30320",
+		"collection": "Amazing Spider-Man",
+		"title": "Origin of the Species",
+		"vol": 1,
+		"num": 645,
+		"date": "2010-10-13",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "044",
+				"name": "Otto Octavius"
+			}
+		],
+		"creators": [
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "265",
+				"name": "Paul Azaceta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/5813ae13ea0d1.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "013"
+	},
+	{
+		"id": "30321",
+		"collection": "Amazing Spider-Man",
+		"title": "Origin of the Species",
+		"vol": 1,
+		"num": 646,
+		"date": "2010-10-27",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "044",
+				"name": "Otto Octavius"
+			}
+		],
+		"creators": [
+			{
+				"id": "037",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "265",
+				"name": "Paul Azaceta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/5813b0335c1ab.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "013"
+	},
+	{
+		"id": "31663",
+		"collection": "Web of Spider-Man",
+		"title": "Brand New Day Conclusion",
+		"vol": 2,
+		"num": 11,
+		"date": "2010-08-18",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "459",
+				"name": "Pepe Larraz"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/55cccef6b2d66.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "014"
+	},
+	{
+		"id": "31664",
+		"collection": "Web of Spider-Man",
+		"title": "Brand New Day Conclusion",
+		"vol": 2,
+		"num": 12,
+		"date": "2010-09-15",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "459",
+				"name": "Pepe Larraz"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/55cccf343c05f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "014"
+	},
+	{
+		"id": "30322",
+		"collection": "Amazing Spider-Man",
+		"title": "Brand New Day Conclusion",
+		"vol": 1,
+		"num": 647,
+		"date": "2010-11-03",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "429",
+				"name": "Max Fiumara"
+			}
+		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/8/03/5813b1823981d/detail.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "014"
+	},
+	{
+		"id": "30573",
+		"collection": "Thor",
+		"title": "The Fine Print",
+		"vol": 1,
+		"num": 611,
+		"date": "2010-06-30",
+		"characters": [
+			{
+				"id": "014",
+				"name": "Thor"
+			}
+		],
+		"creators": [
+			{
+				"id": "317",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "460",
+				"name": "Richard Elson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/56f2c7d71123c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "015"
+	},
+	{
+		"id": "30574",
+		"collection": "Thor",
+		"title": "The Fine Print",
+		"vol": 1,
+		"num": 612,
+		"date": "2010-07-28",
+		"characters": [
+			{
+				"id": "014",
+				"name": "Thor"
+			}
+		],
+		"creators": [
+			{
+				"id": "317",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "314",
+				"name": "Doug Braithwaite"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/56f2cc40ac53b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "015"
+	},
+	{
+		"id": "30575",
+		"collection": "Thor",
+		"title": "The Fine Print",
+		"vol": 1,
+		"num": 613,
+		"date": "2010-08-25",
+		"characters": [
+			{
+				"id": "014",
+				"name": "Thor"
+			}
+		],
+		"creators": [
+			{
+				"id": "317",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "460",
+				"name": "Richard Elson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/56f2c7baaeb68.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "015"
+	},
+	{
+		"id": "32726",
+		"collection": "Thor",
+		"title": "The Fine Print",
+		"vol": 1,
+		"num": 614,
+		"date": "2010-09-09",
+		"characters": [
+			{
+				"id": "014",
+				"name": "Thor"
+			}
+		],
+		"creators": [
+			{
+				"id": "317",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "314",
+				"name": "Doug Braithwaite"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/56f2cbfb0f609.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "015"
+	},
+	{
+		"id": "30253",
+		"collection": "Valkyrie",
+		"title": "Valkyrie",
+		"vol": 2,
+		"num": 1,
+		"date": "2010-09-29",
+		"characters": [
+			{
+				"id": "172",
+				"name": "Valkyrie"
+			}
+		],
+		"creators": [
+			{
+				"id": "461",
+				"name": "Bryan J L Glass"
+			},
+			{
+				"id": "018",
+				"name": "Phil Winslade"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4c0feb70ed34f.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "016"
+	},
+	{
+		"id": "33843",
+		"collection": "Loki",
+		"title": "The Trials of Loki",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-10-20",
+		"characters": [
+			{
+				"id": "016",
+				"name": "Loki"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			}
+		],
+		"creators": [
+			{
+				"id": "069",
+				"name": "Roberto Aguirre-Sacasa"
+			},
+			{
+				"id": "462",
+				"name": "Sebastian Fiumara"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4c3de92d82164.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "017"
+	},
+	{
+		"id": "33841",
+		"collection": "Loki",
+		"title": "The Trials of Loki",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-12-15",
+		"characters": [
+			{
+				"id": "016",
+				"name": "Loki"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			}
+		],
+		"creators": [
+			{
+				"id": "069",
+				"name": "Roberto Aguirre-Sacasa"
+			},
+			{
+				"id": "462",
+				"name": "Sebastian Fiumara"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4c646f04c6baa.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "017"
+	},
+	{
+		"id": "33848",
+		"collection": "Loki",
+		"title": "The Trials of Loki",
+		"vol": 1,
+		"num": 3,
+		"date": "2011-02-16",
+		"characters": [
+			{
+				"id": "016",
+				"name": "Loki"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			}
+		],
+		"creators": [
+			{
+				"id": "069",
+				"name": "Roberto Aguirre-Sacasa"
+			},
+			{
+				"id": "462",
+				"name": "Sebastian Fiumara"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4c90eb1e5d270.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "017"
+	},
+	{
+		"id": "33844",
+		"collection": "Loki",
+		"title": "The Trials of Loki",
+		"vol": 1,
+		"num": 4,
+		"date": "2011-03-16",
+		"characters": [
+			{
+				"id": "016",
+				"name": "Loki"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			}
+		],
+		"creators": [
+			{
+				"id": "069",
+				"name": "Roberto Aguirre-Sacasa"
+			},
+			{
+				"id": "462",
+				"name": "Sebastian Fiumara"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/00/4cb5f8bab34af.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "017"
+	},
+	{
+		"id": "31184",
+		"collection": "Deadpool Team-Up",
+		"title": "Thor",
+		"vol": 1,
+		"num": 887,
+		"date": "2010-11-24",
+		"characters": [
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "446",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "447",
+				"name": "Matteo Scalera"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/563cfe1fea03f.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "018"
+	},
+	{
+		"id": "32567",
+		"collection": "Vengeance of the Moon Knight",
+		"title": "Killed, Not Dead",
+		"vol": 1,
+		"num": 7,
+		"date": "2010-04-07",
+		"characters": [
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			}
+		],
+		"creators": [
+			{
+				"id": "381",
+				"name": "Gregg Hurwitz"
+			},
+			{
+				"id": "359",
+				"name": "Tan Eng Huat"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bac5bc705268.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "019"
+	},
+	{
+		"id": "30637",
+		"collection": "Vengeance of the Moon Knight",
+		"title": "Killed, Not Dead",
+		"vol": 1,
+		"num": 8,
+		"date": "2010-05-05",
+		"characters": [
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			}
+		],
+		"creators": [
+			{
+				"id": "381",
+				"name": "Gregg Hurwitz"
+			},
+			{
+				"id": "359",
+				"name": "Tan Eng Huat"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/4bab8aec3bb83.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "019"
+	},
+	{
+		"id": "29089",
+		"collection": "Secret Avengers",
+		"title": "Secret Histories",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-05-26",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "172",
+				"name": "Valkyrie"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "139",
+				"name": "Eric O'Grady"
+			},
+			{
+				"id": "115",
+				"name": "War Machine"
+			},
+			{
+				"id": "127",
+				"name": "Nova"
+			}
+		],
+		"creators": [
+			{
+				"id": "113",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "463",
+				"name": "Mike Deodato"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5189711d4aa5f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "020"
+	},
+	{
+		"id": "29093",
+		"collection": "Secret Avengers",
+		"title": "Secret Histories",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-06-30",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "172",
+				"name": "Valkyrie"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "139",
+				"name": "Eric O'Grady"
+			},
+			{
+				"id": "115",
+				"name": "War Machine"
+			},
+			{
+				"id": "127",
+				"name": "Nova"
+			}
+		],
+		"creators": [
+			{
+				"id": "113",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "463",
+				"name": "Mike Deodato"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/5189710fab2c5.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "020"
+	},
+	{
+		"id": "33620",
+		"collection": "Secret Avengers",
+		"title": "Secret Histories",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-07-28",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "172",
+				"name": "Valkyrie"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "139",
+				"name": "Eric O'Grady"
+			},
+			{
+				"id": "115",
+				"name": "War Machine"
+			},
+			{
+				"id": "127",
+				"name": "Nova"
+			}
+		],
+		"creators": [
+			{
+				"id": "113",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "463",
+				"name": "Mike Deodato"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/10/5189710972582.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "020"
+	},
+	{
+		"id": "29095",
+		"collection": "Secret Avengers",
+		"title": "Secret Histories",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-08-18",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "172",
+				"name": "Valkyrie"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "139",
+				"name": "Eric O'Grady"
+			},
+			{
+				"id": "115",
+				"name": "War Machine"
+			},
+			{
+				"id": "127",
+				"name": "Nova"
+			}
+		],
+		"creators": [
+			{
+				"id": "113",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "463",
+				"name": "Mike Deodato"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/519fa0b53b2d6.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "020"
+	},
+	{
+		"id": "33621",
+		"collection": "Secret Avengers",
+		"title": "Secret Histories",
+		"vol": 1,
+		"num": 5,
+		"date": "2010-09-22",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "172",
+				"name": "Valkyrie"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "139",
+				"name": "Eric O'Grady"
+			},
+			{
+				"id": "115",
+				"name": "War Machine"
+			},
+			{
+				"id": "127",
+				"name": "Nova"
+			},
+			{
+				"id": "090",
+				"name": "Nick Fury"
+			}
+		],
+		"creators": [
+			{
+				"id": "113",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "219",
+				"name": "David Aja"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/80/5189723413840.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "020"
 	}
 ]

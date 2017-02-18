@@ -28727,6 +28727,91 @@
 						"num": 888
 					}
 				]
+			},
+			{
+				"title": "The Devil's Hand",
+				"date": "2009-10-07",
+				"characters": [
+					{
+						"id": "003",
+						"name": "Daredevil"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/572d1252202cb.jpg",
+				"phaseid": "009",
+				"sortid": "234",
+				"comiclist": [
+					{
+						"collection": "Daredevil",
+						"vol": 1,
+						"num": 501
+					},
+					{
+						"collection": "Daredevil",
+						"vol": 1,
+						"num": 502
+					},
+					{
+						"collection": "Daredevil",
+						"vol": 1,
+						"num": 503
+					},
+					{
+						"collection": "Daredevil",
+						"vol": 1,
+						"num": 504
+					},
+					{
+						"collection": "Daredevil",
+						"vol": 1,
+						"num": 505
+					},
+					{
+						"collection": "Daredevil",
+						"vol": 1,
+						"num": 506
+					},
+					{
+						"collection": "Daredevil",
+						"vol": 1,
+						"num": 507
+					}
+				]
+			},
+			{
+				"title": "Luke Cage",
+				"date": "2010-04-07",
+				"characters": [
+					{
+						"id": "012",
+						"name": "Luke Cage"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/564f66c3f1d82.jpg",
+				"phaseid": "009",
+				"sortid": "235",
+				"comiclist": [
+					{
+						"collection": "New Avengers Luke Cage",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "New Avengers Luke Cage",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "New Avengers Luke Cage",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Daredevil Cage Match",
+						"vol": 1,
+						"num": 1
+					}
+				]
 			}
 		]
 	},
@@ -29499,8 +29584,8 @@
 				"date": "2010-06-03",
 				"characters": [
 					{
-						"id": "056",
-						"name": "Steve Rogers"
+						"id": "059",
+						"name": "Avengers"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4f7b0740b2e99.jpg",
@@ -29572,41 +29657,6 @@
 				]
 			},
 			{
-				"title": "Super Soldier",
-				"date": "2010-07-08",
-				"characters": [
-					{
-						"id": "056",
-						"name": "Steve Rogers"
-					}
-				],
-				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/5696b239823f6.jpg",
-				"phaseid": "011",
-				"sortid": "003",
-				"comiclist": [
-					{
-						"collection": "Steve Rogers Super Soldier",
-						"vol": 1,
-						"num": 1
-					},
-					{
-						"collection": "Steve Rogers Super Soldier",
-						"vol": 1,
-						"num": 2
-					},
-					{
-						"collection": "Steve Rogers Super Soldier",
-						"vol": 1,
-						"num": 3
-					},
-					{
-						"collection": "Steve Rogers Super Soldier",
-						"vol": 1,
-						"num": 4
-					}
-				]
-			},
-			{
 				"title": "Marvels Project",
 				"date": "2009-08-12",
 				"characters": [
@@ -29617,7 +29667,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/57f3f009c0a58.jpg",
 				"phaseid": "011",
-				"sortid": "004",
+				"sortid": "003",
 				"comiclist": [
 					{
 						"collection": "Marvels Project",
@@ -29658,6 +29708,608 @@
 						"collection": "Marvels Project",
 						"vol": 1,
 						"num": 8
+					}
+				]
+			},
+			{
+				"title": "Next Avengers",
+				"date": "2010-05-19",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/4f50ea99172f8.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "004",
+				"comiclist": [
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 1
+					},
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 2
+					},
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 3
+					},
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 4
+					},
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 5
+					},
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Age of Heroes",
+				"date": "2010-05-19",
+				"characters": [
+					{
+						"id": "161",
+						"name": "Captain Britain"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/56afac804fff2.jpg",
+				"phaseid": "011",
+				"sortid": "005",
+				"comiclist": [
+					{
+						"collection": "Age of Heroes",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Age of Heroes",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Cage",
+				"date": "2010-05-26",
+				"characters": [
+					{
+						"id": "107",
+						"name": "Thunderbolts"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5744d03ca5d23.jpg",
+				"phaseid": "011",
+				"sortid": "006",
+				"comiclist": [
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 144
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 145
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 146
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 147
+					}
+				]
+			},
+			{
+				"title": "Permanent Record",
+				"date": "2010-06-09",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/51cca5d47f0d8.jpg",
+				"phaseid": "011",
+				"sortid": "007",
+				"comiclist": [
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Posession",
+				"date": "2010-06-16",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/5773edbd9f4da.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "008",
+				"comiclist": [
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 1
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 2
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 3
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 4
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 5
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Shed",
+				"date": "2010-05-05",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/5808e1a20feb7.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "009",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 630
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 631
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 632
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 633
+					},
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Grim Hunt",
+				"date": "2010-04-14",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bac3d0953e04.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "010",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man Origin of the Hunter",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Amazing Spider-Man Grint Hunt Kraven Saga",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 634
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 635
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 636
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 637
+					},
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 7
+					}
+				]
+			},
+			{
+				"title": "Extremists",
+				"date": "2010-05-12",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/55cccf7ad21b9.jpg",
+				"phaseid": "011",
+				"sortid": "011",
+				"comiclist": [
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 8
+					},
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 9
+					},
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 10
+					},
+					{
+						"collection": "Amazing Spider-Man Annual",
+						"vol": 1,
+						"num": 37
+					}
+				]
+			},
+			{
+				"title": "One Moment in Time",
+				"date": "2010-07-21",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5808ff8aa4340.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "012",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 638
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 639
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 640
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 641
+					}
+				]
+			},
+			{
+				"title": "Origin of the Species",
+				"date": "2010-09-09",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5813a73e57de8.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "013",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 642
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 643
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 644
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 645
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 646
+					}
+				]
+			},
+			{
+				"title": "Brand New Day Conclusion",
+				"date": "2010-08-18",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/55cccef6b2d66.jpg",
+				"phaseid": "011",
+				"sortid": "014",
+				"comiclist": [
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 11
+					},
+					{
+						"collection": "Web of Spider-Man",
+						"vol": 2,
+						"num": 12
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 647
+					}
+				]
+			},
+			{
+				"title": "The Fine Print",
+				"date": "2010-06-30",
+				"characters": [
+					{
+						"id": "014",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/56f2c7d71123c.jpg",
+				"phaseid": "011",
+				"sortid": "015",
+				"comiclist": [
+					{
+						"collection": "Thor",
+						"vol": 1,
+						"num": 611
+					},
+					{
+						"collection": "Thor",
+						"vol": 1,
+						"num": 612
+					},
+					{
+						"collection": "Thor",
+						"vol": 1,
+						"num": 613
+					},
+					{
+						"collection": "Thor",
+						"vol": 1,
+						"num": 614
+					}
+				]
+			},
+			{
+				"title": "Valkyrie",
+				"date": "2010-09-29",
+				"characters": [
+					{
+						"id": "172",
+						"name": "Valkyrie"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4c0feb70ed34f.jpg",
+				"phaseid": "011",
+				"sortid": "016",
+				"comiclist": [
+					{
+						"collection": "Valkyrie",
+						"vol": 2,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "The Trials of Loki",
+				"date": "2010-10-20",
+				"characters": [
+					{
+						"id": "016",
+						"name": "Loki"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4c3de92d82164.jpg",
+				"phaseid": "011",
+				"sortid": "017",
+				"comiclist": [
+					{
+						"collection": "Loki",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Loki",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Loki",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Loki",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Thor",
+				"date": "2010-11-24",
+				"characters": [
+					{
+						"id": "087",
+						"name": "Deadpool"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/563cfe1fea03f.jpg",
+				"phaseid": "011",
+				"sortid": "018",
+				"comiclist": [
+					{
+						"collection": "Deadpool Team-Up",
+						"vol": 1,
+						"num": 887
+					}
+				]
+			},
+			{
+				"title": "Killed, Not Dead",
+				"date": "2010-04-07",
+				"characters": [
+					{
+						"id": "011",
+						"name": "Moon Knight"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bac5bc705268.jpg",
+				"phaseid": "011",
+				"sortid": "019",
+				"comiclist": [
+					{
+						"collection": "Vengeance of the Moon Knight",
+						"vol": 1,
+						"num": 7
+					},
+					{
+						"collection": "Vengeance of the Moon Knight",
+						"vol": 1,
+						"num": 8
+					}
+				]
+			},
+			{
+				"title": "Secret Histories",
+				"date": "2010-05-26",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5189711d4aa5f.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "020",
+				"comiclist": [
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 5
 					}
 				]
 			}

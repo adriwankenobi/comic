@@ -14601,6 +14601,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4bb3c7b986fea.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": [
+			"X-Men settle in Utopia"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "113"
@@ -17208,14 +17211,6 @@
 			{
 				"id": "162",
 				"name": "Darkhawk"
-			},
-			{
-				"id": "002",
-				"name": "Black Bolt"
-			},
-			{
-				"id": "036",
-				"name": "Reed Richards"
 			}
 		],
 		"creators": [
@@ -17412,14 +17407,6 @@
 			{
 				"id": "162",
 				"name": "Darkhawk"
-			},
-			{
-				"id": "002",
-				"name": "Black Bolt"
-			},
-			{
-				"id": "036",
-				"name": "Reed Richards"
 			}
 		],
 		"creators": [
@@ -17612,14 +17599,6 @@
 			{
 				"id": "162",
 				"name": "Darkhawk"
-			},
-			{
-				"id": "002",
-				"name": "Black Bolt"
-			},
-			{
-				"id": "036",
-				"name": "Reed Richards"
 			}
 		],
 		"creators": [
@@ -17816,14 +17795,6 @@
 			{
 				"id": "162",
 				"name": "Darkhawk"
-			},
-			{
-				"id": "002",
-				"name": "Black Bolt"
-			},
-			{
-				"id": "036",
-				"name": "Reed Richards"
 			}
 		],
 		"creators": [
@@ -17976,6 +17947,10 @@
 			{
 				"id": "153",
 				"name": "Cosmo"
+			},
+			{
+				"id": "019",
+				"name": "Thanos"
 			}
 		],
 		"creators": [
@@ -17996,7 +17971,8 @@
 		"universe": "Earth-616",
 		"essential": true,
 		"comments": [
-			"Phyla-Vell dies"
+			"Phyla-Vell dies",
+			"Thanos resurrects"
 		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
@@ -18194,9 +18170,6 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/517ad7c491ddf.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": [
-			"Thanos resurrects"
-		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "153"
@@ -18222,14 +18195,6 @@
 			{
 				"id": "162",
 				"name": "Darkhawk"
-			},
-			{
-				"id": "002",
-				"name": "Black Bolt"
-			},
-			{
-				"id": "036",
-				"name": "Reed Richards"
 			}
 		],
 		"creators": [
@@ -28923,6 +28888,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/582ca9aa93dfa.jpg",
 		"universe": "Earth-616",
+		"comments": [
+			"Punisher resurrects as Franken-Castle"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "232"
@@ -29277,5 +29245,368 @@
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "233"
+	},
+	{
+		"id": "24758",
+		"collection": "Daredevil",
+		"title": "The Devil's Hand",
+		"vol": 1,
+		"num": 501,
+		"date": "2009-10-07",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "136",
+				"name": "Kingpin"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "145",
+				"name": "Roberto De La Torre"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/572d1252202cb.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "234"
+	},
+	{
+		"id": "24759",
+		"collection": "Daredevil",
+		"title": "The Devil's Hand",
+		"vol": 1,
+		"num": 502,
+		"date": "2009-11-11",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "136",
+				"name": "Kingpin"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "145",
+				"name": "Roberto De La Torre"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/572d1465383c2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "234"
+	},
+	{
+		"id": "24760",
+		"collection": "Daredevil",
+		"title": "The Devil's Hand",
+		"vol": 1,
+		"num": 503,
+		"date": "2009-12-16",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "136",
+				"name": "Kingpin"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "145",
+				"name": "Roberto De La Torre"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/574f45015f8e1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "234"
+	},
+	{
+		"id": "24761",
+		"collection": "Daredevil",
+		"title": "The Devil's Hand",
+		"vol": 1,
+		"num": 504,
+		"date": "2010-01-27",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "136",
+				"name": "Kingpin"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "145",
+				"name": "Roberto De La Torre"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/574f45d958f43.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "234"
+	},
+	{
+		"id": "24762",
+		"collection": "Daredevil",
+		"title": "The Devil's Hand",
+		"vol": 1,
+		"num": 505,
+		"date": "2010-02-17",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "136",
+				"name": "Kingpin"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "392",
+				"name": "Marco Checchetto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/572d14cb879b1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "234"
+	},
+	{
+		"id": "32538",
+		"collection": "Daredevil",
+		"title": "The Devil's Hand",
+		"vol": 1,
+		"num": 506,
+		"date": "2010-04-14",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "136",
+				"name": "Kingpin"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "392",
+				"name": "Marco Checchetto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/572d14a14bba5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "234"
+	},
+	{
+		"id": "30366",
+		"collection": "Daredevil",
+		"title": "The Devil's Hand",
+		"vol": 1,
+		"num": 507,
+		"date": "2010-06-09",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "136",
+				"name": "Kingpin"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "392",
+				"name": "Marco Checchetto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/572d149ab7afa.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "234"
+	},
+	{
+		"id": "30473",
+		"collection": "New Avengers Luke Cage",
+		"title": "Luke Cage",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-04-07",
+		"characters": [
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			}
+		],
+		"creators": [
+			{
+				"id": "329",
+				"name": "John Arcudi"
+			},
+			{
+				"id": "428",
+				"name": "Eric Canete"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/564f66c3f1d82.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "235"
+	},
+	{
+		"id": "30474",
+		"collection": "New Avengers Luke Cage",
+		"title": "Luke Cage",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-05-12",
+		"characters": [
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			}
+		],
+		"creators": [
+			{
+				"id": "329",
+				"name": "John Arcudi"
+			},
+			{
+				"id": "428",
+				"name": "Eric Canete"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/564f669d8a6d3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "235"
+	},
+	{
+		"id": "33567",
+		"collection": "New Avengers Luke Cage",
+		"title": "Luke Cage",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-06-30",
+		"characters": [
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			}
+		],
+		"creators": [
+			{
+				"id": "329",
+				"name": "John Arcudi"
+			},
+			{
+				"id": "428",
+				"name": "Eric Canete"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/564f66eba91b4.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "235"
+	},
+	{
+		"id": "32912",
+		"collection": "Daredevil Cage Match",
+		"title": "Luke Cage",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-05-12",
+		"characters": [
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "003",
+				"name": "Daredevil"
+			}
+		],
+		"creators": [
+			{
+				"id": "451",
+				"name": "Antony Johnston"
+			},
+			{
+				"id": "214",
+				"name": "Sean Chen"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4f58c263345ff.jpg",
+		"universe": "Earth-616",
+		"phaseid": "009",
+		"phasename": "Dark Reign",
+		"sortid": "235"
 	}
 ]

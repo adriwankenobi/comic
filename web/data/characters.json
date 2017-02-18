@@ -678,5 +678,13 @@
 	{
 		"id": "170",
 		"name": "Tony Stark"
+	},
+	{
+		"id": "171",
+		"name": "Ironman"
+	},
+	{
+		"id": "172",
+		"name": "Valkyrie"
 	}
 ]
