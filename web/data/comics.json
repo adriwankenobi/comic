@@ -122056,6 +122056,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/513f50268e882.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": [
+			"Beast leaves the X-Men"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "217"
@@ -128602,7 +128605,6 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/513f6e365d089.jpg",
 		"universe": "Earth-616",
-		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
 		"sortid": "002"
@@ -128636,7 +128638,6 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/513f6e59aeb67.jpg",
 		"universe": "Earth-616",
-		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
 		"sortid": "002"
@@ -128670,7 +128671,6 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/513f6f1a92c45.jpg",
 		"universe": "Earth-616",
-		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
 		"sortid": "002"
@@ -128704,7 +128704,6 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/513f6f0cc6d96.jpg",
 		"universe": "Earth-616",
-		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
 		"sortid": "002"
@@ -129135,6 +129134,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/4f50ea99172f8.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": [
+			"Avengers teams get reestructured"
+		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
 		"sortid": "004"
@@ -129568,6 +129570,9 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5744d03ca5d23.jpg",
 		"universe": "Earth-616",
+		"comments": [
+			"Luke Cage takes control of the Thunderbolts"
+		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
 		"sortid": "006"
@@ -131345,9 +131350,254 @@
 		"sortid": "015"
 	},
 	{
+		"id": "30241",
+		"collection": "Heralds",
+		"title": "Heralds",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-06-03",
+		"characters": [
+			{
+				"id": "172",
+				"name": "Valkyrie"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "173",
+				"name": "Hellcat"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "174",
+				"name": "Monica Rambeau"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "334",
+				"name": "Kathryn Immonen"
+			},
+			{
+				"id": "461",
+				"name": "Tonci Zonjic"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/5625587612f69.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "016"
+	},
+	{
+		"id": "30242",
+		"collection": "Heralds",
+		"title": "Heralds",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-06-09",
+		"characters": [
+			{
+				"id": "172",
+				"name": "Valkyrie"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "173",
+				"name": "Hellcat"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "174",
+				"name": "Monica Rambeau"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "334",
+				"name": "Kathryn Immonen"
+			},
+			{
+				"id": "461",
+				"name": "Tonci Zonjic"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/56255736914cf.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "016"
+	},
+	{
+		"id": "30243",
+		"collection": "Heralds",
+		"title": "Heralds",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-06-16",
+		"characters": [
+			{
+				"id": "172",
+				"name": "Valkyrie"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "173",
+				"name": "Hellcat"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "174",
+				"name": "Monica Rambeau"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "334",
+				"name": "Kathryn Immonen"
+			},
+			{
+				"id": "461",
+				"name": "Tonci Zonjic"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/56255754e656b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "016"
+	},
+	{
+		"id": "30244",
+		"collection": "Heralds",
+		"title": "Heralds",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-06-23",
+		"characters": [
+			{
+				"id": "172",
+				"name": "Valkyrie"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "173",
+				"name": "Hellcat"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "174",
+				"name": "Monica Rambeau"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "334",
+				"name": "Kathryn Immonen"
+			},
+			{
+				"id": "461",
+				"name": "Tonci Zonjic"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/56255769becfa.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "016"
+	},
+	{
+		"id": "30245",
+		"collection": "Heralds",
+		"title": "Heralds",
+		"vol": 1,
+		"num": 5,
+		"date": "2010-06-30",
+		"characters": [
+			{
+				"id": "172",
+				"name": "Valkyrie"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "173",
+				"name": "Hellcat"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "174",
+				"name": "Monica Rambeau"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "334",
+				"name": "Kathryn Immonen"
+			},
+			{
+				"id": "461",
+				"name": "Tonci Zonjic"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/56255967c7b41.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "016"
+	},
+	{
 		"id": "30253",
 		"collection": "Valkyrie",
-		"title": "Valkyrie",
+		"title": "Heralds",
 		"vol": 2,
 		"num": 1,
 		"date": "2010-09-29",
@@ -131359,7 +131609,7 @@
 		],
 		"creators": [
 			{
-				"id": "461",
+				"id": "462",
 				"name": "Bryan J L Glass"
 			},
 			{
@@ -131369,9 +131619,6 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4c0feb70ed34f.jpg",
 		"universe": "Earth-616",
-		"comments": [
-			"Missing"
-		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
 		"sortid": "016"
@@ -131399,7 +131646,7 @@
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "462",
+				"id": "463",
 				"name": "Sebastian Fiumara"
 			}
 		],
@@ -131432,7 +131679,7 @@
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "462",
+				"id": "463",
 				"name": "Sebastian Fiumara"
 			}
 		],
@@ -131465,7 +131712,7 @@
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "462",
+				"id": "463",
 				"name": "Sebastian Fiumara"
 			}
 		],
@@ -131498,7 +131745,7 @@
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "462",
+				"id": "463",
 				"name": "Sebastian Fiumara"
 			}
 		],
@@ -131653,13 +131900,16 @@
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "463",
+				"id": "464",
 				"name": "Mike Deodato"
 			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5189711d4aa5f.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": [
+			"Steve Rogers founds the Secret Avengers"
+		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
 		"sortid": "020"
@@ -131719,7 +131969,7 @@
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "463",
+				"id": "464",
 				"name": "Mike Deodato"
 			}
 		],
@@ -131785,7 +132035,7 @@
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "463",
+				"id": "464",
 				"name": "Mike Deodato"
 			}
 		],
@@ -131851,7 +132101,7 @@
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "463",
+				"id": "464",
 				"name": "Mike Deodato"
 			}
 		],
@@ -131980,7 +132230,7 @@
 		],
 		"creators": [
 			{
-				"id": "464",
+				"id": "465",
 				"name": "Jonathan Maberry"
 			},
 			{
@@ -132085,7 +132335,7 @@
 				"name": "Hulkling"
 			},
 			{
-				"id": "173",
+				"id": "175",
 				"name": "Iron fist"
 			},
 			{
@@ -132109,7 +132359,6 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4f624d4eda03f.jpg",
 		"universe": "Earth-616",
-		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
 		"sortid": "023"
@@ -132141,7 +132390,7 @@
 		],
 		"creators": [
 			{
-				"id": "465",
+				"id": "466",
 				"name": "Greg Rucka"
 			},
 			{
@@ -132188,7 +132437,6 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/4f58d283e9e19.jpg",
 		"universe": "Earth-616",
-		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
 		"sortid": "023"
@@ -132242,7 +132490,6 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/4f624e07d588d.jpg",
 		"universe": "Earth-616",
-		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
 		"sortid": "023"
@@ -132268,7 +132515,7 @@
 				"name": "Young Avengers"
 			},
 			{
-				"id": "174",
+				"id": "176",
 				"name": "Vision Cassie Lang"
 			},
 			{
@@ -132286,7 +132533,7 @@
 		],
 		"creators": [
 			{
-				"id": "466",
+				"id": "467",
 				"name": "Tim Ursiny"
 			},
 			{
@@ -132301,6 +132548,5868 @@
 		"sortid": "023"
 	},
 	{
+		"id": "32789",
+		"collection": "Steve Rogers Super Soldier",
+		"title": "Super Soldier",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-07-08",
+		"characters": [
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			}
+		],
+		"creators": [
+			{
+				"id": "113",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "340",
+				"name": "Dale Eaglesham"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/5696b239823f6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "024"
+	},
+	{
+		"id": "32788",
+		"collection": "Steve Rogers Super Soldier",
+		"title": "Super Soldier",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-08-11",
+		"characters": [
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			}
+		],
+		"creators": [
+			{
+				"id": "113",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "340",
+				"name": "Dale Eaglesham"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4beacc69e633a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "024"
+	},
+	{
+		"id": "32792",
+		"collection": "Steve Rogers Super Soldier",
+		"title": "Super Soldier",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-09-15",
+		"characters": [
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			}
+		],
+		"creators": [
+			{
+				"id": "113",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "340",
+				"name": "Dale Eaglesham"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4c0fe9c365aa8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "024"
+	},
+	{
+		"id": "32793",
+		"collection": "Steve Rogers Super Soldier",
+		"title": "Super Soldier",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-10-20",
+		"characters": [
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			}
+		],
+		"creators": [
+			{
+				"id": "113",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "340",
+				"name": "Dale Eaglesham"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4c4723b7ae2d3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "024"
+	},
+	{
+		"id": "29873",
+		"collection": "Wolverine Origins",
+		"title": "Reckoning",
+		"vol": 1,
+		"num": 46,
+		"date": "2010-03-31",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "125",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/5847204a71a16.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "025"
+	},
+	{
+		"id": "30385",
+		"collection": "Dark Wolverine",
+		"title": "Reckoning",
+		"vol": 1,
+		"num": 85,
+		"date": "2010-04-21",
+		"characters": [
+			{
+				"id": "125",
+				"name": "Daken"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "259",
+				"name": "Stephen Segovia"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4bac5930f1bf0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "025"
+	},
+	{
+		"id": "29874",
+		"collection": "Wolverine Origins",
+		"title": "Reckoning",
+		"vol": 1,
+		"num": 47,
+		"date": "2010-04-28",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "125",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "161",
+				"name": "Will Conrad"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/5847217990e58.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "025"
+	},
+	{
+		"id": "30386",
+		"collection": "Dark Wolverine",
+		"title": "Reckoning",
+		"vol": 1,
+		"num": 86,
+		"date": "2010-05-26",
+		"characters": [
+			{
+				"id": "125",
+				"name": "Daken"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "259",
+				"name": "Stephen Segovia"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4baaa0870883e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "025"
+	},
+	{
+		"id": "29875",
+		"collection": "Wolverine Origins",
+		"title": "Reckoning",
+		"vol": 1,
+		"num": 48,
+		"date": "2010-05-26",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "125",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "161",
+				"name": "Will Conrad"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5847229f0ffc4.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "025"
+	},
+	{
+		"id": "29876",
+		"collection": "Wolverine Origins",
+		"title": "Reckoning",
+		"vol": 1,
+		"num": 49,
+		"date": "2010-06-23",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "125",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "161",
+				"name": "Will Conrad"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/584723a68a24c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "025"
+	},
+	{
+		"id": "29877",
+		"collection": "Wolverine Origins",
+		"title": "Reckoning",
+		"vol": 1,
+		"num": 50,
+		"date": "2010-07-28",
+		"characters": [
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "161",
+				"name": "Will Conrad"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/584724c16d5b4.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "025"
+	},
+	{
+		"id": "30387",
+		"collection": "Dark Wolverine",
+		"title": "Idle Hands",
+		"vol": 1,
+		"num": 87,
+		"date": "2010-06-16",
+		"characters": [
+			{
+				"id": "125",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "468",
+				"name": "Mirco Pierfederici"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4ba94aa5d5064.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "026"
+	},
+	{
+		"id": "24618",
+		"collection": "Black Panther",
+		"title": "Power",
+		"vol": 5,
+		"num": 7,
+		"date": "2009-08-05",
+		"characters": [
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
+		],
+		"creators": [
+			{
+				"id": "465",
+				"name": "Jonathan Maberry"
+			},
+			{
+				"id": "161",
+				"name": "Will Conrad"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/a0/51e0499214746.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "027"
+	},
+	{
+		"id": "24619",
+		"collection": "Black Panther",
+		"title": "Power",
+		"vol": 5,
+		"num": 8,
+		"date": "2009-09-02",
+		"characters": [
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
+		],
+		"creators": [
+			{
+				"id": "465",
+				"name": "Jonathan Maberry"
+			},
+			{
+				"id": "161",
+				"name": "Will Conrad"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/56e05c0cda2d4.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "027"
+	},
+	{
+		"id": "24620",
+		"collection": "Black Panther",
+		"title": "Power",
+		"vol": 5,
+		"num": 9,
+		"date": "2009-10-07",
+		"characters": [
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
+		],
+		"creators": [
+			{
+				"id": "465",
+				"name": "Jonathan Maberry"
+			},
+			{
+				"id": "161",
+				"name": "Will Conrad"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/56e05cbb8dd74.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "027"
+	},
+	{
+		"id": "24611",
+		"collection": "Black Panther",
+		"title": "Power",
+		"vol": 5,
+		"num": 10,
+		"date": "2009-11-11",
+		"characters": [
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
+		],
+		"creators": [
+			{
+				"id": "465",
+				"name": "Jonathan Maberry"
+			},
+			{
+				"id": "161",
+				"name": "Will Conrad"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56e05d4b665fa.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "027"
+	},
+	{
+		"id": "24612",
+		"collection": "Black Panther",
+		"title": "Power",
+		"vol": 5,
+		"num": 11,
+		"date": "2009-12-16",
+		"characters": [
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
+		],
+		"creators": [
+			{
+				"id": "465",
+				"name": "Jonathan Maberry"
+			},
+			{
+				"id": "264",
+				"name": "Ken Lashley"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/56e05e24c7721.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "027"
+	},
+	{
+		"id": "30341",
+		"collection": "Black Panther",
+		"title": "Power",
+		"vol": 5,
+		"num": 12,
+		"date": "2010-01-13",
+		"characters": [
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			}
+		],
+		"creators": [
+			{
+				"id": "465",
+				"name": "Jonathan Maberry"
+			},
+			{
+				"id": "161",
+				"name": "Will Conrad"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/56e05f6a54e5f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "027"
+	},
+	{
+		"id": "29948",
+		"collection": "Doomwar",
+		"title": "Doomwar",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-02-17",
+		"characters": [
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "465",
+				"name": "Jonathan Maberry"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/56cb4192418f4.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "028"
+	},
+	{
+		"id": "29949",
+		"collection": "Doomwar",
+		"title": "Doomwar",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-03-17",
+		"characters": [
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "465",
+				"name": "Jonathan Maberry"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bacb6eec5330.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "028"
+	},
+	{
+		"id": "29950",
+		"collection": "Doomwar",
+		"title": "Doomwar",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-04-21",
+		"characters": [
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "465",
+				"name": "Jonathan Maberry"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/553a3f2605399.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "028"
+	},
+	{
+		"id": "29951",
+		"collection": "Doomwar",
+		"title": "Doomwar",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-05-26",
+		"characters": [
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "465",
+				"name": "Jonathan Maberry"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4baa9e368ea97.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "028"
+	},
+	{
+		"id": "29952",
+		"collection": "Doomwar",
+		"title": "Doomwar",
+		"vol": 1,
+		"num": 5,
+		"date": "2010-06-30",
+		"characters": [
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "465",
+				"name": "Jonathan Maberry"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4c222337ceec2.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "028"
+	},
+	{
+		"id": "30720",
+		"collection": "Doomwar",
+		"title": "Doomwar",
+		"vol": 1,
+		"num": 6,
+		"date": "2010-08-04",
+		"characters": [
+			{
+				"id": "094",
+				"name": "Black Panther"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			},
+			{
+				"id": "040",
+				"name": "Doctor Doom"
+			},
+			{
+				"id": "035",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "037",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "038",
+				"name": "Human Torch"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "465",
+				"name": "Jonathan Maberry"
+			},
+			{
+				"id": "087",
+				"name": "Scot Eaton"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/50b3b7f37a3bc.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "028"
+	},
+	{
+		"id": "34557",
+		"collection": "Klaws of the Panther",
+		"title": "Klaws of the Panther",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-10-06",
+		"characters": [
+			{
+				"id": "094",
+				"name": "Black Panther"
+			}
+		],
+		"creators": [
+			{
+				"id": "465",
+				"name": "Jonathan Maberry"
+			},
+			{
+				"id": "356",
+				"name": "Gianluca Gugliotta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4d49e1bed7026.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "029"
+	},
+	{
+		"id": "36291",
+		"collection": "Klaws of the Panther",
+		"title": "Klaws of the Panther",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-10-27",
+		"characters": [
+			{
+				"id": "094",
+				"name": "Black Panther"
+			}
+		],
+		"creators": [
+			{
+				"id": "465",
+				"name": "Jonathan Maberry"
+			},
+			{
+				"id": "356",
+				"name": "Gianluca Gugliotta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4cc18e33af946.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "029"
+	},
+	{
+		"id": "34564",
+		"collection": "Klaws of the Panther",
+		"title": "Klaws of the Panther",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-11-17",
+		"characters": [
+			{
+				"id": "094",
+				"name": "Black Panther"
+			}
+		],
+		"creators": [
+			{
+				"id": "465",
+				"name": "Jonathan Maberry"
+			},
+			{
+				"id": "356",
+				"name": "Gianluca Gugliotta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4d2cac891e9a9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "029"
+	},
+	{
+		"id": "36414",
+		"collection": "Klaws of the Panther",
+		"title": "Klaws of the Panther",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-12-22",
+		"characters": [
+			{
+				"id": "094",
+				"name": "Black Panther"
+			}
+		],
+		"creators": [
+			{
+				"id": "465",
+				"name": "Jonathan Maberry"
+			},
+			{
+				"id": "356",
+				"name": "Gianluca Gugliotta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4d2cacfc88209.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "029"
+	},
+	{
+		"id": "24633",
+		"collection": "Cable",
+		"title": "Stranded",
+		"vol": 2,
+		"num": 16,
+		"date": "2009-07-01",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
+		],
+		"creators": [
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "469",
+				"name": "Paul Gulacy"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4ea07ba40ff92.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "030"
+	},
+	{
+		"id": "24634",
+		"collection": "Cable",
+		"title": "Stranded",
+		"vol": 2,
+		"num": 17,
+		"date": "2009-08-12",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
+		],
+		"creators": [
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "469",
+				"name": "Paul Gulacy"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4ea07df279cc5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "030"
+	},
+	{
+		"id": "24635",
+		"collection": "Cable",
+		"title": "Stranded",
+		"vol": 2,
+		"num": 18,
+		"date": "2009-09-02",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
+		],
+		"creators": [
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "470",
+				"name": "Gabriel Guzman"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4ea0803c328d7.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "030"
+	},
+	{
+		"id": "24636",
+		"collection": "Cable",
+		"title": "Stranded",
+		"vol": 2,
+		"num": 19,
+		"date": "2009-10-07",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
+		],
+		"creators": [
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "470",
+				"name": "Gabriel Guzman"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4ea083ef2e398.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "030"
+	},
+	{
+		"id": "24637",
+		"collection": "Cable",
+		"title": "Stranded",
+		"vol": 2,
+		"num": 20,
+		"date": "2009-11-11",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
+		],
+		"creators": [
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "470",
+				"name": "Gabriel Guzman"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4ea085fa0b173.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "030"
+	},
+	{
+		"id": "24638",
+		"collection": "Cable",
+		"title": "Homecoming",
+		"vol": 2,
+		"num": 21,
+		"date": "2009-12-16",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
+		],
+		"creators": [
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "050",
+				"name": "Humberto Ramos"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4ea1c2d2812a3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "031"
+	},
+	{
+		"id": "30344",
+		"collection": "Cable",
+		"title": "Homecoming",
+		"vol": 2,
+		"num": 22,
+		"date": "2010-01-06",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
+		],
+		"creators": [
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "470",
+				"name": "Gabriel Guzman"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4ea1c4d3e3226.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "031"
+	},
+	{
+		"id": "24640",
+		"collection": "Cable",
+		"title": "Homecoming",
+		"vol": 2,
+		"num": 23,
+		"date": "2010-02-03",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
+		],
+		"creators": [
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "470",
+				"name": "Gabriel Guzman"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4ea1c634d7f02.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "031"
+	},
+	{
+		"id": "30346",
+		"collection": "Cable",
+		"title": "Homecoming",
+		"vol": 2,
+		"num": 24,
+		"date": "2010-03-10",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "069",
+				"name": "Bishop"
+			}
+		],
+		"creators": [
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "432",
+				"name": "Giancarlo Caracuzzo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4ea1c7cd06b61.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "031"
+	},
+	{
+		"id": "29932",
+		"collection": "Deadpool and Cable",
+		"title": "Homecoming",
+		"vol": 1,
+		"num": 25,
+		"date": "2010-04-07",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "087",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "042",
+				"name": "Paco Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/56169ec26c9b9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "031"
+	},
+	{
+		"id": "32475",
+		"collection": "X-Men Hope",
+		"title": "Homecoming",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-03-03",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			}
+		],
+		"creators": [
+			{
+				"id": "263",
+				"name": "Duane Swierczynski"
+			},
+			{
+				"id": "112",
+				"name": "Steve Dillon"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bacdc71a31f9.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "031"
+	},
+	{
+		"id": "33554",
+		"collection": "X-Men Second Coming Prepare",
+		"title": "Second Coming I",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-04-01",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "163",
+				"name": "New Mutants"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "013",
+				"name": "Stuart Immonen"
+			}
+		],
+		"pic": "http://vignette1.wikia.nocookie.net/marveldatabase/images/3/31/Second_Coming_Prepare_Vol_1_1.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Cable and Hope return to present"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "032"
+	},
+	{
+		"id": "30274",
+		"collection": "Second Coming",
+		"title": "Second Coming I",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-03-31",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "163",
+				"name": "New Mutants"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "085",
+				"name": "David Finch"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/513a6ca9481a8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "032"
+	},
+	{
+		"id": "32564",
+		"collection": "Uncanny X-Men",
+		"title": "Second Coming I",
+		"vol": 1,
+		"num": 523,
+		"date": "2010-04-07",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "163",
+				"name": "New Mutants"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "077",
+				"name": "Terry Dodson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/513a7978b26f8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "032"
+	},
+	{
+		"id": "32552",
+		"collection": "New Mutants",
+		"title": "Second Coming I",
+		"vol": 3,
+		"num": 12,
+		"date": "2010-04-14",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "163",
+				"name": "New Mutants"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "439",
+				"name": "Ibraim Roberson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/513a7c0c95ef2.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "032"
+	},
+	{
+		"id": "32598",
+		"collection": "X-Men Legacy",
+		"title": "Second Coming I",
+		"vol": 1,
+		"num": 235,
+		"date": "2010-04-21",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "163",
+				"name": "New Mutants"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "121",
+				"name": "Greg Land"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/51a4e1962afed.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "032"
+	},
+	{
+		"id": "32583",
+		"collection": "X-Force",
+		"title": "Second Coming II",
+		"vol": 3,
+		"num": 26,
+		"date": "2010-04-28",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "163",
+				"name": "New Mutants"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "242",
+				"name": "Mike Choi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/513a7fb1b065a.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Nightcrawler dies"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "033"
+	},
+	{
+		"id": "32571",
+		"collection": "X-Factor",
+		"title": "Second Coming II",
+		"vol": 1,
+		"num": 204,
+		"date": "2010-04-21",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "169",
+				"name": "Syrin"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bac56dcc794a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "033"
+	},
+	{
+		"id": "30621",
+		"collection": "Uncanny X-Men",
+		"title": "Second Coming II",
+		"vol": 1,
+		"num": 524,
+		"date": "2010-05-05",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "163",
+				"name": "New Mutants"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "077",
+				"name": "Terry Dodson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/513f531a53d38.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "033"
+	},
+	{
+		"id": "32987",
+		"collection": "X-Men Hellbound",
+		"title": "Second Coming II",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-05-05",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "048",
+				"name": "Gambit"
+			}
+		],
+		"creators": [
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "223",
+				"name": "Harvey Tolibao"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4baa86c671fb5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "033"
+	},
+	{
+		"id": "30486",
+		"collection": "New Mutants",
+		"title": "Second Coming II",
+		"vol": 3,
+		"num": 13,
+		"date": "2010-05-12",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "163",
+				"name": "New Mutants"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "439",
+				"name": "Ibraim Roberson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/513a7c5897288.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "033"
+	},
+	{
+		"id": "32984",
+		"collection": "X-Men Blind Science",
+		"title": "Second Coming II",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-05-26",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "322",
+				"name": "Simon Spurrier"
+			},
+			{
+				"id": "440",
+				"name": "Paul Davidson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/57ae27b943372.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "033"
+	},
+	{
+		"id": "30703",
+		"collection": "X-Men Legacy",
+		"title": "Second Coming III",
+		"vol": 1,
+		"num": 236,
+		"date": "2010-05-19",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "163",
+				"name": "New Mutants"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "121",
+				"name": "Greg Land"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/51a4e3470585f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "034"
+	},
+	{
+		"id": "30673",
+		"collection": "X-Force",
+		"title": "Second Coming III",
+		"vol": 3,
+		"num": 27,
+		"date": "2010-05-26",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "163",
+				"name": "New Mutants"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "242",
+				"name": "Mike Choi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/513a7fc0379fe.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "034"
+	},
+	{
+		"id": "30660",
+		"collection": "X-Factor",
+		"title": "Second Coming III",
+		"vol": 1,
+		"num": 205,
+		"date": "2010-05-19",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "169",
+				"name": "Syrin"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4baa9be4b414f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "034"
+	},
+	{
+		"id": "30622",
+		"collection": "Uncanny X-Men",
+		"title": "Second Coming III",
+		"vol": 1,
+		"num": 525,
+		"date": "2010-06-09",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "163",
+				"name": "New Mutants"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "077",
+				"name": "Terry Dodson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/513a787314f79.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "034"
+	},
+	{
+		"id": "30487",
+		"collection": "New Mutants",
+		"title": "Second Coming III",
+		"vol": 3,
+		"num": 14,
+		"date": "2010-06-16",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "163",
+				"name": "New Mutants"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "439",
+				"name": "Ibraim Roberson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/513a7ccc0a375.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "034"
+	},
+	{
+		"id": "30704",
+		"collection": "X-Men Legacy",
+		"title": "Second Coming III",
+		"vol": 1,
+		"num": 237,
+		"date": "2010-06-23",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "163",
+				"name": "New Mutants"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "121",
+				"name": "Greg Land"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4c1b7963bc901.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "034"
+	},
+	{
+		"id": "30674",
+		"collection": "X-Force",
+		"title": "Second Coming IV",
+		"vol": 3,
+		"num": 28,
+		"date": "2010-07-08",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "163",
+				"name": "New Mutants"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "242",
+				"name": "Mike Choi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/513a7fcf6b198.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "035"
+	},
+	{
+		"id": "30661",
+		"collection": "X-Factor",
+		"title": "Second Coming IV",
+		"vol": 1,
+		"num": 206,
+		"date": "2010-06-23",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "074",
+				"name": "X-Factor"
+			},
+			{
+				"id": "075",
+				"name": "Madrox"
+			},
+			{
+				"id": "117",
+				"name": "Rictor"
+			},
+			{
+				"id": "076",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "169",
+				"name": "Syrin"
+			},
+			{
+				"id": "118",
+				"name": "Monet"
+			},
+			{
+				"id": "111",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "099",
+				"name": "Peter David"
+			},
+			{
+				"id": "072",
+				"name": "Valentine De Landro"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4ba94a681e1f7.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "035"
+	},
+	{
+		"id": "32988",
+		"collection": "X-Men Hellbound",
+		"title": "Second Coming IV",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-06-09",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "048",
+				"name": "Gambit"
+			}
+		],
+		"creators": [
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "223",
+				"name": "Harvey Tolibao"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4ba945cc184e1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "035"
+	},
+	{
+		"id": "33166",
+		"collection": "Second Coming",
+		"title": "Second Coming IV",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-07-14",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "086",
+				"name": "Cable"
+			},
+			{
+				"id": "146",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "030",
+				"name": "Cyclops"
+			},
+			{
+				"id": "031",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "047",
+				"name": "Rogue"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Colossus"
+			},
+			{
+				"id": "071",
+				"name": "Nightcrawler"
+			},
+			{
+				"id": "098",
+				"name": "Psylocke"
+			},
+			{
+				"id": "099",
+				"name": "Angel"
+			},
+			{
+				"id": "073",
+				"name": "X-23"
+			},
+			{
+				"id": "145",
+				"name": "X-Force"
+			},
+			{
+				"id": "163",
+				"name": "New Mutants"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "109",
+				"name": "Magneto"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "072",
+				"name": "Storm"
+			}
+		],
+		"creators": [
+			{
+				"id": "153",
+				"name": "Mike Carey"
+			},
+			{
+				"id": "210",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "471",
+				"name": "Christ Yost"
+			},
+			{
+				"id": "122",
+				"name": "Craig Kyle"
+			},
+			{
+				"id": "439",
+				"name": "Ibraim Roberson"
+			},
+			{
+				"id": "077",
+				"name": "Terry Dodson"
+			},
+			{
+				"id": "121",
+				"name": "Greg Land"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4c35eaa5efd60.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Mutants start being born again"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "035"
+	},
+	{
+		"id": "32991",
+		"collection": "X-Men Hellbound",
+		"title": "Second Coming IV",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-07-14",
+		"event": "Second Coming",
+		"eventid": "016",
+		"characters": [
+			{
+				"id": "028",
+				"name": "X-Men"
+			},
+			{
+				"id": "048",
+				"name": "Gambit"
+			}
+		],
+		"creators": [
+			{
+				"id": "123",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "223",
+				"name": "Harvey Tolibao"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4c34a3ce9eb75.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "035"
+	},
+	{
+		"id": "30164",
+		"collection": "Franken-Castle",
+		"title": "Missing Pieces",
+		"vol": 1,
+		"num": 17,
+		"date": "2010-06-03",
+		"characters": [
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
+		],
+		"creators": [
+			{
+				"id": "357",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "472",
+				"name": "Roland Boschi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/56a6479a0ee78.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "036"
+	},
+	{
+		"id": "30165",
+		"collection": "Franken-Castle",
+		"title": "Missing Pieces",
+		"vol": 1,
+		"num": 18,
+		"date": "2010-06-23",
+		"characters": [
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
+		],
+		"creators": [
+			{
+				"id": "357",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "311",
+				"name": "Jefte Palo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/56a64b6a549be.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "036"
+	},
+	{
+		"id": "30388",
+		"collection": "Dark Wolverine",
+		"title": "Missing Pieces",
+		"vol": 1,
+		"num": 88,
+		"date": "2010-07-21",
+		"characters": [
+			{
+				"id": "125",
+				"name": "Daken"
+			},
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "259",
+				"name": "Stephen Segovia"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bc5e5a912028.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "036"
+	},
+	{
+		"id": "30166",
+		"collection": "Franken-Castle",
+		"title": "Missing Pieces",
+		"vol": 1,
+		"num": 19,
+		"date": "2010-07-28",
+		"characters": [
+			{
+				"id": "009",
+				"name": "Punisher"
+			},
+			{
+				"id": "125",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "357",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "443",
+				"name": "Tony Moore"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/56a64cdd87e9d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "036"
+	},
+	{
+		"id": "30389",
+		"collection": "Dark Wolverine",
+		"title": "Missing Pieces",
+		"vol": 1,
+		"num": 89,
+		"date": "2010-08-11",
+		"characters": [
+			{
+				"id": "125",
+				"name": "Daken"
+			},
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
+		],
+		"creators": [
+			{
+				"id": "111",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "259",
+				"name": "Stephen Segovia"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/e0/4bed5ac51fbfa.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "036"
+	},
+	{
+		"id": "30167",
+		"collection": "Franken-Castle",
+		"title": "Missing Pieces",
+		"vol": 1,
+		"num": 20,
+		"date": "2010-09-01",
+		"characters": [
+			{
+				"id": "009",
+				"name": "Punisher"
+			},
+			{
+				"id": "125",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "357",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "443",
+				"name": "Tony Moore"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/56a64d93dd343.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "036"
+	},
+	{
+		"id": "30168",
+		"collection": "Franken-Castle",
+		"title": "Missing Pieces",
+		"vol": 1,
+		"num": 21,
+		"date": "2010-09-29",
+		"characters": [
+			{
+				"id": "009",
+				"name": "Punisher"
+			}
+		],
+		"creators": [
+			{
+				"id": "357",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "273",
+				"name": "Daniel Brereton"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/56a64e475b95b.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Punisher heals"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "036"
+	},
+	{
+		"id": "29703",
+		"collection": "Shadowland",
+		"title": "Shadowland",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-07-08",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "088",
+				"name": "Bullseye"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "009",
+				"name": "Punisher"
+			},
+			{
+				"id": "136",
+				"name": "Kingpin"
+			},
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "010",
+				"name": "Shang-Chi"
+			},
+			{
+				"id": "177",
+				"name": "Ghost Rider"
+			},
+			{
+				"id": "134",
+				"name": "Colleen Wing"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "124",
+				"name": "Billy Tan"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/52c5ba4a25682.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Daredevil gets possessed"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "037"
+	},
+	{
+		"id": "30367",
+		"collection": "Daredevil",
+		"title": "Shadowland Daredevil",
+		"vol": 1,
+		"num": 508,
+		"date": "2010-07-14",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "101",
+				"name": "Elektra"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "145",
+				"name": "Roberto De La Torre"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/572d151fa748a.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "038"
+	},
+	{
+		"id": "30368",
+		"collection": "Daredevil",
+		"title": "Shadowland Daredevil",
+		"vol": 1,
+		"num": 509,
+		"date": "2010-08-11",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "101",
+				"name": "Elektra"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "145",
+				"name": "Roberto De La Torre"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/572d14fb846e1.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "038"
+	},
+	{
+		"id": "33889",
+		"collection": "Shadowland Blood on the Streets",
+		"title": "Blood on the Streets",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-08-11",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			}
+		],
+		"creators": [
+			{
+				"id": "451",
+				"name": "Antony Johnston"
+			},
+			{
+				"id": "299",
+				"name": "Wellington Alves"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/4beb08e5b0bdc.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "039"
+	},
+	{
+		"id": "34341",
+		"collection": "Shadowland Moon Knight",
+		"title": "Shadowland Moon Knight",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-08-25",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			}
+		],
+		"creators": [
+			{
+				"id": "381",
+				"name": "Gregg Hurwitz"
+			},
+			{
+				"id": "348",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/57ab5c2009401.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "040"
+	},
+	{
+		"id": "33871",
+		"collection": "Shadowland Power Man",
+		"title": "Shadowland Power Man",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-08-18",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "300",
+				"name": "Mahmud Asrar"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4beaffbc28009.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "041"
+	},
+	{
+		"id": "33883",
+		"collection": "Shadowland Power Man",
+		"title": "Shadowland Power Man",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-09-15",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "300",
+				"name": "Mahmud Asrar"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4c0fe9dfe3950.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "041"
+	},
+	{
+		"id": "29704",
+		"collection": "Shadowland",
+		"title": "Shadowland",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-08-04",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "088",
+				"name": "Bullseye"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "009",
+				"name": "Punisher"
+			},
+			{
+				"id": "136",
+				"name": "Kingpin"
+			},
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "010",
+				"name": "Shang-Chi"
+			},
+			{
+				"id": "177",
+				"name": "Ghost Rider"
+			},
+			{
+				"id": "134",
+				"name": "Colleen Wing"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "124",
+				"name": "Billy Tan"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/52c5ba5da97e7.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "042"
+	},
+	{
+		"id": "36190",
+		"collection": "Shadowland Daughters of the Shadow",
+		"title": "Daughters of the Shadow",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-08-18",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "134",
+				"name": "Colleen Wing"
+			},
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			}
+		],
+		"creators": [
+			{
+				"id": "473",
+				"name": "Jason Henderson"
+			},
+			{
+				"id": "474",
+				"name": "Ivan Rodriguez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bed41e9868b2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "043"
+	},
+	{
+		"id": "36189",
+		"collection": "Shadowland Daughters of the Shadow",
+		"title": "Daughters of the Shadow",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-09-22",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "134",
+				"name": "Colleen Wing"
+			},
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			}
+		],
+		"creators": [
+			{
+				"id": "473",
+				"name": "Jason Henderson"
+			},
+			{
+				"id": "474",
+				"name": "Ivan Rodriguez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/90/4c0fc12d600fe.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "043"
+	},
+	{
+		"id": "34918",
+		"collection": "Shadowland Daughters of the Shadow",
+		"title": "Daughters of the Shadow",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-11-10",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "134",
+				"name": "Colleen Wing"
+			},
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			}
+		],
+		"creators": [
+			{
+				"id": "473",
+				"name": "Jason Henderson"
+			},
+			{
+				"id": "474",
+				"name": "Ivan Rodriguez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c7c4817d090a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "043"
+	},
+	{
+		"id": "30369",
+		"collection": "Daredevil",
+		"title": "Shadowland Daredevil",
+		"vol": 1,
+		"num": 510,
+		"date": "2010-09-09",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "101",
+				"name": "Elektra"
+			},
+			{
+				"id": "136",
+				"name": "Kingpin"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "392",
+				"name": "Marco Checchetto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/572d14deb1b42.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "044"
+	},
+	{
+		"id": "33584",
+		"collection": "Shadowland Bullseye",
+		"title": "Shadowland Bullseye",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-08-04",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "088",
+				"name": "Bullseye"
+			},
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			}
+		],
+		"creators": [
+			{
+				"id": "138",
+				"name": "John Layman"
+			},
+			{
+				"id": "214",
+				"name": "Sean Chen"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/580fcadf35e83.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "045"
+	},
+	{
+		"id": "33587",
+		"collection": "Shadowland Elektra",
+		"title": "Shadowland Elektra",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-09-01",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "101",
+				"name": "Elektra"
+			}
+		],
+		"creators": [
+			{
+				"id": "169",
+				"name": "Zeb Wells"
+			},
+			{
+				"id": "475",
+				"name": "Emma Rios"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/4c0fc123a0ebf.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "046"
+	},
+	{
+		"id": "29705",
+		"collection": "Shadowland",
+		"title": "Shadowland",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-09-01",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "088",
+				"name": "Bullseye"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "009",
+				"name": "Punisher"
+			},
+			{
+				"id": "136",
+				"name": "Kingpin"
+			},
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "010",
+				"name": "Shang-Chi"
+			},
+			{
+				"id": "177",
+				"name": "Ghost Rider"
+			},
+			{
+				"id": "134",
+				"name": "Colleen Wing"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "124",
+				"name": "Billy Tan"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/52c5ba6c7d0f3.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "047"
+	},
+	{
+		"id": "34342",
+		"collection": "Shadowland Moon Knight",
+		"title": "Shadowland Moon Knight",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-09-22",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			}
+		],
+		"creators": [
+			{
+				"id": "381",
+				"name": "Gregg Hurwitz"
+			},
+			{
+				"id": "348",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4c0ff96e3c4fe.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "048"
+	},
+	{
+		"id": "34338",
+		"collection": "Shadowland Moon Knight",
+		"title": "Shadowland Moon Knight",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-10-27",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			}
+		],
+		"creators": [
+			{
+				"id": "381",
+				"name": "Gregg Hurwitz"
+			},
+			{
+				"id": "348",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/4c472fdcdc8e1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "048"
+	},
+	{
+		"id": "33881",
+		"collection": "Shadowland Blood on the Streets",
+		"title": "Blood on the Streets",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-09-09",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			}
+		],
+		"creators": [
+			{
+				"id": "451",
+				"name": "Antony Johnston"
+			},
+			{
+				"id": "299",
+				"name": "Wellington Alves"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4c0fd86a3d19b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "049"
+	},
+	{
+		"id": "33585",
+		"collection": "Shadowland Spider-Man",
+		"title": "Shadowland Spider-Man",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-10-06",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "010",
+				"name": "Shang-Chi"
+			}
+		],
+		"creators": [
+			{
+				"id": "057",
+				"name": "Dan Slott"
+			},
+			{
+				"id": "287",
+				"name": "Paulo Siqueira"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/4c449af8bc8e9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "050"
+	},
+	{
+		"id": "33888",
+		"collection": "Shadowland Blood on the Streets",
+		"title": "Blood on the Streets",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-11-03",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			}
+		],
+		"creators": [
+			{
+				"id": "451",
+				"name": "Antony Johnston"
+			},
+			{
+				"id": "299",
+				"name": "Wellington Alves"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4c44aab873c2b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "051"
+	},
+	{
+		"id": "29867",
+		"collection": "Thunderbolts",
+		"title": "Shadowland Thunderbolts",
+		"vol": 1,
+		"num": 148,
+		"date": "2010-09-15",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			}
+		],
+		"creators": [
+			{
+				"id": "171",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "476",
+				"name": "Declan Shalvey"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5744d24b427a9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "052"
+	},
+	{
+		"id": "29868",
+		"collection": "Thunderbolts",
+		"title": "Shadowland Thunderbolts",
+		"vol": 1,
+		"num": 149,
+		"date": "2010-10-27",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "107",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "108",
+				"name": "Songbird"
+			}
+		],
+		"creators": [
+			{
+				"id": "171",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "476",
+				"name": "Declan Shalvey"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/60/5744d12557603.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "052"
+	},
+	{
+		"id": "33586",
+		"collection": "Shadowland Ghost Rider",
+		"title": "Shadowland Ghost Rider",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-09-15",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "177",
+				"name": "Ghost Rider"
+			}
+		],
+		"creators": [
+			{
+				"id": "446",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "173",
+				"name": "Clayton Crain"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4c0fe81dd7739.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "053"
+	},
+	{
+		"id": "33879",
+		"collection": "Shadowland Power Man",
+		"title": "Shadowland Power Man",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-10-20",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "300",
+				"name": "Mahmud Asrar"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4c4723f20380e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "054"
+	},
+	{
+		"id": "29706",
+		"collection": "Shadowland",
+		"title": "Shadowland",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-10-13",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "088",
+				"name": "Bullseye"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "009",
+				"name": "Punisher"
+			},
+			{
+				"id": "136",
+				"name": "Kingpin"
+			},
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "010",
+				"name": "Shang-Chi"
+			},
+			{
+				"id": "177",
+				"name": "Ghost Rider"
+			},
+			{
+				"id": "134",
+				"name": "Colleen Wing"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "124",
+				"name": "Billy Tan"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/52c5ba735da75.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "055"
+	},
+	{
+		"id": "33892",
+		"collection": "Shadowland Blood on the Streets",
+		"title": "Blood on the Streets",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-11-24",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			}
+		],
+		"creators": [
+			{
+				"id": "451",
+				"name": "Antony Johnston"
+			},
+			{
+				"id": "299",
+				"name": "Wellington Alves"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4c65c218d89b7.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "056"
+	},
+	{
+		"id": "30370",
+		"collection": "Daredevil",
+		"title": "Shadowland Daredevil",
+		"vol": 1,
+		"num": 511,
+		"date": "2010-10-20",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "101",
+				"name": "Elektra"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "145",
+				"name": "Roberto De La Torre"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/574f471c8d786.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "057"
+	},
+	{
+		"id": "33700",
+		"collection": "Shadowland",
+		"title": "Shadowland",
+		"vol": 1,
+		"num": 5,
+		"date": "2010-12-02",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "088",
+				"name": "Bullseye"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "009",
+				"name": "Punisher"
+			},
+			{
+				"id": "136",
+				"name": "Kingpin"
+			},
+			{
+				"id": "113",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "010",
+				"name": "Shang-Chi"
+			},
+			{
+				"id": "177",
+				"name": "Ghost Rider"
+			},
+			{
+				"id": "134",
+				"name": "Colleen Wing"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "124",
+				"name": "Billy Tan"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/52c5ba7fbaec2.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "058"
+	},
+	{
+		"id": "33877",
+		"collection": "Shadowland Power Man",
+		"title": "Shadowland Power Man",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-11-24",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			}
+		],
+		"creators": [
+			{
+				"id": "132",
+				"name": "Fred Van Lente"
+			},
+			{
+				"id": "300",
+				"name": "Mahmud Asrar"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4c6307eaeb81c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "059"
+	},
+	{
+		"id": "30371",
+		"collection": "Daredevil",
+		"title": "Shadowland Daredevil",
+		"vol": 1,
+		"num": 512,
+		"date": "2010-12-02",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "136",
+				"name": "Kingpin"
+			},
+			{
+				"id": "094",
+				"name": "Black Panther"
+			}
+		],
+		"creators": [
+			{
+				"id": "335",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "392",
+				"name": "Marco Checchetto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/03/572d15307b282.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Black Panther becomes protector of Hell's Kitchen"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "060"
+	},
+	{
+		"id": "37059",
+		"collection": "Shadowland After the Fall",
+		"title": "Shadowland After the Fall",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-12-08",
+		"event": "Shadowland",
+		"eventid": "017",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Daredevil"
+			},
+			{
+				"id": "026",
+				"name": "Ben Urich"
+			},
+			{
+				"id": "101",
+				"name": "Elektra"
+			},
+			{
+				"id": "094",
+				"name": "Black Panther"
+			}
+		],
+		"creators": [
+			{
+				"id": "451",
+				"name": "Antony Johnston"
+			},
+			{
+				"id": "145",
+				"name": "Roberto De La Torre"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4c91292e26db5.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Daredevil leaves Hell's Kitchen"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "061"
+	},
+	{
+		"id": "32961",
+		"collection": "Heroic Age Prince of Power",
+		"title": "Prince of Power",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-05-12",
+		"characters": [
+			{
+				"id": "103",
+				"name": "Amadeus Cho"
+			},
+			{
+				"id": "050",
+				"name": "Hulk"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "121",
+				"name": "Hercules"
+			}
+		],
+		"creators": [
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "168",
+				"name": "Reilly Brown"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/4bab8bbfce315.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "062"
+	},
+	{
+		"id": "32962",
+		"collection": "Heroic Age Prince of Power",
+		"title": "Prince of Power",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-06-09",
+		"characters": [
+			{
+				"id": "103",
+				"name": "Amadeus Cho"
+			},
+			{
+				"id": "050",
+				"name": "Hulk"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "121",
+				"name": "Hercules"
+			}
+		],
+		"creators": [
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "168",
+				"name": "Reilly Brown"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/e0/4ba94bb7afa4b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "062"
+	},
+	{
+		"id": "32965",
+		"collection": "Heroic Age Prince of Power",
+		"title": "Prince of Power",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-07-21",
+		"characters": [
+			{
+				"id": "103",
+				"name": "Amadeus Cho"
+			},
+			{
+				"id": "050",
+				"name": "Hulk"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "121",
+				"name": "Hercules"
+			}
+		],
+		"creators": [
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "168",
+				"name": "Reilly Brown"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4c24f565e5feb.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "062"
+	},
+	{
+		"id": "32967",
+		"collection": "Heroic Age Prince of Power",
+		"title": "Prince of Power",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-08-25",
+		"characters": [
+			{
+				"id": "103",
+				"name": "Amadeus Cho"
+			},
+			{
+				"id": "050",
+				"name": "Hulk"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "121",
+				"name": "Hercules"
+			}
+		],
+		"creators": [
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "168",
+				"name": "Reilly Brown"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4beada87a99ae.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Hercules resurrects"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "062"
+	},
+	{
+		"id": "36771",
+		"collection": "Incredible Hulks",
+		"title": "Dark Son",
+		"vol": 1,
+		"num": 612,
+		"date": "2010-09-01",
+		"characters": [
+			{
+				"id": "050",
+				"name": "Hulk"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "166",
+				"name": "Lyra"
+			},
+			{
+				"id": "154",
+				"name": "Skaar"
+			},
+			{
+				"id": "155",
+				"name": "Hiro-Kala"
+			}
+		],
+		"creators": [
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "131",
+				"name": "Tom Raney"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4c73d703e22ad.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "063"
+	},
+	{
+		"id": "36774",
+		"collection": "Incredible Hulks",
+		"title": "Dark Son",
+		"vol": 1,
+		"num": 613,
+		"date": "2010-09-15",
+		"characters": [
+			{
+				"id": "050",
+				"name": "Hulk"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "166",
+				"name": "Lyra"
+			},
+			{
+				"id": "154",
+				"name": "Skaar"
+			},
+			{
+				"id": "155",
+				"name": "Hiro-Kala"
+			}
+		],
+		"creators": [
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "477",
+				"name": "Brian Ching"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4c7c1dc51f8e8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "063"
+	},
+	{
+		"id": "30436",
+		"collection": "Incredible Hulks",
+		"title": "Dark Son",
+		"vol": 1,
+		"num": 614,
+		"date": "2010-10-13",
+		"characters": [
+			{
+				"id": "050",
+				"name": "Hulk"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "166",
+				"name": "Lyra"
+			},
+			{
+				"id": "154",
+				"name": "Skaar"
+			},
+			{
+				"id": "155",
+				"name": "Hiro-Kala"
+			}
+		],
+		"creators": [
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "286",
+				"name": "Barry Kitson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/4f58ce6f567bc.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "063"
+	},
+	{
+		"id": "30437",
+		"collection": "Incredible Hulks",
+		"title": "Dark Son",
+		"vol": 1,
+		"num": 615,
+		"date": "2010-10-27",
+		"characters": [
+			{
+				"id": "050",
+				"name": "Hulk"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "166",
+				"name": "Lyra"
+			},
+			{
+				"id": "154",
+				"name": "Skaar"
+			},
+			{
+				"id": "155",
+				"name": "Hiro-Kala"
+			}
+		],
+		"creators": [
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "286",
+				"name": "Barry Kitson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4c44bc70c484b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "063"
+	},
+	{
+		"id": "30438",
+		"collection": "Incredible Hulks",
+		"title": "Dark Son",
+		"vol": 1,
+		"num": 616,
+		"date": "2010-11-10",
+		"characters": [
+			{
+				"id": "050",
+				"name": "Hulk"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "166",
+				"name": "Lyra"
+			},
+			{
+				"id": "154",
+				"name": "Skaar"
+			},
+			{
+				"id": "155",
+				"name": "Hiro-Kala"
+			}
+		],
+		"creators": [
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "286",
+				"name": "Barry Kitson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4f58cf2355078.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "063"
+	},
+	{
+		"id": "30439",
+		"collection": "Incredible Hulks",
+		"title": "Dark Son",
+		"vol": 1,
+		"num": 617,
+		"date": "2010-11-24",
+		"characters": [
+			{
+				"id": "050",
+				"name": "Hulk"
+			},
+			{
+				"id": "046",
+				"name": "She-Hulk"
+			},
+			{
+				"id": "166",
+				"name": "Lyra"
+			},
+			{
+				"id": "154",
+				"name": "Skaar"
+			},
+			{
+				"id": "155",
+				"name": "Hiro-Kala"
+			}
+		],
+		"creators": [
+			{
+				"id": "120",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "286",
+				"name": "Barry Kitson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/4f58d0863262b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "063"
+	},
+	{
+		"id": "30420",
+		"collection": "Hulk",
+		"title": "Scorched Earth",
+		"vol": 2,
+		"num": 25,
+		"date": "2010-09-22",
+		"characters": [
+			{
+				"id": "144",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "050",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "171",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "420",
+				"name": "Gabriel Hardman"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/510c3e4fd2d3a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "064"
+	},
+	{
+		"id": "30421",
+		"collection": "Hulk",
+		"title": "Scorched Earth",
+		"vol": 2,
+		"num": 26,
+		"date": "2010-10-20",
+		"characters": [
+			{
+				"id": "144",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "050",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "171",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "420",
+				"name": "Gabriel Hardman"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/a0/4f58c698d1f94.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "064"
+	},
+	{
+		"id": "30422",
+		"collection": "Hulk",
+		"title": "Scorched Earth",
+		"vol": 2,
+		"num": 27,
+		"date": "2010-11-17",
+		"characters": [
+			{
+				"id": "144",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "050",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "171",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "420",
+				"name": "Gabriel Hardman"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/510c416a17e8a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "064"
+	},
+	{
+		"id": "30423",
+		"collection": "Hulk",
+		"title": "Scorched Earth",
+		"vol": 2,
+		"num": 28,
+		"date": "2010-12-29",
+		"characters": [
+			{
+				"id": "144",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "050",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "171",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "420",
+				"name": "Gabriel Hardman"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/4f58c8b988e1c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "064"
+	},
+	{
+		"id": "30424",
+		"collection": "Hulk",
+		"title": "Scorched Earth",
+		"vol": 2,
+		"num": 29,
+		"date": "2011-02-02",
+		"characters": [
+			{
+				"id": "144",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "050",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "171",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "420",
+				"name": "Gabriel Hardman"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/4f5775a3884bc.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "064"
+	},
+	{
+		"id": "30425",
+		"collection": "Hulk",
+		"title": "Scorched Earth",
+		"vol": 2,
+		"num": 30,
+		"date": "2011-02-16",
+		"characters": [
+			{
+				"id": "144",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "050",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "171",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "216",
+				"name": "Ed McGuinness"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4d34b545265fa.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "064"
+	},
+	{
 		"id": "32983",
 		"collection": "Thanos Imperative Ignition",
 		"title": "Thanos Imperative",
@@ -132308,7 +138417,7 @@
 		"num": 1,
 		"date": "2010-05-26",
 		"event": "Thanos Imperative",
-		"eventid": "016",
+		"eventid": "018",
 		"characters": [
 			{
 				"id": "018",
@@ -132327,7 +138436,7 @@
 				"name": "Moondragon"
 			},
 			{
-				"id": "175",
+				"id": "178",
 				"name": "Rocket Raccon"
 			},
 			{
@@ -132386,7 +138495,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "024"
+		"sortid": "065"
 	},
 	{
 		"id": "32970",
@@ -132396,7 +138505,7 @@
 		"num": 1,
 		"date": "2010-06-03",
 		"event": "Thanos Imperative",
-		"eventid": "016",
+		"eventid": "018",
 		"characters": [
 			{
 				"id": "018",
@@ -132415,7 +138524,7 @@
 				"name": "Moondragon"
 			},
 			{
-				"id": "175",
+				"id": "178",
 				"name": "Rocket Raccon"
 			},
 			{
@@ -132474,7 +138583,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "024"
+		"sortid": "065"
 	},
 	{
 		"id": "32973",
@@ -132484,7 +138593,7 @@
 		"num": 2,
 		"date": "2010-07-14",
 		"event": "Thanos Imperative",
-		"eventid": "016",
+		"eventid": "018",
 		"characters": [
 			{
 				"id": "018",
@@ -132503,7 +138612,7 @@
 				"name": "Moondragon"
 			},
 			{
-				"id": "175",
+				"id": "178",
 				"name": "Rocket Raccon"
 			},
 			{
@@ -132562,7 +138671,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "024"
+		"sortid": "065"
 	},
 	{
 		"id": "32975",
@@ -132572,7 +138681,7 @@
 		"num": 3,
 		"date": "2010-08-11",
 		"event": "Thanos Imperative",
-		"eventid": "016",
+		"eventid": "018",
 		"characters": [
 			{
 				"id": "018",
@@ -132591,7 +138700,7 @@
 				"name": "Moondragon"
 			},
 			{
-				"id": "175",
+				"id": "178",
 				"name": "Rocket Raccon"
 			},
 			{
@@ -132650,7 +138759,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "024"
+		"sortid": "065"
 	},
 	{
 		"id": "32977",
@@ -132660,7 +138769,7 @@
 		"num": 4,
 		"date": "2010-09-09",
 		"event": "Thanos Imperative",
-		"eventid": "016",
+		"eventid": "018",
 		"characters": [
 			{
 				"id": "018",
@@ -132679,7 +138788,7 @@
 				"name": "Moondragon"
 			},
 			{
-				"id": "175",
+				"id": "178",
 				"name": "Rocket Raccon"
 			},
 			{
@@ -132738,7 +138847,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "024"
+		"sortid": "065"
 	},
 	{
 		"id": "32979",
@@ -132748,7 +138857,7 @@
 		"num": 5,
 		"date": "2010-10-13",
 		"event": "Thanos Imperative",
-		"eventid": "016",
+		"eventid": "018",
 		"characters": [
 			{
 				"id": "018",
@@ -132767,7 +138876,7 @@
 				"name": "Moondragon"
 			},
 			{
-				"id": "175",
+				"id": "178",
 				"name": "Rocket Raccon"
 			},
 			{
@@ -132826,7 +138935,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "024"
+		"sortid": "065"
 	},
 	{
 		"id": "32980",
@@ -132836,7 +138945,7 @@
 		"num": 6,
 		"date": "2010-11-10",
 		"event": "Thanos Imperative",
-		"eventid": "016",
+		"eventid": "018",
 		"characters": [
 			{
 				"id": "018",
@@ -132855,7 +138964,7 @@
 				"name": "Moondragon"
 			},
 			{
-				"id": "175",
+				"id": "178",
 				"name": "Rocket Raccon"
 			},
 			{
@@ -132914,7 +139023,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "024"
+		"sortid": "065"
 	},
 	{
 		"id": "37979",
@@ -132924,7 +139033,7 @@
 		"num": 1,
 		"date": "2011-01-05",
 		"event": "Thanos Imperative",
-		"eventid": "016",
+		"eventid": "018",
 		"characters": [
 			{
 				"id": "018",
@@ -132943,7 +139052,7 @@
 				"name": "Moondragon"
 			},
 			{
-				"id": "175",
+				"id": "178",
 				"name": "Rocket Raccon"
 			},
 			{
@@ -133002,122 +139111,1020 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "024"
+		"sortid": "065"
 	},
 	{
-		"id": "32789",
-		"collection": "Steve Rogers Super Soldier",
-		"title": "Super Soldier",
-		"vol": 1,
-		"num": 1,
-		"date": "2010-07-08",
+		"id": "29210",
+		"collection": "Avengers",
+		"title": "Inifinity Stones",
+		"vol": 4,
+		"num": 7,
+		"date": "2010-11-17",
 		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "171",
+				"name": "Ironman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "157",
+				"name": "Marvel Boy"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "144",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "160",
+				"name": "Hood"
+			},
+			{
+				"id": "001",
+				"name": "Inhumans"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
 			{
 				"id": "056",
 				"name": "Steve Rogers"
+			},
+			{
+				"id": "115",
+				"name": "War Machine"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "158",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "139",
+				"name": "Eric O'Grady"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
-				"name": "Ed Brubaker"
+				"id": "016",
+				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "340",
-				"name": "Dale Eaglesham"
+				"id": "046",
+				"name": "John Romita Jr"
 			}
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/5696b239823f6.jpg",
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4f50e3b2b9a90.jpg",
 		"universe": "Earth-616",
+		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "025"
+		"sortid": "066"
 	},
 	{
-		"id": "32788",
-		"collection": "Steve Rogers Super Soldier",
-		"title": "Super Soldier",
-		"vol": 1,
-		"num": 2,
-		"date": "2010-08-11",
+		"id": "29211",
+		"collection": "Avengers",
+		"title": "Inifinity Stones",
+		"vol": 4,
+		"num": 8,
+		"date": "2010-12-29",
 		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "171",
+				"name": "Ironman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "157",
+				"name": "Marvel Boy"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "144",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "160",
+				"name": "Hood"
+			},
+			{
+				"id": "001",
+				"name": "Inhumans"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
 			{
 				"id": "056",
 				"name": "Steve Rogers"
+			},
+			{
+				"id": "115",
+				"name": "War Machine"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "158",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "139",
+				"name": "Eric O'Grady"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
-				"name": "Ed Brubaker"
+				"id": "016",
+				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "340",
-				"name": "Dale Eaglesham"
+				"id": "046",
+				"name": "John Romita Jr"
 			}
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4beacc69e633a.jpg",
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4f50e1b2854fa.jpg",
 		"universe": "Earth-616",
+		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "025"
+		"sortid": "066"
 	},
 	{
-		"id": "32792",
-		"collection": "Steve Rogers Super Soldier",
-		"title": "Super Soldier",
-		"vol": 1,
-		"num": 3,
-		"date": "2010-09-15",
+		"id": "29212",
+		"collection": "Avengers",
+		"title": "Inifinity Stones",
+		"vol": 4,
+		"num": 9,
+		"date": "2011-01-26",
 		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "171",
+				"name": "Ironman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "157",
+				"name": "Marvel Boy"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "144",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "160",
+				"name": "Hood"
+			},
+			{
+				"id": "001",
+				"name": "Inhumans"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
 			{
 				"id": "056",
 				"name": "Steve Rogers"
+			},
+			{
+				"id": "115",
+				"name": "War Machine"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "158",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "139",
+				"name": "Eric O'Grady"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
-				"name": "Ed Brubaker"
+				"id": "016",
+				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "340",
-				"name": "Dale Eaglesham"
+				"id": "046",
+				"name": "John Romita Jr"
 			}
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4c0fe9c365aa8.jpg",
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4f50dff0e2982.jpg",
 		"universe": "Earth-616",
+		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "025"
+		"sortid": "066"
 	},
 	{
-		"id": "32793",
-		"collection": "Steve Rogers Super Soldier",
-		"title": "Super Soldier",
-		"vol": 1,
-		"num": 4,
-		"date": "2010-10-20",
+		"id": "29196",
+		"collection": "Avengers",
+		"title": "Inifinity Stones",
+		"vol": 4,
+		"num": 10,
+		"date": "2011-02-23",
 		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "171",
+				"name": "Ironman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "157",
+				"name": "Marvel Boy"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "144",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "160",
+				"name": "Hood"
+			},
+			{
+				"id": "001",
+				"name": "Inhumans"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
 			{
 				"id": "056",
 				"name": "Steve Rogers"
+			},
+			{
+				"id": "115",
+				"name": "War Machine"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "158",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "139",
+				"name": "Eric O'Grady"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
-				"name": "Ed Brubaker"
+				"id": "016",
+				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "340",
-				"name": "Dale Eaglesham"
+				"id": "046",
+				"name": "John Romita Jr"
 			}
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4c4723b7ae2d3.jpg",
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4f50de2dc9b60.jpg",
 		"universe": "Earth-616",
+		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "025"
+		"sortid": "066"
+	},
+	{
+		"id": "29197",
+		"collection": "Avengers",
+		"title": "Inifinity Stones",
+		"vol": 4,
+		"num": 11,
+		"date": "2011-03-30",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "171",
+				"name": "Ironman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "157",
+				"name": "Marvel Boy"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "144",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "160",
+				"name": "Hood"
+			},
+			{
+				"id": "001",
+				"name": "Inhumans"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "115",
+				"name": "War Machine"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "158",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "139",
+				"name": "Eric O'Grady"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			}
+		],
+		"creators": [
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "046",
+				"name": "John Romita Jr"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4f639fb6a3401.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "066"
+	},
+	{
+		"id": "29198",
+		"collection": "Avengers",
+		"title": "Inifinity Stones",
+		"vol": 4,
+		"num": 12,
+		"date": "2011-04-20",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "171",
+				"name": "Ironman"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "157",
+				"name": "Marvel Boy"
+			},
+			{
+				"id": "066",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "036",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "144",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "160",
+				"name": "Hood"
+			},
+			{
+				"id": "001",
+				"name": "Inhumans"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "051",
+				"name": "Namor"
+			},
+			{
+				"id": "034",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "115",
+				"name": "War Machine"
+			},
+			{
+				"id": "006",
+				"name": "Black Widow"
+			},
+			{
+				"id": "158",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "139",
+				"name": "Eric O'Grady"
+			},
+			{
+				"id": "067",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			}
+		],
+		"creators": [
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "046",
+				"name": "John Romita Jr"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/4f6397cf76c4f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "066"
+	},
+	{
+		"id": "39852",
+		"collection": "Avengers",
+		"title": "Inifinity Stones",
+		"vol": 4,
+		"num": 12,
+		"date": "2011-04-27",
+		"characters": [
+			{
+				"id": "059",
+				"name": "Avengers"
+			},
+			{
+				"id": "093",
+				"name": "Spider-Woman"
+			},
+			{
+				"id": "157",
+				"name": "Marvel Boy"
+			},
+			{
+				"id": "023",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "061",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "014",
+				"name": "Thor"
+			},
+			{
+				"id": "089",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "170",
+				"name": "Tony Stark"
+			},
+			{
+				"id": "092",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "033",
+				"name": "Wolverine"
+			},
+			{
+				"id": "039",
+				"name": "Thing"
+			},
+			{
+				"id": "024",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "112",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "012",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "027",
+				"name": "Jessica Jones"
+			},
+			{
+				"id": "065",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "158",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "056",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "029",
+				"name": "Beast"
+			},
+			{
+				"id": "011",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "139",
+				"name": "Eric O'Grady"
+			},
+			{
+				"id": "115",
+				"name": "War Machine"
+			}
+		],
+		"creators": [
+			{
+				"id": "016",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "478",
+				"name": "Brian Hitch"
+			}
+		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/b/e0/4f512a2bde6a6/detail.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "066"
 	}
 ]

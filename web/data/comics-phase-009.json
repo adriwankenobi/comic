@@ -25640,6 +25640,9 @@
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/513f50268e882.jpg",
 		"universe": "Earth-616",
 		"essential": true,
+		"comments": [
+			"Beast leaves the X-Men"
+		],
 		"phaseid": "009",
 		"phasename": "Dark Reign",
 		"sortid": "217"

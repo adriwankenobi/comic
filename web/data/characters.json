@@ -689,14 +689,26 @@
 	},
 	{
 		"id": "173",
-		"name": "Iron fist"
+		"name": "Hellcat"
 	},
 	{
 		"id": "174",
-		"name": "Vision Cassie Lang"
+		"name": "Monica Rambeau"
 	},
 	{
 		"id": "175",
+		"name": "Iron fist"
+	},
+	{
+		"id": "176",
+		"name": "Vision Cassie Lang"
+	},
+	{
+		"id": "177",
+		"name": "Ghost Rider"
+	},
+	{
+		"id": "178",
 		"name": "Rocket Raccon"
 	}
 ]
