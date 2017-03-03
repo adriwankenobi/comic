@@ -1853,62 +1853,82 @@
 	},
 	{
 		"id": "464",
-		"name": "Mike Deodato"
-	},
-	{
-		"id": "465",
 		"name": "Jonathan Maberry"
 	},
 	{
-		"id": "466",
+		"id": "465",
 		"name": "Greg Rucka"
 	},
 	{
-		"id": "467",
+		"id": "466",
 		"name": "Tim Ursiny"
 	},
 	{
-		"id": "468",
+		"id": "467",
 		"name": "Mirco Pierfederici"
 	},
 	{
-		"id": "469",
+		"id": "468",
 		"name": "Paul Gulacy"
 	},
 	{
-		"id": "470",
+		"id": "469",
 		"name": "Gabriel Guzman"
 	},
 	{
-		"id": "471",
+		"id": "470",
 		"name": "Christ Yost"
 	},
 	{
-		"id": "472",
+		"id": "471",
 		"name": "Roland Boschi"
 	},
 	{
-		"id": "473",
+		"id": "472",
 		"name": "Jason Henderson"
 	},
 	{
-		"id": "474",
+		"id": "473",
 		"name": "Ivan Rodriguez"
 	},
 	{
-		"id": "475",
+		"id": "474",
 		"name": "Emma Rios"
 	},
 	{
-		"id": "476",
+		"id": "475",
 		"name": "Declan Shalvey"
 	},
 	{
-		"id": "477",
+		"id": "476",
 		"name": "Brian Ching"
 	},
 	{
-		"id": "478",
+		"id": "477",
 		"name": "Brian Hitch"
+	},
+	{
+		"id": "478",
+		"name": "Marjorie Liu"
+	},
+	{
+		"id": "479",
+		"name": "Daniel Acuña"
+	},
+	{
+		"id": "480",
+		"name": "Andrea Mutti"
+	},
+	{
+		"id": "481",
+		"name": "Shane White"
+	},
+	{
+		"id": "482",
+		"name": "John Ostrander"
+	},
+	{
+		"id": "483",
+		"name": "Ramon Rosanas"
 	}
 ]
