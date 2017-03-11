@@ -685,30 +685,46 @@
 	},
 	{
 		"id": "172",
-		"name": "Valkyrie"
+		"name": "Young Allies"
 	},
 	{
 		"id": "173",
-		"name": "Hellcat"
+		"name": "Nomad"
 	},
 	{
 		"id": "174",
-		"name": "Monica Rambeau"
+		"name": "Valkyrie"
 	},
 	{
 		"id": "175",
-		"name": "Iron fist"
+		"name": "Hellcat"
 	},
 	{
 		"id": "176",
-		"name": "Vision Cassie Lang"
+		"name": "Monica Rambeau"
 	},
 	{
 		"id": "177",
-		"name": "Ghost Rider"
+		"name": "Iron fist"
 	},
 	{
 		"id": "178",
+		"name": "Ghost Rider"
+	},
+	{
+		"id": "179",
 		"name": "Rocket Raccon"
+	},
+	{
+		"id": "180",
+		"name": "Dracula"
+	},
+	{
+		"id": "181",
+		"name": "Blade"
+	},
+	{
+		"id": "182",
+		"name": "Flash Thompson"
 	}
 ]

@@ -29938,6 +29938,141 @@
 				]
 			},
 			{
+				"title": "Nomad",
+				"date": "2009-09-10",
+				"characters": [
+					{
+						"id": "172",
+						"name": "Young Allies"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bb3dfe83c3c0.jpg",
+				"phaseid": "011",
+				"sortid": "009",
+				"comiclist": [
+					{
+						"collection": "Nomad Girl Without a World",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Nomad Girl Without a World",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Nomad Girl Without a World",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Nomad Girl Without a World",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 602
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 603
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 604
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 605
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 606
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 607
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 608
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 609
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 610
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 611
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 612
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 613
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 614
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 615
+					}
+				]
+			},
+			{
+				"title": "The Last Ride of the Howling Commandos",
+				"date": "2010-06-23",
+				"characters": [
+					{
+						"id": "159",
+						"name": "Secret Warriors"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4f6794c53427e.jpg",
+				"phaseid": "011",
+				"sortid": "010",
+				"comiclist": [
+					{
+						"collection": "Secret Warriors",
+						"vol": 1,
+						"num": 17
+					},
+					{
+						"collection": "Secret Warriors",
+						"vol": 1,
+						"num": 18
+					},
+					{
+						"collection": "Secret Warriors",
+						"vol": 1,
+						"num": 19
+					}
+				]
+			},
+			{
 				"title": "Shed",
 				"date": "2010-05-05",
 				"characters": [
@@ -29949,7 +30084,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/5808e1a20feb7.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "009",
+				"sortid": "011",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -29990,7 +30125,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bac3d0953e04.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "010",
+				"sortid": "012",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man Origin of the Hunter",
@@ -30040,7 +30175,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/55cccf7ad21b9.jpg",
 				"phaseid": "011",
-				"sortid": "011",
+				"sortid": "013",
 				"comiclist": [
 					{
 						"collection": "Web of Spider-Man",
@@ -30076,7 +30211,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5808ff8aa4340.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "012",
+				"sortid": "014",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -30111,7 +30246,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/58174ff44438f.jpg",
 				"phaseid": "011",
-				"sortid": "013",
+				"sortid": "015",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man Presents American Son",
@@ -30147,7 +30282,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5813a73e57de8.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "014",
+				"sortid": "016",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -30187,7 +30322,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/55cccef6b2d66.jpg",
 				"phaseid": "011",
-				"sortid": "015",
+				"sortid": "017",
 				"comiclist": [
 					{
 						"collection": "Web of Spider-Man",
@@ -30217,7 +30352,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/56f2c7d71123c.jpg",
 				"phaseid": "011",
-				"sortid": "016",
+				"sortid": "018",
 				"comiclist": [
 					{
 						"collection": "Thor",
@@ -30246,13 +30381,13 @@
 				"date": "2010-06-03",
 				"characters": [
 					{
-						"id": "172",
+						"id": "174",
 						"name": "Valkyrie"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/5625587612f69.jpg",
 				"phaseid": "011",
-				"sortid": "017",
+				"sortid": "019",
 				"comiclist": [
 					{
 						"collection": "Heralds",
@@ -30297,7 +30432,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4c3de92d82164.jpg",
 				"phaseid": "011",
-				"sortid": "018",
+				"sortid": "020",
 				"comiclist": [
 					{
 						"collection": "Loki",
@@ -30332,7 +30467,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/563cfe1fea03f.jpg",
 				"phaseid": "011",
-				"sortid": "019",
+				"sortid": "021",
 				"comiclist": [
 					{
 						"collection": "Deadpool Team-Up",
@@ -30352,7 +30487,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bac5bc705268.jpg",
 				"phaseid": "011",
-				"sortid": "020",
+				"sortid": "022",
 				"comiclist": [
 					{
 						"collection": "Vengeance of the Moon Knight",
@@ -30378,7 +30513,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5189711d4aa5f.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "021",
+				"sortid": "023",
 				"comiclist": [
 					{
 						"collection": "Secret Avengers",
@@ -30418,7 +30553,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/56afb12ce64dc.jpg",
 				"phaseid": "011",
-				"sortid": "022",
+				"sortid": "024",
 				"comiclist": [
 					{
 						"collection": "Age of Heroes",
@@ -30443,7 +30578,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4ba94ce008dff.jpg",
 				"phaseid": "011",
-				"sortid": "023",
+				"sortid": "025",
 				"comiclist": [
 					{
 						"collection": "Vengeance of the Moon Knight",
@@ -30468,7 +30603,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4f624d4eda03f.jpg",
 				"phaseid": "011",
-				"sortid": "024",
+				"sortid": "026",
 				"comiclist": [
 					{
 						"collection": "I am an Avenger",
@@ -30508,7 +30643,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/5696b239823f6.jpg",
 				"phaseid": "011",
-				"sortid": "025",
+				"sortid": "027",
 				"comiclist": [
 					{
 						"collection": "Steve Rogers Super Soldier",
@@ -30543,7 +30678,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/5847204a71a16.jpg",
 				"phaseid": "011",
-				"sortid": "026",
+				"sortid": "028",
 				"comiclist": [
 					{
 						"collection": "Wolverine Origins",
@@ -30593,7 +30728,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4ba94aa5d5064.jpg",
 				"phaseid": "011",
-				"sortid": "027",
+				"sortid": "029",
 				"comiclist": [
 					{
 						"collection": "Dark Wolverine",
@@ -30613,7 +30748,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/a0/51e0499214746.jpg",
 				"phaseid": "011",
-				"sortid": "028",
+				"sortid": "030",
 				"comiclist": [
 					{
 						"collection": "Black Panther",
@@ -30658,7 +30793,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/56cb4192418f4.jpg",
 				"phaseid": "011",
-				"sortid": "029",
+				"sortid": "031",
 				"comiclist": [
 					{
 						"collection": "Doomwar",
@@ -30703,7 +30838,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4d49e1bed7026.jpg",
 				"phaseid": "011",
-				"sortid": "030",
+				"sortid": "032",
 				"comiclist": [
 					{
 						"collection": "Klaws of the Panther",
@@ -30738,7 +30873,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4ea07ba40ff92.jpg",
 				"phaseid": "011",
-				"sortid": "031",
+				"sortid": "033",
 				"comiclist": [
 					{
 						"collection": "Cable",
@@ -30778,7 +30913,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4ea1c2d2812a3.jpg",
 				"phaseid": "011",
-				"sortid": "032",
+				"sortid": "034",
 				"comiclist": [
 					{
 						"collection": "Cable",
@@ -30801,7 +30936,7 @@
 						"num": 24
 					},
 					{
-						"collection": "Deadpool and Cable",
+						"collection": "Deadpool \u0026 Cable",
 						"vol": 1,
 						"num": 25
 					},
@@ -30824,7 +30959,7 @@
 				"pic": "http://vignette1.wikia.nocookie.net/marveldatabase/images/3/31/Second_Coming_Prepare_Vol_1_1.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "033",
+				"sortid": "035",
 				"comiclist": [
 					{
 						"collection": "X-Men Second Coming Prepare",
@@ -30865,7 +31000,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/513a7fb1b065a.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "034",
+				"sortid": "036",
 				"comiclist": [
 					{
 						"collection": "X-Force",
@@ -30911,7 +31046,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/51a4e3470585f.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "035",
+				"sortid": "037",
 				"comiclist": [
 					{
 						"collection": "X-Men Legacy",
@@ -30957,7 +31092,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/513a7fcf6b198.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "036",
+				"sortid": "038",
 				"comiclist": [
 					{
 						"collection": "X-Force",
@@ -30997,7 +31132,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/56a6479a0ee78.jpg",
 				"phaseid": "011",
-				"sortid": "037",
+				"sortid": "039",
 				"comiclist": [
 					{
 						"collection": "Franken-Castle",
@@ -31048,7 +31183,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/52c5ba4a25682.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "038",
+				"sortid": "040",
 				"comiclist": [
 					{
 						"collection": "Shadowland",
@@ -31069,7 +31204,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/572d151fa748a.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "039",
+				"sortid": "041",
 				"comiclist": [
 					{
 						"collection": "Daredevil",
@@ -31094,7 +31229,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/4beb08e5b0bdc.jpg",
 				"phaseid": "011",
-				"sortid": "040",
+				"sortid": "042",
 				"comiclist": [
 					{
 						"collection": "Shadowland Blood on the Streets",
@@ -31114,7 +31249,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/57ab5c2009401.jpg",
 				"phaseid": "011",
-				"sortid": "041",
+				"sortid": "043",
 				"comiclist": [
 					{
 						"collection": "Shadowland Moon Knight",
@@ -31134,7 +31269,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4beaffbc28009.jpg",
 				"phaseid": "011",
-				"sortid": "042",
+				"sortid": "044",
 				"comiclist": [
 					{
 						"collection": "Shadowland Power Man",
@@ -31160,7 +31295,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/52c5ba5da97e7.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "043",
+				"sortid": "045",
 				"comiclist": [
 					{
 						"collection": "Shadowland",
@@ -31180,7 +31315,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bed41e9868b2.jpg",
 				"phaseid": "011",
-				"sortid": "044",
+				"sortid": "046",
 				"comiclist": [
 					{
 						"collection": "Shadowland Daughters of the Shadow",
@@ -31211,7 +31346,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/572d14deb1b42.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "045",
+				"sortid": "047",
 				"comiclist": [
 					{
 						"collection": "Daredevil",
@@ -31231,7 +31366,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/580fcadf35e83.jpg",
 				"phaseid": "011",
-				"sortid": "046",
+				"sortid": "048",
 				"comiclist": [
 					{
 						"collection": "Shadowland Bullseye",
@@ -31251,7 +31386,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/4c0fc123a0ebf.jpg",
 				"phaseid": "011",
-				"sortid": "047",
+				"sortid": "049",
 				"comiclist": [
 					{
 						"collection": "Shadowland Elektra",
@@ -31272,7 +31407,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/52c5ba6c7d0f3.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "048",
+				"sortid": "050",
 				"comiclist": [
 					{
 						"collection": "Shadowland",
@@ -31292,7 +31427,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4c0ff96e3c4fe.jpg",
 				"phaseid": "011",
-				"sortid": "049",
+				"sortid": "051",
 				"comiclist": [
 					{
 						"collection": "Shadowland Moon Knight",
@@ -31317,7 +31452,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4c0fd86a3d19b.jpg",
 				"phaseid": "011",
-				"sortid": "050",
+				"sortid": "052",
 				"comiclist": [
 					{
 						"collection": "Shadowland Blood on the Streets",
@@ -31337,7 +31472,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/4c449af8bc8e9.jpg",
 				"phaseid": "011",
-				"sortid": "051",
+				"sortid": "053",
 				"comiclist": [
 					{
 						"collection": "Shadowland Spider-Man",
@@ -31357,7 +31492,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4c44aab873c2b.jpg",
 				"phaseid": "011",
-				"sortid": "052",
+				"sortid": "054",
 				"comiclist": [
 					{
 						"collection": "Shadowland Blood on the Streets",
@@ -31377,7 +31512,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5744d24b427a9.jpg",
 				"phaseid": "011",
-				"sortid": "053",
+				"sortid": "055",
 				"comiclist": [
 					{
 						"collection": "Thunderbolts",
@@ -31396,13 +31531,13 @@
 				"date": "2010-09-15",
 				"characters": [
 					{
-						"id": "177",
+						"id": "178",
 						"name": "Ghost Rider"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4c0fe81dd7739.jpg",
 				"phaseid": "011",
-				"sortid": "054",
+				"sortid": "056",
 				"comiclist": [
 					{
 						"collection": "Shadowland Ghost Rider",
@@ -31422,7 +31557,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4c4723f20380e.jpg",
 				"phaseid": "011",
-				"sortid": "055",
+				"sortid": "057",
 				"comiclist": [
 					{
 						"collection": "Shadowland Power Man",
@@ -31443,7 +31578,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/52c5ba735da75.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "056",
+				"sortid": "058",
 				"comiclist": [
 					{
 						"collection": "Shadowland",
@@ -31463,7 +31598,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4c65c218d89b7.jpg",
 				"phaseid": "011",
-				"sortid": "057",
+				"sortid": "059",
 				"comiclist": [
 					{
 						"collection": "Shadowland Blood on the Streets",
@@ -31484,7 +31619,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/574f471c8d786.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "058",
+				"sortid": "060",
 				"comiclist": [
 					{
 						"collection": "Daredevil",
@@ -31505,7 +31640,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/52c5ba7fbaec2.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "059",
+				"sortid": "061",
 				"comiclist": [
 					{
 						"collection": "Shadowland",
@@ -31525,7 +31660,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4c6307eaeb81c.jpg",
 				"phaseid": "011",
-				"sortid": "060",
+				"sortid": "062",
 				"comiclist": [
 					{
 						"collection": "Shadowland Power Man",
@@ -31546,7 +31681,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/03/572d15307b282.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "061",
+				"sortid": "063",
 				"comiclist": [
 					{
 						"collection": "Daredevil",
@@ -31567,7 +31702,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4c91292e26db5.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "062",
+				"sortid": "064",
 				"comiclist": [
 					{
 						"collection": "Shadowland After the Fall",
@@ -31587,7 +31722,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/4bab8bbfce315.jpg",
 				"phaseid": "011",
-				"sortid": "063",
+				"sortid": "065",
 				"comiclist": [
 					{
 						"collection": "Heroic Age Prince of Power",
@@ -31622,7 +31757,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4c73d703e22ad.jpg",
 				"phaseid": "011",
-				"sortid": "064",
+				"sortid": "066",
 				"comiclist": [
 					{
 						"collection": "Incredible Hulks",
@@ -31667,7 +31802,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/510c3e4fd2d3a.jpg",
 				"phaseid": "011",
-				"sortid": "065",
+				"sortid": "067",
 				"comiclist": [
 					{
 						"collection": "Hulk",
@@ -31713,7 +31848,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51f6a0aba4608.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "066",
+				"sortid": "068",
 				"comiclist": [
 					{
 						"collection": "Thanos Imperative Ignition",
@@ -31758,6 +31893,71 @@
 				]
 			},
 			{
+				"title": "Will We Use This in the Real World",
+				"date": "2010-11-03",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/51cca60ed7ef6.jpg",
+				"phaseid": "011",
+				"sortid": "069",
+				"comiclist": [
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 6
+					},
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 7
+					},
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 8
+					},
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 9
+					},
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 10
+					},
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 11
+					},
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 12
+					},
+					{
+						"collection": "Avengers Academy Giant Size",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 13
+					},
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 14
+					}
+				]
+			},
+			{
 				"title": "Inifinity Stones",
 				"date": "2010-11-17",
 				"characters": [
@@ -31769,7 +31969,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4f50e3b2b9a90.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "067",
+				"sortid": "070",
 				"comiclist": [
 					{
 						"collection": "Avengers",
@@ -31819,7 +32019,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/4f54e4f91e4e6.jpg",
 				"phaseid": "011",
-				"sortid": "068",
+				"sortid": "071",
 				"comiclist": [
 					{
 						"collection": "Black Widow",
@@ -31859,7 +32059,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4f57826b95a37.jpg",
 				"phaseid": "011",
-				"sortid": "069",
+				"sortid": "072",
 				"comiclist": [
 					{
 						"collection": "Hawkeye \u0026 Mockingbird",
@@ -31904,7 +32104,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4f552f09f092c.jpg",
 				"phaseid": "011",
-				"sortid": "070",
+				"sortid": "073",
 				"comiclist": [
 					{
 						"collection": "Black Widow",
@@ -31955,7 +32155,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4f62369dd4656.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "071",
+				"sortid": "074",
 				"comiclist": [
 					{
 						"collection": "New Avengers",
@@ -32000,7 +32200,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4c7bc01c35c39.jpg",
 				"phaseid": "011",
-				"sortid": "072",
+				"sortid": "075",
 				"comiclist": [
 					{
 						"collection": "Heroic Age One Month to Live",
@@ -32040,7 +32240,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/51a4fc7e17ca7.jpg",
 				"phaseid": "011",
-				"sortid": "073",
+				"sortid": "076",
 				"comiclist": [
 					{
 						"collection": "Deadpool",
@@ -32075,7 +32275,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/4d24fd6f78875.jpg",
 				"phaseid": "011",
-				"sortid": "074",
+				"sortid": "077",
 				"comiclist": [
 					{
 						"collection": "Atlas",
@@ -32116,7 +32316,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/51db2cbb9ef67.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "075",
+				"sortid": "078",
 				"comiclist": [
 					{
 						"collection": "Fantastic Four",
@@ -32142,6 +32342,2915 @@
 						"collection": "Fantastic Four",
 						"vol": 1,
 						"num": 582
+					}
+				]
+			},
+			{
+				"title": "No Escape",
+				"date": "2010-06-09",
+				"characters": [
+					{
+						"id": "089",
+						"name": "Bucky Barnes"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/513f6f536a99d.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "079",
+				"comiclist": [
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 606
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 607
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 608
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 609
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 610
+					}
+				]
+			},
+			{
+				"title": "Stark Resilient",
+				"date": "2010-04-28",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Iron Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4f7c9d3a21c78.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "080",
+				"comiclist": [
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 25
+					},
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 26
+					},
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 27
+					},
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 28
+					},
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 29
+					},
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 30
+					},
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 31
+					},
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 32
+					},
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 33
+					}
+				]
+			},
+			{
+				"title": "Young Allies",
+				"date": "2010-06-09",
+				"characters": [
+					{
+						"id": "172",
+						"name": "Young Allies"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4ba945d0a448e.jpg",
+				"phaseid": "011",
+				"sortid": "081",
+				"comiclist": [
+					{
+						"collection": "Young Allies",
+						"vol": 2,
+						"num": 1
+					},
+					{
+						"collection": "Young Allies",
+						"vol": 2,
+						"num": 2
+					},
+					{
+						"collection": "Young Allies",
+						"vol": 2,
+						"num": 3
+					},
+					{
+						"collection": "Young Allies",
+						"vol": 2,
+						"num": 4
+					},
+					{
+						"collection": "Young Allies",
+						"vol": 2,
+						"num": 5
+					},
+					{
+						"collection": "Young Allies",
+						"vol": 2,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Empire",
+				"date": "2010-08-25",
+				"characters": [
+					{
+						"id": "125",
+						"name": "Daken"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4c6e9a2754dfc.jpg",
+				"phaseid": "011",
+				"sortid": "082",
+				"comiclist": [
+					{
+						"collection": "Dark Wolverine",
+						"vol": 1,
+						"num": 90
+					},
+					{
+						"collection": "Wolverine Road to Hell",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Daken Dark Wolverine",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Daken Dark Wolverine",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Daken Dark Wolverine",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Daken Dark Wolverine",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Wolverine goes to Hell",
+				"date": "2010-09-01",
+				"characters": [
+					{
+						"id": "033",
+						"name": "Wolverine"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/589a1e1fb85d8.jpg",
+				"phaseid": "011",
+				"sortid": "083",
+				"comiclist": [
+					{
+						"collection": "Wolverine",
+						"vol": 4,
+						"num": 1
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 4,
+						"num": 2
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 4,
+						"num": 3
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 4,
+						"num": 4
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 4,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Fall of the New Mutants ",
+				"date": "2010-07-21",
+				"characters": [
+					{
+						"id": "163",
+						"name": "New Mutants"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/5155cc1e3404a.jpg",
+				"phaseid": "011",
+				"sortid": "084",
+				"comiclist": [
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 15
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 16
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 17
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 18
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 19
+					}
+				]
+			},
+			{
+				"title": "Rise of the New Mutants ",
+				"date": "2010-12-29",
+				"characters": [
+					{
+						"id": "163",
+						"name": "New Mutants"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/5155cd08ee1cf.jpg",
+				"phaseid": "011",
+				"sortid": "085",
+				"comiclist": [
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 20
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 21
+					}
+				]
+			},
+			{
+				"title": "Collision",
+				"date": "2010-07-21",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/5140c2b04fe53.jpg",
+				"phaseid": "011",
+				"sortid": "086",
+				"comiclist": [
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 238
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 239
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 240
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 241
+					}
+				]
+			},
+			{
+				"title": "The Five Lights",
+				"date": "2010-07-14",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "https://i.annihil.us/u/prod/marvel/i/mg/9/60/4c24f6fa4744b/detail.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "087",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Men The Heroic Age",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 526
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 527
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 528
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 529
+					}
+				]
+			},
+			{
+				"title": "Eyes of the Dragon",
+				"date": "2010-10-27",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/5189723a1a33a.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "088",
+				"comiclist": [
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 6
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 7
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 8
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 9
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 10
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 11
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 12
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 12
+					}
+				]
+			},
+			{
+				"title": "Violent Rejection",
+				"date": "2010-11-17",
+				"characters": [
+					{
+						"id": "107",
+						"name": "Thunderbolts"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/5744d2a1c39c2.jpg",
+				"phaseid": "011",
+				"sortid": "089",
+				"comiclist": [
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 150
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 151
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 152
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 153
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 154
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 155
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 156
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 157
+					}
+				]
+			},
+			{
+				"title": "The Future is a Four-Letter Word ",
+				"date": "2010-11-03",
+				"characters": [
+					{
+						"id": "146",
+						"name": "Hope Summers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/518d1f5a21c90.jpg",
+				"phaseid": "011",
+				"sortid": "090",
+				"comiclist": [
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "I'm Your Man",
+				"date": "2010-09-15",
+				"characters": [
+					{
+						"id": "087",
+						"name": "Deadpool"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/51a4fd5c0e199.jpg",
+				"phaseid": "011",
+				"sortid": "091",
+				"comiclist": [
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 27
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 28
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 29
+					}
+				]
+			},
+			{
+				"title": "The Apocalypse Solution ",
+				"date": "2010-10-06",
+				"characters": [
+					{
+						"id": "145",
+						"name": "X-Force"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/535144a9f062c.jpg",
+				"phaseid": "011",
+				"sortid": "092",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Deathlok Nation",
+				"date": "2011-02-16",
+				"characters": [
+					{
+						"id": "145",
+						"name": "X-Force"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/4d4890e5550d1.jpg",
+				"phaseid": "011",
+				"sortid": "093",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 6
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 7
+					}
+				]
+			},
+			{
+				"title": "Curse of the Mutants",
+				"date": "2010-07-08",
+				"characters": [
+					{
+						"id": "180",
+						"name": "Dracula"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4bcdb8591675c.jpg",
+				"phaseid": "011",
+				"sortid": "094",
+				"comiclist": [
+					{
+						"collection": "Death of Dracula",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "X-Men Curse of the Mutants Saga",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Curse of the Mutants Blade",
+				"date": "2010-08-25",
+				"characters": [
+					{
+						"id": "181",
+						"name": "Blade"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/58bda93ba3da3.jpg",
+				"phaseid": "011",
+				"sortid": "095",
+				"comiclist": [
+					{
+						"collection": "X-Men Curse of the Mutants Blade",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Curse of the Mutants",
+				"date": "2010-07-08",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4f4fe75c43c43.jpg",
+				"phaseid": "011",
+				"sortid": "096",
+				"comiclist": [
+					{
+						"collection": "X-Men",
+						"vol": 3,
+						"num": 1
+					},
+					{
+						"collection": "X-Men",
+						"vol": 3,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Curse of the Mutants Namor",
+				"date": "2010-08-25",
+				"characters": [
+					{
+						"id": "051",
+						"name": "Namor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4c362e65c8906.jpg",
+				"phaseid": "011",
+				"sortid": "097",
+				"comiclist": [
+					{
+						"collection": "Namor The First Mutant",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Curse of the Mutants Storm \u0026 Gambit",
+				"date": "2010-08-25",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bec1a9736911.jpg",
+				"phaseid": "011",
+				"sortid": "098",
+				"comiclist": [
+					{
+						"collection": "X-Men Curse of the Mutants Storm \u0026 Gambit",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Curse of the Mutants Smoke \u0026 Blood",
+				"date": "2010-09-01",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4c0fcf33ead06.jpg",
+				"phaseid": "011",
+				"sortid": "099",
+				"comiclist": [
+					{
+						"collection": "X-Men Curse of the Mutants Smoke \u0026 Blood",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Curse of the Mutants",
+				"date": "2010-09-09",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4f4fe48bbfbe3.jpg",
+				"phaseid": "011",
+				"sortid": "100",
+				"comiclist": [
+					{
+						"collection": "X-Men",
+						"vol": 3,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Curse of the Mutants Namor",
+				"date": "2010-09-29",
+				"characters": [
+					{
+						"id": "051",
+						"name": "Namor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4c0ff7cf0d3d3.jpg",
+				"phaseid": "011",
+				"sortid": "101",
+				"comiclist": [
+					{
+						"collection": "Namor The First Mutant",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Curse of the Mutants X-Men vs Vampires",
+				"date": "2010-09-29",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4c0fd0e79a2b0.jpg",
+				"phaseid": "011",
+				"sortid": "102",
+				"comiclist": [
+					{
+						"collection": "X-Men Curse of the Mutants X-Men vs Vampires",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Curse of the Mutants",
+				"date": "2010-10-13",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4f4fe3616fc18.jpg",
+				"phaseid": "011",
+				"sortid": "103",
+				"comiclist": [
+					{
+						"collection": "X-Men",
+						"vol": 3,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Curse of the Mutants X-Men vs Vampires",
+				"date": "2010-10-27",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4f58d6bc2c5c8.jpg",
+				"phaseid": "011",
+				"sortid": "104",
+				"comiclist": [
+					{
+						"collection": "X-Men Curse of the Mutants X-Men vs Vampires",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Curse of the Mutants Namor",
+				"date": "2010-11-03",
+				"characters": [
+					{
+						"id": "051",
+						"name": "Namor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/e0/4ccaca8bbdc7d.jpg",
+				"phaseid": "011",
+				"sortid": "105",
+				"comiclist": [
+					{
+						"collection": "Namor The First Mutant",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Namor The First Mutant",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Curse of the Mutants",
+				"date": "2010-11-17",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/5159dd9159604.jpg",
+				"phaseid": "011",
+				"sortid": "106",
+				"comiclist": [
+					{
+						"collection": "X-Men",
+						"vol": 3,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "I Rule You Suck",
+				"date": "2010-12-22",
+				"characters": [
+					{
+						"id": "087",
+						"name": "Deadpool"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/51a4fd464a8a4.jpg",
+				"phaseid": "011",
+				"sortid": "107",
+				"comiclist": [
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 30
+					}
+				]
+			},
+			{
+				"title": "Curse of the Mutants",
+				"date": "2010-11-17",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/5159dd9159604.jpg",
+				"phaseid": "011",
+				"sortid": "108",
+				"comiclist": [
+					{
+						"collection": "X-Men",
+						"vol": 3,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "I Rule You Suck",
+				"date": "2011-01-12",
+				"characters": [
+					{
+						"id": "087",
+						"name": "Deadpool"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/51a4fe22cfe2a.jpg",
+				"phaseid": "011",
+				"sortid": "109",
+				"comiclist": [
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 31
+					},
+					{
+						"collection": "Deadpool \u0026 Cable",
+						"vol": 1,
+						"num": 26
+					}
+				]
+			},
+			{
+				"title": "Wolverine \u0026 Jubilee",
+				"date": "2011-01-19",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4cb7761fc3c32.jpg",
+				"phaseid": "011",
+				"sortid": "110",
+				"comiclist": [
+					{
+						"collection": "Wolverine \u0026 Jubilee",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Wolverine \u0026 Jubilee",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Wolverine \u0026 Jubilee",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Wolverine \u0026 Jubilee",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Namor Goes To Hell",
+				"date": "2010-12-22",
+				"characters": [
+					{
+						"id": "051",
+						"name": "Namor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4c90eb06ec07a.jpg",
+				"phaseid": "011",
+				"sortid": "111",
+				"comiclist": [
+					{
+						"collection": "Namor The First Mutant",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Namor The First Mutant",
+						"vol": 1,
+						"num": 6
+					},
+					{
+						"collection": "Namor The First Mutant",
+						"vol": 1,
+						"num": 7
+					},
+					{
+						"collection": "Namor The First Mutant",
+						"vol": 1,
+						"num": 8
+					}
+				]
+			},
+			{
+				"title": "Fire Down Below",
+				"date": "2011-04-27",
+				"characters": [
+					{
+						"id": "051",
+						"name": "Namor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4d35ae9fb0188.jpg",
+				"phaseid": "011",
+				"sortid": "112",
+				"comiclist": [
+					{
+						"collection": "Namor The First Mutant",
+						"vol": 1,
+						"num": 9
+					},
+					{
+						"collection": "Namor The First Mutant",
+						"vol": 1,
+						"num": 10
+					},
+					{
+						"collection": "Namor The First Mutant",
+						"vol": 1,
+						"num": 11
+					}
+				]
+			},
+			{
+				"title": "Escape from the Negative Zone",
+				"date": "2011-03-16",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/4d7a77b459086.jpg",
+				"phaseid": "011",
+				"sortid": "113",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Men Annual",
+						"vol": 2,
+						"num": 3
+					},
+					{
+						"collection": "Steve Rogers Super Soldier Annual",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Namor The First Mutant Annual",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Aftermath",
+				"date": "2010-11-24",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/51a4e4296a637.jpg",
+				"phaseid": "011",
+				"sortid": "114",
+				"comiclist": [
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 242
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 243
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 244
+					}
+				]
+			},
+			{
+				"title": "Happenings in Vegas",
+				"date": "2010-07-21",
+				"characters": [
+					{
+						"id": "074",
+						"name": "X-Factor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/573f3d4625232.jpg",
+				"phaseid": "011",
+				"sortid": "115",
+				"comiclist": [
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 207
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 208
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 209
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 210
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 211
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 212
+					}
+				]
+			},
+			{
+				"title": "Scar Tissue",
+				"date": "2011-01-19",
+				"characters": [
+					{
+						"id": "074",
+						"name": "X-Factor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4cb60391531ca.jpg",
+				"phaseid": "011",
+				"sortid": "116",
+				"comiclist": [
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 213
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 214
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 215
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 216
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 217
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 218
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 219
+					}
+				]
+			},
+			{
+				"title": "Hard Labor",
+				"date": "2011-06-01",
+				"characters": [
+					{
+						"id": "074",
+						"name": "X-Factor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/4d78f4f687b61.jpg",
+				"phaseid": "011",
+				"sortid": "117",
+				"comiclist": [
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 220
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 221
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 222
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 223
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 224
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 224
+					}
+				]
+			},
+			{
+				"title": "The Killing Dream",
+				"date": "2010-03-17",
+				"characters": [
+					{
+						"id": "073",
+						"name": "X-23"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4f63a4335bdee.jpg",
+				"phaseid": "011",
+				"sortid": "118",
+				"comiclist": [
+					{
+						"collection": "X-23",
+						"vol": 2,
+						"num": 1
+					},
+					{
+						"collection": "X-23",
+						"vol": 3,
+						"num": 1
+					},
+					{
+						"collection": "X-23",
+						"vol": 3,
+						"num": 2
+					},
+					{
+						"collection": "X-23",
+						"vol": 3,
+						"num": 3
+					},
+					{
+						"collection": "X-23",
+						"vol": 3,
+						"num": 4
+					},
+					{
+						"collection": "X-23",
+						"vol": 3,
+						"num": 5
+					},
+					{
+						"collection": "X-23",
+						"vol": 3,
+						"num": 6
+					},
+					{
+						"collection": "X-23",
+						"vol": 3,
+						"num": 7
+					}
+				]
+			},
+			{
+				"title": "Collision",
+				"date": "2011-02-02",
+				"characters": [
+					{
+						"id": "125",
+						"name": "Daken"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/4cb60a2ddaa09.jpg",
+				"phaseid": "011",
+				"sortid": "119",
+				"comiclist": [
+					{
+						"collection": "Daken Dark Wolverine",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Daken Dark Wolverine",
+						"vol": 1,
+						"num": 6
+					},
+					{
+						"collection": "Daken Dark Wolverine",
+						"vol": 1,
+						"num": 7
+					},
+					{
+						"collection": "X-23",
+						"vol": 3,
+						"num": 8
+					},
+					{
+						"collection": "Daken Dark Wolverine",
+						"vol": 1,
+						"num": 8
+					},
+					{
+						"collection": "X-23",
+						"vol": 3,
+						"num": 9
+					},
+					{
+						"collection": "Daken Dark Wolverine",
+						"vol": 1,
+						"num": 9
+					}
+				]
+			},
+			{
+				"title": "Spider-Man \u0026 Wolverine",
+				"date": "2010-05-05",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/00/519662176a478.jpg",
+				"phaseid": "011",
+				"sortid": "120",
+				"comiclist": [
+					{
+						"collection": "Astonishing Spider-Man \u0026 Wolverine",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Astonishing Spider-Man \u0026 Wolverine",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Astonishing Spider-Man \u0026 Wolverine",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Astonishing Spider-Man \u0026 Wolverine",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Astonishing Spider-Man \u0026 Wolverine",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Astonishing Spider-Man \u0026 Wolverine",
+						"vol": 1,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Age of X",
+				"date": "2011-01-26",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/50b4fe73316db.jpg",
+				"phaseid": "011",
+				"sortid": "121",
+				"comiclist": [
+					{
+						"collection": "Age of X Alpha",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Age of X Universe",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Age of X Universe",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 245
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 22
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 246
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 23
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 247
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 24
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 248
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 249
+					}
+				]
+			},
+			{
+				"title": "Monstrous",
+				"date": "2011-02-23",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/56e9630539b81.jpg",
+				"phaseid": "011",
+				"sortid": "122",
+				"comiclist": [
+					{
+						"collection": "Astonishing X-Men",
+						"vol": 3,
+						"num": 36
+					},
+					{
+						"collection": "Astonishing X-Men",
+						"vol": 3,
+						"num": 37
+					},
+					{
+						"collection": "Astonishing X-Men",
+						"vol": 3,
+						"num": 38
+					},
+					{
+						"collection": "Astonishing X-Men",
+						"vol": 3,
+						"num": 39
+					},
+					{
+						"collection": "Astonishing X-Men",
+						"vol": 3,
+						"num": 40
+					},
+					{
+						"collection": "Astonishing X-Men",
+						"vol": 3,
+						"num": 41
+					},
+					{
+						"collection": "Astonishing X-Men",
+						"vol": 3,
+						"num": 42
+					},
+					{
+						"collection": "Astonishing X-Men",
+						"vol": 3,
+						"num": 43
+					}
+				]
+			},
+			{
+				"title": "Quarantine",
+				"date": "2010-11-24",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/513f546c52600.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "123",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 530
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 531
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 532
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 533
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 534
+					}
+				]
+			},
+			{
+				"title": "Breaking Point",
+				"date": "2011-04-06",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4d9622ca67f27.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "124",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 534
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 535
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 536
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 537
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 538
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 539
+					}
+				]
+			},
+			{
+				"title": "The Ward",
+				"date": "2011-04-20",
+				"characters": [
+					{
+						"id": "146",
+						"name": "Hope Summers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/518d20de62a81.jpg",
+				"phaseid": "011",
+				"sortid": "125",
+				"comiclist": [
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 6
+					},
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 7
+					},
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 8
+					},
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 9
+					}
+				]
+			},
+			{
+				"title": "Prelude to Schism",
+				"date": "2011-05-04",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/51cc54c59c639.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "126",
+				"comiclist": [
+					{
+						"collection": "X-Men Prelude to Schism",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "X-Men Prelude to Schism",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "X-Men Prelude to Schism",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "X-Men Prelude to Schism",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Schism",
+				"date": "2011-07-13",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/52c5b13ae5704.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "127",
+				"comiclist": [
+					{
+						"collection": "X-Men Schism",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "X-Men Schism",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "X-Men Schism",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Schism Hope",
+				"date": "2011-08-17",
+				"characters": [
+					{
+						"id": "146",
+						"name": "Hope Summers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/518d2067cca03.jpg",
+				"phaseid": "011",
+				"sortid": "128",
+				"comiclist": [
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 10
+					}
+				]
+			},
+			{
+				"title": "Schism",
+				"date": "2011-09-21",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/4e73599aa0898.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "129",
+				"comiclist": [
+					{
+						"collection": "X-Men Schism",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Schism Hope",
+				"date": "2011-09-21",
+				"characters": [
+					{
+						"id": "146",
+						"name": "Hope Summers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/30/518d21dac120b.jpg",
+				"phaseid": "011",
+				"sortid": "130",
+				"comiclist": [
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 11
+					}
+				]
+			},
+			{
+				"title": "Schism",
+				"date": "2011-10-05",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/04/4e837c67cefbf.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "131",
+				"comiclist": [
+					{
+						"collection": "X-Men Schism",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Schism Hope",
+				"date": "2011-10-12",
+				"characters": [
+					{
+						"id": "146",
+						"name": "Hope Summers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/518d21cd617a6.jpg",
+				"phaseid": "011",
+				"sortid": "132",
+				"comiclist": [
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 12
+					}
+				]
+			},
+			{
+				"title": "Man Hunt",
+				"date": "2010-11-10",
+				"characters": [
+					{
+						"id": "046",
+						"name": "She-Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/585032e1c31a0.jpg",
+				"phaseid": "011",
+				"sortid": "133",
+				"comiclist": [
+					{
+						"collection": "She-Hulks",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "She-Hulks",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "She-Hulks",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "She-Hulks",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Chaos War",
+				"date": "2010-09-01",
+				"characters": [
+					{
+						"id": "121",
+						"name": "Hercules"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/50b38ae22fa8e.jpg",
+				"phaseid": "011",
+				"sortid": "134",
+				"comiclist": [
+					{
+						"collection": "Chaos War",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Chaos War",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Chaos War",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Chaos War Thor",
+				"date": "2010-11-10",
+				"characters": [
+					{
+						"id": "014",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/51e6f4217e177.jpg",
+				"phaseid": "011",
+				"sortid": "135",
+				"comiclist": [
+					{
+						"collection": "Chaos War Thor",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Chaos War Chaos King",
+				"date": "2010-11-17",
+				"characters": [
+					{
+						"id": "165",
+						"name": ""
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/52166e65d7e16.jpg",
+				"phaseid": "011",
+				"sortid": "136",
+				"comiclist": [
+					{
+						"collection": "Chaos War Chaos King",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Chaos War Dead Avengers",
+				"date": "2010-11-17",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4f68c30100312.jpg",
+				"phaseid": "011",
+				"sortid": "137",
+				"comiclist": [
+					{
+						"collection": "Chaos War Dead Avengers",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Chaos War Alpha Flight",
+				"date": "2010-11-24",
+				"characters": [
+					{
+						"id": "137",
+						"name": "Alpha Flight"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/51e061516c45e.jpg",
+				"phaseid": "011",
+				"sortid": "138",
+				"comiclist": [
+					{
+						"collection": "Chaos War Alpha Flight",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Chaos War God Squad",
+				"date": "2010-12-02",
+				"characters": [
+					{
+						"id": "130",
+						"name": "Silver Surfer"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/51e068e86c76d.jpg",
+				"phaseid": "011",
+				"sortid": "139",
+				"comiclist": [
+					{
+						"collection": "Chaos War God Squad",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Chaos War",
+				"date": "2010-12-15",
+				"characters": [
+					{
+						"id": "121",
+						"name": "Hercules"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/51e05fc66a9ef.jpg",
+				"phaseid": "011",
+				"sortid": "140",
+				"comiclist": [
+					{
+						"collection": "Chaos War",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Chaos War Hulks",
+				"date": "2010-12-08",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/52c5b58c47334.jpg",
+				"phaseid": "011",
+				"sortid": "141",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 618
+					}
+				]
+			},
+			{
+				"title": "Chaos War God Ares",
+				"date": "2010-12-08",
+				"characters": [
+					{
+						"id": "120",
+						"name": "Ares"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/51e0627329519.jpg",
+				"phaseid": "011",
+				"sortid": "142",
+				"comiclist": [
+					{
+						"collection": "Chaos War God Ares",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Chaos War Thor",
+				"date": "2010-12-15",
+				"characters": [
+					{
+						"id": "014",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/51e6f50e6154d.jpg",
+				"phaseid": "011",
+				"sortid": "143",
+				"comiclist": [
+					{
+						"collection": "Chaos War Thor",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Chaos War Dead Avengers",
+				"date": "2010-12-22",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/51e066367ac8e.jpg",
+				"phaseid": "011",
+				"sortid": "144",
+				"comiclist": [
+					{
+						"collection": "Chaos War Dead Avengers",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Chaos War Hulks",
+				"date": "2010-12-22",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/52c5b57d98070.jpg",
+				"phaseid": "011",
+				"sortid": "145",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 619
+					}
+				]
+			},
+			{
+				"title": "Chaos War X-Men",
+				"date": "2010-12-29",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/51e6f67fe66b9.jpg",
+				"phaseid": "011",
+				"sortid": "146",
+				"comiclist": [
+					{
+						"collection": "Chaos War X-Men",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Chaos War Hulks",
+				"date": "2011-01-12",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4f58d13c5c70c.jpg",
+				"phaseid": "011",
+				"sortid": "147",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 620
+					}
+				]
+			},
+			{
+				"title": "Chaos War Dead Avengers",
+				"date": "2011-01-12",
+				"characters": [
+					{
+						"id": "059",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/51e0671a9e7b7.jpg",
+				"phaseid": "011",
+				"sortid": "148",
+				"comiclist": [
+					{
+						"collection": "Chaos War Dead Avengers",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Chaos War X-Men",
+				"date": "2011-01-26",
+				"characters": [
+					{
+						"id": "028",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/51e6f7441e4d8.jpg",
+				"phaseid": "011",
+				"sortid": "149",
+				"comiclist": [
+					{
+						"collection": "Chaos War X-Men",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Chaos War",
+				"date": "2011-01-26",
+				"characters": [
+					{
+						"id": "121",
+						"name": "Hercules"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4f57d7051d323.jpg",
+				"phaseid": "011",
+				"sortid": "150",
+				"comiclist": [
+					{
+						"collection": "Chaos War",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "The World Eaters",
+				"date": "2010-09-22",
+				"characters": [
+					{
+						"id": "014",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/56f2cc3762563.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "151",
+				"comiclist": [
+					{
+						"collection": "Thor",
+						"vol": 1,
+						"num": 615
+					},
+					{
+						"collection": "Thor",
+						"vol": 1,
+						"num": 616
+					},
+					{
+						"collection": "Thor",
+						"vol": 1,
+						"num": 617
+					},
+					{
+						"collection": "Thor",
+						"vol": 1,
+						"num": 618
+					},
+					{
+						"collection": "Thor",
+						"vol": 1,
+						"num": 619
+					},
+					{
+						"collection": "Thor",
+						"vol": 1,
+						"num": 620
+					},
+					{
+						"collection": "Thor",
+						"vol": 1,
+						"num": 621
+					},
+					{
+						"collection": "Thor",
+						"vol": 1,
+						"num": 620
+					}
+				]
+			},
+			{
+				"title": "Planet Red Hulk",
+				"date": "2011-02-16",
+				"characters": [
+					{
+						"id": "144",
+						"name": "Red Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4d34b545265fa.jpg",
+				"phaseid": "011",
+				"sortid": "152",
+				"comiclist": [
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 30
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 31
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 32
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 33
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 34
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 35
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 36
+					}
+				]
+			},
+			{
+				"title": "King of the Savage Land",
+				"date": "2011-04-06",
+				"characters": [
+					{
+						"id": "154",
+						"name": "Skaar"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4f7df1cfa5765.jpg",
+				"phaseid": "011",
+				"sortid": "153",
+				"comiclist": [
+					{
+						"collection": "Skaar King of the Savage Land",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Skaar King of the Savage Land",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Skaar King of the Savage Land",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Skaar King of the Savage Land",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Skaar King of the Savage Land",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Planet Savage",
+				"date": "2011-01-26",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4f58d1d4df0a2.jpg",
+				"phaseid": "011",
+				"sortid": "154",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 621
+					},
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 622
+					},
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 623
+					},
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 624
+					},
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 625
+					},
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 626
+					},
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 627
+					},
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 628
+					},
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 629
+					}
+				]
+			},
+			{
+				"title": "Heart of the Monster",
+				"date": "2011-06-08",
+				"characters": [
+					{
+						"id": "050",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4f57be0ad16a8.jpg",
+				"phaseid": "011",
+				"sortid": "155",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 630
+					},
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 631
+					},
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 632
+					},
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 633
+					},
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 634
+					},
+					{
+						"collection": "Incredible Hulks",
+						"vol": 1,
+						"num": 635
+					}
+				]
+			},
+			{
+				"title": "Big Time",
+				"date": "2010-11-10",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/5813b47f01394.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "156",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 648
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 649
+					},
+					{
+						"collection": "Osborn",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 650
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 651
+					},
+					{
+						"collection": "Osborn",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Matters of Life and Death",
+				"date": "2011-01-19",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/58090b8967f2f.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "157",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 652
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 653
+					},
+					{
+						"collection": "Osborn",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 654
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 654
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 655
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 656
+					},
+					{
+						"collection": "Osborn",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Three",
+				"date": "2010-09-22",
+				"characters": [
+					{
+						"id": "035",
+						"name": "Fantastic Four"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/51db31c260990.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "158",
+				"comiclist": [
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 583
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 584
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 585
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 586
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 587
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 588
+					}
+				]
+			},
+			{
+				"title": "Future Foundation",
+				"date": "2011-03-23",
+				"characters": [
+					{
+						"id": "035",
+						"name": "Fantastic Four"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/51f68bed568ee.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "159",
+				"comiclist": [
+					{
+						"collection": "FF",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "FF",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "FF",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "FF",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "FF",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "The Fantastic Spider-Man",
+				"date": "2011-03-30",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/4d87a9336fa68.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "160",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 657
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 658
+					},
+					{
+						"collection": "Osborn",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 659
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 660
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 661
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 662
+					}
+				]
+			},
+			{
+				"title": "The Return Of Anti-Venom",
+				"date": "2011-06-01",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/580e212952c6d.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "161",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 663
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 664
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 665
+					},
+					{
+						"collection": "Spidey Sunday Spectacular",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "The Galactus Seed",
+				"date": "2011-04-27",
+				"characters": [
+					{
+						"id": "014",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4d52b46593f78.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "162",
+				"comiclist": [
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Urban Jungle",
+				"date": "2010-12-15",
+				"characters": [
+					{
+						"id": "094",
+						"name": "Black Panther"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/568eaa8c32097.jpg",
+				"phaseid": "011",
+				"sortid": "163",
+				"comiclist": [
+					{
+						"collection": "Black Panther The Man Without Fear",
+						"vol": 1,
+						"num": 513
+					},
+					{
+						"collection": "Black Panther The Man Without Fear",
+						"vol": 1,
+						"num": 514
+					},
+					{
+						"collection": "Black Panther The Man Without Fear",
+						"vol": 1,
+						"num": 515
+					},
+					{
+						"collection": "Black Panther The Man Without Fear",
+						"vol": 1,
+						"num": 516
+					},
+					{
+						"collection": "Black Panther The Man Without Fear",
+						"vol": 1,
+						"num": 517
+					},
+					{
+						"collection": "Black Panther The Man Without Fear",
+						"vol": 1,
+						"num": 518
+					},
+					{
+						"collection": "Black Panther The Man Without Fear",
+						"vol": 1,
+						"num": 519
+					},
+					{
+						"collection": "Black Panther The Man Without Fear",
+						"vol": 1,
+						"num": 520
+					}
+				]
+			},
+			{
+				"title": "The Children's Crusade",
+				"date": "2010-07-08",
+				"characters": [
+					{
+						"id": "079",
+						"name": "Young Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4f6210eddab18.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "164",
+				"comiclist": [
+					{
+						"collection": "Avengers The Children's Crusade",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Avengers The Children's Crusade",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Avengers The Children's Crusade",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Avengers The Children's Crusade",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Avengers The Children's Crusade One Shot",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Avengers The Children's Crusade",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Avengers The Children's Crusade",
+						"vol": 1,
+						"num": 6
+					},
+					{
+						"collection": "Avengers The Children's Crusade",
+						"vol": 1,
+						"num": 7
+					},
+					{
+						"collection": "Avengers The Children's Crusade",
+						"vol": 1,
+						"num": 8
+					},
+					{
+						"collection": "Avengers The Children's Crusade",
+						"vol": 1,
+						"num": 9
 					}
 				]
 			}

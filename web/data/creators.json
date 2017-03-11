@@ -1809,27 +1809,27 @@
 	},
 	{
 		"id": "453",
-		"name": "John Thomas"
-	},
-	{
-		"id": "454",
 		"name": "Federico Dallocchio"
 	},
 	{
-		"id": "455",
+		"id": "454",
 		"name": "Jamie McKelvie"
 	},
 	{
-		"id": "456",
+		"id": "455",
 		"name": "Niko Henrichon"
 	},
 	{
-		"id": "457",
+		"id": "456",
 		"name": "Kurt Busiek"
 	},
 	{
-		"id": "458",
+		"id": "457",
 		"name": "David Baldeon"
+	},
+	{
+		"id": "458",
+		"name": "Filipe Andrade"
 	},
 	{
 		"id": "459",
@@ -1930,5 +1930,77 @@
 	{
 		"id": "483",
 		"name": "Ramon Rosanas"
+	},
+	{
+		"id": "484",
+		"name": "Renato Guedes"
+	},
+	{
+		"id": "485",
+		"name": "Mike Deodato"
+	},
+	{
+		"id": "486",
+		"name": "Nick Spencer"
+	},
+	{
+		"id": "487",
+		"name": "Rafael Albuquerque"
+	},
+	{
+		"id": "488",
+		"name": "Gabriel Hernandez Walta"
+	},
+	{
+		"id": "489",
+		"name": "Phil Noto"
+	},
+	{
+		"id": "490",
+		"name": "Nick Bradshaw"
+	},
+	{
+		"id": "491",
+		"name": "Emanuela Lupacchino"
+	},
+	{
+		"id": "492",
+		"name": "Agustin Padilla"
+	},
+	{
+		"id": "493",
+		"name": "Carlos Pacheco"
+	},
+	{
+		"id": "494",
+		"name": "Tim Seeley"
+	},
+	{
+		"id": "495",
+		"name": "Brandon Montclare"
+	},
+	{
+		"id": "496",
+		"name": "Michael Kaluta"
+	},
+	{
+		"id": "497",
+		"name": "Mike Avon Oeming"
+	},
+	{
+		"id": "498",
+		"name": "Louise Simonson"
+	},
+	{
+		"id": "499",
+		"name": "Kelly Sue DeConnick"
+	},
+	{
+		"id": "500",
+		"name": "David Liss"
+	},
+	{
+		"id": "501",
+		"name": "Francesco Francavilla"
 	}
 ]
