@@ -10,77 +10,77 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "048",
+				"id": "087",
 				"name": "Gambit"
 			},
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "031",
+				"id": "123",
 				"name": "Randy Green"
 			}
 		],
@@ -105,21 +105,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "115",
+				"id": "083",
 				"name": "War Machine"
 			}
 		],
 		"creators": [
 			{
-				"id": "138",
+				"id": "254",
 				"name": "John Layman"
 			},
 			{
-				"id": "143",
+				"id": "005",
 				"name": "Aaron Lopresti"
 			}
 		],
@@ -140,21 +140,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "115",
+				"id": "083",
 				"name": "War Machine"
 			}
 		],
 		"creators": [
 			{
-				"id": "138",
+				"id": "254",
 				"name": "John Layman"
 			},
 			{
-				"id": "143",
+				"id": "005",
 				"name": "Aaron Lopresti"
 			}
 		],
@@ -175,21 +175,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "115",
+				"id": "083",
 				"name": "War Machine"
 			}
 		],
 		"creators": [
 			{
-				"id": "138",
+				"id": "254",
 				"name": "John Layman"
 			},
 			{
-				"id": "143",
+				"id": "005",
 				"name": "Aaron Lopresti"
 			}
 		],
@@ -210,21 +210,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "115",
+				"id": "083",
 				"name": "War Machine"
 			}
 		],
 		"creators": [
 			{
-				"id": "138",
+				"id": "254",
 				"name": "John Layman"
 			},
 			{
-				"id": "143",
+				"id": "005",
 				"name": "Aaron Lopresti"
 			}
 		],
@@ -245,21 +245,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "115",
+				"id": "083",
 				"name": "War Machine"
 			}
 		],
 		"creators": [
 			{
-				"id": "138",
+				"id": "254",
 				"name": "John Layman"
 			},
 			{
-				"id": "143",
+				"id": "005",
 				"name": "Aaron Lopresti"
 			}
 		],
@@ -280,57 +280,57 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			},
 			{
-				"id": "048",
+				"id": "087",
 				"name": "Gambit"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "137",
+				"id": "182",
 				"name": "Salvador Larroca"
 			}
 		],
@@ -351,57 +351,57 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			},
 			{
-				"id": "048",
+				"id": "087",
 				"name": "Gambit"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "137",
+				"id": "182",
 				"name": "Salvador Larroca"
 			}
 		],
@@ -422,57 +422,57 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			},
 			{
-				"id": "048",
+				"id": "087",
 				"name": "Gambit"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "137",
+				"id": "182",
 				"name": "Salvador Larroca"
 			}
 		],
@@ -493,25 +493,25 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "107",
+				"id": "236",
 				"name": "Mark Brooks"
 			}
 		],
@@ -532,25 +532,25 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "107",
+				"id": "236",
 				"name": "Mark Brooks"
 			}
 		],
@@ -571,25 +571,25 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "107",
+				"id": "236",
 				"name": "Mark Brooks"
 			}
 		],
@@ -610,25 +610,25 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "107",
+				"id": "236",
 				"name": "Mark Brooks"
 			}
 		],
@@ -649,17 +649,17 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "147",
+				"id": "262",
 				"name": "Hugh Sterbakov"
 			},
 			{
-				"id": "148",
+				"id": "263",
 				"name": "Sean Scoffield"
 			}
 		],
@@ -683,11 +683,11 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "110",
+				"id": "032",
 				"name": "Quicksilver"
 			},
 			{
@@ -695,17 +695,17 @@
 				"name": "Inhumans"
 			},
 			{
-				"id": "109",
+				"id": "131",
 				"name": "Magneto"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "149",
+				"id": "264",
 				"name": "Roy Allan Martinez"
 			}
 		],
@@ -730,11 +730,11 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "110",
+				"id": "032",
 				"name": "Quicksilver"
 			},
 			{
@@ -742,17 +742,17 @@
 				"name": "Inhumans"
 			},
 			{
-				"id": "109",
+				"id": "131",
 				"name": "Magneto"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "149",
+				"id": "264",
 				"name": "Roy Allan Martinez"
 			}
 		],
@@ -774,11 +774,11 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "110",
+				"id": "032",
 				"name": "Quicksilver"
 			},
 			{
@@ -786,17 +786,17 @@
 				"name": "Inhumans"
 			},
 			{
-				"id": "109",
+				"id": "131",
 				"name": "Magneto"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "149",
+				"id": "264",
 				"name": "Roy Allan Martinez"
 			}
 		],
@@ -818,11 +818,11 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "110",
+				"id": "032",
 				"name": "Quicksilver"
 			},
 			{
@@ -830,17 +830,17 @@
 				"name": "Inhumans"
 			},
 			{
-				"id": "109",
+				"id": "131",
 				"name": "Magneto"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "149",
+				"id": "264",
 				"name": "Roy Allan Martinez"
 			}
 		],
@@ -862,11 +862,11 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "110",
+				"id": "032",
 				"name": "Quicksilver"
 			},
 			{
@@ -874,17 +874,17 @@
 				"name": "Inhumans"
 			},
 			{
-				"id": "109",
+				"id": "131",
 				"name": "Magneto"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "149",
+				"id": "264",
 				"name": "Roy Allan Martinez"
 			}
 		],
@@ -906,11 +906,11 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "110",
+				"id": "032",
 				"name": "Quicksilver"
 			},
 			{
@@ -918,17 +918,17 @@
 				"name": "Inhumans"
 			},
 			{
-				"id": "109",
+				"id": "131",
 				"name": "Magneto"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "149",
+				"id": "264",
 				"name": "Roy Allan Martinez"
 			}
 		],
@@ -950,17 +950,17 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "071",
+				"id": "209",
 				"name": "Jim Muniz"
 			}
 		],
@@ -981,17 +981,17 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "071",
+				"id": "209",
 				"name": "Jim Muniz"
 			}
 		],
@@ -1012,17 +1012,17 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "071",
+				"id": "209",
 				"name": "Jim Muniz"
 			}
 		],
@@ -1043,17 +1043,17 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "071",
+				"id": "209",
 				"name": "Jim Muniz"
 			}
 		],
@@ -1074,17 +1074,17 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "071",
+				"id": "209",
 				"name": "Jim Muniz"
 			}
 		],
@@ -1105,7 +1105,7 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
@@ -1115,7 +1115,7 @@
 				"name": "Paul Jenkins"
 			},
 			{
-				"id": "150",
+				"id": "265",
 				"name": "Ramon Bachs"
 			}
 		],
@@ -1136,7 +1136,7 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
@@ -1146,7 +1146,7 @@
 				"name": "Paul Jenkins"
 			},
 			{
-				"id": "150",
+				"id": "265",
 				"name": "Ramon Bachs"
 			}
 		],
@@ -1167,7 +1167,7 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
@@ -1177,7 +1177,7 @@
 				"name": "Paul Jenkins"
 			},
 			{
-				"id": "150",
+				"id": "265",
 				"name": "Ramon Bachs"
 			}
 		],
@@ -1198,7 +1198,7 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
@@ -1208,7 +1208,7 @@
 				"name": "Paul Jenkins"
 			},
 			{
-				"id": "150",
+				"id": "265",
 				"name": "Ramon Bachs"
 			}
 		],
@@ -1229,7 +1229,7 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
@@ -1239,7 +1239,7 @@
 				"name": "Paul Jenkins"
 			},
 			{
-				"id": "150",
+				"id": "265",
 				"name": "Ramon Bachs"
 			}
 		],
@@ -1260,45 +1260,45 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "074",
+				"id": "105",
 				"name": "X-Factor"
 			},
 			{
-				"id": "075",
+				"id": "106",
 				"name": "Madrox"
 			},
 			{
-				"id": "116",
+				"id": "135",
 				"name": "Siryn"
 			},
 			{
-				"id": "076",
+				"id": "107",
 				"name": "Strong Guy"
 			},
 			{
-				"id": "077",
+				"id": "108",
 				"name": "Wolfsbane"
 			},
 			{
-				"id": "111",
+				"id": "132",
 				"name": "Layla Miller"
 			},
 			{
-				"id": "117",
+				"id": "136",
 				"name": "Rictor"
 			},
 			{
-				"id": "118",
+				"id": "137",
 				"name": "Monet"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "151",
+				"id": "266",
 				"name": "Ryan Sook"
 			}
 		],
@@ -1319,45 +1319,45 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "074",
+				"id": "105",
 				"name": "X-Factor"
 			},
 			{
-				"id": "075",
+				"id": "106",
 				"name": "Madrox"
 			},
 			{
-				"id": "116",
+				"id": "135",
 				"name": "Siryn"
 			},
 			{
-				"id": "076",
+				"id": "107",
 				"name": "Strong Guy"
 			},
 			{
-				"id": "077",
+				"id": "108",
 				"name": "Wolfsbane"
 			},
 			{
-				"id": "111",
+				"id": "132",
 				"name": "Layla Miller"
 			},
 			{
-				"id": "117",
+				"id": "136",
 				"name": "Rictor"
 			},
 			{
-				"id": "118",
+				"id": "137",
 				"name": "Monet"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "151",
+				"id": "266",
 				"name": "Ryan Sook"
 			}
 		],
@@ -1378,45 +1378,45 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "074",
+				"id": "105",
 				"name": "X-Factor"
 			},
 			{
-				"id": "075",
+				"id": "106",
 				"name": "Madrox"
 			},
 			{
-				"id": "116",
+				"id": "135",
 				"name": "Siryn"
 			},
 			{
-				"id": "076",
+				"id": "107",
 				"name": "Strong Guy"
 			},
 			{
-				"id": "077",
+				"id": "108",
 				"name": "Wolfsbane"
 			},
 			{
-				"id": "111",
+				"id": "132",
 				"name": "Layla Miller"
 			},
 			{
-				"id": "117",
+				"id": "136",
 				"name": "Rictor"
 			},
 			{
-				"id": "118",
+				"id": "137",
 				"name": "Monet"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "151",
+				"id": "266",
 				"name": "Ryan Sook"
 			}
 		],
@@ -1437,45 +1437,45 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "074",
+				"id": "105",
 				"name": "X-Factor"
 			},
 			{
-				"id": "075",
+				"id": "106",
 				"name": "Madrox"
 			},
 			{
-				"id": "116",
+				"id": "135",
 				"name": "Siryn"
 			},
 			{
-				"id": "076",
+				"id": "107",
 				"name": "Strong Guy"
 			},
 			{
-				"id": "077",
+				"id": "108",
 				"name": "Wolfsbane"
 			},
 			{
-				"id": "111",
+				"id": "132",
 				"name": "Layla Miller"
 			},
 			{
-				"id": "117",
+				"id": "136",
 				"name": "Rictor"
 			},
 			{
-				"id": "118",
+				"id": "137",
 				"name": "Monet"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "151",
+				"id": "266",
 				"name": "Ryan Sook"
 			}
 		],
@@ -1496,45 +1496,45 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "074",
+				"id": "105",
 				"name": "X-Factor"
 			},
 			{
-				"id": "075",
+				"id": "106",
 				"name": "Madrox"
 			},
 			{
-				"id": "116",
+				"id": "135",
 				"name": "Siryn"
 			},
 			{
-				"id": "076",
+				"id": "107",
 				"name": "Strong Guy"
 			},
 			{
-				"id": "077",
+				"id": "108",
 				"name": "Wolfsbane"
 			},
 			{
-				"id": "111",
+				"id": "132",
 				"name": "Layla Miller"
 			},
 			{
-				"id": "117",
+				"id": "136",
 				"name": "Rictor"
 			},
 			{
-				"id": "118",
+				"id": "137",
 				"name": "Monet"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "152",
+				"id": "267",
 				"name": "Dennis Calero"
 			}
 		],
@@ -1555,45 +1555,45 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "074",
+				"id": "105",
 				"name": "X-Factor"
 			},
 			{
-				"id": "075",
+				"id": "106",
 				"name": "Madrox"
 			},
 			{
-				"id": "116",
+				"id": "135",
 				"name": "Siryn"
 			},
 			{
-				"id": "076",
+				"id": "107",
 				"name": "Strong Guy"
 			},
 			{
-				"id": "077",
+				"id": "108",
 				"name": "Wolfsbane"
 			},
 			{
-				"id": "111",
+				"id": "132",
 				"name": "Layla Miller"
 			},
 			{
-				"id": "117",
+				"id": "136",
 				"name": "Rictor"
 			},
 			{
-				"id": "118",
+				"id": "137",
 				"name": "Monet"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "152",
+				"id": "267",
 				"name": "Dennis Calero"
 			}
 		],
@@ -1614,73 +1614,73 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "099",
+				"id": "125",
 				"name": "Angel"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "141",
+				"id": "257",
 				"name": "Trevor Hairsine"
 			}
 		],
@@ -1706,73 +1706,73 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "099",
+				"id": "125",
 				"name": "Angel"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "141",
+				"id": "257",
 				"name": "Trevor Hairsine"
 			}
 		],
@@ -1794,73 +1794,73 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "099",
+				"id": "125",
 				"name": "Angel"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "141",
+				"id": "257",
 				"name": "Trevor Hairsine"
 			}
 		],
@@ -1882,73 +1882,73 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "099",
+				"id": "125",
 				"name": "Angel"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "141",
+				"id": "257",
 				"name": "Trevor Hairsine"
 			}
 		],
@@ -1970,73 +1970,73 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "099",
+				"id": "125",
 				"name": "Angel"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "141",
+				"id": "257",
 				"name": "Trevor Hairsine"
 			}
 		],
@@ -2058,73 +2058,73 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "099",
+				"id": "125",
 				"name": "Angel"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "141",
+				"id": "257",
 				"name": "Trevor Hairsine"
 			}
 		],
@@ -2146,30 +2146,27 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "153",
+				"id": "268",
 				"name": "Mike Carey"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/56f953a644953.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": [
-			"Translated"
-		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "011"
@@ -2185,21 +2182,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "153",
+				"id": "268",
 				"name": "Mike Carey"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
@@ -2221,21 +2218,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "153",
+				"id": "268",
 				"name": "Mike Carey"
 			},
 			{
-				"id": "060",
+				"id": "084",
 				"name": "Mark Bagley"
 			}
 		],
@@ -2257,21 +2254,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "153",
+				"id": "268",
 				"name": "Mike Carey"
 			},
 			{
-				"id": "060",
+				"id": "084",
 				"name": "Mark Bagley"
 			}
 		],
@@ -2293,21 +2290,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
@@ -2329,21 +2326,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
@@ -2365,21 +2362,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "153",
+				"id": "268",
 				"name": "Mike Carey"
 			},
 			{
-				"id": "098",
+				"id": "230",
 				"name": "Mike Perkins"
 			}
 		],
@@ -2401,21 +2398,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "153",
+				"id": "268",
 				"name": "Mike Carey"
 			},
 			{
-				"id": "098",
+				"id": "230",
 				"name": "Mike Perkins"
 			}
 		],
@@ -2437,21 +2434,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "146",
+				"id": "261",
 				"name": "Christos Gage"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
@@ -2473,21 +2470,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "146",
+				"id": "261",
 				"name": "Christos Gage"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
@@ -2509,21 +2506,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "146",
+				"id": "261",
 				"name": "Christos Gage"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -2545,21 +2542,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "146",
+				"id": "261",
 				"name": "Christos Gage"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
@@ -2581,21 +2578,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "153",
+				"id": "268",
 				"name": "Mike Carey"
 			},
 			{
-				"id": "098",
+				"id": "230",
 				"name": "Mike Perkins"
 			}
 		],
@@ -2617,21 +2614,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "153",
+				"id": "268",
 				"name": "Mike Carey"
 			},
 			{
-				"id": "098",
+				"id": "230",
 				"name": "Mike Perkins"
 			}
 		],
@@ -2653,21 +2650,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -2689,21 +2686,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -2725,21 +2722,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "153",
+				"id": "268",
 				"name": "Mike Carey"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
@@ -2761,21 +2758,21 @@
 		"eventid": "004",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			}
 		],
 		"creators": [
 			{
-				"id": "153",
+				"id": "268",
 				"name": "Mike Carey"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
@@ -2795,45 +2792,45 @@
 		"date": "2005-09-28",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "004",
+				"id": "006",
 				"name": "Echo"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "085",
+				"id": "222",
 				"name": "David Finch"
 			}
 		],
@@ -2853,45 +2850,45 @@
 		"date": "2005-10-26",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "004",
+				"id": "006",
 				"name": "Echo"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "085",
+				"id": "222",
 				"name": "David Finch"
 			}
 		],
@@ -2911,45 +2908,45 @@
 		"date": "2005-11-30",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "004",
+				"id": "006",
 				"name": "Echo"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "085",
+				"id": "222",
 				"name": "David Finch"
 			}
 		],
@@ -2969,21 +2966,21 @@
 		"date": "2005-07-27",
 		"characters": [
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "154",
+				"id": "206",
 				"name": "Rick Mays"
 			}
 		],
@@ -3003,45 +3000,45 @@
 		"date": "2005-12-28",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "078",
+				"id": "215",
 				"name": "Frank Cho"
 			}
 		],
@@ -3061,45 +3058,45 @@
 		"date": "2006-01-25",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "078",
+				"id": "215",
 				"name": "Frank Cho"
 			}
 		],
@@ -3119,17 +3116,17 @@
 		"date": "2005-02-16",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "055",
+				"id": "161",
 				"name": "Adrian Alphona"
 			}
 		],
@@ -3149,17 +3146,17 @@
 		"date": "2005-03-23",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "055",
+				"id": "161",
 				"name": "Adrian Alphona"
 			}
 		],
@@ -3179,17 +3176,17 @@
 		"date": "2005-04-20",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "055",
+				"id": "161",
 				"name": "Adrian Alphona"
 			}
 		],
@@ -3209,17 +3206,17 @@
 		"date": "2005-05-18",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "055",
+				"id": "161",
 				"name": "Adrian Alphona"
 			}
 		],
@@ -3239,17 +3236,17 @@
 		"date": "2005-06-29",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "055",
+				"id": "161",
 				"name": "Adrian Alphona"
 			}
 		],
@@ -3269,17 +3266,17 @@
 		"date": "2005-07-27",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "055",
+				"id": "161",
 				"name": "Adrian Alphona"
 			}
 		],
@@ -3299,17 +3296,17 @@
 		"date": "2005-08-31",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "056",
+				"id": "162",
 				"name": "Takeshi Miyazawa"
 			}
 		],
@@ -3329,17 +3326,17 @@
 		"date": "2005-09-21",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "056",
+				"id": "162",
 				"name": "Takeshi Miyazawa"
 			}
 		],
@@ -3359,25 +3356,25 @@
 		"date": "2005-10-19",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			},
 			{
-				"id": "007",
+				"id": "009",
 				"name": "Cloak"
 			},
 			{
-				"id": "008",
+				"id": "010",
 				"name": "Dagger"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "055",
+				"id": "161",
 				"name": "Adrian Alphona"
 			}
 		],
@@ -3397,25 +3394,25 @@
 		"date": "2005-11-16",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			},
 			{
-				"id": "007",
+				"id": "009",
 				"name": "Cloak"
 			},
 			{
-				"id": "008",
+				"id": "010",
 				"name": "Dagger"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "055",
+				"id": "161",
 				"name": "Adrian Alphona"
 			}
 		],
@@ -3435,25 +3432,25 @@
 		"date": "2005-12-21",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			},
 			{
-				"id": "007",
+				"id": "009",
 				"name": "Cloak"
 			},
 			{
-				"id": "008",
+				"id": "010",
 				"name": "Dagger"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "055",
+				"id": "161",
 				"name": "Adrian Alphona"
 			}
 		],
@@ -3473,25 +3470,25 @@
 		"date": "2006-01-18",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			},
 			{
-				"id": "007",
+				"id": "009",
 				"name": "Cloak"
 			},
 			{
-				"id": "008",
+				"id": "010",
 				"name": "Dagger"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "055",
+				"id": "161",
 				"name": "Adrian Alphona"
 			}
 		],
@@ -3511,25 +3508,25 @@
 		"date": "2006-01-11",
 		"characters": [
 			{
-				"id": "120",
+				"id": "139",
 				"name": "Ares"
 			},
 			{
-				"id": "121",
+				"id": "027",
 				"name": "Hercules"
 			},
 			{
-				"id": "122",
+				"id": "140",
 				"name": "Phobos"
 			}
 		],
 		"creators": [
 			{
-				"id": "080",
+				"id": "220",
 				"name": "Mike Oeming"
 			},
 			{
-				"id": "155",
+				"id": "269",
 				"name": "Travel Foreman"
 			}
 		],
@@ -3553,25 +3550,25 @@
 		"date": "2006-02-08",
 		"characters": [
 			{
-				"id": "120",
+				"id": "139",
 				"name": "Ares"
 			},
 			{
-				"id": "121",
+				"id": "027",
 				"name": "Hercules"
 			},
 			{
-				"id": "122",
+				"id": "140",
 				"name": "Phobos"
 			}
 		],
 		"creators": [
 			{
-				"id": "080",
+				"id": "220",
 				"name": "Mike Oeming"
 			},
 			{
-				"id": "155",
+				"id": "269",
 				"name": "Travel Foreman"
 			}
 		],
@@ -3590,25 +3587,25 @@
 		"date": "2006-03-22",
 		"characters": [
 			{
-				"id": "120",
+				"id": "139",
 				"name": "Ares"
 			},
 			{
-				"id": "121",
+				"id": "027",
 				"name": "Hercules"
 			},
 			{
-				"id": "122",
+				"id": "140",
 				"name": "Phobos"
 			}
 		],
 		"creators": [
 			{
-				"id": "080",
+				"id": "220",
 				"name": "Mike Oeming"
 			},
 			{
-				"id": "155",
+				"id": "269",
 				"name": "Travel Foreman"
 			}
 		],
@@ -3627,25 +3624,25 @@
 		"date": "2006-05-10",
 		"characters": [
 			{
-				"id": "120",
+				"id": "139",
 				"name": "Ares"
 			},
 			{
-				"id": "121",
+				"id": "027",
 				"name": "Hercules"
 			},
 			{
-				"id": "122",
+				"id": "140",
 				"name": "Phobos"
 			}
 		],
 		"creators": [
 			{
-				"id": "080",
+				"id": "220",
 				"name": "Mike Oeming"
 			},
 			{
-				"id": "155",
+				"id": "269",
 				"name": "Travel Foreman"
 			}
 		],
@@ -3664,25 +3661,25 @@
 		"date": "2006-07-05",
 		"characters": [
 			{
-				"id": "120",
+				"id": "139",
 				"name": "Ares"
 			},
 			{
-				"id": "121",
+				"id": "027",
 				"name": "Hercules"
 			},
 			{
-				"id": "122",
+				"id": "140",
 				"name": "Phobos"
 			}
 		],
 		"creators": [
 			{
-				"id": "080",
+				"id": "220",
 				"name": "Mike Oeming"
 			},
 			{
-				"id": "155",
+				"id": "269",
 				"name": "Travel Foreman"
 			}
 		],
@@ -3701,17 +3698,17 @@
 		"date": "2005-01-19",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "156",
+				"id": "270",
 				"name": "Roger Cruz"
 			}
 		],
@@ -3733,17 +3730,17 @@
 		"date": "2005-03-02",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "156",
+				"id": "270",
 				"name": "Roger Cruz"
 			}
 		],
@@ -3765,17 +3762,17 @@
 		"date": "2005-03-23",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "156",
+				"id": "270",
 				"name": "Roger Cruz"
 			}
 		],
@@ -3797,17 +3794,17 @@
 		"date": "2005-05-11",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "156",
+				"id": "270",
 				"name": "Roger Cruz"
 			}
 		],
@@ -3829,17 +3826,17 @@
 		"date": "2005-06-01",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "156",
+				"id": "270",
 				"name": "Roger Cruz"
 			}
 		],
@@ -3861,17 +3858,17 @@
 		"date": "2005-07-20",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "156",
+				"id": "270",
 				"name": "Roger Cruz"
 			}
 		],
@@ -3893,17 +3890,17 @@
 		"date": "2005-07-27",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "156",
+				"id": "270",
 				"name": "Roger Cruz"
 			}
 		],
@@ -3925,17 +3922,17 @@
 		"date": "2005-09-07",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "156",
+				"id": "270",
 				"name": "Roger Cruz"
 			}
 		],
@@ -3957,17 +3954,17 @@
 		"date": "2005-09-28",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "156",
+				"id": "270",
 				"name": "Roger Cruz"
 			}
 		],
@@ -3989,17 +3986,17 @@
 		"date": "2005-10-26",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "156",
+				"id": "270",
 				"name": "Roger Cruz"
 			}
 		],
@@ -4021,17 +4018,17 @@
 		"date": "2005-11-23",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "156",
+				"id": "270",
 				"name": "Roger Cruz"
 			}
 		],
@@ -4053,17 +4050,17 @@
 		"date": "2005-12-28",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "156",
+				"id": "270",
 				"name": "Roger Cruz"
 			}
 		],
@@ -4085,17 +4082,17 @@
 		"date": "2004-11-10",
 		"characters": [
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "157",
+				"id": "271",
 				"name": "Warren Ellis"
 			},
 			{
-				"id": "158",
+				"id": "272",
 				"name": "Adi Granov"
 			}
 		],
@@ -4103,8 +4100,7 @@
 		"universe": "Earth-616",
 		"essential": true,
 		"comments": [
-			"Iron Man gets infected with Extremis virus",
-			"Translated"
+			"Iron Man gets infected with Extremis virus"
 		],
 		"phaseid": "005",
 		"phasename": "Decimation",
@@ -4119,26 +4115,23 @@
 		"date": "2004-12-29",
 		"characters": [
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "157",
+				"id": "271",
 				"name": "Warren Ellis"
 			},
 			{
-				"id": "158",
+				"id": "272",
 				"name": "Adi Granov"
 			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4f7f0c3c2b64f.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": [
-			"Translated"
-		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -4152,26 +4145,23 @@
 		"date": "2005-04-13",
 		"characters": [
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "157",
+				"id": "271",
 				"name": "Warren Ellis"
 			},
 			{
-				"id": "158",
+				"id": "272",
 				"name": "Adi Granov"
 			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4d251fee74e41.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": [
-			"Translated"
-		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -4185,26 +4175,23 @@
 		"date": "2005-07-20",
 		"characters": [
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "157",
+				"id": "271",
 				"name": "Warren Ellis"
 			},
 			{
-				"id": "158",
+				"id": "272",
 				"name": "Adi Granov"
 			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/00/519fa5eac4abd.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": [
-			"Translated"
-		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -4218,26 +4205,23 @@
 		"date": "2006-01-04",
 		"characters": [
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "157",
+				"id": "271",
 				"name": "Warren Ellis"
 			},
 			{
-				"id": "158",
+				"id": "272",
 				"name": "Adi Granov"
 			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb7dec0199b5.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": [
-			"Translated"
-		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -4251,26 +4235,23 @@
 		"date": "2006-03-29",
 		"characters": [
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "157",
+				"id": "271",
 				"name": "Warren Ellis"
 			},
 			{
-				"id": "158",
+				"id": "272",
 				"name": "Adi Granov"
 			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4f84752bb13d5.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": [
-			"Translated"
-		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "020"
@@ -4284,21 +4265,21 @@
 		"date": "2005-09-28",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "123",
+				"id": "141",
 				"name": "Drax"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "159",
+				"id": "148",
 				"name": "Mitch Breitweiser"
 			}
 		],
@@ -4318,21 +4299,21 @@
 		"date": "2005-10-26",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "123",
+				"id": "141",
 				"name": "Drax"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "159",
+				"id": "148",
 				"name": "Mitch Breitweiser"
 			}
 		],
@@ -4352,21 +4333,21 @@
 		"date": "2005-11-09",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "123",
+				"id": "141",
 				"name": "Drax"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "159",
+				"id": "148",
 				"name": "Mitch Breitweiser"
 			}
 		],
@@ -4386,21 +4367,21 @@
 		"date": "2005-12-28",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "123",
+				"id": "141",
 				"name": "Drax"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "159",
+				"id": "148",
 				"name": "Mitch Breitweiser"
 			}
 		],
@@ -4420,17 +4401,17 @@
 		"date": "2005-04-13",
 		"characters": [
 			{
-				"id": "124",
+				"id": "142",
 				"name": "Toxin"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -4449,17 +4430,17 @@
 		"date": "2005-05-18",
 		"characters": [
 			{
-				"id": "124",
+				"id": "142",
 				"name": "Toxin"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -4478,17 +4459,17 @@
 		"date": "2005-06-08",
 		"characters": [
 			{
-				"id": "124",
+				"id": "142",
 				"name": "Toxin"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -4507,17 +4488,17 @@
 		"date": "2005-07-13",
 		"characters": [
 			{
-				"id": "124",
+				"id": "142",
 				"name": "Toxin"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -4536,17 +4517,17 @@
 		"date": "2005-08-10",
 		"characters": [
 			{
-				"id": "124",
+				"id": "142",
 				"name": "Toxin"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -4565,17 +4546,17 @@
 		"date": "2005-09-14",
 		"characters": [
 			{
-				"id": "124",
+				"id": "142",
 				"name": "Toxin"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -4594,25 +4575,25 @@
 		"date": "2005-10-05",
 		"characters": [
 			{
-				"id": "107",
+				"id": "041",
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "108",
+				"id": "042",
 				"name": "Songbird"
 			},
 			{
-				"id": "022",
+				"id": "039",
 				"name": "Genis-Vell"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -4631,25 +4612,25 @@
 		"date": "2005-10-26",
 		"characters": [
 			{
-				"id": "107",
+				"id": "041",
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "108",
+				"id": "042",
 				"name": "Songbird"
 			},
 			{
-				"id": "022",
+				"id": "039",
 				"name": "Genis-Vell"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -4668,25 +4649,25 @@
 		"date": "2005-11-09",
 		"characters": [
 			{
-				"id": "107",
+				"id": "041",
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "108",
+				"id": "042",
 				"name": "Songbird"
 			},
 			{
-				"id": "022",
+				"id": "039",
 				"name": "Genis-Vell"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -4705,25 +4686,25 @@
 		"date": "2005-12-14",
 		"characters": [
 			{
-				"id": "107",
+				"id": "041",
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "108",
+				"id": "042",
 				"name": "Songbird"
 			},
 			{
-				"id": "022",
+				"id": "039",
 				"name": "Genis-Vell"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -4742,25 +4723,25 @@
 		"date": "2006-01-11",
 		"characters": [
 			{
-				"id": "107",
+				"id": "041",
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "108",
+				"id": "042",
 				"name": "Songbird"
 			},
 			{
-				"id": "022",
+				"id": "039",
 				"name": "Genis-Vell"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -4779,25 +4760,25 @@
 		"date": "2006-02-08",
 		"characters": [
 			{
-				"id": "107",
+				"id": "041",
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "108",
+				"id": "042",
 				"name": "Songbird"
 			},
 			{
-				"id": "022",
+				"id": "039",
 				"name": "Genis-Vell"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -4816,25 +4797,25 @@
 		"date": "2006-03-08",
 		"characters": [
 			{
-				"id": "107",
+				"id": "041",
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "108",
+				"id": "042",
 				"name": "Songbird"
 			},
 			{
-				"id": "022",
+				"id": "039",
 				"name": "Genis-Vell"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -4857,21 +4838,21 @@
 		"date": "2006-04-12",
 		"characters": [
 			{
-				"id": "107",
+				"id": "041",
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "108",
+				"id": "042",
 				"name": "Songbird"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -4890,21 +4871,21 @@
 		"date": "2006-05-10",
 		"characters": [
 			{
-				"id": "107",
+				"id": "041",
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "108",
+				"id": "042",
 				"name": "Songbird"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -4923,7 +4904,7 @@
 		"date": "2005-09-07",
 		"characters": [
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			}
 		],
@@ -4933,7 +4914,7 @@
 				"name": "Paul Jenkins"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -4952,7 +4933,7 @@
 		"date": "2005-10-05",
 		"characters": [
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			}
 		],
@@ -4962,7 +4943,7 @@
 				"name": "Paul Jenkins"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -4981,7 +4962,7 @@
 		"date": "2005-11-30",
 		"characters": [
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			}
 		],
@@ -4991,7 +4972,7 @@
 				"name": "Paul Jenkins"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -5010,7 +4991,7 @@
 		"date": "2005-12-28",
 		"characters": [
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			}
 		],
@@ -5020,7 +5001,7 @@
 				"name": "Paul Jenkins"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -5039,7 +5020,7 @@
 		"date": "2006-02-01",
 		"characters": [
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			}
 		],
@@ -5049,7 +5030,7 @@
 				"name": "Paul Jenkins"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -5068,7 +5049,7 @@
 		"date": "2006-02-22",
 		"characters": [
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			}
 		],
@@ -5078,7 +5059,7 @@
 				"name": "Paul Jenkins"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -5097,7 +5078,7 @@
 		"date": "2006-03-29",
 		"characters": [
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			}
 		],
@@ -5107,7 +5088,7 @@
 				"name": "Paul Jenkins"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -5126,7 +5107,7 @@
 		"date": "2006-04-26",
 		"characters": [
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			}
 		],
@@ -5136,7 +5117,7 @@
 				"name": "Paul Jenkins"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -5155,33 +5136,33 @@
 		"date": "2005-07-20",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			},
 			{
-				"id": "057",
+				"id": "024",
 				"name": "Sam Wilson"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -5201,33 +5182,33 @@
 		"date": "2005-08-10",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			},
 			{
-				"id": "057",
+				"id": "024",
 				"name": "Sam Wilson"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -5247,33 +5228,33 @@
 		"date": "2005-10-26",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			},
 			{
-				"id": "057",
+				"id": "024",
 				"name": "Sam Wilson"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -5293,33 +5274,33 @@
 		"date": "2005-11-23",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			},
 			{
-				"id": "057",
+				"id": "024",
 				"name": "Sam Wilson"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -5339,33 +5320,33 @@
 		"date": "2005-12-21",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			},
 			{
-				"id": "057",
+				"id": "024",
 				"name": "Sam Wilson"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -5385,33 +5366,33 @@
 		"date": "2006-02-01",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			},
 			{
-				"id": "057",
+				"id": "024",
 				"name": "Sam Wilson"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -5431,33 +5412,33 @@
 		"date": "2005-05-25",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "160",
+				"id": "136",
 				"name": "Mike McKone"
 			}
 		],
@@ -5477,33 +5458,33 @@
 		"date": "2005-06-29",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "160",
+				"id": "136",
 				"name": "Mike McKone"
 			}
 		],
@@ -5523,33 +5504,33 @@
 		"date": "2005-07-27",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "160",
+				"id": "136",
 				"name": "Mike McKone"
 			}
 		],
@@ -5569,33 +5550,33 @@
 		"date": "2005-08-24",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "160",
+				"id": "136",
 				"name": "Mike McKone"
 			}
 		],
@@ -5615,33 +5596,33 @@
 		"date": "2005-09-28",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "160",
+				"id": "136",
 				"name": "Mike McKone"
 			}
 		],
@@ -5661,33 +5642,33 @@
 		"date": "2005-11-09",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "160",
+				"id": "136",
 				"name": "Mike McKone"
 			}
 		],
@@ -5707,37 +5688,37 @@
 		"date": "2005-12-21",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			},
 			{
-				"id": "050",
+				"id": "081",
 				"name": "Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "160",
+				"id": "136",
 				"name": "Mike McKone"
 			}
 		],
@@ -5757,37 +5738,37 @@
 		"date": "2006-02-01",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			},
 			{
-				"id": "050",
+				"id": "081",
 				"name": "Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "160",
+				"id": "136",
 				"name": "Mike McKone"
 			}
 		],
@@ -5807,37 +5788,37 @@
 		"date": "2006-02-22",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			},
 			{
-				"id": "050",
+				"id": "081",
 				"name": "Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "160",
+				"id": "136",
 				"name": "Mike McKone"
 			}
 		],
@@ -5857,17 +5838,17 @@
 		"date": "2005-11-16",
 		"characters": [
 			{
-				"id": "046",
+				"id": "034",
 				"name": "She-Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "058",
+				"id": "150",
 				"name": "Juan Bobillo"
 			}
 		],
@@ -5886,17 +5867,17 @@
 		"date": "2005-11-23",
 		"characters": [
 			{
-				"id": "046",
+				"id": "034",
 				"name": "She-Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "058",
+				"id": "150",
 				"name": "Juan Bobillo"
 			}
 		],
@@ -5915,17 +5896,17 @@
 		"date": "2005-12-28",
 		"characters": [
 			{
-				"id": "046",
+				"id": "034",
 				"name": "She-Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "058",
+				"id": "150",
 				"name": "Juan Bobillo"
 			}
 		],
@@ -5947,17 +5928,17 @@
 		"date": "2006-01-11",
 		"characters": [
 			{
-				"id": "046",
+				"id": "034",
 				"name": "She-Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "090",
+				"id": "164",
 				"name": "Scott Kolins"
 			}
 		],
@@ -5976,17 +5957,17 @@
 		"date": "2006-02-15",
 		"characters": [
 			{
-				"id": "046",
+				"id": "034",
 				"name": "She-Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "058",
+				"id": "150",
 				"name": "Juan Bobillo"
 			}
 		],
@@ -6005,17 +5986,17 @@
 		"date": "2006-03-22",
 		"characters": [
 			{
-				"id": "046",
+				"id": "034",
 				"name": "She-Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "161",
+				"id": "065",
 				"name": "Will Conrad"
 			}
 		],
@@ -6034,17 +6015,17 @@
 		"date": "2006-05-10",
 		"characters": [
 			{
-				"id": "046",
+				"id": "034",
 				"name": "She-Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "058",
+				"id": "150",
 				"name": "Juan Bobillo"
 			}
 		],
@@ -6063,17 +6044,17 @@
 		"date": "2005-10-12",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -6096,17 +6077,17 @@
 		"date": "2005-10-19",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "139",
+				"id": "255",
 				"name": "Pat Lee"
 			}
 		],
@@ -6126,17 +6107,17 @@
 		"date": "2005-10-26",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "079",
+				"id": "201",
 				"name": "Mike Deodato Jr"
 			}
 		],
@@ -6156,17 +6137,17 @@
 		"date": "2005-11-09",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -6186,17 +6167,17 @@
 		"date": "2005-11-16",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "139",
+				"id": "255",
 				"name": "Pat Lee"
 			}
 		],
@@ -6216,17 +6197,17 @@
 		"date": "2005-11-23",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "079",
+				"id": "201",
 				"name": "Mike Deodato Jr"
 			}
 		],
@@ -6246,17 +6227,17 @@
 		"date": "2005-12-07",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -6276,17 +6257,17 @@
 		"date": "2005-12-14",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "139",
+				"id": "255",
 				"name": "Pat Lee"
 			}
 		],
@@ -6306,17 +6287,17 @@
 		"date": "2005-12-28",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "079",
+				"id": "201",
 				"name": "Mike Deodato Jr"
 			}
 		],
@@ -6336,17 +6317,17 @@
 		"date": "2006-01-18",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -6366,17 +6347,17 @@
 		"date": "2006-01-18",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "139",
+				"id": "255",
 				"name": "Pat Lee"
 			}
 		],
@@ -6396,17 +6377,17 @@
 		"date": "2006-01-25",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "079",
+				"id": "201",
 				"name": "Mike Deodato Jr"
 			}
 		],
@@ -6426,25 +6407,25 @@
 		"date": "2006-12-13",
 		"characters": [
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "162",
+				"id": "273",
 				"name": "Michael Choi"
 			}
 		],
@@ -6463,25 +6444,25 @@
 		"date": "2007-01-03",
 		"characters": [
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "162",
+				"id": "273",
 				"name": "Michael Choi"
 			}
 		],
@@ -6500,25 +6481,25 @@
 		"date": "2007-02-07",
 		"characters": [
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "162",
+				"id": "273",
 				"name": "Michael Choi"
 			}
 		],
@@ -6537,25 +6518,25 @@
 		"date": "2007-03-21",
 		"characters": [
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "162",
+				"id": "273",
 				"name": "Michael Choi"
 			}
 		],
@@ -6574,25 +6555,25 @@
 		"date": "2007-04-18",
 		"characters": [
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "162",
+				"id": "273",
 				"name": "Michael Choi"
 			}
 		],
@@ -6611,25 +6592,25 @@
 		"date": "2007-05-30",
 		"characters": [
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "162",
+				"id": "273",
 				"name": "Michael Choi"
 			}
 		],
@@ -6648,17 +6629,17 @@
 		"date": "2006-10-04",
 		"characters": [
 			{
-				"id": "024",
+				"id": "063",
 				"name": "Doctor Strange"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "163",
+				"id": "274",
 				"name": "Marcos Martin"
 			}
 		],
@@ -6677,17 +6658,17 @@
 		"date": "2006-11-08",
 		"characters": [
 			{
-				"id": "024",
+				"id": "063",
 				"name": "Doctor Strange"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "163",
+				"id": "274",
 				"name": "Marcos Martin"
 			}
 		],
@@ -6706,17 +6687,17 @@
 		"date": "2006-12-06",
 		"characters": [
 			{
-				"id": "024",
+				"id": "063",
 				"name": "Doctor Strange"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "163",
+				"id": "274",
 				"name": "Marcos Martin"
 			}
 		],
@@ -6735,17 +6716,17 @@
 		"date": "2007-01-24",
 		"characters": [
 			{
-				"id": "024",
+				"id": "063",
 				"name": "Doctor Strange"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "163",
+				"id": "274",
 				"name": "Marcos Martin"
 			}
 		],
@@ -6764,17 +6745,17 @@
 		"date": "2007-02-28",
 		"characters": [
 			{
-				"id": "024",
+				"id": "063",
 				"name": "Doctor Strange"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "163",
+				"id": "274",
 				"name": "Marcos Martin"
 			}
 		],
@@ -6793,29 +6774,29 @@
 		"date": "2005-08-24",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "006",
+				"id": "007",
 				"name": "Black Widow"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -6835,29 +6816,29 @@
 		"date": "2005-09-28",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "006",
+				"id": "007",
 				"name": "Black Widow"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -6877,29 +6858,29 @@
 		"date": "2005-10-26",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "006",
+				"id": "007",
 				"name": "Black Widow"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -6919,29 +6900,29 @@
 		"date": "2005-11-23",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "006",
+				"id": "007",
 				"name": "Black Widow"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -6961,29 +6942,29 @@
 		"date": "2005-12-28",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "006",
+				"id": "007",
 				"name": "Black Widow"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -7003,29 +6984,29 @@
 		"date": "2006-01-25",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "006",
+				"id": "007",
 				"name": "Black Widow"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -7048,17 +7029,17 @@
 		"date": "2005-11-09",
 		"characters": [
 			{
-				"id": "050",
+				"id": "081",
 				"name": "Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "164",
+				"id": "275",
 				"name": "Keu Cha"
 			}
 		],
@@ -7081,17 +7062,17 @@
 		"date": "2005-11-30",
 		"characters": [
 			{
-				"id": "050",
+				"id": "081",
 				"name": "Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "164",
+				"id": "275",
 				"name": "Keu Cha"
 			}
 		],
@@ -7111,17 +7092,17 @@
 		"date": "2005-12-21",
 		"characters": [
 			{
-				"id": "050",
+				"id": "081",
 				"name": "Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "165",
+				"id": "276",
 				"name": "Juan Santa Cruz"
 			}
 		],
@@ -7141,17 +7122,17 @@
 		"date": "2006-01-18",
 		"characters": [
 			{
-				"id": "050",
+				"id": "081",
 				"name": "Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "165",
+				"id": "276",
 				"name": "Juan Santa Cruz"
 			}
 		],
@@ -7171,33 +7152,33 @@
 		"date": "2006-03-15",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "073",
+				"id": "168",
 				"name": "Mizuki Sakakibara"
 			}
 		],
@@ -7216,33 +7197,33 @@
 		"date": "2006-04-26",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "166",
+				"id": "277",
 				"name": "Clay Mann"
 			}
 		],
@@ -7261,33 +7242,33 @@
 		"date": "2006-06-14",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "166",
+				"id": "277",
 				"name": "Clay Mann"
 			}
 		],
@@ -7306,41 +7287,41 @@
 		"date": "2005-11-23",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "035",
+				"id": "126",
 				"name": "Chris Bachalo"
 			}
 		],
@@ -7359,41 +7340,41 @@
 		"date": "2005-12-14",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "035",
+				"id": "126",
 				"name": "Chris Bachalo"
 			}
 		],
@@ -7412,41 +7393,41 @@
 		"date": "2006-01-18",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "035",
+				"id": "126",
 				"name": "Chris Bachalo"
 			}
 		],
@@ -7465,41 +7446,41 @@
 		"date": "2006-02-01",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -7518,41 +7499,41 @@
 		"date": "2006-03-01",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -7571,41 +7552,41 @@
 		"date": "2006-03-29",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -7624,17 +7605,17 @@
 		"date": "2005-11-30",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "142",
+				"id": "258",
 				"name": "Javier Saltares"
 			}
 		],
@@ -7656,17 +7637,17 @@
 		"date": "2005-12-28",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "142",
+				"id": "258",
 				"name": "Javier Saltares"
 			}
 		],
@@ -7685,17 +7666,17 @@
 		"date": "2006-01-25",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "142",
+				"id": "258",
 				"name": "Javier Saltares"
 			}
 		],
@@ -7714,17 +7695,17 @@
 		"date": "2006-02-22",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "142",
+				"id": "258",
 				"name": "Javier Saltares"
 			}
 		],
@@ -7743,17 +7724,17 @@
 		"date": "2006-03-22",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "142",
+				"id": "258",
 				"name": "Javier Saltares"
 			}
 		],
@@ -7772,21 +7753,21 @@
 		"date": "2006-04-19",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "125",
+				"id": "143",
 				"name": "Daken"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -7805,21 +7786,21 @@
 		"date": "2006-05-17",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "125",
+				"id": "143",
 				"name": "Daken"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -7838,21 +7819,21 @@
 		"date": "2006-06-14",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "125",
+				"id": "143",
 				"name": "Daken"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -7871,21 +7852,21 @@
 		"date": "2006-07-12",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "125",
+				"id": "143",
 				"name": "Daken"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -7904,21 +7885,21 @@
 		"date": "2006-08-09",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "125",
+				"id": "143",
 				"name": "Daken"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -7937,21 +7918,21 @@
 		"date": "2006-09-13",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "125",
+				"id": "143",
 				"name": "Daken"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -7970,21 +7951,21 @@
 		"date": "2006-10-11",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "125",
+				"id": "143",
 				"name": "Daken"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -8003,21 +7984,21 @@
 		"date": "2006-11-08",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "125",
+				"id": "143",
 				"name": "Daken"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -8036,21 +8017,21 @@
 		"date": "2006-12-27",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "125",
+				"id": "143",
 				"name": "Daken"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -8069,21 +8050,21 @@
 		"date": "2007-01-10",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "125",
+				"id": "143",
 				"name": "Daken"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -8102,21 +8083,21 @@
 		"date": "2007-02-14",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "125",
+				"id": "143",
 				"name": "Daken"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -8135,21 +8116,21 @@
 		"date": "2007-03-14",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "125",
+				"id": "143",
 				"name": "Daken"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -8168,21 +8149,21 @@
 		"date": "2007-04-11",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "125",
+				"id": "143",
 				"name": "Daken"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -8201,21 +8182,21 @@
 		"date": "2007-05-09",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "125",
+				"id": "143",
 				"name": "Daken"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -8234,21 +8215,21 @@
 		"date": "2007-06-27",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "125",
+				"id": "143",
 				"name": "Daken"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -8267,21 +8248,21 @@
 		"date": "2005-12-21",
 		"characters": [
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "167",
+				"id": "278",
 				"name": "Jonathan Luna"
 			}
 		],
@@ -8303,21 +8284,21 @@
 		"date": "2006-01-18",
 		"characters": [
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "167",
+				"id": "278",
 				"name": "Jonathan Luna"
 			}
 		],
@@ -8336,21 +8317,21 @@
 		"date": "2006-02-15",
 		"characters": [
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "167",
+				"id": "278",
 				"name": "Jonathan Luna"
 			}
 		],
@@ -8369,21 +8350,21 @@
 		"date": "2006-03-15",
 		"characters": [
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "167",
+				"id": "278",
 				"name": "Jonathan Luna"
 			}
 		],
@@ -8402,21 +8383,21 @@
 		"date": "2006-04-19",
 		"characters": [
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "167",
+				"id": "278",
 				"name": "Jonathan Luna"
 			}
 		],
@@ -8435,21 +8416,21 @@
 		"date": "2005-09-07",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
@@ -8468,21 +8449,21 @@
 		"date": "2005-09-28",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
@@ -8501,21 +8482,21 @@
 		"date": "2005-10-12",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
@@ -8534,21 +8515,21 @@
 		"date": "2005-11-09",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
@@ -8567,21 +8548,21 @@
 		"date": "2005-12-14",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
@@ -8600,21 +8581,21 @@
 		"date": "2006-01-11",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
@@ -8633,21 +8614,21 @@
 		"date": "2006-02-08",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "097",
+				"id": "198",
 				"name": "Lan Medina"
 			}
 		],
@@ -8666,21 +8647,21 @@
 		"date": "2006-03-08",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "097",
+				"id": "198",
 				"name": "Lan Medina"
 			}
 		],
@@ -8699,21 +8680,21 @@
 		"date": "2006-04-12",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "097",
+				"id": "198",
 				"name": "Lan Medina"
 			}
 		],
@@ -8732,21 +8713,21 @@
 		"date": "2006-05-10",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "097",
+				"id": "198",
 				"name": "Lan Medina"
 			}
 		],
@@ -8765,21 +8746,21 @@
 		"date": "2006-06-14",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "168",
+				"id": "279",
 				"name": "Reilly Brown"
 			}
 		],
@@ -8798,25 +8779,25 @@
 		"date": "2005-06-08",
 		"characters": [
 			{
-				"id": "126",
+				"id": "043",
 				"name": "New Warriors"
 			},
 			{
-				"id": "097",
+				"id": "045",
 				"name": "Speedball"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			}
 		],
 		"creators": [
 			{
-				"id": "169",
+				"id": "280",
 				"name": "Zeb Wells"
 			},
 			{
-				"id": "170",
+				"id": "167",
 				"name": "Skottie Young"
 			}
 		],
@@ -8835,25 +8816,25 @@
 		"date": "2005-07-13",
 		"characters": [
 			{
-				"id": "126",
+				"id": "043",
 				"name": "New Warriors"
 			},
 			{
-				"id": "097",
+				"id": "045",
 				"name": "Speedball"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			}
 		],
 		"creators": [
 			{
-				"id": "169",
+				"id": "280",
 				"name": "Zeb Wells"
 			},
 			{
-				"id": "170",
+				"id": "167",
 				"name": "Skottie Young"
 			}
 		],
@@ -8872,25 +8853,25 @@
 		"date": "2005-08-10",
 		"characters": [
 			{
-				"id": "126",
+				"id": "043",
 				"name": "New Warriors"
 			},
 			{
-				"id": "097",
+				"id": "045",
 				"name": "Speedball"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			}
 		],
 		"creators": [
 			{
-				"id": "169",
+				"id": "280",
 				"name": "Zeb Wells"
 			},
 			{
-				"id": "170",
+				"id": "167",
 				"name": "Skottie Young"
 			}
 		],
@@ -8909,25 +8890,25 @@
 		"date": "2005-09-28",
 		"characters": [
 			{
-				"id": "126",
+				"id": "043",
 				"name": "New Warriors"
 			},
 			{
-				"id": "097",
+				"id": "045",
 				"name": "Speedball"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			}
 		],
 		"creators": [
 			{
-				"id": "169",
+				"id": "280",
 				"name": "Zeb Wells"
 			},
 			{
-				"id": "170",
+				"id": "167",
 				"name": "Skottie Young"
 			}
 		],
@@ -8946,25 +8927,25 @@
 		"date": "2005-11-09",
 		"characters": [
 			{
-				"id": "126",
+				"id": "043",
 				"name": "New Warriors"
 			},
 			{
-				"id": "097",
+				"id": "045",
 				"name": "Speedball"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			}
 		],
 		"creators": [
 			{
-				"id": "169",
+				"id": "280",
 				"name": "Zeb Wells"
 			},
 			{
-				"id": "170",
+				"id": "167",
 				"name": "Skottie Young"
 			}
 		],
@@ -8983,25 +8964,25 @@
 		"date": "2005-12-07",
 		"characters": [
 			{
-				"id": "126",
+				"id": "043",
 				"name": "New Warriors"
 			},
 			{
-				"id": "097",
+				"id": "045",
 				"name": "Speedball"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			}
 		],
 		"creators": [
 			{
-				"id": "169",
+				"id": "280",
 				"name": "Zeb Wells"
 			},
 			{
-				"id": "170",
+				"id": "167",
 				"name": "Skottie Young"
 			}
 		],
@@ -9020,25 +9001,25 @@
 		"date": "2005-09-14",
 		"characters": [
 			{
-				"id": "027",
+				"id": "065",
 				"name": "Jessica Jones"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "021",
+				"id": "105",
 				"name": "Michael Gaydos"
 			}
 		],
@@ -9058,25 +9039,25 @@
 		"date": "2005-11-09",
 		"characters": [
 			{
-				"id": "027",
+				"id": "065",
 				"name": "Jessica Jones"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "021",
+				"id": "105",
 				"name": "Michael Gaydos"
 			}
 		],
@@ -9096,25 +9077,25 @@
 		"date": "2006-01-25",
 		"characters": [
 			{
-				"id": "027",
+				"id": "065",
 				"name": "Jessica Jones"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "021",
+				"id": "105",
 				"name": "Michael Gaydos"
 			}
 		],
@@ -9137,25 +9118,25 @@
 		"date": "2006-03-08",
 		"characters": [
 			{
-				"id": "027",
+				"id": "065",
 				"name": "Jessica Jones"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "021",
+				"id": "105",
 				"name": "Michael Gaydos"
 			}
 		],
@@ -9175,17 +9156,17 @@
 		"date": "2006-02-22",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -9205,25 +9186,25 @@
 		"date": "2006-03-22",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -9243,25 +9224,25 @@
 		"date": "2006-04-19",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -9281,25 +9262,25 @@
 		"date": "2006-05-17",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -9319,25 +9300,25 @@
 		"date": "2006-06-21",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -9357,25 +9338,25 @@
 		"date": "2006-07-26",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -9395,25 +9376,25 @@
 		"date": "2006-09-13",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -9433,25 +9414,25 @@
 		"date": "2006-02-15",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "009",
+				"id": "011",
 				"name": "Punisher"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "117",
+				"id": "240",
 				"name": "Michael Lark"
 			}
 		],
@@ -9471,25 +9452,25 @@
 		"date": "2006-03-22",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "009",
+				"id": "011",
 				"name": "Punisher"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "117",
+				"id": "240",
 				"name": "Michael Lark"
 			}
 		],
@@ -9509,25 +9490,25 @@
 		"date": "2006-04-19",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "009",
+				"id": "011",
 				"name": "Punisher"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "117",
+				"id": "240",
 				"name": "Michael Lark"
 			}
 		],
@@ -9547,25 +9528,25 @@
 		"date": "2006-05-24",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "009",
+				"id": "011",
 				"name": "Punisher"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "117",
+				"id": "240",
 				"name": "Michael Lark"
 			}
 		],
@@ -9585,25 +9566,25 @@
 		"date": "2006-06-28",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "009",
+				"id": "011",
 				"name": "Punisher"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "117",
+				"id": "240",
 				"name": "Michael Lark"
 			}
 		],
@@ -9623,25 +9604,25 @@
 		"date": "2006-07-26",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "009",
+				"id": "011",
 				"name": "Punisher"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "117",
+				"id": "240",
 				"name": "Michael Lark"
 			}
 		],
@@ -9664,37 +9645,37 @@
 		"date": "2007-04-11",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "171",
+				"id": "281",
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -9713,37 +9694,37 @@
 		"date": "2007-05-09",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "171",
+				"id": "281",
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -9762,37 +9743,37 @@
 		"date": "2007-06-20",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "171",
+				"id": "281",
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -9811,37 +9792,37 @@
 		"date": "2007-08-01",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "171",
+				"id": "281",
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -9860,21 +9841,21 @@
 		"date": "2006-01-18",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "054",
+				"id": "094",
 				"name": "Black Cat"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "172",
+				"id": "282",
 				"name": "Angel Medina"
 			}
 		],
@@ -9896,21 +9877,21 @@
 		"date": "2006-03-08",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "054",
+				"id": "094",
 				"name": "Black Cat"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "172",
+				"id": "282",
 				"name": "Angel Medina"
 			}
 		],
@@ -9929,21 +9910,21 @@
 		"date": "2006-04-19",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "054",
+				"id": "094",
 				"name": "Black Cat"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "172",
+				"id": "282",
 				"name": "Angel Medina"
 			}
 		],
@@ -9962,21 +9943,21 @@
 		"date": "2006-05-24",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "054",
+				"id": "094",
 				"name": "Black Cat"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "173",
+				"id": "283",
 				"name": "Clayton Crain"
 			}
 		],
@@ -9995,21 +9976,21 @@
 		"date": "2006-06-14",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "054",
+				"id": "094",
 				"name": "Black Cat"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "172",
+				"id": "282",
 				"name": "Angel Medina"
 			}
 		],
@@ -10028,17 +10009,17 @@
 		"date": "2005-11-30",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
@@ -10057,17 +10038,17 @@
 		"date": "2005-12-28",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
@@ -10086,17 +10067,17 @@
 		"date": "2006-01-25",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
@@ -10115,17 +10096,17 @@
 		"date": "2006-02-22",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
@@ -10144,21 +10125,21 @@
 		"date": "2006-03-22",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
@@ -10177,21 +10158,21 @@
 		"date": "2006-04-26",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
@@ -10210,21 +10191,21 @@
 		"date": "2006-05-24",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
@@ -10243,21 +10224,21 @@
 		"date": "2006-06-28",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "087",
+				"id": "224",
 				"name": "Scot Eaton"
 			}
 		],
@@ -10276,37 +10257,37 @@
 		"date": "2006-04-12",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "035",
+				"id": "126",
 				"name": "Chris Bachalo"
 			}
 		],
@@ -10325,37 +10306,37 @@
 		"date": "2006-05-10",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "156",
+				"id": "270",
 				"name": "Roger Cruz"
 			}
 		],
@@ -10374,37 +10355,37 @@
 		"date": "2006-06-21",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			}
 		],
 		"creators": [
 			{
-				"id": "118",
+				"id": "194",
 				"name": "Tony Bedard"
 			},
 			{
-				"id": "156",
+				"id": "270",
 				"name": "Roger Cruz"
 			}
 		],
@@ -10423,37 +10404,37 @@
 		"date": "2006-06-21",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "135",
+				"id": "166",
 				"name": "Clayton Henry"
 			}
 		],
@@ -10472,17 +10453,17 @@
 		"date": "2006-03-01",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -10501,17 +10482,17 @@
 		"date": "2006-03-15",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "156",
+				"id": "270",
 				"name": "Roger Cruz"
 			}
 		],
@@ -10530,17 +10511,17 @@
 		"date": "2006-04-12",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "156",
+				"id": "270",
 				"name": "Roger Cruz"
 			}
 		],
@@ -10559,17 +10540,17 @@
 		"date": "2006-05-03",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -10588,17 +10569,17 @@
 		"date": "2006-06-07",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -10617,17 +10598,17 @@
 		"date": "2006-07-19",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -10646,30 +10627,27 @@
 		"date": "2006-04-19",
 		"characters": [
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "174",
+				"id": "284",
 				"name": "Charles Knauf"
 			},
 			{
-				"id": "175",
+				"id": "285",
 				"name": "Daniel Knauf"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f8479d44fd50.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": [
-			"Translated"
-		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -10683,30 +10661,27 @@
 		"date": "2006-05-24",
 		"characters": [
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "174",
+				"id": "284",
 				"name": "Charles Knauf"
 			},
 			{
-				"id": "175",
+				"id": "285",
 				"name": "Daniel Knauf"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4d24e83a5b5d5.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": [
-			"Translated"
-		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -10720,30 +10695,27 @@
 		"date": "2006-06-21",
 		"characters": [
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "174",
+				"id": "284",
 				"name": "Charles Knauf"
 			},
 			{
-				"id": "175",
+				"id": "285",
 				"name": "Daniel Knauf"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4d24dea0ce8e1.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": [
-			"Translated"
-		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -10757,30 +10729,27 @@
 		"date": "2006-07-12",
 		"characters": [
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "174",
+				"id": "284",
 				"name": "Charles Knauf"
 			},
 			{
-				"id": "175",
+				"id": "285",
 				"name": "Daniel Knauf"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/4d25153f18362.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": [
-			"Translated"
-		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -10794,30 +10763,27 @@
 		"date": "2006-08-16",
 		"characters": [
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "174",
+				"id": "284",
 				"name": "Charles Knauf"
 			},
 			{
-				"id": "175",
+				"id": "285",
 				"name": "Daniel Knauf"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/4d250b7077707.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": [
-			"Translated"
-		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -10831,30 +10797,27 @@
 		"date": "2006-09-20",
 		"characters": [
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "174",
+				"id": "284",
 				"name": "Charles Knauf"
 			},
 			{
-				"id": "175",
+				"id": "285",
 				"name": "Daniel Knauf"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4d2515cda44ae.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": [
-			"Translated"
-		],
 		"phaseid": "005",
 		"phasename": "Decimation",
 		"sortid": "052"
@@ -10868,53 +10831,53 @@
 		"date": "2006-02-22",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "091",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "092",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "070",
+				"id": "208",
 				"name": "Steve McNiven"
 			}
 		],
@@ -10934,53 +10897,53 @@
 		"date": "2006-03-22",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "091",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "092",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "079",
+				"id": "201",
 				"name": "Mike Deodato Jr"
 			}
 		],
@@ -11000,53 +10963,53 @@
 		"date": "2006-04-19",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "091",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "092",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "079",
+				"id": "201",
 				"name": "Mike Deodato Jr"
 			}
 		],
@@ -11066,53 +11029,53 @@
 		"date": "2006-05-17",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "091",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "092",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "079",
+				"id": "201",
 				"name": "Mike Deodato Jr"
 			}
 		],
@@ -11132,53 +11095,53 @@
 		"date": "2006-06-21",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "091",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "092",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "079",
+				"id": "201",
 				"name": "Mike Deodato Jr"
 			}
 		],
@@ -11198,49 +11161,49 @@
 		"date": "2006-04-26",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "027",
+				"id": "065",
 				"name": "Jessica Jones"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "093",
+				"id": "218",
 				"name": "Olivier Coipel"
 			}
 		],
@@ -11260,61 +11223,61 @@
 		"date": "2006-02-08",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			},
 			{
-				"id": "048",
+				"id": "087",
 				"name": "Gambit"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "049",
+				"id": "088",
 				"name": "Mystique"
 			},
 			{
-				"id": "128",
+				"id": "071",
 				"name": "Apocalypse"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "137",
+				"id": "182",
 				"name": "Salvador Larroca"
 			}
 		],
@@ -11333,61 +11296,61 @@
 		"date": "2006-02-22",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			},
 			{
-				"id": "048",
+				"id": "087",
 				"name": "Gambit"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "049",
+				"id": "088",
 				"name": "Mystique"
 			},
 			{
-				"id": "128",
+				"id": "071",
 				"name": "Apocalypse"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "137",
+				"id": "182",
 				"name": "Salvador Larroca"
 			}
 		],
@@ -11406,61 +11369,61 @@
 		"date": "2006-03-22",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			},
 			{
-				"id": "048",
+				"id": "087",
 				"name": "Gambit"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "049",
+				"id": "088",
 				"name": "Mystique"
 			},
 			{
-				"id": "128",
+				"id": "071",
 				"name": "Apocalypse"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "137",
+				"id": "182",
 				"name": "Salvador Larroca"
 			}
 		],
@@ -11479,61 +11442,61 @@
 		"date": "2006-04-19",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			},
 			{
-				"id": "048",
+				"id": "087",
 				"name": "Gambit"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "049",
+				"id": "088",
 				"name": "Mystique"
 			},
 			{
-				"id": "128",
+				"id": "071",
 				"name": "Apocalypse"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "137",
+				"id": "182",
 				"name": "Salvador Larroca"
 			}
 		],
@@ -11552,61 +11515,61 @@
 		"date": "2006-05-17",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			},
 			{
-				"id": "048",
+				"id": "087",
 				"name": "Gambit"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "049",
+				"id": "088",
 				"name": "Mystique"
 			},
 			{
-				"id": "128",
+				"id": "071",
 				"name": "Apocalypse"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "137",
+				"id": "182",
 				"name": "Salvador Larroca"
 			}
 		],
@@ -11625,61 +11588,61 @@
 		"date": "2006-06-28",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			},
 			{
-				"id": "048",
+				"id": "087",
 				"name": "Gambit"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "049",
+				"id": "088",
 				"name": "Mystique"
 			},
 			{
-				"id": "128",
+				"id": "071",
 				"name": "Apocalypse"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "137",
+				"id": "182",
 				"name": "Salvador Larroca"
 			}
 		],
@@ -11698,45 +11661,45 @@
 		"date": "2006-05-24",
 		"characters": [
 			{
-				"id": "074",
+				"id": "105",
 				"name": "X-Factor"
 			},
 			{
-				"id": "075",
+				"id": "106",
 				"name": "Madrox"
 			},
 			{
-				"id": "116",
+				"id": "135",
 				"name": "Siryn"
 			},
 			{
-				"id": "076",
+				"id": "107",
 				"name": "Strong Guy"
 			},
 			{
-				"id": "077",
+				"id": "108",
 				"name": "Wolfsbane"
 			},
 			{
-				"id": "111",
+				"id": "132",
 				"name": "Layla Miller"
 			},
 			{
-				"id": "117",
+				"id": "136",
 				"name": "Rictor"
 			},
 			{
-				"id": "118",
+				"id": "137",
 				"name": "Monet"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "176",
+				"id": "286",
 				"name": "Ariel Olivetti"
 			}
 		],
@@ -11755,45 +11718,45 @@
 		"date": "2006-07-05",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -11813,45 +11776,45 @@
 		"date": "2006-07-19",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -11871,45 +11834,45 @@
 		"date": "2006-08-02",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "135",
+				"id": "166",
 				"name": "Clayton Henry"
 			}
 		],
@@ -11929,45 +11892,45 @@
 		"date": "2006-09-06",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -11987,45 +11950,45 @@
 		"date": "2006-10-11",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -12045,45 +12008,45 @@
 		"date": "2006-11-01",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "135",
+				"id": "166",
 				"name": "Clayton Henry"
 			}
 		],
@@ -12103,45 +12066,45 @@
 		"date": "2006-12-06",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -12161,45 +12124,45 @@
 		"date": "2007-01-03",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -12219,45 +12182,45 @@
 		"date": "2007-02-07",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "135",
+				"id": "166",
 				"name": "Clayton Henry"
 			}
 		],
@@ -12277,45 +12240,45 @@
 		"date": "2007-03-07",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -12335,45 +12298,45 @@
 		"date": "2007-04-11",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -12393,45 +12356,45 @@
 		"date": "2007-05-16",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "034",
+				"id": "074",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			},
 			{
-				"id": "119",
+				"id": "138",
 				"name": "Vulcan"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -12454,17 +12417,17 @@
 		"date": "2006-04-05",
 		"characters": [
 			{
-				"id": "011",
+				"id": "013",
 				"name": "Moon Knight"
 			}
 		],
 		"creators": [
 			{
-				"id": "177",
+				"id": "287",
 				"name": "Charlie Huston"
 			},
 			{
-				"id": "085",
+				"id": "222",
 				"name": "David Finch"
 			}
 		],
@@ -12486,17 +12449,17 @@
 		"date": "2006-05-17",
 		"characters": [
 			{
-				"id": "011",
+				"id": "013",
 				"name": "Moon Knight"
 			}
 		],
 		"creators": [
 			{
-				"id": "177",
+				"id": "287",
 				"name": "Charlie Huston"
 			},
 			{
-				"id": "085",
+				"id": "222",
 				"name": "David Finch"
 			}
 		],
@@ -12515,17 +12478,17 @@
 		"date": "2006-06-28",
 		"characters": [
 			{
-				"id": "011",
+				"id": "013",
 				"name": "Moon Knight"
 			}
 		],
 		"creators": [
 			{
-				"id": "177",
+				"id": "287",
 				"name": "Charlie Huston"
 			},
 			{
-				"id": "085",
+				"id": "222",
 				"name": "David Finch"
 			}
 		],
@@ -12544,17 +12507,17 @@
 		"date": "2006-08-02",
 		"characters": [
 			{
-				"id": "011",
+				"id": "013",
 				"name": "Moon Knight"
 			}
 		],
 		"creators": [
 			{
-				"id": "177",
+				"id": "287",
 				"name": "Charlie Huston"
 			},
 			{
-				"id": "085",
+				"id": "222",
 				"name": "David Finch"
 			}
 		],
@@ -12573,17 +12536,17 @@
 		"date": "2006-09-20",
 		"characters": [
 			{
-				"id": "011",
+				"id": "013",
 				"name": "Moon Knight"
 			}
 		],
 		"creators": [
 			{
-				"id": "177",
+				"id": "287",
 				"name": "Charlie Huston"
 			},
 			{
-				"id": "085",
+				"id": "222",
 				"name": "David Finch"
 			}
 		],
@@ -12602,17 +12565,17 @@
 		"date": "2006-11-15",
 		"characters": [
 			{
-				"id": "011",
+				"id": "013",
 				"name": "Moon Knight"
 			}
 		],
 		"creators": [
 			{
-				"id": "177",
+				"id": "287",
 				"name": "Charlie Huston"
 			},
 			{
-				"id": "085",
+				"id": "222",
 				"name": "David Finch"
 			}
 		],
@@ -12633,41 +12596,41 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			},
 			{
-				"id": "123",
+				"id": "141",
 				"name": "Drax"
 			},
 			{
-				"id": "129",
+				"id": "048",
 				"name": "Ronan"
 			},
 			{
-				"id": "130",
+				"id": "089",
 				"name": "Silver Surfer"
 			},
 			{
-				"id": "131",
+				"id": "144",
 				"name": "Super-Skrull"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "090",
+				"id": "164",
 				"name": "Scott Kolins"
 			}
 		],
@@ -12692,33 +12655,33 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			},
 			{
-				"id": "123",
+				"id": "141",
 				"name": "Drax"
 			},
 			{
-				"id": "132",
+				"id": "031",
 				"name": "Quasar"
 			}
 		],
 		"creators": [
 			{
-				"id": "178",
+				"id": "288",
 				"name": "Dan Abnett"
 			},
 			{
-				"id": "179",
+				"id": "289",
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "180",
+				"id": "165",
 				"name": "Kev Walker"
 			}
 		],
@@ -12740,33 +12703,33 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			},
 			{
-				"id": "123",
+				"id": "141",
 				"name": "Drax"
 			},
 			{
-				"id": "132",
+				"id": "031",
 				"name": "Quasar"
 			}
 		],
 		"creators": [
 			{
-				"id": "178",
+				"id": "288",
 				"name": "Dan Abnett"
 			},
 			{
-				"id": "179",
+				"id": "289",
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "180",
+				"id": "165",
 				"name": "Kev Walker"
 			}
 		],
@@ -12788,33 +12751,33 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			},
 			{
-				"id": "123",
+				"id": "141",
 				"name": "Drax"
 			},
 			{
-				"id": "132",
+				"id": "031",
 				"name": "Quasar"
 			}
 		],
 		"creators": [
 			{
-				"id": "178",
+				"id": "288",
 				"name": "Dan Abnett"
 			},
 			{
-				"id": "179",
+				"id": "289",
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "180",
+				"id": "165",
 				"name": "Kev Walker"
 			}
 		],
@@ -12836,33 +12799,33 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			},
 			{
-				"id": "123",
+				"id": "141",
 				"name": "Drax"
 			},
 			{
-				"id": "132",
+				"id": "031",
 				"name": "Quasar"
 			}
 		],
 		"creators": [
 			{
-				"id": "178",
+				"id": "288",
 				"name": "Dan Abnett"
 			},
 			{
-				"id": "179",
+				"id": "289",
 				"name": "Andy Lanning"
 			},
 			{
-				"id": "180",
+				"id": "165",
 				"name": "Kev Walker"
 			}
 		],
@@ -12884,21 +12847,21 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "131",
+				"id": "144",
 				"name": "Super-Skrull"
 			}
 		],
 		"creators": [
 			{
-				"id": "181",
+				"id": "290",
 				"name": "Javier Grillo-Marxuach"
 			},
 			{
-				"id": "182",
+				"id": "291",
 				"name": "Greg Titus"
 			}
 		],
@@ -12920,21 +12883,21 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "131",
+				"id": "144",
 				"name": "Super-Skrull"
 			}
 		],
 		"creators": [
 			{
-				"id": "181",
+				"id": "290",
 				"name": "Javier Grillo-Marxuach"
 			},
 			{
-				"id": "182",
+				"id": "291",
 				"name": "Greg Titus"
 			}
 		],
@@ -12956,21 +12919,21 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "131",
+				"id": "144",
 				"name": "Super-Skrull"
 			}
 		],
 		"creators": [
 			{
-				"id": "181",
+				"id": "290",
 				"name": "Javier Grillo-Marxuach"
 			},
 			{
-				"id": "182",
+				"id": "291",
 				"name": "Greg Titus"
 			}
 		],
@@ -12992,21 +12955,21 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "131",
+				"id": "144",
 				"name": "Super-Skrull"
 			}
 		],
 		"creators": [
 			{
-				"id": "181",
+				"id": "290",
 				"name": "Javier Grillo-Marxuach"
 			},
 			{
-				"id": "182",
+				"id": "291",
 				"name": "Greg Titus"
 			}
 		],
@@ -13028,29 +12991,29 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "130",
+				"id": "089",
 				"name": "Silver Surfer"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "183",
+				"id": "292",
 				"name": "Renato Arlem"
 			}
 		],
@@ -13072,29 +13035,29 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "130",
+				"id": "089",
 				"name": "Silver Surfer"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "183",
+				"id": "292",
 				"name": "Renato Arlem"
 			}
 		],
@@ -13116,29 +13079,29 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "130",
+				"id": "089",
 				"name": "Silver Surfer"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "183",
+				"id": "292",
 				"name": "Renato Arlem"
 			}
 		],
@@ -13160,29 +13123,29 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "130",
+				"id": "089",
 				"name": "Silver Surfer"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "183",
+				"id": "292",
 				"name": "Renato Arlem"
 			}
 		],
@@ -13204,37 +13167,37 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "129",
+				"id": "048",
 				"name": "Ronan"
 			},
 			{
-				"id": "021",
+				"id": "061",
 				"name": "Gamora"
 			}
 		],
 		"creators": [
 			{
-				"id": "115",
+				"id": "239",
 				"name": "Gabriele Dell'Otto"
 			},
 			{
-				"id": "184",
+				"id": "293",
 				"name": "Simon Furman"
 			},
 			{
-				"id": "185",
+				"id": "294",
 				"name": "Jorge Pereira Lucas"
 			},
 			{
-				"id": "186",
+				"id": "295",
 				"name": "Dave McCaig"
 			},
 			{
-				"id": "187",
+				"id": "188",
 				"name": "Cory Petit"
 			}
 		],
@@ -13256,37 +13219,37 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "129",
+				"id": "048",
 				"name": "Ronan"
 			},
 			{
-				"id": "021",
+				"id": "061",
 				"name": "Gamora"
 			}
 		],
 		"creators": [
 			{
-				"id": "188",
+				"id": "296",
 				"name": "Joe Caramagna"
 			},
 			{
-				"id": "115",
+				"id": "239",
 				"name": "Gabriele Dell'Otto"
 			},
 			{
-				"id": "184",
+				"id": "293",
 				"name": "Simon Furman"
 			},
 			{
-				"id": "185",
+				"id": "294",
 				"name": "Jorge Pereira Lucas"
 			},
 			{
-				"id": "186",
+				"id": "295",
 				"name": "Dave McCaig"
 			}
 		],
@@ -13308,33 +13271,33 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "129",
+				"id": "048",
 				"name": "Ronan"
 			},
 			{
-				"id": "021",
+				"id": "061",
 				"name": "Gamora"
 			}
 		],
 		"creators": [
 			{
-				"id": "188",
+				"id": "296",
 				"name": "Joe Caramagna"
 			},
 			{
-				"id": "115",
+				"id": "239",
 				"name": "Gabriele Dell'Otto"
 			},
 			{
-				"id": "184",
+				"id": "293",
 				"name": "Simon Furman"
 			},
 			{
-				"id": "185",
+				"id": "294",
 				"name": "Jorge Pereira Lucas"
 			}
 		],
@@ -13356,37 +13319,37 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "129",
+				"id": "048",
 				"name": "Ronan"
 			},
 			{
-				"id": "021",
+				"id": "061",
 				"name": "Gamora"
 			}
 		],
 		"creators": [
 			{
-				"id": "188",
+				"id": "296",
 				"name": "Joe Caramagna"
 			},
 			{
-				"id": "115",
+				"id": "239",
 				"name": "Gabriele Dell'Otto"
 			},
 			{
-				"id": "184",
+				"id": "293",
 				"name": "Simon Furman"
 			},
 			{
-				"id": "185",
+				"id": "294",
 				"name": "Jorge Pereira Lucas"
 			},
 			{
-				"id": "186",
+				"id": "295",
 				"name": "Dave McCaig"
 			}
 		],
@@ -13408,57 +13371,57 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			},
 			{
-				"id": "078",
+				"id": "109",
 				"name": "Star-Lord"
 			},
 			{
-				"id": "129",
+				"id": "048",
 				"name": "Ronan"
 			},
 			{
-				"id": "123",
+				"id": "141",
 				"name": "Drax"
 			},
 			{
-				"id": "021",
+				"id": "061",
 				"name": "Gamora"
 			},
 			{
-				"id": "130",
+				"id": "089",
 				"name": "Silver Surfer"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "133",
+				"id": "040",
 				"name": "Phyla-Vell"
 			},
 			{
-				"id": "025",
+				"id": "029",
 				"name": "Moondragon"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -13480,57 +13443,57 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			},
 			{
-				"id": "078",
+				"id": "109",
 				"name": "Star-Lord"
 			},
 			{
-				"id": "129",
+				"id": "048",
 				"name": "Ronan"
 			},
 			{
-				"id": "123",
+				"id": "141",
 				"name": "Drax"
 			},
 			{
-				"id": "021",
+				"id": "061",
 				"name": "Gamora"
 			},
 			{
-				"id": "130",
+				"id": "089",
 				"name": "Silver Surfer"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "133",
+				"id": "040",
 				"name": "Phyla-Vell"
 			},
 			{
-				"id": "025",
+				"id": "029",
 				"name": "Moondragon"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -13552,57 +13515,57 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			},
 			{
-				"id": "078",
+				"id": "109",
 				"name": "Star-Lord"
 			},
 			{
-				"id": "129",
+				"id": "048",
 				"name": "Ronan"
 			},
 			{
-				"id": "123",
+				"id": "141",
 				"name": "Drax"
 			},
 			{
-				"id": "021",
+				"id": "061",
 				"name": "Gamora"
 			},
 			{
-				"id": "130",
+				"id": "089",
 				"name": "Silver Surfer"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "133",
+				"id": "040",
 				"name": "Phyla-Vell"
 			},
 			{
-				"id": "025",
+				"id": "029",
 				"name": "Moondragon"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -13624,57 +13587,57 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			},
 			{
-				"id": "078",
+				"id": "109",
 				"name": "Star-Lord"
 			},
 			{
-				"id": "129",
+				"id": "048",
 				"name": "Ronan"
 			},
 			{
-				"id": "123",
+				"id": "141",
 				"name": "Drax"
 			},
 			{
-				"id": "021",
+				"id": "061",
 				"name": "Gamora"
 			},
 			{
-				"id": "130",
+				"id": "089",
 				"name": "Silver Surfer"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "133",
+				"id": "040",
 				"name": "Phyla-Vell"
 			},
 			{
-				"id": "025",
+				"id": "029",
 				"name": "Moondragon"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -13696,57 +13659,57 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			},
 			{
-				"id": "078",
+				"id": "109",
 				"name": "Star-Lord"
 			},
 			{
-				"id": "129",
+				"id": "048",
 				"name": "Ronan"
 			},
 			{
-				"id": "123",
+				"id": "141",
 				"name": "Drax"
 			},
 			{
-				"id": "021",
+				"id": "061",
 				"name": "Gamora"
 			},
 			{
-				"id": "130",
+				"id": "089",
 				"name": "Silver Surfer"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "133",
+				"id": "040",
 				"name": "Phyla-Vell"
 			},
 			{
-				"id": "025",
+				"id": "029",
 				"name": "Moondragon"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -13768,57 +13731,57 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Nova"
 			},
 			{
-				"id": "078",
+				"id": "109",
 				"name": "Star-Lord"
 			},
 			{
-				"id": "129",
+				"id": "048",
 				"name": "Ronan"
 			},
 			{
-				"id": "123",
+				"id": "141",
 				"name": "Drax"
 			},
 			{
-				"id": "021",
+				"id": "061",
 				"name": "Gamora"
 			},
 			{
-				"id": "130",
+				"id": "089",
 				"name": "Silver Surfer"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "133",
+				"id": "040",
 				"name": "Phyla-Vell"
 			},
 			{
-				"id": "025",
+				"id": "029",
 				"name": "Moondragon"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -13840,21 +13803,21 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "146",
+				"id": "261",
 				"name": "Christos Gage"
 			},
 			{
-				"id": "189",
+				"id": "297",
 				"name": "Giuseppe Camuncoli"
 			}
 		],
@@ -13876,21 +13839,21 @@
 		"eventid": "005",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "090",
+				"id": "164",
 				"name": "Scott Kolins"
 			}
 		],
@@ -13910,17 +13873,17 @@
 		"date": "2006-03-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "021",
 				"name": "Carol Danvers"
 			}
 		],
 		"creators": [
 			{
-				"id": "144",
+				"id": "259",
 				"name": "Brian Reed"
 			},
 			{
-				"id": "145",
+				"id": "260",
 				"name": "Roberto De La Torre"
 			}
 		],
@@ -13939,17 +13902,17 @@
 		"date": "2006-04-12",
 		"characters": [
 			{
-				"id": "065",
+				"id": "021",
 				"name": "Carol Danvers"
 			}
 		],
 		"creators": [
 			{
-				"id": "144",
+				"id": "259",
 				"name": "Brian Reed"
 			},
 			{
-				"id": "145",
+				"id": "260",
 				"name": "Roberto De La Torre"
 			}
 		],
@@ -13968,17 +13931,17 @@
 		"date": "2006-05-17",
 		"characters": [
 			{
-				"id": "065",
+				"id": "021",
 				"name": "Carol Danvers"
 			}
 		],
 		"creators": [
 			{
-				"id": "144",
+				"id": "259",
 				"name": "Brian Reed"
 			},
 			{
-				"id": "145",
+				"id": "260",
 				"name": "Roberto De La Torre"
 			}
 		],
@@ -13997,17 +13960,17 @@
 		"date": "2006-06-14",
 		"characters": [
 			{
-				"id": "065",
+				"id": "021",
 				"name": "Carol Danvers"
 			}
 		],
 		"creators": [
 			{
-				"id": "144",
+				"id": "259",
 				"name": "Brian Reed"
 			},
 			{
-				"id": "145",
+				"id": "260",
 				"name": "Roberto De La Torre"
 			}
 		],
@@ -14026,17 +13989,17 @@
 		"date": "2006-07-12",
 		"characters": [
 			{
-				"id": "065",
+				"id": "021",
 				"name": "Carol Danvers"
 			}
 		],
 		"creators": [
 			{
-				"id": "144",
+				"id": "259",
 				"name": "Brian Reed"
 			},
 			{
-				"id": "145",
+				"id": "260",
 				"name": "Roberto De La Torre"
 			}
 		],
@@ -14055,17 +14018,17 @@
 		"date": "2006-02-15",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "055",
+				"id": "161",
 				"name": "Adrian Alphona"
 			}
 		],
@@ -14085,17 +14048,17 @@
 		"date": "2006-03-15",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "055",
+				"id": "161",
 				"name": "Adrian Alphona"
 			}
 		],
@@ -14115,17 +14078,17 @@
 		"date": "2006-03-22",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "055",
+				"id": "161",
 				"name": "Adrian Alphona"
 			}
 		],
@@ -14145,17 +14108,17 @@
 		"date": "2006-04-26",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "055",
+				"id": "161",
 				"name": "Adrian Alphona"
 			}
 		],
@@ -14175,17 +14138,17 @@
 		"date": "2006-05-31",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "055",
+				"id": "161",
 				"name": "Adrian Alphona"
 			}
 		],
@@ -14205,17 +14168,17 @@
 		"date": "2006-06-28",
 		"characters": [
 			{
-				"id": "045",
+				"id": "080",
 				"name": "Runaways"
 			}
 		],
 		"creators": [
 			{
-				"id": "053",
+				"id": "159",
 				"name": "Brian K Vaughan"
 			},
 			{
-				"id": "055",
+				"id": "161",
 				"name": "Adrian Alphona"
 			}
 		],
@@ -14235,21 +14198,21 @@
 		"date": "2006-03-29",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "190",
+				"id": "298",
 				"name": "Tania Del Rio"
 			},
 			{
-				"id": "191",
+				"id": "299",
 				"name": "Jonboy Meyers"
 			}
 		],
@@ -14271,25 +14234,25 @@
 		"date": "2006-03-08",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "042",
+				"id": "076",
 				"name": "Paco Medina"
 			}
 		],
@@ -14308,25 +14271,25 @@
 		"date": "2006-04-12",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "042",
+				"id": "076",
 				"name": "Paco Medina"
 			}
 		],
@@ -14345,25 +14308,25 @@
 		"date": "2006-05-10",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "042",
+				"id": "076",
 				"name": "Paco Medina"
 			}
 		],
@@ -14382,25 +14345,25 @@
 		"date": "2006-06-07",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "042",
+				"id": "076",
 				"name": "Paco Medina"
 			}
 		],
@@ -14419,17 +14382,17 @@
 		"date": "2005-11-16",
 		"characters": [
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -14448,17 +14411,17 @@
 		"date": "2005-12-28",
 		"characters": [
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -14477,17 +14440,17 @@
 		"date": "2006-01-25",
 		"characters": [
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -14506,17 +14469,17 @@
 		"date": "2006-02-22",
 		"characters": [
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -14535,17 +14498,17 @@
 		"date": "2006-03-29",
 		"characters": [
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "192",
+				"id": "099",
 				"name": "Kieron Dwyer"
 			}
 		],
@@ -14564,17 +14527,17 @@
 		"date": "2006-04-26",
 		"characters": [
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "192",
+				"id": "099",
 				"name": "Kieron Dwyer"
 			}
 		],
@@ -14593,17 +14556,17 @@
 		"date": "2006-05-31",
 		"characters": [
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "192",
+				"id": "099",
 				"name": "Kieron Dwyer"
 			}
 		],
@@ -14622,17 +14585,17 @@
 		"date": "2006-07-05",
 		"characters": [
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "192",
+				"id": "099",
 				"name": "Kieron Dwyer"
 			}
 		],

@@ -8,37 +8,37 @@
 		"date": "2004-11-17",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "037",
+				"id": "128",
 				"name": "Mark Waid"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -57,37 +57,37 @@
 		"date": "2004-12-15",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "037",
+				"id": "128",
 				"name": "Mark Waid"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -106,37 +106,37 @@
 		"date": "2005-01-26",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "037",
+				"id": "128",
 				"name": "Mark Waid"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -155,37 +155,37 @@
 		"date": "2005-02-23",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "037",
+				"id": "128",
 				"name": "Mark Waid"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -204,33 +204,33 @@
 		"date": "2005-03-30",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "037",
+				"id": "128",
 				"name": "Mark Waid"
 			},
 			{
-				"id": "038",
+				"id": "129",
 				"name": "Mike Wieringo"
 			}
 		],
@@ -241,6 +241,64 @@
 		"sortid": "001"
 	},
 	{
+		"id": "1559",
+		"collection": "She-Hulk",
+		"title": "Superhuman Law",
+		"vol": 1,
+		"num": 11,
+		"date": "2005-01-12",
+		"characters": [
+			{
+				"id": "034",
+				"name": "She-Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "185",
+				"name": "Dan Slott"
+			},
+			{
+				"id": "186",
+				"name": "Paul Pelletier"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/57630af37112a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "002"
+	},
+	{
+		"id": "1648",
+		"collection": "She-Hulk",
+		"title": "Superhuman Law",
+		"vol": 1,
+		"num": 12,
+		"date": "2005-02-16",
+		"characters": [
+			{
+				"id": "034",
+				"name": "She-Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "185",
+				"name": "Dan Slott"
+			},
+			{
+				"id": "186",
+				"name": "Paul Pelletier"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/576441fe08105.jpg",
+		"universe": "Earth-616",
+		"phaseid": "003",
+		"phasename": "Secret War",
+		"sortid": "002"
+	},
+	{
 		"id": "628",
 		"collection": "Uncanny X-Men",
 		"title": "The End of History",
@@ -249,37 +307,37 @@
 		"date": "2004-05-05",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "092",
+				"id": "091",
 				"name": "Alan Davis"
 			}
 		],
@@ -287,7 +345,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "002"
+		"sortid": "003"
 	},
 	{
 		"id": "688",
@@ -298,37 +356,37 @@
 		"date": "2004-06-02",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "092",
+				"id": "091",
 				"name": "Alan Davis"
 			}
 		],
@@ -336,7 +394,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "002"
+		"sortid": "003"
 	},
 	{
 		"id": "601",
@@ -347,37 +405,37 @@
 		"date": "2004-07-07",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "092",
+				"id": "091",
 				"name": "Alan Davis"
 			}
 		],
@@ -385,7 +443,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "002"
+		"sortid": "003"
 	},
 	{
 		"id": "540",
@@ -396,37 +454,37 @@
 		"date": "2004-08-04",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "092",
+				"id": "091",
 				"name": "Alan Davis"
 			}
 		],
@@ -434,7 +492,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "002"
+		"sortid": "003"
 	},
 	{
 		"id": "798",
@@ -445,37 +503,37 @@
 		"date": "2004-09-01",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "093",
+				"id": "218",
 				"name": "Olivier Coipel"
 			}
 		],
@@ -483,7 +541,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "002"
+		"sortid": "003"
 	},
 	{
 		"id": "836",
@@ -494,37 +552,37 @@
 		"date": "2004-09-22",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "093",
+				"id": "218",
 				"name": "Olivier Coipel"
 			}
 		],
@@ -532,7 +590,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "002"
+		"sortid": "003"
 	},
 	{
 		"id": "868",
@@ -543,41 +601,41 @@
 		"date": "2004-10-06",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "092",
+				"id": "091",
 				"name": "Alan Davis"
 			}
 		],
@@ -585,7 +643,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "003"
+		"sortid": "004"
 	},
 	{
 		"id": "908",
@@ -596,41 +654,41 @@
 		"date": "2004-10-20",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "092",
+				"id": "091",
 				"name": "Alan Davis"
 			}
 		],
@@ -638,7 +696,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "003"
+		"sortid": "004"
 	},
 	{
 		"id": "15",
@@ -649,37 +707,37 @@
 		"date": "2004-11-03",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "094",
+				"id": "228",
 				"name": "Andy Park"
 			}
 		],
@@ -687,7 +745,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "003"
+		"sortid": "004"
 	},
 	{
 		"id": "1418",
@@ -698,37 +756,37 @@
 		"date": "2004-12-01",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "094",
+				"id": "228",
 				"name": "Andy Park"
 			}
 		],
@@ -736,7 +794,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "003"
+		"sortid": "004"
 	},
 	{
 		"id": "1574",
@@ -747,37 +805,37 @@
 		"date": "2005-01-05",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "094",
+				"id": "228",
 				"name": "Andy Park"
 			}
 		],
@@ -785,7 +843,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "003"
+		"sortid": "004"
 	},
 	{
 		"id": "630",
@@ -796,17 +854,17 @@
 		"date": "2004-05-12",
 		"characters": [
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "096",
+				"id": "199",
 				"name": "David Yardin"
 			}
 		],
@@ -814,7 +872,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "004"
+		"sortid": "005"
 	},
 	{
 		"id": "693",
@@ -825,17 +883,17 @@
 		"date": "2004-06-09",
 		"characters": [
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "096",
+				"id": "199",
 				"name": "David Yardin"
 			}
 		],
@@ -843,7 +901,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "004"
+		"sortid": "005"
 	},
 	{
 		"id": "592",
@@ -854,17 +912,17 @@
 		"date": "2004-07-14",
 		"characters": [
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "096",
+				"id": "199",
 				"name": "David Yardin"
 			}
 		],
@@ -872,7 +930,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "004"
+		"sortid": "005"
 	},
 	{
 		"id": "615",
@@ -883,17 +941,17 @@
 		"date": "2004-08-11",
 		"characters": [
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "097",
+				"id": "198",
 				"name": "Lan Medina"
 			}
 		],
@@ -901,7 +959,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "004"
+		"sortid": "005"
 	},
 	{
 		"id": "809",
@@ -912,17 +970,17 @@
 		"date": "2004-09-08",
 		"characters": [
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "096",
+				"id": "199",
 				"name": "David Yardin"
 			}
 		],
@@ -930,7 +988,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "004"
+		"sortid": "005"
 	},
 	{
 		"id": "894",
@@ -941,17 +999,17 @@
 		"date": "2004-10-13",
 		"characters": [
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "098",
+				"id": "230",
 				"name": "Mike Perkins"
 			}
 		],
@@ -959,7 +1017,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "004"
+		"sortid": "005"
 	},
 	{
 		"id": "829",
@@ -970,29 +1028,29 @@
 		"date": "2004-09-15",
 		"characters": [
 			{
-				"id": "074",
+				"id": "105",
 				"name": "X-Factor"
 			},
 			{
-				"id": "075",
+				"id": "106",
 				"name": "Madrox"
 			},
 			{
-				"id": "076",
+				"id": "107",
 				"name": "Strong Guy"
 			},
 			{
-				"id": "077",
+				"id": "108",
 				"name": "Wolfsbane"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "100",
+				"id": "139",
 				"name": "Pablo Raimondi"
 			}
 		],
@@ -1000,7 +1058,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "005"
+		"sortid": "006"
 	},
 	{
 		"id": "901",
@@ -1011,29 +1069,29 @@
 		"date": "2004-10-20",
 		"characters": [
 			{
-				"id": "074",
+				"id": "105",
 				"name": "X-Factor"
 			},
 			{
-				"id": "075",
+				"id": "106",
 				"name": "Madrox"
 			},
 			{
-				"id": "076",
+				"id": "107",
 				"name": "Strong Guy"
 			},
 			{
-				"id": "077",
+				"id": "108",
 				"name": "Wolfsbane"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "100",
+				"id": "139",
 				"name": "Pablo Raimondi"
 			}
 		],
@@ -1041,7 +1099,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "005"
+		"sortid": "006"
 	},
 	{
 		"id": "42",
@@ -1052,29 +1110,29 @@
 		"date": "2004-11-17",
 		"characters": [
 			{
-				"id": "074",
+				"id": "105",
 				"name": "X-Factor"
 			},
 			{
-				"id": "075",
+				"id": "106",
 				"name": "Madrox"
 			},
 			{
-				"id": "076",
+				"id": "107",
 				"name": "Strong Guy"
 			},
 			{
-				"id": "077",
+				"id": "108",
 				"name": "Wolfsbane"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "100",
+				"id": "139",
 				"name": "Pablo Raimondi"
 			}
 		],
@@ -1082,7 +1140,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "005"
+		"sortid": "006"
 	},
 	{
 		"id": "1440",
@@ -1093,29 +1151,29 @@
 		"date": "2004-12-15",
 		"characters": [
 			{
-				"id": "074",
+				"id": "105",
 				"name": "X-Factor"
 			},
 			{
-				"id": "075",
+				"id": "106",
 				"name": "Madrox"
 			},
 			{
-				"id": "076",
+				"id": "107",
 				"name": "Strong Guy"
 			},
 			{
-				"id": "077",
+				"id": "108",
 				"name": "Wolfsbane"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "100",
+				"id": "139",
 				"name": "Pablo Raimondi"
 			}
 		],
@@ -1123,7 +1181,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "005"
+		"sortid": "006"
 	},
 	{
 		"id": "1533",
@@ -1134,29 +1192,29 @@
 		"date": "2005-01-19",
 		"characters": [
 			{
-				"id": "074",
+				"id": "105",
 				"name": "X-Factor"
 			},
 			{
-				"id": "075",
+				"id": "106",
 				"name": "Madrox"
 			},
 			{
-				"id": "076",
+				"id": "107",
 				"name": "Strong Guy"
 			},
 			{
-				"id": "077",
+				"id": "108",
 				"name": "Wolfsbane"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "100",
+				"id": "139",
 				"name": "Pablo Raimondi"
 			}
 		],
@@ -1164,7 +1222,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "005"
+		"sortid": "006"
 	},
 	{
 		"id": "654",
@@ -1175,17 +1233,17 @@
 		"date": "2004-05-19",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "031",
+				"id": "123",
 				"name": "Randy Green"
 			}
 		],
@@ -1193,7 +1251,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "006"
+		"sortid": "007"
 	},
 	{
 		"id": "711",
@@ -1204,17 +1262,17 @@
 		"date": "2004-06-16",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "031",
+				"id": "123",
 				"name": "Randy Green"
 			}
 		],
@@ -1222,7 +1280,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "006"
+		"sortid": "007"
 	},
 	{
 		"id": "533",
@@ -1233,17 +1291,17 @@
 		"date": "2004-07-21",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "054",
+				"id": "160",
 				"name": "Staz Johnson"
 			}
 		],
@@ -1251,7 +1309,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "006"
+		"sortid": "007"
 	},
 	{
 		"id": "755",
@@ -1262,17 +1320,17 @@
 		"date": "2004-08-18",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "054",
+				"id": "160",
 				"name": "Staz Johnson"
 			}
 		],
@@ -1280,7 +1338,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "006"
+		"sortid": "007"
 	},
 	{
 		"id": "827",
@@ -1291,17 +1349,17 @@
 		"date": "2004-09-15",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "066",
+				"id": "077",
 				"name": "Michael Ryan"
 			}
 		],
@@ -1309,7 +1367,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "006"
+		"sortid": "007"
 	},
 	{
 		"id": "910",
@@ -1320,17 +1378,17 @@
 		"date": "2004-10-20",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "066",
+				"id": "077",
 				"name": "Michael Ryan"
 			}
 		],
@@ -1338,7 +1396,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "006"
+		"sortid": "007"
 	},
 	{
 		"id": "176",
@@ -1349,25 +1407,25 @@
 		"date": "2003-10-01",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "020",
+				"id": "060",
 				"name": "Adam Warlock"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "012",
+				"id": "095",
 				"name": "Jim Starlin"
 			}
 		],
@@ -1375,7 +1433,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "007"
+		"sortid": "008"
 	},
 	{
 		"id": "175",
@@ -1386,25 +1444,25 @@
 		"date": "2003-11-05",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "020",
+				"id": "060",
 				"name": "Adam Warlock"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "012",
+				"id": "095",
 				"name": "Jim Starlin"
 			}
 		],
@@ -1412,7 +1470,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "007"
+		"sortid": "008"
 	},
 	{
 		"id": "174",
@@ -1423,25 +1481,25 @@
 		"date": "2003-12-03",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "020",
+				"id": "060",
 				"name": "Adam Warlock"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "012",
+				"id": "095",
 				"name": "Jim Starlin"
 			}
 		],
@@ -1449,7 +1507,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "007"
+		"sortid": "008"
 	},
 	{
 		"id": "173",
@@ -1460,25 +1518,25 @@
 		"date": "2004-01-07",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "020",
+				"id": "060",
 				"name": "Adam Warlock"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "012",
+				"id": "095",
 				"name": "Jim Starlin"
 			}
 		],
@@ -1486,7 +1544,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "007"
+		"sortid": "008"
 	},
 	{
 		"id": "172",
@@ -1497,25 +1555,25 @@
 		"date": "2004-01-21",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "020",
+				"id": "060",
 				"name": "Adam Warlock"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "012",
+				"id": "095",
 				"name": "Jim Starlin"
 			}
 		],
@@ -1523,7 +1581,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "007"
+		"sortid": "008"
 	},
 	{
 		"id": "171",
@@ -1534,25 +1592,25 @@
 		"date": "2004-02-04",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "020",
+				"id": "060",
 				"name": "Adam Warlock"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "012",
+				"id": "095",
 				"name": "Jim Starlin"
 			}
 		],
@@ -1560,7 +1618,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "007"
+		"sortid": "008"
 	},
 	{
 		"id": "398",
@@ -1571,29 +1629,29 @@
 		"date": "2004-03-03",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "078",
+				"id": "109",
 				"name": "Star-Lord"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "103",
+				"id": "232",
 				"name": "Ron Lim"
 			}
 		],
@@ -1601,7 +1659,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "008"
+		"sortid": "009"
 	},
 	{
 		"id": "424",
@@ -1612,29 +1670,29 @@
 		"date": "2004-03-17",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "078",
+				"id": "109",
 				"name": "Star-Lord"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "103",
+				"id": "232",
 				"name": "Ron Lim"
 			}
 		],
@@ -1642,7 +1700,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "008"
+		"sortid": "009"
 	},
 	{
 		"id": "460",
@@ -1653,29 +1711,29 @@
 		"date": "2004-04-07",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "078",
+				"id": "109",
 				"name": "Star-Lord"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "103",
+				"id": "232",
 				"name": "Ron Lim"
 			}
 		],
@@ -1683,7 +1741,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "008"
+		"sortid": "009"
 	},
 	{
 		"id": "625",
@@ -1694,29 +1752,29 @@
 		"date": "2004-05-05",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "078",
+				"id": "109",
 				"name": "Star-Lord"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "103",
+				"id": "232",
 				"name": "Ron Lim"
 			}
 		],
@@ -1724,7 +1782,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "008"
+		"sortid": "009"
 	},
 	{
 		"id": "684",
@@ -1735,29 +1793,29 @@
 		"date": "2004-06-02",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "078",
+				"id": "109",
 				"name": "Star-Lord"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "103",
+				"id": "232",
 				"name": "Ron Lim"
 			}
 		],
@@ -1765,7 +1823,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "008"
+		"sortid": "009"
 	},
 	{
 		"id": "598",
@@ -1776,29 +1834,29 @@
 		"date": "2004-07-07",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "019",
+				"id": "059",
 				"name": "Thanos"
 			},
 			{
-				"id": "078",
+				"id": "109",
 				"name": "Star-Lord"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "102",
+				"id": "080",
 				"name": "Keith Giffen"
 			},
 			{
-				"id": "103",
+				"id": "232",
 				"name": "Ron Lim"
 			}
 		],
@@ -1806,7 +1864,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "008"
+		"sortid": "009"
 	},
 	{
 		"id": "1629",
@@ -1817,41 +1875,41 @@
 		"date": "2005-02-09",
 		"characters": [
 			{
-				"id": "079",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "080",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "081",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "082",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "083",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "084",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "062",
+				"id": "036",
 				"name": "Vision"
 			}
 		],
 		"creators": [
 			{
-				"id": "104",
+				"id": "233",
 				"name": "Allan Heinberg"
 			},
 			{
-				"id": "105",
+				"id": "234",
 				"name": "Jim Cheung"
 			}
 		],
@@ -1863,7 +1921,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "009"
+		"sortid": "010"
 	},
 	{
 		"id": "1721",
@@ -1874,41 +1932,41 @@
 		"date": "2005-03-16",
 		"characters": [
 			{
-				"id": "079",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "080",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "081",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "082",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "083",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "084",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "062",
+				"id": "036",
 				"name": "Vision"
 			}
 		],
 		"creators": [
 			{
-				"id": "104",
+				"id": "233",
 				"name": "Allan Heinberg"
 			},
 			{
-				"id": "105",
+				"id": "234",
 				"name": "Jim Cheung"
 			}
 		],
@@ -1917,7 +1975,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "009"
+		"sortid": "010"
 	},
 	{
 		"id": "1830",
@@ -1928,41 +1986,41 @@
 		"date": "2005-04-20",
 		"characters": [
 			{
-				"id": "079",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "080",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "081",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "082",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "083",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "084",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "062",
+				"id": "036",
 				"name": "Vision"
 			}
 		],
 		"creators": [
 			{
-				"id": "104",
+				"id": "233",
 				"name": "Allan Heinberg"
 			},
 			{
-				"id": "105",
+				"id": "234",
 				"name": "Jim Cheung"
 			}
 		],
@@ -1971,7 +2029,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "009"
+		"sortid": "010"
 	},
 	{
 		"id": "1941",
@@ -1982,41 +2040,41 @@
 		"date": "2005-05-11",
 		"characters": [
 			{
-				"id": "079",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "080",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "081",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "082",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "083",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "084",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "062",
+				"id": "036",
 				"name": "Vision"
 			}
 		],
 		"creators": [
 			{
-				"id": "104",
+				"id": "233",
 				"name": "Allan Heinberg"
 			},
 			{
-				"id": "105",
+				"id": "234",
 				"name": "Jim Cheung"
 			}
 		],
@@ -2025,7 +2083,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "009"
+		"sortid": "010"
 	},
 	{
 		"id": "2049",
@@ -2036,41 +2094,41 @@
 		"date": "2005-06-29",
 		"characters": [
 			{
-				"id": "079",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "080",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "081",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "082",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "083",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "084",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "062",
+				"id": "036",
 				"name": "Vision"
 			}
 		],
 		"creators": [
 			{
-				"id": "104",
+				"id": "233",
 				"name": "Allan Heinberg"
 			},
 			{
-				"id": "105",
+				"id": "234",
 				"name": "Jim Cheung"
 			}
 		],
@@ -2079,7 +2137,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "009"
+		"sortid": "010"
 	},
 	{
 		"id": "2162",
@@ -2090,41 +2148,41 @@
 		"date": "2005-07-20",
 		"characters": [
 			{
-				"id": "079",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "080",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "081",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "082",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "083",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "084",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "062",
+				"id": "036",
 				"name": "Vision"
 			}
 		],
 		"creators": [
 			{
-				"id": "104",
+				"id": "233",
 				"name": "Allan Heinberg"
 			},
 			{
-				"id": "105",
+				"id": "234",
 				"name": "Jim Cheung"
 			}
 		],
@@ -2133,7 +2191,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "009"
+		"sortid": "010"
 	},
 	{
 		"id": "735",
@@ -2144,17 +2202,17 @@
 		"date": "2004-06-30",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "107",
+				"id": "236",
 				"name": "Mark Brooks"
 			}
 		],
@@ -2166,7 +2224,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "010"
+		"sortid": "011"
 	},
 	{
 		"id": "529",
@@ -2177,17 +2235,17 @@
 		"date": "2004-07-28",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "107",
+				"id": "236",
 				"name": "Mark Brooks"
 			}
 		],
@@ -2198,7 +2256,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "010"
+		"sortid": "011"
 	},
 	{
 		"id": "764",
@@ -2209,17 +2267,17 @@
 		"date": "2004-08-25",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "107",
+				"id": "236",
 				"name": "Mark Brooks"
 			}
 		],
@@ -2230,7 +2288,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "010"
+		"sortid": "011"
 	},
 	{
 		"id": "858",
@@ -2241,17 +2299,17 @@
 		"date": "2004-09-29",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "107",
+				"id": "236",
 				"name": "Mark Brooks"
 			}
 		],
@@ -2262,7 +2320,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "010"
+		"sortid": "011"
 	},
 	{
 		"id": "922",
@@ -2273,17 +2331,17 @@
 		"date": "2004-10-27",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "107",
+				"id": "236",
 				"name": "Mark Brooks"
 			}
 		],
@@ -2294,7 +2352,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "010"
+		"sortid": "011"
 	},
 	{
 		"id": "45",
@@ -2305,17 +2363,17 @@
 		"date": "2004-11-24",
 		"characters": [
 			{
-				"id": "085",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
 		"creators": [
 			{
-				"id": "106",
+				"id": "235",
 				"name": "Fiona Avery"
 			},
 			{
-				"id": "107",
+				"id": "236",
 				"name": "Mark Brooks"
 			}
 		],
@@ -2326,7 +2384,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "010"
+		"sortid": "011"
 	},
 	{
 		"id": "430",
@@ -2337,21 +2395,21 @@
 		"date": "2004-03-24",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "109",
+				"id": "237",
 				"name": "Rob Liefeld"
 			}
 		],
@@ -2362,7 +2420,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "011"
+		"sortid": "012"
 	},
 	{
 		"id": "479",
@@ -2373,21 +2431,21 @@
 		"date": "2004-04-21",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "107",
+				"id": "236",
 				"name": "Mark Brooks"
 			}
 		],
@@ -2395,7 +2453,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "011"
+		"sortid": "012"
 	},
 	{
 		"id": "644",
@@ -2406,21 +2464,21 @@
 		"date": "2004-05-19",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
@@ -2428,7 +2486,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "011"
+		"sortid": "012"
 	},
 	{
 		"id": "706",
@@ -2439,21 +2497,21 @@
 		"date": "2004-06-16",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
@@ -2461,7 +2519,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "011"
+		"sortid": "012"
 	},
 	{
 		"id": "548",
@@ -2472,21 +2530,21 @@
 		"date": "2004-07-21",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
@@ -2494,7 +2552,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "011"
+		"sortid": "012"
 	},
 	{
 		"id": "512",
@@ -2505,21 +2563,21 @@
 		"date": "2004-08-18",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
@@ -2527,7 +2585,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "011"
+		"sortid": "012"
 	},
 	{
 		"id": "832",
@@ -2538,21 +2596,21 @@
 		"date": "2004-09-15",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
@@ -2560,7 +2618,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "012"
+		"sortid": "013"
 	},
 	{
 		"id": "903",
@@ -2571,21 +2629,21 @@
 		"date": "2004-10-20",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
@@ -2593,7 +2651,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "012"
+		"sortid": "013"
 	},
 	{
 		"id": "69",
@@ -2604,21 +2662,21 @@
 		"date": "2004-11-17",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
@@ -2626,7 +2684,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "012"
+		"sortid": "013"
 	},
 	{
 		"id": "1467",
@@ -2637,21 +2695,21 @@
 		"date": "2004-12-15",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
@@ -2659,7 +2717,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "012"
+		"sortid": "013"
 	},
 	{
 		"id": "1560",
@@ -2670,21 +2728,21 @@
 		"date": "2005-01-19",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
@@ -2692,7 +2750,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "012"
+		"sortid": "013"
 	},
 	{
 		"id": "1649",
@@ -2703,21 +2761,21 @@
 		"date": "2005-02-16",
 		"characters": [
 			{
-				"id": "086",
+				"id": "070",
 				"name": "Cable"
 			},
 			{
-				"id": "087",
+				"id": "003",
 				"name": "Deadpool"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "110",
+				"id": "028",
 				"name": "Patrick Zircher"
 			}
 		],
@@ -2725,7 +2783,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "012"
+		"sortid": "013"
 	},
 	{
 		"id": "708",
@@ -2736,21 +2794,21 @@
 		"date": "2004-06-16",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "006",
+				"id": "007",
 				"name": "Black Widow"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -2759,7 +2817,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "013"
+		"sortid": "014"
 	},
 	{
 		"id": "542",
@@ -2770,21 +2828,21 @@
 		"date": "2004-07-21",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "006",
+				"id": "007",
 				"name": "Black Widow"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -2793,7 +2851,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "013"
+		"sortid": "014"
 	},
 	{
 		"id": "513",
@@ -2804,21 +2862,21 @@
 		"date": "2004-08-18",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "006",
+				"id": "007",
 				"name": "Black Widow"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -2827,7 +2885,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "013"
+		"sortid": "014"
 	},
 	{
 		"id": "831",
@@ -2838,21 +2896,21 @@
 		"date": "2004-09-15",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "006",
+				"id": "007",
 				"name": "Black Widow"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -2861,7 +2919,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "013"
+		"sortid": "014"
 	},
 	{
 		"id": "853",
@@ -2872,21 +2930,21 @@
 		"date": "2004-09-29",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "006",
+				"id": "007",
 				"name": "Black Widow"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -2895,7 +2953,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "013"
+		"sortid": "014"
 	},
 	{
 		"id": "909",
@@ -2906,17 +2964,17 @@
 		"date": "2004-10-27",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -2925,7 +2983,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "014"
+		"sortid": "015"
 	},
 	{
 		"id": "18",
@@ -2936,17 +2994,17 @@
 		"date": "2004-11-24",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -2955,7 +3013,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "014"
+		"sortid": "015"
 	},
 	{
 		"id": "1420",
@@ -2966,17 +3024,17 @@
 		"date": "2004-12-15",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -2985,7 +3043,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "014"
+		"sortid": "015"
 	},
 	{
 		"id": "1518",
@@ -2996,17 +3054,17 @@
 		"date": "2005-01-19",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -3015,7 +3073,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "014"
+		"sortid": "015"
 	},
 	{
 		"id": "1618",
@@ -3026,17 +3084,17 @@
 		"date": "2005-02-16",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -3045,7 +3103,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "014"
+		"sortid": "015"
 	},
 	{
 		"id": "1757",
@@ -3056,17 +3114,17 @@
 		"date": "2005-03-23",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -3075,7 +3133,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "015"
+		"sortid": "016"
 	},
 	{
 		"id": "1862",
@@ -3086,17 +3144,17 @@
 		"date": "2005-04-27",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -3105,7 +3163,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "015"
+		"sortid": "016"
 	},
 	{
 		"id": "1965",
@@ -3116,17 +3174,17 @@
 		"date": "2005-05-18",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -3135,7 +3193,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "015"
+		"sortid": "016"
 	},
 	{
 		"id": "2067",
@@ -3146,17 +3204,17 @@
 		"date": "2005-06-15",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -3165,7 +3223,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "015"
+		"sortid": "016"
 	},
 	{
 		"id": "2174",
@@ -3176,17 +3234,17 @@
 		"date": "2005-07-20",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "020",
+				"id": "104",
 				"name": "Alex Maleev"
 			}
 		],
@@ -3195,7 +3253,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "015"
+		"sortid": "016"
 	},
 	{
 		"id": "791",
@@ -3206,17 +3264,17 @@
 		"date": "2004-09-01",
 		"characters": [
 			{
-				"id": "088",
+				"id": "090",
 				"name": "Bullseye"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -3224,7 +3282,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "016"
+		"sortid": "017"
 	},
 	{
 		"id": "895",
@@ -3235,17 +3293,17 @@
 		"date": "2004-10-13",
 		"characters": [
 			{
-				"id": "088",
+				"id": "090",
 				"name": "Bullseye"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -3253,7 +3311,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "016"
+		"sortid": "017"
 	},
 	{
 		"id": "47",
@@ -3264,17 +3322,17 @@
 		"date": "2004-11-10",
 		"characters": [
 			{
-				"id": "088",
+				"id": "090",
 				"name": "Bullseye"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -3282,7 +3340,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "016"
+		"sortid": "017"
 	},
 	{
 		"id": "1444",
@@ -3293,17 +3351,17 @@
 		"date": "2004-12-08",
 		"characters": [
 			{
-				"id": "088",
+				"id": "090",
 				"name": "Bullseye"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -3311,7 +3369,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "016"
+		"sortid": "017"
 	},
 	{
 		"id": "1536",
@@ -3322,17 +3380,17 @@
 		"date": "2005-01-19",
 		"characters": [
 			{
-				"id": "088",
+				"id": "090",
 				"name": "Bullseye"
 			}
 		],
 		"creators": [
 			{
-				"id": "111",
+				"id": "151",
 				"name": "Daniel Way"
 			},
 			{
-				"id": "112",
+				"id": "040",
 				"name": "Steve Dillon"
 			}
 		],
@@ -3340,7 +3398,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "016"
+		"sortid": "017"
 	},
 	{
 		"id": "4694",
@@ -3351,17 +3409,17 @@
 		"date": "2005-04-01",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "021",
+				"id": "105",
 				"name": "Michael Gaydos"
 			}
 		],
@@ -3369,7 +3427,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "017"
+		"sortid": "018"
 	},
 	{
 		"id": "1645",
@@ -3380,17 +3438,17 @@
 		"date": "2005-02-16",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "021",
+				"id": "105",
 				"name": "Michael Gaydos"
 			}
 		],
@@ -3398,7 +3456,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "017"
+		"sortid": "018"
 	},
 	{
 		"id": "1739",
@@ -3409,17 +3467,17 @@
 		"date": "2005-03-30",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "021",
+				"id": "105",
 				"name": "Michael Gaydos"
 			}
 		],
@@ -3427,7 +3485,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "017"
+		"sortid": "018"
 	},
 	{
 		"id": "1847",
@@ -3438,17 +3496,17 @@
 		"date": "2005-05-04",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "021",
+				"id": "105",
 				"name": "Michael Gaydos"
 			}
 		],
@@ -3456,7 +3514,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "017"
+		"sortid": "018"
 	},
 	{
 		"id": "1953",
@@ -3467,17 +3525,17 @@
 		"date": "2005-06-22",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "021",
+				"id": "105",
 				"name": "Michael Gaydos"
 			}
 		],
@@ -3485,7 +3543,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "017"
+		"sortid": "018"
 	},
 	{
 		"id": "2059",
@@ -3496,17 +3554,17 @@
 		"date": "2005-07-13",
 		"characters": [
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "021",
+				"id": "105",
 				"name": "Michael Gaydos"
 			}
 		],
@@ -3514,7 +3572,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "017"
+		"sortid": "018"
 	},
 	{
 		"id": "12817",
@@ -3525,25 +3583,25 @@
 		"date": "2005-01-01",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -3555,7 +3613,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "018"
+		"sortid": "019"
 	},
 	{
 		"id": "12828",
@@ -3566,25 +3624,25 @@
 		"date": "2005-02-01",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -3593,7 +3651,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "018"
+		"sortid": "019"
 	},
 	{
 		"id": "12839",
@@ -3604,25 +3662,25 @@
 		"date": "2005-03-01",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -3631,7 +3689,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "018"
+		"sortid": "019"
 	},
 	{
 		"id": "12843",
@@ -3642,25 +3700,25 @@
 		"date": "2005-04-01",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -3669,7 +3727,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "018"
+		"sortid": "019"
 	},
 	{
 		"id": "12844",
@@ -3680,25 +3738,25 @@
 		"date": "2005-05-01",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -3707,7 +3765,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "018"
+		"sortid": "019"
 	},
 	{
 		"id": "12845",
@@ -3718,25 +3776,25 @@
 		"date": "2005-06-01",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "067",
+				"id": "098",
 				"name": "Sharon Carter"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "114",
+				"id": "090",
 				"name": "Steve Epting"
 			}
 		],
@@ -3745,7 +3803,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "018"
+		"sortid": "019"
 	},
 	{
 		"id": "12846",
@@ -3756,21 +3814,21 @@
 		"date": "2005-07-01",
 		"characters": [
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "089",
+				"id": "117",
 				"name": "Bucky Barnes"
 			}
 		],
 		"creators": [
 			{
-				"id": "113",
+				"id": "238",
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "027",
+				"id": "119",
 				"name": "John Paul Leon"
 			}
 		],
@@ -3779,7 +3837,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "018"
+		"sortid": "019"
 	},
 	{
 		"id": "104",
@@ -3792,53 +3850,53 @@
 		"eventid": "002",
 		"characters": [
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "091",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "092",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "006",
+				"id": "007",
 				"name": "Black Widow"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "027",
+				"id": "065",
 				"name": "Jessica Jones"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "115",
+				"id": "239",
 				"name": "Gabriele Dell'Otto"
 			}
 		],
@@ -3850,7 +3908,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "019"
+		"sortid": "020"
 	},
 	{
 		"id": "668",
@@ -3863,53 +3921,53 @@
 		"eventid": "002",
 		"characters": [
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "091",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "092",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "006",
+				"id": "007",
 				"name": "Black Widow"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "027",
+				"id": "065",
 				"name": "Jessica Jones"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "115",
+				"id": "239",
 				"name": "Gabriele Dell'Otto"
 			}
 		],
@@ -3918,7 +3976,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "019"
+		"sortid": "020"
 	},
 	{
 		"id": "773",
@@ -3931,53 +3989,53 @@
 		"eventid": "002",
 		"characters": [
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "091",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "092",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "006",
+				"id": "007",
 				"name": "Black Widow"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "027",
+				"id": "065",
 				"name": "Jessica Jones"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "115",
+				"id": "239",
 				"name": "Gabriele Dell'Otto"
 			}
 		],
@@ -3986,7 +4044,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "019"
+		"sortid": "020"
 	},
 	{
 		"id": "1708",
@@ -3999,53 +4057,53 @@
 		"eventid": "002",
 		"characters": [
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "091",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "092",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "006",
+				"id": "007",
 				"name": "Black Widow"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "027",
+				"id": "065",
 				"name": "Jessica Jones"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "115",
+				"id": "239",
 				"name": "Gabriele Dell'Otto"
 			}
 		],
@@ -4054,7 +4112,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "019"
+		"sortid": "020"
 	},
 	{
 		"id": "2594",
@@ -4067,53 +4125,53 @@
 		"eventid": "002",
 		"characters": [
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "091",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "092",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "003",
+				"id": "004",
 				"name": "Daredevil"
 			},
 			{
-				"id": "006",
+				"id": "007",
 				"name": "Black Widow"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "027",
+				"id": "065",
 				"name": "Jessica Jones"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "115",
+				"id": "239",
 				"name": "Gabriele Dell'Otto"
 			}
 		],
@@ -4125,7 +4183,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "019"
+		"sortid": "020"
 	},
 	{
 		"id": "2",
@@ -4138,29 +4196,29 @@
 		"eventid": "002",
 		"characters": [
 			{
-				"id": "027",
+				"id": "065",
 				"name": "Jessica Jones"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "116",
+				"id": "100",
 				"name": "Brent Anderson"
 			}
 		],
@@ -4169,7 +4227,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "020"
+		"sortid": "021"
 	},
 	{
 		"id": "1508",
@@ -4182,29 +4240,29 @@
 		"eventid": "002",
 		"characters": [
 			{
-				"id": "027",
+				"id": "065",
 				"name": "Jessica Jones"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "116",
+				"id": "100",
 				"name": "Brent Anderson"
 			}
 		],
@@ -4213,7 +4271,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "020"
+		"sortid": "021"
 	},
 	{
 		"id": "1707",
@@ -4226,29 +4284,29 @@
 		"eventid": "002",
 		"characters": [
 			{
-				"id": "027",
+				"id": "065",
 				"name": "Jessica Jones"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "117",
+				"id": "240",
 				"name": "Michael Lark"
 			}
 		],
@@ -4257,7 +4315,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "020"
+		"sortid": "021"
 	},
 	{
 		"id": "1935",
@@ -4270,29 +4328,29 @@
 		"eventid": "002",
 		"characters": [
 			{
-				"id": "027",
+				"id": "065",
 				"name": "Jessica Jones"
 			},
 			{
-				"id": "026",
+				"id": "064",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "117",
+				"id": "240",
 				"name": "Michael Lark"
 			}
 		],
@@ -4301,7 +4359,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "020"
+		"sortid": "021"
 	},
 	{
 		"id": "40",
@@ -4312,49 +4370,49 @@
 		"date": "2004-12-01",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "092",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "085",
+				"id": "222",
 				"name": "David Finch"
 			}
 		],
@@ -4366,7 +4424,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "021"
+		"sortid": "022"
 	},
 	{
 		"id": "1438",
@@ -4377,49 +4435,49 @@
 		"date": "2004-12-29",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "092",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "085",
+				"id": "222",
 				"name": "David Finch"
 			}
 		],
@@ -4428,7 +4486,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "021"
+		"sortid": "022"
 	},
 	{
 		"id": "1532",
@@ -4439,49 +4497,49 @@
 		"date": "2005-02-02",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "092",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "085",
+				"id": "222",
 				"name": "David Finch"
 			}
 		],
@@ -4490,7 +4548,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "021"
+		"sortid": "022"
 	},
 	{
 		"id": "1628",
@@ -4501,49 +4559,49 @@
 		"date": "2005-03-23",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "092",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "085",
+				"id": "222",
 				"name": "David Finch"
 			}
 		],
@@ -4552,7 +4610,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "021"
+		"sortid": "022"
 	},
 	{
 		"id": "1720",
@@ -4563,49 +4621,49 @@
 		"date": "2005-04-27",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "092",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "085",
+				"id": "222",
 				"name": "David Finch"
 			}
 		],
@@ -4614,7 +4672,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "021"
+		"sortid": "022"
 	},
 	{
 		"id": "1829",
@@ -4625,49 +4683,49 @@
 		"date": "2005-06-22",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "092",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "085",
+				"id": "222",
 				"name": "David Finch"
 			}
 		],
@@ -4676,7 +4734,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "021"
+		"sortid": "022"
 	},
 	{
 		"id": "1913",
@@ -4687,17 +4745,17 @@
 		"date": "2005-04-20",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "118",
+				"id": "194",
 				"name": "Tony Bedard"
 			},
 			{
-				"id": "067",
+				"id": "092",
 				"name": "Manuel Garcia"
 			}
 		],
@@ -4705,7 +4763,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "022"
+		"sortid": "023"
 	},
 	{
 		"id": "2016",
@@ -4716,17 +4774,17 @@
 		"date": "2005-05-18",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "118",
+				"id": "194",
 				"name": "Tony Bedard"
 			},
 			{
-				"id": "067",
+				"id": "092",
 				"name": "Manuel Garcia"
 			}
 		],
@@ -4734,7 +4792,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "022"
+		"sortid": "023"
 	},
 	{
 		"id": "2119",
@@ -4745,17 +4803,17 @@
 		"date": "2005-06-15",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "118",
+				"id": "194",
 				"name": "Tony Bedard"
 			},
 			{
-				"id": "067",
+				"id": "092",
 				"name": "Manuel Garcia"
 			}
 		],
@@ -4763,7 +4821,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "022"
+		"sortid": "023"
 	},
 	{
 		"id": "2229",
@@ -4774,17 +4832,17 @@
 		"date": "2005-07-13",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "118",
+				"id": "194",
 				"name": "Tony Bedard"
 			},
 			{
-				"id": "067",
+				"id": "092",
 				"name": "Manuel Garcia"
 			}
 		],
@@ -4792,7 +4850,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "022"
+		"sortid": "023"
 	},
 	{
 		"id": "2342",
@@ -4803,17 +4861,17 @@
 		"date": "2005-08-10",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			}
 		],
 		"creators": [
 			{
-				"id": "118",
+				"id": "194",
 				"name": "Tony Bedard"
 			},
 			{
-				"id": "067",
+				"id": "092",
 				"name": "Manuel Garcia"
 			}
 		],
@@ -4821,7 +4879,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "022"
+		"sortid": "023"
 	},
 	{
 		"id": "1637",
@@ -4832,17 +4890,17 @@
 		"date": "2005-02-02",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -4853,7 +4911,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "023"
+		"sortid": "024"
 	},
 	{
 		"id": "1731",
@@ -4864,17 +4922,17 @@
 		"date": "2005-03-16",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -4882,7 +4940,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "023"
+		"sortid": "024"
 	},
 	{
 		"id": "1838",
@@ -4893,17 +4951,17 @@
 		"date": "2005-04-13",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -4911,7 +4969,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "023"
+		"sortid": "024"
 	},
 	{
 		"id": "1945",
@@ -4922,17 +4980,17 @@
 		"date": "2005-05-18",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -4940,7 +4998,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "023"
+		"sortid": "024"
 	},
 	{
 		"id": "2053",
@@ -4951,17 +5009,17 @@
 		"date": "2005-06-22",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -4969,7 +5027,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "023"
+		"sortid": "024"
 	},
 	{
 		"id": "2165",
@@ -4980,17 +5038,17 @@
 		"date": "2005-07-27",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -4998,7 +5056,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "023"
+		"sortid": "024"
 	},
 	{
 		"id": "1858",
@@ -5009,21 +5067,21 @@
 		"date": "2005-04-06",
 		"characters": [
 			{
-				"id": "095",
+				"id": "122",
 				"name": "Great Lakes Avengers"
 			},
 			{
-				"id": "096",
+				"id": "123",
 				"name": "Squirrel Girl"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "059",
+				"id": "186",
 				"name": "Paul Pelletier"
 			}
 		],
@@ -5034,7 +5092,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "024"
+		"sortid": "025"
 	},
 	{
 		"id": "1981",
@@ -5045,21 +5103,21 @@
 		"date": "2005-05-04",
 		"characters": [
 			{
-				"id": "095",
+				"id": "122",
 				"name": "Great Lakes Avengers"
 			},
 			{
-				"id": "096",
+				"id": "123",
 				"name": "Squirrel Girl"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "059",
+				"id": "186",
 				"name": "Paul Pelletier"
 			}
 		],
@@ -5067,7 +5125,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "024"
+		"sortid": "025"
 	},
 	{
 		"id": "2084",
@@ -5078,21 +5136,21 @@
 		"date": "2005-06-15",
 		"characters": [
 			{
-				"id": "095",
+				"id": "122",
 				"name": "Great Lakes Avengers"
 			},
 			{
-				"id": "096",
+				"id": "123",
 				"name": "Squirrel Girl"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "059",
+				"id": "186",
 				"name": "Paul Pelletier"
 			}
 		],
@@ -5100,7 +5158,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "024"
+		"sortid": "025"
 	},
 	{
 		"id": "2194",
@@ -5111,21 +5169,21 @@
 		"date": "2005-07-06",
 		"characters": [
 			{
-				"id": "095",
+				"id": "122",
 				"name": "Great Lakes Avengers"
 			},
 			{
-				"id": "096",
+				"id": "123",
 				"name": "Squirrel Girl"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "059",
+				"id": "186",
 				"name": "Paul Pelletier"
 			}
 		],
@@ -5133,7 +5191,7 @@
 		"universe": "Earth-617",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "024"
+		"sortid": "025"
 	},
 	{
 		"id": "3211",
@@ -5144,21 +5202,21 @@
 		"date": "2005-12-14",
 		"characters": [
 			{
-				"id": "095",
+				"id": "122",
 				"name": "Great Lakes Avengers"
 			},
 			{
-				"id": "096",
+				"id": "123",
 				"name": "Squirrel Girl"
 			}
 		],
 		"creators": [
 			{
-				"id": "057",
+				"id": "185",
 				"name": "Dan Slott"
 			},
 			{
-				"id": "059",
+				"id": "186",
 				"name": "Paul Pelletier"
 			}
 		],
@@ -5166,7 +5224,7 @@
 		"universe": "Earth-618",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "024"
+		"sortid": "025"
 	},
 	{
 		"id": "3982",
@@ -5177,25 +5235,25 @@
 		"date": "2006-04-01",
 		"characters": [
 			{
-				"id": "095",
+				"id": "122",
 				"name": "Great Lakes Avengers"
 			},
 			{
-				"id": "096",
+				"id": "123",
 				"name": "Squirrel Girl"
 			},
 			{
-				"id": "097",
+				"id": "045",
 				"name": "Speedball"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "042",
+				"id": "076",
 				"name": "Paco Medina"
 			}
 		],
@@ -5203,7 +5261,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "024"
+		"sortid": "025"
 	},
 	{
 		"id": "1663",
@@ -5214,45 +5272,45 @@
 		"date": "2005-02-02",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "092",
+				"id": "091",
 				"name": "Alan Davis"
 			}
 		],
@@ -5260,7 +5318,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "025"
+		"sortid": "026"
 	},
 	{
 		"id": "1664",
@@ -5271,45 +5329,45 @@
 		"date": "2005-02-23",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "092",
+				"id": "091",
 				"name": "Alan Davis"
 			}
 		],
@@ -5317,7 +5375,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "025"
+		"sortid": "026"
 	},
 	{
 		"id": "1758",
@@ -5328,45 +5386,45 @@
 		"date": "2005-03-16",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "092",
+				"id": "091",
 				"name": "Alan Davis"
 			}
 		],
@@ -5374,7 +5432,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "025"
+		"sortid": "026"
 	},
 	{
 		"id": "1863",
@@ -5385,45 +5443,45 @@
 		"date": "2005-04-20",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "092",
+				"id": "091",
 				"name": "Alan Davis"
 			}
 		],
@@ -5431,7 +5489,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "025"
+		"sortid": "026"
 	},
 	{
 		"id": "1970",
@@ -5442,45 +5500,45 @@
 		"date": "2005-05-18",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "092",
+				"id": "091",
 				"name": "Alan Davis"
 			}
 		],
@@ -5488,7 +5546,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "025"
+		"sortid": "026"
 	},
 	{
 		"id": "1575",
@@ -5499,57 +5557,57 @@
 		"date": "2005-01-05",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "032",
+				"id": "069",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "099",
+				"id": "125",
 				"name": "Angel"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "120",
+				"id": "242",
 				"name": "Greg Pak"
 			},
 			{
-				"id": "121",
+				"id": "243",
 				"name": "Greg Land"
 			}
 		],
@@ -5558,7 +5616,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "026"
+		"sortid": "027"
 	},
 	{
 		"id": "1576",
@@ -5569,57 +5627,57 @@
 		"date": "2005-02-02",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "032",
+				"id": "069",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "099",
+				"id": "125",
 				"name": "Angel"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "120",
+				"id": "242",
 				"name": "Greg Pak"
 			},
 			{
-				"id": "121",
+				"id": "243",
 				"name": "Greg Land"
 			}
 		],
@@ -5628,7 +5686,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "026"
+		"sortid": "027"
 	},
 	{
 		"id": "1666",
@@ -5639,57 +5697,57 @@
 		"date": "2005-02-23",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "032",
+				"id": "069",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "099",
+				"id": "125",
 				"name": "Angel"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "120",
+				"id": "242",
 				"name": "Greg Pak"
 			},
 			{
-				"id": "121",
+				"id": "243",
 				"name": "Greg Land"
 			}
 		],
@@ -5698,7 +5756,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "026"
+		"sortid": "027"
 	},
 	{
 		"id": "1761",
@@ -5709,57 +5767,57 @@
 		"date": "2005-03-30",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "032",
+				"id": "069",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "099",
+				"id": "125",
 				"name": "Angel"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "120",
+				"id": "242",
 				"name": "Greg Pak"
 			},
 			{
-				"id": "121",
+				"id": "243",
 				"name": "Greg Land"
 			}
 		],
@@ -5768,7 +5826,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "026"
+		"sortid": "027"
 	},
 	{
 		"id": "1867",
@@ -5779,57 +5837,57 @@
 		"date": "2005-04-27",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "032",
+				"id": "069",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			},
 			{
-				"id": "099",
+				"id": "125",
 				"name": "Angel"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "120",
+				"id": "242",
 				"name": "Greg Pak"
 			},
 			{
-				"id": "121",
+				"id": "243",
 				"name": "Greg Land"
 			}
 		],
@@ -5838,7 +5896,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "026"
+		"sortid": "027"
 	},
 	{
 		"id": "1741",
@@ -5849,17 +5907,17 @@
 		"date": "2005-03-02",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "014",
+				"id": "097",
 				"name": "Akira Yoshida"
 			},
 			{
-				"id": "035",
+				"id": "126",
 				"name": "Chris Bachalo"
 			}
 		],
@@ -5867,7 +5925,7 @@
 		"universe": "Earth-295",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "027"
+		"sortid": "028"
 	},
 	{
 		"id": "1742",
@@ -5878,17 +5936,17 @@
 		"date": "2005-03-09",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "014",
+				"id": "097",
 				"name": "Akira Yoshida"
 			},
 			{
-				"id": "035",
+				"id": "126",
 				"name": "Chris Bachalo"
 			}
 		],
@@ -5896,7 +5954,7 @@
 		"universe": "Earth-295",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "027"
+		"sortid": "028"
 	},
 	{
 		"id": "1743",
@@ -5907,17 +5965,17 @@
 		"date": "2005-03-16",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "014",
+				"id": "097",
 				"name": "Akira Yoshida"
 			},
 			{
-				"id": "035",
+				"id": "126",
 				"name": "Chris Bachalo"
 			}
 		],
@@ -5925,7 +5983,7 @@
 		"universe": "Earth-295",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "027"
+		"sortid": "028"
 	},
 	{
 		"id": "1744",
@@ -5936,17 +5994,17 @@
 		"date": "2005-03-23",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "014",
+				"id": "097",
 				"name": "Akira Yoshida"
 			},
 			{
-				"id": "035",
+				"id": "126",
 				"name": "Chris Bachalo"
 			}
 		],
@@ -5954,7 +6012,7 @@
 		"universe": "Earth-295",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "027"
+		"sortid": "028"
 	},
 	{
 		"id": "1745",
@@ -5965,17 +6023,17 @@
 		"date": "2005-03-30",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "014",
+				"id": "097",
 				"name": "Akira Yoshida"
 			},
 			{
-				"id": "035",
+				"id": "126",
 				"name": "Chris Bachalo"
 			}
 		],
@@ -5983,7 +6041,7 @@
 		"universe": "Earth-295",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "027"
+		"sortid": "028"
 	},
 	{
 		"id": "1853",
@@ -5994,17 +6052,17 @@
 		"date": "2005-04-27",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "014",
+				"id": "097",
 				"name": "Akira Yoshida"
 			},
 			{
-				"id": "035",
+				"id": "126",
 				"name": "Chris Bachalo"
 			}
 		],
@@ -6012,7 +6070,7 @@
 		"universe": "Earth-295",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "027"
+		"sortid": "028"
 	},
 	{
 		"id": "1534",
@@ -6023,25 +6081,25 @@
 		"date": "2005-01-12",
 		"characters": [
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -6052,7 +6110,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "028"
+		"sortid": "029"
 	},
 	{
 		"id": "1545",
@@ -6063,25 +6121,25 @@
 		"date": "2005-01-26",
 		"characters": [
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -6089,7 +6147,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "028"
+		"sortid": "029"
 	},
 	{
 		"id": "1639",
@@ -6100,25 +6158,25 @@
 		"date": "2005-02-23",
 		"characters": [
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -6126,7 +6184,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "028"
+		"sortid": "029"
 	},
 	{
 		"id": "1733",
@@ -6137,25 +6195,25 @@
 		"date": "2005-03-30",
 		"characters": [
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -6163,7 +6221,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "028"
+		"sortid": "029"
 	},
 	{
 		"id": "1840",
@@ -6174,25 +6232,25 @@
 		"date": "2005-04-20",
 		"characters": [
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -6200,7 +6258,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "028"
+		"sortid": "029"
 	},
 	{
 		"id": "1947",
@@ -6211,25 +6269,25 @@
 		"date": "2005-05-25",
 		"characters": [
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "122",
+				"id": "244",
 				"name": "Craig Kyle"
 			},
 			{
-				"id": "123",
+				"id": "245",
 				"name": "Chris Yost"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -6237,7 +6295,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "028"
+		"sortid": "029"
 	},
 	{
 		"id": "1591",
@@ -6248,25 +6306,25 @@
 		"date": "2005-01-12",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "100",
+				"id": "126",
 				"name": "Beta Ray Bill"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "080",
+				"id": "220",
 				"name": "Mike Oeming"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -6274,7 +6332,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "029"
+		"sortid": "030"
 	},
 	{
 		"id": "1680",
@@ -6285,25 +6343,25 @@
 		"date": "2005-02-16",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "100",
+				"id": "126",
 				"name": "Beta Ray Bill"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "080",
+				"id": "220",
 				"name": "Mike Oeming"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -6311,7 +6369,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "029"
+		"sortid": "030"
 	},
 	{
 		"id": "1779",
@@ -6322,25 +6380,25 @@
 		"date": "2005-03-16",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "100",
+				"id": "126",
 				"name": "Beta Ray Bill"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "080",
+				"id": "220",
 				"name": "Mike Oeming"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -6348,7 +6406,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "029"
+		"sortid": "030"
 	},
 	{
 		"id": "1882",
@@ -6359,25 +6417,25 @@
 		"date": "2005-04-20",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "100",
+				"id": "126",
 				"name": "Beta Ray Bill"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "080",
+				"id": "220",
 				"name": "Mike Oeming"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -6385,7 +6443,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "029"
+		"sortid": "030"
 	},
 	{
 		"id": "1984",
@@ -6396,25 +6454,25 @@
 		"date": "2005-05-18",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "100",
+				"id": "126",
 				"name": "Beta Ray Bill"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "080",
+				"id": "220",
 				"name": "Mike Oeming"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -6422,7 +6480,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "029"
+		"sortid": "030"
 	},
 	{
 		"id": "2087",
@@ -6433,25 +6491,25 @@
 		"date": "2005-06-15",
 		"characters": [
 			{
-				"id": "018",
+				"id": "058",
 				"name": "Cosmic"
 			},
 			{
-				"id": "100",
+				"id": "126",
 				"name": "Beta Ray Bill"
 			},
 			{
-				"id": "068",
+				"id": "099",
 				"name": "Galactus"
 			}
 		],
 		"creators": [
 			{
-				"id": "080",
+				"id": "220",
 				"name": "Mike Oeming"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -6459,7 +6517,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "029"
+		"sortid": "030"
 	},
 	{
 		"id": "1820",
@@ -6470,33 +6528,33 @@
 		"date": "2005-04-20",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "125",
+				"id": "170",
 				"name": "Karl Kesel"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -6504,7 +6562,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "030"
+		"sortid": "031"
 	},
 	{
 		"id": "1821",
@@ -6515,33 +6573,33 @@
 		"date": "2005-05-11",
 		"characters": [
 			{
-				"id": "035",
+				"id": "049",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "036",
+				"id": "050",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "037",
+				"id": "051",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "038",
+				"id": "052",
 				"name": "Human Torch"
 			},
 			{
-				"id": "039",
+				"id": "053",
 				"name": "Thing"
 			}
 		],
 		"creators": [
 			{
-				"id": "125",
+				"id": "170",
 				"name": "Karl Kesel"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -6549,7 +6607,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "030"
+		"sortid": "031"
 	},
 	{
 		"id": "38",
@@ -6560,41 +6618,41 @@
 		"date": "2004-12-22",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			}
 		],
 		"creators": [
 			{
-				"id": "074",
+				"id": "211",
 				"name": "Joss Whedon"
 			},
 			{
-				"id": "075",
+				"id": "212",
 				"name": "John Cassaday"
 			}
 		],
@@ -6603,7 +6661,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "031"
+		"sortid": "032"
 	},
 	{
 		"id": "1436",
@@ -6614,41 +6672,41 @@
 		"date": "2005-02-16",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			}
 		],
 		"creators": [
 			{
-				"id": "074",
+				"id": "211",
 				"name": "Joss Whedon"
 			},
 			{
-				"id": "075",
+				"id": "212",
 				"name": "John Cassaday"
 			}
 		],
@@ -6657,7 +6715,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "031"
+		"sortid": "032"
 	},
 	{
 		"id": "1626",
@@ -6668,41 +6726,41 @@
 		"date": "2005-03-30",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			}
 		],
 		"creators": [
 			{
-				"id": "074",
+				"id": "211",
 				"name": "Joss Whedon"
 			},
 			{
-				"id": "075",
+				"id": "212",
 				"name": "John Cassaday"
 			}
 		],
@@ -6711,7 +6769,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "031"
+		"sortid": "032"
 	},
 	{
 		"id": "1719",
@@ -6722,41 +6780,41 @@
 		"date": "2005-05-11",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			}
 		],
 		"creators": [
 			{
-				"id": "074",
+				"id": "211",
 				"name": "Joss Whedon"
 			},
 			{
-				"id": "075",
+				"id": "212",
 				"name": "John Cassaday"
 			}
 		],
@@ -6765,7 +6823,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "031"
+		"sortid": "032"
 	},
 	{
 		"id": "2842",
@@ -6776,41 +6834,41 @@
 		"date": "2005-07-06",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			}
 		],
 		"creators": [
 			{
-				"id": "074",
+				"id": "211",
 				"name": "Joss Whedon"
 			},
 			{
-				"id": "075",
+				"id": "212",
 				"name": "John Cassaday"
 			}
 		],
@@ -6819,7 +6877,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "031"
+		"sortid": "032"
 	},
 	{
 		"id": "2161",
@@ -6830,41 +6888,41 @@
 		"date": "2005-08-31",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "029",
+				"id": "020",
 				"name": "Beast"
 			},
 			{
-				"id": "030",
+				"id": "068",
 				"name": "Cyclops"
 			},
 			{
-				"id": "031",
+				"id": "072",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "052",
+				"id": "092",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			}
 		],
 		"creators": [
 			{
-				"id": "074",
+				"id": "211",
 				"name": "Joss Whedon"
 			},
 			{
-				"id": "075",
+				"id": "212",
 				"name": "John Cassaday"
 			}
 		],
@@ -6873,7 +6931,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "031"
+		"sortid": "032"
 	},
 	{
 		"id": "79",
@@ -6884,17 +6942,17 @@
 		"date": "2004-11-10",
 		"characters": [
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "097",
+				"id": "198",
 				"name": "Lan Medina"
 			}
 		],
@@ -6902,7 +6960,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "032"
+		"sortid": "033"
 	},
 	{
 		"id": "1482",
@@ -6913,17 +6971,17 @@
 		"date": "2004-12-08",
 		"characters": [
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "097",
+				"id": "198",
 				"name": "Lan Medina"
 			}
 		],
@@ -6931,7 +6989,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "032"
+		"sortid": "033"
 	},
 	{
 		"id": "1567",
@@ -6942,17 +7000,17 @@
 		"date": "2005-01-12",
 		"characters": [
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "097",
+				"id": "198",
 				"name": "Lan Medina"
 			}
 		],
@@ -6960,7 +7018,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "032"
+		"sortid": "033"
 	},
 	{
 		"id": "1656",
@@ -6971,17 +7029,17 @@
 		"date": "2005-02-09",
 		"characters": [
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "097",
+				"id": "198",
 				"name": "Lan Medina"
 			}
 		],
@@ -6989,7 +7047,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "032"
+		"sortid": "033"
 	},
 	{
 		"id": "1750",
@@ -7000,17 +7058,17 @@
 		"date": "2005-03-09",
 		"characters": [
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "097",
+				"id": "198",
 				"name": "Lan Medina"
 			}
 		],
@@ -7018,7 +7076,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "032"
+		"sortid": "033"
 	},
 	{
 		"id": "1856",
@@ -7029,17 +7087,17 @@
 		"date": "2005-04-13",
 		"characters": [
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "097",
+				"id": "198",
 				"name": "Lan Medina"
 			}
 		],
@@ -7047,7 +7105,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "032"
+		"sortid": "033"
 	},
 	{
 		"id": "2019",
@@ -7058,17 +7116,17 @@
 		"date": "2005-05-11",
 		"characters": [
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "097",
+				"id": "198",
 				"name": "Lan Medina"
 			}
 		],
@@ -7076,7 +7134,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "032"
+		"sortid": "033"
 	},
 	{
 		"id": "2124",
@@ -7087,17 +7145,17 @@
 		"date": "2005-06-08",
 		"characters": [
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "097",
+				"id": "198",
 				"name": "Lan Medina"
 			}
 		],
@@ -7105,7 +7163,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "032"
+		"sortid": "033"
 	},
 	{
 		"id": "838",
@@ -7116,17 +7174,17 @@
 		"date": "2004-09-22",
 		"characters": [
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -7137,7 +7195,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "033"
+		"sortid": "034"
 	},
 	{
 		"id": "928",
@@ -7148,17 +7206,17 @@
 		"date": "2004-10-27",
 		"characters": [
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -7169,7 +7227,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "033"
+		"sortid": "034"
 	},
 	{
 		"id": "28",
@@ -7180,17 +7238,17 @@
 		"date": "2004-11-24",
 		"characters": [
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -7201,7 +7259,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "033"
+		"sortid": "034"
 	},
 	{
 		"id": "1425",
@@ -7212,17 +7270,17 @@
 		"date": "2004-12-22",
 		"characters": [
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -7233,7 +7291,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "033"
+		"sortid": "034"
 	},
 	{
 		"id": "1521",
@@ -7244,17 +7302,17 @@
 		"date": "2005-01-19",
 		"characters": [
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -7265,7 +7323,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "033"
+		"sortid": "034"
 	},
 	{
 		"id": "1621",
@@ -7276,17 +7334,17 @@
 		"date": "2005-02-23",
 		"characters": [
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -7297,7 +7355,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "033"
+		"sortid": "034"
 	},
 	{
 		"id": "2130",
@@ -7308,17 +7366,17 @@
 		"date": "2005-06-22",
 		"characters": [
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -7329,7 +7387,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "034"
+		"sortid": "035"
 	},
 	{
 		"id": "2239",
@@ -7340,17 +7398,17 @@
 		"date": "2005-07-27",
 		"characters": [
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -7361,7 +7419,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "034"
+		"sortid": "035"
 	},
 	{
 		"id": "2350",
@@ -7372,17 +7430,17 @@
 		"date": "2005-08-24",
 		"characters": [
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -7393,7 +7451,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "034"
+		"sortid": "035"
 	},
 	{
 		"id": "2494",
@@ -7404,17 +7462,17 @@
 		"date": "2005-09-28",
 		"characters": [
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -7425,7 +7483,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "034"
+		"sortid": "035"
 	},
 	{
 		"id": "2495",
@@ -7436,17 +7494,17 @@
 		"date": "2005-11-02",
 		"characters": [
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -7457,7 +7515,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "034"
+		"sortid": "035"
 	},
 	{
 		"id": "3096",
@@ -7468,17 +7526,17 @@
 		"date": "2005-11-30",
 		"characters": [
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			}
 		],
 		"creators": [
 			{
-				"id": "069",
+				"id": "207",
 				"name": "Roberto Aguirre-Sacasa"
 			},
 			{
-				"id": "127",
+				"id": "044",
 				"name": "Darick Robertson"
 			}
 		],
@@ -7489,7 +7547,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "034"
+		"sortid": "035"
 	},
 	{
 		"id": "1594",
@@ -7500,17 +7558,17 @@
 		"date": "2005-01-19",
 		"characters": [
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			}
 		],
 		"creators": [
 			{
-				"id": "118",
+				"id": "194",
 				"name": "Tony Bedard"
 			},
 			{
-				"id": "128",
+				"id": "248",
 				"name": "Karl Moline"
 			}
 		],
@@ -7518,7 +7576,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "035"
+		"sortid": "036"
 	},
 	{
 		"id": "1683",
@@ -7529,17 +7587,17 @@
 		"date": "2005-02-23",
 		"characters": [
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			}
 		],
 		"creators": [
 			{
-				"id": "118",
+				"id": "194",
 				"name": "Tony Bedard"
 			},
 			{
-				"id": "128",
+				"id": "248",
 				"name": "Karl Moline"
 			}
 		],
@@ -7547,7 +7605,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "035"
+		"sortid": "036"
 	},
 	{
 		"id": "1782",
@@ -7558,17 +7616,17 @@
 		"date": "2005-03-23",
 		"characters": [
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			}
 		],
 		"creators": [
 			{
-				"id": "118",
+				"id": "194",
 				"name": "Tony Bedard"
 			},
 			{
-				"id": "129",
+				"id": "249",
 				"name": "Derec Donovan"
 			}
 		],
@@ -7576,7 +7634,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "035"
+		"sortid": "036"
 	},
 	{
 		"id": "1888",
@@ -7587,17 +7645,17 @@
 		"date": "2005-05-04",
 		"characters": [
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			}
 		],
 		"creators": [
 			{
-				"id": "118",
+				"id": "194",
 				"name": "Tony Bedard"
 			},
 			{
-				"id": "128",
+				"id": "248",
 				"name": "Karl Moline"
 			}
 		],
@@ -7605,7 +7663,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "035"
+		"sortid": "036"
 	},
 	{
 		"id": "1988",
@@ -7616,17 +7674,17 @@
 		"date": "2005-05-18",
 		"characters": [
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			}
 		],
 		"creators": [
 			{
-				"id": "118",
+				"id": "194",
 				"name": "Tony Bedard"
 			},
 			{
-				"id": "129",
+				"id": "249",
 				"name": "Derec Donovan"
 			}
 		],
@@ -7634,7 +7692,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "035"
+		"sortid": "036"
 	},
 	{
 		"id": "2096",
@@ -7645,17 +7703,17 @@
 		"date": "2005-06-22",
 		"characters": [
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			}
 		],
 		"creators": [
 			{
-				"id": "118",
+				"id": "194",
 				"name": "Tony Bedard"
 			},
 			{
-				"id": "128",
+				"id": "248",
 				"name": "Karl Moline"
 			}
 		],
@@ -7663,7 +7721,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "035"
+		"sortid": "036"
 	},
 	{
 		"id": "1975",
@@ -7674,45 +7732,45 @@
 		"date": "2005-07-13",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "070",
+				"id": "208",
 				"name": "Steve McNiven"
 			}
 		],
@@ -7721,7 +7779,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "036"
+		"sortid": "037"
 	},
 	{
 		"id": "2149",
@@ -7732,45 +7790,45 @@
 		"date": "2005-08-03",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "070",
+				"id": "208",
 				"name": "Steve McNiven"
 			}
 		],
@@ -7779,7 +7837,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "036"
+		"sortid": "037"
 	},
 	{
 		"id": "2187",
@@ -7790,45 +7848,45 @@
 		"date": "2005-08-24",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "070",
+				"id": "208",
 				"name": "Steve McNiven"
 			}
 		],
@@ -7837,7 +7895,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "036"
+		"sortid": "037"
 	},
 	{
 		"id": "2626",
@@ -7848,45 +7906,45 @@
 		"date": "2005-09-21",
 		"characters": [
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			},
 			{
-				"id": "056",
+				"id": "022",
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "055",
+				"id": "028",
 				"name": "Iron Man"
 			},
 			{
-				"id": "012",
+				"id": "014",
 				"name": "Luke Cage"
 			},
 			{
-				"id": "013",
+				"id": "015",
 				"name": "Sentry"
 			},
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "093",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "016",
+				"id": "051",
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "070",
+				"id": "208",
 				"name": "Steve McNiven"
 			}
 		],
@@ -7895,7 +7953,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "036"
+		"sortid": "037"
 	},
 	{
 		"id": "2328",
@@ -7906,41 +7964,41 @@
 		"date": "2005-09-28",
 		"characters": [
 			{
-				"id": "079",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "080",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "081",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "082",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "083",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "084",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "062",
+				"id": "036",
 				"name": "Vision"
 			}
 		],
 		"creators": [
 			{
-				"id": "104",
+				"id": "233",
 				"name": "Allan Heinberg"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -7949,7 +8007,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "037"
+		"sortid": "038"
 	},
 	{
 		"id": "2448",
@@ -7960,41 +8018,41 @@
 		"date": "2005-10-26",
 		"characters": [
 			{
-				"id": "079",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "080",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "081",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "082",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "083",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "084",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "062",
+				"id": "036",
 				"name": "Vision"
 			}
 		],
 		"creators": [
 			{
-				"id": "104",
+				"id": "233",
 				"name": "Allan Heinberg"
 			},
 			{
-				"id": "081",
+				"id": "221",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -8003,7 +8061,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "037"
+		"sortid": "038"
 	},
 	{
 		"id": "3222",
@@ -8014,37 +8072,37 @@
 		"date": "2005-12-28",
 		"characters": [
 			{
-				"id": "079",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "080",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "081",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "082",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "083",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "084",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "062",
+				"id": "036",
 				"name": "Vision"
 			}
 		],
 		"creators": [
 			{
-				"id": "104",
+				"id": "233",
 				"name": "Allan Heinberg"
 			}
 		],
@@ -8053,7 +8111,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "038"
+		"sortid": "039"
 	},
 	{
 		"id": "3018",
@@ -8064,41 +8122,41 @@
 		"date": "2005-11-23",
 		"characters": [
 			{
-				"id": "079",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "080",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "081",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "082",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "083",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "084",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "062",
+				"id": "036",
 				"name": "Vision"
 			}
 		],
 		"creators": [
 			{
-				"id": "104",
+				"id": "233",
 				"name": "Allan Heinberg"
 			},
 			{
-				"id": "105",
+				"id": "234",
 				"name": "Jim Cheung"
 			}
 		],
@@ -8107,7 +8165,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "039"
+		"sortid": "040"
 	},
 	{
 		"id": "3359",
@@ -8118,41 +8176,41 @@
 		"date": "2006-02-08",
 		"characters": [
 			{
-				"id": "079",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "080",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "081",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "082",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "083",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "084",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "062",
+				"id": "036",
 				"name": "Vision"
 			}
 		],
 		"creators": [
 			{
-				"id": "104",
+				"id": "233",
 				"name": "Allan Heinberg"
 			},
 			{
-				"id": "105",
+				"id": "234",
 				"name": "Jim Cheung"
 			}
 		],
@@ -8161,7 +8219,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "039"
+		"sortid": "040"
 	},
 	{
 		"id": "3887",
@@ -8172,41 +8230,41 @@
 		"date": "2006-04-05",
 		"characters": [
 			{
-				"id": "079",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "080",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "081",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "082",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "083",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "084",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "062",
+				"id": "036",
 				"name": "Vision"
 			}
 		],
 		"creators": [
 			{
-				"id": "104",
+				"id": "233",
 				"name": "Allan Heinberg"
 			},
 			{
-				"id": "105",
+				"id": "234",
 				"name": "Jim Cheung"
 			}
 		],
@@ -8215,7 +8273,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "039"
+		"sortid": "040"
 	},
 	{
 		"id": "4252",
@@ -8226,41 +8284,41 @@
 		"date": "2006-06-28",
 		"characters": [
 			{
-				"id": "079",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "080",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "081",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "082",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "083",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "084",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "062",
+				"id": "036",
 				"name": "Vision"
 			}
 		],
 		"creators": [
 			{
-				"id": "104",
+				"id": "233",
 				"name": "Allan Heinberg"
 			},
 			{
-				"id": "105",
+				"id": "234",
 				"name": "Jim Cheung"
 			}
 		],
@@ -8269,7 +8327,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "039"
+		"sortid": "040"
 	},
 	{
 		"id": "860",
@@ -8280,25 +8338,25 @@
 		"date": "2004-10-06",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "076",
+				"id": "213",
 				"name": "Mark Millar"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -8307,7 +8365,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "040"
+		"sortid": "041"
 	},
 	{
 		"id": "897",
@@ -8318,25 +8376,25 @@
 		"date": "2004-10-27",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "076",
+				"id": "213",
 				"name": "Mark Millar"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -8345,7 +8403,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "040"
+		"sortid": "041"
 	},
 	{
 		"id": "16",
@@ -8356,25 +8414,25 @@
 		"date": "2004-11-17",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "076",
+				"id": "213",
 				"name": "Mark Millar"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -8383,7 +8441,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "040"
+		"sortid": "041"
 	},
 	{
 		"id": "1419",
@@ -8394,25 +8452,25 @@
 		"date": "2004-12-15",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "076",
+				"id": "213",
 				"name": "Mark Millar"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -8421,7 +8479,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "040"
+		"sortid": "041"
 	},
 	{
 		"id": "1517",
@@ -8432,25 +8490,25 @@
 		"date": "2005-01-19",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "076",
+				"id": "213",
 				"name": "Mark Millar"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -8459,7 +8517,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "040"
+		"sortid": "041"
 	},
 	{
 		"id": "1617",
@@ -8470,25 +8528,25 @@
 		"date": "2005-02-16",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "076",
+				"id": "213",
 				"name": "Mark Millar"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -8497,7 +8555,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "040"
+		"sortid": "041"
 	},
 	{
 		"id": "1712",
@@ -8508,25 +8566,25 @@
 		"date": "2005-03-16",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "076",
+				"id": "213",
 				"name": "Mark Millar"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -8535,7 +8593,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "041"
+		"sortid": "042"
 	},
 	{
 		"id": "1822",
@@ -8546,25 +8604,25 @@
 		"date": "2005-04-20",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "076",
+				"id": "213",
 				"name": "Mark Millar"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -8573,7 +8631,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "041"
+		"sortid": "042"
 	},
 	{
 		"id": "1963",
@@ -8584,25 +8642,25 @@
 		"date": "2005-05-18",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "076",
+				"id": "213",
 				"name": "Mark Millar"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -8611,7 +8669,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "041"
+		"sortid": "042"
 	},
 	{
 		"id": "2066",
@@ -8622,25 +8680,25 @@
 		"date": "2005-06-15",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "076",
+				"id": "213",
 				"name": "Mark Millar"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -8649,7 +8707,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "041"
+		"sortid": "042"
 	},
 	{
 		"id": "2173",
@@ -8660,25 +8718,25 @@
 		"date": "2005-07-20",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "076",
+				"id": "213",
 				"name": "Mark Millar"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -8687,7 +8745,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "041"
+		"sortid": "042"
 	},
 	{
 		"id": "2297",
@@ -8698,25 +8756,25 @@
 		"date": "2005-08-24",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "101",
+				"id": "018",
 				"name": "Elektra"
 			},
 			{
-				"id": "090",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
 		"creators": [
 			{
-				"id": "076",
+				"id": "213",
 				"name": "Mark Millar"
 			},
 			{
-				"id": "046",
+				"id": "089",
 				"name": "John Romita Jr"
 			}
 		],
@@ -8725,7 +8783,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "041"
+		"sortid": "042"
 	},
 	{
 		"id": "2519",
@@ -8736,17 +8794,17 @@
 		"date": "2005-09-21",
 		"characters": [
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			}
 		],
 		"creators": [
 			{
-				"id": "076",
+				"id": "213",
 				"name": "Mark Millar"
 			},
 			{
-				"id": "130",
+				"id": "250",
 				"name": "Kaare Andrews"
 			}
 		],
@@ -8754,7 +8812,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "042"
+		"sortid": "043"
 	},
 	{
 		"id": "2073",
@@ -8765,45 +8823,45 @@
 		"date": "2005-06-01",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "131",
+				"id": "114",
 				"name": "Tom Raney"
 			}
 		],
@@ -8811,7 +8869,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "043"
+		"sortid": "044"
 	},
 	{
 		"id": "2074",
@@ -8822,45 +8880,45 @@
 		"date": "2005-06-15",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "069",
+				"id": "100",
 				"name": "Bishop"
 			},
 			{
-				"id": "070",
+				"id": "101",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "071",
+				"id": "102",
 				"name": "Nightcrawler"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "098",
+				"id": "124",
 				"name": "Psylocke"
 			},
 			{
-				"id": "073",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
 		"creators": [
 			{
-				"id": "091",
+				"id": "227",
 				"name": "Chris Claremont"
 			},
 			{
-				"id": "131",
+				"id": "114",
 				"name": "Tom Raney"
 			}
 		],
@@ -8868,7 +8926,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "043"
+		"sortid": "044"
 	},
 	{
 		"id": "1880",
@@ -8879,17 +8937,17 @@
 		"date": "2005-04-06",
 		"characters": [
 			{
-				"id": "102",
-				"name": "Carmilla Black"
+				"id": "084",
+				"name": ""
 			}
 		],
 		"creators": [
 			{
-				"id": "132",
+				"id": "251",
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "133",
+				"id": "252",
 				"name": "Leonard Kirk"
 			}
 		],
@@ -8901,7 +8959,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "044"
+		"sortid": "045"
 	},
 	{
 		"id": "1980",
@@ -8912,17 +8970,17 @@
 		"date": "2005-05-04",
 		"characters": [
 			{
-				"id": "102",
-				"name": "Carmilla Black"
+				"id": "084",
+				"name": ""
 			}
 		],
 		"creators": [
 			{
-				"id": "132",
+				"id": "251",
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "133",
+				"id": "252",
 				"name": "Leonard Kirk"
 			}
 		],
@@ -8933,7 +8991,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "044"
+		"sortid": "045"
 	},
 	{
 		"id": "2083",
@@ -8944,17 +9002,17 @@
 		"date": "2005-06-01",
 		"characters": [
 			{
-				"id": "102",
-				"name": "Carmilla Black"
+				"id": "084",
+				"name": ""
 			}
 		],
 		"creators": [
 			{
-				"id": "132",
+				"id": "251",
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "133",
+				"id": "252",
 				"name": "Leonard Kirk"
 			}
 		],
@@ -8965,7 +9023,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "044"
+		"sortid": "045"
 	},
 	{
 		"id": "2193",
@@ -8976,17 +9034,17 @@
 		"date": "2005-07-06",
 		"characters": [
 			{
-				"id": "102",
-				"name": "Carmilla Black"
+				"id": "084",
+				"name": ""
 			}
 		],
 		"creators": [
 			{
-				"id": "132",
+				"id": "251",
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "133",
+				"id": "252",
 				"name": "Leonard Kirk"
 			}
 		],
@@ -8997,7 +9055,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "044"
+		"sortid": "045"
 	},
 	{
 		"id": "2309",
@@ -9008,17 +9066,17 @@
 		"date": "2005-08-03",
 		"characters": [
 			{
-				"id": "102",
-				"name": "Carmilla Black"
+				"id": "084",
+				"name": ""
 			}
 		],
 		"creators": [
 			{
-				"id": "132",
+				"id": "251",
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "133",
+				"id": "252",
 				"name": "Leonard Kirk"
 			}
 		],
@@ -9029,7 +9087,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "044"
+		"sortid": "045"
 	},
 	{
 		"id": "2818",
@@ -9040,17 +9098,17 @@
 		"date": "2005-09-07",
 		"characters": [
 			{
-				"id": "102",
-				"name": "Carmilla Black"
+				"id": "084",
+				"name": ""
 			}
 		],
 		"creators": [
 			{
-				"id": "132",
+				"id": "251",
 				"name": "Fred Van Lente"
 			},
 			{
-				"id": "133",
+				"id": "252",
 				"name": "Leonard Kirk"
 			}
 		],
@@ -9061,7 +9119,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "044"
+		"sortid": "045"
 	},
 	{
 		"id": "3105",
@@ -9072,21 +9130,21 @@
 		"date": "2005-11-30",
 		"characters": [
 			{
-				"id": "103",
+				"id": "127",
 				"name": "Amadeus Cho"
 			},
 			{
-				"id": "050",
+				"id": "081",
 				"name": "Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "120",
+				"id": "242",
 				"name": "Greg Pak"
 			},
 			{
-				"id": "056",
+				"id": "162",
 				"name": "Takeshi Miyazawa"
 			}
 		],
@@ -9098,7 +9156,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "045"
+		"sortid": "046"
 	},
 	{
 		"id": "1555",
@@ -9109,17 +9167,17 @@
 		"date": "2005-01-05",
 		"characters": [
 			{
-				"id": "050",
+				"id": "081",
 				"name": "Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "134",
+				"id": "253",
 				"name": "Lee Weeks"
 			}
 		],
@@ -9127,7 +9185,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "046"
+		"sortid": "047"
 	},
 	{
 		"id": "1642",
@@ -9138,17 +9196,17 @@
 		"date": "2005-02-09",
 		"characters": [
 			{
-				"id": "050",
+				"id": "081",
 				"name": "Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "134",
+				"id": "253",
 				"name": "Lee Weeks"
 			}
 		],
@@ -9156,7 +9214,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "046"
+		"sortid": "047"
 	},
 	{
 		"id": "1737",
@@ -9167,17 +9225,17 @@
 		"date": "2005-03-16",
 		"characters": [
 			{
-				"id": "050",
+				"id": "081",
 				"name": "Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "134",
+				"id": "253",
 				"name": "Lee Weeks"
 			}
 		],
@@ -9185,7 +9243,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "046"
+		"sortid": "047"
 	},
 	{
 		"id": "1846",
@@ -9196,17 +9254,17 @@
 		"date": "2005-04-06",
 		"characters": [
 			{
-				"id": "050",
+				"id": "081",
 				"name": "Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "134",
+				"id": "253",
 				"name": "Lee Weeks"
 			}
 		],
@@ -9214,7 +9272,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "046"
+		"sortid": "047"
 	},
 	{
 		"id": "1964",
@@ -9225,17 +9283,17 @@
 		"date": "2005-05-25",
 		"characters": [
 			{
-				"id": "050",
+				"id": "081",
 				"name": "Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "134",
+				"id": "253",
 				"name": "Lee Weeks"
 			}
 		],
@@ -9243,7 +9301,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "046"
+		"sortid": "047"
 	},
 	{
 		"id": "2057",
@@ -9254,17 +9312,17 @@
 		"date": "2005-06-01",
 		"characters": [
 			{
-				"id": "050",
+				"id": "081",
 				"name": "Hulk"
 			}
 		],
 		"creators": [
 			{
-				"id": "099",
+				"id": "073",
 				"name": "Peter David"
 			},
 			{
-				"id": "134",
+				"id": "253",
 				"name": "Lee Weeks"
 			}
 		],
@@ -9272,7 +9330,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "046"
+		"sortid": "047"
 	},
 	{
 		"id": "80",
@@ -9283,17 +9341,17 @@
 		"date": "2004-11-17",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "066",
+				"id": "077",
 				"name": "Michael Ryan"
 			}
 		],
@@ -9301,7 +9359,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "047"
+		"sortid": "048"
 	},
 	{
 		"id": "1483",
@@ -9312,17 +9370,17 @@
 		"date": "2004-12-15",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "066",
+				"id": "077",
 				"name": "Michael Ryan"
 			}
 		],
@@ -9330,7 +9388,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "047"
+		"sortid": "048"
 	},
 	{
 		"id": "1568",
@@ -9341,17 +9399,17 @@
 		"date": "2005-01-19",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "032",
+				"id": "056",
 				"name": "Carlo Pagualyan"
 			}
 		],
@@ -9359,7 +9417,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "047"
+		"sortid": "048"
 	},
 	{
 		"id": "1657",
@@ -9370,17 +9428,17 @@
 		"date": "2005-02-16",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "042",
+				"id": "076",
 				"name": "Paco Medina"
 			}
 		],
@@ -9388,7 +9446,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "047"
+		"sortid": "048"
 	},
 	{
 		"id": "1751",
@@ -9399,17 +9457,17 @@
 		"date": "2005-03-23",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "042",
+				"id": "076",
 				"name": "Paco Medina"
 			}
 		],
@@ -9417,7 +9475,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "047"
+		"sortid": "048"
 	},
 	{
 		"id": "1993",
@@ -9428,17 +9486,17 @@
 		"date": "2005-05-25",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "135",
+				"id": "166",
 				"name": "Clayton Henry"
 			}
 		],
@@ -9446,7 +9504,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "048"
+		"sortid": "049"
 	},
 	{
 		"id": "2100",
@@ -9457,17 +9515,17 @@
 		"date": "2005-06-29",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "135",
+				"id": "166",
 				"name": "Clayton Henry"
 			}
 		],
@@ -9475,7 +9533,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "048"
+		"sortid": "049"
 	},
 	{
 		"id": "2205",
@@ -9486,17 +9544,17 @@
 		"date": "2005-07-20",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "135",
+				"id": "166",
 				"name": "Clayton Henry"
 			}
 		],
@@ -9504,7 +9562,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "048"
+		"sortid": "049"
 	},
 	{
 		"id": "2325",
@@ -9515,17 +9573,17 @@
 		"date": "2005-08-17",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "135",
+				"id": "166",
 				"name": "Clayton Henry"
 			}
 		],
@@ -9533,7 +9591,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "048"
+		"sortid": "049"
 	},
 	{
 		"id": "1857",
@@ -9544,17 +9602,17 @@
 		"date": "2005-04-20",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "066",
+				"id": "077",
 				"name": "Michael Ryan"
 			}
 		],
@@ -9562,7 +9620,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "049"
+		"sortid": "050"
 	},
 	{
 		"id": "2007",
@@ -9573,17 +9631,17 @@
 		"date": "2005-05-04",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "066",
+				"id": "077",
 				"name": "Michael Ryan"
 			}
 		],
@@ -9591,7 +9649,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "049"
+		"sortid": "050"
 	},
 	{
 		"id": "2008",
@@ -9602,17 +9660,17 @@
 		"date": "2005-05-18",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "042",
+				"id": "076",
 				"name": "Paco Medina"
 			}
 		],
@@ -9620,7 +9678,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "049"
+		"sortid": "050"
 	},
 	{
 		"id": "2112",
@@ -9631,17 +9689,17 @@
 		"date": "2005-06-22",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "042",
+				"id": "076",
 				"name": "Paco Medina"
 			}
 		],
@@ -9649,7 +9707,7 @@
 		"universe": "Earth-617",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "049"
+		"sortid": "050"
 	},
 	{
 		"id": "2578",
@@ -9660,17 +9718,17 @@
 		"date": "2005-10-26",
 		"characters": [
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "101",
+				"id": "231",
 				"name": "Christina Weir"
 			},
 			{
-				"id": "136",
+				"id": "045",
 				"name": "Georges Jeanty"
 			}
 		],
@@ -9678,7 +9736,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "049"
+		"sortid": "050"
 	},
 	{
 		"id": "1868",
@@ -9689,21 +9747,21 @@
 		"date": "2005-04-20",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "079",
+				"id": "201",
 				"name": "Mike Deodato Jr"
 			}
 		],
@@ -9715,7 +9773,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "050"
+		"sortid": "051"
 	},
 	{
 		"id": "1966",
@@ -9726,21 +9784,21 @@
 		"date": "2005-05-25",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "079",
+				"id": "201",
 				"name": "Mike Deodato Jr"
 			}
 		],
@@ -9749,7 +9807,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "050"
+		"sortid": "051"
 	},
 	{
 		"id": "2069",
@@ -9760,21 +9818,21 @@
 		"date": "2005-06-29",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "079",
+				"id": "201",
 				"name": "Mike Deodato Jr"
 			}
 		],
@@ -9783,7 +9841,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "050"
+		"sortid": "051"
 	},
 	{
 		"id": "2212",
@@ -9794,21 +9852,21 @@
 		"date": "2005-07-27",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "079",
+				"id": "201",
 				"name": "Mike Deodato Jr"
 			}
 		],
@@ -9817,7 +9875,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "050"
+		"sortid": "051"
 	},
 	{
 		"id": "2980",
@@ -9828,21 +9886,21 @@
 		"date": "2005-08-31",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "079",
+				"id": "201",
 				"name": "Mike Deodato Jr"
 			}
 		],
@@ -9851,7 +9909,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "050"
+		"sortid": "051"
 	},
 	{
 		"id": "2451",
@@ -9862,21 +9920,21 @@
 		"date": "2005-09-28",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			}
 		],
 		"creators": [
 			{
-				"id": "049",
+				"id": "155",
 				"name": "J Michael Straczynski"
 			},
 			{
-				"id": "079",
+				"id": "201",
 				"name": "Mike Deodato Jr"
 			}
 		],
@@ -9885,7 +9943,7 @@
 		"essential": true,
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "050"
+		"sortid": "051"
 	},
 	{
 		"id": "2410",
@@ -9896,49 +9954,49 @@
 		"date": "2005-09-14",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "048",
+				"id": "087",
 				"name": "Gambit"
 			},
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "137",
+				"id": "182",
 				"name": "Salvador Larroca"
 			}
 		],
@@ -9946,7 +10004,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "051"
+		"sortid": "052"
 	},
 	{
 		"id": "2465",
@@ -9957,49 +10015,49 @@
 		"date": "2005-10-19",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "048",
+				"id": "087",
 				"name": "Gambit"
 			},
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "096",
+				"id": "199",
 				"name": "David Yardin"
 			}
 		],
@@ -10007,7 +10065,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "051"
+		"sortid": "052"
 	},
 	{
 		"id": "2435",
@@ -10018,49 +10076,49 @@
 		"date": "2005-09-21",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "048",
+				"id": "087",
 				"name": "Gambit"
 			},
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			}
 		],
 		"creators": [
 			{
-				"id": "047",
+				"id": "106",
 				"name": "Peter Milligan"
 			},
 			{
-				"id": "137",
+				"id": "182",
 				"name": "Salvador Larroca"
 			}
 		],
@@ -10068,7 +10126,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "051"
+		"sortid": "052"
 	},
 	{
 		"id": "2436",
@@ -10079,49 +10137,49 @@
 		"date": "2005-10-26",
 		"characters": [
 			{
-				"id": "094",
+				"id": "005",
 				"name": "Black Panther"
 			},
 			{
-				"id": "028",
+				"id": "067",
 				"name": "X-Men"
 			},
 			{
-				"id": "072",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "048",
+				"id": "087",
 				"name": "Gambit"
 			},
 			{
-				"id": "047",
+				"id": "086",
 				"name": "Rogue"
 			},
 			{
-				"id": "033",
+				"id": "073",
 				"name": "Wolverine"
 			},
 			{
-				"id": "104",
+				"id": "128",
 				"name": "Iceman"
 			},
 			{
-				"id": "105",
+				"id": "129",
 				"name": "Polaris"
 			},
 			{
-				"id": "106",
+				"id": "130",
 				"name": "Havok"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "096",
+				"id": "199",
 				"name": "David Yardin"
 			}
 		],
@@ -10129,7 +10187,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "051"
+		"sortid": "052"
 	},
 	{
 		"id": "2836",
@@ -10140,17 +10198,17 @@
 		"date": "2005-09-07",
 		"characters": [
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "065",
+				"id": "024",
 				"name": "Jorge Lucas"
 			}
 		],
@@ -10158,7 +10216,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "052"
+		"sortid": "053"
 	},
 	{
 		"id": "2547",
@@ -10169,17 +10227,17 @@
 		"date": "2005-10-19",
 		"characters": [
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "065",
+				"id": "024",
 				"name": "Jorge Lucas"
 			}
 		],
@@ -10187,7 +10245,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "052"
+		"sortid": "053"
 	},
 	{
 		"id": "3080",
@@ -10198,17 +10256,17 @@
 		"date": "2005-11-02",
 		"characters": [
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "065",
+				"id": "024",
 				"name": "Jorge Lucas"
 			}
 		],
@@ -10216,7 +10274,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "052"
+		"sortid": "053"
 	},
 	{
 		"id": "3182",
@@ -10227,17 +10285,17 @@
 		"date": "2005-12-07",
 		"characters": [
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "065",
+				"id": "024",
 				"name": "Jorge Lucas"
 			}
 		],
@@ -10245,7 +10303,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "052"
+		"sortid": "053"
 	},
 	{
 		"id": "3388",
@@ -10256,17 +10314,17 @@
 		"date": "2006-01-04",
 		"characters": [
 			{
-				"id": "053",
+				"id": "093",
 				"name": "Colossus"
 			}
 		],
 		"creators": [
 			{
-				"id": "095",
+				"id": "229",
 				"name": "David Hine"
 			},
 			{
-				"id": "065",
+				"id": "024",
 				"name": "Jorge Lucas"
 			}
 		],
@@ -10274,7 +10332,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "052"
+		"sortid": "053"
 	},
 	{
 		"id": "1900",
@@ -10285,21 +10343,21 @@
 		"date": "2005-04-13",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -10307,7 +10365,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "053"
+		"sortid": "054"
 	},
 	{
 		"id": "2000",
@@ -10318,21 +10376,21 @@
 		"date": "2005-05-18",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -10340,7 +10398,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "053"
+		"sortid": "054"
 	},
 	{
 		"id": "2107",
@@ -10351,21 +10409,21 @@
 		"date": "2005-06-08",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -10373,7 +10431,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "053"
+		"sortid": "054"
 	},
 	{
 		"id": "2214",
@@ -10384,21 +10442,21 @@
 		"date": "2005-07-20",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -10406,7 +10464,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "053"
+		"sortid": "054"
 	},
 	{
 		"id": "2331",
@@ -10417,21 +10475,21 @@
 		"date": "2005-08-24",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -10439,7 +10497,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "053"
+		"sortid": "054"
 	},
 	{
 		"id": "2455",
@@ -10450,21 +10508,21 @@
 		"date": "2005-09-14",
 		"characters": [
 			{
-				"id": "023",
+				"id": "062",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "059",
+				"id": "019",
 				"name": "Avengers"
 			}
 		],
 		"creators": [
 			{
-				"id": "119",
+				"id": "241",
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "124",
+				"id": "246",
 				"name": "Billy Tan"
 			}
 		],
@@ -10472,7 +10530,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "053"
+		"sortid": "054"
 	},
 	{
 		"id": "64",
@@ -10483,25 +10541,25 @@
 		"date": "2004-11-10",
 		"characters": [
 			{
-				"id": "107",
+				"id": "041",
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "108",
+				"id": "042",
 				"name": "Songbird"
 			},
 			{
-				"id": "022",
+				"id": "039",
 				"name": "Genis-Vell"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -10512,7 +10570,7 @@
 		],
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "054"
+		"sortid": "055"
 	},
 	{
 		"id": "65",
@@ -10523,25 +10581,25 @@
 		"date": "2004-11-24",
 		"characters": [
 			{
-				"id": "107",
+				"id": "041",
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "108",
+				"id": "042",
 				"name": "Songbird"
 			},
 			{
-				"id": "022",
+				"id": "039",
 				"name": "Genis-Vell"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -10549,7 +10607,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "054"
+		"sortid": "055"
 	},
 	{
 		"id": "1462",
@@ -10560,25 +10618,25 @@
 		"date": "2004-12-22",
 		"characters": [
 			{
-				"id": "107",
+				"id": "041",
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "108",
+				"id": "042",
 				"name": "Songbird"
 			},
 			{
-				"id": "022",
+				"id": "039",
 				"name": "Genis-Vell"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -10586,7 +10644,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "054"
+		"sortid": "055"
 	},
 	{
 		"id": "1556",
@@ -10597,25 +10655,25 @@
 		"date": "2005-01-12",
 		"characters": [
 			{
-				"id": "107",
+				"id": "041",
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "108",
+				"id": "042",
 				"name": "Songbird"
 			},
 			{
-				"id": "022",
+				"id": "039",
 				"name": "Genis-Vell"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -10623,7 +10681,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "054"
+		"sortid": "055"
 	},
 	{
 		"id": "1643",
@@ -10634,25 +10692,25 @@
 		"date": "2005-02-09",
 		"characters": [
 			{
-				"id": "107",
+				"id": "041",
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "108",
+				"id": "042",
 				"name": "Songbird"
 			},
 			{
-				"id": "022",
+				"id": "039",
 				"name": "Genis-Vell"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -10660,7 +10718,7 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "054"
+		"sortid": "055"
 	},
 	{
 		"id": "1738",
@@ -10671,25 +10729,25 @@
 		"date": "2005-03-09",
 		"characters": [
 			{
-				"id": "107",
+				"id": "041",
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "108",
+				"id": "042",
 				"name": "Songbird"
 			},
 			{
-				"id": "022",
+				"id": "039",
 				"name": "Genis-Vell"
 			}
 		],
 		"creators": [
 			{
-				"id": "108",
+				"id": "176",
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "126",
+				"id": "247",
 				"name": "Tom Grummett"
 			}
 		],
@@ -10697,6 +10755,6 @@
 		"universe": "Earth-616",
 		"phaseid": "003",
 		"phasename": "Secret War",
-		"sortid": "054"
+		"sortid": "055"
 	}
 ]
