@@ -8253,6 +8253,71 @@
 						"vol": 1
 					}
 				]
+			},
+			{
+				"title": "Forging the Sword",
+				"date": "2004-05-19",
+				"characters": [
+					{
+						"id": "098",
+						"name": "Excalibur"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/5669b3256e68e.jpg",
+				"phaseid": "001",
+				"sortid": "174",
+				"comiclist": [
+					{
+						"collection": "Excalibur",
+						"vol": 3,
+						"num": 1
+					},
+					{
+						"collection": "Excalibur",
+						"vol": 3,
+						"num": 2
+					},
+					{
+						"collection": "Excalibur",
+						"vol": 3,
+						"num": 3
+					},
+					{
+						"collection": "Excalibur",
+						"vol": 3,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Food Fight",
+				"date": "2004-09-22",
+				"characters": [
+					{
+						"id": "098",
+						"name": "Excalibur"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/5669b2932476a.jpg",
+				"phaseid": "001",
+				"sortid": "175",
+				"comiclist": [
+					{
+						"collection": "Excalibur",
+						"vol": 3,
+						"num": 5
+					},
+					{
+						"collection": "Excalibur",
+						"vol": 3,
+						"num": 6
+					},
+					{
+						"collection": "Excalibur",
+						"vol": 3,
+						"num": 7
+					}
+				]
 			}
 		]
 	},
@@ -8551,6 +8616,36 @@
 				]
 			},
 			{
+				"title": "Saturday Night Fever",
+				"date": "2004-12-22",
+				"characters": [
+					{
+						"id": "098",
+						"name": "Excalibur"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/5669af69ab177.jpg",
+				"phaseid": "002",
+				"sortid": "010",
+				"comiclist": [
+					{
+						"collection": "Excalibur",
+						"vol": 3,
+						"num": 8
+					},
+					{
+						"collection": "Excalibur",
+						"vol": 3,
+						"num": 9
+					},
+					{
+						"collection": "Excalibur",
+						"vol": 3,
+						"num": 10
+					}
+				]
+			},
+			{
 				"title": "Fourtitude",
 				"date": "2004-08-18",
 				"characters": [
@@ -8561,7 +8656,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/57e9748092fdc.jpg",
 				"phaseid": "002",
-				"sortid": "010",
+				"sortid": "011",
 				"comiclist": [
 					{
 						"collection": "Fantastic Four",
@@ -8743,7 +8838,7 @@
 				"date": "2004-05-12",
 				"characters": [
 					{
-						"id": "100",
+						"id": "102",
 						"name": "Bishop"
 					}
 				],
@@ -8788,7 +8883,7 @@
 				"date": "2004-09-15",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
@@ -8963,7 +9058,7 @@
 				"date": "2005-02-09",
 				"characters": [
 					{
-						"id": "110",
+						"id": "112",
 						"name": "Young Avengers"
 					}
 				],
@@ -9009,7 +9104,7 @@
 				"date": "2004-06-30",
 				"characters": [
 					{
-						"id": "116",
+						"id": "118",
 						"name": "Anya Corazon"
 					}
 				],
@@ -9140,6 +9235,56 @@
 				]
 			},
 			{
+				"title": "Brothers and Keepers",
+				"date": "2004-10-06",
+				"characters": [
+					{
+						"id": "022",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/51d2f1178a79b.jpg",
+				"phaseid": "003",
+				"sortid": "014",
+				"comiclist": [
+					{
+						"collection": "Captain America \u0026 The Falcon",
+						"vol": 1,
+						"num": 8
+					},
+					{
+						"collection": "Captain America \u0026 The Falcon",
+						"vol": 1,
+						"num": 9
+					},
+					{
+						"collection": "Captain America \u0026 The Falcon",
+						"vol": 1,
+						"num": 10
+					},
+					{
+						"collection": "Captain America \u0026 The Falcon",
+						"vol": 1,
+						"num": 11
+					},
+					{
+						"collection": "Captain America \u0026 The Falcon",
+						"vol": 1,
+						"num": 12
+					},
+					{
+						"collection": "Captain America \u0026 The Falcon",
+						"vol": 1,
+						"num": 13
+					},
+					{
+						"collection": "Captain America \u0026 The Falcon",
+						"vol": 1,
+						"num": 14
+					}
+				]
+			},
+			{
 				"title": "The Widow",
 				"date": "2004-06-16",
 				"characters": [
@@ -9151,7 +9296,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/00/57278372e5660.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "014",
+				"sortid": "015",
 				"comiclist": [
 					{
 						"collection": "Daredevil",
@@ -9192,7 +9337,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/572787643041b.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "015",
+				"sortid": "016",
 				"comiclist": [
 					{
 						"collection": "Daredevil",
@@ -9233,7 +9378,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/572797fbcf1b4.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "016",
+				"sortid": "017",
 				"comiclist": [
 					{
 						"collection": "Daredevil",
@@ -9273,7 +9418,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/56e19e3890232.jpg",
 				"phaseid": "003",
-				"sortid": "017",
+				"sortid": "018",
 				"comiclist": [
 					{
 						"collection": "Bullseye Greatest Hits",
@@ -9313,7 +9458,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc37e2e77d71.jpg",
 				"phaseid": "003",
-				"sortid": "018",
+				"sortid": "019",
 				"comiclist": [
 					{
 						"collection": "Daredevil Redemption",
@@ -9359,7 +9504,7 @@
 				"pic": "https://i.annihil.us/u/prod/marvel/i/mg/c/c0/5728d2ec8b6dc/detail.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "019",
+				"sortid": "020",
 				"comiclist": [
 					{
 						"collection": "Captain America",
@@ -9403,14 +9548,14 @@
 				"date": "2004-02-04",
 				"characters": [
 					{
-						"id": "118",
+						"id": "120",
 						"name": "Nick Fury"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc6aedcd6792.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "020",
+				"sortid": "021",
 				"comiclist": [
 					{
 						"collection": "Secret war",
@@ -9451,7 +9596,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/56538fd257915.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "021",
+				"sortid": "022",
 				"comiclist": [
 					{
 						"collection": "The Pulse",
@@ -9487,7 +9632,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/5149eb485fbf8.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "022",
+				"sortid": "023",
 				"comiclist": [
 					{
 						"collection": "New Avengers",
@@ -9532,7 +9677,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc63e75162e1.jpg",
 				"phaseid": "003",
-				"sortid": "023",
+				"sortid": "024",
 				"comiclist": [
 					{
 						"collection": "Spider-Man Breakout",
@@ -9572,7 +9717,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/5744b9e7af758.jpg",
 				"phaseid": "003",
-				"sortid": "024",
+				"sortid": "025",
 				"comiclist": [
 					{
 						"collection": "Black Panther",
@@ -9611,13 +9756,13 @@
 				"date": "2005-04-06",
 				"characters": [
 					{
-						"id": "122",
+						"id": "124",
 						"name": "Great Lakes Avengers"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc465362ba79.jpg",
 				"phaseid": "003",
-				"sortid": "025",
+				"sortid": "026",
 				"comiclist": [
 					{
 						"collection": "Great Lakes Avengers",
@@ -9652,6 +9797,46 @@
 				]
 			},
 			{
+				"title": "X4",
+				"date": "2004-12-01",
+				"characters": [
+					{
+						"id": "067",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/53518c90be9fd.jpg",
+				"phaseid": "003",
+				"sortid": "027",
+				"comiclist": [
+					{
+						"collection": "X-Men Fantastic Four",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "X-Men Fantastic Four",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "X-Men Fantastic Four",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "X-Men Fantastic Four",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "X-Men Fantastic Four",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
 				"title": "World's End",
 				"date": "2005-02-02",
 				"characters": [
@@ -9662,7 +9847,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/570294c7e1f6b.jpg",
 				"phaseid": "003",
-				"sortid": "026",
+				"sortid": "028",
 				"comiclist": [
 					{
 						"collection": "Uncanny X-Men",
@@ -9692,6 +9877,91 @@
 				]
 			},
 			{
+				"title": "Age of Apocalypse",
+				"date": "2005-01-19",
+				"characters": [
+					{
+						"id": "075",
+						"name": "Exiles"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/57ead887e2d16.jpg",
+				"phaseid": "003",
+				"sortid": "029",
+				"comiclist": [
+					{
+						"collection": "Exiles",
+						"vol": 1,
+						"num": 58
+					},
+					{
+						"collection": "Exiles",
+						"vol": 1,
+						"num": 59
+					},
+					{
+						"collection": "Exiles",
+						"vol": 1,
+						"num": 60
+					},
+					{
+						"collection": "Exiles",
+						"vol": 1,
+						"num": 61
+					}
+				]
+			},
+			{
+				"title": "Timebreakers",
+				"date": "2005-04-13",
+				"characters": [
+					{
+						"id": "075",
+						"name": "Exiles"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/57ead964708b2.jpg",
+				"phaseid": "003",
+				"sortid": "030",
+				"comiclist": [
+					{
+						"collection": "Exiles",
+						"vol": 1,
+						"num": 62
+					},
+					{
+						"collection": "Exiles",
+						"vol": 1,
+						"num": 63
+					},
+					{
+						"collection": "Exiles",
+						"vol": 1,
+						"num": 64
+					},
+					{
+						"collection": "Exiles",
+						"vol": 1,
+						"num": 65
+					},
+					{
+						"collection": "Exiles",
+						"vol": 1,
+						"num": 66
+					},
+					{
+						"collection": "Exiles",
+						"vol": 1,
+						"num": 67
+					},
+					{
+						"collection": "Exiles",
+						"vol": 1,
+						"num": 68
+					}
+				]
+			},
+			{
 				"title": "Phoenix Endsong",
 				"date": "2005-01-05",
 				"characters": [
@@ -9703,7 +9973,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc654cf9d0ac.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "027",
+				"sortid": "031",
 				"comiclist": [
 					{
 						"collection": "X-Men Phoenix Endsong",
@@ -9743,7 +10013,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/568c36c06a2d5.jpg",
 				"phaseid": "003",
-				"sortid": "028",
+				"sortid": "032",
 				"comiclist": [
 					{
 						"collection": "X-Men The New Age of Apocalypse",
@@ -9782,13 +10052,13 @@
 				"date": "2005-01-12",
 				"characters": [
 					{
-						"id": "104",
+						"id": "106",
 						"name": "X-23"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc468ba18fc2.jpg",
 				"phaseid": "003",
-				"sortid": "029",
+				"sortid": "033",
 				"comiclist": [
 					{
 						"collection": "X-23",
@@ -9833,7 +10103,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4bc6548214c54.jpg",
 				"phaseid": "003",
-				"sortid": "030",
+				"sortid": "034",
 				"comiclist": [
 					{
 						"collection": "Beta Ray Bill Stormbreaker",
@@ -9878,7 +10148,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/80/57e974ec59a5f.jpg",
 				"phaseid": "003",
-				"sortid": "031",
+				"sortid": "035",
 				"comiclist": [
 					{
 						"collection": "Fantastic Four",
@@ -9904,7 +10174,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/56ddf11f48885.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "032",
+				"sortid": "036",
 				"comiclist": [
 					{
 						"collection": "Astonishing X-Men",
@@ -9943,13 +10213,13 @@
 				"date": "2004-11-10",
 				"characters": [
 					{
-						"id": "100",
+						"id": "102",
 						"name": "Bishop"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc6b0937d851.jpg",
 				"phaseid": "003",
-				"sortid": "033",
+				"sortid": "037",
 				"comiclist": [
 					{
 						"collection": "District X",
@@ -9998,13 +10268,13 @@
 				"date": "2004-09-22",
 				"characters": [
 					{
-						"id": "102",
+						"id": "104",
 						"name": "Nightcrawler"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4bc6784420b98.jpg",
 				"phaseid": "003",
-				"sortid": "034",
+				"sortid": "038",
 				"comiclist": [
 					{
 						"collection": "Nightcrawler",
@@ -10043,13 +10313,13 @@
 				"date": "2005-06-22",
 				"characters": [
 					{
-						"id": "102",
+						"id": "104",
 						"name": "Nightcrawler"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4bc633700ad2c.jpg",
 				"phaseid": "003",
-				"sortid": "035",
+				"sortid": "039",
 				"comiclist": [
 					{
 						"collection": "Nightcrawler",
@@ -10094,7 +10364,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc653333daf3.jpg",
 				"phaseid": "003",
-				"sortid": "036",
+				"sortid": "040",
 				"comiclist": [
 					{
 						"collection": "Rogue",
@@ -10129,6 +10399,96 @@
 				]
 			},
 			{
+				"title": "House of Cards",
+				"date": "2004-09-01",
+				"characters": [
+					{
+						"id": "087",
+						"name": "Gambit"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/56b0ece2db462.jpg",
+				"phaseid": "003",
+				"sortid": "041",
+				"comiclist": [
+					{
+						"collection": "Gambit",
+						"vol": 4,
+						"num": 1
+					},
+					{
+						"collection": "Gambit",
+						"vol": 4,
+						"num": 2
+					},
+					{
+						"collection": "Gambit",
+						"vol": 4,
+						"num": 3
+					},
+					{
+						"collection": "Gambit",
+						"vol": 4,
+						"num": 4
+					},
+					{
+						"collection": "Gambit",
+						"vol": 4,
+						"num": 5
+					},
+					{
+						"collection": "Gambit",
+						"vol": 4,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Hath No Fury",
+				"date": "2005-02-09",
+				"characters": [
+					{
+						"id": "087",
+						"name": "Gambit"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/56b0feeb4a7a1.jpg",
+				"phaseid": "003",
+				"sortid": "042",
+				"comiclist": [
+					{
+						"collection": "Gambit",
+						"vol": 4,
+						"num": 7
+					},
+					{
+						"collection": "Gambit",
+						"vol": 4,
+						"num": 8
+					},
+					{
+						"collection": "Gambit",
+						"vol": 4,
+						"num": 9
+					},
+					{
+						"collection": "Gambit",
+						"vol": 4,
+						"num": 10
+					},
+					{
+						"collection": "Gambit",
+						"vol": 4,
+						"num": 11
+					},
+					{
+						"collection": "Gambit",
+						"vol": 4,
+						"num": 12
+					}
+				]
+			},
+			{
 				"title": "The Sentry",
 				"date": "2005-07-13",
 				"characters": [
@@ -10140,7 +10500,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4f7db39021b77.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "037",
+				"sortid": "043",
 				"comiclist": [
 					{
 						"collection": "New Avengers",
@@ -10169,14 +10529,14 @@
 				"date": "2005-09-28",
 				"characters": [
 					{
-						"id": "110",
+						"id": "112",
 						"name": "Young Avengers"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bc628d3289f5.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "038",
+				"sortid": "044",
 				"comiclist": [
 					{
 						"collection": "Young Avengers",
@@ -10195,14 +10555,14 @@
 				"date": "2005-12-28",
 				"characters": [
 					{
-						"id": "110",
+						"id": "112",
 						"name": "Young Avengers"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc60cc45e087.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "039",
+				"sortid": "045",
 				"comiclist": [
 					{
 						"collection": "Young Avengers Special",
@@ -10216,14 +10576,14 @@
 				"date": "2005-11-23",
 				"characters": [
 					{
-						"id": "110",
+						"id": "112",
 						"name": "Young Avengers"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4bc32e9875641.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "040",
+				"sortid": "046",
 				"comiclist": [
 					{
 						"collection": "Young Avengers",
@@ -10259,7 +10619,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/51ed63ab9d42c.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "041",
+				"sortid": "047",
 				"comiclist": [
 					{
 						"collection": "Wolverine",
@@ -10305,7 +10665,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/51ed65d183c56.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "042",
+				"sortid": "048",
 				"comiclist": [
 					{
 						"collection": "Wolverine",
@@ -10350,7 +10710,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4d250538ed7ff.jpg",
 				"phaseid": "003",
-				"sortid": "043",
+				"sortid": "049",
 				"comiclist": [
 					{
 						"collection": "Wolverine",
@@ -10370,7 +10730,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4bc636baa70b1.jpg",
 				"phaseid": "003",
-				"sortid": "044",
+				"sortid": "050",
 				"comiclist": [
 					{
 						"collection": "Uncanny X-Men",
@@ -10395,7 +10755,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/56cb709d2583f.jpg",
 				"phaseid": "003",
-				"sortid": "045",
+				"sortid": "051",
 				"comiclist": [
 					{
 						"collection": "Amazing Fantasy",
@@ -10434,14 +10794,14 @@
 				"date": "2005-11-30",
 				"characters": [
 					{
-						"id": "127",
+						"id": "129",
 						"name": "Amadeus Cho"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/56cb74a9868bc.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "046",
+				"sortid": "052",
 				"comiclist": [
 					{
 						"collection": "Amazing Fantasy",
@@ -10461,7 +10821,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc656661c7c0.jpg",
 				"phaseid": "003",
-				"sortid": "047",
+				"sortid": "053",
 				"comiclist": [
 					{
 						"collection": "Incredible Hulk",
@@ -10506,7 +10866,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5702aa7b613c6.jpg",
 				"phaseid": "003",
-				"sortid": "048",
+				"sortid": "054",
 				"comiclist": [
 					{
 						"collection": "New X-Men",
@@ -10546,7 +10906,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc63a4d0d77f.jpg",
 				"phaseid": "003",
-				"sortid": "049",
+				"sortid": "055",
 				"comiclist": [
 					{
 						"collection": "New X-Men Hellions",
@@ -10581,7 +10941,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/5702ad5a51bef.jpg",
 				"phaseid": "003",
-				"sortid": "050",
+				"sortid": "056",
 				"comiclist": [
 					{
 						"collection": "New X-Men",
@@ -10622,7 +10982,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/57f7ac2fdbf24.jpg",
 				"essential": true,
 				"phaseid": "003",
-				"sortid": "051",
+				"sortid": "057",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -10657,6 +11017,51 @@
 				]
 			},
 			{
+				"title": "The Road to Damnation",
+				"date": "2005-09-21",
+				"characters": [
+					{
+						"id": "130",
+						"name": "Ghost Rider"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4c7d64d90b4d8.jpg",
+				"phaseid": "003",
+				"sortid": "058",
+				"comiclist": [
+					{
+						"collection": "Ghost Rider",
+						"vol": 5,
+						"num": 1
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 5,
+						"num": 2
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 5,
+						"num": 3
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 5,
+						"num": 4
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 5,
+						"num": 5
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 5,
+						"num": 6
+					}
+				]
+			},
+			{
 				"title": "Wild Kingdom",
 				"date": "2005-09-14",
 				"characters": [
@@ -10667,7 +11072,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bc6241c423ec.jpg",
 				"phaseid": "003",
-				"sortid": "052",
+				"sortid": "059",
 				"comiclist": [
 					{
 						"collection": "X-Men",
@@ -10692,6 +11097,96 @@
 				]
 			},
 			{
+				"title": "Homecoming",
+				"date": "2004-10-01",
+				"characters": [
+					{
+						"id": "007",
+						"name": "Black Widow"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bc37e337b8af.jpg",
+				"phaseid": "003",
+				"sortid": "060",
+				"comiclist": [
+					{
+						"collection": "Black Widow",
+						"vol": 3,
+						"num": 1
+					},
+					{
+						"collection": "Black Widow",
+						"vol": 3,
+						"num": 2
+					},
+					{
+						"collection": "Black Widow",
+						"vol": 3,
+						"num": 3
+					},
+					{
+						"collection": "Black Widow",
+						"vol": 3,
+						"num": 4
+					},
+					{
+						"collection": "Black Widow",
+						"vol": 3,
+						"num": 5
+					},
+					{
+						"collection": "Black Widow",
+						"vol": 3,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Books of Doom",
+				"date": "2005-11-09",
+				"characters": [
+					{
+						"id": "017",
+						"name": "Doctor Doom"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/56e18ca86ea5f.jpg",
+				"phaseid": "003",
+				"sortid": "061",
+				"comiclist": [
+					{
+						"collection": "Books of Doom",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Books of Doom",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Books of Doom",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Books of Doom",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Books of Doom",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Books of Doom",
+						"vol": 1,
+						"num": 6
+					}
+				]
+			},
+			{
 				"title": "Bloodline",
 				"date": "2005-09-07",
 				"characters": [
@@ -10702,7 +11197,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/56a79296c1daf.jpg",
 				"phaseid": "003",
-				"sortid": "053",
+				"sortid": "062",
 				"comiclist": [
 					{
 						"collection": "Colossus Bloddline",
@@ -10742,7 +11237,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/57ae4908f3f8f.jpg",
 				"phaseid": "003",
-				"sortid": "054",
+				"sortid": "063",
 				"comiclist": [
 					{
 						"collection": "Marvel Knights Spider-Man",
@@ -10787,7 +11282,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc6b22116c9f.jpg",
 				"phaseid": "003",
-				"sortid": "055",
+				"sortid": "064",
 				"comiclist": [
 					{
 						"collection": "New Thunderbolts",
@@ -10830,6 +11325,41 @@
 		},
 		"list": [
 			{
+				"title": "The Devil's Own",
+				"date": "2005-03-23",
+				"characters": [
+					{
+						"id": "098",
+						"name": "Excalibur"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5669aea1b9610.jpg",
+				"phaseid": "004",
+				"sortid": "001",
+				"comiclist": [
+					{
+						"collection": "Excalibur",
+						"vol": 3,
+						"num": 11
+					},
+					{
+						"collection": "Excalibur",
+						"vol": 3,
+						"num": 12
+					},
+					{
+						"collection": "Excalibur",
+						"vol": 3,
+						"num": 13
+					},
+					{
+						"collection": "Excalibur",
+						"vol": 3,
+						"num": 14
+					}
+				]
+			},
+			{
 				"title": "House of M",
 				"date": "2005-06-01",
 				"characters": [
@@ -10841,7 +11371,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51cc4da1a7058.jpg",
 				"essential": true,
 				"phaseid": "004",
-				"sortid": "001",
+				"sortid": "002",
 				"comiclist": [
 					{
 						"collection": "House of M",
@@ -10896,7 +11426,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/535190892db5e.jpg",
 				"phaseid": "004",
-				"sortid": "002",
+				"sortid": "003",
 				"comiclist": [
 					{
 						"collection": "Fantastic Four House of M",
@@ -10926,7 +11456,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bb86d0cf217b.jpg",
 				"phaseid": "004",
-				"sortid": "003",
+				"sortid": "004",
 				"comiclist": [
 					{
 						"collection": "Spider-Man House of M",
@@ -10966,7 +11496,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bc62ce032575.jpg",
 				"phaseid": "004",
-				"sortid": "004",
+				"sortid": "005",
 				"comiclist": [
 					{
 						"collection": "Iron Man House of M",
@@ -10996,7 +11526,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc62c46bdb85.jpg",
 				"phaseid": "004",
-				"sortid": "005",
+				"sortid": "006",
 				"comiclist": [
 					{
 						"collection": "Incredible Hulk",
@@ -11030,13 +11560,13 @@
 				"date": "2005-07-13",
 				"characters": [
 					{
-						"id": "100",
+						"id": "102",
 						"name": "Bishop"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bc62d059e115.jpg",
 				"phaseid": "004",
-				"sortid": "006",
+				"sortid": "007",
 				"comiclist": [
 					{
 						"collection": "Mutopia X",
@@ -11077,7 +11607,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5653544c5e3bf.jpg",
 				"essential": true,
 				"phaseid": "004",
-				"sortid": "007",
+				"sortid": "008",
 				"comiclist": [
 					{
 						"collection": "The Pulse",
@@ -11097,7 +11627,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5745bcc5d2777.jpg",
 				"phaseid": "004",
-				"sortid": "008",
+				"sortid": "009",
 				"comiclist": [
 					{
 						"collection": "Black Panther",
@@ -11117,7 +11647,7 @@
 				],
 				"pic": "https://i.annihil.us/u/prod/marvel/i/mg/c/10/4d24fef511cb5/detail.jpg",
 				"phaseid": "004",
-				"sortid": "009",
+				"sortid": "010",
 				"comiclist": [
 					{
 						"collection": "Captain America",
@@ -11137,7 +11667,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4d24f6a19cd02.jpg",
 				"phaseid": "004",
-				"sortid": "010",
+				"sortid": "011",
 				"comiclist": [
 					{
 						"collection": "Wolverine",
@@ -11167,7 +11697,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc6305a2b7c6.jpg",
 				"phaseid": "004",
-				"sortid": "011",
+				"sortid": "012",
 				"comiclist": [
 					{
 						"collection": "Uncanny X-Men",
@@ -11202,7 +11732,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/5702aba9be7c9.jpg",
 				"phaseid": "004",
-				"sortid": "012",
+				"sortid": "013",
 				"comiclist": [
 					{
 						"collection": "New X-Men",
@@ -11227,6 +11757,36 @@
 				]
 			},
 			{
+				"title": "World Tour",
+				"date": "2005-09-07",
+				"characters": [
+					{
+						"id": "075",
+						"name": "Exiles"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bc4792d56816.jpg",
+				"phaseid": "004",
+				"sortid": "014",
+				"comiclist": [
+					{
+						"collection": "Exiles",
+						"vol": 1,
+						"num": 69
+					},
+					{
+						"collection": "Exiles",
+						"vol": 1,
+						"num": 70
+					},
+					{
+						"collection": "Exiles",
+						"vol": 1,
+						"num": 71
+					}
+				]
+			},
+			{
 				"title": "Moment of Clarity",
 				"date": "2006-02-15",
 				"characters": [
@@ -11237,7 +11797,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4bc5fead6c4b9.jpg",
 				"phaseid": "004",
-				"sortid": "013",
+				"sortid": "015",
 				"comiclist": [
 					{
 						"collection": "Giant Size Ms. Marvel 1",
@@ -11257,7 +11817,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc38f75c2352.jpg",
 				"phaseid": "004",
-				"sortid": "014",
+				"sortid": "016",
 				"comiclist": [
 					{
 						"collection": "House of M Avengers",
@@ -11291,13 +11851,13 @@
 				"date": "2009-08-05",
 				"characters": [
 					{
-						"id": "134",
+						"id": "136",
 						"name": "Masters of Evil"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4bb41515a6cca.jpg",
 				"phaseid": "004",
-				"sortid": "015",
+				"sortid": "017",
 				"comiclist": [
 					{
 						"collection": "House of M Masters of Evil",
@@ -11326,13 +11886,13 @@
 				"date": "2008-09-10",
 				"characters": [
 					{
-						"id": "131",
+						"id": "099",
 						"name": "Magneto"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/572a3dd32a736.jpg",
 				"phaseid": "004",
-				"sortid": "016",
+				"sortid": "018",
 				"comiclist": [
 					{
 						"collection": "House of M Civil War",
@@ -11372,7 +11932,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/56e1d6714e720.jpg",
 				"phaseid": "004",
-				"sortid": "017",
+				"sortid": "019",
 				"comiclist": [
 					{
 						"collection": "Cable \u0026 Deadpool",
@@ -11417,7 +11977,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bc63e88d2b61.jpg",
 				"phaseid": "004",
-				"sortid": "018",
+				"sortid": "020",
 				"comiclist": [
 					{
 						"collection": "New Thunderbolts",
@@ -11736,7 +12296,7 @@
 				"date": "2005-12-14",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
@@ -11823,6 +12383,46 @@
 				]
 			},
 			{
+				"title": "Defenders of the Realm",
+				"date": "2005-11-09",
+				"characters": [
+					{
+						"id": "098",
+						"name": "Excalibur"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/58054c03a3bb8.jpg",
+				"phaseid": "005",
+				"sortid": "011",
+				"comiclist": [
+					{
+						"collection": "New Excalibur",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "New Excalibur",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "New Excalibur",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "New Excalibur",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "New Excalibur",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
 				"title": "Endangered Spicies",
 				"date": "2007-06-20",
 				"characters": [
@@ -11834,7 +12434,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/56f953a644953.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "011",
+				"sortid": "012",
 				"comiclist": [
 					{
 						"collection": "X-Men - Endangered Species",
@@ -11940,7 +12540,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4f7e00708ff3f.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "012",
+				"sortid": "013",
 				"comiclist": [
 					{
 						"collection": "New Avengers",
@@ -11964,14 +12564,14 @@
 				"date": "2005-07-27",
 				"characters": [
 					{
-						"id": "121",
+						"id": "123",
 						"name": "Spider-Woman"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc62c329dd17.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "013",
+				"sortid": "014",
 				"comiclist": [
 					{
 						"collection": "Giant Size Spider-Woman",
@@ -11992,7 +12592,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4f7e037894ea0.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "014",
+				"sortid": "015",
 				"comiclist": [
 					{
 						"collection": "New Avengers",
@@ -12018,7 +12618,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/515af88eac9f4.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "015",
+				"sortid": "016",
 				"comiclist": [
 					{
 						"collection": "Runaways",
@@ -12064,7 +12664,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/5796669d84c2f.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "016",
+				"sortid": "017",
 				"comiclist": [
 					{
 						"collection": "Runaways",
@@ -12103,13 +12703,13 @@
 				"date": "2006-01-11",
 				"characters": [
 					{
-						"id": "139",
+						"id": "141",
 						"name": "Ares"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/55f1ec17724da.jpg",
 				"phaseid": "005",
-				"sortid": "017",
+				"sortid": "018",
 				"comiclist": [
 					{
 						"collection": "Ares God of War",
@@ -12143,13 +12743,13 @@
 				"date": "2005-01-19",
 				"characters": [
 					{
-						"id": "116",
+						"id": "118",
 						"name": "Anya Corazon"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/56cdce9df30ab.jpg",
 				"phaseid": "005",
-				"sortid": "018",
+				"sortid": "019",
 				"comiclist": [
 					{
 						"collection": "Araña",
@@ -12188,13 +12788,13 @@
 				"date": "2005-07-27",
 				"characters": [
 					{
-						"id": "116",
+						"id": "118",
 						"name": "Anya Corazon"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/56ddd93d7eadc.jpg",
 				"phaseid": "005",
-				"sortid": "019",
+				"sortid": "020",
 				"comiclist": [
 					{
 						"collection": "Araña",
@@ -12240,7 +12840,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4f7f0a8fb8c03.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "020",
+				"sortid": "021",
 				"comiclist": [
 					{
 						"collection": "Iron Man",
@@ -12275,6 +12875,51 @@
 				]
 			},
 			{
+				"title": "Daughters of the Dragon",
+				"date": "2006-01-11",
+				"characters": [
+					{
+						"id": "143",
+						"name": "Heroes For Hire"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/586c1dee47ea0.jpg",
+				"phaseid": "005",
+				"sortid": "022",
+				"comiclist": [
+					{
+						"collection": "Daughters of the Dragon",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Daughters of the Dragon",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Daughters of the Dragon",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Daughters of the Dragon",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Daughters of the Dragon",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Daughters of the Dragon",
+						"vol": 1,
+						"num": 6
+					}
+				]
+			},
+			{
 				"title": "Earthfall",
 				"date": "2005-09-28",
 				"characters": [
@@ -12286,7 +12931,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc61f37ead85.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "021",
+				"sortid": "023",
 				"comiclist": [
 					{
 						"collection": "Drax the Destroyer",
@@ -12315,13 +12960,13 @@
 				"date": "2005-04-13",
 				"characters": [
 					{
-						"id": "142",
+						"id": "146",
 						"name": "Toxin"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4bc63e7eead78.jpg",
 				"phaseid": "005",
-				"sortid": "022",
+				"sortid": "024",
 				"comiclist": [
 					{
 						"collection": "Toxin",
@@ -12366,7 +13011,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4bc61ed50025b.jpg",
 				"phaseid": "005",
-				"sortid": "023",
+				"sortid": "025",
 				"comiclist": [
 					{
 						"collection": "New Thunderbolts",
@@ -12416,7 +13061,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5744c91d5154a.jpg",
 				"phaseid": "005",
-				"sortid": "024",
+				"sortid": "026",
 				"comiclist": [
 					{
 						"collection": "Thunderbolts",
@@ -12431,6 +13076,51 @@
 				]
 			},
 			{
+				"title": "The Things They Say about Her",
+				"date": "2005-09-28",
+				"characters": [
+					{
+						"id": "007",
+						"name": "Black Widow"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/56e17e442b7db.jpg",
+				"phaseid": "005",
+				"sortid": "027",
+				"comiclist": [
+					{
+						"collection": "Black Widow 2",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Black Widow 2",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Black Widow 2",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Black Widow 2",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Black Widow 2",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Black Widow 2",
+						"vol": 1,
+						"num": 6
+					}
+				]
+			},
+			{
 				"title": "Under the Eye of the Clock",
 				"date": "2005-09-07",
 				"characters": [
@@ -12441,7 +13131,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb71ef816b29.jpg",
 				"phaseid": "005",
-				"sortid": "025",
+				"sortid": "028",
 				"comiclist": [
 					{
 						"collection": "Sentry",
@@ -12497,7 +13187,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/5140b932ac375.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "026",
+				"sortid": "029",
 				"comiclist": [
 					{
 						"collection": "Captain America",
@@ -12532,6 +13222,36 @@
 				]
 			},
 			{
+				"title": "Undead Again",
+				"date": "2006-09-20",
+				"characters": [
+					{
+						"id": "085",
+						"name": "Blade"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/56c35c36de382.jpg",
+				"phaseid": "005",
+				"sortid": "030",
+				"comiclist": [
+					{
+						"collection": "Blade",
+						"vol": 5,
+						"num": 1
+					},
+					{
+						"collection": "Blade",
+						"vol": 5,
+						"num": 2
+					},
+					{
+						"collection": "Blade",
+						"vol": 5,
+						"num": 3
+					}
+				]
+			},
+			{
 				"title": "The Life Fantastic",
 				"date": "2005-05-25",
 				"characters": [
@@ -12543,7 +13263,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/57e976c50d591.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "027",
+				"sortid": "031",
 				"comiclist": [
 					{
 						"collection": "Fantastic Four",
@@ -12603,7 +13323,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/57630ae196881.jpg",
 				"phaseid": "005",
-				"sortid": "028",
+				"sortid": "032",
 				"comiclist": [
 					{
 						"collection": "She-Hulk",
@@ -12643,7 +13363,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/576442eb62b2a.jpg",
 				"phaseid": "005",
-				"sortid": "029",
+				"sortid": "033",
 				"comiclist": [
 					{
 						"collection": "She-Hulk",
@@ -12669,7 +13389,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56a8ef914ba16.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "030",
+				"sortid": "034",
 				"comiclist": [
 					{
 						"collection": "Friendly Neighborhood Spider-Man",
@@ -12738,13 +13458,13 @@
 				"date": "2006-12-13",
 				"characters": [
 					{
-						"id": "104",
+						"id": "106",
 						"name": "X-23"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/57460dd0baefd.jpg",
 				"phaseid": "005",
-				"sortid": "031",
+				"sortid": "035",
 				"comiclist": [
 					{
 						"collection": "X-23 Target X",
@@ -12789,7 +13509,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/517ad22da11c8.jpg",
 				"phaseid": "005",
-				"sortid": "032",
+				"sortid": "036",
 				"comiclist": [
 					{
 						"collection": "Dr Strange - The Oath",
@@ -12830,7 +13550,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/57470b733fd27.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "033",
+				"sortid": "037",
 				"comiclist": [
 					{
 						"collection": "Daredevil",
@@ -12865,6 +13585,41 @@
 				]
 			},
 			{
+				"title": "Destruction",
+				"date": "2005-07-27",
+				"characters": [
+					{
+						"id": "081",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/587412bf4443f.jpg",
+				"phaseid": "005",
+				"sortid": "038",
+				"comiclist": [
+					{
+						"collection": "Hulk Destruction",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Hulk Destruction",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Hulk Destruction",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Hulk Destruction",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
 				"title": "Peace in Our Time",
 				"date": "2005-11-09",
 				"characters": [
@@ -12876,7 +13631,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4bc61ae126812.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "034",
+				"sortid": "039",
 				"comiclist": [
 					{
 						"collection": "Incredible Hulk",
@@ -12911,7 +13666,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bc5fb6e401f0.jpg",
 				"phaseid": "005",
-				"sortid": "035",
+				"sortid": "040",
 				"comiclist": [
 					{
 						"collection": "Marvel Knights Four",
@@ -12941,7 +13696,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bc612a51f765.jpg",
 				"phaseid": "005",
-				"sortid": "036",
+				"sortid": "041",
 				"comiclist": [
 					{
 						"collection": "Uncanny X-Men",
@@ -12986,7 +13741,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4d24edc54a507.jpg",
 				"phaseid": "005",
-				"sortid": "037",
+				"sortid": "042",
 				"comiclist": [
 					{
 						"collection": "Wolverine",
@@ -13026,7 +13781,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/51e06c1504154.jpg",
 				"phaseid": "005",
-				"sortid": "038",
+				"sortid": "043",
 				"comiclist": [
 					{
 						"collection": "Wolverine Origins",
@@ -13066,7 +13821,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4d24e4ce22f4e.jpg",
 				"phaseid": "005",
-				"sortid": "039",
+				"sortid": "044",
 				"comiclist": [
 					{
 						"collection": "Wolverine Origins",
@@ -13125,13 +13880,13 @@
 				"date": "2005-12-21",
 				"characters": [
 					{
-						"id": "121",
+						"id": "123",
 						"name": "Spider-Woman"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc60cf5e77e2.jpg",
 				"phaseid": "005",
-				"sortid": "040",
+				"sortid": "045",
 				"comiclist": [
 					{
 						"collection": "Spider-Woman Origin",
@@ -13171,7 +13926,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc47b4bb43fa.jpg",
 				"phaseid": "005",
-				"sortid": "041",
+				"sortid": "046",
 				"comiclist": [
 					{
 						"collection": "Cable \u0026 Deadpool",
@@ -13231,6 +13986,41 @@
 				]
 			},
 			{
+				"title": "Sable \u0026 Fortune",
+				"date": "2006-01-04",
+				"characters": [
+					{
+						"id": "084",
+						"name": ""
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/57684f23df424.jpg",
+				"phaseid": "005",
+				"sortid": "047",
+				"comiclist": [
+					{
+						"collection": "Sable \u0026 Fortune",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Sable \u0026 Fortune",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Sable \u0026 Fortune",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Sable \u0026 Fortune",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
 				"title": "Reality Check",
 				"date": "2005-06-08",
 				"characters": [
@@ -13241,7 +14031,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/57cf34c4bf32f.jpg",
 				"phaseid": "005",
-				"sortid": "042",
+				"sortid": "048",
 				"comiclist": [
 					{
 						"collection": "New Warriors",
@@ -13287,7 +14077,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5653546c4c5b2.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "043",
+				"sortid": "049",
 				"comiclist": [
 					{
 						"collection": "The Pulse",
@@ -13323,7 +14113,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/570bc887abd51.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "044",
+				"sortid": "050",
 				"comiclist": [
 					{
 						"collection": "Captain America",
@@ -13374,7 +14164,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4d250ded85b05.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "045",
+				"sortid": "051",
 				"comiclist": [
 					{
 						"collection": "Daredevil",
@@ -13419,7 +14209,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc35532dff58.jpg",
 				"phaseid": "005",
-				"sortid": "046",
+				"sortid": "052",
 				"comiclist": [
 					{
 						"collection": "Spider-Man and the Fantastic Four",
@@ -13454,7 +14244,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc5fe75153ca.jpg",
 				"phaseid": "005",
-				"sortid": "047",
+				"sortid": "053",
 				"comiclist": [
 					{
 						"collection": "Sensational Spider-Man",
@@ -13494,7 +14284,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/56dee9a3e4122.jpg",
 				"phaseid": "005",
-				"sortid": "048",
+				"sortid": "054",
 				"comiclist": [
 					{
 						"collection": "Black Panther",
@@ -13529,7 +14319,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/5747190f12e97.jpg",
 				"phaseid": "005",
-				"sortid": "049",
+				"sortid": "055",
 				"comiclist": [
 					{
 						"collection": "Black Panther",
@@ -13564,7 +14354,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bc5f4d10a19f.jpg",
 				"phaseid": "005",
-				"sortid": "050",
+				"sortid": "056",
 				"comiclist": [
 					{
 						"collection": "Uncanny X-Men",
@@ -13599,7 +14389,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/56a8f02dc1ebb.jpg",
 				"phaseid": "005",
-				"sortid": "051",
+				"sortid": "057",
 				"comiclist": [
 					{
 						"collection": "Friendly Neighborhood Spider-Man",
@@ -13645,7 +14435,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f8479d44fd50.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "052",
+				"sortid": "058",
 				"comiclist": [
 					{
 						"collection": "Iron Man",
@@ -13680,6 +14470,91 @@
 				]
 			},
 			{
+				"title": "Apocalypse vs Dracula",
+				"date": "2006-02-15",
+				"characters": [
+					{
+						"id": "067",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4bc602088ad10.jpg",
+				"phaseid": "005",
+				"sortid": "059",
+				"comiclist": [
+					{
+						"collection": "X-Men Apocalypse vs Dracula",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "X-Men Apocalypse vs Dracula",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "X-Men Apocalypse vs Dracula",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "X-Men Apocalypse vs Dracula",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Vicious Cycle",
+				"date": "2006-07-12",
+				"characters": [
+					{
+						"id": "130",
+						"name": "Ghost Rider"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bc5d626a391b.jpg",
+				"phaseid": "005",
+				"sortid": "060",
+				"comiclist": [
+					{
+						"collection": "Ghost Rider",
+						"vol": 6,
+						"num": 1
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 6,
+						"num": 2
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 6,
+						"num": 3
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 6,
+						"num": 4
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 6,
+						"num": 5
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 6,
+						"num": 6
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 6,
+						"num": 7
+					}
+				]
+			},
+			{
 				"title": "The Collective",
 				"date": "2006-02-22",
 				"characters": [
@@ -13691,7 +14566,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/e0/5196646a80915.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "053",
+				"sortid": "061",
 				"comiclist": [
 					{
 						"collection": "New Avengers",
@@ -13732,7 +14607,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/519647bac7745.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "054",
+				"sortid": "062",
 				"comiclist": [
 					{
 						"collection": "New Avengers Annual",
@@ -13752,7 +14627,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/40/4bc601e40d04b.jpg",
 				"phaseid": "005",
-				"sortid": "055",
+				"sortid": "063",
 				"comiclist": [
 					{
 						"collection": "X-Men",
@@ -13791,13 +14666,13 @@
 				"date": "2006-05-24",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4bc5e6dd7b4d9.jpg",
 				"phaseid": "005",
-				"sortid": "056",
+				"sortid": "064",
 				"comiclist": [
 					{
 						"collection": "X-Factor",
@@ -13818,7 +14693,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc5da58d73b0.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "057",
+				"sortid": "065",
 				"comiclist": [
 					{
 						"collection": "Uncanny X-Men",
@@ -13893,7 +14768,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/51882298836ab.jpg",
 				"phaseid": "005",
-				"sortid": "058",
+				"sortid": "066",
 				"comiclist": [
 					{
 						"collection": "Moon Knight",
@@ -13939,7 +14814,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/57865227ac607.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "059",
+				"sortid": "067",
 				"comiclist": [
 					{
 						"collection": "Annihilation Prologue",
@@ -13980,7 +14855,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/578791d73a15a.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "060",
+				"sortid": "068",
 				"comiclist": [
 					{
 						"collection": "Annihilation Super Skrull",
@@ -14056,7 +14931,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/51b61283075b2.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "061",
+				"sortid": "069",
 				"comiclist": [
 					{
 						"collection": "Annihilation",
@@ -14102,7 +14977,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/51e407787996b.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "062",
+				"sortid": "070",
 				"comiclist": [
 					{
 						"collection": "Annihilation Herald of Galactus",
@@ -14127,7 +15002,7 @@
 				],
 				"pic": "https://i.annihil.us/u/prod/marvel/i/mg/3/b0/57683e270a2e7/detail.jpg",
 				"phaseid": "005",
-				"sortid": "063",
+				"sortid": "071",
 				"comiclist": [
 					{
 						"collection": "Ms Marvel",
@@ -14168,7 +15043,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/515afa8707756.jpg",
 				"essential": true,
 				"phaseid": "005",
-				"sortid": "064",
+				"sortid": "072",
 				"comiclist": [
 					{
 						"collection": "Runaways",
@@ -14207,13 +15082,13 @@
 				"date": "2006-03-29",
 				"characters": [
 					{
-						"id": "116",
+						"id": "118",
 						"name": "Anya Corazon"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc5f840658e4.jpg",
 				"phaseid": "005",
-				"sortid": "065",
+				"sortid": "073",
 				"comiclist": [
 					{
 						"collection": "Spider-Man \u0026 Araña",
@@ -14233,7 +15108,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/570294f9b5fe5.jpg",
 				"phaseid": "005",
-				"sortid": "066",
+				"sortid": "074",
 				"comiclist": [
 					{
 						"collection": "New X-Men",
@@ -14268,7 +15143,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/578d1ff2b72cf.jpg",
 				"phaseid": "005",
-				"sortid": "067",
+				"sortid": "075",
 				"comiclist": [
 					{
 						"collection": "The Thing",
@@ -14465,7 +15340,7 @@
 				"date": "2006-06-28",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
@@ -14692,7 +15567,7 @@
 				"date": "2006-07-26",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
@@ -14763,7 +15638,7 @@
 				"date": "2006-08-23",
 				"characters": [
 					{
-						"id": "133",
+						"id": "135",
 						"name": "Misty Knight"
 					}
 				],
@@ -15330,7 +16205,7 @@
 				"date": "2006-09-27",
 				"characters": [
 					{
-						"id": "133",
+						"id": "135",
 						"name": "Misty Knight"
 					}
 				],
@@ -15411,7 +16286,7 @@
 				"date": "2007-01-24",
 				"characters": [
 					{
-						"id": "146",
+						"id": "150",
 						"name": "Mar-Vell"
 					}
 				],
@@ -15865,7 +16740,7 @@
 				"date": "2006-12-27",
 				"characters": [
 					{
-						"id": "117",
+						"id": "119",
 						"name": "Bucky Barnes"
 					}
 				],
@@ -17247,7 +18122,7 @@
 				"date": "2008-01-23",
 				"characters": [
 					{
-						"id": "110",
+						"id": "112",
 						"name": "Young Avengers"
 					}
 				],
@@ -17293,7 +18168,7 @@
 				"date": "2007-05-23",
 				"characters": [
 					{
-						"id": "117",
+						"id": "119",
 						"name": "Bucky Barnes"
 					}
 				],
@@ -17334,7 +18209,7 @@
 				"date": "2007-10-17",
 				"characters": [
 					{
-						"id": "117",
+						"id": "119",
 						"name": "Bucky Barnes"
 					}
 				],
@@ -17380,7 +18255,7 @@
 				"date": "2008-04-16",
 				"characters": [
 					{
-						"id": "117",
+						"id": "119",
 						"name": "Bucky Barnes"
 					}
 				],
@@ -17476,7 +18351,7 @@
 				"date": "2006-10-04",
 				"characters": [
 					{
-						"id": "149",
+						"id": "153",
 						"name": "Eric O'Grady"
 					}
 				],
@@ -17521,7 +18396,7 @@
 				"date": "2007-04-04",
 				"characters": [
 					{
-						"id": "149",
+						"id": "153",
 						"name": "Eric O'Grady"
 					}
 				],
@@ -17868,7 +18743,7 @@
 				"date": "2006-08-02",
 				"characters": [
 					{
-						"id": "150",
+						"id": "154",
 						"name": "Agents of Atlas"
 					}
 				],
@@ -17913,7 +18788,7 @@
 				"date": "2006-10-18",
 				"characters": [
 					{
-						"id": "151",
+						"id": "155",
 						"name": "Spider-Girl"
 					}
 				],
@@ -17958,7 +18833,7 @@
 				"date": "2007-04-11",
 				"characters": [
 					{
-						"id": "151",
+						"id": "155",
 						"name": "Spider-Girl"
 					}
 				],
@@ -18003,7 +18878,7 @@
 				"date": "2007-10-10",
 				"characters": [
 					{
-						"id": "151",
+						"id": "155",
 						"name": "Spider-Girl"
 					}
 				],
@@ -18048,7 +18923,7 @@
 				"date": "2008-04-09",
 				"characters": [
 					{
-						"id": "151",
+						"id": "155",
 						"name": "Spider-Girl"
 					}
 				],
@@ -18634,7 +19509,7 @@
 				"date": "2006-08-30",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
@@ -18664,7 +19539,7 @@
 				"date": "2006-11-22",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
@@ -18704,7 +19579,7 @@
 				"date": "2007-04-18",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
@@ -18834,7 +19709,7 @@
 				"date": "2006-11-22",
 				"characters": [
 					{
-						"id": "133",
+						"id": "135",
 						"name": "Misty Knight"
 					}
 				],
@@ -19366,7 +20241,7 @@
 				"date": "2007-07-05",
 				"characters": [
 					{
-						"id": "149",
+						"id": "153",
 						"name": "Eric O'Grady"
 					}
 				],
@@ -19386,7 +20261,7 @@
 				"date": "2007-07-18",
 				"characters": [
 					{
-						"id": "152",
+						"id": "156",
 						"name": "Gamma Corps"
 					}
 				],
@@ -19488,7 +20363,7 @@
 				"date": "2007-06-20",
 				"characters": [
 					{
-						"id": "133",
+						"id": "135",
 						"name": "Misty Knight"
 					}
 				],
@@ -19618,7 +20493,7 @@
 				"date": "2007-08-22",
 				"characters": [
 					{
-						"id": "152",
+						"id": "156",
 						"name": "Gamma Corps"
 					}
 				],
@@ -19699,7 +20574,7 @@
 				"date": "2007-09-12",
 				"characters": [
 					{
-						"id": "133",
+						"id": "135",
 						"name": "Misty Knight"
 					}
 				],
@@ -19719,7 +20594,7 @@
 				"date": "2007-09-19",
 				"characters": [
 					{
-						"id": "152",
+						"id": "156",
 						"name": "Gamma Corps"
 					}
 				],
@@ -19806,7 +20681,7 @@
 				"date": "2007-10-10",
 				"characters": [
 					{
-						"id": "133",
+						"id": "135",
 						"name": "Misty Knight"
 					}
 				],
@@ -19831,7 +20706,7 @@
 				"date": "2007-11-07",
 				"characters": [
 					{
-						"id": "152",
+						"id": "156",
 						"name": "Gamma Corps"
 					}
 				],
@@ -19934,7 +20809,7 @@
 				"date": "2008-01-23",
 				"characters": [
 					{
-						"id": "153",
+						"id": "157",
 						"name": "Damage Control"
 					}
 				],
@@ -20069,7 +20944,7 @@
 				"date": "2008-01-04",
 				"characters": [
 					{
-						"id": "154",
+						"id": "158",
 						"name": "Red Hulk"
 					}
 				],
@@ -20469,7 +21344,7 @@
 				"date": "2007-08-01",
 				"characters": [
 					{
-						"id": "149",
+						"id": "153",
 						"name": "Eric O'Grady"
 					}
 				],
@@ -20699,7 +21574,7 @@
 				"date": "2008-02-13",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
@@ -20744,7 +21619,7 @@
 				"date": "2008-02-13",
 				"characters": [
 					{
-						"id": "155",
+						"id": "159",
 						"name": "X-Force"
 					}
 				],
@@ -20789,7 +21664,7 @@
 				"date": "2008-09-24",
 				"characters": [
 					{
-						"id": "155",
+						"id": "159",
 						"name": "X-Force"
 					}
 				],
@@ -21086,7 +21961,7 @@
 				"date": "2009-03-11",
 				"characters": [
 					{
-						"id": "102",
+						"id": "104",
 						"name": "Nightcrawler"
 					}
 				],
@@ -22312,7 +23187,7 @@
 				"date": "2008-05-29",
 				"characters": [
 					{
-						"id": "157",
+						"id": "161",
 						"name": "Clyde Wyncham"
 					}
 				],
@@ -22418,7 +23293,7 @@
 				"date": "2009-04-22",
 				"characters": [
 					{
-						"id": "158",
+						"id": "162",
 						"name": "Fantastic Force"
 					}
 				],
@@ -22837,7 +23712,7 @@
 				"date": "2008-06-11",
 				"characters": [
 					{
-						"id": "164",
+						"id": "168",
 						"name": "Skaar"
 					}
 				],
@@ -23098,7 +23973,7 @@
 				"date": "2007-11-14",
 				"characters": [
 					{
-						"id": "146",
+						"id": "150",
 						"name": "Mar-Vell"
 					}
 				],
@@ -23437,7 +24312,7 @@
 				"date": "2008-06-11",
 				"characters": [
 					{
-						"id": "146",
+						"id": "150",
 						"name": "Mar-Vell"
 					}
 				],
@@ -23703,7 +24578,7 @@
 				"date": "2008-07-16",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
@@ -24069,7 +24944,7 @@
 				"date": "2008-08-20",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
@@ -25196,7 +26071,7 @@
 				"date": "2009-04-15",
 				"characters": [
 					{
-						"id": "126",
+						"id": "128",
 						"name": "Beta Ray Bill"
 					}
 				],
@@ -25739,7 +26614,7 @@
 				"date": "2008-12-03",
 				"characters": [
 					{
-						"id": "169",
+						"id": "173",
 						"name": "New Mutants"
 					}
 				],
@@ -25840,7 +26715,7 @@
 				"date": "2008-06-18",
 				"characters": [
 					{
-						"id": "159",
+						"id": "163",
 						"name": "Old Man Logan"
 					}
 				],
@@ -26036,7 +26911,7 @@
 				"date": "2008-08-20",
 				"characters": [
 					{
-						"id": "132",
+						"id": "134",
 						"name": "Layla Miller"
 					}
 				],
@@ -26478,7 +27353,7 @@
 				"date": "2008-10-22",
 				"characters": [
 					{
-						"id": "117",
+						"id": "119",
 						"name": "Bucky Barnes"
 					}
 				],
@@ -26712,7 +27587,7 @@
 				"date": "2009-05-13",
 				"characters": [
 					{
-						"id": "110",
+						"id": "112",
 						"name": "Young Avengers"
 					}
 				],
@@ -26910,7 +27785,7 @@
 				"date": "2009-07-29",
 				"characters": [
 					{
-						"id": "110",
+						"id": "112",
 						"name": "Young Avengers"
 					}
 				],
@@ -26981,7 +27856,7 @@
 				"date": "2009-06-24",
 				"characters": [
 					{
-						"id": "143",
+						"id": "147",
 						"name": "Daken"
 					}
 				],
@@ -27141,7 +28016,7 @@
 				"date": "2009-09-23",
 				"characters": [
 					{
-						"id": "121",
+						"id": "123",
 						"name": "Spider-Woman"
 					}
 				],
@@ -27192,7 +28067,7 @@
 				"date": "2009-04-15",
 				"characters": [
 					{
-						"id": "117",
+						"id": "119",
 						"name": "Bucky Barnes"
 					}
 				],
@@ -27218,7 +28093,7 @@
 				"date": "2009-04-22",
 				"characters": [
 					{
-						"id": "170",
+						"id": "174",
 						"name": "Skrull Kill Krew"
 					}
 				],
@@ -27293,7 +28168,7 @@
 				"date": "2009-02-04",
 				"characters": [
 					{
-						"id": "167",
+						"id": "171",
 						"name": "Secret Warriors"
 					}
 				],
@@ -27339,7 +28214,7 @@
 				"date": "2009-02-04",
 				"characters": [
 					{
-						"id": "150",
+						"id": "154",
 						"name": "Agents of Atlas"
 					}
 				],
@@ -27439,7 +28314,7 @@
 				"date": "2009-05-28",
 				"characters": [
 					{
-						"id": "168",
+						"id": "172",
 						"name": "Hood"
 					}
 				],
@@ -27624,7 +28499,7 @@
 				"date": "2009-05-20",
 				"characters": [
 					{
-						"id": "171",
+						"id": "175",
 						"name": "Lyra"
 					}
 				],
@@ -27659,7 +28534,7 @@
 				"date": "2009-06-10",
 				"characters": [
 					{
-						"id": "126",
+						"id": "128",
 						"name": "Beta Ray Bill"
 					}
 				],
@@ -28621,7 +29496,7 @@
 				"date": "2009-04-29",
 				"characters": [
 					{
-						"id": "152",
+						"id": "156",
 						"name": "Gamma Corps"
 					}
 				],
@@ -28955,7 +29830,7 @@
 				"date": "2009-06-24",
 				"characters": [
 					{
-						"id": "148",
+						"id": "152",
 						"name": "Mac Gargan"
 					}
 				],
@@ -29060,7 +29935,7 @@
 				"date": "2009-09-16",
 				"characters": [
 					{
-						"id": "143",
+						"id": "147",
 						"name": "Daken"
 					}
 				],
@@ -29422,7 +30297,7 @@
 				"date": "2009-05-06",
 				"characters": [
 					{
-						"id": "169",
+						"id": "173",
 						"name": "New Mutants"
 					}
 				],
@@ -30010,7 +30885,7 @@
 				"date": "2009-01-21",
 				"characters": [
 					{
-						"id": "164",
+						"id": "168",
 						"name": "Skaar"
 					}
 				],
@@ -30155,7 +31030,7 @@
 				"date": "2009-07-29",
 				"characters": [
 					{
-						"id": "165",
+						"id": "169",
 						"name": "Hiro-Kala"
 					}
 				],
@@ -30195,7 +31070,7 @@
 				"date": "2009-08-26",
 				"characters": [
 					{
-						"id": "154",
+						"id": "158",
 						"name": "Red Hulk"
 					}
 				],
@@ -30841,7 +31716,7 @@
 				"date": "2010-02-03",
 				"characters": [
 					{
-						"id": "165",
+						"id": "169",
 						"name": "Hiro-Kala"
 					}
 				],
@@ -31064,7 +31939,7 @@
 				"date": "2009-12-16",
 				"characters": [
 					{
-						"id": "143",
+						"id": "147",
 						"name": "Daken"
 					}
 				],
@@ -31155,7 +32030,7 @@
 				"date": "2009-08-26",
 				"characters": [
 					{
-						"id": "167",
+						"id": "171",
 						"name": "Secret Warriors"
 					}
 				],
@@ -31196,7 +32071,7 @@
 				"date": "2009-09-30",
 				"characters": [
 					{
-						"id": "167",
+						"id": "171",
 						"name": "Secret Warriors"
 					}
 				],
@@ -31237,7 +32112,7 @@
 				"date": "2009-10-28",
 				"characters": [
 					{
-						"id": "167",
+						"id": "171",
 						"name": "Secret Warriors"
 					}
 				],
@@ -31258,7 +32133,7 @@
 				"date": "2009-10-28",
 				"characters": [
 					{
-						"id": "139",
+						"id": "141",
 						"name": "Ares"
 					}
 				],
@@ -31288,7 +32163,7 @@
 				"date": "2009-10-07",
 				"characters": [
 					{
-						"id": "167",
+						"id": "171",
 						"name": "Secret Warriors"
 					}
 				],
@@ -31309,7 +32184,7 @@
 				"date": "2009-11-25",
 				"characters": [
 					{
-						"id": "167",
+						"id": "171",
 						"name": "Secret Warriors"
 					}
 				],
@@ -31718,7 +32593,7 @@
 				"date": "2010-01-20",
 				"characters": [
 					{
-						"id": "154",
+						"id": "158",
 						"name": "Red Hulk"
 					}
 				],
@@ -31738,7 +32613,7 @@
 				"date": "2010-01-27",
 				"characters": [
 					{
-						"id": "154",
+						"id": "158",
 						"name": "Red Hulk"
 					}
 				],
@@ -31788,7 +32663,7 @@
 				"date": "2010-02-24",
 				"characters": [
 					{
-						"id": "154",
+						"id": "158",
 						"name": "Red Hulk"
 					}
 				],
@@ -31828,7 +32703,7 @@
 				"date": "2010-03-24",
 				"characters": [
 					{
-						"id": "154",
+						"id": "158",
 						"name": "Red Hulk"
 					}
 				],
@@ -31848,7 +32723,7 @@
 				"date": "2010-03-17",
 				"characters": [
 					{
-						"id": "154",
+						"id": "158",
 						"name": "Red Hulk"
 					}
 				],
@@ -31898,7 +32773,7 @@
 				"date": "2010-04-28",
 				"characters": [
 					{
-						"id": "154",
+						"id": "158",
 						"name": "Red Hulk"
 					}
 				],
@@ -31963,7 +32838,7 @@
 				"date": "2010-05-12",
 				"characters": [
 					{
-						"id": "154",
+						"id": "158",
 						"name": "Red Hulk"
 					}
 				],
@@ -32013,7 +32888,7 @@
 				"date": "2010-07-14",
 				"characters": [
 					{
-						"id": "117",
+						"id": "119",
 						"name": "Bucky Barnes"
 					}
 				],
@@ -32038,7 +32913,7 @@
 				"date": "2010-06-23",
 				"characters": [
 					{
-						"id": "154",
+						"id": "158",
 						"name": "Red Hulk"
 					}
 				],
@@ -32457,7 +33332,7 @@
 				"date": "2009-01-21",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
@@ -32507,7 +33382,7 @@
 				"date": "2009-07-15",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
@@ -32582,7 +33457,7 @@
 				"date": "2009-12-23",
 				"characters": [
 					{
-						"id": "167",
+						"id": "171",
 						"name": "Secret Warriors"
 					}
 				],
@@ -32628,7 +33503,7 @@
 				"date": "2009-08-05",
 				"characters": [
 					{
-						"id": "150",
+						"id": "154",
 						"name": "Agents of Atlas"
 					}
 				],
@@ -32658,7 +33533,7 @@
 				"date": "2009-10-07",
 				"characters": [
 					{
-						"id": "150",
+						"id": "154",
 						"name": "Agents of Atlas"
 					}
 				],
@@ -32703,7 +33578,7 @@
 				"date": "2009-11-04",
 				"characters": [
 					{
-						"id": "150",
+						"id": "154",
 						"name": "Agents of Atlas"
 					}
 				],
@@ -32939,7 +33814,7 @@
 				"date": "2009-12-16",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
@@ -33069,7 +33944,7 @@
 				"date": "2009-11-04",
 				"characters": [
 					{
-						"id": "124",
+						"id": "126",
 						"name": "Psylocke"
 					}
 				],
@@ -33104,7 +33979,7 @@
 				"date": "2009-07-22",
 				"characters": [
 					{
-						"id": "155",
+						"id": "159",
 						"name": "X-Force"
 					}
 				],
@@ -33229,7 +34104,7 @@
 				"date": "2010-07-14",
 				"characters": [
 					{
-						"id": "155",
+						"id": "159",
 						"name": "X-Force"
 					}
 				],
@@ -33259,7 +34134,7 @@
 				"date": "2010-01-06",
 				"characters": [
 					{
-						"id": "169",
+						"id": "173",
 						"name": "New Mutants"
 					}
 				],
@@ -33741,7 +34616,7 @@
 				"date": "2010-01-20",
 				"characters": [
 					{
-						"id": "143",
+						"id": "147",
 						"name": "Daken"
 					}
 				],
@@ -33866,7 +34741,7 @@
 				"date": "2010-02-24",
 				"characters": [
 					{
-						"id": "143",
+						"id": "147",
 						"name": "Daken"
 					}
 				],
@@ -34032,7 +34907,7 @@
 				"date": "2010-03-31",
 				"characters": [
 					{
-						"id": "143",
+						"id": "147",
 						"name": "Daken"
 					}
 				],
@@ -34135,7 +35010,7 @@
 				"date": "2010-03-31",
 				"characters": [
 					{
-						"id": "169",
+						"id": "173",
 						"name": "New Mutants"
 					}
 				],
@@ -34463,7 +35338,7 @@
 				"date": "2010-01-20",
 				"characters": [
 					{
-						"id": "117",
+						"id": "119",
 						"name": "Bucky Barnes"
 					}
 				],
@@ -34750,7 +35625,7 @@
 				"date": "2009-09-10",
 				"characters": [
 					{
-						"id": "177",
+						"id": "181",
 						"name": "Young Allies"
 					}
 				],
@@ -34855,7 +35730,7 @@
 				"date": "2010-06-23",
 				"characters": [
 					{
-						"id": "167",
+						"id": "171",
 						"name": "Secret Warriors"
 					}
 				],
@@ -35189,7 +36064,7 @@
 				"date": "2010-06-03",
 				"characters": [
 					{
-						"id": "179",
+						"id": "183",
 						"name": "Valkyrie"
 					}
 				],
@@ -35355,7 +36230,7 @@
 				"date": "2010-07-21",
 				"characters": [
 					{
-						"id": "120",
+						"id": "122",
 						"name": "Maria Hill"
 					}
 				],
@@ -35405,7 +36280,7 @@
 				"date": "2010-09-01",
 				"characters": [
 					{
-						"id": "110",
+						"id": "112",
 						"name": "Young Avengers"
 					}
 				],
@@ -35530,7 +36405,7 @@
 				"date": "2010-06-16",
 				"characters": [
 					{
-						"id": "143",
+						"id": "147",
 						"name": "Daken"
 					}
 				],
@@ -36031,7 +36906,7 @@
 				"date": "2010-08-11",
 				"characters": [
 					{
-						"id": "133",
+						"id": "135",
 						"name": "Misty Knight"
 					}
 				],
@@ -36117,7 +36992,7 @@
 				"date": "2010-08-18",
 				"characters": [
 					{
-						"id": "145",
+						"id": "144",
 						"name": "Colleen Wing"
 					}
 				],
@@ -36254,7 +37129,7 @@
 				"date": "2010-09-09",
 				"characters": [
 					{
-						"id": "133",
+						"id": "135",
 						"name": "Misty Knight"
 					}
 				],
@@ -36294,7 +37169,7 @@
 				"date": "2010-11-03",
 				"characters": [
 					{
-						"id": "133",
+						"id": "135",
 						"name": "Misty Knight"
 					}
 				],
@@ -36339,7 +37214,7 @@
 				"date": "2010-09-15",
 				"characters": [
 					{
-						"id": "183",
+						"id": "130",
 						"name": "Ghost Rider"
 					}
 				],
@@ -36400,7 +37275,7 @@
 				"date": "2010-11-24",
 				"characters": [
 					{
-						"id": "133",
+						"id": "135",
 						"name": "Misty Knight"
 					}
 				],
@@ -36524,7 +37399,7 @@
 				"date": "2010-05-12",
 				"characters": [
 					{
-						"id": "127",
+						"id": "129",
 						"name": "Amadeus Cho"
 					}
 				],
@@ -36604,7 +37479,7 @@
 				"date": "2010-09-22",
 				"characters": [
 					{
-						"id": "154",
+						"id": "158",
 						"name": "Red Hulk"
 					}
 				],
@@ -37077,7 +37952,7 @@
 				"date": "2010-05-19",
 				"characters": [
 					{
-						"id": "150",
+						"id": "154",
 						"name": "Agents of Atlas"
 					}
 				],
@@ -37158,7 +38033,7 @@
 				"date": "2010-06-09",
 				"characters": [
 					{
-						"id": "117",
+						"id": "119",
 						"name": "Bucky Barnes"
 					}
 				],
@@ -37260,7 +38135,7 @@
 				"date": "2010-06-09",
 				"characters": [
 					{
-						"id": "177",
+						"id": "181",
 						"name": "Young Allies"
 					}
 				],
@@ -37305,7 +38180,7 @@
 				"date": "2010-08-25",
 				"characters": [
 					{
-						"id": "143",
+						"id": "147",
 						"name": "Daken"
 					}
 				],
@@ -37390,7 +38265,7 @@
 				"date": "2010-07-21",
 				"characters": [
 					{
-						"id": "169",
+						"id": "173",
 						"name": "New Mutants"
 					}
 				],
@@ -37430,7 +38305,7 @@
 				"date": "2010-12-29",
 				"characters": [
 					{
-						"id": "169",
+						"id": "173",
 						"name": "New Mutants"
 					}
 				],
@@ -37642,7 +38517,7 @@
 				"date": "2010-11-03",
 				"characters": [
 					{
-						"id": "156",
+						"id": "160",
 						"name": "Hope Summers"
 					}
 				],
@@ -37712,7 +38587,7 @@
 				"date": "2010-10-06",
 				"characters": [
 					{
-						"id": "155",
+						"id": "159",
 						"name": "X-Force"
 					}
 				],
@@ -37747,7 +38622,7 @@
 				"date": "2011-02-16",
 				"characters": [
 					{
-						"id": "155",
+						"id": "159",
 						"name": "X-Force"
 					}
 				],
@@ -37782,7 +38657,7 @@
 				"date": "2010-07-08",
 				"characters": [
 					{
-						"id": "185",
+						"id": "148",
 						"name": "Dracula"
 					}
 				],
@@ -38282,7 +39157,7 @@
 				"date": "2010-07-21",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
@@ -38327,7 +39202,7 @@
 				"date": "2011-01-19",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
@@ -38377,7 +39252,7 @@
 				"date": "2011-06-01",
 				"characters": [
 					{
-						"id": "105",
+						"id": "107",
 						"name": "X-Factor"
 					}
 				],
@@ -38422,7 +39297,7 @@
 				"date": "2010-03-17",
 				"characters": [
 					{
-						"id": "104",
+						"id": "106",
 						"name": "X-23"
 					}
 				],
@@ -38477,7 +39352,7 @@
 				"date": "2011-02-02",
 				"characters": [
 					{
-						"id": "143",
+						"id": "147",
 						"name": "Daken"
 					}
 				],
@@ -38784,7 +39659,7 @@
 				"date": "2011-04-20",
 				"characters": [
 					{
-						"id": "156",
+						"id": "160",
 						"name": "Hope Summers"
 					}
 				],
@@ -38886,7 +39761,7 @@
 				"date": "2011-08-17",
 				"characters": [
 					{
-						"id": "156",
+						"id": "160",
 						"name": "Hope Summers"
 					}
 				],
@@ -38927,7 +39802,7 @@
 				"date": "2011-09-21",
 				"characters": [
 					{
-						"id": "156",
+						"id": "160",
 						"name": "Hope Summers"
 					}
 				],
@@ -38968,7 +39843,7 @@
 				"date": "2011-10-12",
 				"characters": [
 					{
-						"id": "156",
+						"id": "160",
 						"name": "Hope Summers"
 					}
 				],
@@ -39113,7 +39988,7 @@
 				"date": "2010-11-24",
 				"characters": [
 					{
-						"id": "147",
+						"id": "151",
 						"name": "Alpha Flight"
 					}
 				],
@@ -39193,7 +40068,7 @@
 				"date": "2010-12-08",
 				"characters": [
 					{
-						"id": "139",
+						"id": "141",
 						"name": "Ares"
 					}
 				],
@@ -39429,7 +40304,7 @@
 				"date": "2011-02-16",
 				"characters": [
 					{
-						"id": "154",
+						"id": "158",
 						"name": "Red Hulk"
 					}
 				],
@@ -39479,7 +40354,7 @@
 				"date": "2011-04-06",
 				"characters": [
 					{
-						"id": "164",
+						"id": "168",
 						"name": "Skaar"
 					}
 				],
@@ -40001,7 +40876,7 @@
 				"date": "2010-07-08",
 				"characters": [
 					{
-						"id": "110",
+						"id": "112",
 						"name": "Young Avengers"
 					}
 				],

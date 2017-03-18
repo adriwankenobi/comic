@@ -41003,5 +41003,313 @@
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "173"
+	},
+	{
+		"id": "648",
+		"collection": "Excalibur",
+		"title": "Forging the Sword",
+		"vol": 3,
+		"num": 1,
+		"date": "2004-05-19",
+		"characters": [
+			{
+				"id": "098",
+				"name": "Excalibur"
+			},
+			{
+				"id": "067",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "099",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "220",
+				"name": "Chris Claremont"
+			},
+			{
+				"id": "005",
+				"name": "Aaron Lopresti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/5669b3256e68e.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "001",
+		"phasename": "Marvel Knights",
+		"sortid": "174"
+	},
+	{
+		"id": "727",
+		"collection": "Excalibur",
+		"title": "Forging the Sword",
+		"vol": 3,
+		"num": 2,
+		"date": "2004-06-23",
+		"characters": [
+			{
+				"id": "098",
+				"name": "Excalibur"
+			},
+			{
+				"id": "067",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "099",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "220",
+				"name": "Chris Claremont"
+			},
+			{
+				"id": "005",
+				"name": "Aaron Lopresti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/5669afb05ae5a.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "001",
+		"phasename": "Marvel Knights",
+		"sortid": "174"
+	},
+	{
+		"id": "524",
+		"collection": "Excalibur",
+		"title": "Forging the Sword",
+		"vol": 3,
+		"num": 3,
+		"date": "2004-07-28",
+		"characters": [
+			{
+				"id": "098",
+				"name": "Excalibur"
+			},
+			{
+				"id": "067",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "099",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "220",
+				"name": "Chris Claremont"
+			},
+			{
+				"id": "005",
+				"name": "Aaron Lopresti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5669b3107fa5e.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "001",
+		"phasename": "Marvel Knights",
+		"sortid": "174"
+	},
+	{
+		"id": "769",
+		"collection": "Excalibur",
+		"title": "Forging the Sword",
+		"vol": 3,
+		"num": 4,
+		"date": "2004-08-25",
+		"characters": [
+			{
+				"id": "098",
+				"name": "Excalibur"
+			},
+			{
+				"id": "067",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "099",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "220",
+				"name": "Chris Claremont"
+			},
+			{
+				"id": "005",
+				"name": "Aaron Lopresti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5669b2f21a53c.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "001",
+		"phasename": "Marvel Knights",
+		"sortid": "174"
+	},
+	{
+		"id": "840",
+		"collection": "Excalibur",
+		"title": "Food Fight",
+		"vol": 3,
+		"num": 5,
+		"date": "2004-09-22",
+		"characters": [
+			{
+				"id": "098",
+				"name": "Excalibur"
+			},
+			{
+				"id": "067",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "099",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "220",
+				"name": "Chris Claremont"
+			},
+			{
+				"id": "005",
+				"name": "Aaron Lopresti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/5669b2932476a.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "001",
+		"phasename": "Marvel Knights",
+		"sortid": "175"
+	},
+	{
+		"id": "924",
+		"collection": "Excalibur",
+		"title": "Food Fight",
+		"vol": 3,
+		"num": 6,
+		"date": "2004-10-27",
+		"characters": [
+			{
+				"id": "098",
+				"name": "Excalibur"
+			},
+			{
+				"id": "067",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "099",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "220",
+				"name": "Chris Claremont"
+			},
+			{
+				"id": "005",
+				"name": "Aaron Lopresti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5669af8c34bc5.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "001",
+		"phasename": "Marvel Knights",
+		"sortid": "175"
+	},
+	{
+		"id": "49",
+		"collection": "Excalibur",
+		"title": "Food Fight",
+		"vol": 3,
+		"num": 7,
+		"date": "2004-11-24",
+		"characters": [
+			{
+				"id": "098",
+				"name": "Excalibur"
+			},
+			{
+				"id": "067",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "099",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "220",
+				"name": "Chris Claremont"
+			},
+			{
+				"id": "005",
+				"name": "Aaron Lopresti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5669af316ea5e.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "001",
+		"phasename": "Marvel Knights",
+		"sortid": "175"
 	}
 ]

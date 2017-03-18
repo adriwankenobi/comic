@@ -1,5 +1,181 @@
 [
 	{
+		"id": "1729",
+		"collection": "Excalibur",
+		"title": "The Devil's Own",
+		"vol": 3,
+		"num": 11,
+		"date": "2005-03-23",
+		"characters": [
+			{
+				"id": "098",
+				"name": "Excalibur"
+			},
+			{
+				"id": "067",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "099",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "220",
+				"name": "Chris Claremont"
+			},
+			{
+				"id": "005",
+				"name": "Aaron Lopresti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5669aea1b9610.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "004",
+		"phasename": "House of M",
+		"sortid": "001"
+	},
+	{
+		"id": "1836",
+		"collection": "Excalibur",
+		"title": "The Devil's Own",
+		"vol": 3,
+		"num": 12,
+		"date": "2005-05-04",
+		"characters": [
+			{
+				"id": "098",
+				"name": "Excalibur"
+			},
+			{
+				"id": "067",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "099",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "220",
+				"name": "Chris Claremont"
+			},
+			{
+				"id": "195",
+				"name": "Cliff Richards"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/5669aeba9a7de.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "004",
+		"phasename": "House of M",
+		"sortid": "001"
+	},
+	{
+		"id": "2017",
+		"collection": "Excalibur",
+		"title": "The Devil's Own",
+		"vol": 3,
+		"num": 13,
+		"date": "2005-05-11",
+		"characters": [
+			{
+				"id": "098",
+				"name": "Excalibur"
+			},
+			{
+				"id": "067",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "099",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "220",
+				"name": "Chris Claremont"
+			},
+			{
+				"id": "005",
+				"name": "Aaron Lopresti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5669ae631b6f3.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "004",
+		"phasename": "House of M",
+		"sortid": "001"
+	},
+	{
+		"id": "2018",
+		"collection": "Excalibur",
+		"title": "The Devil's Own",
+		"vol": 3,
+		"num": 14,
+		"date": "2005-05-25",
+		"characters": [
+			{
+				"id": "098",
+				"name": "Excalibur"
+			},
+			{
+				"id": "067",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Charles Xavier"
+			},
+			{
+				"id": "099",
+				"name": "Magneto"
+			}
+		],
+		"creators": [
+			{
+				"id": "220",
+				"name": "Chris Claremont"
+			},
+			{
+				"id": "005",
+				"name": "Aaron Lopresti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/5669ae878a07e.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "004",
+		"phasename": "House of M",
+		"sortid": "001"
+	},
+	{
 		"id": "2092",
 		"collection": "House of M",
 		"title": "House of M",
@@ -18,7 +194,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "131",
+				"id": "099",
 				"name": "Magneto"
 			},
 			{
@@ -78,7 +254,7 @@
 				"name": "Sentry"
 			},
 			{
-				"id": "121",
+				"id": "123",
 				"name": "Spider-Woman"
 			},
 			{
@@ -86,7 +262,7 @@
 				"name": "Hawkeye"
 			},
 			{
-				"id": "132",
+				"id": "134",
 				"name": "Layla Miller"
 			}
 		],
@@ -108,7 +284,7 @@
 		],
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "001"
+		"sortid": "002"
 	},
 	{
 		"id": "2093",
@@ -129,7 +305,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "131",
+				"id": "099",
 				"name": "Magneto"
 			},
 			{
@@ -189,7 +365,7 @@
 				"name": "Sentry"
 			},
 			{
-				"id": "121",
+				"id": "123",
 				"name": "Spider-Woman"
 			},
 			{
@@ -197,7 +373,7 @@
 				"name": "Hawkeye"
 			},
 			{
-				"id": "132",
+				"id": "134",
 				"name": "Layla Miller"
 			}
 		],
@@ -216,7 +392,7 @@
 		"essential": true,
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "001"
+		"sortid": "002"
 	},
 	{
 		"id": "2198",
@@ -237,7 +413,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "131",
+				"id": "099",
 				"name": "Magneto"
 			},
 			{
@@ -297,7 +473,7 @@
 				"name": "Sentry"
 			},
 			{
-				"id": "121",
+				"id": "123",
 				"name": "Spider-Woman"
 			},
 			{
@@ -305,7 +481,7 @@
 				"name": "Hawkeye"
 			},
 			{
-				"id": "132",
+				"id": "134",
 				"name": "Layla Miller"
 			}
 		],
@@ -324,7 +500,7 @@
 		"essential": true,
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "001"
+		"sortid": "002"
 	},
 	{
 		"id": "2199",
@@ -345,7 +521,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "131",
+				"id": "099",
 				"name": "Magneto"
 			},
 			{
@@ -405,7 +581,7 @@
 				"name": "Sentry"
 			},
 			{
-				"id": "121",
+				"id": "123",
 				"name": "Spider-Woman"
 			},
 			{
@@ -413,7 +589,7 @@
 				"name": "Hawkeye"
 			},
 			{
-				"id": "132",
+				"id": "134",
 				"name": "Layla Miller"
 			}
 		],
@@ -432,7 +608,7 @@
 		"essential": true,
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "001"
+		"sortid": "002"
 	},
 	{
 		"id": "2316",
@@ -453,7 +629,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "131",
+				"id": "099",
 				"name": "Magneto"
 			},
 			{
@@ -513,7 +689,7 @@
 				"name": "Sentry"
 			},
 			{
-				"id": "121",
+				"id": "123",
 				"name": "Spider-Woman"
 			},
 			{
@@ -521,7 +697,7 @@
 				"name": "Hawkeye"
 			},
 			{
-				"id": "132",
+				"id": "134",
 				"name": "Layla Miller"
 			}
 		],
@@ -540,7 +716,7 @@
 		"essential": true,
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "001"
+		"sortid": "002"
 	},
 	{
 		"id": "14511",
@@ -561,7 +737,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "131",
+				"id": "099",
 				"name": "Magneto"
 			},
 			{
@@ -621,7 +797,7 @@
 				"name": "Sentry"
 			},
 			{
-				"id": "121",
+				"id": "123",
 				"name": "Spider-Woman"
 			},
 			{
@@ -629,7 +805,7 @@
 				"name": "Hawkeye"
 			},
 			{
-				"id": "132",
+				"id": "134",
 				"name": "Layla Miller"
 			}
 		],
@@ -648,7 +824,7 @@
 		"essential": true,
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "001"
+		"sortid": "002"
 	},
 	{
 		"id": "2427",
@@ -669,7 +845,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "131",
+				"id": "099",
 				"name": "Magneto"
 			},
 			{
@@ -729,7 +905,7 @@
 				"name": "Sentry"
 			},
 			{
-				"id": "121",
+				"id": "123",
 				"name": "Spider-Woman"
 			},
 			{
@@ -737,7 +913,7 @@
 				"name": "Hawkeye"
 			},
 			{
-				"id": "132",
+				"id": "134",
 				"name": "Layla Miller"
 			}
 		],
@@ -756,7 +932,7 @@
 		"essential": true,
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "001"
+		"sortid": "002"
 	},
 	{
 		"id": "2428",
@@ -777,7 +953,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "131",
+				"id": "099",
 				"name": "Magneto"
 			},
 			{
@@ -837,7 +1013,7 @@
 				"name": "Sentry"
 			},
 			{
-				"id": "121",
+				"id": "123",
 				"name": "Spider-Woman"
 			},
 			{
@@ -845,7 +1021,7 @@
 				"name": "Hawkeye"
 			},
 			{
-				"id": "132",
+				"id": "134",
 				"name": "Layla Miller"
 			}
 		],
@@ -864,7 +1040,7 @@
 		"essential": true,
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "001"
+		"sortid": "002"
 	},
 	{
 		"id": "4872",
@@ -883,11 +1059,11 @@
 		],
 		"creators": [
 			{
-				"id": "254",
+				"id": "251",
 				"name": "John Layman"
 			},
 			{
-				"id": "224",
+				"id": "225",
 				"name": "Scot Eaton"
 			}
 		],
@@ -895,7 +1071,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "002"
+		"sortid": "003"
 	},
 	{
 		"id": "2361",
@@ -914,11 +1090,11 @@
 		],
 		"creators": [
 			{
-				"id": "254",
+				"id": "251",
 				"name": "John Layman"
 			},
 			{
-				"id": "224",
+				"id": "225",
 				"name": "Scot Eaton"
 			}
 		],
@@ -926,7 +1102,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "002"
+		"sortid": "003"
 	},
 	{
 		"id": "2828",
@@ -945,11 +1121,11 @@
 		],
 		"creators": [
 			{
-				"id": "254",
+				"id": "251",
 				"name": "John Layman"
 			},
 			{
-				"id": "224",
+				"id": "225",
 				"name": "Scot Eaton"
 			}
 		],
@@ -957,7 +1133,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "002"
+		"sortid": "003"
 	},
 	{
 		"id": "2101",
@@ -988,7 +1164,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "003"
+		"sortid": "004"
 	},
 	{
 		"id": "2206",
@@ -1019,7 +1195,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "003"
+		"sortid": "004"
 	},
 	{
 		"id": "2326",
@@ -1050,7 +1226,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "003"
+		"sortid": "004"
 	},
 	{
 		"id": "2443",
@@ -1081,7 +1257,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "003"
+		"sortid": "004"
 	},
 	{
 		"id": "2444",
@@ -1112,7 +1288,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "003"
+		"sortid": "004"
 	},
 	{
 		"id": "2254",
@@ -1131,11 +1307,11 @@
 		],
 		"creators": [
 			{
-				"id": "242",
+				"id": "243",
 				"name": "Greg Pak"
 			},
 			{
-				"id": "255",
+				"id": "242",
 				"name": "Pat Lee"
 			}
 		],
@@ -1143,7 +1319,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "004"
+		"sortid": "005"
 	},
 	{
 		"id": "2362",
@@ -1162,11 +1338,11 @@
 		],
 		"creators": [
 			{
-				"id": "242",
+				"id": "243",
 				"name": "Greg Pak"
 			},
 			{
-				"id": "255",
+				"id": "242",
 				"name": "Pat Lee"
 			}
 		],
@@ -1174,7 +1350,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "004"
+		"sortid": "005"
 	},
 	{
 		"id": "2829",
@@ -1193,11 +1369,11 @@
 		],
 		"creators": [
 			{
-				"id": "242",
+				"id": "243",
 				"name": "Greg Pak"
 			},
 			{
-				"id": "255",
+				"id": "242",
 				"name": "Pat Lee"
 			}
 		],
@@ -1205,7 +1381,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "004"
+		"sortid": "005"
 	},
 	{
 		"id": "2255",
@@ -1236,7 +1412,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "005"
+		"sortid": "006"
 	},
 	{
 		"id": "2256",
@@ -1267,7 +1443,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "005"
+		"sortid": "006"
 	},
 	{
 		"id": "2363",
@@ -1298,7 +1474,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "005"
+		"sortid": "006"
 	},
 	{
 		"id": "2830",
@@ -1329,7 +1505,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "005"
+		"sortid": "006"
 	},
 	{
 		"id": "2515",
@@ -1352,7 +1528,7 @@
 				"name": "Peter David"
 			},
 			{
-				"id": "256",
+				"id": "260",
 				"name": "Adam Kubert"
 			}
 		],
@@ -1360,7 +1536,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "005"
+		"sortid": "006"
 	},
 	{
 		"id": "2231",
@@ -1373,7 +1549,7 @@
 		"eventid": "003",
 		"characters": [
 			{
-				"id": "100",
+				"id": "102",
 				"name": "Bishop"
 			}
 		],
@@ -1391,7 +1567,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "006"
+		"sortid": "007"
 	},
 	{
 		"id": "2344",
@@ -1404,7 +1580,7 @@
 		"eventid": "003",
 		"characters": [
 			{
-				"id": "100",
+				"id": "102",
 				"name": "Bishop"
 			}
 		],
@@ -1422,7 +1598,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "006"
+		"sortid": "007"
 	},
 	{
 		"id": "2485",
@@ -1435,7 +1611,7 @@
 		"eventid": "003",
 		"characters": [
 			{
-				"id": "100",
+				"id": "102",
 				"name": "Bishop"
 			}
 		],
@@ -1453,7 +1629,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "006"
+		"sortid": "007"
 	},
 	{
 		"id": "2486",
@@ -1466,7 +1642,7 @@
 		"eventid": "003",
 		"characters": [
 			{
-				"id": "100",
+				"id": "102",
 				"name": "Bishop"
 			}
 		],
@@ -1484,7 +1660,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "006"
+		"sortid": "007"
 	},
 	{
 		"id": "3064",
@@ -1497,7 +1673,7 @@
 		"eventid": "003",
 		"characters": [
 			{
-				"id": "100",
+				"id": "102",
 				"name": "Bishop"
 			}
 		],
@@ -1515,7 +1691,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "006"
+		"sortid": "007"
 	},
 	{
 		"id": "2157",
@@ -1551,7 +1727,7 @@
 		"essential": true,
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "007"
+		"sortid": "008"
 	},
 	{
 		"id": "2323",
@@ -1574,7 +1750,7 @@
 				"name": "Reginald Hudlin"
 			},
 			{
-				"id": "257",
+				"id": "261",
 				"name": "Trevor Hairsine"
 			}
 		],
@@ -1582,7 +1758,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "008"
+		"sortid": "009"
 	},
 	{
 		"id": "12818",
@@ -1605,7 +1781,7 @@
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "253",
+				"id": "255",
 				"name": "Lee Weeks"
 			}
 		],
@@ -1613,7 +1789,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "009"
+		"sortid": "010"
 	},
 	{
 		"id": "2520",
@@ -1636,7 +1812,7 @@
 				"name": "Daniel Way"
 			},
 			{
-				"id": "258",
+				"id": "262",
 				"name": "Javier Saltares"
 			}
 		],
@@ -1644,7 +1820,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "010"
+		"sortid": "011"
 	},
 	{
 		"id": "2521",
@@ -1667,7 +1843,7 @@
 				"name": "Daniel Way"
 			},
 			{
-				"id": "258",
+				"id": "262",
 				"name": "Javier Saltares"
 			}
 		],
@@ -1675,7 +1851,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "010"
+		"sortid": "011"
 	},
 	{
 		"id": "2522",
@@ -1698,7 +1874,7 @@
 				"name": "Daniel Way"
 			},
 			{
-				"id": "258",
+				"id": "262",
 				"name": "Javier Saltares"
 			}
 		],
@@ -1706,7 +1882,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "010"
+		"sortid": "011"
 	},
 	{
 		"id": "2181",
@@ -1723,17 +1899,17 @@
 				"name": "X-Men"
 			},
 			{
-				"id": "101",
+				"id": "103",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "124",
+				"id": "126",
 				"name": "Psylocke"
 			}
 		],
 		"creators": [
 			{
-				"id": "227",
+				"id": "220",
 				"name": "Chris Claremont"
 			},
 			{
@@ -1745,7 +1921,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "011"
+		"sortid": "012"
 	},
 	{
 		"id": "2301",
@@ -1762,17 +1938,17 @@
 				"name": "X-Men"
 			},
 			{
-				"id": "101",
+				"id": "103",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "124",
+				"id": "126",
 				"name": "Psylocke"
 			}
 		],
 		"creators": [
 			{
-				"id": "227",
+				"id": "220",
 				"name": "Chris Claremont"
 			},
 			{
@@ -1784,7 +1960,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "011"
+		"sortid": "012"
 	},
 	{
 		"id": "2815",
@@ -1801,17 +1977,17 @@
 				"name": "X-Men"
 			},
 			{
-				"id": "101",
+				"id": "103",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "124",
+				"id": "126",
 				"name": "Psylocke"
 			}
 		],
 		"creators": [
 			{
-				"id": "227",
+				"id": "220",
 				"name": "Chris Claremont"
 			},
 			{
@@ -1823,7 +1999,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "011"
+		"sortid": "012"
 	},
 	{
 		"id": "2409",
@@ -1840,17 +2016,17 @@
 				"name": "X-Men"
 			},
 			{
-				"id": "101",
+				"id": "103",
 				"name": "Rachel Grey"
 			},
 			{
-				"id": "124",
+				"id": "126",
 				"name": "Psylocke"
 			}
 		],
 		"creators": [
 			{
-				"id": "227",
+				"id": "220",
 				"name": "Chris Claremont"
 			},
 			{
@@ -1862,7 +2038,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "011"
+		"sortid": "012"
 	},
 	{
 		"id": "2221",
@@ -1893,7 +2069,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "012"
+		"sortid": "013"
 	},
 	{
 		"id": "2991",
@@ -1924,7 +2100,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "012"
+		"sortid": "013"
 	},
 	{
 		"id": "2466",
@@ -1955,7 +2131,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "012"
+		"sortid": "013"
 	},
 	{
 		"id": "2518",
@@ -1986,7 +2162,106 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "012"
+		"sortid": "013"
+	},
+	{
+		"id": "2819",
+		"collection": "Exiles",
+		"title": "World Tour",
+		"vol": 1,
+		"num": 69,
+		"date": "2005-09-07",
+		"characters": [
+			{
+				"id": "075",
+				"name": "Exiles"
+			},
+			{
+				"id": "067",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "194",
+				"name": "Tony Bedard"
+			},
+			{
+				"id": "186",
+				"name": "Paul Pelletier"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bc4792d56816.jpg",
+		"universe": "Earth-616",
+		"phaseid": "004",
+		"phasename": "House of M",
+		"sortid": "014"
+	},
+	{
+		"id": "2456",
+		"collection": "Exiles",
+		"title": "World Tour",
+		"vol": 1,
+		"num": 70,
+		"date": "2005-09-21",
+		"characters": [
+			{
+				"id": "075",
+				"name": "Exiles"
+			},
+			{
+				"id": "067",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "194",
+				"name": "Tony Bedard"
+			},
+			{
+				"id": "186",
+				"name": "Paul Pelletier"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/51e6ff29018d1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "004",
+		"phasename": "House of M",
+		"sortid": "014"
+	},
+	{
+		"id": "2426",
+		"collection": "Exiles",
+		"title": "World Tour",
+		"vol": 1,
+		"num": 71,
+		"date": "2005-09-21",
+		"characters": [
+			{
+				"id": "075",
+				"name": "Exiles"
+			},
+			{
+				"id": "067",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "194",
+				"name": "Tony Bedard"
+			},
+			{
+				"id": "186",
+				"name": "Paul Pelletier"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4bc623c3dff98.jpg",
+		"universe": "Earth-616",
+		"phaseid": "004",
+		"phasename": "House of M",
+		"sortid": "014"
 	},
 	{
 		"id": "3569",
@@ -2003,11 +2278,11 @@
 		],
 		"creators": [
 			{
-				"id": "259",
+				"id": "263",
 				"name": "Brian Reed"
 			},
 			{
-				"id": "260",
+				"id": "264",
 				"name": "Roberto De La Torre"
 			}
 		],
@@ -2018,7 +2293,7 @@
 		],
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "013"
+		"sortid": "015"
 	},
 	{
 		"id": "17275",
@@ -2041,7 +2316,7 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "133",
+				"id": "135",
 				"name": "Misty Knight"
 			},
 			{
@@ -2059,7 +2334,7 @@
 		],
 		"creators": [
 			{
-				"id": "261",
+				"id": "265",
 				"name": "Christos Gage"
 			},
 			{
@@ -2074,7 +2349,7 @@
 		],
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "014"
+		"sortid": "016"
 	},
 	{
 		"id": "17408",
@@ -2097,7 +2372,7 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "133",
+				"id": "135",
 				"name": "Misty Knight"
 			},
 			{
@@ -2115,7 +2390,7 @@
 		],
 		"creators": [
 			{
-				"id": "261",
+				"id": "265",
 				"name": "Christos Gage"
 			},
 			{
@@ -2127,7 +2402,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "014"
+		"sortid": "016"
 	},
 	{
 		"id": "17409",
@@ -2150,7 +2425,7 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "133",
+				"id": "135",
 				"name": "Misty Knight"
 			},
 			{
@@ -2168,7 +2443,7 @@
 		],
 		"creators": [
 			{
-				"id": "261",
+				"id": "265",
 				"name": "Christos Gage"
 			},
 			{
@@ -2180,7 +2455,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "014"
+		"sortid": "016"
 	},
 	{
 		"id": "17647",
@@ -2203,7 +2478,7 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "133",
+				"id": "135",
 				"name": "Misty Knight"
 			},
 			{
@@ -2221,7 +2496,7 @@
 		],
 		"creators": [
 			{
-				"id": "261",
+				"id": "265",
 				"name": "Christos Gage"
 			},
 			{
@@ -2233,7 +2508,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "014"
+		"sortid": "016"
 	},
 	{
 		"id": "20689",
@@ -2256,7 +2531,7 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "133",
+				"id": "135",
 				"name": "Misty Knight"
 			},
 			{
@@ -2274,7 +2549,7 @@
 		],
 		"creators": [
 			{
-				"id": "261",
+				"id": "265",
 				"name": "Christos Gage"
 			},
 			{
@@ -2286,7 +2561,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "014"
+		"sortid": "016"
 	},
 	{
 		"id": "25357",
@@ -2297,13 +2572,13 @@
 		"date": "2009-08-05",
 		"characters": [
 			{
-				"id": "134",
+				"id": "136",
 				"name": "Masters of Evil"
 			}
 		],
 		"creators": [
 			{
-				"id": "261",
+				"id": "265",
 				"name": "Christos Gage"
 			},
 			{
@@ -2319,7 +2594,7 @@
 		],
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "015"
+		"sortid": "017"
 	},
 	{
 		"id": "25358",
@@ -2330,13 +2605,13 @@
 		"date": "2009-09-02",
 		"characters": [
 			{
-				"id": "134",
+				"id": "136",
 				"name": "Masters of Evil"
 			}
 		],
 		"creators": [
 			{
-				"id": "261",
+				"id": "265",
 				"name": "Christos Gage"
 			},
 			{
@@ -2351,7 +2626,7 @@
 		],
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "015"
+		"sortid": "017"
 	},
 	{
 		"id": "25359",
@@ -2362,13 +2637,13 @@
 		"date": "2009-10-07",
 		"characters": [
 			{
-				"id": "134",
+				"id": "136",
 				"name": "Masters of Evil"
 			}
 		],
 		"creators": [
 			{
-				"id": "261",
+				"id": "265",
 				"name": "Christos Gage"
 			},
 			{
@@ -2383,7 +2658,7 @@
 		],
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "015"
+		"sortid": "017"
 	},
 	{
 		"id": "25360",
@@ -2394,13 +2669,13 @@
 		"date": "2009-11-04",
 		"characters": [
 			{
-				"id": "134",
+				"id": "136",
 				"name": "Masters of Evil"
 			}
 		],
 		"creators": [
 			{
-				"id": "261",
+				"id": "265",
 				"name": "Christos Gage"
 			},
 			{
@@ -2415,7 +2690,7 @@
 		],
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "015"
+		"sortid": "017"
 	},
 	{
 		"id": "22036",
@@ -2426,7 +2701,7 @@
 		"date": "2008-09-10",
 		"characters": [
 			{
-				"id": "131",
+				"id": "099",
 				"name": "Magneto"
 			},
 			{
@@ -2440,11 +2715,11 @@
 		],
 		"creators": [
 			{
-				"id": "261",
+				"id": "265",
 				"name": "Christos Gage"
 			},
 			{
-				"id": "221",
+				"id": "222",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -2455,7 +2730,7 @@
 		],
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "016"
+		"sortid": "018"
 	},
 	{
 		"id": "22365",
@@ -2466,7 +2741,7 @@
 		"date": "2008-10-01",
 		"characters": [
 			{
-				"id": "131",
+				"id": "099",
 				"name": "Magneto"
 			},
 			{
@@ -2480,11 +2755,11 @@
 		],
 		"creators": [
 			{
-				"id": "261",
+				"id": "265",
 				"name": "Christos Gage"
 			},
 			{
-				"id": "221",
+				"id": "222",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -2492,7 +2767,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "016"
+		"sortid": "018"
 	},
 	{
 		"id": "22366",
@@ -2503,7 +2778,7 @@
 		"date": "2008-11-05",
 		"characters": [
 			{
-				"id": "131",
+				"id": "099",
 				"name": "Magneto"
 			},
 			{
@@ -2517,11 +2792,11 @@
 		],
 		"creators": [
 			{
-				"id": "261",
+				"id": "265",
 				"name": "Christos Gage"
 			},
 			{
-				"id": "221",
+				"id": "222",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -2529,7 +2804,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "016"
+		"sortid": "018"
 	},
 	{
 		"id": "22975",
@@ -2540,7 +2815,7 @@
 		"date": "2008-12-10",
 		"characters": [
 			{
-				"id": "131",
+				"id": "099",
 				"name": "Magneto"
 			},
 			{
@@ -2554,11 +2829,11 @@
 		],
 		"creators": [
 			{
-				"id": "261",
+				"id": "265",
 				"name": "Christos Gage"
 			},
 			{
-				"id": "221",
+				"id": "222",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -2566,7 +2841,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "016"
+		"sortid": "018"
 	},
 	{
 		"id": "23513",
@@ -2577,7 +2852,7 @@
 		"date": "2009-01-01",
 		"characters": [
 			{
-				"id": "131",
+				"id": "099",
 				"name": "Magneto"
 			},
 			{
@@ -2591,11 +2866,11 @@
 		],
 		"creators": [
 			{
-				"id": "261",
+				"id": "265",
 				"name": "Christos Gage"
 			},
 			{
-				"id": "221",
+				"id": "222",
 				"name": "Andrea Di Vito"
 			}
 		],
@@ -2603,7 +2878,7 @@
 		"universe": "Earth-58163",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "016"
+		"sortid": "018"
 	},
 	{
 		"id": "1793",
@@ -2639,7 +2914,7 @@
 		],
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "017"
+		"sortid": "019"
 	},
 	{
 		"id": "1899",
@@ -2672,7 +2947,7 @@
 		"universe": "Earth-616",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "017"
+		"sortid": "019"
 	},
 	{
 		"id": "1999",
@@ -2705,7 +2980,7 @@
 		"universe": "Earth-616",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "017"
+		"sortid": "019"
 	},
 	{
 		"id": "2106",
@@ -2738,7 +3013,7 @@
 		"universe": "Earth-616",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "017"
+		"sortid": "019"
 	},
 	{
 		"id": "2213",
@@ -2771,7 +3046,7 @@
 		"universe": "Earth-616",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "017"
+		"sortid": "019"
 	},
 	{
 		"id": "2330",
@@ -2804,7 +3079,7 @@
 		"universe": "Earth-616",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "017"
+		"sortid": "019"
 	},
 	{
 		"id": "1905",
@@ -2833,18 +3108,18 @@
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "247",
+				"id": "248",
 				"name": "Tom Grummett"
 			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bc63e88d2b61.jpg",
 		"universe": "Earth-616",
 		"comments": [
-			"Photon travels through Earth-58163"
+			"Genis-Vell travels through Earth-58163"
 		],
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "018"
+		"sortid": "020"
 	},
 	{
 		"id": "2010",
@@ -2873,7 +3148,7 @@
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "247",
+				"id": "248",
 				"name": "Tom Grummett"
 			}
 		],
@@ -2881,7 +3156,7 @@
 		"universe": "Earth-616",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "018"
+		"sortid": "020"
 	},
 	{
 		"id": "2113",
@@ -2910,7 +3185,7 @@
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "247",
+				"id": "248",
 				"name": "Tom Grummett"
 			}
 		],
@@ -2918,7 +3193,7 @@
 		"universe": "Earth-616",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "018"
+		"sortid": "020"
 	},
 	{
 		"id": "2222",
@@ -2947,7 +3222,7 @@
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "247",
+				"id": "248",
 				"name": "Tom Grummett"
 			}
 		],
@@ -2955,7 +3230,7 @@
 		"universe": "Earth-616",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "018"
+		"sortid": "020"
 	},
 	{
 		"id": "2335",
@@ -2984,7 +3259,7 @@
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "247",
+				"id": "248",
 				"name": "Tom Grummett"
 			}
 		],
@@ -2992,7 +3267,7 @@
 		"universe": "Earth-616",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "018"
+		"sortid": "020"
 	},
 	{
 		"id": "2467",
@@ -3021,7 +3296,7 @@
 				"name": "Fabian Nicieza"
 			},
 			{
-				"id": "247",
+				"id": "248",
 				"name": "Tom Grummett"
 			}
 		],
@@ -3029,6 +3304,6 @@
 		"universe": "Earth-616",
 		"phaseid": "004",
 		"phasename": "House of M",
-		"sortid": "018"
+		"sortid": "020"
 	}
 ]
