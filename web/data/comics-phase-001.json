@@ -12345,8 +12345,8 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "047",
-				"name": "Wonder-Man"
+				"id": "038",
+				"name": "Wonder Man"
 			},
 			{
 				"id": "039",
@@ -12776,7 +12776,7 @@
 				"name": "Black Bolt"
 			},
 			{
-				"id": "048",
+				"id": "047",
 				"name": "Ronan"
 			}
 		],
@@ -12813,7 +12813,7 @@
 				"name": "Black Bolt"
 			},
 			{
-				"id": "048",
+				"id": "047",
 				"name": "Ronan"
 			}
 		],
@@ -12850,7 +12850,7 @@
 				"name": "Black Bolt"
 			},
 			{
-				"id": "048",
+				"id": "047",
 				"name": "Ronan"
 			}
 		],
@@ -12887,7 +12887,7 @@
 				"name": "Black Bolt"
 			},
 			{
-				"id": "048",
+				"id": "047",
 				"name": "Ronan"
 			}
 		],
@@ -12916,23 +12916,23 @@
 		"date": "2002-03-10",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
@@ -12969,23 +12969,23 @@
 		"date": "2002-04-10",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
@@ -13022,23 +13022,23 @@
 		"date": "2002-05-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
@@ -13075,23 +13075,23 @@
 		"date": "2002-06-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
@@ -14218,11 +14218,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "054",
+				"id": "053",
 				"name": "Odin"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			}
 		],
@@ -14258,11 +14258,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "054",
+				"id": "053",
 				"name": "Odin"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			}
 		],
@@ -14295,11 +14295,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "054",
+				"id": "053",
 				"name": "Odin"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			}
 		],
@@ -14332,11 +14332,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "054",
+				"id": "053",
 				"name": "Odin"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			}
 		],
@@ -14369,11 +14369,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "054",
+				"id": "053",
 				"name": "Odin"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			}
 		],
@@ -14406,11 +14406,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "054",
+				"id": "053",
 				"name": "Odin"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			}
 		],
@@ -14443,11 +14443,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "054",
+				"id": "053",
 				"name": "Odin"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			}
 		],
@@ -14480,11 +14480,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "054",
+				"id": "053",
 				"name": "Odin"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			}
 		],
@@ -14517,11 +14517,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "054",
+				"id": "053",
 				"name": "Odin"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			}
 		],
@@ -14554,11 +14554,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
-				"id": "056",
+				"id": "055",
 				"name": "Sif"
 			}
 		],
@@ -14594,11 +14594,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
-				"id": "056",
+				"id": "055",
 				"name": "Sif"
 			}
 		],
@@ -14631,11 +14631,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
-				"id": "056",
+				"id": "055",
 				"name": "Sif"
 			}
 		],
@@ -14668,11 +14668,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
-				"id": "056",
+				"id": "055",
 				"name": "Sif"
 			}
 		],
@@ -14705,11 +14705,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
-				"id": "056",
+				"id": "055",
 				"name": "Sif"
 			}
 		],
@@ -14742,11 +14742,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
-				"id": "056",
+				"id": "055",
 				"name": "Sif"
 			}
 		],
@@ -14779,11 +14779,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
-				"id": "056",
+				"id": "055",
 				"name": "Sif"
 			}
 		],
@@ -14816,11 +14816,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
-				"id": "056",
+				"id": "055",
 				"name": "Sif"
 			}
 		],
@@ -14853,11 +14853,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
-				"id": "056",
+				"id": "055",
 				"name": "Sif"
 			}
 		],
@@ -14890,11 +14890,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
-				"id": "056",
+				"id": "055",
 				"name": "Sif"
 			}
 		],
@@ -14927,11 +14927,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
-				"id": "056",
+				"id": "055",
 				"name": "Sif"
 			}
 		],
@@ -14964,11 +14964,11 @@
 				"name": "Thor"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
-				"id": "056",
+				"id": "055",
 				"name": "Sif"
 			}
 		],
@@ -15623,8 +15623,8 @@
 				"name": "Black Widow"
 			},
 			{
-				"id": "057",
-				"name": "Quicksliver"
+				"id": "032",
+				"name": "Quicksilver"
 			},
 			{
 				"id": "034",
@@ -15705,19 +15705,19 @@
 		"date": "2002-08-10",
 		"characters": [
 			{
-				"id": "058",
+				"id": "056",
 				"name": "Cosmic"
 			},
 			{
-				"id": "059",
+				"id": "057",
 				"name": "Thanos"
 			},
 			{
-				"id": "060",
+				"id": "058",
 				"name": "Adam Warlock"
 			},
 			{
-				"id": "061",
+				"id": "059",
 				"name": "Gamora"
 			},
 			{
@@ -15725,11 +15725,11 @@
 				"name": "Genis-Vell"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "063",
+				"id": "061",
 				"name": "Doctor Strange"
 			},
 			{
@@ -15758,19 +15758,19 @@
 		"date": "2002-08-11",
 		"characters": [
 			{
-				"id": "058",
+				"id": "056",
 				"name": "Cosmic"
 			},
 			{
-				"id": "059",
+				"id": "057",
 				"name": "Thanos"
 			},
 			{
-				"id": "060",
+				"id": "058",
 				"name": "Adam Warlock"
 			},
 			{
-				"id": "061",
+				"id": "059",
 				"name": "Gamora"
 			},
 			{
@@ -15778,11 +15778,11 @@
 				"name": "Genis-Vell"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "063",
+				"id": "061",
 				"name": "Doctor Strange"
 			},
 			{
@@ -15811,19 +15811,19 @@
 		"date": "2002-09-10",
 		"characters": [
 			{
-				"id": "058",
+				"id": "056",
 				"name": "Cosmic"
 			},
 			{
-				"id": "059",
+				"id": "057",
 				"name": "Thanos"
 			},
 			{
-				"id": "060",
+				"id": "058",
 				"name": "Adam Warlock"
 			},
 			{
-				"id": "061",
+				"id": "059",
 				"name": "Gamora"
 			},
 			{
@@ -15831,11 +15831,11 @@
 				"name": "Genis-Vell"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "063",
+				"id": "061",
 				"name": "Doctor Strange"
 			},
 			{
@@ -15864,19 +15864,19 @@
 		"date": "2002-09-11",
 		"characters": [
 			{
-				"id": "058",
+				"id": "056",
 				"name": "Cosmic"
 			},
 			{
-				"id": "059",
+				"id": "057",
 				"name": "Thanos"
 			},
 			{
-				"id": "060",
+				"id": "058",
 				"name": "Adam Warlock"
 			},
 			{
-				"id": "061",
+				"id": "059",
 				"name": "Gamora"
 			},
 			{
@@ -15884,11 +15884,11 @@
 				"name": "Genis-Vell"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "063",
+				"id": "061",
 				"name": "Doctor Strange"
 			},
 			{
@@ -15917,19 +15917,19 @@
 		"date": "2002-10-10",
 		"characters": [
 			{
-				"id": "058",
+				"id": "056",
 				"name": "Cosmic"
 			},
 			{
-				"id": "059",
+				"id": "057",
 				"name": "Thanos"
 			},
 			{
-				"id": "060",
+				"id": "058",
 				"name": "Adam Warlock"
 			},
 			{
-				"id": "061",
+				"id": "059",
 				"name": "Gamora"
 			},
 			{
@@ -15937,11 +15937,11 @@
 				"name": "Genis-Vell"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "063",
+				"id": "061",
 				"name": "Doctor Strange"
 			},
 			{
@@ -15970,19 +15970,19 @@
 		"date": "2002-10-11",
 		"characters": [
 			{
-				"id": "058",
+				"id": "056",
 				"name": "Cosmic"
 			},
 			{
-				"id": "059",
+				"id": "057",
 				"name": "Thanos"
 			},
 			{
-				"id": "060",
+				"id": "058",
 				"name": "Adam Warlock"
 			},
 			{
-				"id": "061",
+				"id": "059",
 				"name": "Gamora"
 			},
 			{
@@ -15990,11 +15990,11 @@
 				"name": "Genis-Vell"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "063",
+				"id": "061",
 				"name": "Doctor Strange"
 			},
 			{
@@ -16023,7 +16023,7 @@
 		"date": "2001-05-01",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
@@ -16057,7 +16057,7 @@
 		"date": "2001-06-01",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
@@ -16091,7 +16091,7 @@
 		"date": "2001-07-01",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
@@ -16125,7 +16125,7 @@
 		"date": "2001-08-01",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
@@ -17398,7 +17398,7 @@
 		"date": "2001-11-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17434,7 +17434,7 @@
 		"date": "2001-12-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17467,7 +17467,7 @@
 		"date": "2002-01-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17500,7 +17500,7 @@
 		"date": "2002-02-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17533,7 +17533,7 @@
 		"date": "2002-03-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17566,7 +17566,7 @@
 		"date": "2002-04-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17599,7 +17599,7 @@
 		"date": "2002-05-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17632,7 +17632,7 @@
 		"date": "2002-06-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17665,7 +17665,7 @@
 		"date": "2002-07-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17698,7 +17698,7 @@
 		"date": "2002-08-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17731,7 +17731,7 @@
 		"date": "2002-09-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17764,7 +17764,7 @@
 		"date": "2002-10-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17797,7 +17797,7 @@
 		"date": "2002-11-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17830,7 +17830,7 @@
 		"date": "2002-12-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17863,7 +17863,7 @@
 		"date": "2003-01-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17896,7 +17896,7 @@
 		"date": "2003-02-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17929,7 +17929,7 @@
 		"date": "2003-03-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17962,7 +17962,7 @@
 		"date": "2003-04-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -17995,7 +17995,7 @@
 		"date": "2003-05-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -18028,7 +18028,7 @@
 		"date": "2003-06-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -18061,7 +18061,7 @@
 		"date": "2003-07-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -18094,7 +18094,7 @@
 		"date": "2003-07-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -18127,7 +18127,7 @@
 		"date": "2003-08-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -18160,7 +18160,7 @@
 		"date": "2003-09-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -18193,7 +18193,7 @@
 		"date": "2003-10-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -18226,7 +18226,7 @@
 		"date": "2003-11-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -18259,7 +18259,7 @@
 		"date": "2003-12-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -18292,7 +18292,7 @@
 		"date": "2004-01-01",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
@@ -18326,11 +18326,11 @@
 		"date": "2001-05-30",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18359,11 +18359,11 @@
 		"date": "2001-06-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18392,11 +18392,11 @@
 		"date": "2001-07-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18425,11 +18425,11 @@
 		"date": "2001-10-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18458,11 +18458,11 @@
 		"date": "2001-11-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18491,11 +18491,11 @@
 		"date": "2001-12-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18524,11 +18524,11 @@
 		"date": "2002-01-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18557,11 +18557,11 @@
 		"date": "2002-02-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18590,11 +18590,11 @@
 		"date": "2002-03-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18623,11 +18623,11 @@
 		"date": "2002-04-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18656,11 +18656,11 @@
 		"date": "2002-05-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18689,11 +18689,11 @@
 		"date": "2002-06-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18722,11 +18722,11 @@
 		"date": "2002-07-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18755,11 +18755,11 @@
 		"date": "2002-08-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18788,11 +18788,11 @@
 		"date": "2002-09-10",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18821,11 +18821,11 @@
 		"date": "2002-10-10",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18854,11 +18854,11 @@
 		"date": "2002-11-10",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18887,11 +18887,11 @@
 		"date": "2002-12-10",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18920,11 +18920,11 @@
 		"date": "2003-01-10",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18953,11 +18953,11 @@
 		"date": "2003-02-10",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -18986,11 +18986,11 @@
 		"date": "2003-03-10",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19019,11 +19019,11 @@
 		"date": "2003-04-10",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19052,11 +19052,11 @@
 		"date": "2003-05-10",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19085,11 +19085,11 @@
 		"date": "2003-06-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19118,11 +19118,11 @@
 		"date": "2003-08-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19151,11 +19151,11 @@
 		"date": "2003-09-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19184,11 +19184,11 @@
 		"date": "2003-10-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19217,11 +19217,11 @@
 		"date": "2003-11-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19250,11 +19250,11 @@
 		"date": "2003-12-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19283,11 +19283,11 @@
 		"date": "2004-01-01",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19316,11 +19316,11 @@
 		"date": "2004-01-21",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19349,11 +19349,11 @@
 		"date": "2004-02-18",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19382,11 +19382,11 @@
 		"date": "2004-02-25",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19415,11 +19415,11 @@
 		"date": "2004-03-24",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19448,11 +19448,11 @@
 		"date": "2004-04-14",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19481,11 +19481,11 @@
 		"date": "2004-04-28",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19514,11 +19514,11 @@
 		"date": "2004-05-26",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19547,11 +19547,11 @@
 		"date": "2004-06-30",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19580,11 +19580,11 @@
 		"date": "2004-07-28",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19613,11 +19613,11 @@
 		"date": "2004-08-25",
 		"characters": [
 			{
-				"id": "066",
+				"id": "064",
 				"name": "X-Statix"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -19646,23 +19646,23 @@
 		"date": "2000-10-10",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "070",
+				"id": "068",
 				"name": "Cable"
 			},
 			{
-				"id": "071",
+				"id": "069",
 				"name": "Apocalypse"
 			}
 		],
@@ -19694,23 +19694,23 @@
 		"date": "2001-01-10",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "070",
+				"id": "068",
 				"name": "Cable"
 			},
 			{
-				"id": "071",
+				"id": "069",
 				"name": "Apocalypse"
 			}
 		],
@@ -19742,23 +19742,23 @@
 		"date": "2001-02-10",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "070",
+				"id": "068",
 				"name": "Cable"
 			},
 			{
-				"id": "071",
+				"id": "069",
 				"name": "Apocalypse"
 			}
 		],
@@ -19790,23 +19790,23 @@
 		"date": "2001-03-10",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "070",
+				"id": "068",
 				"name": "Cable"
 			},
 			{
-				"id": "071",
+				"id": "069",
 				"name": "Apocalypse"
 			}
 		],
@@ -19838,7 +19838,7 @@
 		"date": "2001-07-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -19846,23 +19846,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -19895,7 +19895,7 @@
 		"date": "2001-08-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -19903,23 +19903,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -19949,7 +19949,7 @@
 		"date": "2001-09-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -19957,23 +19957,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20003,7 +20003,7 @@
 		"date": "2001-10-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20011,23 +20011,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20057,7 +20057,7 @@
 		"date": "2001-09-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20065,23 +20065,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20111,7 +20111,7 @@
 		"date": "2001-11-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20119,23 +20119,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20165,7 +20165,7 @@
 		"date": "2001-12-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20173,23 +20173,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20219,7 +20219,7 @@
 		"date": "2002-01-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20227,23 +20227,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20273,7 +20273,7 @@
 		"date": "2002-02-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20281,23 +20281,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20327,7 +20327,7 @@
 		"date": "2002-03-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20335,23 +20335,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20381,7 +20381,7 @@
 		"date": "2002-04-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20389,23 +20389,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20435,7 +20435,7 @@
 		"date": "2002-05-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20443,23 +20443,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20489,7 +20489,7 @@
 		"date": "2002-06-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20497,23 +20497,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20543,7 +20543,7 @@
 		"date": "2002-07-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20551,23 +20551,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20597,7 +20597,7 @@
 		"date": "2002-08-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20605,23 +20605,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20651,7 +20651,7 @@
 		"date": "2002-08-15",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20659,23 +20659,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20705,7 +20705,7 @@
 		"date": "2002-09-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20713,23 +20713,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20759,7 +20759,7 @@
 		"date": "2002-10-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20767,23 +20767,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20813,7 +20813,7 @@
 		"date": "2002-10-15",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20821,23 +20821,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20867,7 +20867,7 @@
 		"date": "2002-11-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20875,23 +20875,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20921,7 +20921,7 @@
 		"date": "2002-12-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -20929,23 +20929,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -20975,7 +20975,7 @@
 		"date": "2001-11-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -21007,7 +21007,7 @@
 		"date": "2001-12-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -21036,7 +21036,7 @@
 		"date": "2002-01-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -21065,7 +21065,7 @@
 		"date": "2002-02-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -21094,7 +21094,7 @@
 		"date": "2002-05-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -21123,7 +21123,7 @@
 		"date": "2002-07-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -21152,7 +21152,7 @@
 		"date": "2003-08-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21184,7 +21184,7 @@
 		"date": "2003-09-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21213,7 +21213,7 @@
 		"date": "2003-10-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21242,7 +21242,7 @@
 		"date": "2003-12-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21271,7 +21271,7 @@
 		"date": "2004-01-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21300,7 +21300,7 @@
 		"date": "2004-02-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21329,7 +21329,7 @@
 		"date": "2004-03-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21358,7 +21358,7 @@
 		"date": "2004-04-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21387,7 +21387,7 @@
 		"date": "2004-05-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21416,7 +21416,7 @@
 		"date": "2004-06-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21445,7 +21445,7 @@
 		"date": "2004-07-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21474,7 +21474,7 @@
 		"date": "2004-08-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21503,7 +21503,7 @@
 		"date": "2004-09-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21532,7 +21532,7 @@
 		"date": "2004-10-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21561,7 +21561,7 @@
 		"date": "2004-11-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21590,7 +21590,7 @@
 		"date": "2004-12-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21619,7 +21619,7 @@
 		"date": "2005-01-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21648,7 +21648,7 @@
 		"date": "2005-02-01",
 		"characters": [
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			}
 		],
@@ -21677,7 +21677,7 @@
 		"date": "2003-01-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -21685,23 +21685,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -21731,7 +21731,7 @@
 		"date": "2003-02-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -21739,23 +21739,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -21785,7 +21785,7 @@
 		"date": "2003-03-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -21793,23 +21793,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -21839,7 +21839,7 @@
 		"date": "2003-04-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -21847,23 +21847,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -21893,7 +21893,7 @@
 		"date": "2003-05-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -21901,23 +21901,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -21947,7 +21947,7 @@
 		"date": "2003-06-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -21955,23 +21955,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -22001,7 +22001,7 @@
 		"date": "2003-06-30",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -22009,23 +22009,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -22055,7 +22055,7 @@
 		"date": "2003-07-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -22063,23 +22063,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -22109,7 +22109,7 @@
 		"date": "2003-08-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -22117,23 +22117,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -22163,7 +22163,7 @@
 		"date": "2003-08-30",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -22171,23 +22171,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -22217,7 +22217,7 @@
 		"date": "2003-09-10",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -22225,23 +22225,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -22271,7 +22271,7 @@
 		"date": "2003-09-24",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -22279,23 +22279,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -22325,7 +22325,7 @@
 		"date": "2003-10-01",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -22333,23 +22333,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -22379,7 +22379,7 @@
 		"date": "2003-10-08",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -22387,23 +22387,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -22433,7 +22433,7 @@
 		"date": "2003-10-15",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -22441,23 +22441,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -22487,7 +22487,7 @@
 		"date": "2003-11-19",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -22495,23 +22495,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -22541,7 +22541,7 @@
 		"date": "2003-12-17",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -22549,23 +22549,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -22595,7 +22595,7 @@
 		"date": "2004-01-07",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -22603,23 +22603,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -22652,7 +22652,7 @@
 		"date": "2004-01-21",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -22660,23 +22660,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -22706,7 +22706,7 @@
 		"date": "2004-02-18",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -22714,23 +22714,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -22760,7 +22760,7 @@
 		"date": "2004-03-17",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -22768,23 +22768,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "069",
+				"id": "067",
 				"name": "Jean Grey"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			}
 		],
@@ -22814,23 +22814,23 @@
 		"date": "2002-10-15",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -22862,23 +22862,23 @@
 		"date": "2002-11-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -22907,23 +22907,23 @@
 		"date": "2002-12-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -22952,23 +22952,23 @@
 		"date": "2003-01-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -22997,23 +22997,23 @@
 		"date": "2003-02-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -23042,23 +23042,23 @@
 		"date": "2003-03-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -23087,23 +23087,23 @@
 		"date": "2003-04-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -23132,23 +23132,23 @@
 		"date": "2003-05-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
@@ -23181,23 +23181,23 @@
 		"date": "2003-06-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
@@ -23230,23 +23230,23 @@
 		"date": "2003-07-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
@@ -23279,23 +23279,23 @@
 		"date": "2003-08-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
@@ -23328,23 +23328,23 @@
 		"date": "2003-09-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
@@ -23380,23 +23380,23 @@
 		"date": "2003-10-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -23425,23 +23425,23 @@
 		"date": "2003-11-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -23470,23 +23470,23 @@
 		"date": "2003-11-10",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -23515,23 +23515,23 @@
 		"date": "2003-11-23",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -23560,23 +23560,23 @@
 		"date": "2003-12-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -23605,23 +23605,23 @@
 		"date": "2004-01-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -23650,23 +23650,23 @@
 		"date": "2004-01-15",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -23695,23 +23695,23 @@
 		"date": "2004-02-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -23740,23 +23740,23 @@
 		"date": "2004-03-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -23785,23 +23785,23 @@
 		"date": "2004-03-05",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -23830,23 +23830,23 @@
 		"date": "2004-03-17",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -23875,27 +23875,27 @@
 		"date": "2004-04-21",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -23924,27 +23924,27 @@
 		"date": "2004-05-19",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -23973,23 +23973,23 @@
 		"date": "2004-06-16",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -24018,23 +24018,23 @@
 		"date": "2004-07-10",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -24063,23 +24063,23 @@
 		"date": "2004-08-01",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -24108,11 +24108,11 @@
 		"date": "2001-03-10",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24141,11 +24141,11 @@
 		"date": "2001-03-20",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24174,11 +24174,11 @@
 		"date": "2001-05-10",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24207,11 +24207,11 @@
 		"date": "2001-06-10",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24240,11 +24240,11 @@
 		"date": "2001-08-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24273,11 +24273,11 @@
 		"date": "2001-09-10",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24306,11 +24306,11 @@
 		"date": "2001-10-10",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24339,11 +24339,11 @@
 		"date": "2001-11-10",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24372,11 +24372,11 @@
 		"date": "2001-12-05",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24405,11 +24405,11 @@
 		"date": "2002-01-10",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24438,11 +24438,11 @@
 		"date": "2002-02-10",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24471,11 +24471,11 @@
 		"date": "2002-03-10",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24504,11 +24504,11 @@
 		"date": "2002-04-10",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24537,11 +24537,11 @@
 		"date": "2002-04-20",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24570,11 +24570,11 @@
 		"date": "2002-05-10",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24603,11 +24603,11 @@
 		"date": "2002-06-05",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24636,11 +24636,11 @@
 		"date": "2002-07-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24669,11 +24669,11 @@
 		"date": "2002-08-10",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24702,11 +24702,11 @@
 		"date": "2002-09-10",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24735,11 +24735,11 @@
 		"date": "2002-10-10",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24768,11 +24768,11 @@
 		"date": "2002-11-10",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24801,11 +24801,11 @@
 		"date": "2002-12-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24834,11 +24834,11 @@
 		"date": "2003-01-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -24867,7 +24867,7 @@
 		"date": "2001-05-10",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -24896,7 +24896,7 @@
 		"date": "2001-06-10",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -24925,7 +24925,7 @@
 		"date": "2001-07-10",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -24954,7 +24954,7 @@
 		"date": "2001-08-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -24983,7 +24983,7 @@
 		"date": "2001-09-10",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25012,7 +25012,7 @@
 		"date": "2002-10-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25044,7 +25044,7 @@
 		"date": "2002-10-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25076,7 +25076,7 @@
 		"date": "2002-10-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25108,7 +25108,7 @@
 		"date": "2002-10-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25140,7 +25140,7 @@
 		"date": "2002-10-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25172,7 +25172,7 @@
 		"date": "2002-11-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25204,7 +25204,7 @@
 		"date": "2002-12-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25236,7 +25236,7 @@
 		"date": "2003-01-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25268,7 +25268,7 @@
 		"date": "2003-02-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25300,7 +25300,7 @@
 		"date": "2003-03-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25332,7 +25332,7 @@
 		"date": "2003-04-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25364,7 +25364,7 @@
 		"date": "2003-05-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25396,7 +25396,7 @@
 		"date": "2003-06-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25428,7 +25428,7 @@
 		"date": "2003-07-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25460,7 +25460,7 @@
 		"date": "2003-08-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25492,7 +25492,7 @@
 		"date": "2003-09-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25524,7 +25524,7 @@
 		"date": "2003-10-01",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25556,7 +25556,7 @@
 		"date": "2003-10-08",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25588,7 +25588,7 @@
 		"date": "2003-10-15",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25620,7 +25620,7 @@
 		"date": "2003-10-22",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25652,7 +25652,7 @@
 		"date": "2003-11-26",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25684,7 +25684,7 @@
 		"date": "2003-12-10",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25716,7 +25716,7 @@
 		"date": "2003-12-31",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25748,7 +25748,7 @@
 		"date": "2004-01-28",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25780,7 +25780,7 @@
 		"date": "2004-02-25",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25812,7 +25812,7 @@
 		"date": "2004-03-24",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25844,7 +25844,7 @@
 		"date": "2004-04-14",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25876,7 +25876,7 @@
 		"date": "2004-05-12",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25908,7 +25908,7 @@
 		"date": "2004-05-26",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25940,7 +25940,7 @@
 		"date": "2004-06-23",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -25972,7 +25972,7 @@
 		"date": "2004-07-21",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -26004,7 +26004,7 @@
 		"date": "2004-08-11",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -26036,7 +26036,7 @@
 		"date": "2004-09-22",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -26663,11 +26663,11 @@
 		"date": "2000-10-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -26699,11 +26699,11 @@
 		"date": "2000-11-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -26732,11 +26732,11 @@
 		"date": "2000-12-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -26765,11 +26765,11 @@
 		"date": "2000-11-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -26798,11 +26798,11 @@
 		"date": "2001-01-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -26831,7 +26831,7 @@
 		"date": "2001-10-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -26860,7 +26860,7 @@
 		"date": "2001-11-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -26889,11 +26889,11 @@
 		"date": "2001-06-09",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "077",
+				"id": "075",
 				"name": "Morlun"
 			}
 		],
@@ -26923,11 +26923,11 @@
 		"date": "2001-07-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "077",
+				"id": "075",
 				"name": "Morlun"
 			}
 		],
@@ -26957,11 +26957,11 @@
 		"date": "2001-08-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "077",
+				"id": "075",
 				"name": "Morlun"
 			}
 		],
@@ -26991,11 +26991,11 @@
 		"date": "2001-09-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "077",
+				"id": "075",
 				"name": "Morlun"
 			}
 		],
@@ -27025,11 +27025,11 @@
 		"date": "2001-10-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "077",
+				"id": "075",
 				"name": "Morlun"
 			}
 		],
@@ -27059,11 +27059,11 @@
 		"date": "2001-11-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "077",
+				"id": "075",
 				"name": "Morlun"
 			}
 		],
@@ -27096,7 +27096,7 @@
 		"date": "2001-12-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27126,7 +27126,7 @@
 		"date": "2002-01-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27156,7 +27156,7 @@
 		"date": "2002-02-02",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27189,7 +27189,7 @@
 		"date": "2002-05-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27219,11 +27219,11 @@
 		"date": "2002-07-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -27252,11 +27252,11 @@
 		"date": "2002-08-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -27285,11 +27285,11 @@
 		"date": "2002-09-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -27318,11 +27318,11 @@
 		"date": "2002-10-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -27351,11 +27351,11 @@
 		"date": "2003-07-02",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "078",
+				"id": "076",
 				"name": "Eddie Brock"
 			}
 		],
@@ -27384,11 +27384,11 @@
 		"date": "2003-07-23",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "078",
+				"id": "076",
 				"name": "Eddie Brock"
 			}
 		],
@@ -27417,11 +27417,11 @@
 		"date": "2003-08-20",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "078",
+				"id": "076",
 				"name": "Eddie Brock"
 			}
 		],
@@ -27450,11 +27450,11 @@
 		"date": "2003-09-17",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "078",
+				"id": "076",
 				"name": "Eddie Brock"
 			}
 		],
@@ -27483,11 +27483,11 @@
 		"date": "2003-10-15",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "078",
+				"id": "076",
 				"name": "Eddie Brock"
 			}
 		],
@@ -27516,7 +27516,7 @@
 		"date": "2002-06-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27546,7 +27546,7 @@
 		"date": "2002-07-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27576,7 +27576,7 @@
 		"date": "2002-08-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27606,7 +27606,7 @@
 		"date": "2002-09-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27636,7 +27636,7 @@
 		"date": "2002-10-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27666,7 +27666,7 @@
 		"date": "2002-11-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27696,7 +27696,7 @@
 		"date": "2002-12-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27726,7 +27726,7 @@
 		"date": "2003-01-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27756,7 +27756,7 @@
 		"date": "2003-02-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27786,7 +27786,7 @@
 		"date": "2003-03-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27816,7 +27816,7 @@
 		"date": "2003-04-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27846,7 +27846,7 @@
 		"date": "2002-07-10",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27878,7 +27878,7 @@
 		"date": "2002-08-10",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27907,7 +27907,7 @@
 		"date": "2002-09-10",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27936,7 +27936,7 @@
 		"date": "2002-10-10",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27965,7 +27965,7 @@
 		"date": "2002-11-10",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -27994,7 +27994,7 @@
 		"date": "2003-04-10",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28023,7 +28023,7 @@
 		"date": "2003-05-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28053,7 +28053,7 @@
 		"date": "2003-06-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28083,7 +28083,7 @@
 		"date": "2003-07-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28113,7 +28113,7 @@
 		"date": "2003-08-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28143,7 +28143,7 @@
 		"date": "2003-09-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28173,7 +28173,7 @@
 		"date": "2003-10-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28203,11 +28203,11 @@
 		"date": "2003-08-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -28236,11 +28236,11 @@
 		"date": "2003-09-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -28269,11 +28269,11 @@
 		"date": "2003-10-10",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -28302,11 +28302,11 @@
 		"date": "2003-11-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -28335,11 +28335,11 @@
 		"date": "2003-10-01",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "079",
+				"id": "077",
 				"name": "Otto Octavius"
 			}
 		],
@@ -28368,11 +28368,11 @@
 		"date": "2003-11-05",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "079",
+				"id": "077",
 				"name": "Otto Octavius"
 			}
 		],
@@ -28401,11 +28401,11 @@
 		"date": "2003-12-03",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "079",
+				"id": "077",
 				"name": "Otto Octavius"
 			}
 		],
@@ -28434,11 +28434,11 @@
 		"date": "2004-01-07",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "079",
+				"id": "077",
 				"name": "Otto Octavius"
 			}
 		],
@@ -28467,11 +28467,11 @@
 		"date": "2004-02-04",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "079",
+				"id": "077",
 				"name": "Otto Octavius"
 			}
 		],
@@ -28500,7 +28500,7 @@
 		"date": "2003-10-08",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28530,7 +28530,7 @@
 		"date": "2003-10-15",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28560,7 +28560,7 @@
 		"date": "2003-10-22",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28593,7 +28593,7 @@
 		"date": "2003-11-26",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28622,7 +28622,7 @@
 		"date": "2003-12-24",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28651,7 +28651,7 @@
 		"date": "2004-01-28",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28681,7 +28681,7 @@
 		"date": "2004-02-25",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28711,7 +28711,7 @@
 		"date": "2004-03-17",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28741,7 +28741,7 @@
 		"date": "2004-03-31",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28771,7 +28771,7 @@
 		"date": "2004-04-28",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28801,7 +28801,7 @@
 		"date": "2004-05-19",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -28831,15 +28831,15 @@
 		"date": "2003-04-02",
 		"characters": [
 			{
-				"id": "058",
+				"id": "056",
 				"name": "Cosmic"
 			},
 			{
-				"id": "059",
+				"id": "057",
 				"name": "Thanos"
 			},
 			{
-				"id": "060",
+				"id": "058",
 				"name": "Adam Warlock"
 			}
 		],
@@ -28867,15 +28867,15 @@
 		"date": "2003-05-10",
 		"characters": [
 			{
-				"id": "058",
+				"id": "056",
 				"name": "Cosmic"
 			},
 			{
-				"id": "059",
+				"id": "057",
 				"name": "Thanos"
 			},
 			{
-				"id": "060",
+				"id": "058",
 				"name": "Adam Warlock"
 			}
 		],
@@ -28900,15 +28900,15 @@
 		"date": "2003-06-01",
 		"characters": [
 			{
-				"id": "058",
+				"id": "056",
 				"name": "Cosmic"
 			},
 			{
-				"id": "059",
+				"id": "057",
 				"name": "Thanos"
 			},
 			{
-				"id": "060",
+				"id": "058",
 				"name": "Adam Warlock"
 			}
 		],
@@ -28933,15 +28933,15 @@
 		"date": "2003-06-30",
 		"characters": [
 			{
-				"id": "058",
+				"id": "056",
 				"name": "Cosmic"
 			},
 			{
-				"id": "059",
+				"id": "057",
 				"name": "Thanos"
 			},
 			{
-				"id": "060",
+				"id": "058",
 				"name": "Adam Warlock"
 			}
 		],
@@ -28966,15 +28966,15 @@
 		"date": "2003-07-10",
 		"characters": [
 			{
-				"id": "058",
+				"id": "056",
 				"name": "Cosmic"
 			},
 			{
-				"id": "059",
+				"id": "057",
 				"name": "Thanos"
 			},
 			{
-				"id": "060",
+				"id": "058",
 				"name": "Adam Warlock"
 			}
 		],
@@ -28999,15 +28999,15 @@
 		"date": "2003-08-10",
 		"characters": [
 			{
-				"id": "058",
+				"id": "056",
 				"name": "Cosmic"
 			},
 			{
-				"id": "059",
+				"id": "057",
 				"name": "Thanos"
 			},
 			{
-				"id": "060",
+				"id": "058",
 				"name": "Adam Warlock"
 			}
 		],
@@ -29032,7 +29032,7 @@
 		"date": "2003-07-10",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			}
 		],
@@ -29065,7 +29065,7 @@
 		"date": "2003-08-10",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			}
 		],
@@ -29095,7 +29095,7 @@
 		"date": "2003-09-10",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			}
 		],
@@ -29125,7 +29125,7 @@
 		"date": "2003-10-10",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			}
 		],
@@ -29155,7 +29155,7 @@
 		"date": "2003-11-10",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			}
 		],
@@ -29185,7 +29185,7 @@
 		"date": "2003-11-20",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			}
 		],
@@ -29215,7 +29215,7 @@
 		"date": "2003-12-01",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			}
 		],
@@ -29245,7 +29245,7 @@
 		"date": "2004-01-01",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			}
 		],
@@ -29275,7 +29275,7 @@
 		"date": "2004-01-14",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			}
 		],
@@ -29305,7 +29305,7 @@
 		"date": "2004-01-21",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			}
 		],
@@ -29335,7 +29335,7 @@
 		"date": "2004-02-04",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			},
 			{
@@ -29373,7 +29373,7 @@
 		"date": "2004-02-18",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			},
 			{
@@ -29411,7 +29411,7 @@
 		"date": "2004-03-17",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			}
 		],
@@ -29441,7 +29441,7 @@
 		"date": "2004-04-21",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			}
 		],
@@ -29471,7 +29471,7 @@
 		"date": "2004-05-19",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			}
 		],
@@ -29501,7 +29501,7 @@
 		"date": "2004-06-16",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			}
 		],
@@ -29531,7 +29531,7 @@
 		"date": "2004-07-28",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			}
 		],
@@ -29561,7 +29561,7 @@
 		"date": "2004-09-22",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			}
 		],
@@ -29591,11 +29591,11 @@
 		"date": "2003-03-01",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -29624,11 +29624,11 @@
 		"date": "2003-03-10",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -29657,11 +29657,11 @@
 		"date": "2003-04-10",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -29690,11 +29690,11 @@
 		"date": "2003-05-01",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -29723,11 +29723,11 @@
 		"date": "2003-02-05",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -29756,11 +29756,11 @@
 		"date": "2003-03-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -29789,11 +29789,11 @@
 		"date": "2003-04-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -29822,11 +29822,11 @@
 		"date": "2003-05-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -29855,11 +29855,11 @@
 		"date": "2003-05-15",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -29888,11 +29888,11 @@
 		"date": "2003-06-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -29921,11 +29921,11 @@
 		"date": "2003-07-02",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -29954,11 +29954,11 @@
 		"date": "2003-07-16",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -29987,11 +29987,11 @@
 		"date": "2003-08-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -30020,11 +30020,11 @@
 		"date": "2003-09-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -30053,11 +30053,11 @@
 		"date": "2003-09-15",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -30086,11 +30086,11 @@
 		"date": "2003-10-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -30119,11 +30119,11 @@
 		"date": "2003-10-15",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -30152,11 +30152,11 @@
 		"date": "2003-11-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -30185,11 +30185,11 @@
 		"date": "2003-11-15",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -30218,11 +30218,11 @@
 		"date": "2003-03-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -30251,11 +30251,11 @@
 		"date": "2003-12-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -30284,11 +30284,11 @@
 		"date": "2004-01-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -30317,11 +30317,11 @@
 		"date": "2004-02-05",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -30350,11 +30350,11 @@
 		"date": "2004-03-03",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -30383,11 +30383,11 @@
 		"date": "2004-04-17",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -30416,11 +30416,11 @@
 		"date": "2004-05-07",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -30449,7 +30449,7 @@
 		"date": "2003-08-01",
 		"characters": [
 			{
-				"id": "082",
+				"id": "080",
 				"name": "Kingpin"
 			}
 		],
@@ -30481,7 +30481,7 @@
 		"date": "2003-09-01",
 		"characters": [
 			{
-				"id": "082",
+				"id": "080",
 				"name": "Kingpin"
 			}
 		],
@@ -30513,7 +30513,7 @@
 		"date": "2003-10-01",
 		"characters": [
 			{
-				"id": "082",
+				"id": "080",
 				"name": "Kingpin"
 			}
 		],
@@ -30545,7 +30545,7 @@
 		"date": "2003-11-01",
 		"characters": [
 			{
-				"id": "082",
+				"id": "080",
 				"name": "Kingpin"
 			}
 		],
@@ -30577,7 +30577,7 @@
 		"date": "2003-12-08",
 		"characters": [
 			{
-				"id": "082",
+				"id": "080",
 				"name": "Kingpin"
 			}
 		],
@@ -30609,7 +30609,7 @@
 		"date": "2004-01-12",
 		"characters": [
 			{
-				"id": "082",
+				"id": "080",
 				"name": "Kingpin"
 			}
 		],
@@ -30641,7 +30641,7 @@
 		"date": "2004-02-10",
 		"characters": [
 			{
-				"id": "082",
+				"id": "080",
 				"name": "Kingpin"
 			}
 		],
@@ -30673,7 +30673,7 @@
 		"date": "2003-06-01",
 		"characters": [
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			}
 		],
@@ -30705,7 +30705,7 @@
 		"date": "2003-07-01",
 		"characters": [
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			}
 		],
@@ -30737,7 +30737,7 @@
 		"date": "2003-08-01",
 		"characters": [
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			}
 		],
@@ -30769,7 +30769,7 @@
 		"date": "2003-09-01",
 		"characters": [
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			}
 		],
@@ -30801,7 +30801,7 @@
 		"date": "2003-10-01",
 		"characters": [
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			}
 		],
@@ -30833,7 +30833,7 @@
 		"date": "2003-11-01",
 		"characters": [
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			}
 		],
@@ -30865,7 +30865,7 @@
 		"date": "2003-11-05",
 		"characters": [
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			}
 		],
@@ -30897,7 +30897,7 @@
 		"date": "2003-12-17",
 		"characters": [
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			}
 		],
@@ -30929,7 +30929,7 @@
 		"date": "2004-01-21",
 		"characters": [
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			}
 		],
@@ -30961,7 +30961,7 @@
 		"date": "2004-02-25",
 		"characters": [
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			}
 		],
@@ -30993,7 +30993,7 @@
 		"date": "2004-03-31",
 		"characters": [
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			}
 		],
@@ -31025,7 +31025,7 @@
 		"date": "2004-04-28",
 		"characters": [
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			}
 		],
@@ -31057,7 +31057,7 @@
 		"date": "2003-07-10",
 		"characters": [
 			{
-				"id": "083",
+				"id": "081",
 				"name": "War Machine"
 			}
 		],
@@ -31089,7 +31089,7 @@
 		"date": "2003-08-10",
 		"characters": [
 			{
-				"id": "083",
+				"id": "081",
 				"name": "War Machine"
 			}
 		],
@@ -31121,7 +31121,7 @@
 		"date": "2003-09-10",
 		"characters": [
 			{
-				"id": "083",
+				"id": "081",
 				"name": "War Machine"
 			}
 		],
@@ -31153,7 +31153,7 @@
 		"date": "2003-10-10",
 		"characters": [
 			{
-				"id": "083",
+				"id": "081",
 				"name": "War Machine"
 			}
 		],
@@ -31185,7 +31185,7 @@
 		"date": "2003-10-25",
 		"characters": [
 			{
-				"id": "083",
+				"id": "081",
 				"name": "War Machine"
 			}
 		],
@@ -31217,7 +31217,7 @@
 		"date": "2003-11-22",
 		"characters": [
 			{
-				"id": "083",
+				"id": "081",
 				"name": "War Machine"
 			}
 		],
@@ -31249,7 +31249,7 @@
 		"date": "2004-01-10",
 		"characters": [
 			{
-				"id": "083",
+				"id": "081",
 				"name": "War Machine"
 			}
 		],
@@ -31281,7 +31281,7 @@
 		"date": "2003-06-01",
 		"characters": [
 			{
-				"id": "084",
+				"id": "082",
 				"name": ""
 			}
 		],
@@ -31313,7 +31313,7 @@
 		"date": "2003-07-01",
 		"characters": [
 			{
-				"id": "084",
+				"id": "082",
 				"name": ""
 			}
 		],
@@ -31345,7 +31345,7 @@
 		"date": "2003-08-01",
 		"characters": [
 			{
-				"id": "084",
+				"id": "082",
 				"name": ""
 			}
 		],
@@ -31377,7 +31377,7 @@
 		"date": "2003-09-01",
 		"characters": [
 			{
-				"id": "084",
+				"id": "082",
 				"name": ""
 			}
 		],
@@ -31409,7 +31409,7 @@
 		"date": "2003-10-01",
 		"characters": [
 			{
-				"id": "084",
+				"id": "082",
 				"name": ""
 			}
 		],
@@ -31441,7 +31441,7 @@
 		"date": "2003-10-15",
 		"characters": [
 			{
-				"id": "084",
+				"id": "082",
 				"name": ""
 			}
 		],
@@ -31473,7 +31473,7 @@
 		"date": "2003-11-01",
 		"characters": [
 			{
-				"id": "084",
+				"id": "082",
 				"name": ""
 			}
 		],
@@ -31505,7 +31505,7 @@
 		"date": "2003-11-25",
 		"characters": [
 			{
-				"id": "084",
+				"id": "082",
 				"name": ""
 			}
 		],
@@ -31537,7 +31537,7 @@
 		"date": "2003-12-01",
 		"characters": [
 			{
-				"id": "084",
+				"id": "082",
 				"name": ""
 			}
 		],
@@ -31569,7 +31569,7 @@
 		"date": "2003-12-15",
 		"characters": [
 			{
-				"id": "084",
+				"id": "082",
 				"name": ""
 			}
 		],
@@ -31601,7 +31601,7 @@
 		"date": "2004-01-07",
 		"characters": [
 			{
-				"id": "084",
+				"id": "082",
 				"name": ""
 			}
 		],
@@ -31633,7 +31633,7 @@
 		"date": "2004-02-11",
 		"characters": [
 			{
-				"id": "084",
+				"id": "082",
 				"name": ""
 			}
 		],
@@ -32273,7 +32273,7 @@
 		"date": "2003-08-10",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -32305,7 +32305,7 @@
 		"date": "2003-09-10",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -32337,7 +32337,7 @@
 		"date": "2003-10-01",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -32369,7 +32369,7 @@
 		"date": "2003-11-01",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -32401,7 +32401,7 @@
 		"date": "2004-01-28",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -32433,7 +32433,7 @@
 		"date": "2004-02-25",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -33133,11 +33133,11 @@
 		"date": "2004-02-18",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
@@ -33145,11 +33145,11 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -33182,11 +33182,11 @@
 		"date": "2004-03-17",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
@@ -33194,11 +33194,11 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -33228,11 +33228,11 @@
 		"date": "2004-05-12",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
@@ -33240,11 +33240,11 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -33274,11 +33274,11 @@
 		"date": "2004-07-14",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
@@ -33286,11 +33286,11 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -33320,11 +33320,11 @@
 		"date": "2004-09-08",
 		"characters": [
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
@@ -33332,11 +33332,11 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -33366,7 +33366,7 @@
 		"date": "2004-07-07",
 		"characters": [
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
@@ -33402,7 +33402,7 @@
 		"date": "2004-07-21",
 		"characters": [
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			}
 		],
@@ -33434,7 +33434,7 @@
 		"date": "2004-08-18",
 		"characters": [
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			}
 		],
@@ -33466,7 +33466,7 @@
 		"date": "2004-10-06",
 		"characters": [
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			}
 		],
@@ -33502,7 +33502,7 @@
 		"date": "2004-06-30",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -33510,7 +33510,7 @@
 				"name": "Daredevil"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -33543,7 +33543,7 @@
 		"date": "2004-07-28",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -33551,7 +33551,7 @@
 				"name": "Daredevil"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -33584,7 +33584,7 @@
 		"date": "2004-08-25",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -33592,7 +33592,7 @@
 				"name": "Daredevil"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -33625,7 +33625,7 @@
 		"date": "2004-09-29",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -33633,7 +33633,7 @@
 				"name": "Daredevil"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -33666,7 +33666,7 @@
 		"date": "2004-10-27",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -33674,7 +33674,7 @@
 				"name": "Daredevil"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -33867,7 +33867,7 @@
 		"date": "2004-10-06",
 		"characters": [
 			{
-				"id": "085",
+				"id": "083",
 				"name": "Blade"
 			}
 		],
@@ -33899,7 +33899,7 @@
 		"date": "2004-11-03",
 		"characters": [
 			{
-				"id": "085",
+				"id": "083",
 				"name": "Blade"
 			}
 		],
@@ -33931,7 +33931,7 @@
 		"date": "2004-12-01",
 		"characters": [
 			{
-				"id": "085",
+				"id": "083",
 				"name": "Blade"
 			}
 		],
@@ -33963,7 +33963,7 @@
 		"date": "2005-01-05",
 		"characters": [
 			{
-				"id": "085",
+				"id": "083",
 				"name": "Blade"
 			}
 		],
@@ -33995,11 +33995,11 @@
 		"date": "2004-06-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34024,11 +34024,11 @@
 		"date": "2004-07-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34053,11 +34053,11 @@
 		"date": "2004-07-15",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34086,11 +34086,11 @@
 		"date": "2004-08-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34119,11 +34119,11 @@
 		"date": "2004-08-15",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34152,11 +34152,11 @@
 		"date": "2004-09-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34185,11 +34185,11 @@
 		"date": "2004-09-15",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34218,11 +34218,11 @@
 		"date": "2004-09-30",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34251,11 +34251,11 @@
 		"date": "2004-10-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34284,11 +34284,11 @@
 		"date": "2004-10-15",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34317,11 +34317,11 @@
 		"date": "2004-10-30",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34350,11 +34350,11 @@
 		"date": "2004-11-02",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34383,11 +34383,11 @@
 		"date": "2004-11-15",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34416,11 +34416,11 @@
 		"date": "2004-11-30",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34449,11 +34449,11 @@
 		"date": "2004-12-01",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34482,11 +34482,11 @@
 		"date": "2004-12-15",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34515,11 +34515,11 @@
 		"date": "2004-12-29",
 		"characters": [
 			{
-				"id": "075",
+				"id": "073",
 				"name": "Exiles"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
@@ -34548,11 +34548,11 @@
 		"date": "2004-07-28",
 		"characters": [
 			{
-				"id": "086",
+				"id": "084",
 				"name": "Rogue"
 			},
 			{
-				"id": "087",
+				"id": "085",
 				"name": "Gambit"
 			}
 		],
@@ -34581,11 +34581,11 @@
 		"date": "2004-08-18",
 		"characters": [
 			{
-				"id": "086",
+				"id": "084",
 				"name": "Rogue"
 			},
 			{
-				"id": "087",
+				"id": "085",
 				"name": "Gambit"
 			}
 		],
@@ -34614,11 +34614,11 @@
 		"date": "2004-09-22",
 		"characters": [
 			{
-				"id": "086",
+				"id": "084",
 				"name": "Rogue"
 			},
 			{
-				"id": "087",
+				"id": "085",
 				"name": "Gambit"
 			}
 		],
@@ -34647,11 +34647,11 @@
 		"date": "2004-10-20",
 		"characters": [
 			{
-				"id": "086",
+				"id": "084",
 				"name": "Rogue"
 			},
 			{
-				"id": "087",
+				"id": "085",
 				"name": "Gambit"
 			}
 		],
@@ -34680,11 +34680,11 @@
 		"date": "2004-11-24",
 		"characters": [
 			{
-				"id": "086",
+				"id": "084",
 				"name": "Rogue"
 			},
 			{
-				"id": "087",
+				"id": "085",
 				"name": "Gambit"
 			}
 		],
@@ -34713,11 +34713,11 @@
 		"date": "2004-12-22",
 		"characters": [
 			{
-				"id": "086",
+				"id": "084",
 				"name": "Rogue"
 			},
 			{
-				"id": "087",
+				"id": "085",
 				"name": "Gambit"
 			}
 		],
@@ -34746,7 +34746,7 @@
 		"date": "2003-06-01",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -34778,7 +34778,7 @@
 		"date": "2003-07-01",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -34807,7 +34807,7 @@
 		"date": "2003-08-01",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -34836,7 +34836,7 @@
 		"date": "2003-09-01",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -34865,7 +34865,7 @@
 		"date": "2003-10-01",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -34894,7 +34894,7 @@
 		"date": "2003-11-01",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -34923,7 +34923,7 @@
 		"date": "2003-11-02",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -34952,7 +34952,7 @@
 		"date": "2003-11-26",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -34981,7 +34981,7 @@
 		"date": "2003-12-24",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -35010,7 +35010,7 @@
 		"date": "2004-01-28",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -35039,7 +35039,7 @@
 		"date": "2004-02-25",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -35068,7 +35068,7 @@
 		"date": "2004-03-24",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -35097,7 +35097,7 @@
 		"date": "2004-04-28",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -35126,7 +35126,7 @@
 		"date": "2004-05-12",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -35155,7 +35155,7 @@
 		"date": "2004-05-26",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -35184,7 +35184,7 @@
 		"date": "2004-06-23",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -35213,7 +35213,7 @@
 		"date": "2004-07-28",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -35242,7 +35242,7 @@
 		"date": "2004-08-25",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -35271,7 +35271,7 @@
 		"date": "2004-09-22",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -35300,7 +35300,7 @@
 		"date": "2004-10-27",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -35329,7 +35329,7 @@
 		"date": "2004-11-24",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -35358,7 +35358,7 @@
 		"date": "2004-12-22",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -35387,7 +35387,7 @@
 		"date": "2005-01-26",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -35416,7 +35416,7 @@
 		"date": "2005-02-23",
 		"characters": [
 			{
-				"id": "088",
+				"id": "086",
 				"name": "Mystique"
 			}
 		],
@@ -35445,7 +35445,7 @@
 		"date": "2003-09-01",
 		"characters": [
 			{
-				"id": "089",
+				"id": "087",
 				"name": "Silver Surfer"
 			}
 		],
@@ -35477,7 +35477,7 @@
 		"date": "2003-10-22",
 		"characters": [
 			{
-				"id": "089",
+				"id": "087",
 				"name": "Silver Surfer"
 			}
 		],
@@ -35509,7 +35509,7 @@
 		"date": "2003-11-26",
 		"characters": [
 			{
-				"id": "089",
+				"id": "087",
 				"name": "Silver Surfer"
 			}
 		],
@@ -35541,7 +35541,7 @@
 		"date": "2003-12-24",
 		"characters": [
 			{
-				"id": "089",
+				"id": "087",
 				"name": "Silver Surfer"
 			}
 		],
@@ -35573,7 +35573,7 @@
 		"date": "2004-01-28",
 		"characters": [
 			{
-				"id": "089",
+				"id": "087",
 				"name": "Silver Surfer"
 			}
 		],
@@ -35605,7 +35605,7 @@
 		"date": "2004-02-25",
 		"characters": [
 			{
-				"id": "089",
+				"id": "087",
 				"name": "Silver Surfer"
 			}
 		],
@@ -35637,7 +35637,7 @@
 		"date": "2004-03-24",
 		"characters": [
 			{
-				"id": "089",
+				"id": "087",
 				"name": "Silver Surfer"
 			}
 		],
@@ -35669,7 +35669,7 @@
 		"date": "2004-04-28",
 		"characters": [
 			{
-				"id": "089",
+				"id": "087",
 				"name": "Silver Surfer"
 			}
 		],
@@ -35701,7 +35701,7 @@
 		"date": "2004-05-26",
 		"characters": [
 			{
-				"id": "089",
+				"id": "087",
 				"name": "Silver Surfer"
 			}
 		],
@@ -35733,7 +35733,7 @@
 		"date": "2004-06-23",
 		"characters": [
 			{
-				"id": "089",
+				"id": "087",
 				"name": "Silver Surfer"
 			}
 		],
@@ -35765,7 +35765,7 @@
 		"date": "2004-07-21",
 		"characters": [
 			{
-				"id": "089",
+				"id": "087",
 				"name": "Silver Surfer"
 			}
 		],
@@ -35797,7 +35797,7 @@
 		"date": "2004-08-25",
 		"characters": [
 			{
-				"id": "089",
+				"id": "087",
 				"name": "Silver Surfer"
 			}
 		],
@@ -35829,7 +35829,7 @@
 		"date": "2004-09-29",
 		"characters": [
 			{
-				"id": "089",
+				"id": "087",
 				"name": "Silver Surfer"
 			}
 		],
@@ -35861,7 +35861,7 @@
 		"date": "2004-10-27",
 		"characters": [
 			{
-				"id": "089",
+				"id": "087",
 				"name": "Silver Surfer"
 			}
 		],
@@ -35893,7 +35893,7 @@
 		"date": "2003-10-15",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -35925,7 +35925,7 @@
 		"date": "2003-10-29",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -35954,7 +35954,7 @@
 		"date": "2003-11-19",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -35983,7 +35983,7 @@
 		"date": "2003-12-17",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -36012,7 +36012,7 @@
 		"date": "2004-01-21",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -36041,7 +36041,7 @@
 		"date": "2004-02-18",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -36202,7 +36202,7 @@
 		"date": "2004-04-14",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -36231,7 +36231,7 @@
 		"date": "2004-05-01",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -36260,7 +36260,7 @@
 		"date": "2004-05-12",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -36289,7 +36289,7 @@
 		"date": "2004-06-09",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -36318,7 +36318,7 @@
 		"date": "2004-07-14",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -36347,7 +36347,7 @@
 		"date": "2004-08-11",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -36376,7 +36376,7 @@
 		"date": "2004-08-25",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			}
 		],
@@ -36405,11 +36405,11 @@
 		"date": "2004-09-01",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -36438,11 +36438,11 @@
 		"date": "2004-10-06",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -36471,11 +36471,11 @@
 		"date": "2004-11-03",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -36504,11 +36504,11 @@
 		"date": "2004-12-01",
 		"characters": [
 			{
-				"id": "081",
+				"id": "079",
 				"name": "Hulk"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -36541,7 +36541,7 @@
 				"name": "Deadpool"
 			},
 			{
-				"id": "090",
+				"id": "088",
 				"name": "Bullseye"
 			}
 		],
@@ -36577,7 +36577,7 @@
 				"name": "Deadpool"
 			},
 			{
-				"id": "090",
+				"id": "088",
 				"name": "Bullseye"
 			}
 		],
@@ -36613,7 +36613,7 @@
 				"name": "Deadpool"
 			},
 			{
-				"id": "090",
+				"id": "088",
 				"name": "Bullseye"
 			}
 		],
@@ -36649,7 +36649,7 @@
 				"name": "Deadpool"
 			},
 			{
-				"id": "090",
+				"id": "088",
 				"name": "Bullseye"
 			}
 		],
@@ -36685,7 +36685,7 @@
 				"name": "Deadpool"
 			},
 			{
-				"id": "090",
+				"id": "088",
 				"name": "Bullseye"
 			}
 		],
@@ -36717,7 +36717,7 @@
 		"date": "2004-03-10",
 		"characters": [
 			{
-				"id": "091",
+				"id": "089",
 				"name": "Iron Fist"
 			}
 		],
@@ -36749,7 +36749,7 @@
 		"date": "2004-04-14",
 		"characters": [
 			{
-				"id": "091",
+				"id": "089",
 				"name": "Iron Fist"
 			}
 		],
@@ -36781,7 +36781,7 @@
 		"date": "2004-05-19",
 		"characters": [
 			{
-				"id": "091",
+				"id": "089",
 				"name": "Iron Fist"
 			}
 		],
@@ -36813,7 +36813,7 @@
 		"date": "2004-06-30",
 		"characters": [
 			{
-				"id": "091",
+				"id": "089",
 				"name": "Iron Fist"
 			}
 		],
@@ -36845,7 +36845,7 @@
 		"date": "2004-07-14",
 		"characters": [
 			{
-				"id": "091",
+				"id": "089",
 				"name": "Iron Fist"
 			}
 		],
@@ -36877,7 +36877,7 @@
 		"date": "2004-08-11",
 		"characters": [
 			{
-				"id": "091",
+				"id": "089",
 				"name": "Iron Fist"
 			}
 		],
@@ -36909,23 +36909,23 @@
 		"date": "2004-02-11",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -36954,23 +36954,23 @@
 		"date": "2004-02-25",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -36999,23 +36999,23 @@
 		"date": "2004-03-10",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37044,23 +37044,23 @@
 		"date": "2004-04-14",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37089,23 +37089,23 @@
 		"date": "2004-04-28",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37134,23 +37134,23 @@
 		"date": "2004-06-02",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37179,23 +37179,23 @@
 		"date": "2004-07-14",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37224,23 +37224,23 @@
 		"date": "2004-07-14",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
@@ -37273,23 +37273,23 @@
 		"date": "2004-08-25",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
@@ -37322,23 +37322,23 @@
 		"date": "2004-09-22",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37367,23 +37367,23 @@
 		"date": "2004-10-13",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37412,23 +37412,23 @@
 		"date": "2004-11-10",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37457,23 +37457,23 @@
 		"date": "2004-12-08",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37502,23 +37502,23 @@
 		"date": "2005-01-12",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37547,23 +37547,23 @@
 		"date": "2005-02-09",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37592,23 +37592,23 @@
 		"date": "2005-03-16",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37637,23 +37637,23 @@
 		"date": "2005-04-20",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37682,23 +37682,23 @@
 		"date": "2005-05-18",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37727,23 +37727,23 @@
 		"date": "2005-06-15",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
@@ -37776,23 +37776,23 @@
 		"date": "2005-07-13",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
@@ -37825,23 +37825,23 @@
 		"date": "2005-08-17",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37870,11 +37870,11 @@
 		"date": "2005-09-14",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37903,23 +37903,23 @@
 		"date": "2005-10-12",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37948,23 +37948,23 @@
 		"date": "2005-11-09",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -37993,23 +37993,23 @@
 		"date": "2005-12-14",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -38038,23 +38038,23 @@
 		"date": "2006-01-18",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -38083,23 +38083,23 @@
 		"date": "2006-02-08",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -38128,7 +38128,7 @@
 		"date": "2004-05-26",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -38136,23 +38136,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "092",
+				"id": "090",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "093",
+				"id": "091",
 				"name": "Colossus"
 			}
 		],
@@ -38185,7 +38185,7 @@
 		"date": "2004-06-23",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -38193,23 +38193,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "092",
+				"id": "090",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "093",
+				"id": "091",
 				"name": "Colossus"
 			}
 		],
@@ -38239,7 +38239,7 @@
 		"date": "2004-07-28",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -38247,23 +38247,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "092",
+				"id": "090",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "093",
+				"id": "091",
 				"name": "Colossus"
 			}
 		],
@@ -38293,7 +38293,7 @@
 		"date": "2004-08-25",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -38301,23 +38301,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "092",
+				"id": "090",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "093",
+				"id": "091",
 				"name": "Colossus"
 			}
 		],
@@ -38347,7 +38347,7 @@
 		"date": "2004-09-22",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -38355,23 +38355,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "092",
+				"id": "090",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "093",
+				"id": "091",
 				"name": "Colossus"
 			}
 		],
@@ -38401,7 +38401,7 @@
 		"date": "2004-11-03",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -38409,23 +38409,23 @@
 				"name": "Beast"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "092",
+				"id": "090",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "093",
+				"id": "091",
 				"name": "Colossus"
 			}
 		],
@@ -38455,15 +38455,15 @@
 		"date": "2004-04-14",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			}
 		],
@@ -38493,15 +38493,15 @@
 		"date": "2004-05-12",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			}
 		],
@@ -38531,15 +38531,15 @@
 		"date": "2004-06-09",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			}
 		],
@@ -38569,15 +38569,15 @@
 		"date": "2004-07-14",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			}
 		],
@@ -38607,19 +38607,19 @@
 		"date": "2004-08-11",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			},
 			{
-				"id": "078",
+				"id": "076",
 				"name": "Eddie Brock"
 			}
 		],
@@ -38649,19 +38649,19 @@
 		"date": "2004-09-08",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			},
 			{
-				"id": "078",
+				"id": "076",
 				"name": "Eddie Brock"
 			}
 		],
@@ -38691,19 +38691,19 @@
 		"date": "2004-10-13",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			},
 			{
-				"id": "078",
+				"id": "076",
 				"name": "Eddie Brock"
 			}
 		],
@@ -38733,19 +38733,19 @@
 		"date": "2004-11-10",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			},
 			{
-				"id": "078",
+				"id": "076",
 				"name": "Eddie Brock"
 			}
 		],
@@ -38775,15 +38775,15 @@
 		"date": "2004-12-08",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			}
 		],
@@ -38813,15 +38813,15 @@
 		"date": "2005-01-12",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			}
 		],
@@ -38851,15 +38851,15 @@
 		"date": "2005-02-09",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			}
 		],
@@ -38889,15 +38889,15 @@
 		"date": "2005-03-30",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			}
 		],
@@ -38927,11 +38927,11 @@
 		"date": "2004-06-23",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -38964,11 +38964,11 @@
 		"date": "2004-07-28",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -38998,11 +38998,11 @@
 		"date": "2004-08-25",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -39032,11 +39032,11 @@
 		"date": "2004-09-29",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -39066,11 +39066,11 @@
 		"date": "2004-10-27",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -39100,11 +39100,11 @@
 		"date": "2004-11-24",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			}
 		],
@@ -39134,7 +39134,7 @@
 		"date": "2004-12-29",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -39164,7 +39164,7 @@
 		"date": "2005-01-26",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -39194,7 +39194,7 @@
 		"date": "2005-02-23",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -39224,7 +39224,7 @@
 		"date": "2005-03-23",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -40457,7 +40457,7 @@
 				"name": "She-Hulk"
 			},
 			{
-				"id": "095",
+				"id": "093",
 				"name": "Hanl Pym"
 			},
 			{
@@ -40514,7 +40514,7 @@
 				"name": "She-Hulk"
 			},
 			{
-				"id": "095",
+				"id": "093",
 				"name": "Hanl Pym"
 			},
 			{
@@ -40571,7 +40571,7 @@
 				"name": "She-Hulk"
 			},
 			{
-				"id": "095",
+				"id": "093",
 				"name": "Hanl Pym"
 			},
 			{
@@ -40628,7 +40628,7 @@
 				"name": "She-Hulk"
 			},
 			{
-				"id": "095",
+				"id": "093",
 				"name": "Hanl Pym"
 			},
 			{
@@ -40685,7 +40685,7 @@
 				"name": "She-Hulk"
 			},
 			{
-				"id": "095",
+				"id": "093",
 				"name": "Hanl Pym"
 			},
 			{
@@ -40734,7 +40734,7 @@
 				"name": "Sam Wilson"
 			},
 			{
-				"id": "096",
+				"id": "094",
 				"name": "Captain Britain"
 			},
 			{
@@ -40770,7 +40770,7 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "097",
+				"id": "095",
 				"name": "Invaders"
 			},
 			{
@@ -40819,7 +40819,7 @@
 				"name": "Sam Wilson"
 			},
 			{
-				"id": "096",
+				"id": "094",
 				"name": "Captain Britain"
 			},
 			{
@@ -40855,7 +40855,7 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "097",
+				"id": "095",
 				"name": "Invaders"
 			},
 			{
@@ -40904,7 +40904,7 @@
 				"name": "Sam Wilson"
 			},
 			{
-				"id": "096",
+				"id": "094",
 				"name": "Captain Britain"
 			},
 			{
@@ -40940,7 +40940,7 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "097",
+				"id": "095",
 				"name": "Invaders"
 			},
 			{
@@ -40972,7 +40972,7 @@
 		"date": "2004-07-07",
 		"characters": [
 			{
-				"id": "097",
+				"id": "095",
 				"name": "Invaders"
 			},
 			{
@@ -41013,19 +41013,19 @@
 		"date": "2004-05-19",
 		"characters": [
 			{
-				"id": "098",
+				"id": "096",
 				"name": "Excalibur"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "099",
+				"id": "097",
 				"name": "Magneto"
 			}
 		],
@@ -41041,9 +41041,6 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/5669b3256e68e.jpg",
 		"universe": "Earth-616",
-		"comments": [
-			"Missing"
-		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "174"
@@ -41057,19 +41054,19 @@
 		"date": "2004-06-23",
 		"characters": [
 			{
-				"id": "098",
+				"id": "096",
 				"name": "Excalibur"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "099",
+				"id": "097",
 				"name": "Magneto"
 			}
 		],
@@ -41085,9 +41082,6 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/5669afb05ae5a.jpg",
 		"universe": "Earth-616",
-		"comments": [
-			"Missing"
-		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "174"
@@ -41101,19 +41095,19 @@
 		"date": "2004-07-28",
 		"characters": [
 			{
-				"id": "098",
+				"id": "096",
 				"name": "Excalibur"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "099",
+				"id": "097",
 				"name": "Magneto"
 			}
 		],
@@ -41129,9 +41123,6 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5669b3107fa5e.jpg",
 		"universe": "Earth-616",
-		"comments": [
-			"Missing"
-		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "174"
@@ -41145,19 +41136,19 @@
 		"date": "2004-08-25",
 		"characters": [
 			{
-				"id": "098",
+				"id": "096",
 				"name": "Excalibur"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "099",
+				"id": "097",
 				"name": "Magneto"
 			}
 		],
@@ -41173,9 +41164,6 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5669b2f21a53c.jpg",
 		"universe": "Earth-616",
-		"comments": [
-			"Missing"
-		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "174"
@@ -41189,19 +41177,19 @@
 		"date": "2004-09-22",
 		"characters": [
 			{
-				"id": "098",
+				"id": "096",
 				"name": "Excalibur"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "099",
+				"id": "097",
 				"name": "Magneto"
 			}
 		],
@@ -41217,9 +41205,6 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/5669b2932476a.jpg",
 		"universe": "Earth-616",
-		"comments": [
-			"Missing"
-		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "175"
@@ -41233,19 +41218,19 @@
 		"date": "2004-10-27",
 		"characters": [
 			{
-				"id": "098",
+				"id": "096",
 				"name": "Excalibur"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "099",
+				"id": "097",
 				"name": "Magneto"
 			}
 		],
@@ -41261,9 +41246,6 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5669af8c34bc5.jpg",
 		"universe": "Earth-616",
-		"comments": [
-			"Missing"
-		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "175"
@@ -41277,19 +41259,19 @@
 		"date": "2004-11-24",
 		"characters": [
 			{
-				"id": "098",
+				"id": "096",
 				"name": "Excalibur"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "099",
+				"id": "097",
 				"name": "Magneto"
 			}
 		],
@@ -41305,9 +41287,6 @@
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5669af316ea5e.jpg",
 		"universe": "Earth-616",
-		"comments": [
-			"Missing"
-		],
 		"phaseid": "001",
 		"phasename": "Marvel Knights",
 		"sortid": "175"

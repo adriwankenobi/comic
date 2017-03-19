@@ -10,11 +10,11 @@
 		"eventid": "015",
 		"characters": [
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "172",
+				"id": "173",
 				"name": "Hood"
 			},
 			{
@@ -22,7 +22,7 @@
 				"name": "Doctor Doom"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
@@ -62,11 +62,11 @@
 		"eventid": "015",
 		"characters": [
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			}
 		],
@@ -76,7 +76,7 @@
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "545",
+				"id": "573",
 				"name": "Lucio Parrillo"
 			}
 		],
@@ -98,7 +98,7 @@
 		"eventid": "015",
 		"characters": [
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
@@ -106,7 +106,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "172",
+				"id": "173",
 				"name": "Hood"
 			},
 			{
@@ -118,7 +118,7 @@
 				"name": "Namor"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
@@ -128,7 +128,7 @@
 		],
 		"creators": [
 			{
-				"id": "406",
+				"id": "445",
 				"name": "John Rhett Thomas"
 			}
 		],
@@ -166,19 +166,19 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "141",
+				"id": "139",
 				"name": "Ares"
 			},
 			{
@@ -186,19 +186,19 @@
 				"name": "Sentry"
 			},
 			{
-				"id": "152",
+				"id": "150",
 				"name": "Mac Gargan"
 			},
 			{
-				"id": "090",
+				"id": "088",
 				"name": "Bullseye"
 			},
 			{
-				"id": "147",
+				"id": "145",
 				"name": "Daken"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
@@ -206,7 +206,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "170",
+				"id": "171",
 				"name": "Mockingbird"
 			},
 			{
@@ -218,47 +218,47 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "171",
+				"id": "172",
 				"name": "Secret Warriors"
 			},
 			{
-				"id": "120",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "121",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "142",
+				"id": "140",
 				"name": "Phobos"
 			},
 			{
-				"id": "112",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "116",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "117",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "114",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "115",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
@@ -266,11 +266,11 @@
 				"name": "Vision"
 			},
 			{
-				"id": "113",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "172",
+				"id": "173",
 				"name": "Hood"
 			}
 		],
@@ -312,7 +312,7 @@
 				"name": "Christos Gage"
 			},
 			{
-				"id": "401",
+				"id": "425",
 				"name": "Mahmud Asrar"
 			}
 		],
@@ -337,7 +337,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
@@ -373,7 +373,7 @@
 		"eventid": "015",
 		"characters": [
 			{
-				"id": "147",
+				"id": "145",
 				"name": "Daken"
 			}
 		],
@@ -409,15 +409,15 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
@@ -433,7 +433,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "170",
+				"id": "171",
 				"name": "Mockingbird"
 			},
 			{
@@ -441,23 +441,23 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "171",
+				"id": "172",
 				"name": "Secret Warriors"
 			},
 			{
-				"id": "120",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "121",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "142",
+				"id": "140",
 				"name": "Phobos"
 			},
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			}
 		],
@@ -489,7 +489,7 @@
 		"eventid": "015",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			}
 		],
@@ -499,7 +499,7 @@
 				"name": "Brian Reed"
 			},
 			{
-				"id": "372",
+				"id": "395",
 				"name": "Chris Samnee"
 			}
 		],
@@ -537,19 +537,19 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "141",
+				"id": "139",
 				"name": "Ares"
 			},
 			{
@@ -557,19 +557,19 @@
 				"name": "Sentry"
 			},
 			{
-				"id": "152",
+				"id": "150",
 				"name": "Mac Gargan"
 			},
 			{
-				"id": "090",
+				"id": "088",
 				"name": "Bullseye"
 			},
 			{
-				"id": "147",
+				"id": "145",
 				"name": "Daken"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
@@ -577,7 +577,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "170",
+				"id": "171",
 				"name": "Mockingbird"
 			},
 			{
@@ -589,47 +589,47 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "171",
+				"id": "172",
 				"name": "Secret Warriors"
 			},
 			{
-				"id": "120",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "121",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "142",
+				"id": "140",
 				"name": "Phobos"
 			},
 			{
-				"id": "112",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "116",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "117",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "114",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "115",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
@@ -637,11 +637,11 @@
 				"name": "Vision"
 			},
 			{
-				"id": "113",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "172",
+				"id": "173",
 				"name": "Hood"
 			}
 		],
@@ -686,7 +686,7 @@
 				"name": "Christos Gage"
 			},
 			{
-				"id": "369",
+				"id": "392",
 				"name": "Jorge Molina"
 			}
 		],
@@ -711,7 +711,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
@@ -719,15 +719,15 @@
 				"name": "Sentry"
 			},
 			{
-				"id": "090",
+				"id": "088",
 				"name": "Bullseye"
 			},
 			{
-				"id": "152",
+				"id": "150",
 				"name": "Mac Gargan"
 			},
 			{
-				"id": "147",
+				"id": "145",
 				"name": "Daken"
 			}
 		],
@@ -759,7 +759,7 @@
 		"eventid": "015",
 		"characters": [
 			{
-				"id": "147",
+				"id": "145",
 				"name": "Daken"
 			}
 		],
@@ -795,15 +795,15 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
@@ -819,7 +819,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "170",
+				"id": "171",
 				"name": "Mockingbird"
 			},
 			{
@@ -827,23 +827,23 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "171",
+				"id": "172",
 				"name": "Secret Warriors"
 			},
 			{
-				"id": "120",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "121",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "142",
+				"id": "140",
 				"name": "Phobos"
 			},
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			}
 		],
@@ -875,7 +875,7 @@
 		"eventid": "015",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			}
 		],
@@ -885,7 +885,7 @@
 				"name": "Brian Reed"
 			},
 			{
-				"id": "372",
+				"id": "395",
 				"name": "Chris Samnee"
 			}
 		],
@@ -913,7 +913,7 @@
 		],
 		"creators": [
 			{
-				"id": "415",
+				"id": "453",
 				"name": "Kieron Gillen"
 			},
 			{
@@ -943,7 +943,7 @@
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "153",
+				"id": "151",
 				"name": "Eric O'Grady"
 			}
 		],
@@ -953,7 +953,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "414",
+				"id": "452",
 				"name": "Miguel Sepulveda"
 			}
 		],
@@ -990,19 +990,19 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "141",
+				"id": "139",
 				"name": "Ares"
 			},
 			{
@@ -1010,19 +1010,19 @@
 				"name": "Sentry"
 			},
 			{
-				"id": "152",
+				"id": "150",
 				"name": "Mac Gargan"
 			},
 			{
-				"id": "090",
+				"id": "088",
 				"name": "Bullseye"
 			},
 			{
-				"id": "147",
+				"id": "145",
 				"name": "Daken"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
@@ -1030,7 +1030,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "170",
+				"id": "171",
 				"name": "Mockingbird"
 			},
 			{
@@ -1042,47 +1042,47 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "171",
+				"id": "172",
 				"name": "Secret Warriors"
 			},
 			{
-				"id": "120",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "121",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "142",
+				"id": "140",
 				"name": "Phobos"
 			},
 			{
-				"id": "112",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "116",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "117",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "114",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "115",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
@@ -1090,11 +1090,11 @@
 				"name": "Vision"
 			},
 			{
-				"id": "113",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "172",
+				"id": "173",
 				"name": "Hood"
 			}
 		],
@@ -1139,7 +1139,7 @@
 				"name": "Christos Gage"
 			},
 			{
-				"id": "369",
+				"id": "392",
 				"name": "Jorge Molina"
 			}
 		],
@@ -1164,7 +1164,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
@@ -1172,15 +1172,15 @@
 				"name": "Sentry"
 			},
 			{
-				"id": "090",
+				"id": "088",
 				"name": "Bullseye"
 			},
 			{
-				"id": "152",
+				"id": "150",
 				"name": "Mac Gargan"
 			},
 			{
-				"id": "147",
+				"id": "145",
 				"name": "Daken"
 			}
 		],
@@ -1212,7 +1212,7 @@
 		"eventid": "015",
 		"characters": [
 			{
-				"id": "147",
+				"id": "145",
 				"name": "Daken"
 			}
 		],
@@ -1248,7 +1248,7 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			}
 		],
@@ -1258,7 +1258,7 @@
 				"name": "Christos Gage"
 			},
 			{
-				"id": "546",
+				"id": "574",
 				"name": "Federico Dallocchio"
 			}
 		],
@@ -1279,7 +1279,7 @@
 		"eventid": "015",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -1293,7 +1293,7 @@
 				"name": "Brian Reed"
 			},
 			{
-				"id": "413",
+				"id": "451",
 				"name": "Marco Santucci"
 			}
 		],
@@ -1314,17 +1314,17 @@
 		"eventid": "015",
 		"characters": [
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			}
 		],
 		"creators": [
 			{
-				"id": "415",
+				"id": "453",
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "547",
+				"id": "575",
 				"name": "Jamie McKelvie"
 			}
 		],
@@ -1345,23 +1345,23 @@
 		"eventid": "015",
 		"characters": [
 			{
-				"id": "112",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "116",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "113",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "115",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "114",
+				"id": "112",
 				"name": "Patriot"
 			}
 		],
@@ -1371,7 +1371,7 @@
 				"name": "Sean McKeever"
 			},
 			{
-				"id": "401",
+				"id": "425",
 				"name": "Mahmud Asrar"
 			}
 		],
@@ -1392,25 +1392,25 @@
 		"eventid": "015",
 		"characters": [
 			{
-				"id": "171",
+				"id": "172",
 				"name": "Secret Warriors"
 			},
 			{
-				"id": "120",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "121",
+				"id": "119",
 				"name": "Quake"
 			}
 		],
 		"creators": [
 			{
-				"id": "446",
+				"id": "480",
 				"name": "Jonathan Hickman"
 			},
 			{
-				"id": "512",
+				"id": "543",
 				"name": "Alessandro Vitti"
 			}
 		],
@@ -1439,7 +1439,7 @@
 				"name": "Hank Pym"
 			},
 			{
-				"id": "117",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
@@ -1447,7 +1447,7 @@
 				"name": "Vision"
 			},
 			{
-				"id": "129",
+				"id": "127",
 				"name": "Amadeus Cho"
 			},
 			{
@@ -1461,7 +1461,7 @@
 				"name": "Dan Slott"
 			},
 			{
-				"id": "349",
+				"id": "353",
 				"name": "Khoi Pham"
 			}
 		],
@@ -1487,15 +1487,15 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
@@ -1511,7 +1511,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "170",
+				"id": "171",
 				"name": "Mockingbird"
 			},
 			{
@@ -1519,23 +1519,23 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "171",
+				"id": "172",
 				"name": "Secret Warriors"
 			},
 			{
-				"id": "120",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "121",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "142",
+				"id": "140",
 				"name": "Phobos"
 			},
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			}
 		],
@@ -1567,21 +1567,21 @@
 		"eventid": "015",
 		"characters": [
 			{
-				"id": "173",
+				"id": "174",
 				"name": "New Mutants"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			}
 		],
 		"creators": [
 			{
-				"id": "415",
+				"id": "453",
 				"name": "Kieron Gillen"
 			},
 			{
-				"id": "548",
+				"id": "576",
 				"name": "Niko Henrichon"
 			}
 		],
@@ -1602,7 +1602,7 @@
 		"eventid": "015",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			}
 		],
@@ -1612,7 +1612,7 @@
 				"name": "Brian Reed"
 			},
 			{
-				"id": "372",
+				"id": "395",
 				"name": "Chris Samnee"
 			}
 		],
@@ -1640,7 +1640,7 @@
 		],
 		"creators": [
 			{
-				"id": "415",
+				"id": "453",
 				"name": "Kieron Gillen"
 			},
 			{
@@ -1670,7 +1670,7 @@
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "153",
+				"id": "151",
 				"name": "Eric O'Grady"
 			}
 		],
@@ -1680,7 +1680,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "400",
+				"id": "424",
 				"name": "Wellington Alves"
 			}
 		],
@@ -1717,19 +1717,19 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
-				"id": "055",
+				"id": "054",
 				"name": "Loki"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
-				"id": "141",
+				"id": "139",
 				"name": "Ares"
 			},
 			{
@@ -1737,19 +1737,19 @@
 				"name": "Sentry"
 			},
 			{
-				"id": "152",
+				"id": "150",
 				"name": "Mac Gargan"
 			},
 			{
-				"id": "090",
+				"id": "088",
 				"name": "Bullseye"
 			},
 			{
-				"id": "147",
+				"id": "145",
 				"name": "Daken"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
@@ -1757,7 +1757,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "170",
+				"id": "171",
 				"name": "Mockingbird"
 			},
 			{
@@ -1769,47 +1769,47 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "171",
+				"id": "172",
 				"name": "Secret Warriors"
 			},
 			{
-				"id": "120",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "121",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "142",
+				"id": "140",
 				"name": "Phobos"
 			},
 			{
-				"id": "112",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "116",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "117",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
-				"id": "114",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "115",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
@@ -1817,11 +1817,11 @@
 				"name": "Vision"
 			},
 			{
-				"id": "113",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "172",
+				"id": "173",
 				"name": "Hood"
 			}
 		],
@@ -1867,7 +1867,7 @@
 				"name": "Christos Gage"
 			},
 			{
-				"id": "369",
+				"id": "392",
 				"name": "Jorge Molina"
 			}
 		],
@@ -1895,7 +1895,7 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
@@ -1903,15 +1903,15 @@
 				"name": "Sentry"
 			},
 			{
-				"id": "090",
+				"id": "088",
 				"name": "Bullseye"
 			},
 			{
-				"id": "152",
+				"id": "150",
 				"name": "Mac Gargan"
 			},
 			{
-				"id": "147",
+				"id": "145",
 				"name": "Daken"
 			}
 		],
@@ -1983,7 +1983,7 @@
 				"name": "Hank Pym"
 			},
 			{
-				"id": "117",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
@@ -1991,7 +1991,7 @@
 				"name": "Vision"
 			},
 			{
-				"id": "129",
+				"id": "127",
 				"name": "Amadeus Cho"
 			},
 			{
@@ -2005,7 +2005,7 @@
 				"name": "Dan Slott"
 			},
 			{
-				"id": "349",
+				"id": "353",
 				"name": "Khoi Pham"
 			}
 		],
@@ -2034,15 +2034,15 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
@@ -2058,7 +2058,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "170",
+				"id": "171",
 				"name": "Mockingbird"
 			},
 			{
@@ -2066,23 +2066,23 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "171",
+				"id": "172",
 				"name": "Secret Warriors"
 			},
 			{
-				"id": "120",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "121",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "142",
+				"id": "140",
 				"name": "Phobos"
 			},
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			}
 		],
@@ -2114,7 +2114,7 @@
 		"eventid": "015",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			}
 		],
@@ -2124,7 +2124,7 @@
 				"name": "Brian Reed"
 			},
 			{
-				"id": "372",
+				"id": "395",
 				"name": "Chris Samnee"
 			}
 		],
@@ -2152,7 +2152,7 @@
 		],
 		"creators": [
 			{
-				"id": "415",
+				"id": "453",
 				"name": "Kieron Gillen"
 			},
 			{
@@ -2184,7 +2184,7 @@
 		],
 		"creators": [
 			{
-				"id": "415",
+				"id": "453",
 				"name": "Kieron Gillen"
 			},
 			{
@@ -2214,7 +2214,7 @@
 				"name": "Thunderbolts"
 			},
 			{
-				"id": "153",
+				"id": "151",
 				"name": "Eric O'Grady"
 			},
 			{
@@ -2228,7 +2228,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "414",
+				"id": "452",
 				"name": "Miguel Sepulveda"
 			}
 		],
@@ -2256,15 +2256,15 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
@@ -2280,7 +2280,7 @@
 				"name": "Carol Danvers"
 			},
 			{
-				"id": "170",
+				"id": "171",
 				"name": "Mockingbird"
 			},
 			{
@@ -2288,35 +2288,35 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "171",
+				"id": "172",
 				"name": "Secret Warriors"
 			},
 			{
-				"id": "120",
+				"id": "118",
 				"name": "Nick Fury"
 			},
 			{
-				"id": "121",
+				"id": "119",
 				"name": "Quake"
 			},
 			{
-				"id": "142",
+				"id": "140",
 				"name": "Phobos"
 			},
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
-				"id": "172",
+				"id": "173",
 				"name": "Hood"
 			}
 		],

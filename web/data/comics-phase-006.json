@@ -10,7 +10,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -46,7 +46,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -82,7 +82,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -122,15 +122,15 @@
 				"name": "Iron Man"
 			},
 			{
-				"id": "063",
+				"id": "061",
 				"name": "Doctor Strange"
 			},
 			{
-				"id": "074",
+				"id": "072",
 				"name": "Charles Xavier"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
@@ -177,23 +177,23 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
@@ -229,23 +229,23 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
@@ -297,35 +297,35 @@
 				"name": "New Warriors"
 			},
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -333,11 +333,11 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -349,11 +349,11 @@
 				"name": "She-Hulk"
 			},
 			{
-				"id": "063",
+				"id": "061",
 				"name": "Doctor Strange"
 			},
 			{
-				"id": "112",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
@@ -369,11 +369,11 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "070",
+				"id": "068",
 				"name": "Cable"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
@@ -389,7 +389,7 @@
 				"name": "Hercules"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -409,7 +409,7 @@
 				"name": "Black Widow"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -476,7 +476,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -512,35 +512,35 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "107",
+				"id": "105",
 				"name": "X-Factor"
 			},
 			{
-				"id": "108",
+				"id": "106",
 				"name": "Madrox"
 			},
 			{
-				"id": "137",
+				"id": "135",
 				"name": "Siryn"
 			},
 			{
-				"id": "109",
+				"id": "107",
 				"name": "Strong Guy"
 			},
 			{
-				"id": "110",
+				"id": "108",
 				"name": "Wolfsbane"
 			},
 			{
-				"id": "134",
+				"id": "132",
 				"name": "Layla Miller"
 			},
 			{
-				"id": "138",
+				"id": "136",
 				"name": "Rictor"
 			},
 			{
-				"id": "139",
+				"id": "137",
 				"name": "Monet"
 			},
 			{
@@ -587,7 +587,7 @@
 				"name": "Sam Wilson"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
@@ -619,11 +619,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
@@ -663,7 +663,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -715,35 +715,35 @@
 				"name": "New Warriors"
 			},
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -751,11 +751,11 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -767,11 +767,11 @@
 				"name": "She-Hulk"
 			},
 			{
-				"id": "063",
+				"id": "061",
 				"name": "Doctor Strange"
 			},
 			{
-				"id": "112",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
@@ -787,11 +787,11 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "070",
+				"id": "068",
 				"name": "Cable"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
@@ -807,7 +807,7 @@
 				"name": "Hercules"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -827,7 +827,7 @@
 				"name": "Black Widow"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -866,7 +866,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -902,11 +902,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
@@ -1020,7 +1020,7 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "065",
+				"id": "063",
 				"name": "Jessica Jones"
 			}
 		],
@@ -1042,6 +1042,37 @@
 		"sortid": "016"
 	},
 	{
+		"id": "5713",
+		"collection": "Blade",
+		"title": "Undead Again",
+		"vol": 5,
+		"num": 4,
+		"date": "2006-12-13",
+		"event": "Civil War",
+		"eventid": "006",
+		"characters": [
+			{
+				"id": "083",
+				"name": "Blade"
+			}
+		],
+		"creators": [
+			{
+				"id": "279",
+				"name": "Marc Guggenheim"
+			},
+			{
+				"id": "280",
+				"name": "Howard Chaykin"
+			}
+		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/d/40/56c38c6cbf8f8/detail.jpg",
+		"universe": "Earth-616",
+		"phaseid": "006",
+		"phasename": "Civil War",
+		"sortid": "017"
+	},
+	{
 		"id": "4460",
 		"collection": "Sensational Spider-Man",
 		"title": "Peter Parker, Spider-Man",
@@ -1052,11 +1083,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			}
 		],
@@ -1074,7 +1105,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "017"
+		"sortid": "018"
 	},
 	{
 		"id": "4462",
@@ -1087,35 +1118,35 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "107",
+				"id": "105",
 				"name": "X-Factor"
 			},
 			{
-				"id": "108",
+				"id": "106",
 				"name": "Madrox"
 			},
 			{
-				"id": "137",
+				"id": "135",
 				"name": "Siryn"
 			},
 			{
-				"id": "109",
+				"id": "107",
 				"name": "Strong Guy"
 			},
 			{
-				"id": "110",
+				"id": "108",
 				"name": "Wolfsbane"
 			},
 			{
-				"id": "134",
+				"id": "132",
 				"name": "Layla Miller"
 			},
 			{
-				"id": "138",
+				"id": "136",
 				"name": "Rictor"
 			},
 			{
-				"id": "139",
+				"id": "137",
 				"name": "Monet"
 			},
 			{
@@ -1137,7 +1168,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "018"
+		"sortid": "019"
 	},
 	{
 		"id": "4795",
@@ -1150,7 +1181,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -1168,7 +1199,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "019"
+		"sortid": "020"
 	},
 	{
 		"id": "5083",
@@ -1181,7 +1212,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -1199,7 +1230,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "019"
+		"sortid": "020"
 	},
 	{
 		"id": "5237",
@@ -1212,7 +1243,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -1230,7 +1261,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "019"
+		"sortid": "020"
 	},
 	{
 		"id": "4496",
@@ -1243,11 +1274,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
@@ -1274,7 +1305,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "020"
+		"sortid": "021"
 	},
 	{
 		"id": "4838",
@@ -1287,7 +1318,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "135",
+				"id": "133",
 				"name": "Misty Knight"
 			},
 			{
@@ -1295,11 +1326,11 @@
 				"name": "Shang-Chi"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			},
 			{
-				"id": "144",
+				"id": "142",
 				"name": "Colleen Wing"
 			}
 		],
@@ -1321,7 +1352,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "021"
+		"sortid": "022"
 	},
 	{
 		"id": "4500",
@@ -1334,31 +1365,31 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			},
 			{
-				"id": "112",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "113",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "114",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "115",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "116",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "117",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
@@ -1381,7 +1412,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "022"
+		"sortid": "023"
 	},
 	{
 		"id": "4821",
@@ -1394,31 +1425,31 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			},
 			{
-				"id": "112",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "113",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "114",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "115",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "116",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "117",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
@@ -1441,7 +1472,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "022"
+		"sortid": "023"
 	},
 	{
 		"id": "5114",
@@ -1454,31 +1485,31 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			},
 			{
-				"id": "112",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "113",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "114",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "115",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "116",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "117",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
@@ -1501,7 +1532,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "022"
+		"sortid": "023"
 	},
 	{
 		"id": "5267",
@@ -1514,31 +1545,31 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "080",
+				"id": "078",
 				"name": "Runaways"
 			},
 			{
-				"id": "112",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
-				"id": "113",
+				"id": "111",
 				"name": "Hulkling"
 			},
 			{
-				"id": "114",
+				"id": "112",
 				"name": "Patriot"
 			},
 			{
-				"id": "115",
+				"id": "113",
 				"name": "Wiccan"
 			},
 			{
-				"id": "116",
+				"id": "114",
 				"name": "Kate Bishop"
 			},
 			{
-				"id": "117",
+				"id": "115",
 				"name": "Cassie Lang"
 			},
 			{
@@ -1561,7 +1592,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "022"
+		"sortid": "023"
 	},
 	{
 		"id": "4428",
@@ -1596,7 +1627,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "023"
+		"sortid": "024"
 	},
 	{
 		"id": "4748",
@@ -1631,7 +1662,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "023"
+		"sortid": "024"
 	},
 	{
 		"id": "4450",
@@ -1644,7 +1675,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "070",
+				"id": "068",
 				"name": "Cable"
 			},
 			{
@@ -1666,7 +1697,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "024"
+		"sortid": "025"
 	},
 	{
 		"id": "4262",
@@ -1679,23 +1710,23 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -1714,7 +1745,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "025"
+		"sortid": "026"
 	},
 	{
 		"id": "4440",
@@ -1727,11 +1758,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "106",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
@@ -1753,7 +1784,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "026"
+		"sortid": "027"
 	},
 	{
 		"id": "4756",
@@ -1766,11 +1797,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "106",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
@@ -1792,7 +1823,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "026"
+		"sortid": "027"
 	},
 	{
 		"id": "5052",
@@ -1805,11 +1836,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "106",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
@@ -1831,7 +1862,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "026"
+		"sortid": "027"
 	},
 	{
 		"id": "5204",
@@ -1844,11 +1875,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "106",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
@@ -1870,7 +1901,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "026"
+		"sortid": "027"
 	},
 	{
 		"id": "5411",
@@ -1883,11 +1914,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "106",
+				"id": "104",
 				"name": "X-23"
 			}
 		],
@@ -1909,7 +1940,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "026"
+		"sortid": "027"
 	},
 	{
 		"id": "4425",
@@ -1926,11 +1957,11 @@
 				"name": "Black Panther"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
@@ -1955,7 +1986,7 @@
 		],
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "027"
+		"sortid": "028"
 	},
 	{
 		"id": "4497",
@@ -1968,11 +1999,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
@@ -1999,7 +2030,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "028"
+		"sortid": "029"
 	},
 	{
 		"id": "4804",
@@ -2016,7 +2047,7 @@
 				"name": "Black Panther"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -2038,7 +2069,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "029"
+		"sortid": "030"
 	},
 	{
 		"id": "5259",
@@ -2074,7 +2105,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "030"
+		"sortid": "031"
 	},
 	{
 		"id": "5092",
@@ -2091,7 +2122,7 @@
 				"name": "Black Panther"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -2113,7 +2144,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "031"
+		"sortid": "032"
 	},
 	{
 		"id": "4819",
@@ -2126,11 +2157,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
@@ -2157,7 +2188,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "032"
+		"sortid": "033"
 	},
 	{
 		"id": "4789",
@@ -2170,11 +2201,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			}
 		],
@@ -2192,7 +2223,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "033"
+		"sortid": "034"
 	},
 	{
 		"id": "5079",
@@ -2205,11 +2236,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			}
 		],
@@ -2227,7 +2258,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "033"
+		"sortid": "034"
 	},
 	{
 		"id": "5231",
@@ -2240,11 +2271,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			}
 		],
@@ -2262,7 +2293,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "033"
+		"sortid": "034"
 	},
 	{
 		"id": "4468",
@@ -2291,35 +2322,35 @@
 				"name": "New Warriors"
 			},
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -2327,11 +2358,11 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -2343,11 +2374,11 @@
 				"name": "She-Hulk"
 			},
 			{
-				"id": "063",
+				"id": "061",
 				"name": "Doctor Strange"
 			},
 			{
-				"id": "112",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
@@ -2363,11 +2394,11 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "070",
+				"id": "068",
 				"name": "Cable"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
@@ -2383,7 +2414,7 @@
 				"name": "Hercules"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -2403,7 +2434,7 @@
 				"name": "Black Widow"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -2426,7 +2457,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "034"
+		"sortid": "035"
 	},
 	{
 		"id": "4786",
@@ -2455,35 +2486,35 @@
 				"name": "New Warriors"
 			},
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -2491,11 +2522,11 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -2507,11 +2538,11 @@
 				"name": "She-Hulk"
 			},
 			{
-				"id": "063",
+				"id": "061",
 				"name": "Doctor Strange"
 			},
 			{
-				"id": "112",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
@@ -2527,11 +2558,11 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "070",
+				"id": "068",
 				"name": "Cable"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
@@ -2547,7 +2578,7 @@
 				"name": "Hercules"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -2567,7 +2598,7 @@
 				"name": "Black Widow"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -2590,7 +2621,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "034"
+		"sortid": "035"
 	},
 	{
 		"id": "4823",
@@ -2603,11 +2634,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
@@ -2634,7 +2665,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "035"
+		"sortid": "036"
 	},
 	{
 		"id": "4803",
@@ -2647,7 +2678,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "070",
+				"id": "068",
 				"name": "Cable"
 			},
 			{
@@ -2669,7 +2700,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "036"
+		"sortid": "037"
 	},
 	{
 		"id": "5091",
@@ -2682,7 +2713,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "070",
+				"id": "068",
 				"name": "Cable"
 			},
 			{
@@ -2704,7 +2735,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "036"
+		"sortid": "037"
 	},
 	{
 		"id": "4278",
@@ -2717,7 +2748,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -2740,7 +2771,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "037"
+		"sortid": "038"
 	},
 	{
 		"id": "4432",
@@ -2753,7 +2784,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -2776,7 +2807,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "037"
+		"sortid": "038"
 	},
 	{
 		"id": "4751",
@@ -2789,7 +2820,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -2812,7 +2843,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "037"
+		"sortid": "038"
 	},
 	{
 		"id": "5086",
@@ -2829,7 +2860,7 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "100",
+				"id": "098",
 				"name": "Sharon Carter"
 			}
 		],
@@ -2848,7 +2879,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "038"
+		"sortid": "039"
 	},
 	{
 		"id": "5239",
@@ -2865,7 +2896,7 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			}
 		],
@@ -2884,7 +2915,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "038"
+		"sortid": "039"
 	},
 	{
 		"id": "5115",
@@ -2897,11 +2928,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
@@ -2928,7 +2959,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "039"
+		"sortid": "040"
 	},
 	{
 		"id": "4431",
@@ -2941,7 +2972,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -2964,7 +2995,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "040"
+		"sortid": "041"
 	},
 	{
 		"id": "4421",
@@ -2977,23 +3008,23 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -3012,7 +3043,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "041"
+		"sortid": "042"
 	},
 	{
 		"id": "5243",
@@ -3029,7 +3060,7 @@
 				"name": "Black Panther"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -3051,7 +3082,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "042"
+		"sortid": "043"
 	},
 	{
 		"id": "5408",
@@ -3068,7 +3099,7 @@
 				"name": "Black Panther"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			}
 		],
@@ -3086,7 +3117,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "042"
+		"sortid": "043"
 	},
 	{
 		"id": "4498",
@@ -3099,15 +3130,15 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
@@ -3115,19 +3146,19 @@
 				"name": "Beast"
 			},
 			{
-				"id": "131",
+				"id": "129",
 				"name": "Iceman"
 			},
 			{
-				"id": "127",
+				"id": "125",
 				"name": "Angel"
 			},
 			{
-				"id": "092",
+				"id": "090",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "102",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
@@ -3145,7 +3176,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "043"
+		"sortid": "044"
 	},
 	{
 		"id": "4820",
@@ -3158,15 +3189,15 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
@@ -3174,19 +3205,19 @@
 				"name": "Beast"
 			},
 			{
-				"id": "131",
+				"id": "129",
 				"name": "Iceman"
 			},
 			{
-				"id": "127",
+				"id": "125",
 				"name": "Angel"
 			},
 			{
-				"id": "092",
+				"id": "090",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "102",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
@@ -3204,7 +3235,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "043"
+		"sortid": "044"
 	},
 	{
 		"id": "5112",
@@ -3217,15 +3248,15 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
@@ -3233,19 +3264,19 @@
 				"name": "Beast"
 			},
 			{
-				"id": "131",
+				"id": "129",
 				"name": "Iceman"
 			},
 			{
-				"id": "127",
+				"id": "125",
 				"name": "Angel"
 			},
 			{
-				"id": "092",
+				"id": "090",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "102",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
@@ -3263,7 +3294,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "043"
+		"sortid": "044"
 	},
 	{
 		"id": "5265",
@@ -3276,15 +3307,15 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "072",
+				"id": "070",
 				"name": "Emma Frost"
 			},
 			{
@@ -3292,19 +3323,19 @@
 				"name": "Beast"
 			},
 			{
-				"id": "131",
+				"id": "129",
 				"name": "Iceman"
 			},
 			{
-				"id": "127",
+				"id": "125",
 				"name": "Angel"
 			},
 			{
-				"id": "092",
+				"id": "090",
 				"name": "Kitty Pryde"
 			},
 			{
-				"id": "102",
+				"id": "100",
 				"name": "Bishop"
 			}
 		],
@@ -3322,7 +3353,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "043"
+		"sortid": "044"
 	},
 	{
 		"id": "5123",
@@ -3335,7 +3366,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "135",
+				"id": "133",
 				"name": "Misty Knight"
 			},
 			{
@@ -3343,11 +3374,11 @@
 				"name": "Shang-Chi"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			},
 			{
-				"id": "144",
+				"id": "142",
 				"name": "Colleen Wing"
 			}
 		],
@@ -3369,7 +3400,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "044"
+		"sortid": "045"
 	},
 	{
 		"id": "5285",
@@ -3382,7 +3413,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "135",
+				"id": "133",
 				"name": "Misty Knight"
 			},
 			{
@@ -3390,11 +3421,11 @@
 				"name": "Shang-Chi"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			},
 			{
-				"id": "144",
+				"id": "142",
 				"name": "Colleen Wing"
 			}
 		],
@@ -3416,7 +3447,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "044"
+		"sortid": "045"
 	},
 	{
 		"id": "4758",
@@ -3437,7 +3468,7 @@
 				"name": "Wonder Man"
 			},
 			{
-				"id": "118",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
@@ -3455,7 +3486,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "045"
+		"sortid": "046"
 	},
 	{
 		"id": "5105",
@@ -3476,7 +3507,7 @@
 				"name": "Wonder Man"
 			},
 			{
-				"id": "118",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
@@ -3494,7 +3525,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "045"
+		"sortid": "046"
 	},
 	{
 		"id": "5260",
@@ -3515,7 +3546,7 @@
 				"name": "Wonder Man"
 			},
 			{
-				"id": "118",
+				"id": "116",
 				"name": "Anya Corazon"
 			}
 		],
@@ -3533,7 +3564,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "045"
+		"sortid": "046"
 	},
 	{
 		"id": "4807",
@@ -3550,11 +3581,11 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "120",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
@@ -3573,7 +3604,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "046"
+		"sortid": "047"
 	},
 	{
 		"id": "5096",
@@ -3609,7 +3640,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "046"
+		"sortid": "047"
 	},
 	{
 		"id": "5902",
@@ -3622,7 +3653,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "150",
+				"id": "148",
 				"name": "Mar-Vell"
 			},
 			{
@@ -3644,7 +3675,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "047"
+		"sortid": "048"
 	},
 	{
 		"id": "5735",
@@ -3680,7 +3711,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "048"
+		"sortid": "049"
 	},
 	{
 		"id": "5048",
@@ -3693,7 +3724,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -3716,7 +3747,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "049"
+		"sortid": "050"
 	},
 	{
 		"id": "5200",
@@ -3729,7 +3760,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -3752,7 +3783,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "049"
+		"sortid": "050"
 	},
 	{
 		"id": "5667",
@@ -3769,7 +3800,7 @@
 				"name": "Black Panther"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			}
 		],
@@ -3787,7 +3818,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "050"
+		"sortid": "051"
 	},
 	{
 		"id": "5402",
@@ -3804,7 +3835,7 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "100",
+				"id": "098",
 				"name": "Sharon Carter"
 			}
 		],
@@ -3823,7 +3854,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "051"
+		"sortid": "052"
 	},
 	{
 		"id": "5116",
@@ -3836,11 +3867,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
@@ -3867,7 +3898,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "052"
+		"sortid": "053"
 	},
 	{
 		"id": "5418",
@@ -3884,7 +3915,7 @@
 				"name": "Iron Man"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			}
 		],
@@ -3903,7 +3934,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "053"
+		"sortid": "054"
 	},
 	{
 		"id": "4799",
@@ -3916,23 +3947,23 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -3951,7 +3982,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "054"
+		"sortid": "055"
 	},
 	{
 		"id": "4806",
@@ -3964,7 +3995,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -3987,7 +4018,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "055"
+		"sortid": "056"
 	},
 	{
 		"id": "5075",
@@ -4016,35 +4047,35 @@
 				"name": "New Warriors"
 			},
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -4052,11 +4083,11 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -4068,11 +4099,11 @@
 				"name": "She-Hulk"
 			},
 			{
-				"id": "063",
+				"id": "061",
 				"name": "Doctor Strange"
 			},
 			{
-				"id": "112",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
@@ -4088,11 +4119,11 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "070",
+				"id": "068",
 				"name": "Cable"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
@@ -4108,7 +4139,7 @@
 				"name": "Hercules"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -4128,7 +4159,7 @@
 				"name": "Black Widow"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -4151,7 +4182,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "056"
+		"sortid": "057"
 	},
 	{
 		"id": "5437",
@@ -4182,7 +4213,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "057"
+		"sortid": "058"
 	},
 	{
 		"id": "5087",
@@ -4195,23 +4226,23 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -4230,7 +4261,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "058"
+		"sortid": "059"
 	},
 	{
 		"id": "5742",
@@ -4247,7 +4278,7 @@
 				"name": "Iron Man"
 			},
 			{
-				"id": "082",
+				"id": "080",
 				"name": "Kingpin"
 			}
 		],
@@ -4266,7 +4297,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "059"
+		"sortid": "060"
 	},
 	{
 		"id": "5269",
@@ -4279,11 +4310,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
@@ -4310,7 +4341,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "060"
+		"sortid": "061"
 	},
 	{
 		"id": "5094",
@@ -4323,7 +4354,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -4346,7 +4377,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "061"
+		"sortid": "062"
 	},
 	{
 		"id": "5564",
@@ -4377,7 +4408,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "062"
+		"sortid": "063"
 	},
 	{
 		"id": "5683",
@@ -4408,7 +4439,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "062"
+		"sortid": "063"
 	},
 	{
 		"id": "6162",
@@ -4439,7 +4470,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "062"
+		"sortid": "063"
 	},
 	{
 		"id": "6306",
@@ -4470,7 +4501,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "062"
+		"sortid": "063"
 	},
 	{
 		"id": "5240",
@@ -4483,23 +4514,23 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -4518,7 +4549,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "063"
+		"sortid": "064"
 	},
 	{
 		"id": "5567",
@@ -4557,7 +4588,7 @@
 		],
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "064"
+		"sortid": "065"
 	},
 	{
 		"id": "5400",
@@ -4570,7 +4601,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -4588,7 +4619,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "065"
+		"sortid": "066"
 	},
 	{
 		"id": "5663",
@@ -4601,7 +4632,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -4619,7 +4650,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "065"
+		"sortid": "066"
 	},
 	{
 		"id": "5866",
@@ -4632,7 +4663,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -4650,7 +4681,38 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "065"
+		"sortid": "066"
+	},
+	{
+		"id": "5849",
+		"collection": "Blade",
+		"title": "Undead Again",
+		"vol": 5,
+		"num": 5,
+		"date": "2007-01-10",
+		"event": "Civil War",
+		"eventid": "006",
+		"characters": [
+			{
+				"id": "083",
+				"name": "Blade"
+			}
+		],
+		"creators": [
+			{
+				"id": "279",
+				"name": "Marc Guggenheim"
+			},
+			{
+				"id": "280",
+				"name": "Howard Chaykin"
+			}
+		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/6/a0/56c38cd36e119/detail.jpg",
+		"universe": "Earth-616",
+		"phaseid": "006",
+		"phasename": "Civil War",
+		"sortid": "067"
 	},
 	{
 		"id": "5393",
@@ -4663,7 +4725,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -4681,7 +4743,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "066"
+		"sortid": "068"
 	},
 	{
 		"id": "5657",
@@ -4694,7 +4756,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			}
 		],
@@ -4712,7 +4774,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "066"
+		"sortid": "068"
 	},
 	{
 		"id": "5796",
@@ -4725,11 +4787,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "094",
+				"id": "092",
 				"name": "Black Cat"
 			}
 		],
@@ -4747,7 +4809,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "066"
+		"sortid": "068"
 	},
 	{
 		"id": "5731",
@@ -4760,11 +4822,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "120",
+				"id": "118",
 				"name": "Nick Fury"
 			}
 		],
@@ -4783,7 +4845,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "067"
+		"sortid": "069"
 	},
 	{
 		"id": "5245",
@@ -4796,7 +4858,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -4819,7 +4881,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "068"
+		"sortid": "070"
 	},
 	{
 		"id": "5805",
@@ -4836,7 +4898,7 @@
 				"name": "Black Panther"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			}
 		],
@@ -4854,7 +4916,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "069"
+		"sortid": "071"
 	},
 	{
 		"id": "5266",
@@ -4885,7 +4947,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "070"
+		"sortid": "072"
 	},
 	{
 		"id": "5227",
@@ -4914,35 +4976,35 @@
 				"name": "New Warriors"
 			},
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -4950,11 +5012,11 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -4966,11 +5028,11 @@
 				"name": "She-Hulk"
 			},
 			{
-				"id": "063",
+				"id": "061",
 				"name": "Doctor Strange"
 			},
 			{
-				"id": "112",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
@@ -4986,11 +5048,11 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "070",
+				"id": "068",
 				"name": "Cable"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
@@ -5006,7 +5068,7 @@
 				"name": "Hercules"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -5026,7 +5088,7 @@
 				"name": "Black Widow"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -5049,7 +5111,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "071"
+		"sortid": "073"
 	},
 	{
 		"id": "5831",
@@ -5080,7 +5142,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "072"
+		"sortid": "074"
 	},
 	{
 		"id": "5248",
@@ -5097,7 +5159,7 @@
 				"name": "Iron Man"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
@@ -5116,7 +5178,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "073"
+		"sortid": "075"
 	},
 	{
 		"id": "5270",
@@ -5129,11 +5191,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
@@ -5160,7 +5222,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "074"
+		"sortid": "076"
 	},
 	{
 		"id": "5793",
@@ -5189,35 +5251,35 @@
 				"name": "New Warriors"
 			},
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			},
 			{
-				"id": "067",
+				"id": "065",
 				"name": "X-Men"
 			},
 			{
-				"id": "068",
+				"id": "066",
 				"name": "Cyclops"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -5225,11 +5287,11 @@
 				"name": "Luke Cage"
 			},
 			{
-				"id": "123",
+				"id": "121",
 				"name": "Spider-Woman"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -5241,11 +5303,11 @@
 				"name": "She-Hulk"
 			},
 			{
-				"id": "063",
+				"id": "061",
 				"name": "Doctor Strange"
 			},
 			{
-				"id": "112",
+				"id": "110",
 				"name": "Young Avengers"
 			},
 			{
@@ -5261,11 +5323,11 @@
 				"name": "Wasp"
 			},
 			{
-				"id": "070",
+				"id": "068",
 				"name": "Cable"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			},
 			{
@@ -5281,7 +5343,7 @@
 				"name": "Hercules"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -5301,7 +5363,7 @@
 				"name": "Black Widow"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			},
 			{
@@ -5324,7 +5386,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "075"
+		"sortid": "077"
 	},
 	{
 		"id": "6047",
@@ -5341,7 +5403,7 @@
 				"name": "Black Panther"
 			},
 			{
-				"id": "105",
+				"id": "103",
 				"name": "Storm"
 			}
 		],
@@ -5359,7 +5421,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "076"
+		"sortid": "078"
 	},
 	{
 		"id": "5808",
@@ -5372,7 +5434,7 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
@@ -5395,7 +5457,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "077"
+		"sortid": "079"
 	},
 	{
 		"id": "5803",
@@ -5408,23 +5470,23 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "049",
+				"id": "048",
 				"name": "Fantastic Four"
 			},
 			{
-				"id": "050",
+				"id": "049",
 				"name": "Reed Richards"
 			},
 			{
-				"id": "051",
+				"id": "050",
 				"name": "Sue Storm"
 			},
 			{
-				"id": "052",
+				"id": "051",
 				"name": "Human Torch"
 			},
 			{
-				"id": "053",
+				"id": "052",
 				"name": "Thing"
 			}
 		],
@@ -5446,7 +5508,7 @@
 		],
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "078"
+		"sortid": "080"
 	},
 	{
 		"id": "5994",
@@ -5459,11 +5521,11 @@
 		"eventid": "006",
 		"characters": [
 			{
-				"id": "064",
+				"id": "062",
 				"name": "Ben Urich"
 			},
 			{
-				"id": "076",
+				"id": "074",
 				"name": "Norman Osborn"
 			},
 			{
@@ -5490,7 +5552,38 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "079"
+		"sortid": "081"
+	},
+	{
+		"id": "5977",
+		"collection": "Ghost Rider",
+		"title": "The Life \u0026 Death Of Johnny Blaze",
+		"vol": 6,
+		"num": 8,
+		"date": "2007-02-14",
+		"event": "Civil War",
+		"eventid": "006",
+		"characters": [
+			{
+				"id": "128",
+				"name": "Ghost Rider"
+			}
+		],
+		"creators": [
+			{
+				"id": "151",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "262",
+				"name": "Javier Saltares"
+			}
+		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/e/60/4bc5a8a2b2a5a/detail.jpg",
+		"universe": "Earth-616",
+		"phaseid": "006",
+		"phasename": "Civil War",
+		"sortid": "082"
 	},
 	{
 		"id": "5985",
@@ -5521,7 +5614,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "080"
+		"sortid": "083"
 	},
 	{
 		"id": "5045",
@@ -5556,7 +5649,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "081"
+		"sortid": "084"
 	},
 	{
 		"id": "5249",
@@ -5591,7 +5684,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "081"
+		"sortid": "084"
 	},
 	{
 		"id": "5415",
@@ -5626,7 +5719,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "081"
+		"sortid": "084"
 	},
 	{
 		"id": "5672",
@@ -5661,7 +5754,7 @@
 		"universe": "Earth-616",
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "081"
+		"sortid": "084"
 	},
 	{
 		"id": "6010",
@@ -5678,7 +5771,7 @@
 				"name": "Steve Rogers"
 			},
 			{
-				"id": "100",
+				"id": "098",
 				"name": "Sharon Carter"
 			},
 			{
@@ -5686,7 +5779,7 @@
 				"name": "Sam Wilson"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			}
 		],
@@ -5708,7 +5801,7 @@
 		],
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "082"
+		"sortid": "085"
 	},
 	{
 		"id": "6229",
@@ -5729,7 +5822,7 @@
 				"name": "Iron Man"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -5737,15 +5830,15 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
@@ -5764,7 +5857,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "083"
+		"sortid": "086"
 	},
 	{
 		"id": "6283",
@@ -5785,7 +5878,7 @@
 				"name": "Iron Man"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -5793,15 +5886,15 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
@@ -5820,7 +5913,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "083"
+		"sortid": "086"
 	},
 	{
 		"id": "13502",
@@ -5841,7 +5934,7 @@
 				"name": "Iron Man"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -5849,15 +5942,15 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
@@ -5876,7 +5969,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "083"
+		"sortid": "086"
 	},
 	{
 		"id": "13504",
@@ -5897,7 +5990,7 @@
 				"name": "Iron Man"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -5905,15 +5998,15 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
@@ -5936,7 +6029,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "083"
+		"sortid": "086"
 	},
 	{
 		"id": "13506",
@@ -5957,7 +6050,7 @@
 				"name": "Iron Man"
 			},
 			{
-				"id": "073",
+				"id": "071",
 				"name": "Wolverine"
 			},
 			{
@@ -5965,15 +6058,15 @@
 				"name": "Avengers"
 			},
 			{
-				"id": "062",
+				"id": "060",
 				"name": "Spider-Man"
 			},
 			{
-				"id": "119",
+				"id": "117",
 				"name": "Bucky Barnes"
 			},
 			{
-				"id": "122",
+				"id": "120",
 				"name": "Maria Hill"
 			}
 		],
@@ -5992,7 +6085,7 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "083"
+		"sortid": "086"
 	},
 	{
 		"id": "6014",
@@ -6009,7 +6102,7 @@
 				"name": "Iron Man"
 			},
 			{
-				"id": "151",
+				"id": "149",
 				"name": "Alpha Flight"
 			},
 			{
@@ -6043,7 +6136,7 @@
 		],
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "084"
+		"sortid": "087"
 	},
 	{
 		"id": "20777",
@@ -6079,6 +6172,6 @@
 		"essential": true,
 		"phaseid": "006",
 		"phasename": "Civil War",
-		"sortid": "085"
+		"sortid": "088"
 	}
 ]
