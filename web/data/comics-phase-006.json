@@ -1314,6 +1314,10 @@
 		"eventid": "006",
 		"characters": [
 			{
+				"id": "142",
+				"name": "Heroes For Hire"
+			},
+			{
 				"id": "134",
 				"name": "Misty Knight"
 			},
@@ -3350,6 +3354,10 @@
 		"eventid": "006",
 		"characters": [
 			{
+				"id": "142",
+				"name": "Heroes For Hire"
+			},
+			{
 				"id": "134",
 				"name": "Misty Knight"
 			},
@@ -3396,6 +3404,10 @@
 		"event": "Civil War",
 		"eventid": "006",
 		"characters": [
+			{
+				"id": "142",
+				"name": "Heroes For Hire"
+			},
 			{
 				"id": "134",
 				"name": "Misty Knight"

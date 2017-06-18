@@ -19141,6 +19141,10 @@
 			{
 				"id": "130",
 				"name": "Iceman"
+			},
+			{
+				"id": "148",
+				"name": "Dracula"
 			}
 		],
 		"creators": [
@@ -19220,6 +19224,10 @@
 			{
 				"id": "130",
 				"name": "Iceman"
+			},
+			{
+				"id": "148",
+				"name": "Dracula"
 			}
 		],
 		"creators": [
@@ -19400,6 +19408,10 @@
 			{
 				"id": "130",
 				"name": "Iceman"
+			},
+			{
+				"id": "148",
+				"name": "Dracula"
 			}
 		],
 		"creators": [
@@ -19545,6 +19557,10 @@
 			{
 				"id": "130",
 				"name": "Iceman"
+			},
+			{
+				"id": "148",
+				"name": "Dracula"
 			}
 		],
 		"creators": [
@@ -19725,6 +19741,10 @@
 			{
 				"id": "130",
 				"name": "Iceman"
+			},
+			{
+				"id": "148",
+				"name": "Dracula"
 			}
 		],
 		"creators": [
@@ -26991,6 +27011,296 @@
 		"sortid": "162"
 	},
 	{
+		"id": "30029",
+		"collection": "Spider-Girl",
+		"title": "Heart of the Spider",
+		"vol": 2,
+		"num": 1,
+		"date": "2010-11-17",
+		"characters": [
+			{
+				"id": "117",
+				"name": "Anya Corazon"
+			}
+		],
+		"creators": [
+			{
+				"id": "433",
+				"name": "Paul Tobin"
+			},
+			{
+				"id": "171",
+				"name": "Clayton Henry"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4c6951936e21d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "163"
+	},
+	{
+		"id": "30030",
+		"collection": "Spider-Girl",
+		"title": "Heart of the Spider",
+		"vol": 2,
+		"num": 2,
+		"date": "2010-12-29",
+		"characters": [
+			{
+				"id": "117",
+				"name": "Anya Corazon"
+			}
+		],
+		"creators": [
+			{
+				"id": "433",
+				"name": "Paul Tobin"
+			},
+			{
+				"id": "171",
+				"name": "Clayton Henry"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4c9110bb29a97.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "163"
+	},
+	{
+		"id": "30031",
+		"collection": "Spider-Girl",
+		"title": "Heart of the Spider",
+		"vol": 2,
+		"num": 3,
+		"date": "2011-02-02",
+		"characters": [
+			{
+				"id": "117",
+				"name": "Anya Corazon"
+			}
+		],
+		"creators": [
+			{
+				"id": "433",
+				"name": "Paul Tobin"
+			},
+			{
+				"id": "171",
+				"name": "Clayton Henry"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4cb60d51b0c44.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "163"
+	},
+	{
+		"id": "30032",
+		"collection": "Spider-Girl",
+		"title": "Heart of the Spider",
+		"vol": 2,
+		"num": 4,
+		"date": "2011-02-16",
+		"characters": [
+			{
+				"id": "117",
+				"name": "Anya Corazon"
+			}
+		],
+		"creators": [
+			{
+				"id": "433",
+				"name": "Paul Tobin"
+			},
+			{
+				"id": "636",
+				"name": "Matthew Southworth"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4d51b1a93b054.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "163"
+	},
+	{
+		"id": "34274",
+		"collection": "Spider-Girl",
+		"title": "Heart of the Spider",
+		"vol": 2,
+		"num": 5,
+		"date": "2011-03-30",
+		"characters": [
+			{
+				"id": "117",
+				"name": "Anya Corazon"
+			}
+		],
+		"creators": [
+			{
+				"id": "433",
+				"name": "Paul Tobin"
+			},
+			{
+				"id": "636",
+				"name": "Matthew Southworth"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/90/4d88ee9977c0c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "163"
+	},
+	{
+		"id": "37411",
+		"collection": "Spider-Girl",
+		"title": "Heart of the Spider",
+		"vol": 2,
+		"num": 6,
+		"date": "2011-04-27",
+		"characters": [
+			{
+				"id": "117",
+				"name": "Anya Corazon"
+			}
+		],
+		"creators": [
+			{
+				"id": "433",
+				"name": "Paul Tobin"
+			},
+			{
+				"id": "171",
+				"name": "Clayton Henry"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4d35a967aebf0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "163"
+	},
+	{
+		"id": "37412",
+		"collection": "Spider-Girl",
+		"title": "Heart of the Spider",
+		"vol": 2,
+		"num": 7,
+		"date": "2011-05-25",
+		"characters": [
+			{
+				"id": "117",
+				"name": "Anya Corazon"
+			}
+		],
+		"creators": [
+			{
+				"id": "433",
+				"name": "Paul Tobin"
+			},
+			{
+				"id": "171",
+				"name": "Clayton Henry"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4d5576ae2ba0f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "163"
+	},
+	{
+		"id": "37410",
+		"collection": "Spider-Girl",
+		"title": "Heart of the Spider",
+		"vol": 2,
+		"num": 8,
+		"date": "2011-07-06",
+		"characters": [
+			{
+				"id": "117",
+				"name": "Anya Corazon"
+			}
+		],
+		"creators": [
+			{
+				"id": "433",
+				"name": "Paul Tobin"
+			},
+			{
+				"id": "171",
+				"name": "Clayton Henry"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/4d88cf4e48b47.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "163"
+	},
+	{
+		"id": "29763",
+		"collection": "Herc",
+		"title": "Gods of Brooklyn",
+		"vol": 1,
+		"num": 1,
+		"date": "2011-04-06",
+		"characters": [
+			{
+				"id": "028",
+				"name": "Hercules"
+			}
+		],
+		"creators": [
+			{
+				"id": "242",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "452",
+				"name": "Neil Edwards"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4d961d34a0dbf.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "164"
+	},
+	{
+		"id": "39022",
+		"collection": "Herc",
+		"title": "Gods of Brooklyn",
+		"vol": 1,
+		"num": 2,
+		"date": "2011-05-04",
+		"characters": [
+			{
+				"id": "028",
+				"name": "Hercules"
+			}
+		],
+		"creators": [
+			{
+				"id": "242",
+				"name": "Greg Pak"
+			},
+			{
+				"id": "452",
+				"name": "Neil Edwards"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/04/4db99dce6b9e7.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "164"
+	},
+	{
 		"id": "29603",
 		"collection": "Fantastic Four",
 		"title": "Three",
@@ -27050,7 +27360,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "163"
+		"sortid": "165"
 	},
 	{
 		"id": "29604",
@@ -27112,7 +27422,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "163"
+		"sortid": "165"
 	},
 	{
 		"id": "29605",
@@ -27174,7 +27484,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "163"
+		"sortid": "165"
 	},
 	{
 		"id": "29606",
@@ -27236,7 +27546,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "163"
+		"sortid": "165"
 	},
 	{
 		"id": "36060",
@@ -27301,7 +27611,7 @@
 		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "163"
+		"sortid": "165"
 	},
 	{
 		"id": "36059",
@@ -27363,7 +27673,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "163"
+		"sortid": "165"
 	},
 	{
 		"id": "37398",
@@ -27416,7 +27726,7 @@
 		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "164"
+		"sortid": "166"
 	},
 	{
 		"id": "37400",
@@ -27466,7 +27776,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "164"
+		"sortid": "166"
 	},
 	{
 		"id": "37404",
@@ -27516,7 +27826,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "164"
+		"sortid": "166"
 	},
 	{
 		"id": "37403",
@@ -27566,7 +27876,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "164"
+		"sortid": "166"
 	},
 	{
 		"id": "37402",
@@ -27616,7 +27926,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "164"
+		"sortid": "166"
 	},
 	{
 		"id": "35497",
@@ -27662,7 +27972,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "165"
+		"sortid": "167"
 	},
 	{
 		"id": "39019",
@@ -27708,7 +28018,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "165"
+		"sortid": "167"
 	},
 	{
 		"id": "38626",
@@ -27737,7 +28047,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "165"
+		"sortid": "167"
 	},
 	{
 		"id": "39018",
@@ -27783,7 +28093,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "165"
+		"sortid": "167"
 	},
 	{
 		"id": "40888",
@@ -27829,7 +28139,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "165"
+		"sortid": "167"
 	},
 	{
 		"id": "35533",
@@ -27859,7 +28169,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "165"
+		"sortid": "167"
 	},
 	{
 		"id": "35534",
@@ -27889,7 +28199,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "165"
+		"sortid": "167"
 	},
 	{
 		"id": "35501",
@@ -27923,7 +28233,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "166"
+		"sortid": "168"
 	},
 	{
 		"id": "35515",
@@ -27957,7 +28267,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "166"
+		"sortid": "168"
 	},
 	{
 		"id": "35503",
@@ -27987,7 +28297,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "166"
+		"sortid": "168"
 	},
 	{
 		"id": "38628",
@@ -28016,7 +28326,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "166"
+		"sortid": "168"
 	},
 	{
 		"id": "38213",
@@ -28066,7 +28376,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "167"
+		"sortid": "169"
 	},
 	{
 		"id": "38217",
@@ -28116,7 +28426,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "167"
+		"sortid": "169"
 	},
 	{
 		"id": "38215",
@@ -28166,7 +28476,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "167"
+		"sortid": "169"
 	},
 	{
 		"id": "38216",
@@ -28216,7 +28526,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "167"
+		"sortid": "169"
 	},
 	{
 		"id": "38211",
@@ -28266,7 +28576,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "167"
+		"sortid": "169"
 	},
 	{
 		"id": "38209",
@@ -28316,7 +28626,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "167"
+		"sortid": "169"
 	},
 	{
 		"id": "30372",
@@ -28341,11 +28651,11 @@
 		],
 		"creators": [
 			{
-				"id": "636",
+				"id": "637",
 				"name": "David Liss"
 			},
 			{
-				"id": "637",
+				"id": "638",
 				"name": "Francesco Francavilla"
 			}
 		],
@@ -28353,7 +28663,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "168"
+		"sortid": "170"
 	},
 	{
 		"id": "30373",
@@ -28374,11 +28684,11 @@
 		],
 		"creators": [
 			{
-				"id": "636",
+				"id": "637",
 				"name": "David Liss"
 			},
 			{
-				"id": "637",
+				"id": "638",
 				"name": "Francesco Francavilla"
 			}
 		],
@@ -28386,7 +28696,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "168"
+		"sortid": "170"
 	},
 	{
 		"id": "30374",
@@ -28407,11 +28717,11 @@
 		],
 		"creators": [
 			{
-				"id": "636",
+				"id": "637",
 				"name": "David Liss"
 			},
 			{
-				"id": "637",
+				"id": "638",
 				"name": "Francesco Francavilla"
 			}
 		],
@@ -28419,7 +28729,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "168"
+		"sortid": "170"
 	},
 	{
 		"id": "30375",
@@ -28440,7 +28750,7 @@
 		],
 		"creators": [
 			{
-				"id": "636",
+				"id": "637",
 				"name": "David Liss"
 			},
 			{
@@ -28452,7 +28762,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "168"
+		"sortid": "170"
 	},
 	{
 		"id": "31176",
@@ -28473,11 +28783,11 @@
 		],
 		"creators": [
 			{
-				"id": "636",
+				"id": "637",
 				"name": "David Liss"
 			},
 			{
-				"id": "637",
+				"id": "638",
 				"name": "Francesco Francavilla"
 			}
 		],
@@ -28485,7 +28795,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "168"
+		"sortid": "170"
 	},
 	{
 		"id": "34277",
@@ -28506,11 +28816,11 @@
 		],
 		"creators": [
 			{
-				"id": "636",
+				"id": "637",
 				"name": "David Liss"
 			},
 			{
-				"id": "637",
+				"id": "638",
 				"name": "Francesco Francavilla"
 			}
 		],
@@ -28518,7 +28828,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "168"
+		"sortid": "170"
 	},
 	{
 		"id": "36782",
@@ -28539,7 +28849,7 @@
 		],
 		"creators": [
 			{
-				"id": "636",
+				"id": "637",
 				"name": "David Liss"
 			},
 			{
@@ -28551,7 +28861,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "168"
+		"sortid": "170"
 	},
 	{
 		"id": "36784",
@@ -28572,7 +28882,7 @@
 		],
 		"creators": [
 			{
-				"id": "636",
+				"id": "637",
 				"name": "David Liss"
 			},
 			{
@@ -28584,1676 +28894,1422 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "168"
+		"sortid": "170"
 	},
 	{
-		"id": "31134",
-		"collection": "Avengers The Children's Crusade",
-		"title": "The Children's Crusade",
+		"id": "29787",
+		"collection": "Iron Man 2.0",
+		"title": "Palmer Addley is Dead",
 		"vol": 1,
 		"num": 1,
-		"date": "2010-07-08",
+		"date": "2011-02-23",
 		"characters": [
 			{
-				"id": "111",
-				"name": "Young Avengers"
-			},
-			{
-				"id": "116",
-				"name": "Cassie Lang"
-			},
-			{
-				"id": "037",
-				"name": "Vision"
-			},
-			{
-				"id": "113",
-				"name": "Patriot"
-			},
-			{
-				"id": "115",
-				"name": "Kate Bishop"
-			},
-			{
-				"id": "114",
-				"name": "Wiccan"
-			},
-			{
-				"id": "112",
-				"name": "Hulkling"
-			},
-			{
-				"id": "020",
-				"name": "Avengers"
-			},
-			{
-				"id": "023",
-				"name": "Steve Rogers"
-			},
-			{
-				"id": "029",
-				"name": "Iron Man"
-			},
-			{
-				"id": "098",
-				"name": "Magneto"
-			},
-			{
-				"id": "033",
-				"name": "Quicksilver"
-			},
-			{
-				"id": "034",
-				"name": "Scarlet Witch"
-			},
-			{
-				"id": "039",
-				"name": "Wonder Man"
-			},
-			{
-				"id": "017",
-				"name": "Doctor Doom"
-			},
-			{
-				"id": "014",
-				"name": "Luke Cage"
-			},
-			{
-				"id": "074",
-				"name": "Wolverine"
-			},
-			{
-				"id": "061",
-				"name": "Spider-Man"
-			},
-			{
-				"id": "022",
-				"name": "Carol Danvers"
-			},
-			{
-				"id": "047",
-				"name": "Scott Lang"
-			},
-			{
-				"id": "021",
-				"name": "Beast"
-			},
-			{
-				"id": "027",
-				"name": "Hawkeye"
-			},
-			{
-				"id": "066",
-				"name": "Jessica Jones"
-			},
-			{
-				"id": "106",
-				"name": "X-Factor"
-			},
-			{
-				"id": "107",
-				"name": "Madrox"
-			},
-			{
-				"id": "108",
-				"name": "Strong Guy"
-			},
-			{
-				"id": "137",
-				"name": "Rictor"
-			},
-			{
-				"id": "068",
-				"name": "X-Men"
-			},
-			{
-				"id": "069",
-				"name": "Cyclops"
-			},
-			{
-				"id": "085",
-				"name": "Rogue"
-			},
-			{
-				"id": "092",
-				"name": "Colossus"
-			},
-			{
-				"id": "104",
-				"name": "Storm"
-			},
-			{
-				"id": "073",
-				"name": "Emma Frost"
-			},
-			{
-				"id": "130",
-				"name": "Iceman"
-			},
-			{
-				"id": "086",
-				"name": "Gambit"
+				"id": "084",
+				"name": "War Machine"
 			}
 		],
 		"creators": [
 			{
-				"id": "237",
-				"name": "Allan Heinberg"
+				"id": "627",
+				"name": "Nick Spencer"
 			},
 			{
-				"id": "238",
-				"name": "Jim Cheung"
+				"id": "148",
+				"name": "Barry Kitson"
 			}
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4f6210eddab18.jpg",
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/515f2c65d6287.jpg",
 		"universe": "Earth-616",
-		"essential": true,
-		"comments": [
-			"After Fear Itself"
-		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "169"
+		"sortid": "171"
 	},
 	{
-		"id": "31136",
-		"collection": "Avengers The Children's Crusade",
-		"title": "The Children's Crusade",
+		"id": "29791",
+		"collection": "Iron Man 2.0",
+		"title": "Palmer Addley is Dead",
 		"vol": 1,
 		"num": 2,
-		"date": "2010-09-01",
-		"characters": [
-			{
-				"id": "111",
-				"name": "Young Avengers"
-			},
-			{
-				"id": "116",
-				"name": "Cassie Lang"
-			},
-			{
-				"id": "037",
-				"name": "Vision"
-			},
-			{
-				"id": "113",
-				"name": "Patriot"
-			},
-			{
-				"id": "115",
-				"name": "Kate Bishop"
-			},
-			{
-				"id": "114",
-				"name": "Wiccan"
-			},
-			{
-				"id": "112",
-				"name": "Hulkling"
-			},
-			{
-				"id": "020",
-				"name": "Avengers"
-			},
-			{
-				"id": "023",
-				"name": "Steve Rogers"
-			},
-			{
-				"id": "029",
-				"name": "Iron Man"
-			},
-			{
-				"id": "098",
-				"name": "Magneto"
-			},
-			{
-				"id": "033",
-				"name": "Quicksilver"
-			},
-			{
-				"id": "034",
-				"name": "Scarlet Witch"
-			},
-			{
-				"id": "039",
-				"name": "Wonder Man"
-			},
-			{
-				"id": "017",
-				"name": "Doctor Doom"
-			},
-			{
-				"id": "014",
-				"name": "Luke Cage"
-			},
-			{
-				"id": "074",
-				"name": "Wolverine"
-			},
-			{
-				"id": "061",
-				"name": "Spider-Man"
-			},
-			{
-				"id": "022",
-				"name": "Carol Danvers"
-			},
-			{
-				"id": "047",
-				"name": "Scott Lang"
-			},
-			{
-				"id": "021",
-				"name": "Beast"
-			},
-			{
-				"id": "027",
-				"name": "Hawkeye"
-			},
-			{
-				"id": "066",
-				"name": "Jessica Jones"
-			},
-			{
-				"id": "106",
-				"name": "X-Factor"
-			},
-			{
-				"id": "107",
-				"name": "Madrox"
-			},
-			{
-				"id": "108",
-				"name": "Strong Guy"
-			},
-			{
-				"id": "137",
-				"name": "Rictor"
-			},
-			{
-				"id": "068",
-				"name": "X-Men"
-			},
-			{
-				"id": "069",
-				"name": "Cyclops"
-			},
-			{
-				"id": "085",
-				"name": "Rogue"
-			},
-			{
-				"id": "092",
-				"name": "Colossus"
-			},
-			{
-				"id": "104",
-				"name": "Storm"
-			},
-			{
-				"id": "073",
-				"name": "Emma Frost"
-			},
-			{
-				"id": "130",
-				"name": "Iceman"
-			},
-			{
-				"id": "086",
-				"name": "Gambit"
-			}
-		],
-		"creators": [
-			{
-				"id": "237",
-				"name": "Allan Heinberg"
-			},
-			{
-				"id": "238",
-				"name": "Jim Cheung"
-			}
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4f62106ddde29.jpg",
-		"universe": "Earth-616",
-		"essential": true,
-		"phaseid": "011",
-		"phasename": "Heroic Age",
-		"sortid": "169"
-	},
-	{
-		"id": "31138",
-		"collection": "Avengers The Children's Crusade",
-		"title": "The Children's Crusade",
-		"vol": 1,
-		"num": 3,
-		"date": "2010-11-10",
-		"characters": [
-			{
-				"id": "111",
-				"name": "Young Avengers"
-			},
-			{
-				"id": "116",
-				"name": "Cassie Lang"
-			},
-			{
-				"id": "037",
-				"name": "Vision"
-			},
-			{
-				"id": "113",
-				"name": "Patriot"
-			},
-			{
-				"id": "115",
-				"name": "Kate Bishop"
-			},
-			{
-				"id": "114",
-				"name": "Wiccan"
-			},
-			{
-				"id": "112",
-				"name": "Hulkling"
-			},
-			{
-				"id": "020",
-				"name": "Avengers"
-			},
-			{
-				"id": "023",
-				"name": "Steve Rogers"
-			},
-			{
-				"id": "029",
-				"name": "Iron Man"
-			},
-			{
-				"id": "098",
-				"name": "Magneto"
-			},
-			{
-				"id": "033",
-				"name": "Quicksilver"
-			},
-			{
-				"id": "034",
-				"name": "Scarlet Witch"
-			},
-			{
-				"id": "039",
-				"name": "Wonder Man"
-			},
-			{
-				"id": "017",
-				"name": "Doctor Doom"
-			},
-			{
-				"id": "014",
-				"name": "Luke Cage"
-			},
-			{
-				"id": "074",
-				"name": "Wolverine"
-			},
-			{
-				"id": "061",
-				"name": "Spider-Man"
-			},
-			{
-				"id": "022",
-				"name": "Carol Danvers"
-			},
-			{
-				"id": "047",
-				"name": "Scott Lang"
-			},
-			{
-				"id": "021",
-				"name": "Beast"
-			},
-			{
-				"id": "027",
-				"name": "Hawkeye"
-			},
-			{
-				"id": "066",
-				"name": "Jessica Jones"
-			},
-			{
-				"id": "106",
-				"name": "X-Factor"
-			},
-			{
-				"id": "107",
-				"name": "Madrox"
-			},
-			{
-				"id": "108",
-				"name": "Strong Guy"
-			},
-			{
-				"id": "137",
-				"name": "Rictor"
-			},
-			{
-				"id": "068",
-				"name": "X-Men"
-			},
-			{
-				"id": "069",
-				"name": "Cyclops"
-			},
-			{
-				"id": "085",
-				"name": "Rogue"
-			},
-			{
-				"id": "092",
-				"name": "Colossus"
-			},
-			{
-				"id": "104",
-				"name": "Storm"
-			},
-			{
-				"id": "073",
-				"name": "Emma Frost"
-			},
-			{
-				"id": "130",
-				"name": "Iceman"
-			},
-			{
-				"id": "086",
-				"name": "Gambit"
-			}
-		],
-		"creators": [
-			{
-				"id": "237",
-				"name": "Allan Heinberg"
-			},
-			{
-				"id": "238",
-				"name": "Jim Cheung"
-			}
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4f620fc064599.jpg",
-		"universe": "Earth-616",
-		"essential": true,
-		"phaseid": "011",
-		"phasename": "Heroic Age",
-		"sortid": "169"
-	},
-	{
-		"id": "31140",
-		"collection": "Avengers The Children's Crusade",
-		"title": "The Children's Crusade",
-		"vol": 1,
-		"num": 4,
-		"date": "2011-01-05",
-		"characters": [
-			{
-				"id": "111",
-				"name": "Young Avengers"
-			},
-			{
-				"id": "116",
-				"name": "Cassie Lang"
-			},
-			{
-				"id": "037",
-				"name": "Vision"
-			},
-			{
-				"id": "113",
-				"name": "Patriot"
-			},
-			{
-				"id": "115",
-				"name": "Kate Bishop"
-			},
-			{
-				"id": "114",
-				"name": "Wiccan"
-			},
-			{
-				"id": "112",
-				"name": "Hulkling"
-			},
-			{
-				"id": "020",
-				"name": "Avengers"
-			},
-			{
-				"id": "023",
-				"name": "Steve Rogers"
-			},
-			{
-				"id": "029",
-				"name": "Iron Man"
-			},
-			{
-				"id": "098",
-				"name": "Magneto"
-			},
-			{
-				"id": "033",
-				"name": "Quicksilver"
-			},
-			{
-				"id": "034",
-				"name": "Scarlet Witch"
-			},
-			{
-				"id": "039",
-				"name": "Wonder Man"
-			},
-			{
-				"id": "017",
-				"name": "Doctor Doom"
-			},
-			{
-				"id": "014",
-				"name": "Luke Cage"
-			},
-			{
-				"id": "074",
-				"name": "Wolverine"
-			},
-			{
-				"id": "061",
-				"name": "Spider-Man"
-			},
-			{
-				"id": "022",
-				"name": "Carol Danvers"
-			},
-			{
-				"id": "047",
-				"name": "Scott Lang"
-			},
-			{
-				"id": "021",
-				"name": "Beast"
-			},
-			{
-				"id": "027",
-				"name": "Hawkeye"
-			},
-			{
-				"id": "066",
-				"name": "Jessica Jones"
-			},
-			{
-				"id": "106",
-				"name": "X-Factor"
-			},
-			{
-				"id": "107",
-				"name": "Madrox"
-			},
-			{
-				"id": "108",
-				"name": "Strong Guy"
-			},
-			{
-				"id": "137",
-				"name": "Rictor"
-			},
-			{
-				"id": "068",
-				"name": "X-Men"
-			},
-			{
-				"id": "069",
-				"name": "Cyclops"
-			},
-			{
-				"id": "085",
-				"name": "Rogue"
-			},
-			{
-				"id": "092",
-				"name": "Colossus"
-			},
-			{
-				"id": "104",
-				"name": "Storm"
-			},
-			{
-				"id": "073",
-				"name": "Emma Frost"
-			},
-			{
-				"id": "130",
-				"name": "Iceman"
-			},
-			{
-				"id": "086",
-				"name": "Gambit"
-			}
-		],
-		"creators": [
-			{
-				"id": "237",
-				"name": "Allan Heinberg"
-			},
-			{
-				"id": "238",
-				"name": "Jim Cheung"
-			}
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4f620f1eb170c.jpg",
-		"universe": "Earth-616",
-		"essential": true,
-		"phaseid": "011",
-		"phasename": "Heroic Age",
-		"sortid": "169"
-	},
-	{
-		"id": "37421",
-		"collection": "Avengers The Children's Crusade One Shot",
-		"title": "The Children's Crusade",
-		"vol": 1,
-		"num": 1,
 		"date": "2011-03-16",
 		"characters": [
 			{
-				"id": "111",
-				"name": "Young Avengers"
-			},
-			{
-				"id": "116",
-				"name": "Cassie Lang"
-			},
-			{
-				"id": "037",
-				"name": "Vision"
-			},
-			{
-				"id": "113",
-				"name": "Patriot"
-			},
-			{
-				"id": "115",
-				"name": "Kate Bishop"
-			},
-			{
-				"id": "114",
-				"name": "Wiccan"
-			},
-			{
-				"id": "112",
-				"name": "Hulkling"
-			},
-			{
-				"id": "020",
-				"name": "Avengers"
-			},
-			{
-				"id": "023",
-				"name": "Steve Rogers"
-			},
-			{
-				"id": "029",
-				"name": "Iron Man"
-			},
-			{
-				"id": "098",
-				"name": "Magneto"
-			},
-			{
-				"id": "033",
-				"name": "Quicksilver"
-			},
-			{
-				"id": "034",
-				"name": "Scarlet Witch"
-			},
-			{
-				"id": "039",
-				"name": "Wonder Man"
-			},
-			{
-				"id": "017",
-				"name": "Doctor Doom"
-			},
-			{
-				"id": "014",
-				"name": "Luke Cage"
-			},
-			{
-				"id": "074",
-				"name": "Wolverine"
-			},
-			{
-				"id": "061",
-				"name": "Spider-Man"
-			},
-			{
-				"id": "022",
-				"name": "Carol Danvers"
-			},
-			{
-				"id": "047",
-				"name": "Scott Lang"
-			},
-			{
-				"id": "021",
-				"name": "Beast"
-			},
-			{
-				"id": "027",
-				"name": "Hawkeye"
-			},
-			{
-				"id": "066",
-				"name": "Jessica Jones"
-			},
-			{
-				"id": "106",
-				"name": "X-Factor"
-			},
-			{
-				"id": "107",
-				"name": "Madrox"
-			},
-			{
-				"id": "108",
-				"name": "Strong Guy"
-			},
-			{
-				"id": "137",
-				"name": "Rictor"
-			},
-			{
-				"id": "068",
-				"name": "X-Men"
-			},
-			{
-				"id": "069",
-				"name": "Cyclops"
-			},
-			{
-				"id": "085",
-				"name": "Rogue"
-			},
-			{
-				"id": "092",
-				"name": "Colossus"
-			},
-			{
-				"id": "104",
-				"name": "Storm"
-			},
-			{
-				"id": "073",
-				"name": "Emma Frost"
-			},
-			{
-				"id": "130",
-				"name": "Iceman"
-			},
-			{
-				"id": "086",
-				"name": "Gambit"
+				"id": "084",
+				"name": "War Machine"
 			}
 		],
 		"creators": [
 			{
-				"id": "237",
-				"name": "Allan Heinberg"
+				"id": "627",
+				"name": "Nick Spencer"
 			},
 			{
-				"id": "091",
-				"name": "Alan Davis"
+				"id": "148",
+				"name": "Barry Kitson"
 			}
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4d76511b7ae95.jpg",
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/515f2c7433647.jpg",
 		"universe": "Earth-616",
-		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "169"
+		"sortid": "171"
 	},
 	{
-		"id": "31142",
-		"collection": "Avengers The Children's Crusade",
-		"title": "The Children's Crusade",
+		"id": "29792",
+		"collection": "Iron Man 2.0",
+		"title": "Palmer Addley is Dead",
 		"vol": 1,
+		"num": 3,
+		"date": "2011-04-13",
+		"characters": [
+			{
+				"id": "084",
+				"name": "War Machine"
+			}
+		],
+		"creators": [
+			{
+				"id": "627",
+				"name": "Nick Spencer"
+			},
+			{
+				"id": "148",
+				"name": "Barry Kitson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/515f2c792f9a1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "171"
+	},
+	{
+		"id": "29793",
+		"collection": "Iron Man 2.0",
+		"title": "Palmer Addley is Dead",
+		"vol": 1,
+		"num": 4,
+		"date": "2011-04-20",
+		"characters": [
+			{
+				"id": "084",
+				"name": "War Machine"
+			}
+		],
+		"creators": [
+			{
+				"id": "627",
+				"name": "Nick Spencer"
+			},
+			{
+				"id": "309",
+				"name": "Ariel Olivetti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/515f2c87cf561.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "171"
+	},
+	{
+		"id": "37189",
+		"collection": "Heroes For Hire",
+		"title": "Control",
+		"vol": 3,
+		"num": 1,
+		"date": "2010-12-02",
+		"characters": [
+			{
+				"id": "142",
+				"name": "Heroes For Hire"
+			},
+			{
+				"id": "134",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "025",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			},
+			{
+				"id": "013",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "018",
+				"name": "Elektra"
+			},
+			{
+				"id": "011",
+				"name": "Punisher"
+			},
+			{
+				"id": "090",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "129",
+				"name": "Ghost Rider"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "525",
+				"name": "Brad Walker"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/51882419862ca.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "172"
+	},
+	{
+		"id": "37196",
+		"collection": "Heroes For Hire",
+		"title": "Control",
+		"vol": 3,
+		"num": 2,
+		"date": "2011-01-12",
+		"characters": [
+			{
+				"id": "142",
+				"name": "Heroes For Hire"
+			},
+			{
+				"id": "134",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "025",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			},
+			{
+				"id": "013",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "018",
+				"name": "Elektra"
+			},
+			{
+				"id": "011",
+				"name": "Punisher"
+			},
+			{
+				"id": "090",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "129",
+				"name": "Ghost Rider"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "525",
+				"name": "Brad Walker"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/56438da1df862.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "172"
+	},
+	{
+		"id": "37198",
+		"collection": "Heroes For Hire",
+		"title": "Control",
+		"vol": 3,
+		"num": 3,
+		"date": "2011-02-09",
+		"characters": [
+			{
+				"id": "142",
+				"name": "Heroes For Hire"
+			},
+			{
+				"id": "134",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "025",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			},
+			{
+				"id": "013",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "018",
+				"name": "Elektra"
+			},
+			{
+				"id": "011",
+				"name": "Punisher"
+			},
+			{
+				"id": "090",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "129",
+				"name": "Ghost Rider"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "525",
+				"name": "Brad Walker"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/56438d822b12c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "172"
+	},
+	{
+		"id": "37187",
+		"collection": "Heroes For Hire",
+		"title": "Control",
+		"vol": 3,
+		"num": 4,
+		"date": "2011-03-02",
+		"characters": [
+			{
+				"id": "142",
+				"name": "Heroes For Hire"
+			},
+			{
+				"id": "134",
+				"name": "Misty Knight"
+			},
+			{
+				"id": "025",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			},
+			{
+				"id": "013",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "018",
+				"name": "Elektra"
+			},
+			{
+				"id": "011",
+				"name": "Punisher"
+			},
+			{
+				"id": "090",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "129",
+				"name": "Ghost Rider"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "575",
+				"name": "Robert Atkins"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/56438ccb21fca.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "172"
+	},
+	{
+		"id": "37197",
+		"collection": "Heroes For Hire",
+		"title": "Control",
+		"vol": 3,
 		"num": 5,
 		"date": "2011-04-06",
 		"characters": [
 			{
-				"id": "111",
-				"name": "Young Avengers"
+				"id": "142",
+				"name": "Heroes For Hire"
 			},
 			{
-				"id": "116",
-				"name": "Cassie Lang"
+				"id": "134",
+				"name": "Misty Knight"
 			},
 			{
-				"id": "037",
-				"name": "Vision"
+				"id": "025",
+				"name": "Sam Wilson"
 			},
 			{
-				"id": "113",
-				"name": "Patriot"
+				"id": "007",
+				"name": "Black Widow"
 			},
 			{
-				"id": "115",
-				"name": "Kate Bishop"
+				"id": "013",
+				"name": "Moon Knight"
 			},
 			{
-				"id": "114",
-				"name": "Wiccan"
+				"id": "018",
+				"name": "Elektra"
 			},
 			{
-				"id": "112",
-				"name": "Hulkling"
+				"id": "011",
+				"name": "Punisher"
 			},
 			{
-				"id": "020",
-				"name": "Avengers"
+				"id": "090",
+				"name": "Iron Fist"
 			},
 			{
-				"id": "023",
-				"name": "Steve Rogers"
-			},
-			{
-				"id": "029",
-				"name": "Iron Man"
-			},
-			{
-				"id": "098",
-				"name": "Magneto"
-			},
-			{
-				"id": "033",
-				"name": "Quicksilver"
-			},
-			{
-				"id": "034",
-				"name": "Scarlet Witch"
-			},
-			{
-				"id": "039",
-				"name": "Wonder Man"
-			},
-			{
-				"id": "017",
-				"name": "Doctor Doom"
-			},
-			{
-				"id": "014",
-				"name": "Luke Cage"
-			},
-			{
-				"id": "074",
-				"name": "Wolverine"
-			},
-			{
-				"id": "061",
-				"name": "Spider-Man"
-			},
-			{
-				"id": "022",
-				"name": "Carol Danvers"
-			},
-			{
-				"id": "047",
-				"name": "Scott Lang"
-			},
-			{
-				"id": "021",
-				"name": "Beast"
-			},
-			{
-				"id": "027",
-				"name": "Hawkeye"
-			},
-			{
-				"id": "066",
-				"name": "Jessica Jones"
-			},
-			{
-				"id": "106",
-				"name": "X-Factor"
-			},
-			{
-				"id": "107",
-				"name": "Madrox"
-			},
-			{
-				"id": "108",
-				"name": "Strong Guy"
-			},
-			{
-				"id": "137",
-				"name": "Rictor"
-			},
-			{
-				"id": "068",
-				"name": "X-Men"
-			},
-			{
-				"id": "069",
-				"name": "Cyclops"
-			},
-			{
-				"id": "085",
-				"name": "Rogue"
-			},
-			{
-				"id": "092",
-				"name": "Colossus"
-			},
-			{
-				"id": "104",
-				"name": "Storm"
-			},
-			{
-				"id": "073",
-				"name": "Emma Frost"
-			},
-			{
-				"id": "130",
-				"name": "Iceman"
-			},
-			{
-				"id": "086",
-				"name": "Gambit"
+				"id": "129",
+				"name": "Ghost Rider"
 			}
 		],
 		"creators": [
 			{
-				"id": "237",
-				"name": "Allan Heinberg"
+				"id": "311",
+				"name": "Dan Abnett"
 			},
 			{
-				"id": "238",
-				"name": "Jim Cheung"
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "575",
+				"name": "Robert Atkins"
 			}
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/03/51685316004de.jpg",
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/56438c87d55dc.jpg",
 		"universe": "Earth-616",
-		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "169"
+		"sortid": "172"
 	},
 	{
-		"id": "31144",
-		"collection": "Avengers The Children's Crusade",
-		"title": "The Children's Crusade",
-		"vol": 1,
+		"id": "37194",
+		"collection": "Heroes For Hire",
+		"title": "Control",
+		"vol": 3,
 		"num": 6,
-		"date": "2011-06-29",
+		"date": "2011-05-04",
 		"characters": [
 			{
-				"id": "111",
-				"name": "Young Avengers"
+				"id": "142",
+				"name": "Heroes For Hire"
 			},
 			{
-				"id": "116",
-				"name": "Cassie Lang"
-			},
-			{
-				"id": "037",
-				"name": "Vision"
-			},
-			{
-				"id": "113",
-				"name": "Patriot"
-			},
-			{
-				"id": "115",
-				"name": "Kate Bishop"
-			},
-			{
-				"id": "114",
-				"name": "Wiccan"
-			},
-			{
-				"id": "112",
-				"name": "Hulkling"
-			},
-			{
-				"id": "020",
-				"name": "Avengers"
-			},
-			{
-				"id": "023",
-				"name": "Steve Rogers"
-			},
-			{
-				"id": "029",
-				"name": "Iron Man"
-			},
-			{
-				"id": "098",
-				"name": "Magneto"
-			},
-			{
-				"id": "033",
-				"name": "Quicksilver"
-			},
-			{
-				"id": "034",
-				"name": "Scarlet Witch"
-			},
-			{
-				"id": "039",
-				"name": "Wonder Man"
-			},
-			{
-				"id": "017",
-				"name": "Doctor Doom"
-			},
-			{
-				"id": "014",
-				"name": "Luke Cage"
-			},
-			{
-				"id": "074",
-				"name": "Wolverine"
+				"id": "134",
+				"name": "Misty Knight"
 			},
 			{
 				"id": "061",
 				"name": "Spider-Man"
-			},
-			{
-				"id": "022",
-				"name": "Carol Danvers"
-			},
-			{
-				"id": "047",
-				"name": "Scott Lang"
-			},
-			{
-				"id": "021",
-				"name": "Beast"
-			},
-			{
-				"id": "027",
-				"name": "Hawkeye"
-			},
-			{
-				"id": "066",
-				"name": "Jessica Jones"
-			},
-			{
-				"id": "106",
-				"name": "X-Factor"
-			},
-			{
-				"id": "107",
-				"name": "Madrox"
-			},
-			{
-				"id": "108",
-				"name": "Strong Guy"
-			},
-			{
-				"id": "137",
-				"name": "Rictor"
-			},
-			{
-				"id": "068",
-				"name": "X-Men"
-			},
-			{
-				"id": "069",
-				"name": "Cyclops"
-			},
-			{
-				"id": "085",
-				"name": "Rogue"
-			},
-			{
-				"id": "092",
-				"name": "Colossus"
-			},
-			{
-				"id": "104",
-				"name": "Storm"
-			},
-			{
-				"id": "073",
-				"name": "Emma Frost"
-			},
-			{
-				"id": "130",
-				"name": "Iceman"
-			},
-			{
-				"id": "086",
-				"name": "Gambit"
 			}
 		],
 		"creators": [
 			{
-				"id": "237",
-				"name": "Allan Heinberg"
+				"id": "311",
+				"name": "Dan Abnett"
 			},
 			{
-				"id": "238",
-				"name": "Jim Cheung"
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "525",
+				"name": "Brad Walker"
 			}
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/b0/5168530750909.jpg",
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/56438ca939b93.jpg",
 		"universe": "Earth-616",
-		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "169"
+		"sortid": "172"
 	},
 	{
-		"id": "31146",
-		"collection": "Avengers The Children's Crusade",
-		"title": "The Children's Crusade",
-		"vol": 1,
+		"id": "37188",
+		"collection": "Heroes For Hire",
+		"title": "Control",
+		"vol": 3,
 		"num": 7,
-		"date": "2011-08-31",
+		"date": "2011-05-18",
 		"characters": [
 			{
-				"id": "111",
-				"name": "Young Avengers"
+				"id": "142",
+				"name": "Heroes For Hire"
 			},
 			{
-				"id": "116",
-				"name": "Cassie Lang"
-			},
-			{
-				"id": "037",
-				"name": "Vision"
-			},
-			{
-				"id": "113",
-				"name": "Patriot"
-			},
-			{
-				"id": "115",
-				"name": "Kate Bishop"
-			},
-			{
-				"id": "114",
-				"name": "Wiccan"
-			},
-			{
-				"id": "112",
-				"name": "Hulkling"
-			},
-			{
-				"id": "020",
-				"name": "Avengers"
-			},
-			{
-				"id": "023",
-				"name": "Steve Rogers"
-			},
-			{
-				"id": "029",
-				"name": "Iron Man"
-			},
-			{
-				"id": "098",
-				"name": "Magneto"
-			},
-			{
-				"id": "033",
-				"name": "Quicksilver"
-			},
-			{
-				"id": "034",
-				"name": "Scarlet Witch"
-			},
-			{
-				"id": "039",
-				"name": "Wonder Man"
-			},
-			{
-				"id": "017",
-				"name": "Doctor Doom"
-			},
-			{
-				"id": "014",
-				"name": "Luke Cage"
-			},
-			{
-				"id": "074",
-				"name": "Wolverine"
+				"id": "134",
+				"name": "Misty Knight"
 			},
 			{
 				"id": "061",
 				"name": "Spider-Man"
-			},
-			{
-				"id": "022",
-				"name": "Carol Danvers"
-			},
-			{
-				"id": "047",
-				"name": "Scott Lang"
-			},
-			{
-				"id": "021",
-				"name": "Beast"
-			},
-			{
-				"id": "027",
-				"name": "Hawkeye"
-			},
-			{
-				"id": "066",
-				"name": "Jessica Jones"
-			},
-			{
-				"id": "106",
-				"name": "X-Factor"
-			},
-			{
-				"id": "107",
-				"name": "Madrox"
-			},
-			{
-				"id": "108",
-				"name": "Strong Guy"
-			},
-			{
-				"id": "137",
-				"name": "Rictor"
-			},
-			{
-				"id": "068",
-				"name": "X-Men"
-			},
-			{
-				"id": "069",
-				"name": "Cyclops"
-			},
-			{
-				"id": "085",
-				"name": "Rogue"
-			},
-			{
-				"id": "092",
-				"name": "Colossus"
-			},
-			{
-				"id": "104",
-				"name": "Storm"
-			},
-			{
-				"id": "073",
-				"name": "Emma Frost"
-			},
-			{
-				"id": "130",
-				"name": "Iceman"
-			},
-			{
-				"id": "086",
-				"name": "Gambit"
 			}
 		],
 		"creators": [
 			{
-				"id": "237",
-				"name": "Allan Heinberg"
+				"id": "311",
+				"name": "Dan Abnett"
 			},
 			{
-				"id": "238",
-				"name": "Jim Cheung"
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "466",
+				"name": "Tim Seeley"
 			}
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4e78b6fb32ad6.jpg",
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/56438c4cbbee7.jpg",
 		"universe": "Earth-616",
-		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "169"
+		"sortid": "172"
 	},
 	{
-		"id": "31148",
-		"collection": "Avengers The Children's Crusade",
-		"title": "The Children's Crusade",
-		"vol": 1,
+		"id": "37190",
+		"collection": "Heroes For Hire",
+		"title": "Control",
+		"vol": 3,
 		"num": 8,
-		"date": "2011-12-28",
+		"date": "2011-06-01",
 		"characters": [
 			{
-				"id": "111",
-				"name": "Young Avengers"
+				"id": "142",
+				"name": "Heroes For Hire"
 			},
 			{
-				"id": "116",
-				"name": "Cassie Lang"
-			},
-			{
-				"id": "037",
-				"name": "Vision"
-			},
-			{
-				"id": "113",
-				"name": "Patriot"
-			},
-			{
-				"id": "115",
-				"name": "Kate Bishop"
-			},
-			{
-				"id": "114",
-				"name": "Wiccan"
-			},
-			{
-				"id": "112",
-				"name": "Hulkling"
-			},
-			{
-				"id": "020",
-				"name": "Avengers"
-			},
-			{
-				"id": "023",
-				"name": "Steve Rogers"
-			},
-			{
-				"id": "029",
-				"name": "Iron Man"
-			},
-			{
-				"id": "098",
-				"name": "Magneto"
-			},
-			{
-				"id": "033",
-				"name": "Quicksilver"
-			},
-			{
-				"id": "034",
-				"name": "Scarlet Witch"
-			},
-			{
-				"id": "039",
-				"name": "Wonder Man"
-			},
-			{
-				"id": "017",
-				"name": "Doctor Doom"
-			},
-			{
-				"id": "014",
-				"name": "Luke Cage"
-			},
-			{
-				"id": "074",
-				"name": "Wolverine"
+				"id": "134",
+				"name": "Misty Knight"
 			},
 			{
 				"id": "061",
 				"name": "Spider-Man"
-			},
-			{
-				"id": "022",
-				"name": "Carol Danvers"
-			},
-			{
-				"id": "047",
-				"name": "Scott Lang"
-			},
-			{
-				"id": "021",
-				"name": "Beast"
-			},
-			{
-				"id": "027",
-				"name": "Hawkeye"
-			},
-			{
-				"id": "066",
-				"name": "Jessica Jones"
-			},
-			{
-				"id": "106",
-				"name": "X-Factor"
-			},
-			{
-				"id": "107",
-				"name": "Madrox"
-			},
-			{
-				"id": "108",
-				"name": "Strong Guy"
-			},
-			{
-				"id": "137",
-				"name": "Rictor"
-			},
-			{
-				"id": "068",
-				"name": "X-Men"
-			},
-			{
-				"id": "069",
-				"name": "Cyclops"
-			},
-			{
-				"id": "085",
-				"name": "Rogue"
-			},
-			{
-				"id": "092",
-				"name": "Colossus"
-			},
-			{
-				"id": "104",
-				"name": "Storm"
-			},
-			{
-				"id": "073",
-				"name": "Emma Frost"
-			},
-			{
-				"id": "130",
-				"name": "Iceman"
-			},
-			{
-				"id": "086",
-				"name": "Gambit"
 			}
 		],
 		"creators": [
 			{
-				"id": "237",
-				"name": "Allan Heinberg"
+				"id": "311",
+				"name": "Dan Abnett"
 			},
 			{
-				"id": "238",
-				"name": "Jim Cheung"
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "525",
+				"name": "Brad Walker"
 			}
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/10/514a0aea7b20c.jpg",
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/30/56438c6888133.jpg",
 		"universe": "Earth-616",
-		"essential": true,
-		"comments": [
-			"Cassie Lang dies",
-			"Vision dies"
-		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "169"
+		"sortid": "172"
 	},
 	{
-		"id": "34271",
-		"collection": "Avengers The Children's Crusade",
-		"title": "The Children's Crusade",
-		"vol": 1,
-		"num": 9,
-		"date": "2012-03-07",
+		"id": "36501",
+		"collection": "New Mutants",
+		"title": "Unfinished Business",
+		"vol": 3,
+		"num": 25,
+		"date": "2011-05-11",
 		"characters": [
 			{
-				"id": "111",
-				"name": "Young Avengers"
+				"id": "176",
+				"name": "New Mutants"
 			},
 			{
-				"id": "116",
-				"name": "Cassie Lang"
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
 			},
 			{
-				"id": "037",
-				"name": "Vision"
+				"id": "312",
+				"name": "Andy Lanning"
 			},
 			{
-				"id": "113",
-				"name": "Patriot"
+				"id": "360",
+				"name": "Leandro Fernandez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/5155cdfdc24bd.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "173"
+	},
+	{
+		"id": "36500",
+		"collection": "New Mutants",
+		"title": "Unfinished Business",
+		"vol": 3,
+		"num": 26,
+		"date": "2011-06-22",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
 			},
 			{
-				"id": "115",
-				"name": "Kate Bishop"
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
 			},
 			{
-				"id": "114",
-				"name": "Wiccan"
+				"id": "312",
+				"name": "Andy Lanning"
 			},
 			{
-				"id": "112",
-				"name": "Hulkling"
+				"id": "360",
+				"name": "Leandro Fernandez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/5155d0fc1e014.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "173"
+	},
+	{
+		"id": "36499",
+		"collection": "New Mutants",
+		"title": "Unfinished Business",
+		"vol": 3,
+		"num": 27,
+		"date": "2011-07-13",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
 			},
 			{
-				"id": "020",
-				"name": "Avengers"
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "360",
+				"name": "Leandro Fernandez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/20/5155d10acdc0a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "173"
+	},
+	{
+		"id": "36505",
+		"collection": "New Mutants",
+		"title": "Unfinished Business",
+		"vol": 3,
+		"num": 28,
+		"date": "2011-07-27",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "078",
+				"name": "Michael Ryan"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/5155d11d80909.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "173"
+	},
+	{
+		"id": "29228",
+		"collection": "Captain America",
+		"title": "The Trial of Captain America",
+		"vol": 1,
+		"num": 611,
+		"date": "2010-10-27",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
 			},
 			{
 				"id": "023",
 				"name": "Steve Rogers"
 			},
 			{
+				"id": "027",
+				"name": "Hawkeye"
+			},
+			{
 				"id": "029",
 				"name": "Iron Man"
 			},
 			{
-				"id": "098",
-				"name": "Magneto"
+				"id": "174",
+				"name": "Mockingbird"
 			},
 			{
-				"id": "033",
-				"name": "Quicksilver"
+				"id": "099",
+				"name": "Sharon Carter"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
 			},
 			{
-				"id": "034",
-				"name": "Scarlet Witch"
+				"id": "420",
+				"name": "Daniel Acuña"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/513f703d14a23.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "174"
+	},
+	{
+		"id": "29229",
+		"collection": "Captain America",
+		"title": "The Trial of Captain America",
+		"vol": 1,
+		"num": 612,
+		"date": "2010-11-24",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
 			},
 			{
-				"id": "039",
-				"name": "Wonder Man"
+				"id": "007",
+				"name": "Black Widow"
 			},
 			{
-				"id": "017",
-				"name": "Doctor Doom"
-			},
-			{
-				"id": "014",
-				"name": "Luke Cage"
-			},
-			{
-				"id": "074",
-				"name": "Wolverine"
-			},
-			{
-				"id": "061",
-				"name": "Spider-Man"
-			},
-			{
-				"id": "022",
-				"name": "Carol Danvers"
-			},
-			{
-				"id": "047",
-				"name": "Scott Lang"
-			},
-			{
-				"id": "021",
-				"name": "Beast"
+				"id": "023",
+				"name": "Steve Rogers"
 			},
 			{
 				"id": "027",
 				"name": "Hawkeye"
 			},
 			{
-				"id": "066",
-				"name": "Jessica Jones"
+				"id": "029",
+				"name": "Iron Man"
 			},
 			{
-				"id": "106",
-				"name": "X-Factor"
+				"id": "174",
+				"name": "Mockingbird"
 			},
 			{
-				"id": "107",
-				"name": "Madrox"
-			},
-			{
-				"id": "108",
-				"name": "Strong Guy"
-			},
-			{
-				"id": "137",
-				"name": "Rictor"
-			},
-			{
-				"id": "068",
-				"name": "X-Men"
-			},
-			{
-				"id": "069",
-				"name": "Cyclops"
-			},
-			{
-				"id": "085",
-				"name": "Rogue"
-			},
-			{
-				"id": "092",
-				"name": "Colossus"
-			},
-			{
-				"id": "104",
-				"name": "Storm"
-			},
-			{
-				"id": "073",
-				"name": "Emma Frost"
-			},
-			{
-				"id": "130",
-				"name": "Iceman"
-			},
-			{
-				"id": "086",
-				"name": "Gambit"
+				"id": "099",
+				"name": "Sharon Carter"
 			}
 		],
 		"creators": [
 			{
-				"id": "237",
-				"name": "Allan Heinberg"
+				"id": "244",
+				"name": "Ed Brubaker"
 			},
 			{
-				"id": "238",
-				"name": "Jim Cheung"
+				"id": "359",
+				"name": "Butch Guice"
 			}
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/51684c6275d03.jpg",
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/513f71962b343.jpg",
 		"universe": "Earth-616",
 		"essential": true,
-		"comments": [
-			"Young Avengers disbands"
-		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "169"
+		"sortid": "174"
+	},
+	{
+		"id": "29230",
+		"collection": "Captain America",
+		"title": "The Trial of Captain America",
+		"vol": 1,
+		"num": 613,
+		"date": "2010-12-29",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			},
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "027",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "029",
+				"name": "Iron Man"
+			},
+			{
+				"id": "174",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "359",
+				"name": "Butch Guice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/513f7187c140b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "174"
+	},
+	{
+		"id": "35795",
+		"collection": "Captain America",
+		"title": "The Trial of Captain America",
+		"vol": 1,
+		"num": 614,
+		"date": "2011-01-26",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			},
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "027",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "029",
+				"name": "Iron Man"
+			},
+			{
+				"id": "174",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "359",
+				"name": "Butch Guice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/513f7145b9c51.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "174"
+	},
+	{
+		"id": "35779",
+		"collection": "Captain America",
+		"title": "The Trial of Captain America",
+		"vol": 1,
+		"num": 615,
+		"date": "2011-02-23",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			},
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "027",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "029",
+				"name": "Iron Man"
+			},
+			{
+				"id": "174",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "359",
+				"name": "Butch Guice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/513f71322586e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "174"
+	},
+	{
+		"id": "39706",
+		"collection": "Captain America",
+		"title": "The Trial of Captain America",
+		"vol": 1,
+		"num": 615,
+		"date": "2011-02-23",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "153",
+				"name": "Mitch Breitweiser"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/513f71322586e.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "174"
+	},
+	{
+		"id": "35762",
+		"collection": "Captain America",
+		"title": "Gulag",
+		"vol": 1,
+		"num": 616,
+		"date": "2011-03-30",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "639",
+				"name": "Travis Charest"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/513f72a7ec178.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "175"
+	},
+	{
+		"id": "39017",
+		"collection": "Captain America",
+		"title": "Gulag",
+		"vol": 1,
+		"num": 617,
+		"date": "2011-04-27",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "185",
+				"name": "Nick fury"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "359",
+				"name": "Butch Guice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/513f72862708f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "175"
+	},
+	{
+		"id": "35774",
+		"collection": "Captain America",
+		"title": "Gulag",
+		"vol": 1,
+		"num": 618,
+		"date": "2011-05-25",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "185",
+				"name": "Nick fury"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "359",
+				"name": "Butch Guice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/513f727accc03.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "175"
+	},
+	{
+		"id": "35769",
+		"collection": "Captain America",
+		"title": "Gulag",
+		"vol": 1,
+		"num": 619,
+		"date": "2011-06-22",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "185",
+				"name": "Nick fury"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "359",
+				"name": "Butch Guice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/513f72600d05c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "175"
+	},
+	{
+		"id": "37168",
+		"collection": "New Avengers Annual",
+		"title": "The Revengers",
+		"vol": 2,
+		"num": 1,
+		"date": "2011-09-07",
+		"characters": [
+			{
+				"id": "020",
+				"name": "Avengers"
+			},
+			{
+				"id": "022",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "061",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "014",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "066",
+				"name": "Jessica Jones"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Thing"
+			},
+			{
+				"id": "062",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "090",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "174",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "124",
+				"name": "Squirrel Girl"
+			},
+			{
+				"id": "039",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "079",
+				"name": "Eddie Brock"
+			},
+			{
+				"id": "029",
+				"name": "Iron Man"
+			},
+			{
+				"id": "036",
+				"name": "Thor"
+			},
+			{
+				"id": "121",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "027",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "013",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "153",
+				"name": "Eric O'Grady"
+			},
+			{
+				"id": "021",
+				"name": "Beast"
+			},
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			}
+		],
+		"creators": [
+			{
+				"id": "051",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "245",
+				"name": "Gabriele Dell'Otto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/04/4e5fdc57af68d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "176"
+	},
+	{
+		"id": "37174",
+		"collection": "Avengers Annual",
+		"title": "The Revengers",
+		"vol": 4,
+		"num": 1,
+		"date": "2012-01-04",
+		"characters": [
+			{
+				"id": "020",
+				"name": "Avengers"
+			},
+			{
+				"id": "022",
+				"name": "Carol Danvers"
+			},
+			{
+				"id": "061",
+				"name": "Spider-Man"
+			},
+			{
+				"id": "014",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "066",
+				"name": "Jessica Jones"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "053",
+				"name": "Thing"
+			},
+			{
+				"id": "062",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "090",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "174",
+				"name": "Mockingbird"
+			},
+			{
+				"id": "124",
+				"name": "Squirrel Girl"
+			},
+			{
+				"id": "039",
+				"name": "Wonder Man"
+			},
+			{
+				"id": "079",
+				"name": "Eddie Brock"
+			},
+			{
+				"id": "029",
+				"name": "Iron Man"
+			},
+			{
+				"id": "036",
+				"name": "Thor"
+			},
+			{
+				"id": "121",
+				"name": "Maria Hill"
+			},
+			{
+				"id": "027",
+				"name": "Hawkeye"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			},
+			{
+				"id": "013",
+				"name": "Moon Knight"
+			},
+			{
+				"id": "153",
+				"name": "Eric O'Grady"
+			},
+			{
+				"id": "021",
+				"name": "Beast"
+			},
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			}
+		],
+		"creators": [
+			{
+				"id": "051",
+				"name": "Brian Michael Bendis"
+			},
+			{
+				"id": "245",
+				"name": "Gabriele Dell'Otto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4f79d8ac6502b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "176"
 	}
 ]

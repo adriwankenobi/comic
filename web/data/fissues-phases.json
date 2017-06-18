@@ -16398,8 +16398,8 @@
 				"date": "2006-08-23",
 				"characters": [
 					{
-						"id": "134",
-						"name": "Misty Knight"
+						"id": "142",
+						"name": "Heroes For Hire"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/518821f4a2d6e.jpg",
@@ -16958,8 +16958,8 @@
 				"date": "2006-09-27",
 				"characters": [
 					{
-						"id": "134",
-						"name": "Misty Knight"
+						"id": "142",
+						"name": "Heroes For Hire"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc5c68bc1e94.jpg",
@@ -21084,8 +21084,8 @@
 				"date": "2006-11-22",
 				"characters": [
 					{
-						"id": "134",
-						"name": "Misty Knight"
+						"id": "142",
+						"name": "Heroes For Hire"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bc5b9d21ab6e.jpg",
@@ -22060,8 +22060,8 @@
 				"date": "2007-06-20",
 				"characters": [
 					{
-						"id": "134",
-						"name": "Misty Knight"
+						"id": "142",
+						"name": "Heroes For Hire"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/51631bd7b7cee.jpg",
@@ -22269,8 +22269,8 @@
 				"date": "2007-09-12",
 				"characters": [
 					{
-						"id": "134",
-						"name": "Misty Knight"
+						"id": "142",
+						"name": "Heroes For Hire"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/51631be7d831b.jpg",
@@ -22375,8 +22375,8 @@
 				"date": "2007-10-10",
 				"characters": [
 					{
-						"id": "134",
-						"name": "Misty Knight"
+						"id": "142",
+						"name": "Heroes For Hire"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/51631bf2909e3.jpg",
@@ -44085,6 +44085,86 @@
 				]
 			},
 			{
+				"title": "Heart of the Spider",
+				"date": "2010-11-17",
+				"characters": [
+					{
+						"id": "117",
+						"name": "Anya Corazon"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4c6951936e21d.jpg",
+				"phaseid": "011",
+				"sortid": "163",
+				"comiclist": [
+					{
+						"collection": "Spider-Girl",
+						"vol": 2,
+						"num": 1
+					},
+					{
+						"collection": "Spider-Girl",
+						"vol": 2,
+						"num": 2
+					},
+					{
+						"collection": "Spider-Girl",
+						"vol": 2,
+						"num": 3
+					},
+					{
+						"collection": "Spider-Girl",
+						"vol": 2,
+						"num": 4
+					},
+					{
+						"collection": "Spider-Girl",
+						"vol": 2,
+						"num": 5
+					},
+					{
+						"collection": "Spider-Girl",
+						"vol": 2,
+						"num": 6
+					},
+					{
+						"collection": "Spider-Girl",
+						"vol": 2,
+						"num": 7
+					},
+					{
+						"collection": "Spider-Girl",
+						"vol": 2,
+						"num": 8
+					}
+				]
+			},
+			{
+				"title": "Gods of Brooklyn",
+				"date": "2011-04-06",
+				"characters": [
+					{
+						"id": "028",
+						"name": "Hercules"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4d961d34a0dbf.jpg",
+				"phaseid": "011",
+				"sortid": "164",
+				"comiclist": [
+					{
+						"collection": "Herc",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Herc",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
 				"title": "Three",
 				"date": "2010-09-22",
 				"characters": [
@@ -44096,7 +44176,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/51db31c260990.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "163",
+				"sortid": "165",
 				"comiclist": [
 					{
 						"collection": "Fantastic Four",
@@ -44142,7 +44222,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/51f68bed568ee.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "164",
+				"sortid": "166",
 				"comiclist": [
 					{
 						"collection": "FF",
@@ -44183,7 +44263,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/4d87a9336fa68.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "165",
+				"sortid": "167",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -44234,7 +44314,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/580e212952c6d.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "166",
+				"sortid": "168",
 				"comiclist": [
 					{
 						"collection": "Amazing Spider-Man",
@@ -44270,7 +44350,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4d52b46593f78.jpg",
 				"essential": true,
 				"phaseid": "011",
-				"sortid": "167",
+				"sortid": "169",
 				"comiclist": [
 					{
 						"collection": "Mighty Thor",
@@ -44315,7 +44395,7 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/568eaa8c32097.jpg",
 				"phaseid": "011",
-				"sortid": "168",
+				"sortid": "170",
 				"comiclist": [
 					{
 						"collection": "Black Panther The Man Without Fear",
@@ -44360,6 +44440,2997 @@
 				]
 			},
 			{
+				"title": "Palmer Addley is Dead",
+				"date": "2011-02-23",
+				"characters": [
+					{
+						"id": "084",
+						"name": "War Machine"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/515f2c65d6287.jpg",
+				"phaseid": "011",
+				"sortid": "171",
+				"comiclist": [
+					{
+						"collection": "Iron Man 2.0",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Iron Man 2.0",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Iron Man 2.0",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Iron Man 2.0",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Control",
+				"date": "2010-12-02",
+				"characters": [
+					{
+						"id": "142",
+						"name": "Heroes For Hire"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/51882419862ca.jpg",
+				"phaseid": "011",
+				"sortid": "172",
+				"comiclist": [
+					{
+						"collection": "Heroes For Hire",
+						"vol": 3,
+						"num": 1
+					},
+					{
+						"collection": "Heroes For Hire",
+						"vol": 3,
+						"num": 2
+					},
+					{
+						"collection": "Heroes For Hire",
+						"vol": 3,
+						"num": 3
+					},
+					{
+						"collection": "Heroes For Hire",
+						"vol": 3,
+						"num": 4
+					},
+					{
+						"collection": "Heroes For Hire",
+						"vol": 3,
+						"num": 5
+					},
+					{
+						"collection": "Heroes For Hire",
+						"vol": 3,
+						"num": 6
+					},
+					{
+						"collection": "Heroes For Hire",
+						"vol": 3,
+						"num": 7
+					},
+					{
+						"collection": "Heroes For Hire",
+						"vol": 3,
+						"num": 8
+					}
+				]
+			},
+			{
+				"title": "Unfinished Business",
+				"date": "2011-05-11",
+				"characters": [
+					{
+						"id": "176",
+						"name": "New Mutants"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/5155cdfdc24bd.jpg",
+				"phaseid": "011",
+				"sortid": "173",
+				"comiclist": [
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 25
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 26
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 27
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 28
+					}
+				]
+			},
+			{
+				"title": "The Trial of Captain America",
+				"date": "2010-10-27",
+				"characters": [
+					{
+						"id": "118",
+						"name": "Bucky Barnes"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/513f703d14a23.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "174",
+				"comiclist": [
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 611
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 612
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 613
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 614
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 615
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 615
+					}
+				]
+			},
+			{
+				"title": "Gulag",
+				"date": "2011-03-30",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/513f72a7ec178.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "175",
+				"comiclist": [
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 616
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 617
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 618
+					},
+					{
+						"collection": "Captain America",
+						"vol": 1,
+						"num": 619
+					}
+				]
+			},
+			{
+				"title": "The Revengers",
+				"date": "2011-09-07",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/04/4e5fdc57af68d.jpg",
+				"essential": true,
+				"phaseid": "011",
+				"sortid": "176",
+				"comiclist": [
+					{
+						"collection": "New Avengers Annual",
+						"vol": 2,
+						"num": 1
+					},
+					{
+						"collection": "Avengers Annual",
+						"vol": 4,
+						"num": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"namable": {
+			"id": "012",
+			"name": "Fear Itself"
+		},
+		"list": [
+			{
+				"title": "Book of the Skull",
+				"date": "2011-03-16",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/5644e3ab8b1f1.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "001",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Book of the Skull",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Sin's Past",
+				"date": "2011-04-20",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4f859be746f30.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "002",
+				"comiclist": [
+					{
+						"collection": "Fear Itself Sin's Past",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Fear Itself",
+				"date": "2011-04-06",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4f621a599bd54.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "003",
+				"comiclist": [
+					{
+						"collection": "Fear Itself",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Fear Itself The Home Front",
+				"date": "2011-04-06",
+				"characters": [
+					{
+						"id": "046",
+						"name": "Speedball"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4f6399b15f0dd.jpg",
+				"phaseid": "012",
+				"sortid": "004",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Home Front",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Journey into Mystery",
+				"date": "2011-04-13",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Loki"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/51894cecb3700.jpg",
+				"phaseid": "012",
+				"sortid": "005",
+				"comiclist": [
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 622
+					}
+				]
+			},
+			{
+				"title": "The Unfixable",
+				"date": "2011-01-19",
+				"characters": [
+					{
+						"id": "029",
+						"name": "Iron Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/58ffa802b982a.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "006",
+				"comiclist": [
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 500
+					},
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 500
+					},
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 501
+					},
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 502
+					},
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 503
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Spider-Man",
+				"date": "2011-05-04",
+				"characters": [
+					{
+						"id": "061",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/5644e34429e85.jpg",
+				"phaseid": "012",
+				"sortid": "007",
+				"comiclist": [
+					{
+						"collection": "Fear Itself Spider-Man",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Fear Itself The Worthy",
+				"date": "2011-04-27",
+				"characters": [
+					{
+						"id": "082",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4dc94b7b13e13.jpg",
+				"phaseid": "012",
+				"sortid": "008",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Worthy",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Fear Itself",
+				"date": "2011-05-04",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4f621b10e0f9b.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "009",
+				"comiclist": [
+					{
+						"collection": "Fear Itself",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Journey into Mystery",
+				"date": "2011-05-11",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Loki"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/51894ffeb47c6.jpg",
+				"phaseid": "012",
+				"sortid": "010",
+				"comiclist": [
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 623
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Avengers",
+				"date": "2011-05-18",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/04/4f4fee228e8ee.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "011",
+				"comiclist": [
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 13
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Herc",
+				"date": "2011-05-18",
+				"characters": [
+					{
+						"id": "028",
+						"name": "Hercules"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/4dcd3b77e939f.jpg",
+				"phaseid": "012",
+				"sortid": "012",
+				"comiclist": [
+					{
+						"collection": "Herc",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Thunderbolts",
+				"date": "2011-06-01",
+				"characters": [
+					{
+						"id": "042",
+						"name": "Thunderbolts"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/5644dd2f23aec.jpg",
+				"phaseid": "012",
+				"sortid": "013",
+				"comiclist": [
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 158
+					}
+				]
+			},
+			{
+				"title": "Fear Itself The Home Front",
+				"date": "2011-05-04",
+				"characters": [
+					{
+						"id": "046",
+						"name": "Speedball"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/51dc750e1c96b.jpg",
+				"phaseid": "012",
+				"sortid": "014",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Home Front",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Iron Man",
+				"date": "2011-05-18",
+				"characters": [
+					{
+						"id": "029",
+						"name": "Iron Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4f6390a833dc7.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "015",
+				"comiclist": [
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 504
+					},
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 505
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Deadpool",
+				"date": "2011-06-08",
+				"characters": [
+					{
+						"id": "003",
+						"name": "Deadpool"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4f7dceb9df2e8.jpg",
+				"phaseid": "012",
+				"sortid": "016",
+				"comiclist": [
+					{
+						"collection": "Fear Itself Deadpool",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Youth in Revolt",
+				"date": "2011-05-11",
+				"characters": [
+					{
+						"id": "181",
+						"name": "Young Allies"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4f858a1dd04d3.jpg",
+				"phaseid": "012",
+				"sortid": "017",
+				"comiclist": [
+					{
+						"collection": "Fear Itself Youth in Revolt",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Wolverine",
+				"date": "2011-07-06",
+				"characters": [
+					{
+						"id": "074",
+						"name": "Wolverine"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/10/4f8597c7894c7.jpg",
+				"phaseid": "012",
+				"sortid": "018",
+				"comiclist": [
+					{
+						"collection": "Fear Itself Wolverine",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Fear Itself Wolverine",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Secret Avengers",
+				"date": "2011-05-25",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/578f7ee531c67.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "019",
+				"comiclist": [
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 13
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Iron Man 2.0",
+				"date": "2011-05-25",
+				"characters": [
+					{
+						"id": "084",
+						"name": "War Machine"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/515f2c9b61f88.jpg",
+				"phaseid": "012",
+				"sortid": "020",
+				"comiclist": [
+					{
+						"collection": "Iron Man 2.0",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Iron Man 2.0",
+						"vol": 1,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Fear Itself",
+				"date": "2011-06-01",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/4d88b77ee640f.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "021",
+				"comiclist": [
+					{
+						"collection": "Fear Itself",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Herc",
+				"date": "2011-06-01",
+				"characters": [
+					{
+						"id": "028",
+						"name": "Hercules"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/30/52c5b3a1bae40.jpg",
+				"phaseid": "012",
+				"sortid": "022",
+				"comiclist": [
+					{
+						"collection": "Herc",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Fear Itself FF",
+				"date": "2011-07-20",
+				"characters": [
+					{
+						"id": "049",
+						"name": "Fantastic Four"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/5644de7f2886b.jpg",
+				"phaseid": "012",
+				"sortid": "023",
+				"comiclist": [
+					{
+						"collection": "Fear Itself FF",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Alpha Flight",
+				"date": "2011-06-15",
+				"characters": [
+					{
+						"id": "151",
+						"name": "Alpha Flight"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/52c5b39329c81.jpg",
+				"phaseid": "012",
+				"sortid": "024",
+				"comiclist": [
+					{
+						"collection": "Alpha Flight",
+						"vol": 4,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Youth in Revolt",
+				"date": "2011-06-15",
+				"characters": [
+					{
+						"id": "181",
+						"name": "Young Allies"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4f858ab59a45e.jpg",
+				"phaseid": "012",
+				"sortid": "025",
+				"comiclist": [
+					{
+						"collection": "Fear Itself Youth in Revolt",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Thunderbolts",
+				"date": "2011-06-22",
+				"characters": [
+					{
+						"id": "042",
+						"name": "Thunderbolts"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/a0/5644dcd95995f.jpg",
+				"phaseid": "012",
+				"sortid": "026",
+				"comiclist": [
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 159
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Avengers Academy",
+				"date": "2011-05-18",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/58d42b05b9dde.jpg",
+				"phaseid": "012",
+				"sortid": "027",
+				"comiclist": [
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 14
+					},
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 15
+					},
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 16
+					}
+				]
+			},
+			{
+				"title": "Give Up the Ghost",
+				"date": "2011-07-13",
+				"characters": [
+					{
+						"id": "129",
+						"name": "Ghost Rider"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/5644e1496997a.jpg",
+				"phaseid": "012",
+				"sortid": "028",
+				"comiclist": [
+					{
+						"collection": "Ghost Rider",
+						"vol": 7,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Secret Avengers",
+				"date": "2011-06-22",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/578f7fdb71385.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "029",
+				"comiclist": [
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 14
+					}
+				]
+			},
+			{
+				"title": "Planet of Fear",
+				"date": "2011-07-20",
+				"characters": [
+					{
+						"id": "158",
+						"name": "Red Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4f5780e19cba7.jpg",
+				"phaseid": "012",
+				"sortid": "030",
+				"comiclist": [
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 37
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Avengers",
+				"date": "2011-06-15",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/04/4f4fed6b61d9f.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "031",
+				"comiclist": [
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 14
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Wolverine",
+				"date": "2011-09-07",
+				"characters": [
+					{
+						"id": "074",
+						"name": "Wolverine"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4e5fcc4a9914a.jpg",
+				"phaseid": "012",
+				"sortid": "032",
+				"comiclist": [
+					{
+						"collection": "Fear Itself Wolverine",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Planet of Fear",
+				"date": "2011-08-03",
+				"characters": [
+					{
+						"id": "158",
+						"name": "Red Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4f5783b3bfa5b.jpg",
+				"phaseid": "012",
+				"sortid": "033",
+				"comiclist": [
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 38
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Avengers",
+				"date": "2011-07-20",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4f4febdf0a579.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "034",
+				"comiclist": [
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 15
+					}
+				]
+			},
+			{
+				"title": "Give Up the Ghost",
+				"date": "2011-08-10",
+				"characters": [
+					{
+						"id": "129",
+						"name": "Ghost Rider"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5644dd95b950b.jpg",
+				"phaseid": "012",
+				"sortid": "035",
+				"comiclist": [
+					{
+						"collection": "Ghost Rider",
+						"vol": 7,
+						"num": 2
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 7,
+						"num": 3
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 7,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Thunderbolts",
+				"date": "2011-07-06",
+				"characters": [
+					{
+						"id": "042",
+						"name": "Thunderbolts"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/5644dd01e1427.jpg",
+				"phaseid": "012",
+				"sortid": "036",
+				"comiclist": [
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 160
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Iron Man 2.0",
+				"date": "2011-07-20",
+				"characters": [
+					{
+						"id": "084",
+						"name": "War Machine"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/515f2e9a788c8.jpg",
+				"phaseid": "012",
+				"sortid": "037",
+				"comiclist": [
+					{
+						"collection": "Iron Man 2.0",
+						"vol": 1,
+						"num": 7
+					}
+				]
+			},
+			{
+				"title": "Journey into Mystery",
+				"date": "2011-06-08",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Loki"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/51894db803270.jpg",
+				"phaseid": "012",
+				"sortid": "038",
+				"comiclist": [
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 624
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Fearsome Four",
+				"date": "2011-06-08",
+				"characters": [
+					{
+						"id": "035",
+						"name": "She-Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4f7dcc9fed3c3.jpg",
+				"phaseid": "012",
+				"sortid": "039",
+				"comiclist": [
+					{
+						"collection": "Fear Itself Fearsome Four",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Fear Itself Fearsome Four",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Fear Itself Fearsome Four",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Fear Itself Fearsome Four",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Thunderbolts",
+				"date": "2011-08-03",
+				"characters": [
+					{
+						"id": "042",
+						"name": "Thunderbolts"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5644dd6111d47.jpg",
+				"phaseid": "012",
+				"sortid": "040",
+				"comiclist": [
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 161
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 162
+					}
+				]
+			},
+			{
+				"title": "Fear Itself The Home Front",
+				"date": "2011-06-15",
+				"characters": [
+					{
+						"id": "046",
+						"name": "Speedball"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/52c5b3bd2d354.jpg",
+				"phaseid": "012",
+				"sortid": "041",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Home Front",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Heroes For Hire",
+				"date": "2011-07-06",
+				"characters": [
+					{
+						"id": "142",
+						"name": "Heroes For Hire"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/56438bdd24213.jpg",
+				"phaseid": "012",
+				"sortid": "042",
+				"comiclist": [
+					{
+						"collection": "Heroes For Hire",
+						"vol": 3,
+						"num": 9
+					},
+					{
+						"collection": "Heroes For Hire",
+						"vol": 3,
+						"num": 10
+					},
+					{
+						"collection": "Heroes For Hire",
+						"vol": 3,
+						"num": 11
+					}
+				]
+			},
+			{
+				"title": "Fear Itself The Home Front",
+				"date": "2011-07-20",
+				"characters": [
+					{
+						"id": "046",
+						"name": "Speedball"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/5644e30f96391.jpg",
+				"phaseid": "012",
+				"sortid": "043",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Home Front",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Spider-Man",
+				"date": "2011-06-08",
+				"characters": [
+					{
+						"id": "061",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/52c5b3c6c7990.jpg",
+				"phaseid": "012",
+				"sortid": "044",
+				"comiclist": [
+					{
+						"collection": "Fear Itself Spider-Man",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Fear Itself Spider-Man",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Black Panther",
+				"date": "2011-07-13",
+				"characters": [
+					{
+						"id": "005",
+						"name": "Black Panther"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/5644e4c8d29a8.jpg",
+				"phaseid": "012",
+				"sortid": "045",
+				"comiclist": [
+					{
+						"collection": "Black Panther The Man Without Fear",
+						"vol": 1,
+						"num": 521
+					},
+					{
+						"collection": "Black Panther The Man Without Fear",
+						"vol": 1,
+						"num": 522
+					},
+					{
+						"collection": "Black Panther The Man Without Fear",
+						"vol": 1,
+						"num": 523
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Deadpool",
+				"date": "2011-07-20",
+				"characters": [
+					{
+						"id": "003",
+						"name": "Deadpool"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5644decaa4372.jpg",
+				"phaseid": "012",
+				"sortid": "046",
+				"comiclist": [
+					{
+						"collection": "Fear Itself Deadpool",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Fear Itself Deadpool",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Uncanny X-Force",
+				"date": "2011-07-06",
+				"characters": [
+					{
+						"id": "159",
+						"name": "X-Force"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/4f859663dcf33.jpg",
+				"phaseid": "012",
+				"sortid": "047",
+				"comiclist": [
+					{
+						"collection": "Fear Itself Uncanny X-Force",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Youth in Revolt",
+				"date": "2011-07-06",
+				"characters": [
+					{
+						"id": "181",
+						"name": "Young Allies"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/4f8595415310c.jpg",
+				"phaseid": "012",
+				"sortid": "048",
+				"comiclist": [
+					{
+						"collection": "Fear Itself Youth in Revolt",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Fear Itself Youth in Revolt",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Fear Itself Youth in Revolt",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Fear Itself Youth in Revolt",
+						"vol": 1,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Journey into Mystery",
+				"date": "2011-07-13",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Loki"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/518950d66c6a1.jpg",
+				"phaseid": "012",
+				"sortid": "049",
+				"comiclist": [
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 625
+					}
+				]
+			},
+			{
+				"title": "Fear Itself",
+				"date": "2011-07-06",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/04/4f7af8b599bbc.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "050",
+				"comiclist": [
+					{
+						"collection": "Fear Itself",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Feart Itself X-Men",
+				"date": "2011-07-06",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/592d9f68cc4e0.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "051",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 540
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Uncanny X-Force",
+				"date": "2011-08-10",
+				"characters": [
+					{
+						"id": "159",
+						"name": "X-Force"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/4f8596f4f25f0.jpg",
+				"phaseid": "012",
+				"sortid": "052",
+				"comiclist": [
+					{
+						"collection": "Fear Itself Uncanny X-Force",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Fear Itself Uncanny X-Force",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Fear Itself New Avengers",
+				"date": "2011-07-13",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/577521efdddee.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "053",
+				"comiclist": [
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 14
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 15
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 16
+					}
+				]
+			},
+			{
+				"title": "Feart Itself X-Men",
+				"date": "2011-07-20",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/592da1346a586.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "054",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 541
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Alpha Flight",
+				"date": "2011-07-13",
+				"characters": [
+					{
+						"id": "151",
+						"name": "Alpha Flight"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5644e094cf3c7.jpg",
+				"phaseid": "012",
+				"sortid": "055",
+				"comiclist": [
+					{
+						"collection": "Alpha Flight",
+						"vol": 4,
+						"num": 2
+					},
+					{
+						"collection": "Alpha Flight",
+						"vol": 4,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Avengers",
+				"date": "2011-08-17",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/10/4f4feae2bc1d5.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "056",
+				"comiclist": [
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 16
+					}
+				]
+			},
+			{
+				"title": "Journey into Mystery",
+				"date": "2011-08-17",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Loki"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/51895106bf92d.jpg",
+				"phaseid": "012",
+				"sortid": "057",
+				"comiclist": [
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 626
+					},
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 626
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Avengers Academy",
+				"date": "2011-08-03",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/58d51b4161fb5.jpg",
+				"phaseid": "012",
+				"sortid": "058",
+				"comiclist": [
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 17
+					},
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 18
+					}
+				]
+			},
+			{
+				"title": "Fear Itself New Mutants",
+				"date": "2011-08-10",
+				"characters": [
+					{
+						"id": "176",
+						"name": "New Mutants"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/5155d121dc396.jpg",
+				"phaseid": "012",
+				"sortid": "059",
+				"comiclist": [
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 29
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 30
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 31
+					}
+				]
+			},
+			{
+				"title": "Feart Itself X-Men",
+				"date": "2011-08-17",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/592da3abc3db8.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "060",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 542
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 543
+					}
+				]
+			},
+			{
+				"title": "Fear Itself New Mutants",
+				"date": "2011-10-26",
+				"characters": [
+					{
+						"id": "176",
+						"name": "New Mutants"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/5155d1d91cdbf.jpg",
+				"phaseid": "012",
+				"sortid": "061",
+				"comiclist": [
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 32
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Avengers",
+				"date": "2011-09-21",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/4e78a736b697b.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "062",
+				"comiclist": [
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 17
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Alpha Flight",
+				"date": "2011-09-14",
+				"characters": [
+					{
+						"id": "151",
+						"name": "Alpha Flight"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/4e67d9012950d.jpg",
+				"phaseid": "012",
+				"sortid": "063",
+				"comiclist": [
+					{
+						"collection": "Alpha Flight",
+						"vol": 4,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Herc",
+				"date": "2011-07-20",
+				"characters": [
+					{
+						"id": "028",
+						"name": "Hercules"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/5644dd751bc7b.jpg",
+				"phaseid": "012",
+				"sortid": "064",
+				"comiclist": [
+					{
+						"collection": "Herc",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Fear Itself",
+				"date": "2011-08-10",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/40/56310efda1aaa.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "065",
+				"comiclist": [
+					{
+						"collection": "Fear Itself",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Fear Itself The Home Front",
+				"date": "2011-08-17",
+				"characters": [
+					{
+						"id": "046",
+						"name": "Speedball"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/5644e2451d7c6.jpg",
+				"phaseid": "012",
+				"sortid": "066",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Home Front",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Fear Itself The Home Front",
+						"vol": 1,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Herc",
+				"date": "2011-08-03",
+				"characters": [
+					{
+						"id": "028",
+						"name": "Hercules"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/5644ddb5db07c.jpg",
+				"phaseid": "012",
+				"sortid": "067",
+				"comiclist": [
+					{
+						"collection": "Herc",
+						"vol": 1,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Black Widow",
+				"date": "2011-06-29",
+				"characters": [
+					{
+						"id": "007",
+						"name": "Black Widow"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4f7de0bd64277.jpg",
+				"phaseid": "012",
+				"sortid": "068",
+				"comiclist": [
+					{
+						"collection": "Fear Itself Black Widow",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Iron Man",
+				"date": "2011-07-20",
+				"characters": [
+					{
+						"id": "029",
+						"name": "Iron Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4f638ab3be090.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "069",
+				"comiclist": [
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 506
+					},
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 507
+					}
+				]
+			},
+			{
+				"title": "Fear Itself The Deep",
+				"date": "2011-06-01",
+				"characters": [
+					{
+						"id": "144",
+						"name": "Defenders"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4f7dc8e0c7138.jpg",
+				"phaseid": "012",
+				"sortid": "070",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Deep",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Fear Itself The Deep",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Fear Itself The Deep",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Fear Itself The Deep",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Hulk vs Dracula",
+				"date": "2011-04-27",
+				"characters": [
+					{
+						"id": "148",
+						"name": "Dracula"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/4db0a40c21079.jpg",
+				"phaseid": "012",
+				"sortid": "071",
+				"comiclist": [
+					{
+						"collection": "Tomb of Dracula Presents Throne of Blood",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Fear Itself Hulk vs Dracula",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Fear Itself Hulk vs Dracula",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Fear Itself Hulk vs Dracula",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Journey into Mystery",
+				"date": "2011-09-14",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Loki"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/5189528c5e829.jpg",
+				"phaseid": "012",
+				"sortid": "072",
+				"comiclist": [
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 627
+					}
+				]
+			},
+			{
+				"title": "Fear Itself The Monkey King",
+				"date": "2011-09-14",
+				"characters": [
+					{
+						"id": "019",
+						"name": ""
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4e68d8cd10beb.jpg",
+				"phaseid": "012",
+				"sortid": "073",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Monkey King",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Avengers Academy",
+				"date": "2011-09-28",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/58d51d198fbd4.jpg",
+				"phaseid": "012",
+				"sortid": "074",
+				"comiclist": [
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 19
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Iron Man",
+				"date": "2011-09-21",
+				"characters": [
+					{
+						"id": "029",
+						"name": "Iron Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5900e48ce0927.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "075",
+				"comiclist": [
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 508
+					}
+				]
+			},
+			{
+				"title": "Fear Itself",
+				"date": "2011-09-14",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4e68c38da4b74.jpg",
+				"phaseid": "012",
+				"sortid": "076",
+				"comiclist": [
+					{
+						"collection": "Fear Itself",
+						"vol": 1,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Journey into Mystery",
+				"date": "2011-09-28",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Loki"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/5189529cdc873.jpg",
+				"phaseid": "012",
+				"sortid": "077",
+				"comiclist": [
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 628
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Secret Avengers",
+				"date": "2011-07-27",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/578f813decb06.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "078",
+				"comiclist": [
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 15
+					}
+				]
+			},
+			{
+				"title": "Fear Itself The Home Front",
+				"date": "2011-05-04",
+				"characters": [
+					{
+						"id": "046",
+						"name": "Speedball"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/51dc750e1c96b.jpg",
+				"phaseid": "012",
+				"sortid": "079",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Home Front",
+						"vol": 1,
+						"num": 7
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Iron Man",
+				"date": "2011-10-19",
+				"characters": [
+					{
+						"id": "029",
+						"name": "Iron Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/517abf9a23eb1.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "080",
+				"comiclist": [
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 509
+					}
+				]
+			},
+			{
+				"title": "Fear Itself",
+				"date": "2011-10-19",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4f7ddfc62178b.jpg",
+				"phaseid": "012",
+				"sortid": "081",
+				"comiclist": [
+					{
+						"collection": "Fear Itself",
+						"vol": 1,
+						"num": 7
+					}
+				]
+			},
+			{
+				"title": "Journey into Mystery",
+				"date": "2011-10-19",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Loki"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/5189528927be0.jpg",
+				"phaseid": "012",
+				"sortid": "082",
+				"comiclist": [
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 629
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Avengers Academy",
+				"date": "2011-10-26",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4ea875e4d4c6f.jpg",
+				"phaseid": "012",
+				"sortid": "083",
+				"comiclist": [
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 20
+					},
+					{
+						"collection": "Avengers Solo",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Avengers Solo",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Avengers Solo",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Avengers Solo",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Avengers Solo",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Journey into Mystery",
+				"date": "2011-10-26",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Loki"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/51895381add1e.jpg",
+				"phaseid": "012",
+				"sortid": "084",
+				"comiclist": [
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 630
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Thor",
+				"date": "2011-10-26",
+				"characters": [
+					{
+						"id": "036",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/5644ddeb9acad.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "085",
+				"comiclist": [
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 7
+					}
+				]
+			},
+			{
+				"title": "Fear Itself The Fellowship of Fear",
+				"date": "2011-08-10",
+				"characters": [
+					{
+						"id": "019",
+						"name": ""
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5644de5cc9a36.jpg",
+				"phaseid": "012",
+				"sortid": "086",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Fellowship of Fear",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "The Fearless",
+				"date": "2011-10-19",
+				"characters": [
+					{
+						"id": "183",
+						"name": "Valkyrie"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5644e29b71d7a.jpg",
+				"phaseid": "012",
+				"sortid": "087",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Fearless",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Shattered Heroes Avengers Academy",
+				"date": "2011-11-02",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/58d27e71339e7.jpg",
+				"phaseid": "012",
+				"sortid": "088",
+				"comiclist": [
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 21
+					}
+				]
+			},
+			{
+				"title": "The Fearless",
+				"date": "2011-11-02",
+				"characters": [
+					{
+						"id": "183",
+						"name": "Valkyrie"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4eb017863a540.jpg",
+				"phaseid": "012",
+				"sortid": "089",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Fearless",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Aftermath",
+				"date": "2011-11-09",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Loki"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/5189536c3b326.jpg",
+				"phaseid": "012",
+				"sortid": "090",
+				"comiclist": [
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 631
+					}
+				]
+			},
+			{
+				"title": "Battle Scars",
+				"date": "2011-11-09",
+				"characters": [
+					{
+						"id": "119",
+						"name": "Nick Fury"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/4ea9adac850ba.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "091",
+				"comiclist": [
+					{
+						"collection": "Battle Scars",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Hulk Asunder",
+				"date": "2011-10-26",
+				"characters": [
+					{
+						"id": "082",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/51965eb36bd89.jpg",
+				"phaseid": "012",
+				"sortid": "092",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulk",
+						"vol": 3,
+						"num": 1
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 3,
+						"num": 2
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 3,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Shattered Heroes Avengers Academy",
+				"date": "2011-11-16",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/51cca86a7a8d9.jpg",
+				"phaseid": "012",
+				"sortid": "093",
+				"comiclist": [
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 22
+					}
+				]
+			},
+			{
+				"title": "The Fearless",
+				"date": "2011-11-16",
+				"characters": [
+					{
+						"id": "183",
+						"name": "Valkyrie"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/52c5aaf7b6f66.jpg",
+				"phaseid": "012",
+				"sortid": "094",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Fearless",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Demon",
+				"date": "2011-11-23",
+				"characters": [
+					{
+						"id": "029",
+						"name": "Iron Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/517abfa4307b1.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "095",
+				"comiclist": [
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 510
+					}
+				]
+			},
+			{
+				"title": "Shattered Heroes Thor",
+				"date": "2011-11-23",
+				"characters": [
+					{
+						"id": "036",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/52c5a9e7721d6.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "096",
+				"comiclist": [
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 8
+					}
+				]
+			},
+			{
+				"title": "Breaker of Worlds",
+				"date": "2011-12-07",
+				"characters": [
+					{
+						"id": "144",
+						"name": "Defenders"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/51a5172d8e680.jpg",
+				"phaseid": "012",
+				"sortid": "097",
+				"comiclist": [
+					{
+						"collection": "Defenders",
+						"vol": 4,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "The Fearless",
+				"date": "2011-12-07",
+				"characters": [
+					{
+						"id": "183",
+						"name": "Valkyrie"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/52c5ab070ee25.jpg",
+				"phaseid": "012",
+				"sortid": "098",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Fearless",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Shattered Heroes Avengers Academy",
+				"date": "2011-12-14",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/51cca861e7100.jpg",
+				"phaseid": "012",
+				"sortid": "099",
+				"comiclist": [
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 23
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Aftermath",
+				"date": "2011-12-14",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Loki"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/518953a9bc9a7.jpg",
+				"phaseid": "012",
+				"sortid": "100",
+				"comiclist": [
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 632
+					}
+				]
+			},
+			{
+				"title": "Battle Scars",
+				"date": "2011-12-14",
+				"characters": [
+					{
+						"id": "119",
+						"name": "Nick Fury"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/51e3ff2db800b.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "101",
+				"comiclist": [
+					{
+						"collection": "Battle Scars",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Demon",
+				"date": "2011-12-21",
+				"characters": [
+					{
+						"id": "029",
+						"name": "Iron Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/517abfae35831.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "102",
+				"comiclist": [
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 511
+					}
+				]
+			},
+			{
+				"title": "The Fearless",
+				"date": "2011-12-21",
+				"characters": [
+					{
+						"id": "183",
+						"name": "Valkyrie"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/52c5ab13a2449.jpg",
+				"phaseid": "012",
+				"sortid": "103",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Fearless",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Shattered Heroes Thor",
+				"date": "2011-12-28",
+				"characters": [
+					{
+						"id": "036",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/52c5aa4e929bc.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "104",
+				"comiclist": [
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 9
+					}
+				]
+			},
+			{
+				"title": "American Dreamers",
+				"date": "2011-07-13",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/c0/517693166900f.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "105",
+				"comiclist": [
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 1
+					},
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 2
+					},
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 3
+					},
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 4
+					},
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Powerless",
+				"date": "2011-12-28",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/5168545f3df6f.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "106",
+				"comiclist": [
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 6
+					},
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 7
+					}
+				]
+			},
+			{
+				"title": "Shattered Heroes Avengers Academy",
+				"date": "2012-01-04",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/51cca9810c290.jpg",
+				"phaseid": "012",
+				"sortid": "107",
+				"comiclist": [
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 24
+					}
+				]
+			},
+			{
+				"title": "Breaker of Worlds",
+				"date": "2012-01-04",
+				"characters": [
+					{
+						"id": "144",
+						"name": "Defenders"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/51a517158610a.jpg",
+				"phaseid": "012",
+				"sortid": "108",
+				"comiclist": [
+					{
+						"collection": "Defenders",
+						"vol": 4,
+						"num": 2
+					},
+					{
+						"collection": "Defenders",
+						"vol": 4,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Aftermath",
+				"date": "2012-01-11",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Loki"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/518953a0ed906.jpg",
+				"phaseid": "012",
+				"sortid": "109",
+				"comiclist": [
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 633
+					}
+				]
+			},
+			{
+				"title": "Powerless",
+				"date": "2012-01-11",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/5168545011198.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "110",
+				"comiclist": [
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 7
+					},
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 8
+					},
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 9
+					},
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 10
+					}
+				]
+			},
+			{
+				"title": "Battle Scars",
+				"date": "2012-01-11",
+				"characters": [
+					{
+						"id": "119",
+						"name": "Nick Fury"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/515b3495b4367.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "111",
+				"comiclist": [
+					{
+						"collection": "Battle Scars",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Demon",
+				"date": "2012-01-18",
+				"characters": [
+					{
+						"id": "029",
+						"name": "Iron Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/517ac04f79e34.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "112",
+				"comiclist": [
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 512
+					}
+				]
+			},
+			{
+				"title": "Shattered Heroes Thor",
+				"date": "2012-01-25",
+				"characters": [
+					{
+						"id": "036",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/56bb6f0daec29.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "113",
+				"comiclist": [
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 10
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Aftermath",
+				"date": "2012-02-08",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Loki"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/518954251a7e2.jpg",
+				"phaseid": "012",
+				"sortid": "114",
+				"comiclist": [
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 634
+					}
+				]
+			},
+			{
+				"title": "Demon",
+				"date": "2012-02-15",
+				"characters": [
+					{
+						"id": "029",
+						"name": "Iron Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/517ac0652d637.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "115",
+				"comiclist": [
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 513
+					}
+				]
+			},
+			{
+				"title": "Shattered Heroes Thor",
+				"date": "2012-02-22",
+				"characters": [
+					{
+						"id": "036",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/56bba482aa6a0.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "116",
+				"comiclist": [
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 11
+					}
+				]
+			},
+			{
+				"title": "Fear Itself Aftermath",
+				"date": "2012-03-14",
+				"characters": [
+					{
+						"id": "055",
+						"name": "Loki"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/56bcb289c6c21.jpg",
+				"phaseid": "012",
+				"sortid": "117",
+				"comiclist": [
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 635
+					},
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 636
+					}
+				]
+			},
+			{
+				"title": "The Fearless",
+				"date": "2012-01-04",
+				"characters": [
+					{
+						"id": "183",
+						"name": "Valkyrie"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/50b381f3718b2.jpg",
+				"phaseid": "012",
+				"sortid": "118",
+				"comiclist": [
+					{
+						"collection": "Fear Itself The Fearless",
+						"vol": 1,
+						"num": 6
+					},
+					{
+						"collection": "Fear Itself The Fearless",
+						"vol": 1,
+						"num": 7
+					},
+					{
+						"collection": "Fear Itself The Fearless",
+						"vol": 1,
+						"num": 8
+					},
+					{
+						"collection": "Fear Itself The Fearless",
+						"vol": 1,
+						"num": 9
+					},
+					{
+						"collection": "Fear Itself The Fearless",
+						"vol": 1,
+						"num": 10
+					},
+					{
+						"collection": "Fear Itself The Fearless",
+						"vol": 1,
+						"num": 11
+					},
+					{
+						"collection": "Fear Itself The Fearless",
+						"vol": 1,
+						"num": 12
+					}
+				]
+			},
+			{
+				"title": "Battle Scars",
+				"date": "2012-02-08",
+				"characters": [
+					{
+						"id": "119",
+						"name": "Nick Fury"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/51e4003082311.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "119",
+				"comiclist": [
+					{
+						"collection": "Battle Scars",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Battle Scars",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Battle Scars",
+						"vol": 1,
+						"num": 6
+					}
+				]
+			},
+			{
 				"title": "The Children's Crusade",
 				"date": "2010-07-08",
 				"characters": [
@@ -44370,8 +47441,8 @@
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4f6210eddab18.jpg",
 				"essential": true,
-				"phaseid": "011",
-				"sortid": "169",
+				"phaseid": "012",
+				"sortid": "120",
 				"comiclist": [
 					{
 						"collection": "Avengers The Children's Crusade",
@@ -44422,6 +47493,42 @@
 						"collection": "Avengers The Children's Crusade",
 						"vol": 1,
 						"num": 9
+					}
+				]
+			},
+			{
+				"title": "Shattered Heroes Avengers",
+				"date": "2011-10-19",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/51685b56ac2e5.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "121",
+				"comiclist": [
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 18
+					},
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 19
+					},
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 20
+					},
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 21
 					}
 				]
 			}
