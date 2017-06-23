@@ -9648,8 +9648,8 @@
 				"name": "Matt Fraction"
 			},
 			{
-				"id": "615",
-				"name": "Christ Yost"
+				"id": "251",
+				"name": "Chris Yost"
 			},
 			{
 				"id": "250",
@@ -10331,11 +10331,11 @@
 		],
 		"creators": [
 			{
-				"id": "616",
+				"id": "615",
 				"name": "Jason Henderson"
 			},
 			{
-				"id": "617",
+				"id": "616",
 				"name": "Ivan Rodriguez"
 			}
 		],
@@ -10366,11 +10366,11 @@
 		],
 		"creators": [
 			{
-				"id": "616",
+				"id": "615",
 				"name": "Jason Henderson"
 			},
 			{
-				"id": "617",
+				"id": "616",
 				"name": "Ivan Rodriguez"
 			}
 		],
@@ -10401,11 +10401,11 @@
 		],
 		"creators": [
 			{
-				"id": "616",
+				"id": "615",
 				"name": "Jason Henderson"
 			},
 			{
-				"id": "617",
+				"id": "616",
 				"name": "Ivan Rodriguez"
 			}
 		],
@@ -10797,7 +10797,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "618",
+				"id": "617",
 				"name": "Declan Shalvey"
 			}
 		],
@@ -10836,7 +10836,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "618",
+				"id": "617",
 				"name": "Declan Shalvey"
 			}
 		],
@@ -11523,7 +11523,7 @@
 				"name": "Greg Pak"
 			},
 			{
-				"id": "619",
+				"id": "618",
 				"name": "Brian Ching"
 			}
 		],
@@ -14059,7 +14059,7 @@
 				"name": "Brian Michael Bendis"
 			},
 			{
-				"id": "620",
+				"id": "619",
 				"name": "Brian Hitch"
 			}
 		],
@@ -14085,7 +14085,7 @@
 		],
 		"creators": [
 			{
-				"id": "621",
+				"id": "620",
 				"name": "Marjorie Liu"
 			},
 			{
@@ -14114,7 +14114,7 @@
 		],
 		"creators": [
 			{
-				"id": "621",
+				"id": "620",
 				"name": "Marjorie Liu"
 			},
 			{
@@ -14143,7 +14143,7 @@
 		],
 		"creators": [
 			{
-				"id": "621",
+				"id": "620",
 				"name": "Marjorie Liu"
 			},
 			{
@@ -14172,7 +14172,7 @@
 		],
 		"creators": [
 			{
-				"id": "621",
+				"id": "620",
 				"name": "Marjorie Liu"
 			},
 			{
@@ -14201,7 +14201,7 @@
 		],
 		"creators": [
 			{
-				"id": "621",
+				"id": "620",
 				"name": "Marjorie Liu"
 			},
 			{
@@ -15091,7 +15091,7 @@
 				"name": "Rick Remender"
 			},
 			{
-				"id": "622",
+				"id": "621",
 				"name": "Andrea Mutti"
 			}
 		],
@@ -15149,7 +15149,7 @@
 				"name": "Stuart Moore"
 			},
 			{
-				"id": "623",
+				"id": "622",
 				"name": "Shane White"
 			}
 		],
@@ -15174,7 +15174,7 @@
 		],
 		"creators": [
 			{
-				"id": "624",
+				"id": "623",
 				"name": "John Ostrander"
 			},
 			{
@@ -15468,7 +15468,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "625",
+				"id": "624",
 				"name": "Ramon Rosanas"
 			}
 		],
@@ -16540,7 +16540,7 @@
 				"name": "Jason Aaron"
 			},
 			{
-				"id": "626",
+				"id": "625",
 				"name": "Renato Guedes"
 			}
 		],
@@ -16721,7 +16721,7 @@
 				"name": "Jason Aaron"
 			},
 			{
-				"id": "626",
+				"id": "625",
 				"name": "Renato Guedes"
 			}
 		],
@@ -16754,7 +16754,7 @@
 				"name": "Jason Aaron"
 			},
 			{
-				"id": "626",
+				"id": "625",
 				"name": "Renato Guedes"
 			}
 		],
@@ -16787,7 +16787,7 @@
 				"name": "Jason Aaron"
 			},
 			{
-				"id": "626",
+				"id": "625",
 				"name": "Renato Guedes"
 			}
 		],
@@ -16820,7 +16820,7 @@
 				"name": "Jason Aaron"
 			},
 			{
-				"id": "626",
+				"id": "625",
 				"name": "Renato Guedes"
 			}
 		],
@@ -16853,7 +16853,7 @@
 				"name": "Jason Aaron"
 			},
 			{
-				"id": "626",
+				"id": "625",
 				"name": "Renato Guedes"
 			}
 		],
@@ -16862,6 +16862,170 @@
 		"phaseid": "011",
 		"phasename": "Heroic Age",
 		"sortid": "088"
+	},
+	{
+		"id": "30232",
+		"collection": "Wolverine",
+		"title": "Wolverine vs The X-Men",
+		"vol": 4,
+		"num": 6,
+		"date": "2011-02-16",
+		"characters": [
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "087",
+				"name": "Mystique"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "420",
+				"name": "Daniel Acuña"
+			}
+		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/3/c0/589a261c665b5/detail.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "089"
+	},
+	{
+		"id": "30233",
+		"collection": "Wolverine",
+		"title": "Wolverine vs The X-Men",
+		"vol": 4,
+		"num": 7,
+		"date": "2011-03-30",
+		"characters": [
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "087",
+				"name": "Mystique"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "420",
+				"name": "Daniel Acuña"
+			}
+		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/3/e0/589a27793cd12/detail.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "089"
+	},
+	{
+		"id": "30234",
+		"collection": "Wolverine",
+		"title": "Wolverine vs The X-Men",
+		"vol": 4,
+		"num": 8,
+		"date": "2011-04-20",
+		"characters": [
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "087",
+				"name": "Mystique"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "420",
+				"name": "Daniel Acuña"
+			}
+		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/6/c0/589a283a9dc06/detail.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "089"
+	},
+	{
+		"id": "30235",
+		"collection": "Wolverine",
+		"title": "Wolverine vs The X-Men",
+		"vol": 4,
+		"num": 9,
+		"date": "2011-05-25",
+		"characters": [
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "087",
+				"name": "Mystique"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "420",
+				"name": "Daniel Acuña"
+			}
+		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/f/70/589a28faab4dc/detail.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Mystique dies"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "089"
+	},
+	{
+		"id": "39288",
+		"collection": "Wolverine",
+		"title": "Wolverine vs The X-Men",
+		"vol": 4,
+		"num": 5,
+		"date": "2011-02-09",
+		"characters": [
+			{
+				"id": "074",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "475",
+				"name": "Jefte Palo"
+			}
+		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/8/d0/4f4d22a0b67b4/detail.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "089"
 	},
 	{
 		"id": "30488",
@@ -16894,7 +17058,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "089"
+		"sortid": "090"
 	},
 	{
 		"id": "30489",
@@ -16927,7 +17091,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "089"
+		"sortid": "090"
 	},
 	{
 		"id": "30490",
@@ -16960,7 +17124,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "089"
+		"sortid": "090"
 	},
 	{
 		"id": "30491",
@@ -16993,7 +17157,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "089"
+		"sortid": "090"
 	},
 	{
 		"id": "30492",
@@ -17026,7 +17190,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "089"
+		"sortid": "090"
 	},
 	{
 		"id": "30493",
@@ -17059,7 +17223,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "089"
+		"sortid": "090"
 	},
 	{
 		"id": "36496",
@@ -17092,7 +17256,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "089"
+		"sortid": "090"
 	},
 	{
 		"id": "30705",
@@ -17129,7 +17293,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "090"
+		"sortid": "091"
 	},
 	{
 		"id": "30706",
@@ -17166,7 +17330,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "090"
+		"sortid": "091"
 	},
 	{
 		"id": "30707",
@@ -17203,7 +17367,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "090"
+		"sortid": "091"
 	},
 	{
 		"id": "30708",
@@ -17240,7 +17404,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "090"
+		"sortid": "091"
 	},
 	{
 		"id": "36305",
@@ -17282,7 +17446,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "091"
+		"sortid": "092"
 	},
 	{
 		"id": "30623",
@@ -17352,7 +17516,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "091"
+		"sortid": "092"
 	},
 	{
 		"id": "30624",
@@ -17422,7 +17586,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "091"
+		"sortid": "092"
 	},
 	{
 		"id": "30625",
@@ -17492,7 +17656,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "091"
+		"sortid": "092"
 	},
 	{
 		"id": "30626",
@@ -17562,7 +17726,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "091"
+		"sortid": "092"
 	},
 	{
 		"id": "29097",
@@ -17628,7 +17792,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "092"
+		"sortid": "093"
 	},
 	{
 		"id": "29098",
@@ -17694,7 +17858,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "092"
+		"sortid": "093"
 	},
 	{
 		"id": "29099",
@@ -17760,7 +17924,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "092"
+		"sortid": "093"
 	},
 	{
 		"id": "29100",
@@ -17826,7 +17990,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "092"
+		"sortid": "093"
 	},
 	{
 		"id": "29090",
@@ -17892,7 +18056,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "092"
+		"sortid": "093"
 	},
 	{
 		"id": "29091",
@@ -17930,7 +18094,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "092"
+		"sortid": "093"
 	},
 	{
 		"id": "29092",
@@ -17968,7 +18132,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "092"
+		"sortid": "093"
 	},
 	{
 		"id": "39853",
@@ -18017,7 +18181,7 @@
 		],
 		"creators": [
 			{
-				"id": "627",
+				"id": "626",
 				"name": "Nick Spencer"
 			},
 			{
@@ -18030,7 +18194,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "092"
+		"sortid": "093"
 	},
 	{
 		"id": "29869",
@@ -18067,7 +18231,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "093"
+		"sortid": "094"
 	},
 	{
 		"id": "29870",
@@ -18104,7 +18268,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "093"
+		"sortid": "094"
 	},
 	{
 		"id": "35672",
@@ -18141,7 +18305,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "093"
+		"sortid": "094"
 	},
 	{
 		"id": "35682",
@@ -18178,7 +18342,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "093"
+		"sortid": "094"
 	},
 	{
 		"id": "37339",
@@ -18207,7 +18371,7 @@
 				"name": "Jeff Parker"
 			},
 			{
-				"id": "618",
+				"id": "617",
 				"name": "Declan Shalvey"
 			}
 		],
@@ -18215,7 +18379,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "093"
+		"sortid": "094"
 	},
 	{
 		"id": "37336",
@@ -18252,7 +18416,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "093"
+		"sortid": "094"
 	},
 	{
 		"id": "35662",
@@ -18289,7 +18453,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "093"
+		"sortid": "094"
 	},
 	{
 		"id": "35650",
@@ -18326,7 +18490,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "093"
+		"sortid": "094"
 	},
 	{
 		"id": "30078",
@@ -18359,7 +18523,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "094"
+		"sortid": "095"
 	},
 	{
 		"id": "30082",
@@ -18392,7 +18556,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "094"
+		"sortid": "095"
 	},
 	{
 		"id": "30083",
@@ -18425,7 +18589,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "094"
+		"sortid": "095"
 	},
 	{
 		"id": "30084",
@@ -18458,7 +18622,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "094"
+		"sortid": "095"
 	},
 	{
 		"id": "30085",
@@ -18491,7 +18655,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "094"
+		"sortid": "095"
 	},
 	{
 		"id": "29057",
@@ -18520,7 +18684,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "095"
+		"sortid": "096"
 	},
 	{
 		"id": "29058",
@@ -18549,7 +18713,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "095"
+		"sortid": "096"
 	},
 	{
 		"id": "29059",
@@ -18578,7 +18742,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "095"
+		"sortid": "096"
 	},
 	{
 		"id": "32573",
@@ -18631,7 +18795,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "096"
+		"sortid": "097"
 	},
 	{
 		"id": "32581",
@@ -18684,7 +18848,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "096"
+		"sortid": "097"
 	},
 	{
 		"id": "32585",
@@ -18737,7 +18901,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "096"
+		"sortid": "097"
 	},
 	{
 		"id": "32586",
@@ -18793,7 +18957,7 @@
 		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "096"
+		"sortid": "097"
 	},
 	{
 		"id": "32589",
@@ -18842,7 +19006,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "097"
+		"sortid": "098"
 	},
 	{
 		"id": "39670",
@@ -18883,7 +19047,7 @@
 				"name": "Rick Remender"
 			},
 			{
-				"id": "628",
+				"id": "627",
 				"name": "Rafael Albuquerque"
 			}
 		],
@@ -18891,7 +19055,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "097"
+		"sortid": "098"
 	},
 	{
 		"id": "32591",
@@ -18940,7 +19104,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "097"
+		"sortid": "098"
 	},
 	{
 		"id": "32593",
@@ -18989,7 +19153,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "097"
+		"sortid": "098"
 	},
 	{
 		"id": "33875",
@@ -19020,7 +19184,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "098"
+		"sortid": "099"
 	},
 	{
 		"id": "36974",
@@ -19047,7 +19211,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "098"
+		"sortid": "099"
 	},
 	{
 		"id": "36112",
@@ -19078,7 +19242,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "099"
+		"sortid": "100"
 	},
 	{
 		"id": "34249",
@@ -19161,7 +19325,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "100"
+		"sortid": "101"
 	},
 	{
 		"id": "32192",
@@ -19244,7 +19408,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "100"
+		"sortid": "101"
 	},
 	{
 		"id": "36078",
@@ -19275,7 +19439,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "101"
+		"sortid": "102"
 	},
 	{
 		"id": "35561",
@@ -19314,7 +19478,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "102"
+		"sortid": "103"
 	},
 	{
 		"id": "35910",
@@ -19337,7 +19501,7 @@
 				"name": "Simon Spurrier"
 			},
 			{
-				"id": "629",
+				"id": "628",
 				"name": "Gabriel Hernandez Walta"
 			}
 		],
@@ -19345,7 +19509,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "103"
+		"sortid": "104"
 	},
 	{
 		"id": "32193",
@@ -19428,7 +19592,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "104"
+		"sortid": "105"
 	},
 	{
 		"id": "36079",
@@ -19459,7 +19623,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "105"
+		"sortid": "106"
 	},
 	{
 		"id": "36619",
@@ -19494,7 +19658,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "106"
+		"sortid": "107"
 	},
 	{
 		"id": "32196",
@@ -19577,7 +19741,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "107"
+		"sortid": "108"
 	},
 	{
 		"id": "37367",
@@ -19616,7 +19780,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "108"
+		"sortid": "109"
 	},
 	{
 		"id": "36077",
@@ -19647,7 +19811,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "109"
+		"sortid": "110"
 	},
 	{
 		"id": "36080",
@@ -19678,7 +19842,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "109"
+		"sortid": "110"
 	},
 	{
 		"id": "38325",
@@ -19761,7 +19925,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "110"
+		"sortid": "111"
 	},
 	{
 		"id": "29060",
@@ -19792,7 +19956,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "111"
+		"sortid": "112"
 	},
 	{
 		"id": "38325",
@@ -19871,7 +20035,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "112"
+		"sortid": "113"
 	},
 	{
 		"id": "35720",
@@ -19902,7 +20066,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "113"
+		"sortid": "114"
 	},
 	{
 		"id": "38115",
@@ -19935,7 +20099,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "113"
+		"sortid": "114"
 	},
 	{
 		"id": "36648",
@@ -19968,7 +20132,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "114"
+		"sortid": "115"
 	},
 	{
 		"id": "36650",
@@ -20001,7 +20165,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "114"
+		"sortid": "115"
 	},
 	{
 		"id": "36649",
@@ -20034,7 +20198,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "114"
+		"sortid": "115"
 	},
 	{
 		"id": "38072",
@@ -20067,7 +20231,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "114"
+		"sortid": "115"
 	},
 	{
 		"id": "36082",
@@ -20099,7 +20263,7 @@
 		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "115"
+		"sortid": "116"
 	},
 	{
 		"id": "36335",
@@ -20131,7 +20295,7 @@
 		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "115"
+		"sortid": "116"
 	},
 	{
 		"id": "36336",
@@ -20167,7 +20331,7 @@
 		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "115"
+		"sortid": "116"
 	},
 	{
 		"id": "36085",
@@ -20203,7 +20367,7 @@
 		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "115"
+		"sortid": "116"
 	},
 	{
 		"id": "36334",
@@ -20235,7 +20399,7 @@
 		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "116"
+		"sortid": "117"
 	},
 	{
 		"id": "35920",
@@ -20267,7 +20431,7 @@
 		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "116"
+		"sortid": "117"
 	},
 	{
 		"id": "36084",
@@ -20299,7 +20463,7 @@
 		],
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "116"
+		"sortid": "117"
 	},
 	{
 		"id": "36944",
@@ -20336,7 +20500,7 @@
 				"name": "James Asmus"
 			},
 			{
-				"id": "630",
+				"id": "629",
 				"name": "Nick Bradshaw"
 			}
 		],
@@ -20344,7 +20508,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "117"
+		"sortid": "118"
 	},
 	{
 		"id": "36943",
@@ -20389,7 +20553,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "117"
+		"sortid": "118"
 	},
 	{
 		"id": "36942",
@@ -20434,7 +20598,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "117"
+		"sortid": "118"
 	},
 	{
 		"id": "30709",
@@ -20491,7 +20655,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "118"
+		"sortid": "119"
 	},
 	{
 		"id": "29309",
@@ -20548,7 +20712,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "118"
+		"sortid": "119"
 	},
 	{
 		"id": "36427",
@@ -20609,7 +20773,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "118"
+		"sortid": "119"
 	},
 	{
 		"id": "30662",
@@ -20666,7 +20830,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "119"
+		"sortid": "120"
 	},
 	{
 		"id": "30663",
@@ -20715,7 +20879,7 @@
 				"name": "Peter David"
 			},
 			{
-				"id": "631",
+				"id": "630",
 				"name": "Emanuela Lupacchino"
 			}
 		],
@@ -20723,7 +20887,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "119"
+		"sortid": "120"
 	},
 	{
 		"id": "30664",
@@ -20772,7 +20936,7 @@
 				"name": "Peter David"
 			},
 			{
-				"id": "631",
+				"id": "630",
 				"name": "Emanuela Lupacchino"
 			}
 		],
@@ -20780,7 +20944,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "119"
+		"sortid": "120"
 	},
 	{
 		"id": "30665",
@@ -20829,7 +20993,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "119"
+		"sortid": "120"
 	},
 	{
 		"id": "30666",
@@ -20866,7 +21030,7 @@
 				"name": "Peter David"
 			},
 			{
-				"id": "631",
+				"id": "630",
 				"name": "Emanuela Lupacchino"
 			}
 		],
@@ -20874,7 +21038,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "119"
+		"sortid": "120"
 	},
 	{
 		"id": "30667",
@@ -20911,7 +21075,7 @@
 				"name": "Peter David"
 			},
 			{
-				"id": "631",
+				"id": "630",
 				"name": "Emanuela Lupacchino"
 			}
 		],
@@ -20919,7 +21083,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "119"
+		"sortid": "120"
 	},
 	{
 		"id": "30668",
@@ -20976,7 +21140,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "120"
+		"sortid": "121"
 	},
 	{
 		"id": "35292",
@@ -20997,7 +21161,7 @@
 				"name": "Peter David"
 			},
 			{
-				"id": "631",
+				"id": "630",
 				"name": "Emanuela Lupacchino"
 			}
 		],
@@ -21005,7 +21169,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "120"
+		"sortid": "121"
 	},
 	{
 		"id": "35293",
@@ -21042,7 +21206,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "120"
+		"sortid": "121"
 	},
 	{
 		"id": "35282",
@@ -21087,7 +21251,7 @@
 				"name": "Peter David"
 			},
 			{
-				"id": "631",
+				"id": "630",
 				"name": "Emanuela Lupacchino"
 			}
 		],
@@ -21095,7 +21259,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "120"
+		"sortid": "121"
 	},
 	{
 		"id": "35288",
@@ -21136,7 +21300,7 @@
 				"name": "Peter David"
 			},
 			{
-				"id": "631",
+				"id": "630",
 				"name": "Emanuela Lupacchino"
 			}
 		],
@@ -21144,7 +21308,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "120"
+		"sortid": "121"
 	},
 	{
 		"id": "35286",
@@ -21193,7 +21357,7 @@
 				"name": "Peter David"
 			},
 			{
-				"id": "631",
+				"id": "630",
 				"name": "Emanuela Lupacchino"
 			}
 		],
@@ -21201,7 +21365,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "120"
+		"sortid": "121"
 	},
 	{
 		"id": "35277",
@@ -21250,7 +21414,7 @@
 				"name": "Peter David"
 			},
 			{
-				"id": "631",
+				"id": "630",
 				"name": "Emanuela Lupacchino"
 			}
 		],
@@ -21258,7 +21422,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "120"
+		"sortid": "121"
 	},
 	{
 		"id": "35284",
@@ -21295,7 +21459,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "121"
+		"sortid": "122"
 	},
 	{
 		"id": "35276",
@@ -21344,7 +21508,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "121"
+		"sortid": "122"
 	},
 	{
 		"id": "35290",
@@ -21389,7 +21553,7 @@
 				"name": "Peter David"
 			},
 			{
-				"id": "631",
+				"id": "630",
 				"name": "Emanuela Lupacchino"
 			}
 		],
@@ -21397,7 +21561,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "121"
+		"sortid": "122"
 	},
 	{
 		"id": "35272",
@@ -21442,7 +21606,7 @@
 				"name": "Peter David"
 			},
 			{
-				"id": "631",
+				"id": "630",
 				"name": "Emanuela Lupacchino"
 			}
 		],
@@ -21450,7 +21614,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "121"
+		"sortid": "122"
 	},
 	{
 		"id": "35274",
@@ -21499,7 +21663,7 @@
 				"name": "Peter David"
 			},
 			{
-				"id": "631",
+				"id": "630",
 				"name": "Emanuela Lupacchino"
 			}
 		],
@@ -21507,7 +21671,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "121"
+		"sortid": "122"
 	},
 	{
 		"id": "39740",
@@ -21564,7 +21728,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "121"
+		"sortid": "122"
 	},
 	{
 		"id": "30246",
@@ -21581,7 +21745,7 @@
 		],
 		"creators": [
 			{
-				"id": "621",
+				"id": "620",
 				"name": "Marjorie Liu"
 			},
 			{
@@ -21593,7 +21757,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "122"
+		"sortid": "123"
 	},
 	{
 		"id": "30255",
@@ -21610,7 +21774,7 @@
 		],
 		"creators": [
 			{
-				"id": "621",
+				"id": "620",
 				"name": "Marjorie Liu"
 			},
 			{
@@ -21622,7 +21786,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "122"
+		"sortid": "123"
 	},
 	{
 		"id": "30259",
@@ -21639,7 +21803,7 @@
 		],
 		"creators": [
 			{
-				"id": "621",
+				"id": "620",
 				"name": "Marjorie Liu"
 			},
 			{
@@ -21651,7 +21815,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "122"
+		"sortid": "123"
 	},
 	{
 		"id": "30260",
@@ -21668,7 +21832,7 @@
 		],
 		"creators": [
 			{
-				"id": "621",
+				"id": "620",
 				"name": "Marjorie Liu"
 			},
 			{
@@ -21680,7 +21844,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "122"
+		"sortid": "123"
 	},
 	{
 		"id": "30261",
@@ -21697,7 +21861,7 @@
 		],
 		"creators": [
 			{
-				"id": "621",
+				"id": "620",
 				"name": "Marjorie Liu"
 			},
 			{
@@ -21709,7 +21873,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "122"
+		"sortid": "123"
 	},
 	{
 		"id": "30262",
@@ -21730,7 +21894,7 @@
 		],
 		"creators": [
 			{
-				"id": "621",
+				"id": "620",
 				"name": "Marjorie Liu"
 			},
 			{
@@ -21742,7 +21906,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "122"
+		"sortid": "123"
 	},
 	{
 		"id": "30263",
@@ -21763,7 +21927,7 @@
 		],
 		"creators": [
 			{
-				"id": "621",
+				"id": "620",
 				"name": "Marjorie Liu"
 			},
 			{
@@ -21775,7 +21939,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "122"
+		"sortid": "123"
 	},
 	{
 		"id": "30264",
@@ -21796,7 +21960,7 @@
 		],
 		"creators": [
 			{
-				"id": "621",
+				"id": "620",
 				"name": "Marjorie Liu"
 			},
 			{
@@ -21808,7 +21972,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "122"
+		"sortid": "123"
 	},
 	{
 		"id": "30061",
@@ -21837,7 +22001,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "123"
+		"sortid": "124"
 	},
 	{
 		"id": "30062",
@@ -21866,7 +22030,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "123"
+		"sortid": "124"
 	},
 	{
 		"id": "30063",
@@ -21887,7 +22051,7 @@
 				"name": "Daniel Way"
 			},
 			{
-				"id": "632",
+				"id": "631",
 				"name": "Agustin Padilla"
 			}
 		],
@@ -21895,7 +22059,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "123"
+		"sortid": "124"
 	},
 	{
 		"id": "30265",
@@ -21920,7 +22084,7 @@
 		],
 		"creators": [
 			{
-				"id": "621",
+				"id": "620",
 				"name": "Marjorie Liu"
 			},
 			{
@@ -21932,7 +22096,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "123"
+		"sortid": "124"
 	},
 	{
 		"id": "30064",
@@ -21969,7 +22133,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "123"
+		"sortid": "124"
 	},
 	{
 		"id": "30266",
@@ -21994,7 +22158,7 @@
 		],
 		"creators": [
 			{
-				"id": "621",
+				"id": "620",
 				"name": "Marjorie Liu"
 			},
 			{
@@ -22006,7 +22170,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "123"
+		"sortid": "124"
 	},
 	{
 		"id": "30065",
@@ -22043,7 +22207,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "123"
+		"sortid": "124"
 	},
 	{
 		"id": "31210",
@@ -22076,7 +22240,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "124"
+		"sortid": "125"
 	},
 	{
 		"id": "31219",
@@ -22109,7 +22273,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "124"
+		"sortid": "125"
 	},
 	{
 		"id": "31221",
@@ -22142,7 +22306,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "124"
+		"sortid": "125"
 	},
 	{
 		"id": "31222",
@@ -22175,7 +22339,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "124"
+		"sortid": "125"
 	},
 	{
 		"id": "31224",
@@ -22208,7 +22372,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "124"
+		"sortid": "125"
 	},
 	{
 		"id": "31227",
@@ -22241,7 +22405,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "124"
+		"sortid": "125"
 	},
 	{
 		"id": "37996",
@@ -22270,7 +22434,7 @@
 		"universe": "Earth-11326",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "38524",
@@ -22299,7 +22463,7 @@
 		"universe": "Earth-11326",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "38523",
@@ -22328,7 +22492,7 @@
 		"universe": "Earth-11326",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "36431",
@@ -22357,7 +22521,7 @@
 		"universe": "Earth-11326",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "36495",
@@ -22386,7 +22550,7 @@
 		"universe": "Earth-11326",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "36437",
@@ -22415,7 +22579,7 @@
 		"universe": "Earth-11326",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "36502",
@@ -22444,7 +22608,7 @@
 		"universe": "Earth-11326",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "36426",
@@ -22473,7 +22637,7 @@
 		"universe": "Earth-11326",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "36497",
@@ -22502,7 +22666,7 @@
 		"universe": "Earth-11326",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "36433",
@@ -22531,7 +22695,7 @@
 		"universe": "Earth-11326",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "36434",
@@ -22572,7 +22736,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "125"
+		"sortid": "126"
 	},
 	{
 		"id": "38317",
@@ -22613,7 +22777,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "126"
+		"sortid": "127"
 	},
 	{
 		"id": "38320",
@@ -22654,7 +22818,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "126"
+		"sortid": "127"
 	},
 	{
 		"id": "38318",
@@ -22699,7 +22863,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "126"
+		"sortid": "127"
 	},
 	{
 		"id": "38316",
@@ -22732,7 +22896,7 @@
 				"name": "Daniel Way"
 			},
 			{
-				"id": "630",
+				"id": "629",
 				"name": "Nick Bradshaw"
 			}
 		],
@@ -22740,7 +22904,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "126"
+		"sortid": "127"
 	},
 	{
 		"id": "38319",
@@ -22785,7 +22949,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "126"
+		"sortid": "127"
 	},
 	{
 		"id": "39328",
@@ -22818,7 +22982,7 @@
 				"name": "Daniel Way"
 			},
 			{
-				"id": "630",
+				"id": "629",
 				"name": "Nick Bradshaw"
 			}
 		],
@@ -22826,7 +22990,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "126"
+		"sortid": "127"
 	},
 	{
 		"id": "39329",
@@ -22871,7 +23035,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "126"
+		"sortid": "127"
 	},
 	{
 		"id": "39319",
@@ -22908,7 +23072,7 @@
 		"universe": "Earth-616",
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "126"
+		"sortid": "127"
 	},
 	{
 		"id": "30627",
@@ -22966,7 +23130,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "127"
+		"sortid": "128"
 	},
 	{
 		"id": "30628",
@@ -23024,136 +23188,62 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "127"
-	},
-	{
-		"id": "36642",
-		"collection": "Generation Hope",
-		"title": "The Ward",
-		"vol": 1,
-		"num": 6,
-		"date": "2011-04-20",
-		"characters": [
-			{
-				"id": "160",
-				"name": "Hope Summers"
-			},
-			{
-				"id": "068",
-				"name": "X-Men"
-			}
-		],
-		"creators": [
-			{
-				"id": "480",
-				"name": "Kieron Gillen"
-			},
-			{
-				"id": "397",
-				"name": "Salvador Espin"
-			}
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/518d20de62a81.jpg",
-		"universe": "Earth-616",
-		"phaseid": "011",
-		"phasename": "Heroic Age",
 		"sortid": "128"
 	},
 	{
-		"id": "36643",
-		"collection": "Generation Hope",
-		"title": "The Ward",
+		"id": "36329",
+		"collection": "Uncanny X-Men",
+		"title": "Quarantine",
 		"vol": 1,
-		"num": 7,
-		"date": "2011-05-18",
+		"num": 532,
+		"date": "2010-12-22",
 		"characters": [
-			{
-				"id": "160",
-				"name": "Hope Summers"
-			},
 			{
 				"id": "068",
 				"name": "X-Men"
+			},
+			{
+				"id": "073",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "091",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "092",
+				"name": "Colossus"
+			},
+			{
+				"id": "126",
+				"name": "Angel"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "104",
+				"name": "Storm"
 			}
 		],
 		"creators": [
 			{
-				"id": "480",
-				"name": "Kieron Gillen"
+				"id": "340",
+				"name": "Matt Fraction"
 			},
 			{
-				"id": "397",
-				"name": "Salvador Espin"
+				"id": "249",
+				"name": "Greg Land"
 			}
 		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/518d208367b59.jpg",
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/6/70/513f543f6f0d5/detail.jpg",
 		"universe": "Earth-616",
-		"phaseid": "011",
-		"phasename": "Heroic Age",
-		"sortid": "128"
-	},
-	{
-		"id": "36641",
-		"collection": "Generation Hope",
-		"title": "The Ward",
-		"vol": 1,
-		"num": 8,
-		"date": "2011-06-15",
-		"characters": [
-			{
-				"id": "160",
-				"name": "Hope Summers"
-			},
-			{
-				"id": "068",
-				"name": "X-Men"
-			}
-		],
-		"creators": [
-			{
-				"id": "480",
-				"name": "Kieron Gillen"
-			},
-			{
-				"id": "397",
-				"name": "Salvador Espin"
-			}
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/518d207c1e422.jpg",
-		"universe": "Earth-616",
-		"phaseid": "011",
-		"phasename": "Heroic Age",
-		"sortid": "128"
-	},
-	{
-		"id": "36640",
-		"collection": "Generation Hope",
-		"title": "The Ward",
-		"vol": 1,
-		"num": 9,
-		"date": "2011-07-20",
-		"characters": [
-			{
-				"id": "160",
-				"name": "Hope Summers"
-			},
-			{
-				"id": "068",
-				"name": "X-Men"
-			}
-		],
-		"creators": [
-			{
-				"id": "480",
-				"name": "Kieron Gillen"
-			},
-			{
-				"id": "597",
-				"name": "Jamie McKelvie"
-			}
-		],
-		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/518d206e7fc2f.jpg",
-		"universe": "Earth-616",
+		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
 		"sortid": "128"
@@ -23214,7 +23304,7 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
-		"sortid": "129"
+		"sortid": "128"
 	},
 	{
 		"id": "36323",
@@ -23272,6 +23362,138 @@
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
+		"sortid": "128"
+	},
+	{
+		"id": "36642",
+		"collection": "Generation Hope",
+		"title": "The Ward",
+		"vol": 1,
+		"num": 6,
+		"date": "2011-04-20",
+		"characters": [
+			{
+				"id": "160",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "397",
+				"name": "Salvador Espin"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/518d20de62a81.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "129"
+	},
+	{
+		"id": "36643",
+		"collection": "Generation Hope",
+		"title": "The Ward",
+		"vol": 1,
+		"num": 7,
+		"date": "2011-05-18",
+		"characters": [
+			{
+				"id": "160",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "397",
+				"name": "Salvador Espin"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/518d208367b59.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "129"
+	},
+	{
+		"id": "36641",
+		"collection": "Generation Hope",
+		"title": "The Ward",
+		"vol": 1,
+		"num": 8,
+		"date": "2011-06-15",
+		"characters": [
+			{
+				"id": "160",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "397",
+				"name": "Salvador Espin"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/518d207c1e422.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "129"
+	},
+	{
+		"id": "36640",
+		"collection": "Generation Hope",
+		"title": "The Ward",
+		"vol": 1,
+		"num": 9,
+		"date": "2011-07-20",
+		"characters": [
+			{
+				"id": "160",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "597",
+				"name": "Jamie McKelvie"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/518d206e7fc2f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
 		"sortid": "129"
 	},
 	{
@@ -23326,6 +23548,7 @@
 			}
 		],
 		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4d9622ca67f27.jpg",
+		"universe": "Earth-616",
 		"essential": true,
 		"phaseid": "011",
 		"phasename": "Heroic Age",
@@ -23738,7 +23961,7 @@
 				"name": "Paul Jenkins"
 			},
 			{
-				"id": "622",
+				"id": "621",
 				"name": "Andrea Mutti"
 			}
 		],
@@ -24783,7 +25006,7 @@
 				"name": "J M DeMatteis"
 			},
 			{
-				"id": "619",
+				"id": "618",
 				"name": "Brian Ching"
 			}
 		],
@@ -24808,11 +25031,11 @@
 		],
 		"creators": [
 			{
-				"id": "633",
+				"id": "632",
 				"name": "Brandon Montclare"
 			},
 			{
-				"id": "634",
+				"id": "633",
 				"name": "Michael Kaluta"
 			}
 		],
@@ -25075,7 +25298,7 @@
 				"name": "J M DeMatteis"
 			},
 			{
-				"id": "619",
+				"id": "618",
 				"name": "Brian Ching"
 			}
 		],
@@ -26226,7 +26449,7 @@
 				"name": "Rob Williams"
 			},
 			{
-				"id": "619",
+				"id": "618",
 				"name": "Brian Ching"
 			}
 		],
@@ -26255,7 +26478,7 @@
 				"name": "Rob Williams"
 			},
 			{
-				"id": "619",
+				"id": "618",
 				"name": "Brian Ching"
 			}
 		],
@@ -26284,7 +26507,7 @@
 				"name": "Rob Williams"
 			},
 			{
-				"id": "619",
+				"id": "618",
 				"name": "Brian Ching"
 			}
 		],
@@ -26313,7 +26536,7 @@
 				"name": "Rob Williams"
 			},
 			{
-				"id": "619",
+				"id": "618",
 				"name": "Brian Ching"
 			}
 		],
@@ -26342,7 +26565,7 @@
 				"name": "Rob Williams"
 			},
 			{
-				"id": "619",
+				"id": "618",
 				"name": "Brian Ching"
 			}
 		],
@@ -26657,7 +26880,7 @@
 		],
 		"creators": [
 			{
-				"id": "635",
+				"id": "634",
 				"name": "Kelly Sue DeConnick"
 			},
 			{
@@ -26754,7 +26977,7 @@
 		],
 		"creators": [
 			{
-				"id": "635",
+				"id": "634",
 				"name": "Kelly Sue DeConnick"
 			},
 			{
@@ -26843,7 +27066,7 @@
 		],
 		"creators": [
 			{
-				"id": "635",
+				"id": "634",
 				"name": "Kelly Sue DeConnick"
 			},
 			{
@@ -26996,7 +27219,7 @@
 		],
 		"creators": [
 			{
-				"id": "635",
+				"id": "634",
 				"name": "Kelly Sue DeConnick"
 			},
 			{
@@ -27116,7 +27339,7 @@
 				"name": "Paul Tobin"
 			},
 			{
-				"id": "636",
+				"id": "635",
 				"name": "Matthew Southworth"
 			}
 		],
@@ -27145,7 +27368,7 @@
 				"name": "Paul Tobin"
 			},
 			{
-				"id": "636",
+				"id": "635",
 				"name": "Matthew Southworth"
 			}
 		],
@@ -28035,7 +28258,7 @@
 		],
 		"creators": [
 			{
-				"id": "635",
+				"id": "634",
 				"name": "Kelly Sue DeConnick"
 			},
 			{
@@ -28651,11 +28874,11 @@
 		],
 		"creators": [
 			{
-				"id": "637",
+				"id": "636",
 				"name": "David Liss"
 			},
 			{
-				"id": "638",
+				"id": "637",
 				"name": "Francesco Francavilla"
 			}
 		],
@@ -28684,11 +28907,11 @@
 		],
 		"creators": [
 			{
-				"id": "637",
+				"id": "636",
 				"name": "David Liss"
 			},
 			{
-				"id": "638",
+				"id": "637",
 				"name": "Francesco Francavilla"
 			}
 		],
@@ -28717,11 +28940,11 @@
 		],
 		"creators": [
 			{
-				"id": "637",
+				"id": "636",
 				"name": "David Liss"
 			},
 			{
-				"id": "638",
+				"id": "637",
 				"name": "Francesco Francavilla"
 			}
 		],
@@ -28750,7 +28973,7 @@
 		],
 		"creators": [
 			{
-				"id": "637",
+				"id": "636",
 				"name": "David Liss"
 			},
 			{
@@ -28783,11 +29006,11 @@
 		],
 		"creators": [
 			{
-				"id": "637",
+				"id": "636",
 				"name": "David Liss"
 			},
 			{
-				"id": "638",
+				"id": "637",
 				"name": "Francesco Francavilla"
 			}
 		],
@@ -28816,11 +29039,11 @@
 		],
 		"creators": [
 			{
-				"id": "637",
+				"id": "636",
 				"name": "David Liss"
 			},
 			{
-				"id": "638",
+				"id": "637",
 				"name": "Francesco Francavilla"
 			}
 		],
@@ -28849,7 +29072,7 @@
 		],
 		"creators": [
 			{
-				"id": "637",
+				"id": "636",
 				"name": "David Liss"
 			},
 			{
@@ -28882,7 +29105,7 @@
 		],
 		"creators": [
 			{
-				"id": "637",
+				"id": "636",
 				"name": "David Liss"
 			},
 			{
@@ -28911,7 +29134,7 @@
 		],
 		"creators": [
 			{
-				"id": "627",
+				"id": "626",
 				"name": "Nick Spencer"
 			},
 			{
@@ -28940,7 +29163,7 @@
 		],
 		"creators": [
 			{
-				"id": "627",
+				"id": "626",
 				"name": "Nick Spencer"
 			},
 			{
@@ -28969,7 +29192,7 @@
 		],
 		"creators": [
 			{
-				"id": "627",
+				"id": "626",
 				"name": "Nick Spencer"
 			},
 			{
@@ -28998,7 +29221,7 @@
 		],
 		"creators": [
 			{
-				"id": "627",
+				"id": "626",
 				"name": "Nick Spencer"
 			},
 			{
@@ -29935,7 +30158,7 @@
 				"name": "Ed Brubaker"
 			},
 			{
-				"id": "639",
+				"id": "638",
 				"name": "Travis Charest"
 			}
 		],
@@ -30311,5 +30534,3608 @@
 		"phaseid": "011",
 		"phasename": "Heroic Age",
 		"sortid": "176"
+	},
+	{
+		"id": "32202",
+		"collection": "X-Men",
+		"title": "With Great Power",
+		"vol": 3,
+		"num": 7,
+		"date": "2011-01-26",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "126",
+				"name": "Angel"
+			},
+			{
+				"id": "092",
+				"name": "Colossus"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "073",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "104",
+				"name": "Storm"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			},
+			{
+				"id": "061",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "131",
+				"name": "Chris Bachalo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/58d12eb44d211.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "177"
+	},
+	{
+		"id": "32203",
+		"collection": "X-Men",
+		"title": "With Great Power",
+		"vol": 3,
+		"num": 8,
+		"date": "2011-02-23",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "126",
+				"name": "Angel"
+			},
+			{
+				"id": "092",
+				"name": "Colossus"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "073",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "104",
+				"name": "Storm"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			},
+			{
+				"id": "061",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "131",
+				"name": "Chris Bachalo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/58d12ffb1bb84.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "177"
+	},
+	{
+		"id": "32205",
+		"collection": "X-Men",
+		"title": "With Great Power",
+		"vol": 3,
+		"num": 9,
+		"date": "2011-03-23",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "126",
+				"name": "Angel"
+			},
+			{
+				"id": "092",
+				"name": "Colossus"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "073",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "104",
+				"name": "Storm"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			},
+			{
+				"id": "061",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "131",
+				"name": "Chris Bachalo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/03/58d13127f3233.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "177"
+	},
+	{
+		"id": "32187",
+		"collection": "X-Men",
+		"title": "With Great Power",
+		"vol": 3,
+		"num": 10,
+		"date": "2011-04-27",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "126",
+				"name": "Angel"
+			},
+			{
+				"id": "092",
+				"name": "Colossus"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "073",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "104",
+				"name": "Storm"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			},
+			{
+				"id": "061",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "131",
+				"name": "Chris Bachalo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/58d13238f23fd.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "177"
+	},
+	{
+		"id": "32186",
+		"collection": "X-Men",
+		"title": "With Great Power",
+		"vol": 3,
+		"num": 11,
+		"date": "2011-05-11",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "075",
+				"name": "Charles Xavier"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "639",
+				"name": "Al Barrionuevo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/58d13375f3b54.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "177"
+	},
+	{
+		"id": "38238",
+		"collection": "X-Men Giant-Size",
+		"title": "First to Last",
+		"vol": 1,
+		"num": 1,
+		"date": "2011-05-18",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "073",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "104",
+				"name": "Storm"
+			},
+			{
+				"id": "126",
+				"name": "Angel"
+			},
+			{
+				"id": "098",
+				"name": "Magneto"
+			},
+			{
+				"id": "130",
+				"name": "Iceman"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			},
+			{
+				"id": "092",
+				"name": "Colossus"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "251",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "077",
+				"name": "Paco Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/51e6f8737ed9b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "178"
+	},
+	{
+		"id": "32188",
+		"collection": "X-Men",
+		"title": "First to Last",
+		"vol": 3,
+		"num": 12,
+		"date": "2011-06-01",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "073",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "104",
+				"name": "Storm"
+			},
+			{
+				"id": "126",
+				"name": "Angel"
+			},
+			{
+				"id": "098",
+				"name": "Magneto"
+			},
+			{
+				"id": "130",
+				"name": "Iceman"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			},
+			{
+				"id": "092",
+				"name": "Colossus"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "251",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "077",
+				"name": "Paco Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/58d13465b5c13.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "178"
+	},
+	{
+		"id": "36448",
+		"collection": "X-Men",
+		"title": "First to Last",
+		"vol": 3,
+		"num": 13,
+		"date": "2011-06-15",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "073",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "104",
+				"name": "Storm"
+			},
+			{
+				"id": "126",
+				"name": "Angel"
+			},
+			{
+				"id": "098",
+				"name": "Magneto"
+			},
+			{
+				"id": "130",
+				"name": "Iceman"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			},
+			{
+				"id": "092",
+				"name": "Colossus"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "251",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "077",
+				"name": "Paco Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/58d1358da1c90.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "178"
+	},
+	{
+		"id": "36445",
+		"collection": "X-Men",
+		"title": "First to Last",
+		"vol": 3,
+		"num": 14,
+		"date": "2011-07-06",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "073",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "104",
+				"name": "Storm"
+			},
+			{
+				"id": "126",
+				"name": "Angel"
+			},
+			{
+				"id": "098",
+				"name": "Magneto"
+			},
+			{
+				"id": "130",
+				"name": "Iceman"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			},
+			{
+				"id": "092",
+				"name": "Colossus"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "251",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "077",
+				"name": "Paco Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/58d136a055782.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "178"
+	},
+	{
+		"id": "36447",
+		"collection": "X-Men",
+		"title": "First to Last",
+		"vol": 3,
+		"num": 15,
+		"date": "2011-07-20",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "073",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "104",
+				"name": "Storm"
+			},
+			{
+				"id": "126",
+				"name": "Angel"
+			},
+			{
+				"id": "098",
+				"name": "Magneto"
+			},
+			{
+				"id": "130",
+				"name": "Iceman"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			},
+			{
+				"id": "092",
+				"name": "Colossus"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "251",
+				"name": "Chris Yost"
+			},
+			{
+				"id": "077",
+				"name": "Paco Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/58d1378c4bfff.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "178"
+	},
+	{
+		"id": "40665",
+		"collection": "X-Men",
+		"title": "Betrayal In The Bermuda Triangle",
+		"vol": 3,
+		"num": 15,
+		"date": "2011-08-10",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "104",
+				"name": "Storm"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "065",
+				"name": "Will Conrad"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/58c1b24422c59.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "179"
+	},
+	{
+		"id": "36446",
+		"collection": "X-Men",
+		"title": "Betrayal In The Bermuda Triangle",
+		"vol": 3,
+		"num": 16,
+		"date": "2011-08-24",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "073",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "098",
+				"name": "Magneto"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "049",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "050",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "051",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "053",
+				"name": "Thing"
+			},
+			{
+				"id": "017",
+				"name": "Doctor Doom"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "419",
+				"name": "Jorge Molina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/58d138798c8ab.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "179"
+	},
+	{
+		"id": "36444",
+		"collection": "X-Men",
+		"title": "Betrayal In The Bermuda Triangle",
+		"vol": 3,
+		"num": 17,
+		"date": "2011-09-07",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "073",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "098",
+				"name": "Magneto"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "049",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "050",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "051",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "053",
+				"name": "Thing"
+			},
+			{
+				"id": "017",
+				"name": "Doctor Doom"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "419",
+				"name": "Jorge Molina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/58d139731a2e8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "179"
+	},
+	{
+		"id": "36443",
+		"collection": "X-Men",
+		"title": "Betrayal In The Bermuda Triangle",
+		"vol": 3,
+		"num": 18,
+		"date": "2011-09-21",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "073",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "098",
+				"name": "Magneto"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "049",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "050",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "051",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "053",
+				"name": "Thing"
+			},
+			{
+				"id": "017",
+				"name": "Doctor Doom"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "613",
+				"name": "Mirco Pierfederici"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/5159e09406f07.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "179"
+	},
+	{
+		"id": "38083",
+		"collection": "X-Men",
+		"title": "Betrayal In The Bermuda Triangle",
+		"vol": 3,
+		"num": 19,
+		"date": "2011-10-05",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "073",
+				"name": "Emma Frost"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "098",
+				"name": "Magneto"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "049",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "050",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "051",
+				"name": "Sue Storm"
+			},
+			{
+				"id": "053",
+				"name": "Thing"
+			},
+			{
+				"id": "017",
+				"name": "Doctor Doom"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "419",
+				"name": "Jorge Molina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/58d13b92afc9c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "179"
+	},
+	{
+		"id": "39854",
+		"collection": "Daken Dark Wolverine",
+		"title": "Big Break",
+		"vol": 1,
+		"num": 9,
+		"date": "2011-05-25",
+		"characters": [
+			{
+				"id": "147",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "328",
+				"name": "Ron Garney"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/4dd6866264146.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "180"
+	},
+	{
+		"id": "30055",
+		"collection": "Daken Dark Wolverine",
+		"title": "Big Break",
+		"vol": 1,
+		"num": 10,
+		"date": "2011-06-15",
+		"characters": [
+			{
+				"id": "147",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "640",
+				"name": "Matteo Buffagni"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/4d7a96633e051.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "180"
+	},
+	{
+		"id": "30056",
+		"collection": "Daken Dark Wolverine",
+		"title": "Big Break",
+		"vol": 1,
+		"num": 11,
+		"date": "2011-07-13",
+		"characters": [
+			{
+				"id": "147",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "640",
+				"name": "Matteo Buffagni"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/d0/4d9cddacb16ba.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "180"
+	},
+	{
+		"id": "30057",
+		"collection": "Daken Dark Wolverine",
+		"title": "Big Break",
+		"vol": 1,
+		"num": 12,
+		"date": "2011-08-10",
+		"characters": [
+			{
+				"id": "147",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "640",
+				"name": "Matteo Buffagni"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4dcae80748aba.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "180"
+	},
+	{
+		"id": "36477",
+		"collection": "Daken Dark Wolverine",
+		"title": "The Pride Comes Before the Fall",
+		"vol": 1,
+		"num": 13,
+		"date": "2011-08-24",
+		"characters": [
+			{
+				"id": "147",
+				"name": "Daken"
+			},
+			{
+				"id": "013",
+				"name": "Moon Knight"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "641",
+				"name": "Mick Bertilorenzi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4e4ec2ac5f99d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "181"
+	},
+	{
+		"id": "36473",
+		"collection": "Daken Dark Wolverine",
+		"title": "The Pride Comes Before the Fall",
+		"vol": 1,
+		"num": 14,
+		"date": "2011-09-14",
+		"characters": [
+			{
+				"id": "147",
+				"name": "Daken"
+			},
+			{
+				"id": "013",
+				"name": "Moon Knight"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "641",
+				"name": "Mick Bertilorenzi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4e68d35bc24c4.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "181"
+	},
+	{
+		"id": "36474",
+		"collection": "Daken Dark Wolverine",
+		"title": "The Pride Comes Before the Fall",
+		"vol": 1,
+		"num": 15,
+		"date": "2011-10-12",
+		"characters": [
+			{
+				"id": "147",
+				"name": "Daken"
+			},
+			{
+				"id": "013",
+				"name": "Moon Knight"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "641",
+				"name": "Mick Bertilorenzi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4e861db87bbf0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "181"
+	},
+	{
+		"id": "36476",
+		"collection": "Daken Dark Wolverine",
+		"title": "The Pride Comes Before the Fall",
+		"vol": 1,
+		"num": 16,
+		"date": "2011-10-26",
+		"characters": [
+			{
+				"id": "147",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "640",
+				"name": "Matteo Buffagni"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/56b378aa66850.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "181"
+	},
+	{
+		"id": "36475",
+		"collection": "Daken Dark Wolverine",
+		"title": "The Pride Comes Before the Fall",
+		"vol": 1,
+		"num": 17,
+		"date": "2011-11-23",
+		"characters": [
+			{
+				"id": "147",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "640",
+				"name": "Matteo Buffagni"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/56b8c185ad4f6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "181"
+	},
+	{
+		"id": "36472",
+		"collection": "Daken Dark Wolverine",
+		"title": "The Pride Comes Before the Fall",
+		"vol": 1,
+		"num": 18,
+		"date": "2011-12-21",
+		"characters": [
+			{
+				"id": "147",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "640",
+				"name": "Matteo Buffagni"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/56b8f36e52d53.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "181"
+	},
+	{
+		"id": "40525",
+		"collection": "Daken Dark Wolverine",
+		"title": "The Pride Comes Before the Fall",
+		"vol": 1,
+		"num": 19,
+		"date": "2012-01-11",
+		"characters": [
+			{
+				"id": "147",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "640",
+				"name": "Matteo Buffagni"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/56bb530eb8c66.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "181"
+	},
+	{
+		"id": "30180",
+		"collection": "Secret Warriors",
+		"title": "Night",
+		"vol": 1,
+		"num": 20,
+		"date": "2010-09-29",
+		"characters": [
+			{
+				"id": "175",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "119",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "120",
+				"name": "Quake"
+			},
+			{
+				"id": "186",
+				"name": "Phobos "
+			}
+		],
+		"creators": [
+			{
+				"id": "503",
+				"name": "Jonathan Hickman"
+			},
+			{
+				"id": "642",
+				"name": "Mirko Colak"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4f79b84578f18.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "182"
+	},
+	{
+		"id": "30181",
+		"collection": "Secret Warriors",
+		"title": "Night",
+		"vol": 1,
+		"num": 21,
+		"date": "2010-10-27",
+		"characters": [
+			{
+				"id": "175",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "119",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "120",
+				"name": "Quake"
+			},
+			{
+				"id": "186",
+				"name": "Phobos "
+			}
+		],
+		"creators": [
+			{
+				"id": "503",
+				"name": "Jonathan Hickman"
+			},
+			{
+				"id": "642",
+				"name": "Mirko Colak"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4f79bef17b050.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "182"
+	},
+	{
+		"id": "30182",
+		"collection": "Secret Warriors",
+		"title": "Night",
+		"vol": 1,
+		"num": 22,
+		"date": "2010-11-24",
+		"characters": [
+			{
+				"id": "175",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "119",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "120",
+				"name": "Quake"
+			},
+			{
+				"id": "186",
+				"name": "Phobos "
+			}
+		],
+		"creators": [
+			{
+				"id": "503",
+				"name": "Jonathan Hickman"
+			},
+			{
+				"id": "566",
+				"name": "Alessandro Vitti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/4f79c2b340662.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"comments": [
+			"Phobos dies"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "182"
+	},
+	{
+		"id": "30183",
+		"collection": "Secret Warriors",
+		"title": "Night",
+		"vol": 1,
+		"num": 23,
+		"date": "2010-12-29",
+		"characters": [
+			{
+				"id": "175",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "119",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "120",
+				"name": "Quake"
+			}
+		],
+		"creators": [
+			{
+				"id": "503",
+				"name": "Jonathan Hickman"
+			},
+			{
+				"id": "566",
+				"name": "Alessandro Vitti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4f79c73bb28c6.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "182"
+	},
+	{
+		"id": "30184",
+		"collection": "Secret Warriors",
+		"title": "Night",
+		"vol": 1,
+		"num": 24,
+		"date": "2011-01-26",
+		"characters": [
+			{
+				"id": "175",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "119",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "120",
+				"name": "Quake"
+			}
+		],
+		"creators": [
+			{
+				"id": "503",
+				"name": "Jonathan Hickman"
+			},
+			{
+				"id": "643",
+				"name": "David Marquez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/80/4f79c918c68af.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "182"
+	},
+	{
+		"id": "36492",
+		"collection": "Secret Warriors",
+		"title": "Wheels within Wheels",
+		"vol": 1,
+		"num": 25,
+		"date": "2011-03-02",
+		"characters": [
+			{
+				"id": "175",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "119",
+				"name": "Nick Fury"
+			}
+		],
+		"creators": [
+			{
+				"id": "503",
+				"name": "Jonathan Hickman"
+			},
+			{
+				"id": "566",
+				"name": "Alessandro Vitti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/51f68a9595f5b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "183"
+	},
+	{
+		"id": "36491",
+		"collection": "Secret Warriors",
+		"title": "Wheels within Wheels",
+		"vol": 1,
+		"num": 26,
+		"date": "2011-04-13",
+		"characters": [
+			{
+				"id": "175",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "119",
+				"name": "Nick Fury"
+			}
+		],
+		"creators": [
+			{
+				"id": "503",
+				"name": "Jonathan Hickman"
+			},
+			{
+				"id": "566",
+				"name": "Alessandro Vitti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/20/51f68a8968869.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "183"
+	},
+	{
+		"id": "36493",
+		"collection": "Secret Warriors",
+		"title": "Wheels within Wheels",
+		"vol": 1,
+		"num": 27,
+		"date": "2011-05-25",
+		"characters": [
+			{
+				"id": "175",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "119",
+				"name": "Nick Fury"
+			}
+		],
+		"creators": [
+			{
+				"id": "503",
+				"name": "Jonathan Hickman"
+			},
+			{
+				"id": "566",
+				"name": "Alessandro Vitti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/51f68a8062d4f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "183"
+	},
+	{
+		"id": "36494",
+		"collection": "Secret Warriors",
+		"title": "Wheels within Wheels",
+		"vol": 1,
+		"num": 28,
+		"date": "2011-07-27",
+		"characters": [
+			{
+				"id": "175",
+				"name": "Secret Warriors"
+			},
+			{
+				"id": "119",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "120",
+				"name": "Quake"
+			}
+		],
+		"creators": [
+			{
+				"id": "503",
+				"name": "Jonathan Hickman"
+			},
+			{
+				"id": "566",
+				"name": "Alessandro Vitti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/51f68a7199ba1.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "183"
+	},
+	{
+		"id": "38594",
+		"collection": "Venom",
+		"title": "New Hero",
+		"vol": 2,
+		"num": 1,
+		"date": "2011-03-09",
+		"characters": [
+			{
+				"id": "184",
+				"name": "Flash Thompson"
+			},
+			{
+				"id": "061",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "404",
+				"name": "Tony Moore"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/58de82045ce4e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "184"
+	},
+	{
+		"id": "38596",
+		"collection": "Venom",
+		"title": "New Hero",
+		"vol": 2,
+		"num": 2,
+		"date": "2011-04-27",
+		"characters": [
+			{
+				"id": "184",
+				"name": "Flash Thompson"
+			},
+			{
+				"id": "061",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "404",
+				"name": "Tony Moore"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/58de8230c1875.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "184"
+	},
+	{
+		"id": "38597",
+		"collection": "Venom",
+		"title": "New Hero",
+		"vol": 2,
+		"num": 3,
+		"date": "2011-05-25",
+		"characters": [
+			{
+				"id": "184",
+				"name": "Flash Thompson"
+			},
+			{
+				"id": "061",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "593",
+				"name": "Tom Fowler"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/58de8252bd1ea.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "184"
+	},
+	{
+		"id": "38595",
+		"collection": "Venom",
+		"title": "New Hero",
+		"vol": 2,
+		"num": 4,
+		"date": "2011-06-29",
+		"characters": [
+			{
+				"id": "184",
+				"name": "Flash Thompson"
+			},
+			{
+				"id": "061",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "404",
+				"name": "Tony Moore"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/58de826bbacf8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "184"
+	},
+	{
+		"id": "38593",
+		"collection": "Venom",
+		"title": "New Hero",
+		"vol": 2,
+		"num": 5,
+		"date": "2011-07-27",
+		"characters": [
+			{
+				"id": "184",
+				"name": "Flash Thompson"
+			},
+			{
+				"id": "061",
+				"name": "Spider-Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "404",
+				"name": "Tony Moore"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/58de82258739a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "184"
+	},
+	{
+		"id": "30256",
+		"collection": "X-23",
+		"title": "Chaos Theory",
+		"vol": 3,
+		"num": 10,
+		"date": "2011-05-18",
+		"characters": [
+			{
+				"id": "105",
+				"name": "X-23"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			}
+		],
+		"creators": [
+			{
+				"id": "620",
+				"name": "Marjorie Liu"
+			},
+			{
+				"id": "505",
+				"name": "Sana Takeda"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/51eeb154abf11.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "185"
+	},
+	{
+		"id": "30257",
+		"collection": "X-23",
+		"title": "Chaos Theory",
+		"vol": 3,
+		"num": 11,
+		"date": "2011-06-01",
+		"characters": [
+			{
+				"id": "105",
+				"name": "X-23"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			}
+		],
+		"creators": [
+			{
+				"id": "620",
+				"name": "Marjorie Liu"
+			},
+			{
+				"id": "505",
+				"name": "Sana Takeda"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/51eeb231757dd.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "185"
+	},
+	{
+		"id": "30258",
+		"collection": "X-23",
+		"title": "Chaos Theory",
+		"vol": 3,
+		"num": 12,
+		"date": "2011-07-06",
+		"characters": [
+			{
+				"id": "105",
+				"name": "X-23"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			}
+		],
+		"creators": [
+			{
+				"id": "620",
+				"name": "Marjorie Liu"
+			},
+			{
+				"id": "505",
+				"name": "Sana Takeda"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/51eeb23fc3e5a.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "185"
+	},
+	{
+		"id": "36465",
+		"collection": "X-23",
+		"title": "Chaos Theory",
+		"vol": 3,
+		"num": 13,
+		"date": "2011-08-03",
+		"characters": [
+			{
+				"id": "105",
+				"name": "X-23"
+			},
+			{
+				"id": "049",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "050",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "187",
+				"name": "Sue Stor"
+			},
+			{
+				"id": "053",
+				"name": "Thing"
+			}
+		],
+		"creators": [
+			{
+				"id": "620",
+				"name": "Marjorie Liu"
+			},
+			{
+				"id": "410",
+				"name": "Phil Noto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/51eeb24a29a4f.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "185"
+	},
+	{
+		"id": "36461",
+		"collection": "X-23",
+		"title": "Chaos Theory",
+		"vol": 3,
+		"num": 14,
+		"date": "2011-09-07",
+		"characters": [
+			{
+				"id": "105",
+				"name": "X-23"
+			},
+			{
+				"id": "049",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "050",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "187",
+				"name": "Sue Stor"
+			},
+			{
+				"id": "053",
+				"name": "Thing"
+			}
+		],
+		"creators": [
+			{
+				"id": "620",
+				"name": "Marjorie Liu"
+			},
+			{
+				"id": "410",
+				"name": "Phil Noto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/51eeb255aa457.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "185"
+	},
+	{
+		"id": "36464",
+		"collection": "X-23",
+		"title": "Chaos Theory",
+		"vol": 3,
+		"num": 15,
+		"date": "2011-10-05",
+		"characters": [
+			{
+				"id": "105",
+				"name": "X-23"
+			},
+			{
+				"id": "049",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "050",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "187",
+				"name": "Sue Stor"
+			},
+			{
+				"id": "053",
+				"name": "Thing"
+			}
+		],
+		"creators": [
+			{
+				"id": "620",
+				"name": "Marjorie Liu"
+			},
+			{
+				"id": "410",
+				"name": "Phil Noto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/51eeb35007fce.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "185"
+	},
+	{
+		"id": "36460",
+		"collection": "X-23",
+		"title": "Chaos Theory",
+		"vol": 3,
+		"num": 16,
+		"date": "2011-11-02",
+		"characters": [
+			{
+				"id": "105",
+				"name": "X-23"
+			},
+			{
+				"id": "049",
+				"name": "Fantastic Four"
+			},
+			{
+				"id": "050",
+				"name": "Reed Richards"
+			},
+			{
+				"id": "187",
+				"name": "Sue Stor"
+			},
+			{
+				"id": "053",
+				"name": "Thing"
+			}
+		],
+		"creators": [
+			{
+				"id": "620",
+				"name": "Marjorie Liu"
+			},
+			{
+				"id": "410",
+				"name": "Phil Noto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/51eeb3e4405a6.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "185"
+	},
+	{
+		"id": "36463",
+		"collection": "X-23",
+		"title": "Don't Look Back",
+		"vol": 3,
+		"num": 17,
+		"date": "2017-04-24",
+		"characters": [
+			{
+				"id": "105",
+				"name": "X-23"
+			}
+		],
+		"creators": [
+			{
+				"id": "620",
+				"name": "Marjorie Liu"
+			},
+			{
+				"id": "505",
+				"name": "Sana Takeda"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/51eeb3f68477f.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "186"
+	},
+	{
+		"id": "36462",
+		"collection": "X-23",
+		"title": "Don't Look Back",
+		"vol": 3,
+		"num": 18,
+		"date": "2011-12-07",
+		"characters": [
+			{
+				"id": "105",
+				"name": "X-23"
+			}
+		],
+		"creators": [
+			{
+				"id": "620",
+				"name": "Marjorie Liu"
+			},
+			{
+				"id": "505",
+				"name": "Sana Takeda"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/51eeb404d4178.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "186"
+	},
+	{
+		"id": "40587",
+		"collection": "X-23",
+		"title": "Don't Look Back",
+		"vol": 3,
+		"num": 19,
+		"date": "2011-12-21",
+		"characters": [
+			{
+				"id": "105",
+				"name": "X-23"
+			}
+		],
+		"creators": [
+			{
+				"id": "620",
+				"name": "Marjorie Liu"
+			},
+			{
+				"id": "505",
+				"name": "Sana Takeda"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/51001ad5668bf.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "186"
+	},
+	{
+		"id": "40577",
+		"collection": "X-23",
+		"title": "Don't Look Back",
+		"vol": 3,
+		"num": 20,
+		"date": "2012-01-04",
+		"characters": [
+			{
+				"id": "105",
+				"name": "X-23"
+			}
+		],
+		"creators": [
+			{
+				"id": "620",
+				"name": "Marjorie Liu"
+			},
+			{
+				"id": "410",
+				"name": "Phil Noto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/56bb4d2d5a317.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "186"
+	},
+	{
+		"id": "40578",
+		"collection": "X-23",
+		"title": "Don't Look Back",
+		"vol": 3,
+		"num": 21,
+		"date": "2012-03-14",
+		"characters": [
+			{
+				"id": "105",
+				"name": "X-23"
+			}
+		],
+		"creators": [
+			{
+				"id": "620",
+				"name": "Marjorie Liu"
+			},
+			{
+				"id": "410",
+				"name": "Phil Noto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/56bcb8d0cd6b7.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "186"
+	},
+	{
+		"id": "34954",
+		"collection": "Daredevil Reborn",
+		"title": "Reborn",
+		"vol": 1,
+		"num": 1,
+		"date": "2011-01-12",
+		"characters": [
+			{
+				"id": "004",
+				"name": "Daredevil"
+			}
+		],
+		"creators": [
+			{
+				"id": "492",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "644",
+				"name": "Davide Gianfelice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4d6e770821d12.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "187"
+	},
+	{
+		"id": "36200",
+		"collection": "Daredevil Reborn",
+		"title": "Reborn",
+		"vol": 1,
+		"num": 2,
+		"date": "2011-02-16",
+		"characters": [
+			{
+				"id": "004",
+				"name": "Daredevil"
+			}
+		],
+		"creators": [
+			{
+				"id": "492",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "644",
+				"name": "Davide Gianfelice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4cd9a99e590f5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "187"
+	},
+	{
+		"id": "34939",
+		"collection": "Daredevil Reborn",
+		"title": "Reborn",
+		"vol": 1,
+		"num": 3,
+		"date": "2011-03-23",
+		"characters": [
+			{
+				"id": "004",
+				"name": "Daredevil"
+			}
+		],
+		"creators": [
+			{
+				"id": "492",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "644",
+				"name": "Davide Gianfelice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/50b388b09eee0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "187"
+	},
+	{
+		"id": "36198",
+		"collection": "Daredevil Reborn",
+		"title": "Reborn",
+		"vol": 1,
+		"num": 4,
+		"date": "2011-05-11",
+		"characters": [
+			{
+				"id": "004",
+				"name": "Daredevil"
+			}
+		],
+		"creators": [
+			{
+				"id": "492",
+				"name": "Andy Diggle"
+			},
+			{
+				"id": "644",
+				"name": "Davide Gianfelice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4d35aca95f305.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "187"
+	},
+	{
+		"id": "36508",
+		"collection": "Daredevil",
+		"title": "Smile of the Devil",
+		"vol": 3,
+		"num": 1,
+		"date": "2011-07-20",
+		"characters": [
+			{
+				"id": "004",
+				"name": "Daredevil"
+			}
+		],
+		"creators": [
+			{
+				"id": "133",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "464",
+				"name": "Paolo Rivera"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/55e084285ba2b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "188"
+	},
+	{
+		"id": "36507",
+		"collection": "Daredevil",
+		"title": "Smile of the Devil",
+		"vol": 3,
+		"num": 2,
+		"date": "2011-08-17",
+		"characters": [
+			{
+				"id": "004",
+				"name": "Daredevil"
+			}
+		],
+		"creators": [
+			{
+				"id": "133",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "464",
+				"name": "Paolo Rivera"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4f7df9b03d61a.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "188"
+	},
+	{
+		"id": "36506",
+		"collection": "Daredevil",
+		"title": "Smile of the Devil",
+		"vol": 3,
+		"num": 3,
+		"date": "2011-09-14",
+		"characters": [
+			{
+				"id": "004",
+				"name": "Daredevil"
+			}
+		],
+		"creators": [
+			{
+				"id": "133",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "464",
+				"name": "Paolo Rivera"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4f7dfa648a3a9.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "188"
+	},
+	{
+		"id": "36509",
+		"collection": "Daredevil",
+		"title": "Smile of the Devil",
+		"vol": 3,
+		"num": 4,
+		"date": "2011-09-21",
+		"characters": [
+			{
+				"id": "004",
+				"name": "Daredevil"
+			}
+		],
+		"creators": [
+			{
+				"id": "133",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "295",
+				"name": "Marcos Martin"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4f7dfaea1e432.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "188"
+	},
+	{
+		"id": "36516",
+		"collection": "Daredevil",
+		"title": "Smile of the Devil",
+		"vol": 3,
+		"num": 5,
+		"date": "2011-10-26",
+		"characters": [
+			{
+				"id": "004",
+				"name": "Daredevil"
+			}
+		],
+		"creators": [
+			{
+				"id": "133",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "295",
+				"name": "Marcos Martin"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4f7dfb4b25fe6.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "188"
+	},
+	{
+		"id": "36517",
+		"collection": "Daredevil",
+		"title": "Smile of the Devil",
+		"vol": 3,
+		"num": 6,
+		"date": "2011-11-30",
+		"characters": [
+			{
+				"id": "004",
+				"name": "Daredevil"
+			}
+		],
+		"creators": [
+			{
+				"id": "133",
+				"name": "Mark Waid"
+			},
+			{
+				"id": "295",
+				"name": "Marcos Martin"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/56b8c9504daf1.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "188"
+	},
+	{
+		"id": "31182",
+		"collection": "Deadpool Team-Up",
+		"title": "BFF's",
+		"vol": 1,
+		"num": 886,
+		"date": "2010-12-29",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "090",
+				"name": "Iron Fist"
+			}
+		],
+		"creators": [
+			{
+				"id": "645",
+				"name": "Shane McCarthy"
+			},
+			{
+				"id": "117",
+				"name": "Nick Dragotta"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/563d00fe5fa4d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "189"
+	},
+	{
+		"id": "35990",
+		"collection": "Deadpool Team-Up",
+		"title": "BFF's",
+		"vol": 1,
+		"num": 885,
+		"date": "2011-02-09",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "429",
+				"name": "Rick Spears"
+			},
+			{
+				"id": "646",
+				"name": "Phillip Bond"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/564f4b59a26a2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "189"
+	},
+	{
+		"id": "36004",
+		"collection": "Deadpool Team-Up",
+		"title": "BFF's",
+		"vol": 1,
+		"num": 884,
+		"date": "2011-02-23",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "060",
+				"name": "Tom Peyer"
+			},
+			{
+				"id": "647",
+				"name": "Jacob Chabot"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/564f4cc226010.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "189"
+	},
+	{
+		"id": "35992",
+		"collection": "Deadpool Team-Up",
+		"title": "BFF's",
+		"vol": 1,
+		"num": 883,
+		"date": "2011-03-30",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "100",
+				"name": "Galactus"
+			}
+		],
+		"creators": [
+			{
+				"id": "172",
+				"name": "Skottie Young"
+			},
+			{
+				"id": "648",
+				"name": "Ramon Perez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/563d009a4e43c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "189"
+	},
+	{
+		"id": "30158",
+		"collection": "Prelude to Deadpool Corps",
+		"title": "Prelude to Deadpool Corps",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-03-03",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "241",
+				"name": "Rob Liefeld"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4ba965b0525c3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "190"
+	},
+	{
+		"id": "30159",
+		"collection": "Prelude to Deadpool Corps",
+		"title": "Prelude to Deadpool Corps",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-03-10",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "649",
+				"name": "Whilce Potacio"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4ba95e4b5fda4.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "190"
+	},
+	{
+		"id": "30160",
+		"collection": "Prelude to Deadpool Corps",
+		"title": "Prelude to Deadpool Corps",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-03-17",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "646",
+				"name": "Phillip Bond"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4ba965a722303.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "190"
+	},
+	{
+		"id": "30161",
+		"collection": "Prelude to Deadpool Corps",
+		"title": "Prelude to Deadpool Corps",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-03-24",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "077",
+				"name": "Paco Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4ba965a292f1c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "190"
+	},
+	{
+		"id": "30162",
+		"collection": "Prelude to Deadpool Corps",
+		"title": "Prelude to Deadpool Corps",
+		"vol": 1,
+		"num": 5,
+		"date": "2010-03-31",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "650",
+				"name": "Kyle Baker"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/4ba9659e0398c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "190"
+	},
+	{
+		"id": "30071",
+		"collection": "Deadpool Corps",
+		"title": "Pool-pocalypse Now",
+		"vol": 1,
+		"num": 1,
+		"date": "2010-04-07",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "241",
+				"name": "Rob Liefeld"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/569e7763eaecd.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "191"
+	},
+	{
+		"id": "30072",
+		"collection": "Deadpool Corps",
+		"title": "Pool-pocalypse Now",
+		"vol": 1,
+		"num": 2,
+		"date": "2010-05-05",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "241",
+				"name": "Rob Liefeld"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4ba9294379c2f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "191"
+	},
+	{
+		"id": "30073",
+		"collection": "Deadpool Corps",
+		"title": "Pool-pocalypse Now",
+		"vol": 1,
+		"num": 3,
+		"date": "2010-06-09",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "241",
+				"name": "Rob Liefeld"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4ba94d33af169.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "191"
+	},
+	{
+		"id": "30074",
+		"collection": "Deadpool Corps",
+		"title": "Pool-pocalypse Now",
+		"vol": 1,
+		"num": 4,
+		"date": "2010-07-14",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "241",
+				"name": "Rob Liefeld"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4bc5da23b5512.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "191"
+	},
+	{
+		"id": "30075",
+		"collection": "Deadpool Corps",
+		"title": "Pool-pocalypse Now",
+		"vol": 1,
+		"num": 5,
+		"date": "2010-08-18",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "241",
+				"name": "Rob Liefeld"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4beacac989726.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "191"
+	},
+	{
+		"id": "30076",
+		"collection": "Deadpool Corps",
+		"title": "Pool-pocalypse Now",
+		"vol": 1,
+		"num": 6,
+		"date": "2010-09-09",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "651",
+				"name": "Marat Mychaels"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4c0fd429591d1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "191"
+	},
+	{
+		"id": "30280",
+		"collection": "Deadpool Corps",
+		"title": "You Say You Want A Revolution",
+		"vol": 1,
+		"num": 7,
+		"date": "2010-10-13",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "241",
+				"name": "Rob Liefeld"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4c44a5e9d757e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "192"
+	},
+	{
+		"id": "30281",
+		"collection": "Deadpool Corps",
+		"title": "You Say You Want A Revolution",
+		"vol": 1,
+		"num": 8,
+		"date": "2010-11-17",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "241",
+				"name": "Rob Liefeld"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/4c647eae8b98d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "192"
+	},
+	{
+		"id": "30282",
+		"collection": "Deadpool Corps",
+		"title": "You Say You Want A Revolution",
+		"vol": 1,
+		"num": 9,
+		"date": "2010-12-15",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "241",
+				"name": "Rob Liefeld"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4c90f7a2cd536.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "192"
+	},
+	{
+		"id": "36977",
+		"collection": "Deadpool Corps",
+		"title": "You Say You Want A Revolution",
+		"vol": 1,
+		"num": 10,
+		"date": "2011-01-26",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "651",
+				"name": "Marat Mychaels"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4cb60bbc11929.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "192"
+	},
+	{
+		"id": "36978",
+		"collection": "Deadpool Corps",
+		"title": "You Say You Want A Revolution",
+		"vol": 1,
+		"num": 11,
+		"date": "2011-02-23",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "651",
+				"name": "Marat Mychaels"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4d4841c501db6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "192"
+	},
+	{
+		"id": "36976",
+		"collection": "Deadpool Corps",
+		"title": "You Say You Want A Revolution",
+		"vol": 1,
+		"num": 12,
+		"date": "2011-03-30",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "550",
+				"name": "Victor Gischler"
+			},
+			{
+				"id": "651",
+				"name": "Marat Mychaels"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4d87b271f216a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "192"
+	},
+	{
+		"id": "35694",
+		"collection": "Deadpool",
+		"title": "Space Oddity",
+		"vol": 2,
+		"num": 32,
+		"date": "2011-01-26",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "652",
+				"name": "Sheldon Vella"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5739cb1ab2f20.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "193"
+	},
+	{
+		"id": "35722",
+		"collection": "Deadpool",
+		"title": "Space Oddity",
+		"vol": 2,
+		"num": 33,
+		"date": "2011-02-23",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "481",
+				"name": "Carlo Barberi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/51a4fee007ab9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "193"
+	},
+	{
+		"id": "39590",
+		"collection": "Deadpool",
+		"title": "Space Oddity",
+		"vol": 2,
+		"num": 33,
+		"date": "2011-02-23",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "502",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/51a4fee007ab9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "193"
+	},
+	{
+		"id": "35705",
+		"collection": "Deadpool",
+		"title": "Space Oddity",
+		"vol": 2,
+		"num": 34,
+		"date": "2011-03-23",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "481",
+				"name": "Carlo Barberi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/51a4fee0787dd.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "193"
+	},
+	{
+		"id": "35676",
+		"collection": "Deadpool",
+		"title": "Space Oddity",
+		"vol": 2,
+		"num": 35,
+		"date": "2011-04-13",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "481",
+				"name": "Carlo Barberi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/51a4fed0bf857.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "193"
+	},
+	{
+		"id": "35708",
+		"collection": "Deadpool",
+		"title": "Space Oddity",
+		"vol": 2,
+		"num": 36,
+		"date": "2011-04-27",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "652",
+				"name": "Sheldon Vella"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/51a4fffe95b7b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "193"
+	},
+	{
+		"id": "35713",
+		"collection": "Deadpool",
+		"title": "Operation Annihilation",
+		"vol": 2,
+		"num": 37,
+		"date": "2011-05-25",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "082",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "502",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/51a4fff91217f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "194"
+	},
+	{
+		"id": "35715",
+		"collection": "Deadpool",
+		"title": "Operation Annihilation",
+		"vol": 2,
+		"num": 38,
+		"date": "2011-06-08",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "082",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "502",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/51a4ffe9308f3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "194"
+	},
+	{
+		"id": "35712",
+		"collection": "Deadpool",
+		"title": "Operation Annihilation",
+		"vol": 2,
+		"num": 39,
+		"date": "2011-06-22",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "082",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "502",
+				"name": "Bong Dazo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/51a4ffe999b85.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "194"
+	},
+	{
+		"id": "35703",
+		"collection": "Deadpool",
+		"title": "Operation Annihilation",
+		"vol": 2,
+		"num": 40,
+		"date": "2011-07-13",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "481",
+				"name": "Carlo Barberi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/51a4ffda1c3f0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "194"
+	},
+	{
+		"id": "35702",
+		"collection": "Deadpool",
+		"title": "Operation Annihilation",
+		"vol": 2,
+		"num": 41,
+		"date": "2011-08-10",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "481",
+				"name": "Carlo Barberi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/51a500ce848fa.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "194"
+	},
+	{
+		"id": "35706",
+		"collection": "Deadpool",
+		"title": "Operation Annihilation",
+		"vol": 2,
+		"num": 42,
+		"date": "2011-08-24",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "481",
+				"name": "Carlo Barberi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/51a500dce2b64.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "194"
+	},
+	{
+		"id": "38094",
+		"collection": "Deadpool",
+		"title": "Operation Annihilation",
+		"vol": 2,
+		"num": 43,
+		"date": "2011-09-14",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "481",
+				"name": "Carlo Barberi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/51a500bf4886d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "194"
+	},
+	{
+		"id": "38095",
+		"collection": "Deadpool",
+		"title": "Operation Annihilation",
+		"vol": 2,
+		"num": 44,
+		"date": "2011-10-05",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "481",
+				"name": "Carlo Barberi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/51a5013dd5539.jpg",
+		"universe": "Earth-616",
+		"phaseid": "011",
+		"phasename": "Heroic Age",
+		"sortid": "194"
 	}
 ]
