@@ -46476,6 +46476,11 @@
 						"collection": "Black Panther The Man Without Fear",
 						"vol": 1,
 						"num": 523
+					},
+					{
+						"collection": "Black Panther The Man Without Fear",
+						"vol": 1,
+						"num": 523
 					}
 				]
 			},
@@ -46990,6 +46995,11 @@
 				"phaseid": "012",
 				"sortid": "067",
 				"comiclist": [
+					{
+						"collection": "Herc",
+						"vol": 1,
+						"num": 6
+					},
 					{
 						"collection": "Herc",
 						"vol": 1,
@@ -48218,6 +48228,1045 @@
 				]
 			},
 			{
+				"title": "Demon",
+				"date": "2012-03-21",
+				"characters": [
+					{
+						"id": "029",
+						"name": "Iron Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/517ac67894c2b.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "120",
+				"comiclist": [
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 514
+					},
+					{
+						"collection": "Invincible Iron Man",
+						"vol": 1,
+						"num": 515
+					}
+				]
+			},
+			{
+				"title": "Shattered Heroes Thor",
+				"date": "2012-03-28",
+				"characters": [
+					{
+						"id": "036",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/f0/4f74974840081.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "121",
+				"comiclist": [
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 12
+					}
+				]
+			},
+			{
+				"title": "Uncanny",
+				"date": "2011-10-19",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/592db67d03aae.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "122",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 1,
+						"num": 544
+					}
+				]
+			},
+			{
+				"title": "Class reunion",
+				"date": "2012-02-01",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/58d2ac5db649a.jpg",
+				"phaseid": "012",
+				"sortid": "123",
+				"comiclist": [
+					{
+						"collection": "Avengers Academy",
+						"vol": 1,
+						"num": 25
+					}
+				]
+			},
+			{
+				"title": "Starting point",
+				"date": "2011-09-21",
+				"characters": [
+					{
+						"id": "142",
+						"name": "Heroes For Hire"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/56438c042a3b8.jpg",
+				"phaseid": "012",
+				"sortid": "124",
+				"comiclist": [
+					{
+						"collection": "Heroes For Hire",
+						"vol": 3,
+						"num": 12
+					}
+				]
+			},
+			{
+				"title": "Pride of a Nation",
+				"date": "2011-10-12",
+				"characters": [
+					{
+						"id": "151",
+						"name": "Alpha Flight"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/4e861404061d4.jpg",
+				"phaseid": "012",
+				"sortid": "125",
+				"comiclist": [
+					{
+						"collection": "Alpha Flight",
+						"vol": 4,
+						"num": 5
+					},
+					{
+						"collection": "Alpha Flight",
+						"vol": 4,
+						"num": 6
+					},
+					{
+						"collection": "Alpha Flight",
+						"vol": 4,
+						"num": 7
+					},
+					{
+						"collection": "Alpha Flight",
+						"vol": 4,
+						"num": 8
+					}
+				]
+			},
+			{
+				"title": "Alejandra Jones",
+				"date": "2011-11-09",
+				"characters": [
+					{
+						"id": "129",
+						"name": "Ghost Rider"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4eaabd1399804.jpg",
+				"phaseid": "012",
+				"sortid": "126",
+				"comiclist": [
+					{
+						"collection": "Ghost Rider",
+						"vol": 7,
+						"num": 5
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 7,
+						"num": 6
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 7,
+						"num": 7
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 7,
+						"num": 8
+					},
+					{
+						"collection": "Ghost Rider",
+						"vol": 7,
+						"num": 9
+					}
+				]
+			},
+			{
+				"title": "The Palmer Addley Infection",
+				"date": "2011-07-20",
+				"characters": [
+					{
+						"id": "084",
+						"name": "War Machine"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/515f2e9a788c8.jpg",
+				"phaseid": "012",
+				"sortid": "127",
+				"comiclist": [
+					{
+						"collection": "Iron Man 2.0",
+						"vol": 1,
+						"num": 7
+					},
+					{
+						"collection": "Iron Man 2.0",
+						"vol": 1,
+						"num": 8
+					},
+					{
+						"collection": "Iron Man 2.0",
+						"vol": 1,
+						"num": 9
+					},
+					{
+						"collection": "Iron Man 2.0",
+						"vol": 1,
+						"num": 10
+					},
+					{
+						"collection": "Iron Man 2.0",
+						"vol": 1,
+						"num": 11
+					},
+					{
+						"collection": "Iron Man 2.0",
+						"vol": 1,
+						"num": 12
+					}
+				]
+			},
+			{
+				"title": "Hulk vs Banner",
+				"date": "2012-01-11",
+				"characters": [
+					{
+						"id": "082",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/51965ea0cf6c1.jpg",
+				"phaseid": "012",
+				"sortid": "128",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulk",
+						"vol": 3,
+						"num": 4
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 3,
+						"num": 5
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 3,
+						"num": 6
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 3,
+						"num": 7
+					}
+				]
+			},
+			{
+				"title": "Evil Deadpool",
+				"date": "2011-10-26",
+				"characters": [
+					{
+						"id": "003",
+						"name": "Deadpool"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/51a500b9b3753.jpg",
+				"phaseid": "012",
+				"sortid": "129",
+				"comiclist": [
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 45
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 46
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 47
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 48
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 49
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 49
+					}
+				]
+			},
+			{
+				"title": "Annihilators",
+				"date": "2011-03-02",
+				"characters": [
+					{
+						"id": "057",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5784f71eaa933.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "130",
+				"comiclist": [
+					{
+						"collection": "Annihilators",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Annihilators",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Annihilators",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Annihilators",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Annihilators Earthfall",
+				"date": "2011-09-28",
+				"characters": [
+					{
+						"id": "057",
+						"name": "Cosmic"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/30/578533577248b.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "131",
+				"comiclist": [
+					{
+						"collection": "Annihilators Earthfall",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Annihilators Earthfall",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Annihilators Earthfall",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Annihilators Earthfall",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Future Foundation II",
+				"date": "2011-07-13",
+				"characters": [
+					{
+						"id": "001",
+						"name": "Inhumans"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4f7de2c12a4fe.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "132",
+				"comiclist": [
+					{
+						"collection": "FF",
+						"vol": 1,
+						"num": 6
+					},
+					{
+						"collection": "FF",
+						"vol": 1,
+						"num": 7
+					},
+					{
+						"collection": "FF",
+						"vol": 1,
+						"num": 8
+					},
+					{
+						"collection": "FF",
+						"vol": 1,
+						"num": 9
+					},
+					{
+						"collection": "FF",
+						"vol": 1,
+						"num": 10
+					},
+					{
+						"collection": "FF",
+						"vol": 1,
+						"num": 11
+					}
+				]
+			},
+			{
+				"title": "Forever",
+				"date": "2011-11-23",
+				"characters": [
+					{
+						"id": "049",
+						"name": "Fantastic Four"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/57e976329adaf.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "133",
+				"comiclist": [
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 600
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 601
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 602
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 603
+					},
+					{
+						"collection": "Fantastic Four",
+						"vol": 1,
+						"num": 604
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Prologue",
+				"date": "2011-08-24",
+				"characters": [
+					{
+						"id": "061",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4dd18c804ebd6.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "134",
+				"comiclist": [
+					{
+						"collection": "Spider-Island Emergency of Evil",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Spider-Island Daily Bugle",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Free Comic Book Day Spider-Man",
+						"vol": 2011,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Spider-Island",
+				"date": "2011-07-27",
+				"characters": [
+					{
+						"id": "061",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/57eaa30fd170e.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "135",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 666
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 667
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Cloak \u0026 Dagger",
+				"date": "2010-03-31",
+				"characters": [
+					{
+						"id": "009",
+						"name": "Cloak"
+					}
+				],
+				"pic": "https://i.annihil.us/u/prod/marvel/i/mg/7/40/5706ab8dd7896/detail.jpg",
+				"phaseid": "012",
+				"sortid": "136",
+				"comiclist": [
+					{
+						"collection": "Cloak \u0026 Dagger",
+						"vol": 4,
+						"num": 1
+					},
+					{
+						"collection": "Spider-Island Cloak \u0026 Dagger",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Deadly Foes",
+				"date": "2011-08-10",
+				"characters": [
+					{
+						"id": "061",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4dcaf50525e4d.jpg",
+				"phaseid": "012",
+				"sortid": "137",
+				"comiclist": [
+					{
+						"collection": "Spider-Island Deadly Foes",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Venom",
+				"date": "2011-08-17",
+				"characters": [
+					{
+						"id": "184",
+						"name": "Flash Thompson"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/58de82868bf52.jpg",
+				"phaseid": "012",
+				"sortid": "138",
+				"comiclist": [
+					{
+						"collection": "Venom",
+						"vol": 2,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Deadly Hands of Kung Fu",
+				"date": "2011-08-31",
+				"characters": [
+					{
+						"id": "012",
+						"name": "Shang-Chi"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/4e53c8514526e.jpg",
+				"phaseid": "012",
+				"sortid": "139",
+				"comiclist": [
+					{
+						"collection": "Spider-Island Deadly Hands of Kung Fu",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Spider-Girl",
+				"date": "2011-08-17",
+				"characters": [
+					{
+						"id": "117",
+						"name": "Anya Corazon"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4dc85e2f1ce71.jpg",
+				"phaseid": "012",
+				"sortid": "140",
+				"comiclist": [
+					{
+						"collection": "Spider-Island Amazing Spider-Girl",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Spider-Island",
+				"date": "2011-08-31",
+				"characters": [
+					{
+						"id": "061",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/57eac7c20aec6.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "141",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 668
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Cloak \u0026 Dagger",
+				"date": "2011-09-21",
+				"characters": [
+					{
+						"id": "009",
+						"name": "Cloak"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4e73660a4b98a.jpg",
+				"phaseid": "012",
+				"sortid": "142",
+				"comiclist": [
+					{
+						"collection": "Spider-Island Cloak \u0026 Dagger",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Avengers",
+				"date": "2011-09-07",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/b0/4e5fd55249799.jpg",
+				"phaseid": "012",
+				"sortid": "143",
+				"comiclist": [
+					{
+						"collection": "Spider-Island Avengers",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Herc",
+				"date": "2011-09-14",
+				"characters": [
+					{
+						"id": "028",
+						"name": "Hercules"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4e68d8b60bb22.jpg",
+				"phaseid": "012",
+				"sortid": "144",
+				"comiclist": [
+					{
+						"collection": "Herc",
+						"vol": 1,
+						"num": 7
+					}
+				]
+			},
+			{
+				"title": "Spider-Island",
+				"date": "2011-09-14",
+				"characters": [
+					{
+						"id": "061",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/57ead10d837a6.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "145",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 669
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Spider-Girl",
+				"date": "2011-09-14",
+				"characters": [
+					{
+						"id": "117",
+						"name": "Anya Corazon"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/56b26dd405337.jpg",
+				"phaseid": "012",
+				"sortid": "146",
+				"comiclist": [
+					{
+						"collection": "Spider-Island Amazing Spider-Girl",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Venom",
+				"date": "2011-09-28",
+				"characters": [
+					{
+						"id": "184",
+						"name": "Flash Thompson"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/4e7ced78b836b.jpg",
+				"phaseid": "012",
+				"sortid": "147",
+				"comiclist": [
+					{
+						"collection": "Venom",
+						"vol": 2,
+						"num": 7
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Herc",
+				"date": "2011-09-28",
+				"characters": [
+					{
+						"id": "028",
+						"name": "Hercules"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/4e81cb6dcb6ae.jpg",
+				"phaseid": "012",
+				"sortid": "148",
+				"comiclist": [
+					{
+						"collection": "Herc",
+						"vol": 1,
+						"num": 8
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Spider-Woman",
+				"date": "2011-09-21",
+				"characters": [
+					{
+						"id": "122",
+						"name": "Spider-Woman"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/4e7368f471139.jpg",
+				"phaseid": "012",
+				"sortid": "149",
+				"comiclist": [
+					{
+						"collection": "Spider-Island Spider-Woman",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Spider-Island",
+				"date": "2011-09-28",
+				"characters": [
+					{
+						"id": "061",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/57eadbebe2c94.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "150",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 670
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Deadly Hands of Kung Fu",
+				"date": "2011-09-28",
+				"characters": [
+					{
+						"id": "012",
+						"name": "Shang-Chi"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4e80b94623eb9.jpg",
+				"phaseid": "012",
+				"sortid": "151",
+				"comiclist": [
+					{
+						"collection": "Spider-Island Deadly Hands of Kung Fu",
+						"vol": 1,
+						"num": 2
+					}
+				]
+			},
+			{
+				"title": "Spider-Island I love New York City",
+				"date": "2011-08-03",
+				"characters": [
+					{
+						"id": "011",
+						"name": "Punisher"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4e5fe2144b558.jpg",
+				"phaseid": "012",
+				"sortid": "152",
+				"comiclist": [
+					{
+						"collection": "Spider-Island I love New York City",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Heroes For Hire",
+				"date": "2011-10-05",
+				"characters": [
+					{
+						"id": "142",
+						"name": "Heroes For Hire"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4e81e0576d13f.jpg",
+				"phaseid": "012",
+				"sortid": "153",
+				"comiclist": [
+					{
+						"collection": "Spider-Island Heroes For Hire",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Cloak \u0026 Dagger",
+				"date": "2011-10-26",
+				"characters": [
+					{
+						"id": "009",
+						"name": "Cloak"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/56b37d564a872.jpg",
+				"phaseid": "012",
+				"sortid": "154",
+				"comiclist": [
+					{
+						"collection": "Spider-Island Cloak \u0026 Dagger",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Black Panther",
+				"date": "2011-10-12",
+				"characters": [
+					{
+						"id": "005",
+						"name": "Black Panther"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4e861b4d9b6b1.jpg",
+				"phaseid": "012",
+				"sortid": "155",
+				"comiclist": [
+					{
+						"collection": "Black Panther The Most Dangerous Man Alive",
+						"vol": 1,
+						"num": 524
+					}
+				]
+			},
+			{
+				"title": "Spider-Island",
+				"date": "2011-10-12",
+				"characters": [
+					{
+						"id": "061",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/4e86185554d57.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "156",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 671
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Deadly Hands of Kung Fu",
+				"date": "2011-10-26",
+				"characters": [
+					{
+						"id": "012",
+						"name": "Shang-Chi"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/56b37e1344486.jpg",
+				"phaseid": "012",
+				"sortid": "157",
+				"comiclist": [
+					{
+						"collection": "Spider-Island Deadly Hands of Kung Fu",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Spider-Girl",
+				"date": "2011-10-26",
+				"characters": [
+					{
+						"id": "117",
+						"name": "Anya Corazon"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/56b37ebe896ea.jpg",
+				"phaseid": "012",
+				"sortid": "158",
+				"comiclist": [
+					{
+						"collection": "Spider-Island Amazing Spider-Girl",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Spider-Island Venom",
+				"date": "2011-10-26",
+				"characters": [
+					{
+						"id": "184",
+						"name": "Flash Thompson"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/56b3824d0e773.jpg",
+				"phaseid": "012",
+				"sortid": "159",
+				"comiclist": [
+					{
+						"collection": "Venom",
+						"vol": 2,
+						"num": 8
+					}
+				]
+			},
+			{
+				"title": "Spider-Island",
+				"date": "2011-10-26",
+				"characters": [
+					{
+						"id": "061",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4ea85f54e404e.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "160",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 672
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 673
+					}
+				]
+			},
+			{
 				"title": "The Children's Crusade",
 				"date": "2010-07-08",
 				"characters": [
@@ -48229,7 +49278,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4f6210eddab18.jpg",
 				"essential": true,
 				"phaseid": "012",
-				"sortid": "120",
+				"sortid": "161",
 				"comiclist": [
 					{
 						"collection": "Avengers The Children's Crusade",
@@ -48295,7 +49344,7 @@
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/51685b56ac2e5.jpg",
 				"essential": true,
 				"phaseid": "012",
-				"sortid": "121",
+				"sortid": "162",
 				"comiclist": [
 					{
 						"collection": "Avengers",
