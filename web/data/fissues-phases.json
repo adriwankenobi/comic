@@ -49367,6 +49367,610 @@
 						"num": 21
 					}
 				]
+			},
+			{
+				"title": "The New Dark Avengers",
+				"date": "2011-09-28",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "https://i.annihil.us/u/prod/marvel/i/mg/8/f0/517ae7302b5ce/detail.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "163",
+				"comiclist": [
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 16
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 17
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 18
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 19
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 20
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 21
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 22
+					},
+					{
+						"collection": "New Avengers",
+						"vol": 2,
+						"num": 23
+					}
+				]
+			},
+			{
+				"title": "The Hammer falls",
+				"date": "2012-02-15",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/51685dc815e20.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "164",
+				"comiclist": [
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 22
+					},
+					{
+						"collection": "Avengers",
+						"vol": 4,
+						"num": 23
+					}
+				]
+			},
+			{
+				"title": "Run the Mission, Don't Get Seen, Save the World",
+				"date": "2011-08-31",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/518975548012a.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "165",
+				"comiclist": [
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 16
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 17
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 18
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 19
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 20
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 21
+					}
+				]
+			},
+			{
+				"title": "The Descendants",
+				"date": "2012-01-25",
+				"characters": [
+					{
+						"id": "020",
+						"name": "Avengers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/518974d86e642.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "166",
+				"comiclist": [
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 21
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 22
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 23
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 24
+					},
+					{
+						"collection": "Secret Avengers",
+						"vol": 1,
+						"num": 25
+					}
+				]
+			},
+			{
+				"title": "Kingpin of Wakanda",
+				"date": "2011-11-09",
+				"characters": [
+					{
+						"id": "005",
+						"name": "Black Panther"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4ea9b24a5d9e2.jpg",
+				"phaseid": "012",
+				"sortid": "167",
+				"comiclist": [
+					{
+						"collection": "Black Panther The Most Dangerous Man Alive",
+						"vol": 1,
+						"num": 525
+					},
+					{
+						"collection": "Black Panther The Most Dangerous Man Alive",
+						"vol": 1,
+						"num": 526
+					},
+					{
+						"collection": "Black Panther The Most Dangerous Man Alive",
+						"vol": 1,
+						"num": 527
+					},
+					{
+						"collection": "Black Panther The Most Dangerous Man Alive",
+						"vol": 1,
+						"num": 528
+					},
+					{
+						"collection": "Black Panther The Most Dangerous Man Alive",
+						"vol": 1,
+						"num": 529
+					}
+				]
+			},
+			{
+				"title": "Great Heights",
+				"date": "2011-11-16",
+				"characters": [
+					{
+						"id": "061",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/57ebd9d881fe0.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "168",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 674
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 675
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 676
+					}
+				]
+			},
+			{
+				"title": "Hearts in the Dark",
+				"date": "2011-12-21",
+				"characters": [
+					{
+						"id": "004",
+						"name": "Daredevil"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/56b8f42ca0de5.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "169",
+				"comiclist": [
+					{
+						"collection": "Daredevil",
+						"vol": 3,
+						"num": 7
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 677
+					},
+					{
+						"collection": "Daredevil",
+						"vol": 3,
+						"num": 8
+					},
+					{
+						"collection": "Daredevil",
+						"vol": 3,
+						"num": 9
+					},
+					{
+						"collection": "Daredevil",
+						"vol": 3,
+						"num": 10
+					},
+					{
+						"collection": "Daredevil",
+						"vol": 3,
+						"num": 10
+					}
+				]
+			},
+			{
+				"title": "Dead Winter",
+				"date": "2011-08-03",
+				"characters": [
+					{
+						"id": "011",
+						"name": "Punisher"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/4dcadb92ba0d6.jpg",
+				"phaseid": "012",
+				"sortid": "170",
+				"comiclist": [
+					{
+						"collection": "Punisher",
+						"vol": 8,
+						"num": 1
+					},
+					{
+						"collection": "Punisher",
+						"vol": 8,
+						"num": 2
+					},
+					{
+						"collection": "Punisher",
+						"vol": 8,
+						"num": 3
+					},
+					{
+						"collection": "Punisher",
+						"vol": 8,
+						"num": 4
+					},
+					{
+						"collection": "Punisher",
+						"vol": 8,
+						"num": 5
+					},
+					{
+						"collection": "Punisher",
+						"vol": 8,
+						"num": 6
+					},
+					{
+						"collection": "Punisher",
+						"vol": 8,
+						"num": 7
+					},
+					{
+						"collection": "Punisher",
+						"vol": 8,
+						"num": 8
+					},
+					{
+						"collection": "Punisher",
+						"vol": 8,
+						"num": 9
+					}
+				]
+			},
+			{
+				"title": "Avenging Spider-Man I",
+				"date": "2011-11-09",
+				"characters": [
+					{
+						"id": "061",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51097cf4b20ac.jpg",
+				"phaseid": "012",
+				"sortid": "171",
+				"comiclist": [
+					{
+						"collection": "Avenging Spider-Man",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Avenging Spider-Man",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Avenging Spider-Man",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Avenging Spider-Man II",
+				"date": "2012-02-15",
+				"characters": [
+					{
+						"id": "061",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/56bb9314b9765.jpg",
+				"phaseid": "012",
+				"sortid": "172",
+				"comiclist": [
+					{
+						"collection": "Avenging Spider-Man",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Avenging Spider-Man",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Avenging Spider-Man",
+						"vol": 1,
+						"num": 7
+					}
+				]
+			},
+			{
+				"title": "The Omega Effect",
+				"date": "2012-04-11",
+				"characters": [
+					{
+						"id": "011",
+						"name": "Punisher"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/56c5fe5371996.jpg",
+				"phaseid": "012",
+				"sortid": "173",
+				"comiclist": [
+					{
+						"collection": "Avenging Spider-Man",
+						"vol": 1,
+						"num": 6
+					},
+					{
+						"collection": "Punisher",
+						"vol": 8,
+						"num": 10
+					},
+					{
+						"collection": "Daredevil",
+						"vol": 3,
+						"num": 11
+					},
+					{
+						"collection": "Punisher",
+						"vol": 8,
+						"num": 11
+					},
+					{
+						"collection": "Punisher",
+						"vol": 8,
+						"num": 12
+					},
+					{
+						"collection": "Punisher",
+						"vol": 8,
+						"num": 13
+					},
+					{
+						"collection": "Punisher",
+						"vol": 8,
+						"num": 14
+					},
+					{
+						"collection": "Punisher",
+						"vol": 8,
+						"num": 15
+					},
+					{
+						"collection": "Punisher",
+						"vol": 8,
+						"num": 16
+					}
+				]
+			},
+			{
+				"title": "Trouble on the Horizon",
+				"date": "2012-01-18",
+				"characters": [
+					{
+						"id": "061",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/57ebdd84a5bf5.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "174",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 678
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 679
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 679
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 680
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 681
+					}
+				]
+			},
+			{
+				"title": "Ends of the Earth",
+				"date": "2012-03-21",
+				"characters": [
+					{
+						"id": "061",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/57ebe3a097c9d.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "175",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 682
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 683
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 684
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 685
+					},
+					{
+						"collection": "Amazing Spider-Man Ends of the Earth",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 686
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 687
+					},
+					{
+						"collection": "Avenging Spider-Man",
+						"vol": 1,
+						"num": 8
+					}
+				]
+			},
+			{
+				"title": "Lizard No Turning Back",
+				"date": "2012-06-27",
+				"characters": [
+					{
+						"id": "061",
+						"name": "Spider-Man"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/57ed305f2e612.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "176",
+				"comiclist": [
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 688
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 689
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 690
+					},
+					{
+						"collection": "Amazing Spider-Man",
+						"vol": 1,
+						"num": 691
+					},
+					{
+						"collection": "Amazing Spider-Man Annual",
+						"vol": 1,
+						"num": 39
+					}
+				]
 			}
 		]
 	}
