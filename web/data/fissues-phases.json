@@ -49971,6 +49971,411 @@
 						"num": 39
 					}
 				]
+			},
+			{
+				"title": "Omegex",
+				"date": "2011-08-17",
+				"characters": [
+					{
+						"id": "158",
+						"name": "Red Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/4f5784a829731.jpg",
+				"phaseid": "012",
+				"sortid": "177",
+				"comiclist": [
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 39
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 40
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 41
+					}
+				]
+			},
+			{
+				"title": "Hulk of Arabia",
+				"date": "2011-10-05",
+				"characters": [
+					{
+						"id": "158",
+						"name": "Red Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4e80e00d25de8.jpg",
+				"phaseid": "012",
+				"sortid": "178",
+				"comiclist": [
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 42
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 43
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 44
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 45
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 46
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 47
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 48
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 49
+					}
+				]
+			},
+			{
+				"title": "Haunted",
+				"date": "2012-04-04",
+				"characters": [
+					{
+						"id": "158",
+						"name": "Red Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/56c5f43127678.jpg",
+				"phaseid": "012",
+				"sortid": "179",
+				"comiclist": [
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 50
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 51
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 52
+					}
+				]
+			},
+			{
+				"title": "Mayan Rule",
+				"date": "2012-06-06",
+				"characters": [
+					{
+						"id": "158",
+						"name": "Red Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4fcce9dcb52d2.jpg",
+				"phaseid": "012",
+				"sortid": "180",
+				"comiclist": [
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 53
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 54
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 55
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 56
+					},
+					{
+						"collection": "Hulk",
+						"vol": 2,
+						"num": 57
+					}
+				]
+			},
+			{
+				"title": "Angry",
+				"date": "2012-05-16",
+				"characters": [
+					{
+						"id": "082",
+						"name": "Hulk"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/51a4ec718a47e.jpg",
+				"phaseid": "012",
+				"sortid": "181",
+				"comiclist": [
+					{
+						"collection": "Incredible Hulk",
+						"vol": 3,
+						"num": 7
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 3,
+						"num": 8
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 3,
+						"num": 9
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 3,
+						"num": 10
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 3,
+						"num": 11
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 3,
+						"num": 12
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 3,
+						"num": 13
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 3,
+						"num": 14
+					},
+					{
+						"collection": "Incredible Hulk",
+						"vol": 3,
+						"num": 15
+					}
+				]
+			},
+			{
+				"title": "The Great Escape",
+				"date": "2011-09-07",
+				"characters": [
+					{
+						"id": "042",
+						"name": "Thunderbolts"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4e60e1617eefc.jpg",
+				"phaseid": "012",
+				"sortid": "182",
+				"comiclist": [
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 163
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 163
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 164
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 165
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 166
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 167
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 168
+					}
+				]
+			},
+			{
+				"title": "Like Lightning",
+				"date": "2012-01-18",
+				"characters": [
+					{
+						"id": "042",
+						"name": "Thunderbolts"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5196770cdf2d8.jpg",
+				"phaseid": "012",
+				"sortid": "183",
+				"comiclist": [
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 169
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 170
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 171
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 172
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 173
+					},
+					{
+						"collection": "Thunderbolts",
+						"vol": 1,
+						"num": 174
+					}
+				]
+			},
+			{
+				"title": "Misfits",
+				"date": "2012-03-07",
+				"characters": [
+					{
+						"id": "144",
+						"name": "Defenders"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/51a5170a17bd2.jpg",
+				"phaseid": "012",
+				"sortid": "184",
+				"comiclist": [
+					{
+						"collection": "Defenders",
+						"vol": 4,
+						"num": 4
+					},
+					{
+						"collection": "Defenders",
+						"vol": 4,
+						"num": 5
+					},
+					{
+						"collection": "Defenders",
+						"vol": 4,
+						"num": 6
+					}
+				]
+			},
+			{
+				"title": "The Impossible End",
+				"date": "2012-06-06",
+				"characters": [
+					{
+						"id": "144",
+						"name": "Defenders"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/51a51839426a1.jpg",
+				"phaseid": "012",
+				"sortid": "185",
+				"comiclist": [
+					{
+						"collection": "Defenders",
+						"vol": 4,
+						"num": 7
+					},
+					{
+						"collection": "Defenders",
+						"vol": 4,
+						"num": 8
+					},
+					{
+						"collection": "Defenders",
+						"vol": 4,
+						"num": 9
+					},
+					{
+						"collection": "Defenders",
+						"vol": 4,
+						"num": 10
+					},
+					{
+						"collection": "Defenders",
+						"vol": 4,
+						"num": 11
+					},
+					{
+						"collection": "Defenders",
+						"vol": 4,
+						"num": 12
+					}
+				]
+			},
+			{
+				"title": "From the Marvel Vault",
+				"date": "2011-07-13",
+				"characters": [
+					{
+						"id": "144",
+						"name": "Defenders"
+					}
+				],
+				"pic": "https://i.annihil.us/u/prod/marvel/i/mg/c/f0/4d9cdec5e6662/detail.jpg",
+				"phaseid": "012",
+				"sortid": "186",
+				"comiclist": [
+					{
+						"collection": "Defenders From the Marvel Vault",
+						"vol": 1,
+						"num": 1
+					}
+				]
 			}
 		]
 	}

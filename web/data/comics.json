@@ -29258,6 +29258,10 @@
 			{
 				"id": "061",
 				"name": "Spider-Man"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
 			}
 		],
 		"creators": [
@@ -29288,6 +29292,10 @@
 			{
 				"id": "061",
 				"name": "Spider-Man"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
 			}
 		],
 		"creators": [
@@ -221081,5 +221089,1736 @@
 		"phaseid": "012",
 		"phasename": "Fear Itself",
 		"sortid": "176"
+	},
+	{
+		"id": "37050",
+		"collection": "Hulk",
+		"title": "Omegex",
+		"vol": 2,
+		"num": 39,
+		"date": "2011-08-17",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "568",
+				"name": "Gabriel Hardman"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/4f5784a829731.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "177"
+	},
+	{
+		"id": "37048",
+		"collection": "Hulk",
+		"title": "Omegex",
+		"vol": 2,
+		"num": 40,
+		"date": "2011-09-07",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "568",
+				"name": "Gabriel Hardman"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4e5fd2401a095.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "177"
+	},
+	{
+		"id": "37053",
+		"collection": "Hulk",
+		"title": "Omegex",
+		"vol": 2,
+		"num": 41,
+		"date": "2011-09-21",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "568",
+				"name": "Gabriel Hardman"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4e77a04a9040f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "177"
+	},
+	{
+		"id": "37052",
+		"collection": "Hulk",
+		"title": "Hulk of Arabia",
+		"vol": 2,
+		"num": 42,
+		"date": "2011-10-05",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "028",
+				"name": "Patrick Zircher"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4e80e00d25de8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "178"
+	},
+	{
+		"id": "38073",
+		"collection": "Hulk",
+		"title": "Hulk of Arabia",
+		"vol": 2,
+		"num": 43,
+		"date": "2011-10-19",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "028",
+				"name": "Patrick Zircher"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/56b388b435d08.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "178"
+	},
+	{
+		"id": "40646",
+		"collection": "Hulk",
+		"title": "Hulk of Arabia",
+		"vol": 2,
+		"num": 44,
+		"date": "2011-11-02",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "028",
+				"name": "Patrick Zircher"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4eb032201d518.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "178"
+	},
+	{
+		"id": "40648",
+		"collection": "Hulk",
+		"title": "Hulk of Arabia",
+		"vol": 2,
+		"num": 45,
+		"date": "2011-12-07",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "028",
+				"name": "Patrick Zircher"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/510c3ffb5d8ce.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "178"
+	},
+	{
+		"id": "40642",
+		"collection": "Hulk",
+		"title": "Hulk of Arabia",
+		"vol": 2,
+		"num": 46,
+		"date": "2011-12-21",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "028",
+				"name": "Patrick Zircher"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/56b8f8fa78db9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "178"
+	},
+	{
+		"id": "40647",
+		"collection": "Hulk",
+		"title": "Hulk of Arabia",
+		"vol": 2,
+		"num": 47,
+		"date": "2012-01-04",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "658",
+				"name": "Elena Casagrande"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/510c40eced498.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "178"
+	},
+	{
+		"id": "40649",
+		"collection": "Hulk",
+		"title": "Hulk of Arabia",
+		"vol": 2,
+		"num": 48,
+		"date": "2012-02-01",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "658",
+				"name": "Elena Casagrande"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4f26da102167e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "178"
+	},
+	{
+		"id": "40645",
+		"collection": "Hulk",
+		"title": "Hulk of Arabia",
+		"vol": 2,
+		"num": 49,
+		"date": "2012-03-07",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "658",
+				"name": "Elena Casagrande"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/56bc9e4c35c23.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "178"
+	},
+	{
+		"id": "40638",
+		"collection": "Hulk",
+		"title": "Haunted",
+		"vol": 2,
+		"num": 50,
+		"date": "2012-04-04",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "056",
+				"name": "Carlo Pagualyan"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/56c5f43127678.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "179"
+	},
+	{
+		"id": "40636",
+		"collection": "Hulk",
+		"title": "Haunted",
+		"vol": 2,
+		"num": 51,
+		"date": "2012-05-09",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "056",
+				"name": "Carlo Pagualyan"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4fabdf2e5d747.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "179"
+	},
+	{
+		"id": "40635",
+		"collection": "Hulk",
+		"title": "Haunted",
+		"vol": 2,
+		"num": 52,
+		"date": "2012-05-23",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "056",
+				"name": "Carlo Pagualyan"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4f396c373e13f.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "179"
+	},
+	{
+		"id": "40632",
+		"collection": "Hulk",
+		"title": "Mayan Rule",
+		"vol": 2,
+		"num": 53,
+		"date": "2012-06-06",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "496",
+				"name": "Dale Eaglesham"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4fcce9dcb52d2.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "180"
+	},
+	{
+		"id": "40630",
+		"collection": "Hulk",
+		"title": "Mayan Rule",
+		"vol": 2,
+		"num": 54,
+		"date": "2012-06-20",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "496",
+				"name": "Dale Eaglesham"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4fd66226d0339.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "180"
+	},
+	{
+		"id": "40628",
+		"collection": "Hulk",
+		"title": "Mayan Rule",
+		"vol": 2,
+		"num": 55,
+		"date": "2012-07-04",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "496",
+				"name": "Dale Eaglesham"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/4fdf577591397.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "180"
+	},
+	{
+		"id": "40626",
+		"collection": "Hulk",
+		"title": "Mayan Rule",
+		"vol": 2,
+		"num": 56,
+		"date": "2012-08-15",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "496",
+				"name": "Dale Eaglesham"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/501fe405634eb.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "180"
+	},
+	{
+		"id": "40622",
+		"collection": "Hulk",
+		"title": "Mayan Rule",
+		"vol": 2,
+		"num": 57,
+		"date": "2012-08-29",
+		"characters": [
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "496",
+				"name": "Dale Eaglesham"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/50291b50b76ca.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "180"
+	},
+	{
+		"id": "43354",
+		"collection": "Incredible Hulk",
+		"title": "Angry",
+		"vol": 3,
+		"num": 7,
+		"date": "2012-05-16",
+		"characters": [
+			{
+				"id": "082",
+				"name": "Hulk"
+			},
+			{
+				"id": "017",
+				"name": "Doctor Doom"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "475",
+				"name": "Jefte Palo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/51a4ec718a47e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "181"
+	},
+	{
+		"id": "40586",
+		"collection": "Incredible Hulk",
+		"title": "Angry",
+		"vol": 3,
+		"num": 8,
+		"date": "2012-05-30",
+		"characters": [
+			{
+				"id": "082",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "040",
+				"name": "Steve Dillon"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/51965f7ac3178.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "181"
+	},
+	{
+		"id": "40585",
+		"collection": "Incredible Hulk",
+		"title": "Angry",
+		"vol": 3,
+		"num": 9,
+		"date": "2012-06-13",
+		"characters": [
+			{
+				"id": "082",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "337",
+				"name": "Pasqual Ferry"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/51965f718ab68.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "181"
+	},
+	{
+		"id": "40582",
+		"collection": "Incredible Hulk",
+		"title": "Angry",
+		"vol": 3,
+		"num": 10,
+		"date": "2012-06-27",
+		"characters": [
+			{
+				"id": "082",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "119",
+				"name": "Tom Raney"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/51965f6b2a766.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "181"
+	},
+	{
+		"id": "40579",
+		"collection": "Incredible Hulk",
+		"title": "Angry",
+		"vol": 3,
+		"num": 11,
+		"date": "2012-07-25",
+		"characters": [
+			{
+				"id": "082",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "556",
+				"name": "Dalibor Talajic"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/519660a84dbaa.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "181"
+	},
+	{
+		"id": "40594",
+		"collection": "Incredible Hulk",
+		"title": "Angry",
+		"vol": 3,
+		"num": 12,
+		"date": "2012-08-08",
+		"characters": [
+			{
+				"id": "082",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "073",
+				"name": "Carlos Pacheco"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/519660a6f3f65.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "181"
+	},
+	{
+		"id": "40591",
+		"collection": "Incredible Hulk",
+		"title": "Angry",
+		"vol": 3,
+		"num": 13,
+		"date": "2012-09-12",
+		"characters": [
+			{
+				"id": "082",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "475",
+				"name": "Jefte Palo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/519660992e83b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "181"
+	},
+	{
+		"id": "40588",
+		"collection": "Incredible Hulk",
+		"title": "Angry",
+		"vol": 3,
+		"num": 14,
+		"date": "2012-09-26",
+		"characters": [
+			{
+				"id": "082",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "475",
+				"name": "Jefte Palo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/5196608f9b6a6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "181"
+	},
+	{
+		"id": "40575",
+		"collection": "Incredible Hulk",
+		"title": "Angry",
+		"vol": 3,
+		"num": 15,
+		"date": "2012-10-24",
+		"characters": [
+			{
+				"id": "082",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "475",
+				"name": "Jefte Palo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/60/5196608a20195.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "181"
+	},
+	{
+		"id": "37333",
+		"collection": "Thunderbolts",
+		"title": "The Great Escape",
+		"vol": 1,
+		"num": 163,
+		"date": "2011-09-07",
+		"characters": [
+			{
+				"id": "042",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "014",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "043",
+				"name": "Songbird"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "170",
+				"name": "Kev Walker"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4e60e1617eefc.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "182"
+	},
+	{
+		"id": "39712",
+		"collection": "Thunderbolts",
+		"title": "The Great Escape",
+		"vol": 1,
+		"num": 163,
+		"date": "2011-09-21",
+		"characters": [
+			{
+				"id": "042",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "014",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "043",
+				"name": "Songbird"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "617",
+				"name": "Declan Shalvey"
+			}
+		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/e/03/56b2754266b77/detail.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "182"
+	},
+	{
+		"id": "38098",
+		"collection": "Thunderbolts",
+		"title": "The Great Escape",
+		"vol": 1,
+		"num": 164,
+		"date": "2011-10-05",
+		"characters": [
+			{
+				"id": "042",
+				"name": "Thunderbolts"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "170",
+				"name": "Kev Walker"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/4e81f0b938857.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "182"
+	},
+	{
+		"id": "38097",
+		"collection": "Thunderbolts",
+		"title": "The Great Escape",
+		"vol": 1,
+		"num": 165,
+		"date": "2011-11-16",
+		"characters": [
+			{
+				"id": "042",
+				"name": "Thunderbolts"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "170",
+				"name": "Kev Walker"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/56b8b9d481b32.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "182"
+	},
+	{
+		"id": "38096",
+		"collection": "Thunderbolts",
+		"title": "The Great Escape",
+		"vol": 1,
+		"num": 166,
+		"date": "2011-11-30",
+		"characters": [
+			{
+				"id": "042",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "014",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "043",
+				"name": "Songbird"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "617",
+				"name": "Declan Shalvey"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/56b8cf1fe7071.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "182"
+	},
+	{
+		"id": "38099",
+		"collection": "Thunderbolts",
+		"title": "The Great Escape",
+		"vol": 1,
+		"num": 167,
+		"date": "2011-12-21",
+		"characters": [
+			{
+				"id": "042",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "014",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "043",
+				"name": "Songbird"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "617",
+				"name": "Declan Shalvey"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/56b8fc911daee.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "182"
+	},
+	{
+		"id": "40781",
+		"collection": "Thunderbolts",
+		"title": "The Great Escape",
+		"vol": 1,
+		"num": 168,
+		"date": "2012-01-04",
+		"characters": [
+			{
+				"id": "042",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "014",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "043",
+				"name": "Songbird"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "635",
+				"name": "Matthew Southworth"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/56bb49a5a1728.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "182"
+	},
+	{
+		"id": "40782",
+		"collection": "Thunderbolts",
+		"title": "Like Lightning",
+		"vol": 1,
+		"num": 169,
+		"date": "2012-01-18",
+		"characters": [
+			{
+				"id": "042",
+				"name": "Thunderbolts"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "170",
+				"name": "Kev Walker"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5196770cdf2d8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "183"
+	},
+	{
+		"id": "40779",
+		"collection": "Thunderbolts",
+		"title": "Like Lightning",
+		"vol": 1,
+		"num": 170,
+		"date": "2012-02-15",
+		"characters": [
+			{
+				"id": "042",
+				"name": "Thunderbolts"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "170",
+				"name": "Kev Walker"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/10/5196770692b46.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "183"
+	},
+	{
+		"id": "40783",
+		"collection": "Thunderbolts",
+		"title": "Like Lightning",
+		"vol": 1,
+		"num": 171,
+		"date": "2012-03-21",
+		"characters": [
+			{
+				"id": "042",
+				"name": "Thunderbolts"
+			},
+			{
+				"id": "014",
+				"name": "Luke Cage"
+			},
+			{
+				"id": "043",
+				"name": "Songbird"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "170",
+				"name": "Kev Walker"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/56bcc169e8cf5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "183"
+	},
+	{
+		"id": "40784",
+		"collection": "Thunderbolts",
+		"title": "Like Lightning",
+		"vol": 1,
+		"num": 172,
+		"date": "2012-04-04",
+		"characters": [
+			{
+				"id": "042",
+				"name": "Thunderbolts"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "617",
+				"name": "Declan Shalvey"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/56c5f5ca48c0b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "183"
+	},
+	{
+		"id": "40772",
+		"collection": "Thunderbolts",
+		"title": "Like Lightning",
+		"vol": 1,
+		"num": 173,
+		"date": "2012-04-18",
+		"characters": [
+			{
+				"id": "042",
+				"name": "Thunderbolts"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "617",
+				"name": "Declan Shalvey"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/519677e20a7f0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "183"
+	},
+	{
+		"id": "40777",
+		"collection": "Thunderbolts",
+		"title": "Like Lightning",
+		"vol": 1,
+		"num": 174,
+		"date": "2012-05-16",
+		"characters": [
+			{
+				"id": "042",
+				"name": "Thunderbolts"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "617",
+				"name": "Declan Shalvey"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/30/51967730e8456.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "183"
+	},
+	{
+		"id": "39758",
+		"collection": "Defenders",
+		"title": "Misfits",
+		"vol": 4,
+		"num": 4,
+		"date": "2012-03-07",
+		"characters": [
+			{
+				"id": "144",
+				"name": "Defenders"
+			},
+			{
+				"id": "062",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "090",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "088",
+				"name": "Silver Surfer"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "246",
+				"name": "Michael Lark"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/51a5170a17bd2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "184"
+	},
+	{
+		"id": "39759",
+		"collection": "Defenders",
+		"title": "Misfits",
+		"vol": 4,
+		"num": 5,
+		"date": "2012-04-18",
+		"characters": [
+			{
+				"id": "144",
+				"name": "Defenders"
+			},
+			{
+				"id": "062",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "090",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "088",
+				"name": "Silver Surfer"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "153",
+				"name": "Mitch Breitweiser"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/56cb1659e049b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "184"
+	},
+	{
+		"id": "39761",
+		"collection": "Defenders",
+		"title": "Misfits",
+		"vol": 4,
+		"num": 6,
+		"date": "2012-05-02",
+		"characters": [
+			{
+				"id": "144",
+				"name": "Defenders"
+			},
+			{
+				"id": "062",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "090",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "088",
+				"name": "Silver Surfer"
+			},
+			{
+				"id": "134",
+				"name": "Misty Knight"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "673",
+				"name": "Victor Ibañez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4fa43c33f2580.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "184"
+	},
+	{
+		"id": "39760",
+		"collection": "Defenders",
+		"title": "The Impossible End",
+		"vol": 4,
+		"num": 7,
+		"date": "2012-06-06",
+		"characters": [
+			{
+				"id": "144",
+				"name": "Defenders"
+			},
+			{
+				"id": "062",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "090",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "088",
+				"name": "Silver Surfer"
+			},
+			{
+				"id": "093",
+				"name": "Black Cat"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "218",
+				"name": "Terry Dodson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/51a51839426a1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "185"
+	},
+	{
+		"id": "39767",
+		"collection": "Defenders",
+		"title": "The Impossible End",
+		"vol": 4,
+		"num": 8,
+		"date": "2012-07-11",
+		"characters": [
+			{
+				"id": "144",
+				"name": "Defenders"
+			},
+			{
+				"id": "062",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "090",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "088",
+				"name": "Silver Surfer"
+			},
+			{
+				"id": "093",
+				"name": "Black Cat"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "218",
+				"name": "Terry Dodson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/51a51848d7869.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "185"
+	},
+	{
+		"id": "39766",
+		"collection": "Defenders",
+		"title": "The Impossible End",
+		"vol": 4,
+		"num": 9,
+		"date": "2012-08-01",
+		"characters": [
+			{
+				"id": "144",
+				"name": "Defenders"
+			},
+			{
+				"id": "062",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "090",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "088",
+				"name": "Silver Surfer"
+			},
+			{
+				"id": "093",
+				"name": "Black Cat"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "597",
+				"name": "Jamie McKelvie"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/51a5182f1ee62.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "185"
+	},
+	{
+		"id": "39765",
+		"collection": "Defenders",
+		"title": "The Impossible End",
+		"vol": 4,
+		"num": 10,
+		"date": "2012-09-05",
+		"characters": [
+			{
+				"id": "144",
+				"name": "Defenders"
+			},
+			{
+				"id": "062",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "090",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "088",
+				"name": "Silver Surfer"
+			},
+			{
+				"id": "093",
+				"name": "Black Cat"
+			},
+			{
+				"id": "047",
+				"name": "Scott Lang"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "597",
+				"name": "Jamie McKelvie"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/51a51829ddaa4.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "185"
+	},
+	{
+		"id": "39764",
+		"collection": "Defenders",
+		"title": "The Impossible End",
+		"vol": 4,
+		"num": 11,
+		"date": "2012-10-03",
+		"characters": [
+			{
+				"id": "144",
+				"name": "Defenders"
+			},
+			{
+				"id": "062",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "090",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "088",
+				"name": "Silver Surfer"
+			},
+			{
+				"id": "093",
+				"name": "Black Cat"
+			},
+			{
+				"id": "047",
+				"name": "Scott Lang"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "597",
+				"name": "Jamie McKelvie"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/51a5181b083d3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "185"
+	},
+	{
+		"id": "39756",
+		"collection": "Defenders",
+		"title": "The Impossible End",
+		"vol": 4,
+		"num": 12,
+		"date": "2012-11-07",
+		"characters": [
+			{
+				"id": "144",
+				"name": "Defenders"
+			},
+			{
+				"id": "062",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "090",
+				"name": "Iron Fist"
+			},
+			{
+				"id": "088",
+				"name": "Silver Surfer"
+			},
+			{
+				"id": "093",
+				"name": "Black Cat"
+			},
+			{
+				"id": "047",
+				"name": "Scott Lang"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "613",
+				"name": "Mirco Pierfederici"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/51a51815cf07e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "185"
+	},
+	{
+		"id": "38439",
+		"collection": "Defenders From the Marvel Vault",
+		"title": "From the Marvel Vault",
+		"vol": 1,
+		"num": 1,
+		"date": "2011-07-13",
+		"characters": [
+			{
+				"id": "144",
+				"name": "Defenders"
+			},
+			{
+				"id": "062",
+				"name": "Doctor Strange"
+			},
+			{
+				"id": "088",
+				"name": "Silver Surfer"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "082",
+				"name": "Hulk"
+			}
+		],
+		"creators": [
+			{
+				"id": "071",
+				"name": "Kurt Busiek"
+			},
+			{
+				"id": "084",
+				"name": "Mark Bagley"
+			}
+		],
+		"pic": "https://i.annihil.us/u/prod/marvel/i/mg/c/f0/4d9cdec5e6662/detail.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "186"
 	}
 ]
