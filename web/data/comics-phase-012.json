@@ -335,7 +335,7 @@
 		"collection": "Invincible Iron Man",
 		"title": "The Unfixable",
 		"vol": 1,
-		"num": 500,
+		"num": 500.1,
 		"date": "2011-02-02",
 		"characters": [
 			{
@@ -1534,7 +1534,7 @@
 		"collection": "Avengers Academy",
 		"title": "Fear Itself Avengers Academy",
 		"vol": 1,
-		"num": 14,
+		"num": 14.1,
 		"date": "2011-05-18",
 		"event": "Fear Itself",
 		"eventid": "021",
@@ -2729,7 +2729,7 @@
 		"collection": "Black Panther The Man Without Fear",
 		"title": "Fear Itself Black Panther",
 		"vol": 1,
-		"num": 523,
+		"num": 523.1,
 		"date": "2011-09-28",
 		"event": "Fear Itself",
 		"eventid": "021",
@@ -3822,7 +3822,7 @@
 		"collection": "Journey into Mystery",
 		"title": "Journey into Mystery",
 		"vol": 1,
-		"num": 626,
+		"num": 626.1,
 		"date": "2011-08-17",
 		"event": "Fear Itself",
 		"eventid": "021",
@@ -4610,7 +4610,7 @@
 		"collection": "Herc",
 		"title": "Fear Itself Herc",
 		"vol": 1,
-		"num": 6,
+		"num": 6.1,
 		"date": "2011-08-31",
 		"event": "Fear Itself",
 		"eventid": "021",
@@ -6951,7 +6951,7 @@
 		"collection": "Captain America",
 		"title": "Powerless",
 		"vol": 6,
-		"num": 7,
+		"num": 7.1,
 		"date": "2011-11-02",
 		"characters": [
 			{
@@ -8433,7 +8433,7 @@
 		"collection": "Iron Man 2.0",
 		"title": "The Palmer Addley Infection",
 		"vol": 1,
-		"num": 7,
+		"num": 7.1,
 		"date": "2011-07-20",
 		"characters": [
 			{
@@ -8868,7 +8868,7 @@
 		"collection": "Deadpool",
 		"title": "Evil Deadpool",
 		"vol": 2,
-		"num": 49,
+		"num": 49.1,
 		"date": "2012-01-11",
 		"characters": [
 			{
@@ -13425,7 +13425,7 @@
 		"collection": "New Avengers",
 		"title": "The New Dark Avengers",
 		"vol": 2,
-		"num": 16,
+		"num": 16.1,
 		"date": "2011-09-28",
 		"characters": [
 			{
@@ -14401,7 +14401,7 @@
 		"collection": "Secret Avengers",
 		"title": "The Descendants",
 		"vol": 1,
-		"num": 21,
+		"num": 21.1,
 		"date": "2012-01-25",
 		"characters": [
 			{
@@ -15167,7 +15167,7 @@
 		"collection": "Daredevil",
 		"title": "Hearts in the Dark",
 		"vol": 3,
-		"num": 10,
+		"num": 10.1,
 		"date": "2012-04-01",
 		"characters": [
 			{
@@ -16005,7 +16005,7 @@
 		"collection": "Amazing Spider-Man",
 		"title": "Trouble on the Horizon",
 		"vol": 1,
-		"num": 679,
+		"num": 679.1,
 		"date": "2012-02-15",
 		"characters": [
 			{
@@ -17136,7 +17136,7 @@
 		"collection": "Incredible Hulk",
 		"title": "Angry",
 		"vol": 3,
-		"num": 7,
+		"num": 7.1,
 		"date": "2012-05-16",
 		"characters": [
 			{
@@ -17438,7 +17438,7 @@
 		"collection": "Thunderbolts",
 		"title": "The Great Escape",
 		"vol": 1,
-		"num": 163,
+		"num": 163.1,
 		"date": "2011-09-21",
 		"characters": [
 			{
@@ -19230,7 +19230,7 @@
 		"collection": "Uncanny X-Force",
 		"title": "Age of Apocalypse",
 		"vol": 1,
-		"num": 19,
+		"num": 19.1,
 		"date": "2012-01-04",
 		"characters": [
 			{
@@ -21312,7 +21312,7 @@
 		"collection": "X-Men Legacy",
 		"title": "Regenesis",
 		"vol": 1,
-		"num": 260,
+		"num": 260.1,
 		"date": "2012-01-11",
 		"event": "Regenesis",
 		"eventid": "024",

@@ -94,7 +94,7 @@ func NewMarvelAPI(pubKey, priKey string) MarvelAPI {
 	}
 }
 
-func (m *MarvelAPI) Find(collection string, num, start, end int) (string, error) {
+func (m *MarvelAPI) Find(collection string, num float64, start, end int) (string, error) {
 	parameters := fmt.Sprintf("%s&title=%s&issueNumber=%v&dateRange=%v-01-01,%v-12-31",
 		m.getDefaultParameters(), url.QueryEscape(collection), num, start, end)
 	marvelURL := fmt.Sprintf("%s/comics?%s", baseURL, parameters)

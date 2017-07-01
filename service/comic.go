@@ -80,7 +80,7 @@ func JsonGenerator(path, out string) error {
 				if err != nil {
 					return err
 				}
-				num, err := row.Cells[num_col].Int()
+				num, err := row.Cells[num_col].Float()
 				if err != nil {
 					return err
 				}
@@ -447,7 +447,7 @@ func UpdateXLSX(path string, start, end int, mPubKey, mPriKey string) error {
 							return err
 						}
 						if collection != "" {
-							num, err := row.Cells[num_col].Int()
+							num, err := row.Cells[num_col].Float()
 							if err != nil {
 								return err
 							}

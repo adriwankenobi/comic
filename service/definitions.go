@@ -40,7 +40,7 @@ type Comic struct {
 	Collection string      `json:"collection,omitempty"` // From XLSX
 	Title      string      `json:"title,omitempty"`      // From XLSX
 	Vol        int         `json:"vol,omitempty"`        // From XLSX
-	Num        int         `json:"num,omitempty"`        // From XLSX
+	Num        float64     `json:"num,omitempty"`        // From XLSX
 	Date       string      `json:"date,omitempty"`       // From Marvel API
 	Event      string      `json:"event,omitempty"`      // From XLSX
 	EventID    string      `json:"eventid,omitempty"`    // From XLSX
@@ -144,7 +144,7 @@ func NewComic(in interface{}) (Comic, error) {
 			c.Vol = int(e.(float64))
 			break
 		case "num":
-			c.Num = int(e.(float64))
+			c.Num = e.(float64)
 			break
 		case "date":
 			c.Date = e.(string)

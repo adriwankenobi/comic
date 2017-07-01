@@ -128,13 +128,13 @@ func getFissuesPage(menu service.Menu, fissues *service.Fissues, activeTab int) 
 	for _, i := range issues {
 		comicList := ""
 		l := []string{}
-		m := map[string][]int{}
+		m := map[string][]float64{}
 		for _, e := range i.ComicList {
 			name := fmt.Sprintf("%s vol. %v", e.Collection, e.Vol)
 			_, exists := m[name]
 			if !exists {
 				l = append(l, name)
-				m[name] = []int{}
+				m[name] = []float64{}
 			}
 			found := false
 			for _, n := range m[name] {
@@ -149,7 +149,7 @@ func getFissuesPage(menu service.Menu, fissues *service.Fissues, activeTab int) 
 		}
 		for _, k := range l {
 			v := m[k]
-			sort.Ints(v)
+			sort.Float64s(v)
 			name := fmt.Sprintf("%s #%v", k, v[0])
 			if len(v) > 1 {
 				for i := 1; i < len(v); i++ {
