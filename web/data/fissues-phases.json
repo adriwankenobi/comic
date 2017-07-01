@@ -50376,6 +50376,760 @@
 						"num": 1
 					}
 				]
+			},
+			{
+				"title": "Wolverine's Revenge",
+				"date": "2011-06-08",
+				"characters": [
+					{
+						"id": "074",
+						"name": "Wolverine"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/589a29ecb6e09.jpg",
+				"phaseid": "012",
+				"sortid": "187",
+				"comiclist": [
+					{
+						"collection": "Wolverine",
+						"vol": 4,
+						"num": 10
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 4,
+						"num": 11
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 4,
+						"num": 12
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 4,
+						"num": 13
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 4,
+						"num": 14
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 4,
+						"num": 15
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 4,
+						"num": 16
+					}
+				]
+			},
+			{
+				"title": "Super Unnatural",
+				"date": "2011-09-21",
+				"characters": [
+					{
+						"id": "106",
+						"name": "X-Factor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/4e7393b68f84f.jpg",
+				"phaseid": "012",
+				"sortid": "188",
+				"comiclist": [
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 225
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 226
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 227
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 228
+					}
+				]
+			},
+			{
+				"title": "The Dark Angel Saga",
+				"date": "2011-04-20",
+				"characters": [
+					{
+						"id": "159",
+						"name": "X-Force"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/58bdf9d817c43.jpg",
+				"phaseid": "012",
+				"sortid": "189",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 8
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 9
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 10
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 11
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 12
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 13
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 14
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 15
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 16
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 17
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 18
+					}
+				]
+			},
+			{
+				"title": "Age of Apocalypse",
+				"date": "2012-01-04",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/56bb4b69a4e52.jpg",
+				"phaseid": "012",
+				"sortid": "190",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 19
+					},
+					{
+						"collection": "Age of Apocalypse",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Age of Apocalypse",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Age of Apocalypse",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Age of Apocalypse",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Age of Apocalypse",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Age of Apocalypse",
+						"vol": 1,
+						"num": 6
+					},
+					{
+						"collection": "Age of Apocalypse",
+						"vol": 1,
+						"num": 7
+					},
+					{
+						"collection": "Age of Apocalypse",
+						"vol": 1,
+						"num": 8
+					},
+					{
+						"collection": "Age of Apocalypse",
+						"vol": 1,
+						"num": 9
+					},
+					{
+						"collection": "Age of Apocalypse",
+						"vol": 1,
+						"num": 10
+					},
+					{
+						"collection": "Age of Apocalypse",
+						"vol": 1,
+						"num": 11
+					},
+					{
+						"collection": "Age of Apocalypse",
+						"vol": 1,
+						"num": 12
+					}
+				]
+			},
+			{
+				"title": "Lost Legions",
+				"date": "2011-06-08",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/51a4e4df338ac.jpg",
+				"phaseid": "012",
+				"sortid": "191",
+				"comiclist": [
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 250
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 251
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 252
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 253
+					}
+				]
+			},
+			{
+				"title": "Five Miles South of the Universe",
+				"date": "2011-08-24",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/51a4e6064387a.jpg",
+				"phaseid": "012",
+				"sortid": "192",
+				"comiclist": [
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 254
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 255
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 256
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 257
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 258
+					}
+				]
+			},
+			{
+				"title": "Regenesis",
+				"date": "2011-10-12",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/58cc1ee0aeb81.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "193",
+				"comiclist": [
+					{
+						"collection": "X-Men Regenesis",
+						"vol": 1,
+						"num": 1
+					}
+				]
+			},
+			{
+				"title": "Goodbye Chinatown",
+				"date": "2011-10-19",
+				"characters": [
+					{
+						"id": "074",
+						"name": "Wolverine"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/56b38da18b53f.jpg",
+				"phaseid": "012",
+				"sortid": "194",
+				"comiclist": [
+					{
+						"collection": "Wolverine",
+						"vol": 4,
+						"num": 17
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 4,
+						"num": 18
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 4,
+						"num": 19
+					}
+				]
+			},
+			{
+				"title": "Half a Step",
+				"date": "2011-11-30",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/51a4e6eecc109.jpg",
+				"phaseid": "012",
+				"sortid": "195",
+				"comiclist": [
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 259
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 260
+					}
+				]
+			},
+			{
+				"title": "Magneto Not a Hero",
+				"date": "2011-11-09",
+				"characters": [
+					{
+						"id": "098",
+						"name": "Magneto"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/4eaae3ddd2b0f.jpg",
+				"phaseid": "012",
+				"sortid": "196",
+				"comiclist": [
+					{
+						"collection": "Magneto Not a Hero",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Magneto Not a Hero",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Magneto Not a Hero",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Magneto Not a Hero",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Regenesis",
+				"date": "2011-10-26",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/5140c36f07979.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "197",
+				"comiclist": [
+					{
+						"collection": "Wolverine \u0026 The X-Men",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Wolverine \u0026 The X-Men",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Wolverine \u0026 The X-Men",
+						"vol": 1,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Regenesis New Mutants",
+				"date": "2011-11-02",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/5155d37bea3d9.jpg",
+				"phaseid": "012",
+				"sortid": "198",
+				"comiclist": [
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 33
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 34
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 35
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 36
+					}
+				]
+			},
+			{
+				"title": "War Machines",
+				"date": "2011-11-02",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4eb0407c8b2af.jpg",
+				"phaseid": "012",
+				"sortid": "199",
+				"comiclist": [
+					{
+						"collection": "X-Men",
+						"vol": 3,
+						"num": 20
+					},
+					{
+						"collection": "X-Men",
+						"vol": 3,
+						"num": 21
+					},
+					{
+						"collection": "X-Men",
+						"vol": 3,
+						"num": 22
+					},
+					{
+						"collection": "X-Men",
+						"vol": 3,
+						"num": 23
+					}
+				]
+			},
+			{
+				"title": "Regenesis Hope",
+				"date": "2011-11-16",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/518d21c6b2e77.jpg",
+				"phaseid": "012",
+				"sortid": "200",
+				"comiclist": [
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 13
+					},
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 14
+					},
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 15
+					}
+				]
+			},
+			{
+				"title": "Everything is Sinister",
+				"date": "2011-11-02",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/51895b03d8a03.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "201",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 2,
+						"num": 1
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 2,
+						"num": 2
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 2,
+						"num": 3
+					}
+				]
+			},
+			{
+				"title": "Regenesis",
+				"date": "2012-01-11",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/51a4eb9338ef2.jpg",
+				"phaseid": "012",
+				"sortid": "202",
+				"comiclist": [
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 260
+					}
+				]
+			},
+			{
+				"title": "Live With This",
+				"date": "2011-12-21",
+				"characters": [
+					{
+						"id": "159",
+						"name": "X-Force"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/59418d095b746.jpg",
+				"phaseid": "012",
+				"sortid": "203",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 19
+					}
+				]
+			},
+			{
+				"title": "Just Another Day in Westchester",
+				"date": "2012-01-11",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/51e44ad44bdec.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "204",
+				"comiclist": [
+					{
+						"collection": "Wolverine \u0026 The X-Men",
+						"vol": 1,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "They Keep Killing Madrox",
+				"date": "2011-12-21",
+				"characters": [
+					{
+						"id": "106",
+						"name": "X-Factor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/52c5af085d231.jpg",
+				"phaseid": "012",
+				"sortid": "205",
+				"comiclist": [
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 229
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 230
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 231
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 232
+					}
+				]
+			},
+			{
+				"title": "X-Club",
+				"date": "2011-12-07",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/e0/56b8d96974656.jpg",
+				"phaseid": "012",
+				"sortid": "206",
+				"comiclist": [
+					{
+						"collection": "X-Club",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "X-Club",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "X-Club",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "X-Club",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "X-Club",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Exalted",
+				"date": "2011-11-23",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/56b8bf730cf0e.jpg",
+				"phaseid": "012",
+				"sortid": "207",
+				"comiclist": [
+					{
+						"collection": "Astonishing X-Men",
+						"vol": 3,
+						"num": 44
+					},
+					{
+						"collection": "Astonishing X-Men",
+						"vol": 3,
+						"num": 45
+					},
+					{
+						"collection": "Astonishing X-Men",
+						"vol": 3,
+						"num": 46
+					},
+					{
+						"collection": "Astonishing X-Men",
+						"vol": 3,
+						"num": 47
+					}
+				]
 			}
 		]
 	}
