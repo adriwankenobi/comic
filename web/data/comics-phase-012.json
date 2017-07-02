@@ -21033,12 +21033,12 @@
 		"eventid": "024",
 		"characters": [
 			{
-				"id": "068",
-				"name": "X-Men"
-			},
-			{
 				"id": "160",
 				"name": "Hope Summers"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
 			}
 		],
 		"creators": [
@@ -21068,12 +21068,12 @@
 		"eventid": "024",
 		"characters": [
 			{
-				"id": "068",
-				"name": "X-Men"
-			},
-			{
 				"id": "160",
 				"name": "Hope Summers"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
 			}
 		],
 		"creators": [
@@ -21103,12 +21103,12 @@
 		"eventid": "024",
 		"characters": [
 			{
-				"id": "068",
-				"name": "X-Men"
-			},
-			{
 				"id": "160",
 				"name": "Hope Summers"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
 			}
 		],
 		"creators": [
@@ -22034,5 +22034,2897 @@
 		"phaseid": "012",
 		"phasename": "Fear Itself",
 		"sortid": "207"
+	},
+	{
+		"id": "36621",
+		"collection": "Generation Hope",
+		"title": "The End of Hope",
+		"vol": 1,
+		"num": 16,
+		"date": "2012-02-15",
+		"characters": [
+			{
+				"id": "160",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "418",
+				"name": "James Asmus"
+			},
+			{
+				"id": "166",
+				"name": "Takeshi Miyazawa"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/518d2268645e3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "208"
+	},
+	{
+		"id": "36622",
+		"collection": "Generation Hope",
+		"title": "The End of Hope",
+		"vol": 1,
+		"num": 17,
+		"date": "2012-03-21",
+		"characters": [
+			{
+				"id": "160",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "418",
+				"name": "James Asmus"
+			},
+			{
+				"id": "166",
+				"name": "Takeshi Miyazawa"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/56bcbdc2800cb.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "208"
+	},
+	{
+		"id": "40453",
+		"collection": "Uncanny X-Force",
+		"title": "Otherworld",
+		"vol": 1,
+		"num": 20,
+		"date": "2012-01-18",
+		"characters": [
+			{
+				"id": "159",
+				"name": "X-Force"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			},
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "095",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "100",
+				"name": "Greg Tocchini"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/5941902126e2a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "209"
+	},
+	{
+		"id": "40455",
+		"collection": "Uncanny X-Force",
+		"title": "Otherworld",
+		"vol": 1,
+		"num": 21,
+		"date": "2012-02-01",
+		"characters": [
+			{
+				"id": "159",
+				"name": "X-Force"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			},
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "095",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "100",
+				"name": "Greg Tocchini"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/594192605e21d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "209"
+	},
+	{
+		"id": "40452",
+		"collection": "Uncanny X-Force",
+		"title": "Otherworld",
+		"vol": 1,
+		"num": 22,
+		"date": "2012-02-22",
+		"characters": [
+			{
+				"id": "159",
+				"name": "X-Force"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			},
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "095",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "100",
+				"name": "Greg Tocchini"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/59419853a6a3d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "209"
+	},
+	{
+		"id": "40441",
+		"collection": "Uncanny X-Force",
+		"title": "Otherworld",
+		"vol": 1,
+		"num": 23,
+		"date": "2012-03-28",
+		"characters": [
+			{
+				"id": "159",
+				"name": "X-Force"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			},
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "095",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "100",
+				"name": "Greg Tocchini"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/594199ef9b06d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "209"
+	},
+	{
+		"id": "40448",
+		"collection": "Uncanny X-Force",
+		"title": "Otherworld",
+		"vol": 1,
+		"num": 24,
+		"date": "2012-04-18",
+		"characters": [
+			{
+				"id": "159",
+				"name": "X-Force"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			},
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "095",
+				"name": "Captain Britain"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "410",
+				"name": "Phil Noto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/594282c386c55.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "209"
+	},
+	{
+		"id": "40164",
+		"collection": "Uncanny X-Men",
+		"title": "Everything is Sinister",
+		"vol": 2,
+		"num": 4,
+		"date": "2012-01-04",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "092",
+				"name": "Colossus"
+			},
+			{
+				"id": "160",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "104",
+				"name": "Storm"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "098",
+				"name": "Magneto"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "677",
+				"name": "Brandon Peterson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/51895aef48a94.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "210"
+	},
+	{
+		"id": "41550",
+		"collection": "Wolverine \u0026 The X-Men Alpha \u0026 Omega",
+		"title": "Alpha \u0026 Omega",
+		"vol": 1,
+		"num": 1,
+		"date": "2012-01-04",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "191",
+				"name": "Wolverine,"
+			}
+		],
+		"creators": [
+			{
+				"id": "678",
+				"name": "Brian Wood"
+			},
+			{
+				"id": "399",
+				"name": "Roland Boschi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/51e445ea2a08c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "211"
+	},
+	{
+		"id": "41549",
+		"collection": "Wolverine \u0026 The X-Men Alpha \u0026 Omega",
+		"title": "Alpha \u0026 Omega",
+		"vol": 1,
+		"num": 2,
+		"date": "2012-02-08",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "191",
+				"name": "Wolverine,"
+			}
+		],
+		"creators": [
+			{
+				"id": "678",
+				"name": "Brian Wood"
+			},
+			{
+				"id": "399",
+				"name": "Roland Boschi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/51e445f018e6b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "211"
+	},
+	{
+		"id": "41548",
+		"collection": "Wolverine \u0026 The X-Men Alpha \u0026 Omega",
+		"title": "Alpha \u0026 Omega",
+		"vol": 1,
+		"num": 3,
+		"date": "2012-03-07",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "191",
+				"name": "Wolverine,"
+			}
+		],
+		"creators": [
+			{
+				"id": "678",
+				"name": "Brian Wood"
+			},
+			{
+				"id": "399",
+				"name": "Roland Boschi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/56bca6acd7514.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "211"
+	},
+	{
+		"id": "41547",
+		"collection": "Wolverine \u0026 The X-Men Alpha \u0026 Omega",
+		"title": "Alpha \u0026 Omega",
+		"vol": 1,
+		"num": 4,
+		"date": "2012-04-04",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "191",
+				"name": "Wolverine,"
+			}
+		],
+		"creators": [
+			{
+				"id": "678",
+				"name": "Brian Wood"
+			},
+			{
+				"id": "399",
+				"name": "Roland Boschi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/4f7ded2f68477.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "211"
+	},
+	{
+		"id": "41546",
+		"collection": "Wolverine \u0026 The X-Men Alpha \u0026 Omega",
+		"title": "Alpha \u0026 Omega",
+		"vol": 1,
+		"num": 5,
+		"date": "2012-05-02",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "191",
+				"name": "Wolverine,"
+			}
+		],
+		"creators": [
+			{
+				"id": "678",
+				"name": "Brian Wood"
+			},
+			{
+				"id": "399",
+				"name": "Roland Boschi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4fa43ee6b1da6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "211"
+	},
+	{
+		"id": "40524",
+		"collection": "Daken Dark Wolverine",
+		"title": "Lost Weekend",
+		"vol": 1,
+		"num": 20,
+		"date": "2012-01-25",
+		"characters": [
+			{
+				"id": "147",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "566",
+				"name": "Alessandro Vitti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/56bb6cb222765.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "212"
+	},
+	{
+		"id": "40523",
+		"collection": "Daken Dark Wolverine",
+		"title": "Lost Weekend",
+		"vol": 1,
+		"num": 21,
+		"date": "2012-02-08",
+		"characters": [
+			{
+				"id": "147",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "640",
+				"name": "Matteo Buffagni"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/04/56bb8a9acdf99.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "212"
+	},
+	{
+		"id": "40526",
+		"collection": "Daken Dark Wolverine",
+		"title": "Lost Weekend",
+		"vol": 1,
+		"num": 22,
+		"date": "2012-03-14",
+		"characters": [
+			{
+				"id": "147",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "640",
+				"name": "Matteo Buffagni"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/56bcacd3b5971.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "212"
+	},
+	{
+		"id": "40522",
+		"collection": "Daken Dark Wolverine",
+		"title": "Lost Weekend",
+		"vol": 1,
+		"num": 23,
+		"date": "2012-03-28",
+		"characters": [
+			{
+				"id": "147",
+				"name": "Daken"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "640",
+				"name": "Matteo Buffagni"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4f748ac832ce2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "212"
+	},
+	{
+		"id": "40158",
+		"collection": "Uncanny X-Men",
+		"title": "Tabula Rasa",
+		"vol": 2,
+		"num": 5,
+		"date": "2012-01-18",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "092",
+				"name": "Colossus"
+			},
+			{
+				"id": "160",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "104",
+				"name": "Storm"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "098",
+				"name": "Magneto"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "249",
+				"name": "Greg Land"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/51895c418bd50.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "213"
+	},
+	{
+		"id": "40161",
+		"collection": "Uncanny X-Men",
+		"title": "Tabula Rasa",
+		"vol": 2,
+		"num": 6,
+		"date": "2012-02-01",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "092",
+				"name": "Colossus"
+			},
+			{
+				"id": "160",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "104",
+				"name": "Storm"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "098",
+				"name": "Magneto"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "249",
+				"name": "Greg Land"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/51895c3a4ea41.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "213"
+	},
+	{
+		"id": "40157",
+		"collection": "Uncanny X-Men",
+		"title": "Tabula Rasa",
+		"vol": 2,
+		"num": 7,
+		"date": "2012-02-15",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "092",
+				"name": "Colossus"
+			},
+			{
+				"id": "160",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "104",
+				"name": "Storm"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "098",
+				"name": "Magneto"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "249",
+				"name": "Greg Land"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/518963587aca7.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "213"
+	},
+	{
+		"id": "40162",
+		"collection": "Uncanny X-Men",
+		"title": "Tabula Rasa",
+		"vol": 2,
+		"num": 8,
+		"date": "2012-03-07",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "069",
+				"name": "Cyclops"
+			},
+			{
+				"id": "092",
+				"name": "Colossus"
+			},
+			{
+				"id": "160",
+				"name": "Hope Summers"
+			},
+			{
+				"id": "104",
+				"name": "Storm"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			},
+			{
+				"id": "098",
+				"name": "Magneto"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "249",
+				"name": "Greg Land"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/51895c19e6914.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "213"
+	},
+	{
+		"id": "38575",
+		"collection": "Wolverine \u0026 The X-Men",
+		"title": "Mutatis Mutandis",
+		"vol": 1,
+		"num": 5,
+		"date": "2012-02-08",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "091",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "102",
+				"name": "Rachel Grey"
+			},
+			{
+				"id": "021",
+				"name": "Beast"
+			},
+			{
+				"id": "130",
+				"name": "Iceman"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "629",
+				"name": "Nick Bradshaw"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/51e44ac58c548.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "214"
+	},
+	{
+		"id": "38579",
+		"collection": "Wolverine \u0026 The X-Men",
+		"title": "Mutatis Mutandis",
+		"vol": 1,
+		"num": 6,
+		"date": "2012-02-22",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "091",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "102",
+				"name": "Rachel Grey"
+			},
+			{
+				"id": "021",
+				"name": "Beast"
+			},
+			{
+				"id": "130",
+				"name": "Iceman"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "629",
+				"name": "Nick Bradshaw"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/593ac8d865791.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "214"
+	},
+	{
+		"id": "38581",
+		"collection": "Wolverine \u0026 The X-Men",
+		"title": "Mutatis Mutandis",
+		"vol": 1,
+		"num": 7,
+		"date": "2012-03-14",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "091",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "102",
+				"name": "Rachel Grey"
+			},
+			{
+				"id": "021",
+				"name": "Beast"
+			},
+			{
+				"id": "130",
+				"name": "Iceman"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "629",
+				"name": "Nick Bradshaw"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/56bcb8378b15b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "214"
+	},
+	{
+		"id": "38577",
+		"collection": "Wolverine \u0026 The X-Men",
+		"title": "Mutatis Mutandis",
+		"vol": 1,
+		"num": 8,
+		"date": "2012-04-04",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "091",
+				"name": "Kitty Pryde"
+			},
+			{
+				"id": "102",
+				"name": "Rachel Grey"
+			},
+			{
+				"id": "021",
+				"name": "Beast"
+			},
+			{
+				"id": "130",
+				"name": "Iceman"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "131",
+				"name": "Chris Bachalo"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/4f7dec6771e67.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "214"
+	},
+	{
+		"id": "40191",
+		"collection": "X-Factor",
+		"title": "Together Again for the First Time",
+		"vol": 1,
+		"num": 233,
+		"date": "2012-03-21",
+		"characters": [
+			{
+				"id": "106",
+				"name": "X-Factor"
+			},
+			{
+				"id": "107",
+				"name": "Madrox"
+			},
+			{
+				"id": "133",
+				"name": "Layla Miller"
+			},
+			{
+				"id": "132",
+				"name": "Havok"
+			},
+			{
+				"id": "131",
+				"name": "Polaris"
+			},
+			{
+				"id": "108",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "136",
+				"name": "Siryn"
+			},
+			{
+				"id": "137",
+				"name": "Rictor"
+			},
+			{
+				"id": "109",
+				"name": "Wolfsbane"
+			},
+			{
+				"id": "138",
+				"name": "Monet"
+			}
+		],
+		"creators": [
+			{
+				"id": "074",
+				"name": "Peter David"
+			},
+			{
+				"id": "259",
+				"name": "Leonard Kirk"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/56bcc294db583.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "215"
+	},
+	{
+		"id": "40190",
+		"collection": "X-Factor",
+		"title": "Together Again for the First Time",
+		"vol": 1,
+		"num": 234,
+		"date": "2012-04-18",
+		"characters": [
+			{
+				"id": "106",
+				"name": "X-Factor"
+			},
+			{
+				"id": "107",
+				"name": "Madrox"
+			},
+			{
+				"id": "133",
+				"name": "Layla Miller"
+			},
+			{
+				"id": "132",
+				"name": "Havok"
+			},
+			{
+				"id": "131",
+				"name": "Polaris"
+			},
+			{
+				"id": "108",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "136",
+				"name": "Siryn"
+			},
+			{
+				"id": "137",
+				"name": "Rictor"
+			},
+			{
+				"id": "109",
+				"name": "Wolfsbane"
+			},
+			{
+				"id": "138",
+				"name": "Monet"
+			}
+		],
+		"creators": [
+			{
+				"id": "074",
+				"name": "Peter David"
+			},
+			{
+				"id": "259",
+				"name": "Leonard Kirk"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/56cb1cf675148.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "215"
+	},
+	{
+		"id": "40189",
+		"collection": "X-Factor",
+		"title": "Together Again for the First Time",
+		"vol": 1,
+		"num": 235,
+		"date": "2012-05-02",
+		"characters": [
+			{
+				"id": "106",
+				"name": "X-Factor"
+			},
+			{
+				"id": "107",
+				"name": "Madrox"
+			},
+			{
+				"id": "133",
+				"name": "Layla Miller"
+			},
+			{
+				"id": "132",
+				"name": "Havok"
+			},
+			{
+				"id": "131",
+				"name": "Polaris"
+			},
+			{
+				"id": "108",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "136",
+				"name": "Siryn"
+			},
+			{
+				"id": "137",
+				"name": "Rictor"
+			},
+			{
+				"id": "109",
+				"name": "Wolfsbane"
+			},
+			{
+				"id": "138",
+				"name": "Monet"
+			}
+		],
+		"creators": [
+			{
+				"id": "074",
+				"name": "Peter David"
+			},
+			{
+				"id": "259",
+				"name": "Leonard Kirk"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/56cb2fbb0409d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "215"
+	},
+	{
+		"id": "40188",
+		"collection": "X-Factor",
+		"title": "Together Again for the First Time",
+		"vol": 1,
+		"num": 236,
+		"date": "2012-05-16",
+		"characters": [
+			{
+				"id": "106",
+				"name": "X-Factor"
+			},
+			{
+				"id": "107",
+				"name": "Madrox"
+			},
+			{
+				"id": "133",
+				"name": "Layla Miller"
+			},
+			{
+				"id": "132",
+				"name": "Havok"
+			},
+			{
+				"id": "131",
+				"name": "Polaris"
+			},
+			{
+				"id": "108",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "136",
+				"name": "Siryn"
+			},
+			{
+				"id": "137",
+				"name": "Rictor"
+			},
+			{
+				"id": "109",
+				"name": "Wolfsbane"
+			},
+			{
+				"id": "138",
+				"name": "Monet"
+			}
+		],
+		"creators": [
+			{
+				"id": "074",
+				"name": "Peter David"
+			},
+			{
+				"id": "259",
+				"name": "Leonard Kirk"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/59540ceb76de0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "215"
+	},
+	{
+		"id": "40182",
+		"collection": "X-Factor",
+		"title": "The Road to Redemption",
+		"vol": 1,
+		"num": 237,
+		"date": "2012-06-06",
+		"characters": [
+			{
+				"id": "106",
+				"name": "X-Factor"
+			},
+			{
+				"id": "107",
+				"name": "Madrox"
+			},
+			{
+				"id": "136",
+				"name": "Siryn"
+			},
+			{
+				"id": "132",
+				"name": "Havok"
+			},
+			{
+				"id": "131",
+				"name": "Polaris"
+			},
+			{
+				"id": "133",
+				"name": "Layla Miller"
+			},
+			{
+				"id": "138",
+				"name": "Monet"
+			},
+			{
+				"id": "109",
+				"name": "Wolfsbane"
+			}
+		],
+		"creators": [
+			{
+				"id": "074",
+				"name": "Peter David"
+			},
+			{
+				"id": "452",
+				"name": "Neil Edwards"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/595412671657b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "216"
+	},
+	{
+		"id": "40181",
+		"collection": "X-Factor",
+		"title": "The Road to Redemption",
+		"vol": 1,
+		"num": 238,
+		"date": "2012-06-20",
+		"characters": [
+			{
+				"id": "106",
+				"name": "X-Factor"
+			},
+			{
+				"id": "107",
+				"name": "Madrox"
+			},
+			{
+				"id": "133",
+				"name": "Layla Miller"
+			},
+			{
+				"id": "132",
+				"name": "Havok"
+			},
+			{
+				"id": "131",
+				"name": "Polaris"
+			},
+			{
+				"id": "108",
+				"name": "Strong Guy"
+			},
+			{
+				"id": "136",
+				"name": "Siryn"
+			},
+			{
+				"id": "137",
+				"name": "Rictor"
+			},
+			{
+				"id": "109",
+				"name": "Wolfsbane"
+			},
+			{
+				"id": "138",
+				"name": "Monet"
+			}
+		],
+		"creators": [
+			{
+				"id": "074",
+				"name": "Peter David"
+			},
+			{
+				"id": "586",
+				"name": "Paul Davidson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/59550146c5b23.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "216"
+	},
+	{
+		"id": "40180",
+		"collection": "X-Factor",
+		"title": "The Road to Redemption",
+		"vol": 1,
+		"num": 239,
+		"date": "2012-07-04",
+		"characters": [
+			{
+				"id": "106",
+				"name": "X-Factor"
+			},
+			{
+				"id": "132",
+				"name": "Havok"
+			},
+			{
+				"id": "136",
+				"name": "Siryn"
+			},
+			{
+				"id": "138",
+				"name": "Monet"
+			},
+			{
+				"id": "108",
+				"name": "Strong Guy"
+			}
+		],
+		"creators": [
+			{
+				"id": "074",
+				"name": "Peter David"
+			},
+			{
+				"id": "586",
+				"name": "Paul Davidson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5955093eda097.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "216"
+	},
+	{
+		"id": "40184",
+		"collection": "X-Factor",
+		"title": "The Road to Redemption",
+		"vol": 1,
+		"num": 240,
+		"date": "2012-07-18",
+		"characters": [
+			{
+				"id": "106",
+				"name": "X-Factor"
+			},
+			{
+				"id": "133",
+				"name": "Layla Miller"
+			}
+		],
+		"creators": [
+			{
+				"id": "074",
+				"name": "Peter David"
+			},
+			{
+				"id": "452",
+				"name": "Neil Edwards"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/595513a7da965.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "216"
+	},
+	{
+		"id": "40444",
+		"collection": "Uncanny X-Force",
+		"title": "Final Execution",
+		"vol": 1,
+		"num": 25,
+		"date": "2012-05-09",
+		"characters": [
+			{
+				"id": "159",
+				"name": "X-Force"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "141",
+				"name": "Mike McKone"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/59428434ba27d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "217"
+	},
+	{
+		"id": "40443",
+		"collection": "Uncanny X-Force",
+		"title": "Final Execution",
+		"vol": 1,
+		"num": 26,
+		"date": "2012-06-13",
+		"characters": [
+			{
+				"id": "159",
+				"name": "X-Force"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "410",
+				"name": "Phil Noto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/594286dacaf9f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "217"
+	},
+	{
+		"id": "40447",
+		"collection": "Uncanny X-Force",
+		"title": "Final Execution",
+		"vol": 1,
+		"num": 27,
+		"date": "2012-07-11",
+		"characters": [
+			{
+				"id": "159",
+				"name": "X-Force"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "410",
+				"name": "Phil Noto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/30/59428906a6682.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "217"
+	},
+	{
+		"id": "40445",
+		"collection": "Uncanny X-Force",
+		"title": "Final Execution",
+		"vol": 1,
+		"num": 28,
+		"date": "2012-07-25",
+		"characters": [
+			{
+				"id": "159",
+				"name": "X-Force"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "679",
+				"name": "Julian Totino Tedesco"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/59428b4bb9077.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "217"
+	},
+	{
+		"id": "40440",
+		"collection": "Uncanny X-Force",
+		"title": "Final Execution",
+		"vol": 1,
+		"num": 29,
+		"date": "2012-08-15",
+		"characters": [
+			{
+				"id": "159",
+				"name": "X-Force"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "679",
+				"name": "Julian Totino Tedesco"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/59428cfb9a0a6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "217"
+	},
+	{
+		"id": "40442",
+		"collection": "Uncanny X-Force",
+		"title": "Final Execution",
+		"vol": 1,
+		"num": 30,
+		"date": "2012-08-29",
+		"characters": [
+			{
+				"id": "159",
+				"name": "X-Force"
+			},
+			{
+				"id": "192",
+				"name": "X-Men,"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "386",
+				"name": "David Williams"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/59429120f0db4.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "217"
+	},
+	{
+		"id": "40449",
+		"collection": "Uncanny X-Force",
+		"title": "Final Execution",
+		"vol": 1,
+		"num": 31,
+		"date": "2012-09-12",
+		"characters": [
+			{
+				"id": "159",
+				"name": "X-Force"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "410",
+				"name": "Phil Noto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/5931681e53b70.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "217"
+	},
+	{
+		"id": "40438",
+		"collection": "Uncanny X-Force",
+		"title": "Final Execution",
+		"vol": 1,
+		"num": 32,
+		"date": "2012-10-03",
+		"characters": [
+			{
+				"id": "159",
+				"name": "X-Force"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "410",
+				"name": "Phil Noto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/593175fecea83.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "217"
+	},
+	{
+		"id": "40439",
+		"collection": "Uncanny X-Force",
+		"title": "Final Execution",
+		"vol": 1,
+		"num": 33,
+		"date": "2012-11-07",
+		"characters": [
+			{
+				"id": "159",
+				"name": "X-Force"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "410",
+				"name": "Phil Noto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/5931847808761.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "217"
+	},
+	{
+		"id": "40446",
+		"collection": "Uncanny X-Force",
+		"title": "Final Execution",
+		"vol": 1,
+		"num": 34,
+		"date": "2012-11-21",
+		"characters": [
+			{
+				"id": "159",
+				"name": "X-Force"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "410",
+				"name": "Phil Noto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/59318c50024b8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "217"
+	},
+	{
+		"id": "40450",
+		"collection": "Uncanny X-Force",
+		"title": "Final Execution",
+		"vol": 1,
+		"num": 35,
+		"date": "2012-12-19",
+		"characters": [
+			{
+				"id": "159",
+				"name": "X-Force"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "003",
+				"name": "Deadpool"
+			},
+			{
+				"id": "125",
+				"name": "Psylocke"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "410",
+				"name": "Phil Noto"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/593196681e577.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "217"
+	},
+	{
+		"id": "40853",
+		"collection": "X-Men Legacy",
+		"title": "Back to School",
+		"vol": 1,
+		"num": 261,
+		"date": "2012-01-25",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "085",
+				"name": "Rogue"
+			},
+			{
+				"id": "102",
+				"name": "Rachel Grey"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "130",
+				"name": "Iceman"
+			},
+			{
+				"id": "021",
+				"name": "Beast"
+			}
+		],
+		"creators": [
+			{
+				"id": "273",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "599",
+				"name": "David Baldeon"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/51a4e825deae9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "218"
+	},
+	{
+		"id": "40838",
+		"collection": "X-Men Legacy",
+		"title": "Back to School",
+		"vol": 1,
+		"num": 262,
+		"date": "2012-02-22",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "085",
+				"name": "Rogue"
+			},
+			{
+				"id": "102",
+				"name": "Rachel Grey"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "130",
+				"name": "Iceman"
+			},
+			{
+				"id": "021",
+				"name": "Beast"
+			}
+		],
+		"creators": [
+			{
+				"id": "273",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "599",
+				"name": "David Baldeon"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/51a4e81dbade6.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "218"
+	},
+	{
+		"id": "40854",
+		"collection": "X-Men Legacy",
+		"title": "Back to School",
+		"vol": 1,
+		"num": 263,
+		"date": "2012-08-08",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "085",
+				"name": "Rogue"
+			},
+			{
+				"id": "102",
+				"name": "Rachel Grey"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "130",
+				"name": "Iceman"
+			},
+			{
+				"id": "021",
+				"name": "Beast"
+			}
+		],
+		"creators": [
+			{
+				"id": "273",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "599",
+				"name": "David Baldeon"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/58c035a035231.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "218"
+	},
+	{
+		"id": "40849",
+		"collection": "X-Men Legacy",
+		"title": "Back to School",
+		"vol": 1,
+		"num": 264,
+		"date": "2012-03-28",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "085",
+				"name": "Rogue"
+			},
+			{
+				"id": "102",
+				"name": "Rachel Grey"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "130",
+				"name": "Iceman"
+			},
+			{
+				"id": "021",
+				"name": "Beast"
+			}
+		],
+		"creators": [
+			{
+				"id": "273",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "396",
+				"name": "Rafa Sandoval"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/4fa42fde33aba.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "218"
+	},
+	{
+		"id": "40842",
+		"collection": "X-Men Legacy",
+		"title": "Back to School",
+		"vol": 1,
+		"num": 265,
+		"date": "2012-04-25",
+		"characters": [
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "085",
+				"name": "Rogue"
+			},
+			{
+				"id": "102",
+				"name": "Rachel Grey"
+			},
+			{
+				"id": "086",
+				"name": "Gambit"
+			},
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "130",
+				"name": "Iceman"
+			},
+			{
+				"id": "021",
+				"name": "Beast"
+			}
+		],
+		"creators": [
+			{
+				"id": "273",
+				"name": "Christos Gage"
+			},
+			{
+				"id": "396",
+				"name": "Rafa Sandoval"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/56cb2702902c2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "218"
+	},
+	{
+		"id": "40621",
+		"collection": "Wolverine",
+		"title": "Back in Japan",
+		"vol": 4,
+		"num": 20,
+		"date": "2011-12-21",
+		"characters": [
+			{
+				"id": "074",
+				"name": "Wolverine"
+			},
+			{
+				"id": "083",
+				"name": "Kingpin"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "680",
+				"name": "Renato Guedes,"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/51ee98971ab98.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "219"
+	},
+	{
+		"id": "41257",
+		"collection": "Wolverine",
+		"title": "Back in Japan",
+		"vol": 2,
+		"num": 300,
+		"date": "2012-01-11",
+		"characters": [
+			{
+				"id": "074",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "268",
+				"name": "Adam Kubert"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/562a6fe8d396a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "219"
+	},
+	{
+		"id": "41256",
+		"collection": "Wolverine",
+		"title": "Back in Japan",
+		"vol": 2,
+		"num": 301,
+		"date": "2012-02-15",
+		"characters": [
+			{
+				"id": "074",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "252",
+				"name": "Billy Tan"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/56bb9afcac6f1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "219"
+	},
+	{
+		"id": "41258",
+		"collection": "Wolverine",
+		"title": "Back in Japan",
+		"vol": 2,
+		"num": 302,
+		"date": "2012-03-07",
+		"characters": [
+			{
+				"id": "074",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "252",
+				"name": "Billy Tan"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/56bca5bc77c24.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "219"
+	},
+	{
+		"id": "41259",
+		"collection": "Wolverine",
+		"title": "Back in Japan",
+		"vol": 2,
+		"num": 303,
+		"date": "2012-03-21",
+		"characters": [
+			{
+				"id": "074",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "252",
+				"name": "Billy Tan"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/56bcc201e4e31.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "219"
+	},
+	{
+		"id": "41254",
+		"collection": "Wolverine",
+		"title": "Back in Japan",
+		"vol": 2,
+		"num": 304,
+		"date": "2012-04-11",
+		"characters": [
+			{
+				"id": "074",
+				"name": "Wolverine"
+			}
+		],
+		"creators": [
+			{
+				"id": "373",
+				"name": "Jason Aaron"
+			},
+			{
+				"id": "040",
+				"name": "Steve Dillon"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/56c6065b0c57e.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "219"
+	},
+	{
+		"id": "40209",
+		"collection": "Deadpool",
+		"title": "DEAD",
+		"vol": 2,
+		"num": 50,
+		"date": "2012-02-08",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "481",
+				"name": "Carlo Barberi"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51a501be2e6c5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "220"
+	},
+	{
+		"id": "40208",
+		"collection": "Deadpool",
+		"title": "DEAD",
+		"vol": 2,
+		"num": 51,
+		"date": "2012-02-22",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "681",
+				"name": "Alejandro Garza"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/51a502ca078ca.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "220"
+	},
+	{
+		"id": "40207",
+		"collection": "Deadpool",
+		"title": "DEAD",
+		"vol": 2,
+		"num": 52,
+		"date": "2012-03-21",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "681",
+				"name": "Alejandro Garza"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5734cf97421f5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "220"
+	},
+	{
+		"id": "40197",
+		"collection": "Deadpool",
+		"title": "DEAD",
+		"vol": 2,
+		"num": 53,
+		"date": "2012-04-11",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "681",
+				"name": "Alejandro Garza"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/51a502bb090a8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "220"
+	},
+	{
+		"id": "40203",
+		"collection": "Deadpool",
+		"title": "DEAD",
+		"vol": 2,
+		"num": 54,
+		"date": "2012-05-09",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "681",
+				"name": "Alejandro Garza"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/51a502b25c4f3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "220"
+	},
+	{
+		"id": "40206",
+		"collection": "Deadpool",
+		"title": "DEAD",
+		"vol": 2,
+		"num": 55,
+		"date": "2012-05-23",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "554",
+				"name": "Shawn Crystal"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/51a502ab86630.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "220"
+	},
+	{
+		"id": "40196",
+		"collection": "Deadpool",
+		"title": "DEAD",
+		"vol": 2,
+		"num": 56,
+		"date": "2012-06-13",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "554",
+				"name": "Shawn Crystal"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/51a503af7dced.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "220"
+	},
+	{
+		"id": "40202",
+		"collection": "Deadpool",
+		"title": "DEAD",
+		"vol": 2,
+		"num": 57,
+		"date": "2012-07-04",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "554",
+				"name": "Shawn Crystal"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/51a503a0a5675.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "220"
+	},
+	{
+		"id": "40201",
+		"collection": "Deadpool",
+		"title": "DEAD",
+		"vol": 2,
+		"num": 58,
+		"date": "2012-07-25",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "681",
+				"name": "Alejandro Garza"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/51a50391debba.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "220"
+	},
+	{
+		"id": "40200",
+		"collection": "Deadpool",
+		"title": "DEAD",
+		"vol": 2,
+		"num": 59,
+		"date": "2012-08-15",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "397",
+				"name": "Salvador Espin"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/51a50756e6b04.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "220"
+	},
+	{
+		"id": "40199",
+		"collection": "Deadpool",
+		"title": "DEAD",
+		"vol": 2,
+		"num": 60,
+		"date": "2012-09-05",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "397",
+				"name": "Salvador Espin"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/51a504b4dd565.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "220"
+	},
+	{
+		"id": "40204",
+		"collection": "Deadpool",
+		"title": "DEAD",
+		"vol": 2,
+		"num": 61,
+		"date": "2012-09-26",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "681",
+				"name": "Alejandro Garza"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/51a504aca9adc.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "220"
+	},
+	{
+		"id": "40198",
+		"collection": "Deadpool",
+		"title": "DEAD",
+		"vol": 2,
+		"num": 62,
+		"date": "2012-10-10",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "681",
+				"name": "Alejandro Garza"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/51a5049fe401f.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "220"
+	},
+	{
+		"id": "40214",
+		"collection": "Deadpool",
+		"title": "DEAD",
+		"vol": 2,
+		"num": 63,
+		"date": "2012-10-24",
+		"characters": [
+			{
+				"id": "003",
+				"name": "Deadpool"
+			}
+		],
+		"creators": [
+			{
+				"id": "156",
+				"name": "Daniel Way"
+			},
+			{
+				"id": "681",
+				"name": "Alejandro Garza"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/51a504996b077.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Translated"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "220"
 	}
 ]

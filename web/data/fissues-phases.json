@@ -50904,8 +50904,8 @@
 				"date": "2011-11-16",
 				"characters": [
 					{
-						"id": "068",
-						"name": "X-Men"
+						"id": "160",
+						"name": "Hope Summers"
 					}
 				],
 				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/518d21c6b2e77.jpg",
@@ -51128,6 +51128,549 @@
 						"collection": "Astonishing X-Men",
 						"vol": 3,
 						"num": 47
+					}
+				]
+			},
+			{
+				"title": "The End of Hope",
+				"date": "2012-02-15",
+				"characters": [
+					{
+						"id": "160",
+						"name": "Hope Summers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/518d2268645e3.jpg",
+				"phaseid": "012",
+				"sortid": "208",
+				"comiclist": [
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 16
+					},
+					{
+						"collection": "Generation Hope",
+						"vol": 1,
+						"num": 17
+					}
+				]
+			},
+			{
+				"title": "Otherworld",
+				"date": "2012-01-18",
+				"characters": [
+					{
+						"id": "159",
+						"name": "X-Force"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/5941902126e2a.jpg",
+				"phaseid": "012",
+				"sortid": "209",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 20
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 21
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 22
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 23
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 24
+					}
+				]
+			},
+			{
+				"title": "Everything is Sinister",
+				"date": "2012-01-04",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/51895aef48a94.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "210",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 2,
+						"num": 4
+					}
+				]
+			},
+			{
+				"title": "Alpha \u0026 Omega",
+				"date": "2012-01-04",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/51e445ea2a08c.jpg",
+				"phaseid": "012",
+				"sortid": "211",
+				"comiclist": [
+					{
+						"collection": "Wolverine \u0026 The X-Men Alpha \u0026 Omega",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Wolverine \u0026 The X-Men Alpha \u0026 Omega",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Wolverine \u0026 The X-Men Alpha \u0026 Omega",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Wolverine \u0026 The X-Men Alpha \u0026 Omega",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Wolverine \u0026 The X-Men Alpha \u0026 Omega",
+						"vol": 1,
+						"num": 5
+					}
+				]
+			},
+			{
+				"title": "Lost Weekend",
+				"date": "2012-01-25",
+				"characters": [
+					{
+						"id": "147",
+						"name": "Daken"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/56bb6cb222765.jpg",
+				"phaseid": "012",
+				"sortid": "212",
+				"comiclist": [
+					{
+						"collection": "Daken Dark Wolverine",
+						"vol": 1,
+						"num": 20
+					},
+					{
+						"collection": "Daken Dark Wolverine",
+						"vol": 1,
+						"num": 21
+					},
+					{
+						"collection": "Daken Dark Wolverine",
+						"vol": 1,
+						"num": 22
+					},
+					{
+						"collection": "Daken Dark Wolverine",
+						"vol": 1,
+						"num": 23
+					}
+				]
+			},
+			{
+				"title": "Tabula Rasa",
+				"date": "2012-01-18",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/51895c418bd50.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "213",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 2,
+						"num": 5
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 2,
+						"num": 6
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 2,
+						"num": 7
+					},
+					{
+						"collection": "Uncanny X-Men",
+						"vol": 2,
+						"num": 8
+					}
+				]
+			},
+			{
+				"title": "Mutatis Mutandis",
+				"date": "2012-02-08",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/51e44ac58c548.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "214",
+				"comiclist": [
+					{
+						"collection": "Wolverine \u0026 The X-Men",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Wolverine \u0026 The X-Men",
+						"vol": 1,
+						"num": 6
+					},
+					{
+						"collection": "Wolverine \u0026 The X-Men",
+						"vol": 1,
+						"num": 7
+					},
+					{
+						"collection": "Wolverine \u0026 The X-Men",
+						"vol": 1,
+						"num": 8
+					}
+				]
+			},
+			{
+				"title": "Together Again for the First Time",
+				"date": "2012-03-21",
+				"characters": [
+					{
+						"id": "106",
+						"name": "X-Factor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/56bcc294db583.jpg",
+				"phaseid": "012",
+				"sortid": "215",
+				"comiclist": [
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 233
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 234
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 235
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 236
+					}
+				]
+			},
+			{
+				"title": "The Road to Redemption",
+				"date": "2012-06-06",
+				"characters": [
+					{
+						"id": "106",
+						"name": "X-Factor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/595412671657b.jpg",
+				"phaseid": "012",
+				"sortid": "216",
+				"comiclist": [
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 237
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 238
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 239
+					},
+					{
+						"collection": "X-Factor",
+						"vol": 1,
+						"num": 240
+					}
+				]
+			},
+			{
+				"title": "Final Execution",
+				"date": "2012-05-09",
+				"characters": [
+					{
+						"id": "159",
+						"name": "X-Force"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/59428434ba27d.jpg",
+				"phaseid": "012",
+				"sortid": "217",
+				"comiclist": [
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 25
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 26
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 27
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 28
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 29
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 30
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 31
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 32
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 33
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 34
+					},
+					{
+						"collection": "Uncanny X-Force",
+						"vol": 1,
+						"num": 35
+					}
+				]
+			},
+			{
+				"title": "Back to School",
+				"date": "2012-01-25",
+				"characters": [
+					{
+						"id": "068",
+						"name": "X-Men"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/51a4e825deae9.jpg",
+				"phaseid": "012",
+				"sortid": "218",
+				"comiclist": [
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 261
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 262
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 263
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 264
+					},
+					{
+						"collection": "X-Men Legacy",
+						"vol": 1,
+						"num": 265
+					}
+				]
+			},
+			{
+				"title": "Back in Japan",
+				"date": "2011-12-21",
+				"characters": [
+					{
+						"id": "074",
+						"name": "Wolverine"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/51ee98971ab98.jpg",
+				"phaseid": "012",
+				"sortid": "219",
+				"comiclist": [
+					{
+						"collection": "Wolverine",
+						"vol": 4,
+						"num": 20
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 2,
+						"num": 300
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 2,
+						"num": 301
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 2,
+						"num": 302
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 2,
+						"num": 303
+					},
+					{
+						"collection": "Wolverine",
+						"vol": 2,
+						"num": 304
+					}
+				]
+			},
+			{
+				"title": "DEAD",
+				"date": "2012-02-08",
+				"characters": [
+					{
+						"id": "003",
+						"name": "Deadpool"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51a501be2e6c5.jpg",
+				"phaseid": "012",
+				"sortid": "220",
+				"comiclist": [
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 50
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 51
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 52
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 53
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 54
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 55
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 56
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 57
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 58
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 59
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 60
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 61
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 62
+					},
+					{
+						"collection": "Deadpool",
+						"vol": 2,
+						"num": 63
 					}
 				]
 			}
