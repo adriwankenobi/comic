@@ -50830,7 +50830,7 @@
 				]
 			},
 			{
-				"title": "Regenesis New Mutants",
+				"title": "A Date with the Devil",
 				"date": "2011-11-02",
 				"characters": [
 					{
@@ -51671,6 +51671,725 @@
 						"collection": "Deadpool",
 						"vol": 2,
 						"num": 63
+					}
+				]
+			},
+			{
+				"title": "Road Trip",
+				"date": "2011-11-16",
+				"characters": [
+					{
+						"id": "184",
+						"name": "Flash Thompson"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/56b8bb5b6efb9.jpg",
+				"phaseid": "012",
+				"sortid": "221",
+				"comiclist": [
+					{
+						"collection": "Venom",
+						"vol": 2,
+						"num": 9
+					},
+					{
+						"collection": "Venom",
+						"vol": 2,
+						"num": 10
+					},
+					{
+						"collection": "Venom",
+						"vol": 2,
+						"num": 11
+					},
+					{
+						"collection": "Venom",
+						"vol": 2,
+						"num": 12
+					}
+				]
+			},
+			{
+				"title": "Circle of Four",
+				"date": "2012-02-01",
+				"characters": [
+					{
+						"id": "184",
+						"name": "Flash Thompson"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4f26edfa0ac75.jpg",
+				"phaseid": "012",
+				"sortid": "222",
+				"comiclist": [
+					{
+						"collection": "Venom",
+						"vol": 2,
+						"num": 13
+					},
+					{
+						"collection": "Venom",
+						"vol": 2,
+						"num": 13.1
+					},
+					{
+						"collection": "Venom",
+						"vol": 2,
+						"num": 13.2
+					},
+					{
+						"collection": "Venom",
+						"vol": 2,
+						"num": 13.3
+					},
+					{
+						"collection": "Venom",
+						"vol": 2,
+						"num": 13.4
+					},
+					{
+						"collection": "Venom",
+						"vol": 2,
+						"num": 14
+					}
+				]
+			},
+			{
+				"title": "De-Animator",
+				"date": "2012-02-08",
+				"characters": [
+					{
+						"id": "176",
+						"name": "New Mutants"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/5155d47c455b2.jpg",
+				"phaseid": "012",
+				"sortid": "223",
+				"comiclist": [
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 37
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 38
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 39
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 40
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 41
+					}
+				]
+			},
+			{
+				"title": "The Seduction of Donald Blake",
+				"date": "2012-04-11",
+				"characters": [
+					{
+						"id": "036",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4f85c9f3d14b0.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "224",
+				"comiclist": [
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 12.1
+					},
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 13
+					},
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 14
+					},
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 15
+					},
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 16
+					},
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 17
+					}
+				]
+			},
+			{
+				"title": "Exiled",
+				"date": "2012-05-02",
+				"characters": [
+					{
+						"id": "176",
+						"name": "New Mutants"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4fa43d5063162.jpg",
+				"phaseid": "012",
+				"sortid": "225",
+				"comiclist": [
+					{
+						"collection": "Exiled",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 637
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 42
+					},
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 638
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 43
+					},
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 639
+					},
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 640
+					},
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 641
+					}
+				]
+			},
+			{
+				"title": "Everything Burns",
+				"date": "2012-08-08",
+				"characters": [
+					{
+						"id": "036",
+						"name": "Thor"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/30/500f0014ddd51.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "226",
+				"comiclist": [
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 18
+					},
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 642
+					},
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 19
+					},
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 643
+					},
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 20
+					},
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 644
+					},
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 21
+					},
+					{
+						"collection": "Journey into Mystery",
+						"vol": 1,
+						"num": 645
+					},
+					{
+						"collection": "Mighty Thor",
+						"vol": 1,
+						"num": 22
+					}
+				]
+			},
+			{
+				"title": "Fight the Future",
+				"date": "2012-06-20",
+				"characters": [
+					{
+						"id": "176",
+						"name": "New Mutants"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5155d57cc5415.jpg",
+				"phaseid": "012",
+				"sortid": "227",
+				"comiclist": [
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 44
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 45
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 46
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 47
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 48
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 49
+					},
+					{
+						"collection": "New Mutants",
+						"vol": 3,
+						"num": 50
+					}
+				]
+			},
+			{
+				"title": "Shock to the System",
+				"date": "2012-05-09",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/10/4fabd29d6dcab.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "228",
+				"comiclist": [
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 11
+					},
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 12
+					},
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 13
+					},
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 14
+					}
+				]
+			},
+			{
+				"title": "New World Orders",
+				"date": "2012-07-25",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/5168565e9afb5.jpg",
+				"essential": true,
+				"phaseid": "012",
+				"sortid": "229",
+				"comiclist": [
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 15
+					},
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 16
+					},
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 17
+					},
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 18
+					},
+					{
+						"collection": "Captain America",
+						"vol": 6,
+						"num": 19
+					}
+				]
+			},
+			{
+				"title": "Captain America \u0026 Bucky",
+				"date": "2011-07-27",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4d9cb9217501c.jpg",
+				"phaseid": "012",
+				"sortid": "230",
+				"comiclist": [
+					{
+						"collection": "Captain America \u0026 Bucky",
+						"vol": 1,
+						"num": 620
+					},
+					{
+						"collection": "Captain America \u0026 Bucky",
+						"vol": 1,
+						"num": 621
+					},
+					{
+						"collection": "Captain America \u0026 Bucky",
+						"vol": 1,
+						"num": 622
+					},
+					{
+						"collection": "Captain America \u0026 Bucky",
+						"vol": 1,
+						"num": 623
+					},
+					{
+						"collection": "Captain America \u0026 Bucky",
+						"vol": 1,
+						"num": 624
+					},
+					{
+						"collection": "Captain America \u0026 Bucky",
+						"vol": 1,
+						"num": 625
+					},
+					{
+						"collection": "Captain America \u0026 Bucky",
+						"vol": 1,
+						"num": 626
+					},
+					{
+						"collection": "Captain America \u0026 Bucky",
+						"vol": 1,
+						"num": 627
+					},
+					{
+						"collection": "Captain America \u0026 Bucky",
+						"vol": 1,
+						"num": 628
+					}
+				]
+			},
+			{
+				"title": "Captain America \u0026 Hakweye",
+				"date": "2012-04-25",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/56cb216047a45.jpg",
+				"phaseid": "012",
+				"sortid": "231",
+				"comiclist": [
+					{
+						"collection": "Captain America \u0026 Hakweye",
+						"vol": 1,
+						"num": 629
+					},
+					{
+						"collection": "Captain America \u0026 Hakweye",
+						"vol": 1,
+						"num": 630
+					},
+					{
+						"collection": "Captain America \u0026 Hakweye",
+						"vol": 1,
+						"num": 631
+					},
+					{
+						"collection": "Captain America \u0026 Hakweye",
+						"vol": 1,
+						"num": 632
+					}
+				]
+			},
+			{
+				"title": "Captain America \u0026 Iron Man",
+				"date": "2012-06-27",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/51438a5049331.jpg",
+				"phaseid": "012",
+				"sortid": "232",
+				"comiclist": [
+					{
+						"collection": "Captain America \u0026 Iron Man",
+						"vol": 1,
+						"num": 633
+					},
+					{
+						"collection": "Captain America \u0026 Iron Man",
+						"vol": 1,
+						"num": 634
+					},
+					{
+						"collection": "Captain America \u0026 Iron Man",
+						"vol": 1,
+						"num": 635
+					}
+				]
+			},
+			{
+				"title": "Captain America \u0026 Namor",
+				"date": "2012-08-22",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5717d613395bd.jpg",
+				"phaseid": "012",
+				"sortid": "233",
+				"comiclist": [
+					{
+						"collection": "Captain America \u0026 Namor",
+						"vol": 1,
+						"num": 635.1
+					}
+				]
+			},
+			{
+				"title": "Captain America \u0026 Black Widow",
+				"date": "2012-09-12",
+				"characters": [
+					{
+						"id": "023",
+						"name": "Steve Rogers"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/51438b7bde08e.jpg",
+				"phaseid": "012",
+				"sortid": "234",
+				"comiclist": [
+					{
+						"collection": "Captain America \u0026 Black Widow",
+						"vol": 1,
+						"num": 636
+					},
+					{
+						"collection": "Captain America \u0026 Black Widow",
+						"vol": 1,
+						"num": 637
+					},
+					{
+						"collection": "Captain America \u0026 Black Widow",
+						"vol": 1,
+						"num": 638
+					},
+					{
+						"collection": "Captain America \u0026 Black Widow",
+						"vol": 1,
+						"num": 639
+					},
+					{
+						"collection": "Captain America \u0026 Black Widow",
+						"vol": 1,
+						"num": 640
+					}
+				]
+			},
+			{
+				"title": "The Longest Winter",
+				"date": "2012-02-01",
+				"characters": [
+					{
+						"id": "118",
+						"name": "Bucky Barnes"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/4f26f05e79cff.jpg",
+				"phaseid": "012",
+				"sortid": "235",
+				"comiclist": [
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 1
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 2
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 3
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 4
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 5
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 6
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 7
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 8
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 9
+					}
+				]
+			},
+			{
+				"title": "Black Widow Hunt",
+				"date": "2012-09-12",
+				"characters": [
+					{
+						"id": "118",
+						"name": "Bucky Barnes"
+					}
+				],
+				"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/503cd3a5494c3.jpg",
+				"phaseid": "012",
+				"sortid": "236",
+				"comiclist": [
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 10
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 11
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 12
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 13
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 14
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 15
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 16
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 17
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 18
+					},
+					{
+						"collection": "Winter Soldier",
+						"vol": 1,
+						"num": 19
 					}
 				]
 			}

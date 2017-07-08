@@ -20681,7 +20681,7 @@
 	{
 		"id": "38080",
 		"collection": "New Mutants",
-		"title": "Regenesis New Mutants",
+		"title": "A Date with the Devil",
 		"vol": 3,
 		"num": 33,
 		"date": "2011-11-02",
@@ -20720,7 +20720,7 @@
 	{
 		"id": "38079",
 		"collection": "New Mutants",
-		"title": "Regenesis New Mutants",
+		"title": "A Date with the Devil",
 		"vol": 3,
 		"num": 34,
 		"date": "2011-11-16",
@@ -20759,7 +20759,7 @@
 	{
 		"id": "40721",
 		"collection": "New Mutants",
-		"title": "Regenesis New Mutants",
+		"title": "A Date with the Devil",
 		"vol": 3,
 		"num": 35,
 		"date": "2011-12-21",
@@ -20798,7 +20798,7 @@
 	{
 		"id": "40717",
 		"collection": "New Mutants",
-		"title": "Regenesis New Mutants",
+		"title": "A Date with the Devil",
 		"vol": 3,
 		"num": 36,
 		"date": "2012-01-18",
@@ -24926,5 +24926,3352 @@
 		"phaseid": "012",
 		"phasename": "Fear Itself",
 		"sortid": "220"
+	},
+	{
+		"id": "38589",
+		"collection": "Venom",
+		"title": "Road Trip",
+		"vol": 2,
+		"num": 9,
+		"date": "2011-11-16",
+		"characters": [
+			{
+				"id": "184",
+				"name": "Flash Thompson"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "334",
+				"name": "Stefano Caselli"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/56b8bb5b6efb9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "221"
+	},
+	{
+		"id": "38588",
+		"collection": "Venom",
+		"title": "Road Trip",
+		"vol": 2,
+		"num": 10,
+		"date": "2011-12-07",
+		"characters": [
+			{
+				"id": "184",
+				"name": "Flash Thompson"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "203",
+				"name": "Lan Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/56b8d8139d92a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "221"
+	},
+	{
+		"id": "38591",
+		"collection": "Venom",
+		"title": "Road Trip",
+		"vol": 2,
+		"num": 11,
+		"date": "2011-12-21",
+		"characters": [
+			{
+				"id": "184",
+				"name": "Flash Thompson"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "203",
+				"name": "Lan Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/56b8fe707a48a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "221"
+	},
+	{
+		"id": "38598",
+		"collection": "Venom",
+		"title": "Road Trip",
+		"vol": 2,
+		"num": 12,
+		"date": "2012-01-18",
+		"characters": [
+			{
+				"id": "184",
+				"name": "Flash Thompson"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "203",
+				"name": "Lan Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/56bb6983f0e52.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "221"
+	},
+	{
+		"id": "40639",
+		"collection": "Venom",
+		"title": "Circle of Four",
+		"vol": 2,
+		"num": 13,
+		"date": "2012-02-01",
+		"characters": [
+			{
+				"id": "184",
+				"name": "Flash Thompson"
+			},
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "105",
+				"name": "X-23"
+			},
+			{
+				"id": "129",
+				"name": "Ghost Rider"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "404",
+				"name": "Tony Moore"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4f26edfa0ac75.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "222"
+	},
+	{
+		"id": "42171",
+		"collection": "Venom",
+		"title": "Circle of Four",
+		"vol": 2,
+		"num": 13.1,
+		"date": "2012-02-08",
+		"characters": [
+			{
+				"id": "184",
+				"name": "Flash Thompson"
+			},
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "105",
+				"name": "X-23"
+			},
+			{
+				"id": "129",
+				"name": "Ghost Rider"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "661",
+				"name": "Lee Garbett"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/56bb8fe572213.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "222"
+	},
+	{
+		"id": "42170",
+		"collection": "Venom",
+		"title": "Circle of Four",
+		"vol": 2,
+		"num": 13.2,
+		"date": "2012-02-15",
+		"characters": [
+			{
+				"id": "184",
+				"name": "Flash Thompson"
+			},
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "105",
+				"name": "X-23"
+			},
+			{
+				"id": "129",
+				"name": "Ghost Rider"
+			}
+		],
+		"creators": [
+			{
+				"id": "589",
+				"name": "Rob Williams"
+			},
+			{
+				"id": "505",
+				"name": "Sana Takeda"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/56bb9a4942fc1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "222"
+	},
+	{
+		"id": "42662",
+		"collection": "Venom",
+		"title": "Circle of Four",
+		"vol": 2,
+		"num": 13.3,
+		"date": "2012-02-22",
+		"characters": [
+			{
+				"id": "184",
+				"name": "Flash Thompson"
+			},
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "105",
+				"name": "X-23"
+			},
+			{
+				"id": "129",
+				"name": "Ghost Rider"
+			}
+		],
+		"creators": [
+			{
+				"id": "305",
+				"name": "Jeff Parker"
+			},
+			{
+				"id": "682",
+				"name": "Julian Tedesco"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/50b4fcbc2f2f9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "222"
+	},
+	{
+		"id": "42663",
+		"collection": "Venom",
+		"title": "Circle of Four",
+		"vol": 2,
+		"num": 13.4,
+		"date": "2012-02-29",
+		"characters": [
+			{
+				"id": "184",
+				"name": "Flash Thompson"
+			},
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "105",
+				"name": "X-23"
+			},
+			{
+				"id": "129",
+				"name": "Ghost Rider"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "203",
+				"name": "Lan Medina"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/51f92ff55af66.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "222"
+	},
+	{
+		"id": "40644",
+		"collection": "Venom",
+		"title": "Circle of Four",
+		"vol": 2,
+		"num": 14,
+		"date": "2012-03-07",
+		"characters": [
+			{
+				"id": "184",
+				"name": "Flash Thompson"
+			},
+			{
+				"id": "158",
+				"name": "Red Hulk"
+			},
+			{
+				"id": "105",
+				"name": "X-23"
+			},
+			{
+				"id": "129",
+				"name": "Ghost Rider"
+			}
+		],
+		"creators": [
+			{
+				"id": "514",
+				"name": "Rick Remender"
+			},
+			{
+				"id": "404",
+				"name": "Tony Moore"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/56bca40a8d362.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "222"
+	},
+	{
+		"id": "40726",
+		"collection": "New Mutants",
+		"title": "De-Animator",
+		"vol": 3,
+		"num": 37,
+		"date": "2012-02-08",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "512",
+				"name": "David Lopez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/5155d47c455b2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "223"
+	},
+	{
+		"id": "40728",
+		"collection": "New Mutants",
+		"title": "De-Animator",
+		"vol": 3,
+		"num": 38,
+		"date": "2012-02-22",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "360",
+				"name": "Leandro Fernandez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/5155d4897f987.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "223"
+	},
+	{
+		"id": "40725",
+		"collection": "New Mutants",
+		"title": "De-Animator",
+		"vol": 3,
+		"num": 39,
+		"date": "2012-03-21",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "360",
+				"name": "Leandro Fernandez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/56bcbf436a7d5.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "223"
+	},
+	{
+		"id": "40716",
+		"collection": "New Mutants",
+		"title": "De-Animator",
+		"vol": 3,
+		"num": 40,
+		"date": "2012-04-04",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "360",
+				"name": "Leandro Fernandez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/5155d4a18bfcb.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "223"
+	},
+	{
+		"id": "40724",
+		"collection": "New Mutants",
+		"title": "De-Animator",
+		"vol": 3,
+		"num": 41,
+		"date": "2012-04-18",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "512",
+				"name": "David Lopez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/56cb187b11fa7.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "223"
+	},
+	{
+		"id": "42181",
+		"collection": "Mighty Thor",
+		"title": "The Seduction of Donald Blake",
+		"vol": 1,
+		"num": 12.1,
+		"date": "2012-04-11",
+		"characters": [
+			{
+				"id": "036",
+				"name": "Thor"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
+			},
+			{
+				"id": "056",
+				"name": "Sif"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "148",
+				"name": "Barry Kitson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4f85c9f3d14b0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "224"
+	},
+	{
+		"id": "40824",
+		"collection": "Mighty Thor",
+		"title": "The Seduction of Donald Blake",
+		"vol": 1,
+		"num": 13,
+		"date": "2012-04-25",
+		"characters": [
+			{
+				"id": "036",
+				"name": "Thor"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "601",
+				"name": "Pepe Larraz"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/56cb22ae01259.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "224"
+	},
+	{
+		"id": "40816",
+		"collection": "Mighty Thor",
+		"title": "The Seduction of Donald Blake",
+		"vol": 1,
+		"num": 14,
+		"date": "2012-05-09",
+		"characters": [
+			{
+				"id": "036",
+				"name": "Thor"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "601",
+				"name": "Pepe Larraz"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/53516f0d5a571.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "224"
+	},
+	{
+		"id": "40818",
+		"collection": "Mighty Thor",
+		"title": "The Seduction of Donald Blake",
+		"vol": 1,
+		"num": 15,
+		"date": "2012-06-13",
+		"characters": [
+			{
+				"id": "036",
+				"name": "Thor"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "601",
+				"name": "Pepe Larraz"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4fd0fa3923539.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "224"
+	},
+	{
+		"id": "40828",
+		"collection": "Mighty Thor",
+		"title": "The Seduction of Donald Blake",
+		"vol": 1,
+		"num": 16,
+		"date": "2012-06-27",
+		"characters": [
+			{
+				"id": "036",
+				"name": "Thor"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "601",
+				"name": "Pepe Larraz"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/4fd9fb2272668.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "224"
+	},
+	{
+		"id": "40826",
+		"collection": "Mighty Thor",
+		"title": "The Seduction of Donald Blake",
+		"vol": 1,
+		"num": 17,
+		"date": "2012-07-25",
+		"characters": [
+			{
+				"id": "036",
+				"name": "Thor"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "601",
+				"name": "Pepe Larraz"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/5005b65b50b9d.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "224"
+	},
+	{
+		"id": "42400",
+		"collection": "Exiled",
+		"title": "Exiled",
+		"vol": 1,
+		"num": 1,
+		"date": "2012-05-02",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "260",
+				"name": "Carmine Di Giandomenico"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4fa43d5063162.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "225"
+	},
+	{
+		"id": "40566",
+		"collection": "Journey into Mystery",
+		"title": "Exiled",
+		"vol": 1,
+		"num": 637,
+		"date": "2012-05-09",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "260",
+				"name": "Carmine Di Giandomenico"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4fabe4c45d428.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "225"
+	},
+	{
+		"id": "40718",
+		"collection": "New Mutants",
+		"title": "Exiled",
+		"vol": 3,
+		"num": 42,
+		"date": "2012-05-16",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "260",
+				"name": "Carmine Di Giandomenico"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5155d5639ec2b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "225"
+	},
+	{
+		"id": "40552",
+		"collection": "Journey into Mystery",
+		"title": "Exiled",
+		"vol": 1,
+		"num": 638,
+		"date": "2012-05-23",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "260",
+				"name": "Carmine Di Giandomenico"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/51895519f40d7.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "225"
+	},
+	{
+		"id": "40720",
+		"collection": "New Mutants",
+		"title": "Exiled",
+		"vol": 3,
+		"num": 43,
+		"date": "2012-05-30",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "260",
+				"name": "Carmine Di Giandomenico"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/5155d56f0d951.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "225"
+	},
+	{
+		"id": "40553",
+		"collection": "Journey into Mystery",
+		"title": "Exiled",
+		"vol": 1,
+		"num": 639,
+		"date": "2012-06-06",
+		"characters": [
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "602",
+				"name": "Richard Elson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/10/5189551165d77.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "225"
+	},
+	{
+		"id": "40551",
+		"collection": "Journey into Mystery",
+		"title": "Exiled",
+		"vol": 1,
+		"num": 640,
+		"date": "2012-06-20",
+		"characters": [
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "602",
+				"name": "Richard Elson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/50/518955022723c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "225"
+	},
+	{
+		"id": "40550",
+		"collection": "Journey into Mystery",
+		"title": "Exiled",
+		"vol": 1,
+		"num": 641,
+		"date": "2012-07-18",
+		"characters": [
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "602",
+				"name": "Richard Elson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/518958142a903.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "225"
+	},
+	{
+		"id": "40817",
+		"collection": "Mighty Thor",
+		"title": "Everything Burns",
+		"vol": 1,
+		"num": 18,
+		"date": "2012-08-08",
+		"characters": [
+			{
+				"id": "036",
+				"name": "Thor"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "091",
+				"name": "Alan Davis"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/30/500f0014ddd51.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "226"
+	},
+	{
+		"id": "40556",
+		"collection": "Journey into Mystery",
+		"title": "Everything Burns",
+		"vol": 1,
+		"num": 642,
+		"date": "2012-08-29",
+		"characters": [
+			{
+				"id": "036",
+				"name": "Thor"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "260",
+				"name": "Carmine Di Giandomenico"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/5189566e8d3e0.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "226"
+	},
+	{
+		"id": "40823",
+		"collection": "Mighty Thor",
+		"title": "Everything Burns",
+		"vol": 1,
+		"num": 19,
+		"date": "2012-09-05",
+		"characters": [
+			{
+				"id": "036",
+				"name": "Thor"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "091",
+				"name": "Alan Davis"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5035109ed40f6.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "226"
+	},
+	{
+		"id": "40549",
+		"collection": "Journey into Mystery",
+		"title": "Everything Burns",
+		"vol": 1,
+		"num": 643,
+		"date": "2012-09-12",
+		"characters": [
+			{
+				"id": "036",
+				"name": "Thor"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "260",
+				"name": "Carmine Di Giandomenico"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/5189565c217d8.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "226"
+	},
+	{
+		"id": "40827",
+		"collection": "Mighty Thor",
+		"title": "Everything Burns",
+		"vol": 1,
+		"num": 20,
+		"date": "2012-09-19",
+		"characters": [
+			{
+				"id": "036",
+				"name": "Thor"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "091",
+				"name": "Alan Davis"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/504f9d9dc3623.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "226"
+	},
+	{
+		"id": "40555",
+		"collection": "Journey into Mystery",
+		"title": "Everything Burns",
+		"vol": 1,
+		"num": 644,
+		"date": "2012-09-26",
+		"characters": [
+			{
+				"id": "036",
+				"name": "Thor"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "260",
+				"name": "Carmine Di Giandomenico"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/5189564d68378.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "226"
+	},
+	{
+		"id": "40821",
+		"collection": "Mighty Thor",
+		"title": "Everything Burns",
+		"vol": 1,
+		"num": 21,
+		"date": "2012-10-17",
+		"characters": [
+			{
+				"id": "036",
+				"name": "Thor"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "091",
+				"name": "Alan Davis"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/506f49168a04f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "226"
+	},
+	{
+		"id": "40558",
+		"collection": "Journey into Mystery",
+		"title": "Everything Burns",
+		"vol": 1,
+		"num": 645,
+		"date": "2012-10-24",
+		"characters": [
+			{
+				"id": "036",
+				"name": "Thor"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "480",
+				"name": "Kieron Gillen"
+			},
+			{
+				"id": "683",
+				"name": "Stephanie Hans"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/00/518956455414f.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "226"
+	},
+	{
+		"id": "40814",
+		"collection": "Mighty Thor",
+		"title": "Everything Burns",
+		"vol": 1,
+		"num": 22,
+		"date": "2012-10-31",
+		"characters": [
+			{
+				"id": "036",
+				"name": "Thor"
+			},
+			{
+				"id": "055",
+				"name": "Loki"
+			}
+		],
+		"creators": [
+			{
+				"id": "340",
+				"name": "Matt Fraction"
+			},
+			{
+				"id": "148",
+				"name": "Barry Kitson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/507dc6e799b82.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "226"
+	},
+	{
+		"id": "40723",
+		"collection": "New Mutants",
+		"title": "Fight the Future",
+		"vol": 3,
+		"num": 44,
+		"date": "2012-06-20",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "360",
+				"name": "Leandro Fernandez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5155d57cc5415.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "227"
+	},
+	{
+		"id": "40719",
+		"collection": "New Mutants",
+		"title": "Fight the Future",
+		"vol": 3,
+		"num": 45,
+		"date": "2012-07-11",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "360",
+				"name": "Leandro Fernandez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/5155d58b31a23.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "227"
+	},
+	{
+		"id": "40715",
+		"collection": "New Mutants",
+		"title": "Fight the Future",
+		"vol": 3,
+		"num": 46,
+		"date": "2012-07-18",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "360",
+				"name": "Leandro Fernandez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/5155fbc5aa008.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "227"
+	},
+	{
+		"id": "40722",
+		"collection": "New Mutants",
+		"title": "Fight the Future",
+		"vol": 3,
+		"num": 47,
+		"date": "2012-08-15",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "360",
+				"name": "Leandro Fernandez"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5155fcf350e87.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "227"
+	},
+	{
+		"id": "40727",
+		"collection": "New Mutants",
+		"title": "Fight the Future",
+		"vol": 3,
+		"num": 48,
+		"date": "2012-08-29",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "578",
+				"name": "Felix Ruiz"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/5155d6380d922.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "227"
+	},
+	{
+		"id": "40731",
+		"collection": "New Mutants",
+		"title": "Fight the Future",
+		"vol": 3,
+		"num": 49,
+		"date": "2012-09-19",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "578",
+				"name": "Felix Ruiz"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/5155d647878d2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "227"
+	},
+	{
+		"id": "40713",
+		"collection": "New Mutants",
+		"title": "Fight the Future",
+		"vol": 3,
+		"num": 50,
+		"date": "2012-10-31",
+		"characters": [
+			{
+				"id": "176",
+				"name": "New Mutants"
+			},
+			{
+				"id": "068",
+				"name": "X-Men"
+			}
+		],
+		"creators": [
+			{
+				"id": "311",
+				"name": "Dan Abnett"
+			},
+			{
+				"id": "312",
+				"name": "Andy Lanning"
+			},
+			{
+				"id": "578",
+				"name": "Felix Ruiz"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5155d656f3ff2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "227"
+	},
+	{
+		"id": "38393",
+		"collection": "Captain America",
+		"title": "Shock to the System",
+		"vol": 6,
+		"num": 11,
+		"date": "2012-05-09",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "028",
+				"name": "Patrick Zircher"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/10/4fabd29d6dcab.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "228"
+	},
+	{
+		"id": "38392",
+		"collection": "Captain America",
+		"title": "Shock to the System",
+		"vol": 6,
+		"num": 12,
+		"date": "2012-06-13",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "028",
+				"name": "Patrick Zircher"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/50/516855a235056.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "228"
+	},
+	{
+		"id": "40394",
+		"collection": "Captain America",
+		"title": "Shock to the System",
+		"vol": 6,
+		"num": 13,
+		"date": "2012-06-30",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "028",
+				"name": "Patrick Zircher"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/51685647f338c.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "228"
+	},
+	{
+		"id": "40397",
+		"collection": "Captain America",
+		"title": "Shock to the System",
+		"vol": 6,
+		"num": 14,
+		"date": "2012-07-11",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "028",
+				"name": "Patrick Zircher"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/51685650aa979.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "228"
+	},
+	{
+		"id": "40395",
+		"collection": "Captain America",
+		"title": "New World Orders",
+		"vol": 6,
+		"num": 15,
+		"date": "2012-07-25",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "025",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "229",
+				"name": "Scot Eaton"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/5168565e9afb5.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "229"
+	},
+	{
+		"id": "40396",
+		"collection": "Captain America",
+		"title": "New World Orders",
+		"vol": 6,
+		"num": 16,
+		"date": "2012-08-08",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "025",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "229",
+				"name": "Scot Eaton"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/51685663dfd5b.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "229"
+	},
+	{
+		"id": "40392",
+		"collection": "Captain America",
+		"title": "New World Orders",
+		"vol": 6,
+		"num": 17,
+		"date": "2012-09-12",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "025",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "229",
+				"name": "Scot Eaton"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/516857593e569.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "229"
+	},
+	{
+		"id": "40391",
+		"collection": "Captain America",
+		"title": "New World Orders",
+		"vol": 6,
+		"num": 18,
+		"date": "2012-10-10",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "025",
+				"name": "Sam Wilson"
+			},
+			{
+				"id": "099",
+				"name": "Sharon Carter"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "229",
+				"name": "Scot Eaton"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/516857a41de34.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "229"
+	},
+	{
+		"id": "40390",
+		"collection": "Captain America",
+		"title": "New World Orders",
+		"vol": 6,
+		"num": 19,
+		"date": "2012-10-24",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "090",
+				"name": "Steve Epting"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/516857b8ee467.jpg",
+		"universe": "Earth-616",
+		"essential": true,
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "229"
+	},
+	{
+		"id": "35789",
+		"collection": "Captain America \u0026 Bucky",
+		"title": "Captain America \u0026 Bucky",
+		"vol": 1,
+		"num": 620,
+		"date": "2011-07-27",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "423",
+				"name": "Chris Samnee"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4d9cb9217501c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "230"
+	},
+	{
+		"id": "35788",
+		"collection": "Captain America \u0026 Bucky",
+		"title": "Captain America \u0026 Bucky",
+		"vol": 1,
+		"num": 621,
+		"date": "2011-08-24",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "423",
+				"name": "Chris Samnee"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/60/4dcd90032b1bc.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "230"
+	},
+	{
+		"id": "36117",
+		"collection": "Captain America \u0026 Bucky",
+		"title": "Captain America \u0026 Bucky",
+		"vol": 1,
+		"num": 622,
+		"date": "2011-09-28",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "423",
+				"name": "Chris Samnee"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4e81e3e4c434c.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "230"
+	},
+	{
+		"id": "35793",
+		"collection": "Captain America \u0026 Bucky",
+		"title": "Captain America \u0026 Bucky",
+		"vol": 1,
+		"num": 623,
+		"date": "2011-10-26",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "423",
+				"name": "Chris Samnee"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/56b37801c3682.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "230"
+	},
+	{
+		"id": "35791",
+		"collection": "Captain America \u0026 Bucky",
+		"title": "Captain America \u0026 Bucky",
+		"vol": 1,
+		"num": 624,
+		"date": "2011-11-23",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "423",
+				"name": "Chris Samnee"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/56b8c0df47452.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "230"
+	},
+	{
+		"id": "35786",
+		"collection": "Captain America \u0026 Bucky",
+		"title": "Captain America \u0026 Bucky",
+		"vol": 1,
+		"num": 625,
+		"date": "2011-12-28",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			}
+		],
+		"creators": [
+			{
+				"id": "418",
+				"name": "James Asmus"
+			},
+			{
+				"id": "637",
+				"name": "Francesco Francavilla"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/56b904eaa65c2.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "230"
+	},
+	{
+		"id": "40379",
+		"collection": "Captain America \u0026 Bucky",
+		"title": "Captain America \u0026 Bucky",
+		"vol": 1,
+		"num": 626,
+		"date": "2012-01-25",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			}
+		],
+		"creators": [
+			{
+				"id": "418",
+				"name": "James Asmus"
+			},
+			{
+				"id": "637",
+				"name": "Francesco Francavilla"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/56bb6c3189a1d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "230"
+	},
+	{
+		"id": "40539",
+		"collection": "Captain America \u0026 Bucky",
+		"title": "Captain America \u0026 Bucky",
+		"vol": 1,
+		"num": 627,
+		"date": "2012-02-22",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			}
+		],
+		"creators": [
+			{
+				"id": "418",
+				"name": "James Asmus"
+			},
+			{
+				"id": "637",
+				"name": "Francesco Francavilla"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/56bba0903cae4.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "230"
+	},
+	{
+		"id": "40533",
+		"collection": "Captain America \u0026 Bucky",
+		"title": "Captain America \u0026 Bucky",
+		"vol": 1,
+		"num": 628,
+		"date": "2012-03-28",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			}
+		],
+		"creators": [
+			{
+				"id": "418",
+				"name": "James Asmus"
+			},
+			{
+				"id": "637",
+				"name": "Francesco Francavilla"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/e/30/4f74895074930.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "230"
+	},
+	{
+		"id": "40534",
+		"collection": "Captain America \u0026 Hakweye",
+		"title": "Captain America \u0026 Hakweye",
+		"vol": 1,
+		"num": 629,
+		"date": "2012-04-25",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "027",
+				"name": "Hawkeye"
+			}
+		],
+		"creators": [
+			{
+				"id": "427",
+				"name": "Cullen Bunn"
+			},
+			{
+				"id": "566",
+				"name": "Alessandro Vitti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/56cb216047a45.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "231"
+	},
+	{
+		"id": "40529",
+		"collection": "Captain America \u0026 Hakweye",
+		"title": "Captain America \u0026 Hakweye",
+		"vol": 1,
+		"num": 630,
+		"date": "2012-05-09",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "027",
+				"name": "Hawkeye"
+			}
+		],
+		"creators": [
+			{
+				"id": "427",
+				"name": "Cullen Bunn"
+			},
+			{
+				"id": "566",
+				"name": "Alessandro Vitti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/51438f99aa1cd.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "231"
+	},
+	{
+		"id": "40532",
+		"collection": "Captain America \u0026 Hakweye",
+		"title": "Captain America \u0026 Hakweye",
+		"vol": 1,
+		"num": 631,
+		"date": "2012-05-23",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "027",
+				"name": "Hawkeye"
+			}
+		],
+		"creators": [
+			{
+				"id": "427",
+				"name": "Cullen Bunn"
+			},
+			{
+				"id": "566",
+				"name": "Alessandro Vitti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5143896aaf41b.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "231"
+	},
+	{
+		"id": "40531",
+		"collection": "Captain America \u0026 Hakweye",
+		"title": "Captain America \u0026 Hakweye",
+		"vol": 1,
+		"num": 632,
+		"date": "2012-06-13",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "027",
+				"name": "Hawkeye"
+			}
+		],
+		"creators": [
+			{
+				"id": "427",
+				"name": "Cullen Bunn"
+			},
+			{
+				"id": "566",
+				"name": "Alessandro Vitti"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/514389bf29ac2.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "231"
+	},
+	{
+		"id": "40530",
+		"collection": "Captain America \u0026 Iron Man",
+		"title": "Captain America \u0026 Iron Man",
+		"vol": 1,
+		"num": 633,
+		"date": "2012-06-27",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "029",
+				"name": "Iron Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "427",
+				"name": "Cullen Bunn"
+			},
+			{
+				"id": "148",
+				"name": "Barry Kitson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/51438a5049331.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "232"
+	},
+	{
+		"id": "40528",
+		"collection": "Captain America \u0026 Iron Man",
+		"title": "Captain America \u0026 Iron Man",
+		"vol": 1,
+		"num": 634,
+		"date": "2012-07-25",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "029",
+				"name": "Iron Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "427",
+				"name": "Cullen Bunn"
+			},
+			{
+				"id": "148",
+				"name": "Barry Kitson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/51438aaf1fa0e.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "232"
+	},
+	{
+		"id": "40538",
+		"collection": "Captain America \u0026 Iron Man",
+		"title": "Captain America \u0026 Iron Man",
+		"vol": 1,
+		"num": 635,
+		"date": "2012-08-08",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "029",
+				"name": "Iron Man"
+			}
+		],
+		"creators": [
+			{
+				"id": "427",
+				"name": "Cullen Bunn"
+			},
+			{
+				"id": "148",
+				"name": "Barry Kitson"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/51438b158e08b.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "232"
+	},
+	{
+		"id": "42685",
+		"collection": "Captain America \u0026 Namor",
+		"title": "Captain America \u0026 Namor",
+		"vol": 1,
+		"num": 635.1,
+		"date": "2012-08-22",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "031",
+				"name": "Namor"
+			}
+		],
+		"creators": [
+			{
+				"id": "427",
+				"name": "Cullen Bunn"
+			},
+			{
+				"id": "065",
+				"name": "Will Conrad"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5717d613395bd.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "233"
+	},
+	{
+		"id": "40537",
+		"collection": "Captain America \u0026 Black Widow",
+		"title": "Captain America \u0026 Black Widow",
+		"vol": 1,
+		"num": 636,
+		"date": "2012-09-12",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			}
+		],
+		"creators": [
+			{
+				"id": "427",
+				"name": "Cullen Bunn"
+			},
+			{
+				"id": "637",
+				"name": "Francesco Francavilla"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/51438b7bde08e.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "234"
+	},
+	{
+		"id": "40536",
+		"collection": "Captain America \u0026 Black Widow",
+		"title": "Captain America \u0026 Black Widow",
+		"vol": 1,
+		"num": 637,
+		"date": "2012-09-26",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			}
+		],
+		"creators": [
+			{
+				"id": "427",
+				"name": "Cullen Bunn"
+			},
+			{
+				"id": "637",
+				"name": "Francesco Francavilla"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/51438bf69af93.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "234"
+	},
+	{
+		"id": "40535",
+		"collection": "Captain America \u0026 Black Widow",
+		"title": "Captain America \u0026 Black Widow",
+		"vol": 1,
+		"num": 638,
+		"date": "2012-10-24",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			}
+		],
+		"creators": [
+			{
+				"id": "427",
+				"name": "Cullen Bunn"
+			},
+			{
+				"id": "637",
+				"name": "Francesco Francavilla"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/51438d03a7afa.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "234"
+	},
+	{
+		"id": "43106",
+		"collection": "Captain America \u0026 Black Widow",
+		"title": "Captain America \u0026 Black Widow",
+		"vol": 1,
+		"num": 639,
+		"date": "2012-11-28",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			}
+		],
+		"creators": [
+			{
+				"id": "427",
+				"name": "Cullen Bunn"
+			},
+			{
+				"id": "637",
+				"name": "Francesco Francavilla"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/51438cb55a5c9.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "234"
+	},
+	{
+		"id": "43107",
+		"collection": "Captain America \u0026 Black Widow",
+		"title": "Captain America \u0026 Black Widow",
+		"vol": 1,
+		"num": 640,
+		"date": "2012-12-19",
+		"characters": [
+			{
+				"id": "023",
+				"name": "Steve Rogers"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			}
+		],
+		"creators": [
+			{
+				"id": "427",
+				"name": "Cullen Bunn"
+			},
+			{
+				"id": "637",
+				"name": "Francesco Francavilla"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/51438d7d40181.jpg",
+		"universe": "Earth-616",
+		"comments": [
+			"Missing"
+		],
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "234"
+	},
+	{
+		"id": "38821",
+		"collection": "Winter Soldier",
+		"title": "The Longest Winter",
+		"vol": 1,
+		"num": 1,
+		"date": "2012-02-01",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			},
+			{
+				"id": "119",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "017",
+				"name": "Doctor Doom"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "359",
+				"name": "Butch Guice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/4f26f05e79cff.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "235"
+	},
+	{
+		"id": "38822",
+		"collection": "Winter Soldier",
+		"title": "The Longest Winter",
+		"vol": 1,
+		"num": 2,
+		"date": "2012-02-15",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			},
+			{
+				"id": "119",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "017",
+				"name": "Doctor Doom"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "359",
+				"name": "Butch Guice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/56bb9b8c01dce.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "235"
+	},
+	{
+		"id": "38814",
+		"collection": "Winter Soldier",
+		"title": "The Longest Winter",
+		"vol": 1,
+		"num": 3,
+		"date": "2012-03-07",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			},
+			{
+				"id": "119",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "017",
+				"name": "Doctor Doom"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "359",
+				"name": "Butch Guice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/56bca746c55a8.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "235"
+	},
+	{
+		"id": "38816",
+		"collection": "Winter Soldier",
+		"title": "The Longest Winter",
+		"vol": 1,
+		"num": 4,
+		"date": "2012-04-11",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			},
+			{
+				"id": "119",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "017",
+				"name": "Doctor Doom"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "359",
+				"name": "Butch Guice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4f85a98eabfa1.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "235"
+	},
+	{
+		"id": "38815",
+		"collection": "Winter Soldier",
+		"title": "The Longest Winter",
+		"vol": 1,
+		"num": 5,
+		"date": "2012-05-16",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			},
+			{
+				"id": "119",
+				"name": "Nick Fury"
+			},
+			{
+				"id": "017",
+				"name": "Doctor Doom"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "359",
+				"name": "Butch Guice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/5720ec1da457b.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "235"
+	},
+	{
+		"id": "38812",
+		"collection": "Winter Soldier",
+		"title": "The Longest Winter",
+		"vol": 1,
+		"num": 6,
+		"date": "2012-06-06",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "246",
+				"name": "Michael Lark"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/4fccd7b4bdb95.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "235"
+	},
+	{
+		"id": "38813",
+		"collection": "Winter Soldier",
+		"title": "The Longest Winter",
+		"vol": 1,
+		"num": 7,
+		"date": "2012-06-20",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "246",
+				"name": "Michael Lark"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/4fd65676d6fe0.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "235"
+	},
+	{
+		"id": "38819",
+		"collection": "Winter Soldier",
+		"title": "The Longest Winter",
+		"vol": 1,
+		"num": 8,
+		"date": "2012-07-25",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "246",
+				"name": "Michael Lark"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/500595484f3eb.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "235"
+	},
+	{
+		"id": "38820",
+		"collection": "Winter Soldier",
+		"title": "The Longest Winter",
+		"vol": 1,
+		"num": 9,
+		"date": "2012-08-29",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "246",
+				"name": "Michael Lark"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5029571d67536.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "235"
+	},
+	{
+		"id": "38818",
+		"collection": "Winter Soldier",
+		"title": "Black Widow Hunt",
+		"vol": 1,
+		"num": 10,
+		"date": "2012-09-12",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "359",
+				"name": "Butch Guice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/503cd3a5494c3.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "236"
+	},
+	{
+		"id": "38817",
+		"collection": "Winter Soldier",
+		"title": "Black Widow Hunt",
+		"vol": 1,
+		"num": 11,
+		"date": "2012-09-26",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "359",
+				"name": "Butch Guice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/50520523c5b45.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "236"
+	},
+	{
+		"id": "38811",
+		"collection": "Winter Soldier",
+		"title": "Black Widow Hunt",
+		"vol": 1,
+		"num": 12,
+		"date": "2012-10-31",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "359",
+				"name": "Butch Guice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/52ab9520a8072.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "236"
+	},
+	{
+		"id": "44392",
+		"collection": "Winter Soldier",
+		"title": "Black Widow Hunt",
+		"vol": 1,
+		"num": 13,
+		"date": "2012-12-12",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "359",
+				"name": "Butch Guice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5720fab2375c9.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "236"
+	},
+	{
+		"id": "46701",
+		"collection": "Winter Soldier",
+		"title": "Black Widow Hunt",
+		"vol": 1,
+		"num": 14,
+		"date": "2013-01-23",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			},
+			{
+				"id": "007",
+				"name": "Black Widow"
+			}
+		],
+		"creators": [
+			{
+				"id": "244",
+				"name": "Ed Brubaker"
+			},
+			{
+				"id": "359",
+				"name": "Butch Guice"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/572100be2e82d.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "236"
+	},
+	{
+		"id": "46702",
+		"collection": "Winter Soldier",
+		"title": "Black Widow Hunt",
+		"vol": 1,
+		"num": 15,
+		"date": "2013-02-06",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			}
+		],
+		"creators": [
+			{
+				"id": "684",
+				"name": "Jason Latour"
+			},
+			{
+				"id": "685",
+				"name": "Nic Klein"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/510ae7f706e8f.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "236"
+	},
+	{
+		"id": "46704",
+		"collection": "Winter Soldier",
+		"title": "Black Widow Hunt",
+		"vol": 1,
+		"num": 16,
+		"date": "2013-03-06",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			}
+		],
+		"creators": [
+			{
+				"id": "684",
+				"name": "Jason Latour"
+			},
+			{
+				"id": "685",
+				"name": "Nic Klein"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/511c648ee839a.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "236"
+	},
+	{
+		"id": "46706",
+		"collection": "Winter Soldier",
+		"title": "Black Widow Hunt",
+		"vol": 1,
+		"num": 17,
+		"date": "2013-04-03",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			}
+		],
+		"creators": [
+			{
+				"id": "684",
+				"name": "Jason Latour"
+			},
+			{
+				"id": "685",
+				"name": "Nic Klein"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/51422b9ca1d23.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "236"
+	},
+	{
+		"id": "46708",
+		"collection": "Winter Soldier",
+		"title": "Black Widow Hunt",
+		"vol": 1,
+		"num": 18,
+		"date": "2013-05-01",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			}
+		],
+		"creators": [
+			{
+				"id": "684",
+				"name": "Jason Latour"
+			},
+			{
+				"id": "685",
+				"name": "Nic Klein"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/516d6b4715847.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "236"
+	},
+	{
+		"id": "46710",
+		"collection": "Winter Soldier",
+		"title": "Black Widow Hunt",
+		"vol": 1,
+		"num": 19,
+		"date": "2013-06-05",
+		"characters": [
+			{
+				"id": "118",
+				"name": "Bucky Barnes"
+			}
+		],
+		"creators": [
+			{
+				"id": "684",
+				"name": "Jason Latour"
+			},
+			{
+				"id": "685",
+				"name": "Nic Klein"
+			}
+		],
+		"pic": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/519f8b1bb74fd.jpg",
+		"universe": "Earth-616",
+		"phaseid": "012",
+		"phasename": "Fear Itself",
+		"sortid": "236"
 	}
 ]
