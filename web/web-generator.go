@@ -153,7 +153,7 @@ func getFissuesPage(menu service.Menu, fissues *service.Fissues, activeTab int) 
 			name := fmt.Sprintf("%s #%v", k, v[0])
 			if len(v) > 1 {
 				for i := 1; i < len(v); i++ {
-					if v[i] != v[i-1]+1 {
+					if v[i] > v[i-1]+1 {
 						name = fmt.Sprintf("%s - #%v", name, v[i-1])
 						h6 := fmt.Sprintf(c["h6"], name)
 						comicList = fmt.Sprintf("%s%s", comicList, h6)
